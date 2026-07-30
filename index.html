@@ -200,35 +200,47 @@
   /* location map: globe, pins + route */
   .globe-sway {
     transform-origin: 300px 130px;
-    animation: globeSway 10s ease-in-out infinite;
+    animation: globeSway 7s ease-in-out infinite;
   }
   @keyframes globeSway {
     0%,
     100% {
-      transform: rotate(-1.5deg);
+      transform: rotate(-2.5deg) translateY(0);
     }
     50% {
-      transform: rotate(1.5deg);
+      transform: rotate(2.5deg) translateY(-5px);
+    }
+  }
+  .globe-land {
+    animation: landBreathe 5s ease-in-out infinite;
+  }
+  @keyframes landBreathe {
+    0%,
+    100% {
+      opacity: 0.24;
+    }
+    50% {
+      opacity: 0.36;
     }
   }
   .pin-pulse {
     transform-box: fill-box;
     transform-origin: center;
-    animation: pinPulse 2.4s ease-out infinite;
+    animation: pinPulse 2.1s ease-out infinite;
   }
   @keyframes pinPulse {
     0% {
       transform: scale(1);
-      opacity: 0.6;
+      opacity: 0.7;
     }
     100% {
-      transform: scale(3.75);
+      transform: scale(4.25);
       opacity: 0;
     }
   }
   .route-line {
     stroke-dasharray: 4 5;
-    animation: dashFlow 1.6s linear infinite;
+    animation: dashFlow 1.3s linear infinite;
   }
   @keyframes dashFlow {
     to {
@@ -291,17 +303,17 @@
 
   <!-- flat flag icons, reused via <use> -->
   <svg style="display: none" aria-hidden="true">
-    <symbol id="flag-us" viewBox="0 0 20 14">
-      <rect width="20" height="14" fill="#B22234" />
-      <rect y="2" width="20" height="2" fill="#fff" />
-      <rect y="6" width="20" height="2" fill="#fff" />
-      <rect y="10" width="20" height="2" fill="#fff" />
-      <rect width="9" height="8" fill="#3C3B6E" />
+    <symbol id="flag-us" viewBox="0 0 16 16">
+      <rect width="16" height="16" fill="#B22234" />
+      <rect y="2.28" width="16" height="2.28" fill="#fff" />
+      <rect y="6.86" width="16" height="2.28" fill="#fff" />
+      <rect y="11.43" width="16" height="2.28" fill="#fff" />
+      <rect width="7" height="9.14" fill="#3C3B6E" />
     </symbol>
-    <symbol id="flag-se" viewBox="0 0 20 14">
-      <rect width="20" height="14" fill="#006AA7" />
-      <rect x="6" width="3" height="14" fill="#FECC00" />
-      <rect y="5.5" width="20" height="3" fill="#FECC00" />
+    <symbol id="flag-se" viewBox="0 0 16 16">
+      <rect width="16" height="16" fill="#006AA7" />
+      <rect x="5" width="3" height="16" fill="#FECC00" />
+      <rect y="6.5" width="16" height="3" fill="#FECC00" />
     </symbol>
   </svg>
 
@@ -551,7 +563,7 @@
 
             <circle cx="300" cy="130" r="110" fill="currentColor" opacity="0.04" />
 
-            <g clip-path="url(#globeClip)" fill="currentColor" opacity="0.26">
+            <g class="globe-land" clip-path="url(#globeClip)" fill="currentColor" opacity="0.26">
               <!-- North America -->
               <path d="M165,110 C160,85 175,55 205,45 C225,38 250,42 265,58 C280,72 278,90 268,100 C285,108 292,128 282,148 C272,168 250,185 225,188 C200,190 178,175 168,155 C158,140 158,125 165,110 Z" />
               <!-- Greenland -->
@@ -587,14 +599,14 @@
         <div class="mt-8 grid sm:grid-cols-2 gap-6 max-w-xl mx-auto text-center">
           <div>
             <p class="flex items-center justify-center gap-2 font-display font-bold text-lg">
-              <svg class="w-[18px] h-[13px] rounded-[2px] ring-1 ring-line shrink-0" aria-hidden="true"><use href="#flag-us" /></svg>
+              <svg class="w-[15px] h-[15px] shrink-0" aria-hidden="true"><use href="#flag-us" /></svg>
               Seattle, WA
             </p>
             <p class="font-mono text-xs uppercase tracking-widest text-slate mt-1">47.6°N, 122.3°W &middot; PST (UTC−8)</p>
           </div>
           <div>
             <p class="flex items-center justify-center gap-2 font-display font-bold text-lg">
-              <svg class="w-[18px] h-[13px] rounded-[2px] ring-1 ring-line shrink-0" aria-hidden="true"><use href="#flag-se" /></svg>
+              <svg class="w-[15px] h-[15px] shrink-0" aria-hidden="true"><use href="#flag-se" /></svg>
               Stockholm, Sweden
             </p>
             <p class="font-mono text-xs uppercase tracking-widest text-slate mt-1">59.3°N, 18.1°E &middot; CET (UTC+1)</p>
@@ -625,11 +637,11 @@
       <!-- placeholder phone numbers — swap for the real ones -->
       <div class="reveal mt-5 flex flex-wrap items-center justify-center gap-x-6 gap-y-2 font-mono text-sm text-slate">
         <a href="tel:+12065550142" class="underline-link inline-flex items-center gap-2 hover:text-bone">
-          <svg class="w-[16px] h-[12px] rounded-[2px] ring-1 ring-line shrink-0" aria-hidden="true"><use href="#flag-us" /></svg>
+          <svg class="w-[14px] h-[14px] shrink-0" aria-hidden="true"><use href="#flag-us" /></svg>
           +1 (206) 555-0142
         </a>
         <a href="tel:+46701234567" class="underline-link inline-flex items-center gap-2 hover:text-bone">
-          <svg class="w-[16px] h-[12px] rounded-[2px] ring-1 ring-line shrink-0" aria-hidden="true"><use href="#flag-se" /></svg>
+          <svg class="w-[14px] h-[14px] shrink-0" aria-hidden="true"><use href="#flag-se" /></svg>
           +46 70 123 45 67
         </a>
       </div>
