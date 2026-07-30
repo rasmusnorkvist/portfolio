@@ -1,3 +1,8 @@
 node_modules/
 temporary screenshots/
 .DS_Store
+
+# Spotify credentials — never commit these (see .env.example)
+.env
+.env.*
+!.env.example

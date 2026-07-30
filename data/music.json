@@ -1,0 +1,140 @@
+{
+  "updatedAt": "2026-07-29T00:00:00.000Z",
+  "nowPlaying": null,
+  "recentlyPlayed": [
+    {
+      "name": "Night Drive",
+      "artists": ["Nova Feld"],
+      "album": "Interstate",
+      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Interstate",
+      "url": "https://open.spotify.com/",
+      "durationMs": 214000,
+      "playedAt": "2026-07-28T22:14:00.000Z"
+    },
+    {
+      "name": "Glass Room",
+      "artists": ["Wire & Bloom"],
+      "album": "Static Bloom",
+      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Static+Bloom",
+      "url": "https://open.spotify.com/",
+      "durationMs": 198000,
+      "playedAt": "2026-07-28T21:40:00.000Z"
+    },
+    {
+      "name": "Low Tide",
+      "artists": ["Marin Cole"],
+      "album": "Low Tide",
+      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Low+Tide",
+      "url": "https://open.spotify.com/",
+      "durationMs": 231000,
+      "playedAt": "2026-07-28T20:58:00.000Z"
+    },
+    {
+      "name": "Ceiling Fan",
+      "artists": ["Ceiling Fan Club"],
+      "album": "Rotations",
+      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Rotations",
+      "url": "https://open.spotify.com/",
+      "durationMs": 176000,
+      "playedAt": "2026-07-28T19:20:00.000Z"
+    },
+    {
+      "name": "Signal Path",
+      "artists": ["Nova Feld", "Marin Cole"],
+      "album": "Interstate",
+      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Interstate",
+      "url": "https://open.spotify.com/",
+      "durationMs": 205000,
+      "playedAt": "2026-07-28T18:05:00.000Z"
+    },
+    {
+      "name": "Ledger Lines",
+      "artists": ["Quiet Interest"],
+      "album": "Quiet Interest",
+      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Quiet+Interest",
+      "url": "https://open.spotify.com/",
+      "durationMs": 189000,
+      "playedAt": "2026-07-28T09:12:00.000Z"
+    }
+  ],
+  "topArtists": [
+    {
+      "name": "Nova Feld",
+      "imageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Nova+Feld",
+      "url": "https://open.spotify.com/",
+      "genres": ["synth pop", "dream pop"]
+    },
+    {
+      "name": "Wire & Bloom",
+      "imageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Wire+%26+Bloom",
+      "url": "https://open.spotify.com/",
+      "genres": ["indie electronic"]
+    },
+    {
+      "name": "Marin Cole",
+      "imageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Marin+Cole",
+      "url": "https://open.spotify.com/",
+      "genres": ["ambient", "downtempo"]
+    },
+    {
+      "name": "Quiet Interest",
+      "imageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Quiet+Interest",
+      "url": "https://open.spotify.com/",
+      "genres": ["lo-fi", "jazz hop"]
+    }
+  ],
+  "topTracks": [
+    {
+      "name": "Night Drive",
+      "artists": ["Nova Feld"],
+      "album": "Interstate",
+      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Interstate",
+      "url": "https://open.spotify.com/",
+      "durationMs": 214000
+    },
+    {
+      "name": "Glass Room",
+      "artists": ["Wire & Bloom"],
+      "album": "Static Bloom",
+      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Static+Bloom",
+      "url": "https://open.spotify.com/",
+      "durationMs": 198000
+    },
+    {
+      "name": "Ledger Lines",
+      "artists": ["Quiet Interest"],
+      "album": "Quiet Interest",
+      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Quiet+Interest",
+      "url": "https://open.spotify.com/",
+      "durationMs": 189000
+    },
+    {
+      "name": "Low Tide",
+      "artists": ["Marin Cole"],
+      "album": "Low Tide",
+      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Low+Tide",
+      "url": "https://open.spotify.com/",
+      "durationMs": 231000
+    }
+  ],
+  "featuredPlaylists": [
+    {
+      "id": "placeholder1",
+      "name": "Deep Focus Coding",
+      "description": "Low-key tracks for heads-down work.",
+      "imageUrl": "https://placehold.co/400x400/1c1e22/f4f3ee?text=Deep+Focus",
+      "url": "https://open.spotify.com/",
+      "ownerName": "Rasmus Norkvist",
+      "trackCount": 42
+    },
+    {
+      "id": "placeholder2",
+      "name": "Sunday Drive",
+      "description": "Slow builds and long roads.",
+      "imageUrl": "https://placehold.co/400x400/1c1e22/f4f3ee?text=Sunday+Drive",
+      "url": "https://open.spotify.com/",
+      "ownerName": "Rasmus Norkvist",
+      "trackCount": 28
+    }
+  ]
+}
