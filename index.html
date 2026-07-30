@@ -1,10 +1,16 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Rasmus Norkvist — Software Engineer, Finance</title>
-<meta name="description" content="Portfolio of Rasmus Norkvist — software engineer working at the intersection of code and capital." />
+<title>Rasmus Norkvist — Engineering, Finance, Real Estate</title>
+<meta name="description" content="Portfolio of Rasmus Norkvist — engineer working across software, finance, and real estate." />
+<script>
+  // applied before paint so a returning dark-mode visitor never sees a light flash
+  if (localStorage.getItem("theme") === "dark") {
+    document.documentElement.setAttribute("data-theme", "dark");
+  }
+</script>
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link
@@ -18,13 +24,17 @@
     theme: {
       extend: {
         colors: {
-          canvas: "#0A0A0C",
-          surface: "#141519",
-          elevated: "#1C1E22",
+          canvas: "rgb(var(--color-canvas-rgb) / <alpha-value>)",
+          surface: "var(--color-surface)",
+          elevated: "var(--color-elevated)",
           accent: "#4C7CF0",
-          circuit: "#111B42",
-          bone: "#F4F3EE",
-          slate: "#93959D",
+          ink: "#15171C",
+          circuit: "var(--color-circuit)",
+          bone: "var(--color-bone)",
+          slate: "var(--color-slate)",
+          hairline: "var(--color-hairline)",
+          line: "var(--color-line)",
+          tagline: "var(--color-tagline)",
         },
         fontFamily: {
           display: ['"Cabinet Grotesk"', "sans-serif"],
@@ -37,15 +47,44 @@
 </script>
 
 <style>
+  :root,
+  [data-theme="light"] {
+    --color-canvas-rgb: 246 245 241; /* #F6F5F1 */
+    --color-surface: #EDEBE5;
+    --color-elevated: #FFFFFF;
+    --color-circuit: #D8E3FB;
+    --color-bone: #15171C;
+    --color-slate: #6B675C;
+    --color-hairline: rgba(21, 23, 28, 0.08);
+    --color-line: rgba(21, 23, 28, 0.12);
+    --color-tagline: rgba(21, 23, 28, 0.1);
+    --grain-opacity: 0.035;
+    --grain-blend: multiply;
+  }
+  [data-theme="dark"] {
+    --color-canvas-rgb: 10 10 12; /* #0A0A0C */
+    --color-surface: #141519;
+    --color-elevated: #1C1E22;
+    --color-circuit: #111B42;
+    --color-bone: #F4F3EE;
+    --color-slate: #93959D;
+    --color-hairline: rgba(255, 255, 255, 0.06);
+    --color-line: rgba(255, 255, 255, 0.15);
+    --color-tagline: rgba(255, 255, 255, 0.1);
+    --grain-opacity: 0.05;
+    --grain-blend: overlay;
+  }
+
   html {
     scroll-behavior: smooth;
   }
   body {
-    background-color: #0a0a0c;
+    background-color: rgb(var(--color-canvas-rgb));
+    transition: background-color 0.4s ease;
   }
   ::selection {
     background: #4c7cf0;
-    color: #0a0a0c;
+    color: #15171c;
   }
 
   /* focus */
@@ -62,8 +101,8 @@
     inset: 0;
     z-index: 40;
     pointer-events: none;
-    opacity: 0.05;
-    mix-blend-mode: overlay;
+    opacity: var(--grain-opacity);
+    mix-blend-mode: var(--grain-blend);
   }
 
   /* signature signal bars — hero */
@@ -77,7 +116,7 @@
     flex: 1;
     display: block;
     border-radius: 3px 3px 0 0;
-    background: linear-gradient(to top, #111b42, #4c7cf0);
+    background: linear-gradient(to top, var(--color-circuit), #4c7cf0);
     transform-origin: bottom;
     animation: barPulse 2.6s ease-in-out infinite;
     animation-delay: var(--d, 0s);
@@ -158,6 +197,17 @@
     transform: none;
   }
 
+  /* theme toggle */
+  .icon-moon {
+    display: none;
+  }
+  [data-theme="dark"] .icon-sun {
+    display: none;
+  }
+  [data-theme="dark"] .icon-moon {
+    display: block;
+  }
+
   /* underline-draw link */
   .underline-link {
     background-image: linear-gradient(#4c7cf0, #4c7cf0);
@@ -201,11 +251,11 @@
   </svg>
 
   <!-- nav -->
-  <header class="fixed top-0 inset-x-0 z-30 border-b border-white/[0.06] bg-canvas/80 backdrop-blur-md">
+  <header class="fixed top-0 inset-x-0 z-30 border-b border-hairline bg-canvas/80 backdrop-blur-md">
     <div class="max-w-[1400px] mx-auto px-6 md:px-10 lg:px-16 h-16 flex items-center justify-between">
       <a href="#top" class="flex items-center gap-2.5 group">
         <span
-          class="w-8 h-8 rounded-md bg-accent text-canvas font-display font-extrabold text-sm flex items-center justify-center"
+          class="w-8 h-8 rounded-md bg-accent text-ink font-display font-extrabold text-sm flex items-center justify-center"
           >RN</span
         >
         <span class="hidden sm:block font-mono text-xs tracking-widest text-slate uppercase group-hover:text-bone transition-colors"
@@ -217,12 +267,28 @@
         <a href="#about" class="hover:text-bone transition-colors">About</a>
         <a href="#contact" class="hover:text-bone transition-colors">Contact</a>
       </nav>
-      <a
-        href="./assets/cv/Rasmus-Norkvist-CV.pdf"
-        download
-        class="inline-flex items-center gap-2 rounded-full border border-white/15 px-4 py-2 font-mono text-xs uppercase tracking-widest text-bone hover:border-accent hover:text-accent transition-colors"
-        >Download CV</a
-      >
+      <div class="flex items-center gap-3">
+        <button
+          id="theme-toggle"
+          type="button"
+          aria-label="Switch to dark mode"
+          class="w-9 h-9 shrink-0 rounded-full border border-line flex items-center justify-center hover:border-accent hover:text-accent transition-colors"
+        >
+          <svg class="icon-sun" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="4.5" />
+            <path d="M12 2.5v2.5M12 19v2.5M4.2 4.2l1.8 1.8M18 18l1.8 1.8M2.5 12H5M19 12h2.5M4.2 19.8L6 18M18 6l1.8-1.8" />
+          </svg>
+          <svg class="icon-moon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M20 14.5A8.5 8.5 0 1 1 9.5 4a7 7 0 0 0 10.5 10.5Z" />
+          </svg>
+        </button>
+        <a
+          href="./assets/cv/Rasmus-Norkvist-CV.pdf"
+          download
+          class="inline-flex items-center gap-2 rounded-full border border-line px-4 py-2 font-mono text-xs uppercase tracking-widest text-bone hover:border-accent hover:text-accent transition-colors"
+          >Download CV</a
+        >
+      </div>
     </div>
   </header>
 
@@ -234,13 +300,13 @@
     ></div>
     <div
       class="pointer-events-none absolute bottom-0 left-0 w-[500px] h-[500px] rounded-full opacity-10 blur-3xl"
-      style="background: radial-gradient(circle, #111b42, transparent 70%)"
+      style="background: radial-gradient(circle, var(--color-circuit), transparent 70%)"
     ></div>
 
     <div class="relative max-w-[1400px] mx-auto px-6 md:px-10 lg:px-16 w-full grid lg:grid-cols-[1.1fr_0.9fr] gap-16 items-center">
       <div>
         <p class="font-mono text-xs md:text-sm uppercase tracking-[0.2em] text-accent mb-6">
-          Software Engineer &middot; Finance
+          Engineering &middot; Finance &middot; Real Estate
         </p>
         <h1 class="font-display font-extrabold leading-[0.92] text-[15vw] sm:text-[9vw] lg:text-[5.2vw] tracking-tight">
           Rasmus<br />Norkvist
@@ -252,12 +318,12 @@
         <div class="mt-10 flex flex-wrap items-center gap-4">
           <a
             href="#work"
-            class="inline-flex items-center gap-2 rounded-full bg-accent text-canvas font-mono text-xs uppercase tracking-widest px-6 py-3.5 hover:shadow-[0_12px_40px_-8px_rgba(76,124,240,0.55)] transition-shadow"
+            class="inline-flex items-center gap-2 rounded-full bg-accent text-ink font-mono text-xs uppercase tracking-widest px-6 py-3.5 hover:shadow-[0_12px_40px_-8px_rgba(76,124,240,0.55)] transition-shadow"
             >See the work</a
           >
           <a
             href="#contact"
-            class="inline-flex items-center gap-2 rounded-full border border-white/15 font-mono text-xs uppercase tracking-widest px-6 py-3.5 hover:border-accent hover:text-accent transition-colors"
+            class="inline-flex items-center gap-2 rounded-full border border-line font-mono text-xs uppercase tracking-widest px-6 py-3.5 hover:border-accent hover:text-accent transition-colors"
             >Get in touch</a
           >
         </div>
@@ -301,17 +367,19 @@
         <p class="reveal font-mono text-xs uppercase tracking-[0.2em] text-accent">About</p>
         <div class="reveal">
           <p class="font-display font-medium text-2xl md:text-3xl leading-snug text-bone max-w-2xl">
-            Based in engineering, drawn to finance. I build tools that turn raw
-            data — market prices, listening habits, company records — into
-            something usable. Comfortable moving between a REST API, a SQL
-            schema, and a spreadsheet full of numbers that need to make sense.
+            Based in engineering, drawn to finance and real estate. I build
+            tools that turn raw data — market prices, listening habits,
+            property listings — into something usable. Comfortable moving
+            between a REST API, a SQL schema, and a spreadsheet full of
+            numbers that need to make sense.
           </p>
           <ul class="mt-10 flex flex-wrap gap-3 font-mono text-xs uppercase tracking-widest">
-            <li class="rounded-full border border-white/15 px-4 py-2 text-slate">Software Engineering</li>
-            <li class="rounded-full border border-white/15 px-4 py-2 text-slate">API Integration</li>
-            <li class="rounded-full border border-white/15 px-4 py-2 text-slate">Data &amp; Finance</li>
-            <li class="rounded-full border border-white/15 px-4 py-2 text-slate">SQL / Databases</li>
-            <li class="rounded-full border border-white/15 px-4 py-2 text-slate">Python</li>
+            <li class="rounded-full border border-line px-4 py-2 text-slate">Software Engineering</li>
+            <li class="rounded-full border border-line px-4 py-2 text-slate">Real Estate</li>
+            <li class="rounded-full border border-line px-4 py-2 text-slate">API Integration</li>
+            <li class="rounded-full border border-line px-4 py-2 text-slate">Data &amp; Finance</li>
+            <li class="rounded-full border border-line px-4 py-2 text-slate">SQL / Databases</li>
+            <li class="rounded-full border border-line px-4 py-2 text-slate">Python</li>
           </ul>
         </div>
       </div>
@@ -319,7 +387,7 @@
   </section>
 
   <!-- work -->
-  <section id="work" class="py-28 md:py-36 bg-surface border-y border-white/[0.06]">
+  <section id="work" class="py-28 md:py-36 bg-surface border-y border-hairline">
     <div class="max-w-[1400px] mx-auto px-6 md:px-10 lg:px-16">
       <div class="reveal flex items-end justify-between flex-wrap gap-6 mb-16">
         <div>
@@ -331,7 +399,7 @@
       <div class="grid md:grid-cols-3 gap-6">
         <!-- project 1 -->
         <article
-          class="reveal group rounded-2xl bg-elevated border border-white/[0.06] p-8 flex flex-col justify-between transition-shadow hover:shadow-[0_24px_60px_-24px_rgba(76,124,240,0.35)]"
+          class="reveal group rounded-2xl bg-elevated border border-hairline p-8 flex flex-col justify-between transition-shadow hover:shadow-[0_24px_60px_-24px_rgba(76,124,240,0.35)]"
         >
           <div>
             <div class="flex items-center justify-between mb-8">
@@ -349,9 +417,9 @@
           </div>
           <div class="mt-8">
             <div class="flex flex-wrap gap-2 mb-6 font-mono text-[10px] uppercase tracking-widest text-slate">
-              <span class="rounded-full border border-white/10 px-3 py-1">Spotify API</span>
-              <span class="rounded-full border border-white/10 px-3 py-1">Node.js</span>
-              <span class="rounded-full border border-white/10 px-3 py-1">OAuth</span>
+              <span class="rounded-full border border-tagline px-3 py-1">Spotify API</span>
+              <span class="rounded-full border border-tagline px-3 py-1">Node.js</span>
+              <span class="rounded-full border border-tagline px-3 py-1">OAuth</span>
             </div>
             <a href="#" class="underline-link inline-flex items-center gap-1.5 text-sm font-medium">View project <span aria-hidden="true">&rarr;</span></a>
           </div>
@@ -359,7 +427,7 @@
 
         <!-- project 2 -->
         <article
-          class="reveal group rounded-2xl bg-elevated border border-white/[0.06] p-8 flex flex-col justify-between transition-shadow hover:shadow-[0_24px_60px_-24px_rgba(76,124,240,0.35)]"
+          class="reveal group rounded-2xl bg-elevated border border-hairline p-8 flex flex-col justify-between transition-shadow hover:shadow-[0_24px_60px_-24px_rgba(76,124,240,0.35)]"
         >
           <div>
             <div class="flex items-center justify-between mb-8">
@@ -377,9 +445,9 @@
           </div>
           <div class="mt-8">
             <div class="flex flex-wrap gap-2 mb-6 font-mono text-[10px] uppercase tracking-widest text-slate">
-              <span class="rounded-full border border-white/10 px-3 py-1">SQL</span>
-              <span class="rounded-full border border-white/10 px-3 py-1">React</span>
-              <span class="rounded-full border border-white/10 px-3 py-1">Node.js</span>
+              <span class="rounded-full border border-tagline px-3 py-1">SQL</span>
+              <span class="rounded-full border border-tagline px-3 py-1">React</span>
+              <span class="rounded-full border border-tagline px-3 py-1">Node.js</span>
             </div>
             <a href="#" class="underline-link inline-flex items-center gap-1.5 text-sm font-medium">View project <span aria-hidden="true">&rarr;</span></a>
           </div>
@@ -387,7 +455,7 @@
 
         <!-- project 3 -->
         <article
-          class="reveal group rounded-2xl bg-elevated border border-white/[0.06] p-8 flex flex-col justify-between transition-shadow hover:shadow-[0_24px_60px_-24px_rgba(76,124,240,0.35)]"
+          class="reveal group rounded-2xl bg-elevated border border-hairline p-8 flex flex-col justify-between transition-shadow hover:shadow-[0_24px_60px_-24px_rgba(76,124,240,0.35)]"
         >
           <div>
             <div class="flex items-center justify-between mb-8">
@@ -405,9 +473,9 @@
           </div>
           <div class="mt-8">
             <div class="flex flex-wrap gap-2 mb-6 font-mono text-[10px] uppercase tracking-widest text-slate">
-              <span class="rounded-full border border-white/10 px-3 py-1">Python</span>
-              <span class="rounded-full border border-white/10 px-3 py-1">Pandas</span>
-              <span class="rounded-full border border-white/10 px-3 py-1">Market Data API</span>
+              <span class="rounded-full border border-tagline px-3 py-1">Python</span>
+              <span class="rounded-full border border-tagline px-3 py-1">Pandas</span>
+              <span class="rounded-full border border-tagline px-3 py-1">Market Data API</span>
             </div>
             <a href="#" class="underline-link inline-flex items-center gap-1.5 text-sm font-medium">View project <span aria-hidden="true">&rarr;</span></a>
           </div>
@@ -436,13 +504,13 @@
 
       <div class="reveal mt-14 flex flex-wrap items-center justify-center gap-4">
         <!-- placeholder social hrefs — point these at the real profiles -->
-        <a href="#" class="rounded-full border border-white/15 px-5 py-2.5 font-mono text-xs uppercase tracking-widest hover:bg-accent hover:text-canvas hover:border-accent transition-colors">GitHub</a>
-        <a href="#" class="rounded-full border border-white/15 px-5 py-2.5 font-mono text-xs uppercase tracking-widest hover:bg-accent hover:text-canvas hover:border-accent transition-colors">LinkedIn</a>
-        <a href="#" class="rounded-full border border-white/15 px-5 py-2.5 font-mono text-xs uppercase tracking-widest hover:bg-accent hover:text-canvas hover:border-accent transition-colors">X</a>
+        <a href="#" class="rounded-full border border-line px-5 py-2.5 font-mono text-xs uppercase tracking-widest hover:bg-accent hover:text-ink hover:border-accent transition-colors">GitHub</a>
+        <a href="#" class="rounded-full border border-line px-5 py-2.5 font-mono text-xs uppercase tracking-widest hover:bg-accent hover:text-ink hover:border-accent transition-colors">LinkedIn</a>
+        <a href="#" class="rounded-full border border-line px-5 py-2.5 font-mono text-xs uppercase tracking-widest hover:bg-accent hover:text-ink hover:border-accent transition-colors">X</a>
         <a
           href="./assets/cv/Rasmus-Norkvist-CV.pdf"
           download
-          class="rounded-full bg-accent text-canvas px-6 py-2.5 font-mono text-xs uppercase tracking-widest hover:shadow-[0_12px_40px_-8px_rgba(76,124,240,0.55)] transition-shadow"
+          class="rounded-full bg-accent text-ink px-6 py-2.5 font-mono text-xs uppercase tracking-widest hover:shadow-[0_12px_40px_-8px_rgba(76,124,240,0.55)] transition-shadow"
           >Download CV</a
         >
       </div>
@@ -450,7 +518,7 @@
   </section>
 
   <!-- footer -->
-  <footer class="border-t border-white/[0.06] py-10">
+  <footer class="border-t border-hairline py-10">
     <div
       class="max-w-[1400px] mx-auto px-6 md:px-10 lg:px-16 flex flex-col sm:flex-row items-center justify-between gap-4 font-mono text-[11px] uppercase tracking-widest text-slate"
     >
@@ -472,6 +540,20 @@
       { threshold: 0.15 }
     );
     document.querySelectorAll(".reveal").forEach((el) => observer.observe(el));
+
+    const toggle = document.getElementById("theme-toggle");
+    const root = document.documentElement;
+    const syncLabel = () => {
+      const isDark = root.getAttribute("data-theme") === "dark";
+      toggle.setAttribute("aria-label", isDark ? "Switch to light mode" : "Switch to dark mode");
+    };
+    syncLabel();
+    toggle.addEventListener("click", () => {
+      const next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
+      root.setAttribute("data-theme", next);
+      localStorage.setItem("theme", next);
+      syncLabel();
+    });
   </script>
 </body>
 </html>
