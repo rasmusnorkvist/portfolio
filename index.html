@@ -2,7 +2,7 @@
 <html lang="en" data-theme="light">
 <head>
 <meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <title>Rasmus Norkvist — Engineering, Finance, Real Estate</title>
 <meta name="description" content="Portfolio of Rasmus Norkvist — engineer working across software, finance, and real estate." />
 <script>
@@ -197,17 +197,32 @@
     transform: none;
   }
 
-  /* location map pins + route */
+  /* location map: globe, pins + route */
+  .globe-sway {
+    transform-origin: 300px 130px;
+    animation: globeSway 10s ease-in-out infinite;
+  }
+  @keyframes globeSway {
+    0%,
+    100% {
+      transform: rotate(-1.5deg);
+    }
+    50% {
+      transform: rotate(1.5deg);
+    }
+  }
   .pin-pulse {
+    transform-box: fill-box;
+    transform-origin: center;
     animation: pinPulse 2.4s ease-out infinite;
   }
   @keyframes pinPulse {
     0% {
-      r: 4;
+      transform: scale(1);
       opacity: 0.6;
     }
     100% {
-      r: 15;
+      transform: scale(3.75);
       opacity: 0;
     }
   }
@@ -272,6 +287,22 @@
       <feColorMatrix type="saturate" values="0"></feColorMatrix>
     </filter>
     <rect width="100%" height="100%" filter="url(#noise)"></rect>
+  </svg>
+
+  <!-- flat flag icons, reused via <use> -->
+  <svg style="display: none" aria-hidden="true">
+    <symbol id="flag-us" viewBox="0 0 20 14">
+      <rect width="20" height="14" fill="#B22234" />
+      <rect y="2" width="20" height="2" fill="#fff" />
+      <rect y="6" width="20" height="2" fill="#fff" />
+      <rect y="10" width="20" height="2" fill="#fff" />
+      <rect width="9" height="8" fill="#3C3B6E" />
+    </symbol>
+    <symbol id="flag-se" viewBox="0 0 20 14">
+      <rect width="20" height="14" fill="#006AA7" />
+      <rect x="6" width="3" height="14" fill="#FECC00" />
+      <rect y="5.5" width="20" height="3" fill="#FECC00" />
+    </symbol>
   </svg>
 
   <!-- nav -->
@@ -483,10 +514,10 @@
   </section>
 
   <!-- about -->
-  <section id="about" class="py-28 md:py-36">
+  <section id="about" class="py-28 md:py-36 overflow-hidden">
     <div class="max-w-[1400px] mx-auto px-6 md:px-10 lg:px-16">
       <div class="grid lg:grid-cols-[0.4fr_0.6fr] gap-10 lg:gap-20">
-        <p class="reveal font-mono text-xs uppercase tracking-[0.2em] text-accent">About</p>
+        <p class="reveal font-mono text-xs uppercase tracking-[0.2em] text-accent">Software</p>
         <div class="reveal">
           <p class="font-display font-medium text-2xl md:text-3xl leading-snug text-bone max-w-2xl">
             Based in engineering, drawn to finance and real estate. I build
@@ -505,49 +536,69 @@
           </ul>
         </div>
       </div>
-    </div>
-  </section>
 
-  <!-- location -->
-  <section id="location" class="py-28 md:py-36 bg-surface border-y border-hairline overflow-hidden">
-    <div class="max-w-[1400px] mx-auto px-6 md:px-10 lg:px-16">
-      <p class="reveal font-mono text-xs uppercase tracking-[0.2em] text-accent mb-4">Where I work from</p>
-      <h2 class="reveal font-display font-bold text-4xl md:text-5xl tracking-tight mb-16">Seattle &amp; Stockholm</h2>
+      <div class="reveal mt-20 pt-16 border-t border-hairline">
+        <p class="font-mono text-xs uppercase tracking-[0.2em] text-accent mb-4 text-center">Where I am based</p>
+        <h3 class="font-display font-bold text-2xl md:text-3xl tracking-tight mb-14 text-center">Seattle &amp; Stockholm</h3>
 
-      <div class="reveal mx-auto max-w-xl text-slate">
-        <svg viewBox="0 0 600 260" class="w-full h-auto" aria-hidden="true">
-          <circle cx="300" cy="130" r="110" fill="none" stroke="currentColor" stroke-width="1" opacity="0.18" />
-          <ellipse cx="300" cy="130" rx="45" ry="110" fill="none" stroke="currentColor" stroke-width="1" opacity="0.14" />
-          <ellipse cx="300" cy="130" rx="80" ry="110" fill="none" stroke="currentColor" stroke-width="1" opacity="0.14" />
-          <line x1="190" y1="130" x2="410" y2="130" stroke="currentColor" stroke-width="1" opacity="0.14" />
-          <line x1="205" y1="90" x2="395" y2="90" stroke="currentColor" stroke-width="1" opacity="0.1" />
-          <line x1="205" y1="170" x2="395" y2="170" stroke="currentColor" stroke-width="1" opacity="0.1" />
+        <div class="mx-auto max-w-xl text-slate">
+          <svg viewBox="0 0 600 260" class="globe-sway w-full h-auto" aria-hidden="true">
+            <defs>
+              <clipPath id="globeClip">
+                <circle cx="300" cy="130" r="110" />
+              </clipPath>
+            </defs>
 
-          <path class="route-line" d="M220,90 Q292,20 365,65" fill="none" stroke="#4c7cf0" stroke-width="2" stroke-linecap="round" />
+            <circle cx="300" cy="130" r="110" fill="currentColor" opacity="0.04" />
 
-          <g>
-            <circle cx="220" cy="90" r="4" fill="#4c7cf0" />
-            <circle class="pin-pulse" cx="220" cy="90" r="4" fill="none" stroke="#4c7cf0" stroke-width="1.5" />
-          </g>
-          <g>
-            <circle cx="365" cy="65" r="4" fill="#4c7cf0" />
-            <circle class="pin-pulse" cx="365" cy="65" r="4" fill="none" stroke="#4c7cf0" stroke-width="1.5" style="animation-delay: 1.2s" />
-          </g>
-        </svg>
-      </div>
+            <g clip-path="url(#globeClip)" fill="currentColor" opacity="0.26">
+              <!-- North America -->
+              <path d="M165,110 C160,85 175,55 205,45 C225,38 250,42 265,58 C280,72 278,90 268,100 C285,108 292,128 282,148 C272,168 250,185 225,188 C200,190 178,175 168,155 C158,140 158,125 165,110 Z" />
+              <!-- Greenland -->
+              <path d="M275,40 C273,25 288,15 305,17 C320,19 328,32 322,45 C317,56 300,60 288,55 C280,52 276,47 275,40 Z" />
+              <!-- Scandinavia / Europe -->
+              <path d="M345,70 C340,50 352,32 372,28 C390,25 405,35 408,52 C411,68 402,82 390,85 C398,95 396,112 382,118 C368,124 352,115 346,100 C340,88 340,80 345,70 Z" />
+              <!-- Iceland -->
+              <circle cx="330" cy="42" r="4" />
+            </g>
 
-      <div class="reveal mt-8 grid sm:grid-cols-2 gap-6 max-w-xl mx-auto text-center">
-        <div>
-          <p class="flex items-center justify-center gap-2 font-display font-bold text-lg">
-            <span aria-hidden="true">🇺🇸</span> Seattle, WA
-          </p>
-          <p class="font-mono text-xs uppercase tracking-widest text-slate mt-1">47.6°N, 122.3°W &middot; PST (UTC−8)</p>
+            <g stroke="currentColor" stroke-width="1" opacity="0.14" fill="none">
+              <circle cx="300" cy="130" r="110" />
+              <ellipse cx="300" cy="130" rx="45" ry="110" opacity="0.7" />
+              <ellipse cx="300" cy="130" rx="80" ry="110" opacity="0.7" />
+              <line x1="190" y1="130" x2="410" y2="130" opacity="0.7" />
+              <line x1="205" y1="90" x2="395" y2="90" opacity="0.5" />
+              <line x1="205" y1="170" x2="395" y2="170" opacity="0.5" />
+            </g>
+
+            <path class="route-line" d="M220,90 Q292,20 365,65" fill="none" stroke="#4c7cf0" stroke-width="2" stroke-linecap="round" />
+
+            <g>
+              <circle cx="220" cy="90" r="4" fill="#4c7cf0" />
+              <circle class="pin-pulse" cx="220" cy="90" r="4" fill="none" stroke="#4c7cf0" stroke-width="1.5" />
+            </g>
+            <g>
+              <circle cx="365" cy="65" r="4" fill="#4c7cf0" />
+              <circle class="pin-pulse" cx="365" cy="65" r="4" fill="none" stroke="#4c7cf0" stroke-width="1.5" style="animation-delay: 1.2s" />
+            </g>
+          </svg>
         </div>
-        <div>
-          <p class="flex items-center justify-center gap-2 font-display font-bold text-lg">
-            <span aria-hidden="true">🇸🇪</span> Stockholm, Sweden
-          </p>
-          <p class="font-mono text-xs uppercase tracking-widest text-slate mt-1">59.3°N, 18.1°E &middot; CET (UTC+1)</p>
+
+        <div class="mt-8 grid sm:grid-cols-2 gap-6 max-w-xl mx-auto text-center">
+          <div>
+            <p class="flex items-center justify-center gap-2 font-display font-bold text-lg">
+              <svg class="w-[18px] h-[13px] rounded-[2px] ring-1 ring-line shrink-0" aria-hidden="true"><use href="#flag-us" /></svg>
+              Seattle, WA
+            </p>
+            <p class="font-mono text-xs uppercase tracking-widest text-slate mt-1">47.6°N, 122.3°W &middot; PST (UTC−8)</p>
+          </div>
+          <div>
+            <p class="flex items-center justify-center gap-2 font-display font-bold text-lg">
+              <svg class="w-[18px] h-[13px] rounded-[2px] ring-1 ring-line shrink-0" aria-hidden="true"><use href="#flag-se" /></svg>
+              Stockholm, Sweden
+            </p>
+            <p class="font-mono text-xs uppercase tracking-widest text-slate mt-1">59.3°N, 18.1°E &middot; CET (UTC+1)</p>
+          </div>
         </div>
       </div>
     </div>
@@ -574,17 +625,19 @@
       <!-- placeholder phone numbers — swap for the real ones -->
       <div class="reveal mt-5 flex flex-wrap items-center justify-center gap-x-6 gap-y-2 font-mono text-sm text-slate">
         <a href="tel:+12065550142" class="underline-link inline-flex items-center gap-2 hover:text-bone">
-          <span aria-hidden="true">🇺🇸</span> +1 (206) 555-0142
+          <svg class="w-[16px] h-[12px] rounded-[2px] ring-1 ring-line shrink-0" aria-hidden="true"><use href="#flag-us" /></svg>
+          +1 (206) 555-0142
         </a>
         <a href="tel:+46701234567" class="underline-link inline-flex items-center gap-2 hover:text-bone">
-          <span aria-hidden="true">🇸🇪</span> +46 70 123 45 67
+          <svg class="w-[16px] h-[12px] rounded-[2px] ring-1 ring-line shrink-0" aria-hidden="true"><use href="#flag-se" /></svg>
+          +46 70 123 45 67
         </a>
       </div>
 
       <div class="reveal mt-10 flex flex-wrap items-center justify-center gap-4">
         <!-- placeholder social hrefs — point these at the real profiles -->
-        <a href="#" class="rounded-full border border-line px-5 py-2.5 font-mono text-xs uppercase tracking-widest hover:bg-accent hover:text-ink hover:border-accent transition-colors">GitHub</a>
         <a href="#" class="rounded-full border border-line px-5 py-2.5 font-mono text-xs uppercase tracking-widest hover:bg-accent hover:text-ink hover:border-accent transition-colors">LinkedIn</a>
+        <a href="#" class="rounded-full border border-line px-5 py-2.5 font-mono text-xs uppercase tracking-widest hover:bg-accent hover:text-ink hover:border-accent transition-colors">GitHub</a>
         <a
           href="./assets/cv/Rasmus-Norkvist-CV.pdf"
           download
@@ -596,7 +649,7 @@
   </section>
 
   <!-- footer -->
-  <footer class="border-t border-hairline py-10">
+  <footer class="border-t border-hairline pt-10" style="padding-bottom: calc(env(safe-area-inset-bottom, 0px) + 2.5rem)">
     <div
       class="max-w-[1400px] mx-auto px-6 md:px-10 lg:px-16 flex flex-col sm:flex-row items-center justify-between gap-4 font-mono text-[11px] uppercase tracking-widest text-slate"
     >
