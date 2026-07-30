@@ -132,46 +132,6 @@
     }
   }
 
-  /* thin signature rule used between sections */
-  .bar-rule {
-    display: flex;
-    align-items: flex-end;
-    gap: 3px;
-    height: 22px;
-    overflow: hidden;
-  }
-  .bar-rule i {
-    width: 3px;
-    flex: none;
-    border-radius: 1px;
-    background: linear-gradient(to top, transparent, #4c7cf0);
-    opacity: 0.45;
-  }
-  .bar-rule i:nth-child(8n + 1) {
-    height: 28%;
-  }
-  .bar-rule i:nth-child(8n + 2) {
-    height: 68%;
-  }
-  .bar-rule i:nth-child(8n + 3) {
-    height: 42%;
-  }
-  .bar-rule i:nth-child(8n + 4) {
-    height: 92%;
-  }
-  .bar-rule i:nth-child(8n + 5) {
-    height: 54%;
-  }
-  .bar-rule i:nth-child(8n + 6) {
-    height: 100%;
-  }
-  .bar-rule i:nth-child(8n + 7) {
-    height: 38%;
-  }
-  .bar-rule i:nth-child(8n) {
-    height: 62%;
-  }
-
   /* mini badge icon reused on project cards */
   .badge-bars {
     display: flex;
@@ -419,14 +379,6 @@
     </div>
   </section>
 
-  <div class="max-w-[1400px] mx-auto px-6 md:px-10 lg:px-16 py-10 md:py-14">
-    <div class="bar-rule">
-      <i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i>
-      <i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i>
-      <i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i>
-    </div>
-  </div>
-
   <!-- work -->
   <section id="work" class="py-28 md:py-36 bg-surface border-y border-hairline">
     <div class="max-w-[1400px] mx-auto px-6 md:px-10 lg:px-16">
@@ -529,7 +481,7 @@
   <section id="about" class="py-28 md:py-36 overflow-hidden">
     <div class="max-w-[1400px] mx-auto px-6 md:px-10 lg:px-16">
       <div class="grid lg:grid-cols-[0.4fr_0.6fr] gap-10 lg:gap-20">
-        <p class="reveal font-mono text-xs uppercase tracking-[0.2em] text-accent">Software</p>
+        <p class="reveal font-mono text-xs uppercase tracking-[0.2em] text-accent">About</p>
         <div class="reveal">
           <p class="font-display font-medium text-2xl md:text-3xl leading-snug text-bone max-w-2xl">
             Based in engineering, drawn to finance and real estate. I build
@@ -539,7 +491,7 @@
             numbers that need to make sense.
           </p>
           <ul class="mt-10 flex flex-wrap gap-3 font-mono text-xs uppercase tracking-widest">
-            <li class="rounded-full border border-line px-4 py-2 text-slate">Software Engineering</li>
+            <li class="rounded-full border border-line px-4 py-2 text-slate">Software</li>
             <li class="rounded-full border border-line px-4 py-2 text-slate">Real Estate</li>
             <li class="rounded-full border border-line px-4 py-2 text-slate">API Integration</li>
             <li class="rounded-full border border-line px-4 py-2 text-slate">Data &amp; Finance</li>
@@ -564,12 +516,12 @@
             <circle cx="300" cy="130" r="110" fill="currentColor" opacity="0.04" />
 
             <g class="globe-land" clip-path="url(#globeClip)" fill="currentColor" opacity="0.26">
-              <!-- North America -->
-              <path d="M165,110 C160,85 175,55 205,45 C225,38 250,42 265,58 C280,72 278,90 268,100 C285,108 292,128 282,148 C272,168 250,185 225,188 C200,190 178,175 168,155 C158,140 158,125 165,110 Z" />
+              <!-- USA (contiguous, stylized) -->
+              <path d="M200,75 C240,65 275,72 288,90 C285,105 278,115 280,130 C283,150 278,168 272,172 L276,190 L262,172 C235,168 200,160 182,138 C176,120 178,100 182,84 C188,76 194,74 200,75 Z" />
               <!-- Greenland -->
               <path d="M275,40 C273,25 288,15 305,17 C320,19 328,32 322,45 C317,56 300,60 288,55 C280,52 276,47 275,40 Z" />
-              <!-- Scandinavia / Europe -->
-              <path d="M345,70 C340,50 352,32 372,28 C390,25 405,35 408,52 C411,68 402,82 390,85 C398,95 396,112 382,118 C368,124 352,115 346,100 C340,88 340,80 345,70 Z" />
+              <!-- Sweden (stylized) -->
+              <path d="M375,20 C390,35 392,60 386,80 C383,98 378,114 368,128 C362,132 356,122 360,105 C356,85 358,60 350,40 C355,28 365,20 375,20 Z" />
               <!-- Iceland -->
               <circle cx="330" cy="42" r="4" />
             </g>
@@ -627,22 +579,20 @@
       <h2 class="reveal font-display font-extrabold text-[11vw] sm:text-6xl md:text-7xl tracking-tight leading-[0.95]">
         Let's build<br class="sm:hidden" /> something.
       </h2>
-      <!-- placeholder contact address: swap for the real one -->
       <a
-        href="mailto:hello@rasmusnorkvist.dev"
+        href="mailto:rasmus.norkvist@gmail.com"
         class="reveal underline-link inline-block mt-10 font-mono text-lg sm:text-xl text-bone"
-        >hello@rasmusnorkvist.dev</a
+        >rasmus.norkvist@gmail.com</a
       >
 
-      <!-- placeholder phone numbers: swap for the real ones -->
       <div class="reveal mt-5 flex flex-wrap items-center justify-center gap-x-6 gap-y-2 font-mono text-sm text-slate">
-        <a href="tel:+12065550142" class="underline-link inline-flex items-center gap-2 hover:text-bone">
+        <a href="tel:+12067767401" class="underline-link inline-flex items-center gap-2 hover:text-bone">
           <svg class="w-[14px] h-[14px] shrink-0" aria-hidden="true"><use href="#flag-us" /></svg>
-          +1 (206) 555-0142
+          +1 206 776 7401
         </a>
-        <a href="tel:+46701234567" class="underline-link inline-flex items-center gap-2 hover:text-bone">
+        <a href="tel:+46767953290" class="underline-link inline-flex items-center gap-2 hover:text-bone">
           <svg class="w-[14px] h-[14px] shrink-0" aria-hidden="true"><use href="#flag-se" /></svg>
-          +46 70 123 45 67
+          +46 767 953 290
         </a>
       </div>
 
