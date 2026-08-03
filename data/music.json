@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-03T12:53:24.739Z",
+  "updatedAt": "2026-08-03T15:41:43.627Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Twist in My Sobriety",
+      "artists": [
+        "Tanita Tikaram"
+      ],
+      "album": "Ancient Heart",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737164632c1d8483a15736a7a1",
+      "url": "https://open.spotify.com/track/6wWlaSxOrBizAcpqkuv1FJ",
+      "durationMs": 292080,
+      "playedAt": "2026-08-03T13:57:56.966Z"
+    },
     {
       "name": "Beggin'",
       "artists": [
@@ -103,17 +114,6 @@
       "url": "https://open.spotify.com/track/3JaRjTNqNKiK8bWp3Dn7KB",
       "durationMs": 238000,
       "playedAt": "2026-08-03T04:10:25.101Z"
-    },
-    {
-      "name": "I'm Your Man - Live",
-      "artists": [
-        "Leonard Cohen"
-      ],
-      "album": "From The Silence (Live 1993)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5f0469079ad1753a1e2a63d",
-      "url": "https://open.spotify.com/track/3L7NJUdSbtKs5cSQYakidy",
-      "durationMs": 330938,
-      "playedAt": "2026-08-03T04:06:30.107Z"
     }
   ],
   "topArtists": [
