@@ -1,7 +1,42 @@
 {
-  "updatedAt": "2026-08-03T04:42:28.898Z",
+  "updatedAt": "2026-08-03T09:36:29.885Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Beggin'",
+      "artists": [
+        "Måneskin"
+      ],
+      "album": "Chosen",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
+      "durationMs": 211560,
+      "playedAt": "2026-08-03T06:08:27.970Z"
+    },
+    {
+      "name": "Write This Down",
+      "artists": [
+        "SoulChef",
+        "Nieve"
+      ],
+      "album": "Escapism",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a799e6450792e0b6d8d54634",
+      "url": "https://open.spotify.com/track/4P1FCiBFxm9b8GDhL65xqg",
+      "durationMs": 189466,
+      "playedAt": "2026-08-03T05:37:20.991Z"
+    },
+    {
+      "name": "Got to Get (feat. Leila K)",
+      "artists": [
+        "Rob n Raz",
+        "Leila K"
+      ],
+      "album": "Rob n Raz (feat. Leila K)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27370a5259756ea09e952392506",
+      "url": "https://open.spotify.com/track/3Atr2OBXJVIpQ96zxuActC",
+      "durationMs": 201466,
+      "playedAt": "2026-08-03T05:37:13.353Z"
+    },
     {
       "name": "Open up Your Door",
       "artists": [
@@ -79,48 +114,9 @@
       "url": "https://open.spotify.com/track/3L7NJUdSbtKs5cSQYakidy",
       "durationMs": 330938,
       "playedAt": "2026-08-03T04:06:30.107Z"
-    },
-    {
-      "name": "The Future - Live",
-      "artists": [
-        "Leonard Cohen"
-      ],
-      "album": "From The Silence (Live 1993)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5f0469079ad1753a1e2a63d",
-      "url": "https://open.spotify.com/track/7ar6iIBZB0Ns6sSNIqEcY4",
-      "durationMs": 411339,
-      "playedAt": "2026-08-03T04:00:59.200Z"
-    },
-    {
-      "name": "Waiting For The Miracle - Live",
-      "artists": [
-        "Leonard Cohen"
-      ],
-      "album": "From The Silence (Live 1993)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5f0469079ad1753a1e2a63d",
-      "url": "https://open.spotify.com/track/32emYMYnAa6oxVZpS2o0Up",
-      "durationMs": 446258,
-      "playedAt": "2026-08-03T03:54:07.819Z"
-    },
-    {
-      "name": "Democracy - Live",
-      "artists": [
-        "Leonard Cohen"
-      ],
-      "album": "From The Silence (Live 1993)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5f0469079ad1753a1e2a63d",
-      "url": "https://open.spotify.com/track/7DbaAycjAB8i0Kh1qYRUNG",
-      "durationMs": 434463,
-      "playedAt": "2026-08-03T03:46:41.589Z"
     }
   ],
   "topArtists": [
-    {
-      "name": "Måneskin",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f",
-      "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr",
-      "genres": []
-    },
     {
       "name": "Steely Dan",
       "imageUrl": "https://i.scdn.co/image/9d01e4e9aac39b891d684d3d1a5b3a451d7c72bd",
@@ -131,18 +127,10 @@
       ]
     },
     {
-      "name": "Sex on Toast",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf495573a3bcfdd37c2d9f222",
-      "url": "https://open.spotify.com/artist/7w6CFgYRRBheH4QOpa7xzI",
+      "name": "Måneskin",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f",
+      "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr",
       "genres": []
-    },
-    {
-      "name": "Ikkimel",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb7f4edf1190fa514afd800b94",
-      "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn",
-      "genres": [
-        "german indie"
-      ]
     },
     {
       "name": "Paul Simon",
@@ -173,6 +161,23 @@
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8c253702a29d143fb8de5039",
       "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo",
       "genres": []
+    },
+    {
+      "name": "The Pharcyde",
+      "imageUrl": "https://i.scdn.co/image/db124909dcc277881bf55ed159bd417d82e2ced1",
+      "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w",
+      "genres": [
+        "jazz rap",
+        "west coast hip hop",
+        "old school hip hop",
+        "hip hop"
+      ]
+    },
+    {
+      "name": "Billy Idol",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb69408d3a9d82c2307dd8699d",
+      "url": "https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG",
+      "genres": []
     }
   ],
   "topTracks": [
@@ -187,16 +192,6 @@
       "durationMs": 211560
     },
     {
-      "name": "Oh, Loretta!",
-      "artists": [
-        "Sex on Toast"
-      ],
-      "album": "Oh, Loretta!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d78873f5d310ff9828180011",
-      "url": "https://open.spotify.com/track/4HqxTpbXpLO1jgKJppk8Gl",
-      "durationMs": 269283
-    },
-    {
       "name": "Do It Again",
       "artists": [
         "Steely Dan"
@@ -205,16 +200,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
       "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19",
       "durationMs": 357041
-    },
-    {
-      "name": "WHO'S THAT",
-      "artists": [
-        "Ikkimel"
-      ],
-      "album": "POPPSTAR",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa7d6e98bd2652f1107ec428",
-      "url": "https://open.spotify.com/track/6ua13cq5mSN0kkHKJd46Wt",
-      "durationMs": 140009
     },
     {
       "name": "Got to Get (feat. Leila K)",
@@ -238,6 +223,36 @@
       "durationMs": 173346
     },
     {
+      "name": "Ambitionz Az A Ridah",
+      "artists": [
+        "2Pac"
+      ],
+      "album": "All Eyez On Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596",
+      "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "durationMs": 278386
+    },
+    {
+      "name": "Eyes Without A Face",
+      "artists": [
+        "Billy Idol"
+      ],
+      "album": "Rebel Yell",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
+      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS",
+      "durationMs": 299240
+    },
+    {
+      "name": "The Boy In the Bubble",
+      "artists": [
+        "Paul Simon"
+      ],
+      "album": "Graceland (25th Anniversary Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
+      "url": "https://open.spotify.com/track/00IrSynHsun7DpDrLkRIjM",
+      "durationMs": 239133
+    },
+    {
       "name": "BABY SAID",
       "artists": [
         "Måneskin"
@@ -246,17 +261,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346e72dff16a10e1b5062fdf7",
       "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ",
       "durationMs": 164682
-    },
-    {
-      "name": "GOSSIP (feat. Tom Morello)",
-      "artists": [
-        "Måneskin",
-        "Tom Morello"
-      ],
-      "album": "RUSH!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346e72dff16a10e1b5062fdf7",
-      "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi",
-      "durationMs": 168280
     }
   ],
   "featuredPlaylists": []
