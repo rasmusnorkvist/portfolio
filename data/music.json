@@ -1,140 +1,263 @@
 {
-  "updatedAt": "2026-07-29T00:00:00.000Z",
+  "updatedAt": "2026-08-03T04:42:28.898Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Night Drive",
-      "artists": ["Nova Feld"],
-      "album": "Interstate",
-      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Interstate",
-      "url": "https://open.spotify.com/",
-      "durationMs": 214000,
-      "playedAt": "2026-07-28T22:14:00.000Z"
+      "name": "Open up Your Door",
+      "artists": [
+        "Richard Hawley"
+      ],
+      "album": "Truelove's Gutter",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e59403a376dab606f7d69c0a",
+      "url": "https://open.spotify.com/track/3HNp9HQ33wdDhAvEc4arE8",
+      "durationMs": 283120,
+      "playedAt": "2026-08-03T04:30:42.124Z"
     },
     {
-      "name": "Glass Room",
-      "artists": ["Wire & Bloom"],
-      "album": "Static Bloom",
-      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Static+Bloom",
-      "url": "https://open.spotify.com/",
-      "durationMs": 198000,
-      "playedAt": "2026-07-28T21:40:00.000Z"
+      "name": "The Blue Cafe",
+      "artists": [
+        "Chris Rea"
+      ],
+      "album": "The Blue Cafe",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27327bb52c95630dc073b87b3ee",
+      "url": "https://open.spotify.com/track/2CvyDY52IoJaLZ5vbKcTd4",
+      "durationMs": 287239,
+      "playedAt": "2026-08-03T04:26:02.038Z"
     },
     {
-      "name": "Low Tide",
-      "artists": ["Marin Cole"],
-      "album": "Low Tide",
-      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Low+Tide",
-      "url": "https://open.spotify.com/",
-      "durationMs": 231000,
-      "playedAt": "2026-07-28T20:58:00.000Z"
+      "name": "Helplessly Hoping - 2005 Remaster",
+      "artists": [
+        "Crosby, Stills & Nash"
+      ],
+      "album": "Crosby, Stills & Nash",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a32339b8818323380682a889",
+      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe",
+      "durationMs": 157893,
+      "playedAt": "2026-08-03T04:21:17.842Z"
     },
     {
-      "name": "Ceiling Fan",
-      "artists": ["Ceiling Fan Club"],
-      "album": "Rotations",
-      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Rotations",
-      "url": "https://open.spotify.com/",
-      "durationMs": 176000,
-      "playedAt": "2026-07-28T19:20:00.000Z"
+      "name": "Suzanne",
+      "artists": [
+        "Leonard Cohen"
+      ],
+      "album": "Songs Of Leonard Cohen",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273456d608be39a97751dd39e2d",
+      "url": "https://open.spotify.com/track/4jiM2fAXVOxl4DAx3wraFx",
+      "durationMs": 230284,
+      "playedAt": "2026-08-03T04:18:42.942Z"
     },
     {
-      "name": "Signal Path",
-      "artists": ["Nova Feld", "Marin Cole"],
-      "album": "Interstate",
-      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Interstate",
-      "url": "https://open.spotify.com/",
-      "durationMs": 205000,
-      "playedAt": "2026-07-28T18:05:00.000Z"
+      "name": "Both Sides Now",
+      "artists": [
+        "Joni Mitchell"
+      ],
+      "album": "Clouds",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737b3f91592013990af66c81b4",
+      "url": "https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m",
+      "durationMs": 273573,
+      "playedAt": "2026-08-03T04:14:55.661Z"
     },
     {
-      "name": "Ledger Lines",
-      "artists": ["Quiet Interest"],
-      "album": "Quiet Interest",
-      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Quiet+Interest",
-      "url": "https://open.spotify.com/",
-      "durationMs": 189000,
-      "playedAt": "2026-07-28T09:12:00.000Z"
+      "name": "In a Manner of Speaking",
+      "artists": [
+        "Nouvelle Vague",
+        "Camille"
+      ],
+      "album": "Nouvelle vague",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ad419b53eb86b9ca1decfaa3",
+      "url": "https://open.spotify.com/track/3JaRjTNqNKiK8bWp3Dn7KB",
+      "durationMs": 238000,
+      "playedAt": "2026-08-03T04:10:25.101Z"
+    },
+    {
+      "name": "I'm Your Man - Live",
+      "artists": [
+        "Leonard Cohen"
+      ],
+      "album": "From The Silence (Live 1993)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5f0469079ad1753a1e2a63d",
+      "url": "https://open.spotify.com/track/3L7NJUdSbtKs5cSQYakidy",
+      "durationMs": 330938,
+      "playedAt": "2026-08-03T04:06:30.107Z"
+    },
+    {
+      "name": "The Future - Live",
+      "artists": [
+        "Leonard Cohen"
+      ],
+      "album": "From The Silence (Live 1993)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5f0469079ad1753a1e2a63d",
+      "url": "https://open.spotify.com/track/7ar6iIBZB0Ns6sSNIqEcY4",
+      "durationMs": 411339,
+      "playedAt": "2026-08-03T04:00:59.200Z"
+    },
+    {
+      "name": "Waiting For The Miracle - Live",
+      "artists": [
+        "Leonard Cohen"
+      ],
+      "album": "From The Silence (Live 1993)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5f0469079ad1753a1e2a63d",
+      "url": "https://open.spotify.com/track/32emYMYnAa6oxVZpS2o0Up",
+      "durationMs": 446258,
+      "playedAt": "2026-08-03T03:54:07.819Z"
+    },
+    {
+      "name": "Democracy - Live",
+      "artists": [
+        "Leonard Cohen"
+      ],
+      "album": "From The Silence (Live 1993)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5f0469079ad1753a1e2a63d",
+      "url": "https://open.spotify.com/track/7DbaAycjAB8i0Kh1qYRUNG",
+      "durationMs": 434463,
+      "playedAt": "2026-08-03T03:46:41.589Z"
     }
   ],
   "topArtists": [
     {
-      "name": "Nova Feld",
-      "imageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Nova+Feld",
-      "url": "https://open.spotify.com/",
-      "genres": ["synth pop", "dream pop"]
+      "name": "Måneskin",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f",
+      "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr",
+      "genres": []
     },
     {
-      "name": "Wire & Bloom",
-      "imageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Wire+%26+Bloom",
-      "url": "https://open.spotify.com/",
-      "genres": ["indie electronic"]
+      "name": "Steely Dan",
+      "imageUrl": "https://i.scdn.co/image/9d01e4e9aac39b891d684d3d1a5b3a451d7c72bd",
+      "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE",
+      "genres": [
+        "yacht rock",
+        "classic rock"
+      ]
     },
     {
-      "name": "Marin Cole",
-      "imageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Marin+Cole",
-      "url": "https://open.spotify.com/",
-      "genres": ["ambient", "downtempo"]
+      "name": "Sex on Toast",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf495573a3bcfdd37c2d9f222",
+      "url": "https://open.spotify.com/artist/7w6CFgYRRBheH4QOpa7xzI",
+      "genres": []
     },
     {
-      "name": "Quiet Interest",
-      "imageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Quiet+Interest",
-      "url": "https://open.spotify.com/",
-      "genres": ["lo-fi", "jazz hop"]
+      "name": "Ikkimel",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb7f4edf1190fa514afd800b94",
+      "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn",
+      "genres": [
+        "german indie"
+      ]
+    },
+    {
+      "name": "Paul Simon",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
+      "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
+      "genres": [
+        "singer-songwriter"
+      ]
+    },
+    {
+      "name": "The Waterboys",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb17d1c7c884ca5bf543aa0165",
+      "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ",
+      "genres": [
+        "celtic rock"
+      ]
+    },
+    {
+      "name": "Jan Johansson",
+      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
+      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
+      "genres": [
+        "jazz"
+      ]
+    },
+    {
+      "name": "Labyrint",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8c253702a29d143fb8de5039",
+      "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo",
+      "genres": []
     }
   ],
   "topTracks": [
     {
-      "name": "Night Drive",
-      "artists": ["Nova Feld"],
-      "album": "Interstate",
-      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Interstate",
-      "url": "https://open.spotify.com/",
-      "durationMs": 214000
+      "name": "Beggin'",
+      "artists": [
+        "Måneskin"
+      ],
+      "album": "Chosen",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
+      "durationMs": 211560
     },
     {
-      "name": "Glass Room",
-      "artists": ["Wire & Bloom"],
-      "album": "Static Bloom",
-      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Static+Bloom",
-      "url": "https://open.spotify.com/",
-      "durationMs": 198000
+      "name": "Oh, Loretta!",
+      "artists": [
+        "Sex on Toast"
+      ],
+      "album": "Oh, Loretta!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d78873f5d310ff9828180011",
+      "url": "https://open.spotify.com/track/4HqxTpbXpLO1jgKJppk8Gl",
+      "durationMs": 269283
     },
     {
-      "name": "Ledger Lines",
-      "artists": ["Quiet Interest"],
-      "album": "Quiet Interest",
-      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Quiet+Interest",
-      "url": "https://open.spotify.com/",
-      "durationMs": 189000
+      "name": "Do It Again",
+      "artists": [
+        "Steely Dan"
+      ],
+      "album": "Can't Buy A Thrill",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
+      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19",
+      "durationMs": 357041
     },
     {
-      "name": "Low Tide",
-      "artists": ["Marin Cole"],
-      "album": "Low Tide",
-      "albumImageUrl": "https://placehold.co/300x300/1c1e22/f4f3ee?text=Low+Tide",
-      "url": "https://open.spotify.com/",
-      "durationMs": 231000
+      "name": "WHO'S THAT",
+      "artists": [
+        "Ikkimel"
+      ],
+      "album": "POPPSTAR",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa7d6e98bd2652f1107ec428",
+      "url": "https://open.spotify.com/track/6ua13cq5mSN0kkHKJd46Wt",
+      "durationMs": 140009
+    },
+    {
+      "name": "Got to Get (feat. Leila K)",
+      "artists": [
+        "Rob n Raz",
+        "Leila K"
+      ],
+      "album": "Rob n Raz (feat. Leila K)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27370a5259756ea09e952392506",
+      "url": "https://open.spotify.com/track/3Atr2OBXJVIpQ96zxuActC",
+      "durationMs": 201466
+    },
+    {
+      "name": "I WANNA BE YOUR SLAVE",
+      "artists": [
+        "Måneskin"
+      ],
+      "album": "Teatro d'ira - Vol. I",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21",
+      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk",
+      "durationMs": 173346
+    },
+    {
+      "name": "BABY SAID",
+      "artists": [
+        "Måneskin"
+      ],
+      "album": "RUSH!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346e72dff16a10e1b5062fdf7",
+      "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ",
+      "durationMs": 164682
+    },
+    {
+      "name": "GOSSIP (feat. Tom Morello)",
+      "artists": [
+        "Måneskin",
+        "Tom Morello"
+      ],
+      "album": "RUSH!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346e72dff16a10e1b5062fdf7",
+      "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi",
+      "durationMs": 168280
     }
   ],
-  "featuredPlaylists": [
-    {
-      "id": "placeholder1",
-      "name": "Deep Focus Coding",
-      "description": "Low-key tracks for heads-down work.",
-      "imageUrl": "https://placehold.co/400x400/1c1e22/f4f3ee?text=Deep+Focus",
-      "url": "https://open.spotify.com/",
-      "ownerName": "Rasmus Norkvist",
-      "trackCount": 42
-    },
-    {
-      "id": "placeholder2",
-      "name": "Sunday Drive",
-      "description": "Slow builds and long roads.",
-      "imageUrl": "https://placehold.co/400x400/1c1e22/f4f3ee?text=Sunday+Drive",
-      "url": "https://open.spotify.com/",
-      "ownerName": "Rasmus Norkvist",
-      "trackCount": 28
-    }
-  ]
+  "featuredPlaylists": []
 }
