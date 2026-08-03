@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-03T20:43:35.040Z",
+  "updatedAt": "2026-08-03T22:05:20.443Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Introduction",
+      "artists": [
+        "Guru"
+      ],
+      "album": "Jazzmatazz Volume 1",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
+      "url": "https://open.spotify.com/track/2lg1lksPDgFTk2NOJ8bRxv",
+      "durationMs": 80248,
+      "playedAt": "2026-08-03T21:31:18.034Z"
+    },
     {
       "name": "Twist in My Sobriety",
       "artists": [
@@ -102,18 +113,6 @@
       "url": "https://open.spotify.com/track/3NW1YMA8kfNVTzGJCGBS8m",
       "durationMs": 273573,
       "playedAt": "2026-08-03T04:14:55.661Z"
-    },
-    {
-      "name": "In a Manner of Speaking",
-      "artists": [
-        "Nouvelle Vague",
-        "Camille"
-      ],
-      "album": "Nouvelle vague",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ad419b53eb86b9ca1decfaa3",
-      "url": "https://open.spotify.com/track/3JaRjTNqNKiK8bWp3Dn7KB",
-      "durationMs": 238000,
-      "playedAt": "2026-08-03T04:10:25.101Z"
     }
   ],
   "topArtists": [
