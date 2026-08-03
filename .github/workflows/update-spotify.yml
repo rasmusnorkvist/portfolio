@@ -2,8 +2,9 @@ name: Update Spotify data
 
 on:
   schedule:
-    # 06:17 UTC daily — off the top of the hour to avoid GitHub's cron rush.
-    - cron: "17 6 * * *"
+    # Every 30 minutes. See README.md "How often can this run?" before
+    # going more frequent than every 15 minutes.
+    - cron: "*/30 * * * *"
   workflow_dispatch: {}
 
 permissions:

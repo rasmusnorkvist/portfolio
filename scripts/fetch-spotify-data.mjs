@@ -21,8 +21,18 @@ const OUTPUT_PATH = path.join(ROOT, "data", "music.json");
 // IDs to override it without touching code (handy as a GitHub secret/var).
 const DEFAULT_FEATURED_PLAYLIST_IDS = [];
 
+// Artists to hide from every list on the site (case-insensitive exact name
+// match) — e.g. shared/family devices or embarrassing guilty pleasures you'd
+// rather not feature. Edit this list, or set SPOTIFY_EXCLUDED_ARTISTS to a
+// comma-separated list of names to override it without touching code.
+const DEFAULT_EXCLUDED_ARTIST_NAMES = ["Sex on Toast", "Ikkimel"];
+
 const TOP_ITEMS_LIMIT = 8;
 const RECENTLY_PLAYED_LIMIT = 10;
+// How many raw items to pull from Spotify before filtering/trimming to the
+// limits above, so excluding an artist backfills from the next-ranked one
+// instead of just shrinking the list. 50 is Spotify's per-request max.
+const FETCH_LIMIT = 50;
 
 async function loadDotEnv(filePath) {
   let content;
@@ -147,7 +157,7 @@ async function fetchNowPlaying(accessToken) {
 
 async function fetchRecentlyPlayed(accessToken) {
   const data = await spotifyFetch(
-    `/me/player/recently-played?limit=${RECENTLY_PLAYED_LIMIT}`,
+    `/me/player/recently-played?limit=${FETCH_LIMIT}`,
     accessToken
   );
   if (!data?.items) return [];
@@ -159,7 +169,7 @@ async function fetchRecentlyPlayed(accessToken) {
 
 async function fetchTopArtists(accessToken) {
   const data = await spotifyFetch(
-    `/me/top/artists?time_range=short_term&limit=${TOP_ITEMS_LIMIT}`,
+    `/me/top/artists?time_range=short_term&limit=${FETCH_LIMIT}`,
     accessToken
   );
   if (!data?.items) return [];
@@ -168,11 +178,35 @@ async function fetchTopArtists(accessToken) {
 
 async function fetchTopTracks(accessToken) {
   const data = await spotifyFetch(
-    `/me/top/tracks?time_range=short_term&limit=${TOP_ITEMS_LIMIT}`,
+    `/me/top/tracks?time_range=short_term&limit=${FETCH_LIMIT}`,
     accessToken
   );
   if (!data?.items) return [];
   return data.items.map(mapTrack);
+}
+
+// Case-insensitive check for whether any of a track/artist's names are on
+// the exclude list.
+function includesExcludedArtist(names, excludedNames) {
+  return names.some((name) => excludedNames.has(name.toLowerCase()));
+}
+
+// Filters excluded artists out (a no-op when excludedNames is empty) and
+// trims each list down to its display limit.
+function filterExcludedArtists({ nowPlaying, recentlyPlayed, topArtists, topTracks }, excludedNames) {
+  return {
+    nowPlaying:
+      nowPlaying && includesExcludedArtist(nowPlaying.artists, excludedNames) ? null : nowPlaying,
+    recentlyPlayed: recentlyPlayed
+      .filter((track) => !includesExcludedArtist(track.artists, excludedNames))
+      .slice(0, RECENTLY_PLAYED_LIMIT),
+    topArtists: topArtists
+      .filter((artist) => !excludedNames.has(artist.name.toLowerCase()))
+      .slice(0, TOP_ITEMS_LIMIT),
+    topTracks: topTracks
+      .filter((track) => !includesExcludedArtist(track.artists, excludedNames))
+      .slice(0, TOP_ITEMS_LIMIT),
+  };
 }
 
 async function fetchFeaturedPlaylists(accessToken, ids) {
@@ -216,6 +250,16 @@ async function main() {
   const playlistIds =
     overridePlaylistIds.length > 0 ? overridePlaylistIds : DEFAULT_FEATURED_PLAYLIST_IDS;
 
+  const overrideExcludedArtists = (process.env.SPOTIFY_EXCLUDED_ARTISTS || "")
+    .split(",")
+    .map((name) => name.trim())
+    .filter(Boolean);
+  const excludedArtistNames = new Set(
+    (overrideExcludedArtists.length > 0 ? overrideExcludedArtists : DEFAULT_EXCLUDED_ARTIST_NAMES).map(
+      (name) => name.toLowerCase()
+    )
+  );
+
   let accessToken;
   try {
     accessToken = await getAccessToken(clientId, clientSecret, refreshToken);
@@ -229,7 +273,7 @@ async function main() {
     process.exit(1);
   }
 
-  const [nowPlaying, recentlyPlayed, topArtists, topTracks, featuredPlaylists] =
+  const [rawNowPlaying, rawRecentlyPlayed, rawTopArtists, rawTopTracks, featuredPlaylists] =
     await Promise.all([
       safely("currently playing", () => fetchNowPlaying(accessToken), null),
       safely("recently played", () => fetchRecentlyPlayed(accessToken), []),
@@ -241,6 +285,11 @@ async function main() {
         []
       ),
     ]);
+
+  const { nowPlaying, recentlyPlayed, topArtists, topTracks } = filterExcludedArtists(
+    { nowPlaying: rawNowPlaying, recentlyPlayed: rawRecentlyPlayed, topArtists: rawTopArtists, topTracks: rawTopTracks },
+    excludedArtistNames
+  );
 
   const output = {
     updatedAt: new Date().toISOString(),
