@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-04T22:08:21.844Z",
+  "updatedAt": "2026-08-04T23:32:21.344Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Je ne t'aime plus",
+      "artists": [
+        "Manu Chao"
+      ],
+      "album": "Clandestino",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27372c5875a8e4b49075978cd04",
+      "url": "https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb",
+      "durationMs": 122760,
+      "playedAt": "2026-08-04T22:29:39.978Z"
+    },
     {
       "name": "Clandestino",
       "artists": [
@@ -102,17 +113,6 @@
       "url": "https://open.spotify.com/track/2lg1lksPDgFTk2NOJ8bRxv",
       "durationMs": 80248,
       "playedAt": "2026-08-03T21:31:18.034Z"
-    },
-    {
-      "name": "Twist in My Sobriety",
-      "artists": [
-        "Tanita Tikaram"
-      ],
-      "album": "Ancient Heart",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737164632c1d8483a15736a7a1",
-      "url": "https://open.spotify.com/track/6wWlaSxOrBizAcpqkuv1FJ",
-      "durationMs": 292080,
-      "playedAt": "2026-08-03T13:57:56.966Z"
     }
   ],
   "topArtists": [
