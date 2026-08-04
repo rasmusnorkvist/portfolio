@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T11:02:50.097Z",
+  "updatedAt": "2026-08-04T13:14:55.470Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -120,10 +120,7 @@
       "name": "Steely Dan",
       "imageUrl": "https://i.scdn.co/image/9d01e4e9aac39b891d684d3d1a5b3a451d7c72bd",
       "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE",
-      "genres": [
-        "yacht rock",
-        "classic rock"
-      ]
+      "genres": []
     },
     {
       "name": "Måneskin",
@@ -135,25 +132,19 @@
       "name": "Paul Simon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
       "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
-      "genres": [
-        "singer-songwriter"
-      ]
+      "genres": []
     },
     {
       "name": "The Waterboys",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb17d1c7c884ca5bf543aa0165",
       "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ",
-      "genres": [
-        "celtic rock"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Labyrint",
@@ -165,12 +156,7 @@
       "name": "The Pharcyde",
       "imageUrl": "https://i.scdn.co/image/db124909dcc277881bf55ed159bd417d82e2ced1",
       "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w",
-      "genres": [
-        "jazz rap",
-        "west coast hip hop",
-        "old school hip hop",
-        "hip hop"
-      ]
+      "genres": []
     },
     {
       "name": "Billy Idol",
