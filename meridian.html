@@ -481,7 +481,7 @@
             <div class="flex md:flex-col gap-1 md:gap-1">
               <div class="app-nav-item on" data-view="dashboard">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="9"/><rect x="14" y="3" width="7" height="5"/><rect x="14" y="12" width="7" height="9"/><rect x="3" y="16" width="7" height="5"/></svg>
-                <span class="whitespace-nowrap">Dashboard</span>
+                <span class="whitespace-nowrap">Efficiency Dashboard</span>
               </div>
               <div class="app-nav-item" data-view="inbox">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 12h-6l-2 3h-4l-2-3H2"/><path d="M5.45 5.11 2 12v6a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2v-6l-3.45-6.89A2 2 0 0 0 16.76 4H7.24a2 2 0 0 0-1.79 1.11z"/></svg>
@@ -495,9 +495,9 @@
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="6" height="16" rx="1"/><rect x="9.5" y="4" width="6" height="10" rx="1"/><rect x="16" y="4" width="6" height="13" rx="1"/></svg>
                 <span class="whitespace-nowrap">Tasks</span>
               </div>
-              <div class="app-nav-item" data-view="voice">
-                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 10v1a7 7 0 0 0 14 0v-1M12 18v4M9 22h6"/></svg>
-                <span class="whitespace-nowrap">Voice</span>
+              <div class="app-nav-item" data-view="deals">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 1v22M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+                <span class="whitespace-nowrap">Deals</span>
               </div>
               <div class="app-nav-item" data-view="calendar">
                 <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>
@@ -535,10 +535,29 @@
           <main class="p-5 md:p-7 overflow-auto" id="app-main">
             <!-- DASHBOARD -->
             <div class="app-view show" id="view-dashboard">
-              <div class="app-card p-5 mb-5" style="background: linear-gradient(135deg, rgba(76,124,240,0.10), rgba(76,124,240,0.02))">
-                <p class="font-mono text-[10px] uppercase tracking-widest" style="color:#4c7cf0">Morning briefing</p>
-                <h2 class="text-xl font-bold mt-1.5">Good morning, Rasmus.</h2>
-                <p class="text-sm mt-1.5 leading-relaxed" style="color: var(--app-muted)" id="briefing-text"></p>
+              <h2 class="text-lg font-bold mb-4">Efficiency Dashboard</h2>
+
+              <div class="grid md:grid-cols-[1.3fr_1fr] gap-5 mb-5">
+                <div class="app-card p-5" style="background: linear-gradient(135deg, rgba(76,124,240,0.10), rgba(76,124,240,0.02))">
+                  <p class="font-mono text-[10px] uppercase tracking-widest" style="color:#4c7cf0">Morning briefing</p>
+                  <h3 class="text-xl font-bold mt-1.5">Good morning, Rasmus.</h3>
+                  <p class="text-sm mt-1.5 leading-relaxed" style="color: var(--app-muted)" id="briefing-text"></p>
+                </div>
+
+                <div class="app-card p-5 flex flex-col items-center text-center justify-center">
+                  <p class="flex items-center gap-2 font-mono text-[10px] mb-3" style="color: var(--app-muted)">
+                    <span class="relative inline-flex w-1.5 h-1.5"><span class="absolute inset-0 rounded-full" style="background:#34A874" id="voice-status-ping"></span><span class="relative block w-1.5 h-1.5 rounded-full" style="background:#34A874"></span></span>
+                    Local Whisper connected
+                  </p>
+                  <button id="mic-btn" type="button" class="relative w-14 h-14 rounded-full flex items-center justify-center mb-3" style="background:#4c7cf0">
+                    <span class="mic-ring absolute inset-0 rounded-full" style="background:#4c7cf0; display:none" id="mic-ring"></span>
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 10v1a7 7 0 0 0 14 0v-1M12 18v4M9 22h6"/></svg>
+                  </button>
+                  <p class="text-xs font-semibold mb-3" id="mic-label">Talk to Meridian, anytime</p>
+                  <div class="voice-bars mb-3" id="voice-bars"></div>
+                  <p class="text-sm leading-relaxed min-h-[2.5em]" id="transcript"></p>
+                  <button id="voice-add-calendar" class="hidden mt-3 text-[11px] font-semibold px-3 py-1.5 rounded-lg border" style="border-color: rgba(76,124,240,0.4); color:#4c7cf0">Add to calendar</button>
+                </div>
               </div>
 
               <div class="grid md:grid-cols-2 gap-5 mb-5">
@@ -572,6 +591,24 @@
                     <span class="app-nav-item" style="padding:2px 8px" data-goto="calendar">Open calendar &rarr;</span>
                   </div>
                   <div id="dash-calendar" class="flex flex-col gap-2.5"></div>
+                </div>
+              </div>
+
+              <div class="app-card p-5 mb-5">
+                <div class="flex items-center justify-between mb-3">
+                  <h3 class="text-sm font-bold">Finance &amp; deals</h3>
+                  <span class="app-nav-item" style="padding:2px 8px" data-goto="deals">Open deals &rarr;</span>
+                </div>
+
+                <div class="app-card p-5 mb-4" style="background: linear-gradient(135deg, rgba(76,124,240,0.10), rgba(76,124,240,0.02))">
+                  <p class="font-mono text-[10px] uppercase tracking-widest" style="color:#4c7cf0">Total deal value</p>
+                  <p class="text-3xl font-bold mt-1.5" id="dash-deal-total"></p>
+                </div>
+
+                <div class="grid sm:grid-cols-3 gap-3 mb-4" id="dash-deal-stats"></div>
+
+                <div class="app-card p-4">
+                  <div id="dash-deal-graph" class="flex items-end gap-3" style="height:80px"></div>
                 </div>
               </div>
 
@@ -626,21 +663,21 @@
               <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4" id="task-board"></div>
             </div>
 
-            <!-- VOICE -->
-            <div class="app-view" id="view-voice">
-              <div class="app-card p-8 flex flex-col items-center text-center max-w-xl mx-auto">
-                <p class="flex items-center gap-2 font-mono text-[11px] mb-6" style="color: var(--app-muted)">
-                  <span class="relative inline-flex w-2 h-2"><span class="absolute inset-0 rounded-full" style="background:#34A874" id="voice-status-ping"></span><span class="relative block w-2 h-2 rounded-full" style="background:#34A874"></span></span>
-                  Local Whisper connected &middot; base.en
-                </p>
-                <button id="mic-btn" type="button" class="relative w-20 h-20 rounded-full flex items-center justify-center mb-6" style="background:#4c7cf0">
-                  <span class="mic-ring absolute inset-0 rounded-full" style="background:#4c7cf0; display:none" id="mic-ring"></span>
-                  <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 10v1a7 7 0 0 0 14 0v-1M12 18v4M9 22h6"/></svg>
-                </button>
-                <p class="text-sm font-semibold mb-4" id="mic-label">Tap to start dictation</p>
-                <div class="voice-bars mb-5" id="voice-bars"></div>
-                <p class="text-base leading-relaxed min-h-[3em]" id="transcript"></p>
+            <!-- DEALS -->
+            <div class="app-view" id="view-deals">
+              <div class="flex items-center justify-between mb-4 flex-wrap gap-2">
+                <h2 class="text-lg font-bold">Deals</h2>
+                <span class="font-mono text-[11px]" style="color: var(--app-muted)">Drag a card, or use the arrows</span>
               </div>
+
+              <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-5" id="deal-stats"></div>
+
+              <div class="app-card p-5 mb-5">
+                <h3 class="text-sm font-bold mb-4">Pipeline value by stage</h3>
+                <div id="deal-graph" class="flex items-end gap-4" style="height:110px"></div>
+              </div>
+
+              <div class="grid sm:grid-cols-2 lg:grid-cols-4 gap-4" id="deal-board"></div>
             </div>
 
             <!-- CALENDAR -->
@@ -688,6 +725,7 @@
               <div class="app-card p-5 mb-4 max-w-xl">
                 <label class="block text-xs font-semibold mb-2" style="color: var(--app-muted)">Markdown vault location</label>
                 <input type="text" value="~/Documents/Meridian/Notes" class="w-full px-3 py-2.5 rounded-lg text-sm font-mono app-card" style="background: var(--app-panel)" />
+                <p class="text-xs mt-2 leading-relaxed" style="color: var(--app-muted)">This is Meridian's memory, the notes and context it reads from to "remember" who you are and what you care about, rather than starting from zero every conversation.</p>
               </div>
               <div class="app-card p-5 max-w-xl">
                 <label class="block text-xs font-semibold mb-3" style="color: var(--app-muted)">Scheduled email scan</label>
@@ -708,7 +746,9 @@
       <div class="flex items-center gap-3 px-4 py-3 border-b" style="border-color: var(--app-border)">
         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#4c7cf0" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v3M12 18v3M4.2 4.2l2.1 2.1M17.7 17.7l2.1 2.1M3 12h3M18 12h3M4.2 19.8l2.1-2.1M17.7 6.3l2.1-2.1"/></svg>
         <input id="cmdk-input" type="text" placeholder="Ask Meridian anything…" class="flex-1 bg-transparent outline-none text-sm" style="color: var(--app-ink)" />
-        <span class="font-mono text-[10px]" style="color: var(--app-muted)">Esc</span>
+        <button id="cmdk-close" type="button" aria-label="Close" class="w-6 h-6 rounded-md flex items-center justify-center transition-opacity hover:opacity-60" style="color: var(--app-muted)">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M18 6 6 18M6 6l12 12"/></svg>
+        </button>
       </div>
       <div id="cmdk-log" class="px-4 py-3 flex flex-col gap-3 max-h-[50vh] overflow-auto text-sm"></div>
       <div class="px-4 py-2.5 border-t flex flex-wrap gap-1.5" style="border-color: var(--app-border)">
@@ -776,21 +816,33 @@
     };
 
     const emails = [
-      { id: 1, from: "Priya Shah", subject: "Q3 roadmap review", summary: "Wants your feedback on the roadmap doc before Thursday's sync.", importance: "Urgent", time: "9:14 AM", unread: true },
-      { id: 2, from: "GitHub", subject: "Security alert: dependency vulnerability", summary: "One dependency in your repo has a known vulnerability, review recommended.", importance: "Important", time: "8:52 AM", unread: true },
-      { id: 3, from: "Marcus Webb", subject: "Re: Contract redlines", summary: "Sent back redlines on the vendor contract, needs sign-off today.", importance: "Urgent", time: "8:30 AM", unread: true },
-      { id: 4, from: "Stripe", subject: "Your invoice is ready", summary: "October invoice for $128.00 has been generated.", importance: "FYI", time: "7:58 AM", unread: false },
-      { id: 5, from: "Dana Reyes", subject: "Lunch next week?", summary: "Free Tuesday or Wednesday for lunch downtown?", importance: "FYI", time: "Yesterday", unread: true },
-      { id: 6, from: "Linear", subject: "3 issues assigned to you", summary: "New issues assigned in the Portfolio Site project.", importance: "Important", time: "Yesterday", unread: false },
-      { id: 7, from: "Coach Kim", subject: "Great session today", summary: "Notes from today's session and homework for next week.", importance: "FYI", time: "Yesterday", unread: false },
-      { id: 8, from: "Hana Ito", subject: "Intro: Sofia <> Rasmus", summary: "Making an introduction, Sofia is looking for engineering advice.", importance: "Important", time: "Mon", unread: true },
-      { id: 9, from: "Vercel", subject: "Deployment succeeded", summary: "Production deployment of portfolio-website succeeded.", importance: "FYI", time: "Mon", unread: false },
-      { id: 10, from: "Property Management", subject: "Lease renewal, action needed", summary: "Lease renewal decision needed by end of month.", importance: "Urgent", time: "Mon", unread: true },
-      { id: 11, from: "Talia Brooks", subject: "Are you open to new roles?", summary: "Reaching out about a Staff Engineer opening.", importance: "FYI", time: "Sun", unread: false },
-      { id: 12, from: "Bank Alert", subject: "Unusual sign-in detected", summary: "New sign-in from an unrecognized device, verify it was you.", importance: "Urgent", time: "Sun", unread: false },
-      { id: 13, from: "Stratechery", subject: "Weekly update", summary: "This week: platform economics and the AI stack.", importance: "FYI", time: "Sat", unread: false },
-      { id: 14, from: "Jordan Alvarez", subject: "Feedback on the CRM demo", summary: "Loved the pipeline view, one note on the mobile layout.", importance: "Important", time: "Fri", unread: false },
-      { id: 15, from: "Calendar", subject: "Reminder: 1:1 with Dana tomorrow", summary: "Your 1:1 is scheduled for 10:00 AM.", importance: "FYI", time: "Fri", unread: false },
+      { id: 1, from: "Priya Shah", subject: "Q3 roadmap review", summary: "Wants your feedback on the roadmap doc before Thursday's sync.", importance: "Urgent", time: "9:14 AM", unread: true, action: "reply" },
+      { id: 2, from: "GitHub", subject: "Security alert: dependency vulnerability", summary: "One dependency in your repo has a known vulnerability, review recommended.", importance: "Important", time: "8:52 AM", unread: true, action: "archive" },
+      { id: 3, from: "Marcus Webb", subject: "Re: Contract redlines", summary: "Sent back redlines on the vendor contract, needs sign-off today.", importance: "Urgent", time: "8:30 AM", unread: true, action: "reply" },
+      { id: 4, from: "Stripe", subject: "Your invoice is ready", summary: "October invoice for $128.00 has been generated.", importance: "FYI", time: "7:58 AM", unread: false, action: "archive" },
+      { id: 5, from: "Dana Reyes", subject: "Lunch next week?", summary: "Free Tuesday or Wednesday for lunch downtown?", importance: "FYI", time: "Yesterday", unread: true, action: "reply" },
+      { id: 6, from: "Linear", subject: "3 issues assigned to you", summary: "New issues assigned in the Portfolio Site project.", importance: "Important", time: "Yesterday", unread: false, action: "archive" },
+      { id: 7, from: "Coach Kim", subject: "Great session today", summary: "Notes from today's session and homework for next week.", importance: "FYI", time: "Yesterday", unread: false, action: "reply" },
+      { id: 8, from: "Hana Ito", subject: "Intro: Sofia <> Rasmus", summary: "Making an introduction, Sofia is looking for engineering advice.", importance: "Important", time: "Mon", unread: true, action: "reply" },
+      { id: 9, from: "Vercel", subject: "Deployment succeeded", summary: "Production deployment of portfolio-website succeeded.", importance: "FYI", time: "Mon", unread: false, action: "archive" },
+      { id: 10, from: "Property Management", subject: "Lease renewal, action needed", summary: "Lease renewal decision needed by end of month.", importance: "Urgent", time: "Mon", unread: true, action: "reply" },
+      { id: 11, from: "Talia Brooks", subject: "Are you open to new roles?", summary: "Reaching out about a Staff Engineer opening.", importance: "FYI", time: "Sun", unread: false, action: "reply" },
+      { id: 12, from: "Bank Alert", subject: "Unusual sign-in detected", summary: "New sign-in from an unrecognized device, verify it was you.", importance: "Urgent", time: "Sun", unread: false, action: "archive" },
+      { id: 13, from: "Stratechery", subject: "Weekly update", summary: "This week: platform economics and the AI stack.", importance: "FYI", time: "Sat", unread: false, action: "archive" },
+      { id: 14, from: "Jordan Alvarez", subject: "Feedback on the CRM demo", summary: "Loved the pipeline view, one note on the mobile layout.", importance: "Important", time: "Fri", unread: false, action: "reply" },
+      { id: 15, from: "Calendar", subject: "Reminder: 1:1 with Dana tomorrow", summary: "Your 1:1 is scheduled for 10:00 AM.", importance: "FYI", time: "Fri", unread: false, action: "calendar" },
+    ];
+
+    const DEAL_STAGES = ["Prospecting", "Qualified", "Negotiation", "Closed Won"];
+    let deals = [
+      { id: 1, name: "Bellevue Waterfront Listing", client: "The Osei Family", value: 1250000, stage: "Negotiation" },
+      { id: 2, name: "Kirkland Downsize Sale", client: "Sofia Marchetti", value: 965000, stage: "Prospecting" },
+      { id: 3, name: "Mercer Island Estate", client: "Deshawn Carter", value: 2380000, stage: "Qualified" },
+      { id: 4, name: "Everett Starter Home", client: "Cole Brennan", value: 540000, stage: "Closed Won" },
+      { id: 5, name: "Marysville Family Home", client: "Tyler & Jess Boyd", value: 615000, stage: "Negotiation" },
+      { id: 6, name: "Harbor Steps Condo", client: "Priya Raghavan", value: 725000, stage: "Closed Won" },
+      { id: 7, name: "Sunset Ridge Compound", client: "Amara Nwosu", value: 2100000, stage: "Prospecting" },
+      { id: 8, name: "Alderbrook Lane House", client: "Marcus & Lena Whitfield", value: 1195000, stage: "Qualified" },
     ];
 
     const COLUMNS = ["To Do", "In Progress", "Review", "Done"];
@@ -934,6 +986,18 @@
     }
 
     /* ---------------- inbox ---------------- */
+    function actionButtonHtml(e) {
+      if (e.action === "archive") {
+        return `<button class="quick-action text-[11px] font-semibold px-3 py-1.5 rounded-lg border" data-id="${e.id}" data-kind="archive" style="border-color: var(--app-border); color: var(--app-muted)">Seen, moved to archive</button>`;
+      }
+      if (e.action === "calendar") {
+        return `<button class="quick-action text-[11px] font-semibold px-3 py-1.5 rounded-lg border" data-id="${e.id}" data-kind="calendar" style="border-color: rgba(76,124,240,0.4); color:#4c7cf0">Add to calendar</button>`;
+      }
+      return (
+        `<button class="draft-reply text-[11px] font-semibold px-3 py-1.5 rounded-lg border" data-id="${e.id}" style="border-color: rgba(76,124,240,0.4); color:#4c7cf0">Draft reply</button>` +
+        `<div class="draft-area hidden mt-2.5 p-3 rounded-lg text-xs leading-relaxed" style="background: rgba(76,124,240,0.06)" id="draft-${e.id}"></div>`
+      );
+    }
     function renderInbox() {
       document.getElementById("inbox-count").textContent = emails.filter((e) => e.unread).length + " unread of " + emails.length;
       document.getElementById("inbox-list").innerHTML = emails
@@ -951,8 +1015,7 @@
                 <p class="text-xs mt-0.5" style="color:var(--app-muted)">${esc(e.from)}</p>
                 <p class="text-xs mt-1.5 leading-relaxed">${esc(e.summary)}</p>
                 <div class="mt-2.5">
-                  <button class="draft-reply text-[11px] font-semibold px-3 py-1.5 rounded-lg border" data-id="${e.id}" style="border-color: rgba(76,124,240,0.4); color:#4c7cf0">Draft reply</button>
-                  <div class="draft-area hidden mt-2.5 p-3 rounded-lg text-xs leading-relaxed" style="background: rgba(76,124,240,0.06)" id="draft-${e.id}"></div>
+                  ${actionButtonHtml(e)}
                 </div>
               </div>
             </div>
@@ -977,6 +1040,17 @@
               `<p>Hi ${esc(email.from.split(" ")[0])}, thanks for the note on "${esc(email.subject)}", I'll take a look and get back to you shortly.</p>` +
               `<div class="mt-2 flex gap-2"><button class="text-[11px] font-semibold" style="color:#4c7cf0">Copy</button><button class="text-[11px] font-semibold" style="color:var(--app-muted)">Regenerate</button></div>`;
           }, 550);
+        })
+      );
+
+      document.querySelectorAll(".quick-action").forEach((btn) =>
+        btn.addEventListener("click", () => {
+          const archived = btn.dataset.kind === "archive";
+          btn.textContent = archived ? "Archived" : "Added to calendar";
+          toast(archived ? "Moved to archive" : "Added to calendar");
+          btn.disabled = true;
+          btn.style.opacity = "0.55";
+          btn.style.cursor = "default";
         })
       );
     }
@@ -1101,6 +1175,144 @@
       });
     }
 
+    /* ---------------- deals ---------------- */
+    function fmtMoney(n) {
+      return "$" + Math.round(n).toLocaleString("en-US");
+    }
+    function fmtMoneyShort(n) {
+      return n >= 1e6 ? "$" + (n / 1e6).toFixed(n % 1e6 === 0 ? 0 : 1) + "M" : "$" + Math.round(n / 1e3) + "K";
+    }
+    function renderDealStats() {
+      const total = deals.reduce((s, d) => s + d.value, 0);
+      const open = deals.filter((d) => d.stage !== "Closed Won");
+      const won = deals.filter((d) => d.stage === "Closed Won");
+      const openValue = open.reduce((s, d) => s + d.value, 0);
+      const winRate = deals.length ? Math.round((won.length / deals.length) * 100) : 0;
+      const stats = [
+        { label: "Total deal value", value: fmtMoneyShort(total) },
+        { label: "Open pipeline", value: fmtMoneyShort(openValue) },
+        { label: "Closed won", value: won.length + (won.length === 1 ? " deal" : " deals") },
+        { label: "Win rate", value: winRate + "%" },
+      ];
+      document.getElementById("deal-stats").innerHTML = stats
+        .map(
+          (s) => `<div class="app-card p-4">
+            <p class="text-[11px] font-semibold" style="color:var(--app-muted)">${esc(s.label)}</p>
+            <p class="text-xl font-bold mt-1">${esc(s.value)}</p>
+          </div>`
+        )
+        .join("");
+    }
+    function renderDealGraph() {
+      const sums = DEAL_STAGES.map((stage) => deals.filter((d) => d.stage === stage).reduce((s, d) => s + d.value, 0));
+      const max = Math.max(...sums, 1);
+      document.getElementById("deal-graph").innerHTML = DEAL_STAGES.map((stage, i) => {
+        const pct = Math.max(6, Math.round((sums[i] / max) * 100));
+        return `<div class="flex-1 flex flex-col items-center justify-end gap-2" style="height:100%">
+          <span class="font-mono text-[10px]" style="color:var(--app-muted)">${fmtMoneyShort(sums[i])}</span>
+          <div class="w-full rounded-t-md" style="height:${pct}%; background:linear-gradient(to top, var(--color-circuit), #4c7cf0)"></div>
+          <span class="text-[10px] font-semibold text-center leading-tight" style="color:var(--app-muted)">${esc(stage)}</span>
+        </div>`;
+      }).join("");
+    }
+    function renderDealBoard() {
+      const board = document.getElementById("deal-board");
+      board.innerHTML = DEAL_STAGES.map((stage) => {
+        const items = deals.filter((d) => d.stage === stage);
+        return `<div class="app-card p-3 flex flex-col gap-2.5 deal-drop" data-stage="${esc(stage)}" style="min-height:120px">
+          <div class="flex items-center justify-between px-1">
+            <span class="text-xs font-bold">${esc(stage)}</span>
+            <span class="font-mono text-[10px] px-1.5 py-0.5 rounded-full" style="background:var(--app-border); color:var(--app-muted)">${items.length}</span>
+          </div>
+          ${items
+            .map(
+              (d) => `<div class="deal-card app-card p-3 cursor-grab" draggable="true" data-id="${d.id}" style="background:var(--app-bg)">
+                <p class="text-xs font-semibold leading-snug">${esc(d.name)}</p>
+                <p class="text-[11px] mt-0.5" style="color:var(--app-muted)">${esc(d.client)}</p>
+                <div class="flex items-center justify-between mt-2.5">
+                  <span class="text-xs font-bold" style="color:#4c7cf0">${fmtMoney(d.value)}</span>
+                </div>
+                <div class="flex gap-1.5 mt-2.5">
+                  <button class="move-deal flex-1 text-[10px] font-semibold py-1 rounded-md border" data-id="${d.id}" data-dir="-1" style="border-color:var(--app-border)" ${DEAL_STAGES.indexOf(stage) === 0 ? "disabled" : ""}>&larr; Move</button>
+                  <button class="move-deal flex-1 text-[10px] font-semibold py-1 rounded-md border" data-id="${d.id}" data-dir="1" style="border-color:var(--app-border)" ${DEAL_STAGES.indexOf(stage) === DEAL_STAGES.length - 1 ? "disabled" : ""}>Move &rarr;</button>
+                </div>
+              </div>`
+            )
+            .join("") || '<p class="text-[11px] text-center py-4" style="color:var(--app-muted)">Empty</p>'}
+        </div>`;
+      }).join("");
+
+      document.querySelectorAll(".move-deal").forEach((btn) =>
+        btn.addEventListener("click", () => {
+          const d = deals.find((x) => x.id == btn.dataset.id);
+          const idx = DEAL_STAGES.indexOf(d.stage) + Number(btn.dataset.dir);
+          if (idx < 0 || idx >= DEAL_STAGES.length) return;
+          d.stage = DEAL_STAGES[idx];
+          toast(`"${d.name}" moved to ${d.stage}`);
+          renderDeals();
+          renderDashDeals();
+        })
+      );
+
+      let draggedId = null;
+      document.querySelectorAll(".deal-card").forEach((card) => {
+        card.addEventListener("dragstart", () => {
+          draggedId = Number(card.dataset.id);
+          card.style.opacity = "0.4";
+        });
+        card.addEventListener("dragend", () => (card.style.opacity = "1"));
+      });
+      document.querySelectorAll(".deal-drop").forEach((zone) => {
+        zone.addEventListener("dragover", (e) => e.preventDefault());
+        zone.addEventListener("drop", (e) => {
+          e.preventDefault();
+          if (draggedId == null) return;
+          const d = deals.find((x) => x.id === draggedId);
+          d.stage = zone.dataset.stage;
+          toast(`"${d.name}" moved to ${d.stage}`);
+          renderDeals();
+          renderDashDeals();
+        });
+      });
+    }
+    function renderDeals() {
+      renderDealStats();
+      renderDealGraph();
+      renderDealBoard();
+    }
+    function renderDashDeals() {
+      const total = deals.reduce((s, d) => s + d.value, 0);
+      const open = deals.filter((d) => d.stage !== "Closed Won");
+      const won = deals.filter((d) => d.stage === "Closed Won");
+      const winRate = deals.length ? Math.round((won.length / deals.length) * 100) : 0;
+
+      document.getElementById("dash-deal-total").textContent = fmtMoneyShort(total);
+
+      const stats = [
+        { label: "Open pipeline", value: fmtMoneyShort(open.reduce((s, d) => s + d.value, 0)) },
+        { label: "Closed won", value: won.length + (won.length === 1 ? " deal" : " deals") },
+        { label: "Win rate", value: winRate + "%" },
+      ];
+      document.getElementById("dash-deal-stats").innerHTML = stats
+        .map(
+          (s) => `<div class="app-card p-3">
+            <p class="text-[11px] font-semibold" style="color:var(--app-muted)">${esc(s.label)}</p>
+            <p class="text-lg font-bold mt-1">${esc(s.value)}</p>
+          </div>`
+        )
+        .join("");
+
+      const sums = DEAL_STAGES.map((stage) => deals.filter((d) => d.stage === stage).reduce((s, d) => s + d.value, 0));
+      const max = Math.max(...sums, 1);
+      document.getElementById("dash-deal-graph").innerHTML = DEAL_STAGES.map((stage, i) => {
+        const pct = Math.max(6, Math.round((sums[i] / max) * 100));
+        return `<div class="flex-1 flex flex-col items-center justify-end gap-1.5" style="height:100%">
+          <div class="w-full rounded-t-md" style="height:${pct}%; background:linear-gradient(to top, var(--color-circuit), #4c7cf0)"></div>
+          <span class="text-[9px] font-semibold text-center leading-tight" style="color:var(--app-muted)">${esc(stage)}</span>
+        </div>`;
+      }).join("");
+    }
+
     /* ---------------- voice ---------------- */
     const VOICE_BAR_COUNT = 22;
     document.getElementById("voice-bars").innerHTML = Array.from({ length: VOICE_BAR_COUNT })
@@ -1117,6 +1329,7 @@
       const ring = document.getElementById("mic-ring");
       const label = document.getElementById("mic-label");
       const transcript = document.getElementById("transcript");
+      const addCal = document.getElementById("voice-add-calendar");
       clearTimeout(typeTimer);
       if (voiceActive) {
         bars.classList.add("live");
@@ -1124,6 +1337,10 @@
         label.textContent = "Listening…";
         transcript.textContent = "";
         transcript.classList.add("type-cursor");
+        addCal.classList.add("hidden");
+        addCal.textContent = "Add to calendar";
+        addCal.disabled = false;
+        addCal.style.opacity = "1";
         let i = 0;
         const step = () => {
           transcript.textContent = TRANSCRIPT_LINE.slice(0, i);
@@ -1132,15 +1349,24 @@
             typeTimer = setTimeout(step, 28 + Math.random() * 40);
           } else if (voiceActive) {
             transcript.classList.remove("type-cursor");
+            addCal.classList.remove("hidden");
           }
         };
         step();
       } else {
         bars.classList.remove("live");
         ring.style.display = "none";
-        label.textContent = "Tap to start dictation";
+        label.textContent = "Talk to Meridian, anytime";
         transcript.classList.remove("type-cursor");
       }
+    });
+
+    document.getElementById("voice-add-calendar").addEventListener("click", (e) => {
+      e.target.textContent = "Added to calendar";
+      e.target.disabled = true;
+      e.target.style.opacity = "0.55";
+      e.target.style.cursor = "default";
+      toast("Added to calendar");
     });
 
     /* ---------------- calendar ---------------- */
@@ -1213,28 +1439,38 @@
     function closeCmdk() {
       cmdkOverlay.classList.remove("show");
     }
+    const CMDK_CONTACT_LINK = `<a href="./index.html#contact" class="underline font-semibold" style="color:#4c7cf0">contact me</a>`;
+    // All branches return trusted HTML: every interpolated value comes from
+    // this page's own mock data, escaped individually, never from the
+    // visitor's typed question (that stays plain-text, see cmdkAsk below).
     function cmdkAnswer(question) {
       const q = question.toLowerCase();
       if (q.includes("unread") || q.includes("email")) {
         const n = emails.filter((e) => e.unread).length;
-        return `You have ${n} unread email${n === 1 ? "" : "s"}. The most urgent is "${emails.find((e) => e.unread && e.importance === "Urgent")?.subject || emails[0].subject}".`;
+        const urgent = emails.find((e) => e.unread && e.importance === "Urgent") || emails[0];
+        return `You have ${n} unread email${n === 1 ? "" : "s"}. The most urgent is "${esc(urgent.subject)}".`;
       }
       if (q.includes("today") || q.includes("calendar") || q.includes("schedule")) {
-        return `Today you have ${calendarToday.length} events: ` + calendarToday.map((c) => `${c.title} at ${c.time}`).join(", ") + ".";
+        return `Today you have ${calendarToday.length} events: ` + esc(calendarToday.map((c) => `${c.title} at ${c.time}`).join(", ")) + ".";
       }
       if (q.includes("task") || q.includes("due")) {
         const due = tasks.filter((t) => t.due === "Today" && t.col !== "Done");
         return due.length
-          ? `${due.length} task${due.length === 1 ? "" : "s"} due today: ` + due.map((t) => t.title).join(", ") + "."
+          ? `${due.length} task${due.length === 1 ? "" : "s"} due today: ` + esc(due.map((t) => t.title).join(", ")) + "."
           : "Nothing due today, you're clear.";
       }
+      if (q.includes("deal") || q.includes("pipeline")) {
+        const total = deals.reduce((s, d) => s + d.value, 0);
+        const open = deals.filter((d) => d.stage !== "Closed Won").length;
+        return `Total deal value is ${fmtMoneyShort(total)} across ${deals.length} deals, ${open} still open.`;
+      }
       if (q.includes("note")) {
-        return `Your most recent note is "${notes[0].title}" in ${notes[0].folder}, edited ${notes[0].edited}.`;
+        return `Your most recent note is "${esc(notes[0].title)}" in ${esc(notes[0].folder)}, edited ${esc(notes[0].edited)}.`;
       }
       if (q.includes("who are you") || q.includes("what are you")) {
         return "I'm Meridian's assistant, a scripted demo that reads the mock data on this page. No real model is running.";
       }
-      return "I'm a mocked assistant for this prototype, so I only know about the sample data on this page, try asking about emails, tasks, notes, or today's calendar.";
+      return `I'm a mocked assistant, so I don't actually know anything beyond this page's sample data. If you want this to work for real, ${CMDK_CONTACT_LINK} or call me at +1 206 776 7401.`;
     }
     function cmdkAsk(text) {
       if (!text.trim()) return;
@@ -1250,13 +1486,14 @@
       cmdkLog.scrollTop = cmdkLog.scrollHeight;
 
       setTimeout(() => {
-        thinking.innerHTML = `<span class="px-3 py-2 rounded-xl rounded-bl-sm max-w-[85%] leading-relaxed" style="background:var(--app-bg)">${esc(cmdkAnswer(text))}</span>`;
+        thinking.innerHTML = `<span class="px-3 py-2 rounded-xl rounded-bl-sm max-w-[85%] leading-relaxed" style="background:var(--app-bg)">${cmdkAnswer(text)}</span>`;
         cmdkLog.scrollTop = cmdkLog.scrollHeight;
       }, 500);
       cmdkInput.value = "";
     }
     document.getElementById("ask-btn").addEventListener("click", openCmdk);
     document.getElementById("ask-btn-mobile").addEventListener("click", openCmdk);
+    document.getElementById("cmdk-close").addEventListener("click", closeCmdk);
     cmdkOverlay.addEventListener("click", (e) => {
       if (e.target === cmdkOverlay) closeCmdk();
     });
@@ -1280,6 +1517,8 @@
     renderNoteList();
     renderNoteEditor();
     renderTasks();
+    renderDeals();
+    renderDashDeals();
     renderCalendar();
     renderSettings();
   })();

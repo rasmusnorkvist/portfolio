@@ -13,10 +13,9 @@
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 <link
-  href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap"
+  href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600..800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap"
   rel="stylesheet"
 />
-<link href="https://api.fontshare.com/v2/css?f[]=cabinet-grotesk@500,700,800&display=swap" rel="stylesheet" />
 <script src="https://cdn.tailwindcss.com"></script>
 <script>
   tailwind.config = {
@@ -26,8 +25,8 @@
           canvas: "rgb(var(--color-canvas-rgb) / <alpha-value>)",
           surface: "var(--color-surface)",
           elevated: "var(--color-elevated)",
-          accent: "#4C7CF0",
-          ink: "#15171C",
+          accent: "var(--color-accent)",
+          ink: "var(--color-accent-ink)",
           circuit: "var(--color-circuit)",
           bone: "var(--color-bone)",
           slate: "var(--color-slate)",
@@ -36,7 +35,7 @@
           tagline: "var(--color-tagline)",
         },
         fontFamily: {
-          display: ['"Cabinet Grotesk"', "sans-serif"],
+          display: ['"Bricolage Grotesque"', "sans-serif"],
           body: ["Inter", "sans-serif"],
           mono: ['"JetBrains Mono"', "monospace"],
         },
@@ -48,28 +47,32 @@
 <style>
   :root,
   [data-theme="light"] {
-    --color-canvas-rgb: 246 245 241; /* #F6F5F1 */
-    --color-surface: #EDEBE5;
-    --color-elevated: #FFFFFF;
-    --color-circuit: #D8E3FB;
-    --color-bone: #15171C;
-    --color-slate: #6B675C;
-    --color-hairline: rgba(21, 23, 28, 0.08);
-    --color-line: rgba(21, 23, 28, 0.12);
-    --color-tagline: rgba(21, 23, 28, 0.1);
+    --color-canvas-rgb: 250 240 214; /* #FAF0D6 */
+    --color-surface: #F3E1A8;
+    --color-elevated: #FFFDF6;
+    --color-circuit: #F2B33D;
+    --color-accent: #6B3FA0;
+    --color-accent-ink: #FBF3E4;
+    --color-bone: #241708;
+    --color-slate: #7A6448;
+    --color-hairline: rgba(36, 23, 8, 0.1);
+    --color-line: rgba(36, 23, 8, 0.16);
+    --color-tagline: rgba(36, 23, 8, 0.12);
     --grain-opacity: 0.035;
     --grain-blend: multiply;
   }
   [data-theme="dark"] {
-    --color-canvas-rgb: 10 10 12; /* #0A0A0C */
-    --color-surface: #141519;
-    --color-elevated: #1C1E22;
-    --color-circuit: #111B42;
-    --color-bone: #F4F3EE;
-    --color-slate: #93959D;
-    --color-hairline: rgba(255, 255, 255, 0.06);
-    --color-line: rgba(255, 255, 255, 0.15);
-    --color-tagline: rgba(255, 255, 255, 0.1);
+    --color-canvas-rgb: 23 16 8; /* #171008 */
+    --color-surface: #241A10;
+    --color-elevated: #2E2015;
+    --color-circuit: #B8501C;
+    --color-accent: #B48EE0;
+    --color-accent-ink: #1E1409;
+    --color-bone: #FBF0D2;
+    --color-slate: #C7A97C;
+    --color-hairline: rgba(251, 240, 210, 0.08);
+    --color-line: rgba(251, 240, 210, 0.16);
+    --color-tagline: rgba(251, 240, 210, 0.12);
     --grain-opacity: 0.05;
     --grain-blend: overlay;
   }
@@ -82,13 +85,13 @@
     transition: background-color 0.4s ease;
   }
   ::selection {
-    background: #4c7cf0;
-    color: #15171c;
+    background: var(--color-accent);
+    color: var(--color-accent-ink);
   }
 
   a:focus-visible,
   button:focus-visible {
-    outline: 2px solid #4c7cf0;
+    outline: 2px solid var(--color-accent);
     outline-offset: 3px;
     border-radius: 4px;
   }
@@ -149,7 +152,7 @@
   }
 
   .underline-link {
-    background-image: linear-gradient(#4c7cf0, #4c7cf0);
+    background-image: linear-gradient(var(--color-accent), var(--color-accent));
     background-repeat: no-repeat;
     background-position: 0 100%;
     background-size: 0% 2px;
@@ -223,8 +226,18 @@
   </header>
 
   <!-- intro -->
-  <section class="pt-36 pb-16 md:pt-44 md:pb-20">
-    <div class="max-w-[1400px] mx-auto px-6 md:px-10 lg:px-16">
+  <section class="relative pt-36 pb-16 md:pt-44 md:pb-20 overflow-hidden">
+    <div
+      class="pointer-events-none absolute -top-24 -left-24 w-[640px] h-[480px] opacity-25 blur-3xl"
+      style="background: radial-gradient(ellipse, var(--color-accent), transparent 70%)"
+      aria-hidden="true"
+    ></div>
+    <div
+      class="pointer-events-none absolute top-10 right-0 w-[520px] h-[420px] opacity-20 blur-3xl"
+      style="background: radial-gradient(ellipse, var(--color-circuit), transparent 70%)"
+      aria-hidden="true"
+    ></div>
+    <div class="relative max-w-[1400px] mx-auto px-6 md:px-10 lg:px-16">
       <p class="font-mono text-xs uppercase tracking-[0.2em] text-accent mb-4">Selected work</p>
       <h1 class="font-display font-extrabold text-4xl sm:text-5xl md:text-6xl tracking-tight max-w-3xl">
         Spotify Listening Analytics
@@ -373,7 +386,7 @@
           "Album art for " + track.name + (artists ? " by " + artists : "")
         );
         return (
-          '<div class="mb-14 rounded-2xl bg-elevated border border-hairline p-6 flex items-center gap-5">' +
+          '<div class="mb-14 rounded-2xl bg-elevated border-2 border-line p-6 flex items-center gap-5">' +
           (img
             ? '<img src="' + img + '" alt="' + alt + '" class="w-16 h-16 rounded-lg object-cover shrink-0" loading="lazy" />'
             : "") +
@@ -402,7 +415,7 @@
               linkOpen(track.url) +
               ' class="group flex-none w-36">' +
               (img
-                ? '<img src="' + img + '" alt="' + escapeHtml("Album art for " + (track.album || track.name)) + '" class="w-36 h-36 rounded-lg object-cover border border-hairline transition-shadow group-hover:shadow-[0_16px_40px_-18px_rgba(76,124,240,0.45)]" loading="lazy" />'
+                ? '<img src="' + img + '" alt="' + escapeHtml("Album art for " + (track.album || track.name)) + '" class="w-36 h-36 rounded-lg object-cover border border-hairline transition-shadow group-hover:shadow-[0_16px_40px_-18px_rgba(107,63,160,0.45)]" loading="lazy" />'
                 : "") +
               '<p class="mt-2 text-sm font-medium text-bone truncate">' + escapeHtml(track.name) + "</p>" +
               '<p class="text-xs text-slate truncate">' + artists + "</p>" +
@@ -476,7 +489,7 @@
             var img = safeUrl(playlist.imageUrl);
             return (
               linkOpen(playlist.url) +
-              ' class="group rounded-2xl bg-elevated border border-hairline p-6 flex gap-5 items-center transition-shadow hover:shadow-[0_24px_60px_-24px_rgba(76,124,240,0.35)]">' +
+              ' class="group rounded-2xl bg-elevated border-2 border-line p-6 flex gap-5 items-center transition-shadow hover:shadow-[0_24px_60px_-24px_rgba(107,63,160,0.35)]">' +
               (img
                 ? '<img src="' + img + '" alt="' + escapeHtml("Cover art for the playlist " + playlist.name) + '" class="w-20 h-20 rounded-lg object-cover shrink-0" loading="lazy" />'
                 : "") +
