@@ -462,7 +462,7 @@
             var duration = formatDuration(track.durationMs);
             return (
               linkOpen(track.url) +
-              ' class="flex items-center gap-3 rounded-xl border border-hairline p-3 hover:border-accent transition-colors">' +
+              ' class="flex items-center gap-3 rounded-xl bg-elevated border border-hairline p-3 hover:border-accent transition-colors">' +
               (img
                 ? '<img src="' + img + '" alt="' + escapeHtml("Album art for " + (track.album || track.name)) + '" class="w-12 h-12 rounded-[4px] object-cover shrink-0" loading="lazy" />'
                 : "") +

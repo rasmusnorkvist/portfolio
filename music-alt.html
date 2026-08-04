@@ -1,0 +1,598 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Spotify Listening Analytics (Alt) · Rasmus Norkvist</title>
+<meta name="description" content="An alternate, more playful take on the same live Spotify Web API integration built by Rasmus Norkvist: recently played tracks, top artists and tracks, and featured playlists, refreshed daily." />
+<script>
+  if (localStorage.getItem("theme") === "dark") {
+    document.documentElement.setAttribute("data-theme", "dark");
+  }
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap"
+  rel="stylesheet"
+/>
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: {
+          canvas: "var(--color-canvas)",
+          elevated: "var(--color-elevated)",
+          ink: "var(--color-ink)",
+          muted: "var(--color-muted)",
+          hairline: "var(--color-hairline)",
+          ember: "var(--color-ember)",
+          violet: "var(--color-violet)",
+          coral: "var(--color-coral)",
+          honey: "var(--color-honey)",
+        },
+        fontFamily: {
+          display: ['"Fredoka"', "sans-serif"],
+          body: ["Inter", "sans-serif"],
+          mono: ['"JetBrains Mono"', "monospace"],
+        },
+      },
+    },
+  };
+</script>
+
+<style>
+  :root,
+  [data-theme="light"] {
+    --color-canvas: #F6EFDD;
+    --color-elevated: #FFFBF2;
+    --color-ink: #2B2118;
+    --color-muted: #8A7B68;
+    --color-hairline: rgba(43, 33, 24, 0.08);
+    --color-ember: #C97B4A;
+    --color-violet: #8F72AE;
+    --color-coral: #D98A93;
+    --color-honey: #C99A3D;
+    --blob-opacity: 0.4;
+  }
+  [data-theme="dark"] {
+    --color-canvas: #1C1512;
+    --color-elevated: #2C221B;
+    --color-ink: #F3E9D8;
+    --color-muted: #B5A28C;
+    --color-hairline: rgba(243, 233, 216, 0.08);
+    --color-ember: #E0946A;
+    --color-violet: #B79ADC;
+    --color-coral: #E6A3AC;
+    --color-honey: #E0B94F;
+    --blob-opacity: 0.28;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    background-color: var(--color-canvas);
+    transition: background-color 0.4s ease;
+  }
+  ::selection {
+    background: var(--color-ember);
+    color: var(--color-elevated);
+  }
+  a:focus-visible,
+  button:focus-visible {
+    outline: 2px solid var(--color-ember);
+    outline-offset: 3px;
+    border-radius: 999px;
+  }
+
+  /* decorative blob field, never intercepts clicks */
+  .blob-field {
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    overflow: hidden;
+    pointer-events: none;
+  }
+  .blob {
+    position: absolute;
+    filter: blur(70px);
+    opacity: var(--blob-opacity);
+    animation: blobFloat 70s ease-in-out infinite;
+    will-change: transform;
+  }
+  .blob-1 {
+    top: -10%;
+    left: -12%;
+    width: 46vw;
+    height: 46vw;
+    background: var(--color-ember);
+    border-radius: 42% 58% 70% 30% / 45% 45% 55% 55%;
+    animation-duration: 64s;
+  }
+  .blob-2 {
+    top: 8%;
+    right: -14%;
+    width: 38vw;
+    height: 38vw;
+    background: var(--color-violet);
+    border-radius: 60% 40% 35% 65% / 55% 40% 60% 45%;
+    animation-duration: 82s;
+    animation-direction: reverse;
+  }
+  .blob-3 {
+    bottom: 4%;
+    left: -10%;
+    width: 34vw;
+    height: 34vw;
+    background: var(--color-honey);
+    border-radius: 55% 45% 65% 35% / 40% 60% 40% 60%;
+    animation-duration: 96s;
+  }
+  .blob-4 {
+    bottom: -14%;
+    right: -8%;
+    width: 42vw;
+    height: 42vw;
+    background: var(--color-coral);
+    border-radius: 38% 62% 55% 45% / 60% 45% 55% 40%;
+    animation-duration: 74s;
+    animation-direction: reverse;
+  }
+  @keyframes blobFloat {
+    0%, 100% { transform: translate(0, 0) rotate(0deg) scale(1); }
+    33% { transform: translate(3%, -4%) rotate(8deg) scale(1.06); }
+    66% { transform: translate(-2.5%, 3%) rotate(-6deg) scale(0.96); }
+  }
+
+  .reveal {
+    opacity: 0;
+    transform: translateY(28px) scale(0.98);
+    transition: opacity 0.7s ease, transform 0.7s ease;
+  }
+  .reveal.is-visible {
+    opacity: 1;
+    transform: none;
+  }
+
+  .icon-moon { display: none; }
+  [data-theme="dark"] .icon-sun { display: none; }
+  [data-theme="dark"] .icon-moon { display: block; }
+
+  .live-dot-ping {
+    animation: liveDotPulse 1.8s ease-out infinite;
+  }
+  @keyframes liveDotPulse {
+    0% { transform: scale(1); opacity: 0.7; }
+    100% { transform: scale(2.6); opacity: 0; }
+  }
+
+  .scroll-row {
+    display: flex;
+    gap: 1.25rem;
+    overflow-x: auto;
+    padding: 0.5rem 0.25rem 1rem;
+    scroll-snap-type: x proximity;
+    scrollbar-width: thin;
+  }
+  .scroll-row > * {
+    flex: none;
+    scroll-snap-align: start;
+  }
+
+  .lift-tilt {
+    transition: transform 0.35s cubic-bezier(0.34, 1.56, 0.64, 1), box-shadow 0.35s ease, border-color 0.35s ease;
+  }
+  .lift-tilt:hover,
+  .lift-tilt:focus-visible {
+    transform: translateY(-6px) rotate(-1deg);
+  }
+  .lift-tilt:nth-child(even):hover,
+  .lift-tilt:nth-child(even):focus-visible {
+    transform: translateY(-6px) rotate(1deg);
+  }
+
+  .wiggle:hover {
+    transform: rotate(-2deg) scale(1.04);
+  }
+  .wiggle {
+    transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    html { scroll-behavior: auto; }
+    .reveal { transition: none; opacity: 1; transform: none; }
+    .blob { animation: none; }
+    * {
+      animation-duration: 0.001ms !important;
+      animation-iteration-count: 1 !important;
+      transition-duration: 0.001ms !important;
+    }
+  }
+</style>
+</head>
+<body class="bg-canvas text-ink font-body antialiased relative">
+  <div class="blob-field" aria-hidden="true">
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+    <div class="blob blob-4"></div>
+  </div>
+
+  <svg style="display: none" aria-hidden="true">
+    <!-- Spotify icon glyph, per developer.spotify.com/documentation/design -->
+    <symbol id="spotify-icon" viewBox="0 0 24 24">
+      <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z" />
+    </symbol>
+  </svg>
+
+  <!-- nav -->
+  <header class="fixed top-4 inset-x-4 sm:inset-x-6 z-30">
+    <div
+      class="max-w-[1200px] mx-auto h-16 px-4 sm:px-6 flex items-center justify-between rounded-full bg-elevated/90 backdrop-blur-md border border-hairline shadow-[0_18px_40px_-20px_rgba(43,33,24,0.35)]"
+    >
+      <a href="./index.html" class="flex items-center gap-2.5 group">
+        <span
+          class="w-8 h-8 rounded-full bg-ember text-elevated font-display font-semibold text-sm flex items-center justify-center"
+          >RN</span
+        >
+        <span class="hidden sm:inline font-mono text-xs tracking-widest text-muted uppercase group-hover:text-ink transition-colors"
+          >&larr; Back to portfolio</span
+        >
+      </a>
+      <button
+        id="theme-toggle"
+        type="button"
+        aria-label="Switch to dark mode"
+        class="w-9 h-9 shrink-0 rounded-full border border-hairline flex items-center justify-center hover:border-ember hover:text-ember transition-colors wiggle"
+      >
+        <svg class="icon-sun" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">
+          <circle cx="12" cy="12" r="4.5" />
+          <path d="M12 2.5v2.5M12 19v2.5M4.2 4.2l1.8 1.8M18 18l1.8 1.8M2.5 12H5M19 12h2.5M4.2 19.8L6 18M18 6l1.8-1.8" />
+        </svg>
+        <svg class="icon-moon" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+          <path d="M20 14.5A8.5 8.5 0 1 1 9.5 4a7 7 0 0 0 10.5 10.5Z" />
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- intro -->
+  <section class="relative z-10 pt-40 pb-16 md:pt-52 md:pb-24">
+    <div class="max-w-[1200px] mx-auto px-6 md:px-10">
+      <p class="font-mono text-xs uppercase tracking-[0.2em] text-ember mb-4">Selected work &middot; alt take</p>
+      <h1 class="font-display font-semibold text-4xl sm:text-5xl md:text-6xl tracking-tight max-w-3xl text-ink">
+        Spotify Listening Analytics
+      </h1>
+      <p class="mt-6 max-w-xl text-lg text-muted leading-relaxed">
+        The same live integration as the original, just dressed up differently: rounder,
+        looser, a little more alive. A scheduled GitHub Action refreshes the data
+        directly from Spotify, no visitor's browser ever touches Spotify's API or
+        sees a credential.
+      </p>
+      <div class="mt-8 flex flex-wrap gap-2.5 font-mono text-[10px] uppercase tracking-widest">
+        <span class="rounded-full px-3.5 py-1.5 wiggle" style="background: color-mix(in srgb, var(--color-ember) 16%, transparent); color: var(--color-ember)">Spotify API</span>
+        <span class="rounded-full px-3.5 py-1.5 wiggle" style="background: color-mix(in srgb, var(--color-violet) 18%, transparent); color: var(--color-violet)">Node.js</span>
+        <span class="rounded-full px-3.5 py-1.5 wiggle" style="background: color-mix(in srgb, var(--color-coral) 20%, transparent); color: var(--color-coral)">OAuth</span>
+        <span class="rounded-full px-3.5 py-1.5 wiggle" style="background: color-mix(in srgb, var(--color-honey) 24%, transparent); color: var(--color-honey)">GitHub Actions</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- music -->
+  <section id="music" class="relative z-10 pb-24 md:pb-32">
+    <div class="max-w-[1200px] mx-auto px-6 md:px-10">
+      <div class="reveal flex items-end justify-between flex-wrap gap-6 mb-14">
+        <div>
+          <p class="font-mono text-xs uppercase tracking-[0.2em] text-ember mb-4">My music</p>
+          <h2 class="font-display font-semibold text-4xl md:text-5xl tracking-tight text-ink">What I'm listening to</h2>
+        </div>
+        <a
+          href="https://open.spotify.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+          aria-label="Open Spotify"
+          class="inline-flex items-center gap-2 rounded-full bg-elevated border border-hairline px-4 py-2.5 text-ink hover:border-ember hover:text-ember transition-colors wiggle"
+        >
+          <svg class="w-5 h-5 shrink-0" fill="currentColor" aria-hidden="true"><use href="#spotify-icon" /></svg>
+          <span class="font-display font-medium text-base tracking-tight">Spotify</span>
+        </a>
+      </div>
+
+      <div id="music-content" class="reveal">
+        <div class="rounded-[2.5rem] bg-elevated border border-hairline p-10 text-center">
+          <p class="text-muted">Listening data loads live from Spotify.</p>
+          <a
+            href="https://open.spotify.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            class="inline-block mt-4 text-ink font-medium underline decoration-2 decoration-ember underline-offset-4"
+            >View my profile on Spotify</a
+          >
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- footer -->
+  <footer class="relative z-10 pb-10">
+    <div class="max-w-[1200px] mx-auto px-6 md:px-10">
+      <div class="rounded-[2rem] bg-elevated border border-hairline px-6 py-5 flex flex-col sm:flex-row items-center justify-between gap-3 font-mono text-[11px] uppercase tracking-widest text-muted">
+        <p>&copy; 2026 Rasmus Norkvist</p>
+        <a href="./index.html" class="hover:text-ember transition-colors">Back to portfolio &rarr;</a>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("is-visible");
+            observer.unobserve(entry.target);
+          }
+        });
+      },
+      { threshold: 0.15 }
+    );
+    document.querySelectorAll(".reveal").forEach((el) => observer.observe(el));
+
+    const toggle = document.getElementById("theme-toggle");
+    const root = document.documentElement;
+    const syncLabel = () => {
+      const isDark = root.getAttribute("data-theme") === "dark";
+      toggle.setAttribute("aria-label", isDark ? "Switch to light mode" : "Switch to dark mode");
+    };
+    syncLabel();
+    toggle.addEventListener("click", () => {
+      const next = root.getAttribute("data-theme") === "dark" ? "light" : "dark";
+      root.setAttribute("data-theme", next);
+      localStorage.setItem("theme", next);
+      syncLabel();
+    });
+  </script>
+
+  <script>
+    // Fetches the statically-generated data/music.json (built by
+    // scripts/fetch-spotify-data.mjs via GitHub Actions) and renders it.
+    // If this never runs, #music-content keeps the static fallback already
+    // in the HTML, so the section still makes sense without JavaScript.
+    (function () {
+      const ACCENTS = ["ember", "violet", "coral", "honey"];
+      function accentAt(i) {
+        return ACCENTS[i % ACCENTS.length];
+      }
+
+      function escapeHtml(value) {
+        return String(value ?? "").replace(/[&<>"']/g, function (c) {
+          return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+        });
+      }
+
+      function safeUrl(url) {
+        return typeof url === "string" && url.startsWith("https://") ? url : null;
+      }
+
+      function formatDuration(ms) {
+        if (typeof ms !== "number" || !isFinite(ms)) return null;
+        var totalSeconds = Math.round(ms / 1000);
+        var minutes = Math.floor(totalSeconds / 60);
+        var seconds = totalSeconds % 60;
+        return minutes + ":" + String(seconds).padStart(2, "0");
+      }
+
+      function formatUpdatedAt(iso) {
+        try {
+          return new Date(iso).toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" });
+        } catch (err) {
+          return null;
+        }
+      }
+
+      function artistNames(artists) {
+        return Array.isArray(artists) ? artists.filter(Boolean).join(", ") : "";
+      }
+
+      function linkOpen(url) {
+        var href = safeUrl(url);
+        return href
+          ? '<a href="' + href + '" target="_blank" rel="noopener noreferrer"'
+          : "<span";
+      }
+      function linkClose(url) {
+        return safeUrl(url) ? "</a>" : "</span>";
+      }
+
+      function renderNowPlaying(track) {
+        if (!track || !track.name) return "";
+        var artists = escapeHtml(artistNames(track.artists));
+        var img = safeUrl(track.albumImageUrl);
+        var alt = escapeHtml("Album art for " + track.name + (artists ? " by " + artists : ""));
+        return (
+          '<div class="mb-16 rounded-[2.5rem] bg-elevated border-2 p-7 flex items-center gap-6 shadow-[0_28px_60px_-30px_rgba(43,33,24,0.4)]" style="border-color: var(--color-ember)">' +
+          (img
+            ? '<img src="' + img + '" alt="' + alt + '" class="w-20 h-20 rounded-[1.5rem] object-cover shrink-0" loading="lazy" />'
+            : "") +
+          '<div class="min-w-0">' +
+          '<p class="flex items-center gap-2 font-mono text-[10px] uppercase tracking-widest mb-1.5" style="color: var(--color-ember)">' +
+          '<span class="relative inline-flex w-2 h-2" aria-hidden="true">' +
+          '<span class="absolute inset-0 rounded-full live-dot-ping" style="background: var(--color-ember)"></span>' +
+          '<span class="relative block w-2 h-2 rounded-full" style="background: var(--color-ember)"></span>' +
+          "</span>Now playing</p>" +
+          linkOpen(track.url) +
+          ' class="font-display font-medium text-xl text-ink block truncate hover:opacity-70 transition-opacity">' +
+          escapeHtml(track.name) +
+          linkClose(track.url) +
+          '<p class="text-muted text-sm truncate mt-0.5">' + artists + "</p>" +
+          "</div></div>"
+        );
+      }
+
+      function renderRecentlyPlayed(tracks) {
+        if (!Array.isArray(tracks) || tracks.length === 0) return "";
+        var items = tracks
+          .map(function (track, i) {
+            var img = safeUrl(track.albumImageUrl);
+            var artists = escapeHtml(artistNames(track.artists));
+            return (
+              linkOpen(track.url) +
+              ' class="group flex-none w-36 lift-tilt block">' +
+              (img
+                ? '<img src="' + img + '" alt="' + escapeHtml("Album art for " + (track.album || track.name)) + '" class="w-36 h-36 rounded-[1.75rem] object-cover border-2" style="border-color: var(--color-' + accentAt(i) + ')" loading="lazy" />'
+                : "") +
+              '<p class="mt-3 text-sm font-medium text-ink truncate">' + escapeHtml(track.name) + "</p>" +
+              '<p class="text-xs text-muted truncate">' + artists + "</p>" +
+              linkClose(track.url)
+            );
+          })
+          .join("");
+        return (
+          '<div class="mb-16">' +
+          '<p class="font-mono text-[10px] uppercase tracking-widest text-muted mb-5">Recently played</p>' +
+          '<div class="scroll-row">' + items + "</div></div>"
+        );
+      }
+
+      function renderTopArtists(artists) {
+        if (!Array.isArray(artists) || artists.length === 0) return "";
+        var items = artists
+          .map(function (artist, i) {
+            var img = safeUrl(artist.imageUrl);
+            return (
+              linkOpen(artist.url) +
+              ' class="flex-none w-28 text-center block wiggle">' +
+              (img
+                ? '<img src="' + img + '" alt="' + escapeHtml("Photo of " + artist.name) + '" class="w-28 h-28 rounded-full object-cover border-2 mx-auto" style="border-color: var(--color-' + accentAt(i) + ')" loading="lazy" />'
+                : "") +
+              '<p class="mt-3 text-sm font-medium text-ink truncate">' + escapeHtml(artist.name) + "</p>" +
+              linkClose(artist.url)
+            );
+          })
+          .join("");
+        return (
+          '<div class="mb-16">' +
+          '<p class="font-mono text-[10px] uppercase tracking-widest text-muted mb-5">Top artists this month</p>' +
+          '<div class="scroll-row">' + items + "</div></div>"
+        );
+      }
+
+      function renderTopTracks(tracks) {
+        if (!Array.isArray(tracks) || tracks.length === 0) return "";
+        var items = tracks
+          .map(function (track, i) {
+            var img = safeUrl(track.albumImageUrl);
+            var artists = escapeHtml(artistNames(track.artists));
+            var duration = formatDuration(track.durationMs);
+            return (
+              linkOpen(track.url) +
+              ' class="flex items-center gap-3.5 rounded-full bg-elevated border-2 pl-3 pr-5 py-2.5 transition-transform hover:scale-[1.02]" style="border-color: color-mix(in srgb, var(--color-' + accentAt(i) + ') 45%, var(--color-hairline))">' +
+              (img
+                ? '<img src="' + img + '" alt="' + escapeHtml("Album art for " + (track.album || track.name)) + '" class="w-11 h-11 rounded-full object-cover shrink-0" loading="lazy" />'
+                : "") +
+              '<span class="min-w-0 flex-1">' +
+              '<span class="block text-sm font-medium text-ink truncate">' + escapeHtml(track.name) + "</span>" +
+              '<span class="block text-xs text-muted truncate">' + artists + "</span>" +
+              "</span>" +
+              (duration ? '<span class="font-mono text-xs text-muted shrink-0">' + duration + "</span>" : "") +
+              linkClose(track.url)
+            );
+          })
+          .join("");
+        return (
+          '<div class="mb-16">' +
+          '<p class="font-mono text-[10px] uppercase tracking-widest text-muted mb-5">Top tracks this month</p>' +
+          '<div class="grid sm:grid-cols-2 gap-3">' + items + "</div></div>"
+        );
+      }
+
+      function renderFeaturedPlaylists(playlists) {
+        if (!Array.isArray(playlists) || playlists.length === 0) return "";
+        var items = playlists
+          .map(function (playlist, i) {
+            var img = safeUrl(playlist.imageUrl);
+            return (
+              linkOpen(playlist.url) +
+              ' class="lift-tilt block rounded-[2rem] bg-elevated border-2 p-6 flex gap-5 items-center" style="border-color: var(--color-' + accentAt(i) + ')">' +
+              (img
+                ? '<img src="' + img + '" alt="' + escapeHtml("Cover art for the playlist " + playlist.name) + '" class="w-20 h-20 rounded-[1.25rem] object-cover shrink-0" loading="lazy" />'
+                : "") +
+              '<span class="min-w-0">' +
+              '<span class="block font-display font-medium text-ink truncate">' + escapeHtml(playlist.name) + "</span>" +
+              (playlist.description
+                ? '<span class="block text-sm text-muted mt-1 line-clamp-2">' + escapeHtml(playlist.description) + "</span>"
+                : "") +
+              (playlist.trackCount
+                ? '<span class="block font-mono text-[10px] uppercase tracking-widest text-muted mt-2">' + playlist.trackCount + " tracks</span>"
+                : "") +
+              "</span>" +
+              linkClose(playlist.url)
+            );
+          })
+          .join("");
+        return (
+          "<div>" +
+          '<p class="font-mono text-[10px] uppercase tracking-widest text-muted mb-5">Featured playlists</p>' +
+          '<div class="grid sm:grid-cols-2 gap-6">' + items + "</div></div>"
+        );
+      }
+
+      function renderFallback(message) {
+        return (
+          '<div class="rounded-[2.5rem] bg-elevated border border-hairline p-10 text-center">' +
+          '<p class="text-muted">' + escapeHtml(message) + "</p>" +
+          '<a href="https://open.spotify.com/" target="_blank" rel="noopener noreferrer" class="inline-block mt-4 text-ink font-medium underline decoration-2 decoration-ember underline-offset-4">View my profile on Spotify</a>' +
+          "</div>"
+        );
+      }
+
+      async function loadMusic() {
+        var container = document.getElementById("music-content");
+        if (!container) return;
+
+        var data;
+        try {
+          var res = await fetch("./data/music.json", { cache: "no-store" });
+          if (!res.ok) throw new Error("status " + res.status);
+          data = await res.json();
+        } catch (err) {
+          console.error("Could not load music data:", err);
+          container.innerHTML = renderFallback(
+            "Couldn't load live listening data right now. Check back soon, or view my profile directly."
+          );
+          return;
+        }
+
+        var hasAnything =
+          data.nowPlaying ||
+          (data.recentlyPlayed && data.recentlyPlayed.length) ||
+          (data.topArtists && data.topArtists.length) ||
+          (data.topTracks && data.topTracks.length) ||
+          (data.featuredPlaylists && data.featuredPlaylists.length);
+
+        if (!hasAnything) {
+          container.innerHTML = renderFallback(
+            "No listening data yet. Check back after the next sync, or view my profile directly."
+          );
+          return;
+        }
+
+        var updated = formatUpdatedAt(data.updatedAt);
+        var html = "";
+        if (updated) {
+          html += '<p class="font-mono text-[11px] uppercase tracking-widest text-muted mb-10">Updated ' + escapeHtml(updated) + "</p>";
+        }
+        html += renderNowPlaying(data.nowPlaying);
+        html += renderRecentlyPlayed(data.recentlyPlayed);
+        html += renderTopArtists(data.topArtists);
+        html += renderTopTracks(data.topTracks);
+        html += renderFeaturedPlaylists(data.featuredPlaylists);
+        container.innerHTML = html;
+      }
+
+      loadMusic();
+    })();
+  </script>
+</body>
+</html>
