@@ -318,10 +318,6 @@
       <rect x="4" width="2" height="10" fill="#FECC00" />
       <rect y="4" width="16" height="2" fill="#FECC00" />
     </symbol>
-    <!-- Spotify icon glyph, per developer.spotify.com/documentation/design -->
-    <symbol id="spotify-icon" viewBox="0 0 24 24">
-      <path d="M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z" />
-    </symbol>
   </svg>
 
   <!-- nav -->
@@ -339,7 +335,6 @@
       <nav class="hidden md:flex items-center gap-8 font-mono text-xs uppercase tracking-widest text-slate">
         <a href="#work" class="hover:text-bone transition-colors">Work</a>
         <a href="#about" class="hover:text-bone transition-colors">About</a>
-        <a href="#music" class="hover:text-bone transition-colors">Music</a>
         <a href="#contact" class="hover:text-bone transition-colors">Contact</a>
       </nav>
       <div class="flex items-center gap-3">
@@ -462,7 +457,7 @@
               <span class="rounded-full border border-tagline px-3 py-1">Node.js</span>
               <span class="rounded-full border border-tagline px-3 py-1">OAuth</span>
             </div>
-            <a href="#" class="underline-link inline-flex items-center gap-1.5 text-sm font-medium">View project <span aria-hidden="true">&rarr;</span></a>
+            <a href="./music.html" class="underline-link inline-flex items-center gap-1.5 text-sm font-medium">View project <span aria-hidden="true">&rarr;</span></a>
           </div>
         </article>
 
@@ -475,22 +470,23 @@
               <span class="w-9 h-9 rounded-lg bg-canvas flex items-center justify-center">
                 <span class="badge-bars"><i style="height: 55%"></i><i style="height: 30%"></i><i style="height: 85%"></i><i style="height: 65%"></i></span>
               </span>
-              <span class="font-mono text-[10px] uppercase tracking-widest text-slate">Full-Stack</span>
+              <span class="font-mono text-[10px] uppercase tracking-widest text-slate">AI Prototype</span>
             </div>
-            <h3 class="font-display font-bold text-xl mb-3">Company Database Platform</h3>
+            <h3 class="font-display font-bold text-xl mb-3">Meridian</h3>
             <p class="text-slate text-sm leading-relaxed">
-              An internal web application for managing a company's records,
-              searchable and structured, built to replace a tangle of
-              spreadsheets with a proper database backend and a clean front end.
+              A browser-based prototype of a personal AI workspace, styled
+              after native macOS apps: a morning briefing, inbox, notes, a
+              task board, voice capture, a calendar, and a command-palette
+              assistant, all running on mocked data.
             </p>
           </div>
           <div class="mt-8">
             <div class="flex flex-wrap gap-2 mb-6 font-mono text-[10px] uppercase tracking-widest text-slate">
-              <span class="rounded-full border border-tagline px-3 py-1">SQL</span>
-              <span class="rounded-full border border-tagline px-3 py-1">React</span>
-              <span class="rounded-full border border-tagline px-3 py-1">Node.js</span>
+              <span class="rounded-full border border-tagline px-3 py-1">Vanilla JS</span>
+              <span class="rounded-full border border-tagline px-3 py-1">AI UX</span>
+              <span class="rounded-full border border-tagline px-3 py-1">Interaction Design</span>
             </div>
-            <a href="https://rasmusnorkvist.github.io/builder_site/" target="_blank" rel="noopener noreferrer" class="underline-link inline-flex items-center gap-1.5 text-sm font-medium">View project <span aria-hidden="true">&rarr;</span></a>
+            <a href="./meridian.html" class="underline-link inline-flex items-center gap-1.5 text-sm font-medium">View project <span aria-hidden="true">&rarr;</span></a>
           </div>
         </article>
 
@@ -616,41 +612,6 @@
     </div>
   </section>
 
-  <!-- music -->
-  <section id="music" class="py-28 md:py-36 bg-surface border-y border-hairline">
-    <div class="max-w-[1400px] mx-auto px-6 md:px-10 lg:px-16">
-      <div class="reveal flex items-end justify-between flex-wrap gap-6 mb-16">
-        <div>
-          <p class="font-mono text-xs uppercase tracking-[0.2em] text-accent mb-4">My music</p>
-          <h2 class="font-display font-bold text-4xl md:text-5xl tracking-tight">What I'm listening to</h2>
-        </div>
-        <a
-          href="https://open.spotify.com/"
-          target="_blank"
-          rel="noopener noreferrer"
-          aria-label="Open Spotify"
-          class="inline-flex items-center gap-2 text-bone hover:text-accent transition-colors"
-        >
-          <svg class="w-6 h-6 shrink-0" fill="currentColor" aria-hidden="true"><use href="#spotify-icon" /></svg>
-          <span class="font-display font-bold text-lg tracking-tight">Spotify</span>
-        </a>
-      </div>
-
-      <div id="music-content" class="reveal">
-        <div class="rounded-2xl border border-hairline p-10 text-center">
-          <p class="text-slate">Listening data loads live from Spotify.</p>
-          <a
-            href="https://open.spotify.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-            class="underline-link inline-block mt-4 text-bone font-medium"
-            >View my profile on Spotify</a
-          >
-        </div>
-      </div>
-    </div>
-  </section>
-
   <!-- contact -->
   <section id="contact" class="relative py-28 md:py-40 overflow-hidden">
     <div
@@ -680,9 +641,18 @@
       </div>
 
       <div class="reveal mt-10 flex flex-wrap items-center justify-center gap-4">
-        <!-- placeholder social hrefs: point these at the real profiles -->
-        <a href="#" class="rounded-full border border-line px-5 py-2.5 font-mono text-xs uppercase tracking-widest hover:bg-accent hover:text-ink hover:border-accent transition-colors">LinkedIn</a>
+        <a
+          href="https://www.linkedin.com/in/rasmus-norkvist"
+          target="_blank"
+          rel="noopener noreferrer"
+          class="rounded-full border border-line px-5 py-2.5 font-mono text-xs uppercase tracking-widest hover:bg-accent hover:text-ink hover:border-accent transition-colors"
+          >LinkedIn</a
+        >
+        <!-- GitHub disabled for now, not deleted: restore by swapping this
+             back to a normal <a href="..."> once ready to link it again. -->
+        <!--
         <a href="#" class="rounded-full border border-line px-5 py-2.5 font-mono text-xs uppercase tracking-widest hover:bg-accent hover:text-ink hover:border-accent transition-colors">GitHub</a>
+        -->
         <a
           href="./assets/cv/Rasmus-Norkvist-CV.pdf"
           download
@@ -730,245 +700,6 @@
       localStorage.setItem("theme", next);
       syncLabel();
     });
-  </script>
-
-  <script>
-    // "My music" section: fetches the statically-generated data/music.json
-    // (built by scripts/fetch-spotify-data.mjs via GitHub Actions) and
-    // renders it. If this never runs — JS disabled, fetch fails, file
-    // missing — #music-content keeps the static fallback already in the
-    // HTML, so the section still makes sense without JavaScript.
-    (function () {
-      function escapeHtml(value) {
-        return String(value ?? "").replace(/[&<>"']/g, function (c) {
-          return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
-        });
-      }
-
-      function safeUrl(url) {
-        return typeof url === "string" && url.startsWith("https://") ? url : null;
-      }
-
-      function formatDuration(ms) {
-        if (typeof ms !== "number" || !isFinite(ms)) return null;
-        var totalSeconds = Math.round(ms / 1000);
-        var minutes = Math.floor(totalSeconds / 60);
-        var seconds = totalSeconds % 60;
-        return minutes + ":" + String(seconds).padStart(2, "0");
-      }
-
-      function formatUpdatedAt(iso) {
-        try {
-          return new Date(iso).toLocaleString(undefined, { dateStyle: "medium", timeStyle: "short" });
-        } catch (err) {
-          return null;
-        }
-      }
-
-      function artistNames(artists) {
-        return Array.isArray(artists) ? artists.filter(Boolean).join(", ") : "";
-      }
-
-      function linkOpen(url) {
-        var href = safeUrl(url);
-        return href
-          ? '<a href="' + href + '" target="_blank" rel="noopener noreferrer"'
-          : "<span";
-      }
-      function linkClose(url) {
-        return safeUrl(url) ? "</a>" : "</span>";
-      }
-
-      function renderNowPlaying(track) {
-        if (!track || !track.name) return "";
-        var artists = escapeHtml(artistNames(track.artists));
-        var img = safeUrl(track.albumImageUrl);
-        var alt = escapeHtml(
-          "Album art for " + track.name + (artists ? " by " + artists : "")
-        );
-        return (
-          '<div class="mb-14 rounded-2xl bg-elevated border border-hairline p-6 flex items-center gap-5">' +
-          (img
-            ? '<img src="' + img + '" alt="' + alt + '" class="w-16 h-16 rounded-lg object-cover shrink-0" loading="lazy" />'
-            : "") +
-          '<div class="min-w-0">' +
-          '<p class="flex items-center gap-2 font-mono text-[10px] uppercase tracking-widest text-accent mb-1.5">' +
-          '<span class="relative inline-flex w-2 h-2" aria-hidden="true">' +
-          '<span class="absolute inset-0 rounded-full bg-accent live-dot-ping"></span>' +
-          '<span class="relative block w-2 h-2 rounded-full bg-accent"></span>' +
-          "</span>Now playing</p>" +
-          linkOpen(track.url) +
-          ' class="underline-link font-display font-bold text-lg text-bone block truncate">' +
-          escapeHtml(track.name) +
-          linkClose(track.url) +
-          '<p class="text-slate text-sm truncate">' + artists + "</p>" +
-          "</div></div>"
-        );
-      }
-
-      function renderRecentlyPlayed(tracks) {
-        if (!Array.isArray(tracks) || tracks.length === 0) return "";
-        var items = tracks
-          .map(function (track) {
-            var img = safeUrl(track.albumImageUrl);
-            var artists = escapeHtml(artistNames(track.artists));
-            return (
-              linkOpen(track.url) +
-              ' class="group flex-none w-36">' +
-              (img
-                ? '<img src="' + img + '" alt="' + escapeHtml("Album art for " + (track.album || track.name)) + '" class="w-36 h-36 rounded-lg object-cover border border-hairline transition-shadow group-hover:shadow-[0_16px_40px_-18px_rgba(76,124,240,0.45)]" loading="lazy" />'
-                : "") +
-              '<p class="mt-2 text-sm font-medium text-bone truncate">' + escapeHtml(track.name) + "</p>" +
-              '<p class="text-xs text-slate truncate">' + artists + "</p>" +
-              linkClose(track.url)
-            );
-          })
-          .join("");
-        return (
-          '<div class="mb-14">' +
-          '<p class="font-mono text-[10px] uppercase tracking-widest text-slate mb-4">Recently played</p>' +
-          '<div class="scroll-row">' + items + "</div></div>"
-        );
-      }
-
-      function renderTopArtists(artists) {
-        if (!Array.isArray(artists) || artists.length === 0) return "";
-        var items = artists
-          .map(function (artist) {
-            var img = safeUrl(artist.imageUrl);
-            return (
-              linkOpen(artist.url) +
-              ' class="flex-none w-28 text-center">' +
-              (img
-                ? '<img src="' + img + '" alt="' + escapeHtml("Photo of " + artist.name) + '" class="w-28 h-28 rounded-lg object-cover border border-hairline mx-auto" loading="lazy" />'
-                : "") +
-              '<p class="mt-2 text-sm font-medium text-bone truncate">' + escapeHtml(artist.name) + "</p>" +
-              linkClose(artist.url)
-            );
-          })
-          .join("");
-        return (
-          '<div class="mb-14">' +
-          '<p class="font-mono text-[10px] uppercase tracking-widest text-slate mb-4">Top artists this month</p>' +
-          '<div class="scroll-row">' + items + "</div></div>"
-        );
-      }
-
-      function renderTopTracks(tracks) {
-        if (!Array.isArray(tracks) || tracks.length === 0) return "";
-        var items = tracks
-          .map(function (track) {
-            var img = safeUrl(track.albumImageUrl);
-            var artists = escapeHtml(artistNames(track.artists));
-            var duration = formatDuration(track.durationMs);
-            return (
-              linkOpen(track.url) +
-              ' class="flex items-center gap-3 rounded-xl border border-hairline p-3 hover:border-accent transition-colors">' +
-              (img
-                ? '<img src="' + img + '" alt="' + escapeHtml("Album art for " + (track.album || track.name)) + '" class="w-12 h-12 rounded-[4px] object-cover shrink-0" loading="lazy" />'
-                : "") +
-              '<span class="min-w-0 flex-1">' +
-              '<span class="block text-sm font-medium text-bone truncate">' + escapeHtml(track.name) + "</span>" +
-              '<span class="block text-xs text-slate truncate">' + artists + "</span>" +
-              "</span>" +
-              (duration ? '<span class="font-mono text-xs text-slate shrink-0">' + duration + "</span>" : "") +
-              linkClose(track.url)
-            );
-          })
-          .join("");
-        return (
-          '<div class="mb-14">' +
-          '<p class="font-mono text-[10px] uppercase tracking-widest text-slate mb-4">Top tracks this month</p>' +
-          '<div class="grid sm:grid-cols-2 gap-3">' + items + "</div></div>"
-        );
-      }
-
-      function renderFeaturedPlaylists(playlists) {
-        if (!Array.isArray(playlists) || playlists.length === 0) return "";
-        var items = playlists
-          .map(function (playlist) {
-            var img = safeUrl(playlist.imageUrl);
-            return (
-              linkOpen(playlist.url) +
-              ' class="group rounded-2xl bg-elevated border border-hairline p-6 flex gap-5 items-center transition-shadow hover:shadow-[0_24px_60px_-24px_rgba(76,124,240,0.35)]">' +
-              (img
-                ? '<img src="' + img + '" alt="' + escapeHtml("Cover art for the playlist " + playlist.name) + '" class="w-20 h-20 rounded-lg object-cover shrink-0" loading="lazy" />'
-                : "") +
-              '<span class="min-w-0">' +
-              '<span class="block font-display font-bold text-bone truncate">' + escapeHtml(playlist.name) + "</span>" +
-              (playlist.description
-                ? '<span class="block text-sm text-slate mt-1 line-clamp-2">' + escapeHtml(playlist.description) + "</span>"
-                : "") +
-              (playlist.trackCount
-                ? '<span class="block font-mono text-[10px] uppercase tracking-widest text-slate mt-2">' + playlist.trackCount + " tracks</span>"
-                : "") +
-              "</span>" +
-              linkClose(playlist.url)
-            );
-          })
-          .join("");
-        return (
-          "<div>" +
-          '<p class="font-mono text-[10px] uppercase tracking-widest text-slate mb-4">Featured playlists</p>' +
-          '<div class="grid sm:grid-cols-2 gap-6">' + items + "</div></div>"
-        );
-      }
-
-      function renderFallback(message) {
-        return (
-          '<div class="rounded-2xl border border-hairline p-10 text-center">' +
-          '<p class="text-slate">' + escapeHtml(message) + "</p>" +
-          '<a href="https://open.spotify.com/" target="_blank" rel="noopener noreferrer" class="underline-link inline-block mt-4 text-bone font-medium">View my profile on Spotify</a>' +
-          "</div>"
-        );
-      }
-
-      async function loadMusic() {
-        var container = document.getElementById("music-content");
-        if (!container) return;
-
-        var data;
-        try {
-          var res = await fetch("./data/music.json", { cache: "no-store" });
-          if (!res.ok) throw new Error("status " + res.status);
-          data = await res.json();
-        } catch (err) {
-          console.error("Could not load music data:", err);
-          container.innerHTML = renderFallback(
-            "Couldn't load live listening data right now. Check back soon, or view my profile directly."
-          );
-          return;
-        }
-
-        var hasAnything =
-          data.nowPlaying ||
-          (data.recentlyPlayed && data.recentlyPlayed.length) ||
-          (data.topArtists && data.topArtists.length) ||
-          (data.topTracks && data.topTracks.length) ||
-          (data.featuredPlaylists && data.featuredPlaylists.length);
-
-        if (!hasAnything) {
-          container.innerHTML = renderFallback(
-            "No listening data yet. Check back after the next sync, or view my profile directly."
-          );
-          return;
-        }
-
-        var updated = formatUpdatedAt(data.updatedAt);
-        var html = "";
-        if (updated) {
-          html += '<p class="font-mono text-[11px] uppercase tracking-widest text-slate mb-8">Updated ' + escapeHtml(updated) + "</p>";
-        }
-        html += renderNowPlaying(data.nowPlaying);
-        html += renderRecentlyPlayed(data.recentlyPlayed);
-        html += renderTopArtists(data.topArtists);
-        html += renderTopTracks(data.topTracks);
-        html += renderFeaturedPlaylists(data.featuredPlaylists);
-        container.innerHTML = html;
-      }
-
-      loadMusic();
-    })();
   </script>
 </body>
 </html>
