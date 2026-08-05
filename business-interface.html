@@ -454,7 +454,7 @@
         and the feel before wiring up anything real.
       </p>
       <div class="mt-8 flex flex-wrap gap-2 font-mono text-[10px] uppercase tracking-widest text-slate">
-        <span class="rounded-full border border-tagline px-3 py-1">Product Prototype</span>
+        <span class="rounded-full border border-tagline px-3 py-1">Vanilla JS</span>
         <span class="rounded-full border border-tagline px-3 py-1">AI UX</span>
         <span class="rounded-full border border-tagline px-3 py-1">Interaction Design</span>
         <span class="rounded-full border border-tagline px-3 py-1">Mocked Data</span>
@@ -545,10 +545,6 @@
                 </div>
 
                 <div class="app-card p-5 flex flex-col items-center text-center justify-center">
-                  <p class="flex items-center gap-2 font-mono text-[10px] mb-3" style="color: var(--app-muted)">
-                    <span class="relative inline-flex w-1.5 h-1.5"><span class="absolute inset-0 rounded-full" style="background:#34A874" id="voice-status-ping"></span><span class="relative block w-1.5 h-1.5 rounded-full" style="background:#34A874"></span></span>
-                    Local Whisper connected
-                  </p>
                   <button id="mic-btn" type="button" class="relative w-14 h-14 rounded-full flex items-center justify-center mb-3" style="background:#4c7cf0">
                     <span class="mic-ring absolute inset-0 rounded-full" style="background:#4c7cf0; display:none" id="mic-ring"></span>
                     <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="2" width="6" height="12" rx="3"/><path d="M5 10v1a7 7 0 0 0 14 0v-1M12 18v4M9 22h6"/></svg>
@@ -765,7 +761,7 @@
       class="max-w-[1400px] mx-auto px-6 md:px-10 lg:px-16 flex flex-col sm:flex-row items-center justify-between gap-4 font-mono text-[11px] uppercase tracking-widest text-slate"
     >
       <p>&copy; 2026 Rasmus Norkvist</p>
-      <a href="./index.html" class="hover:text-accent transition-colors">Back to portfolio &rarr;</a>
+      <a href="./index.html" class="hover:text-accent transition-colors">&larr; Back to portfolio</a>
     </div>
   </footer>
 
@@ -816,22 +812,24 @@
     };
 
     const emails = [
-      { id: 1, from: "Priya Shah", subject: "Q3 roadmap review", summary: "Wants your feedback on the roadmap doc before Thursday's sync.", importance: "Urgent", time: "9:14 AM", unread: true, action: "reply" },
+      { id: 1, from: "Priya Shah", subject: "Q3 roadmap review", summary: "Wants your feedback on the roadmap doc before Thursday's sync.", importance: "Urgent", time: "9:14 AM", unread: true, action: "reply", reply: "I'll get comments on the roadmap doc to you before Thursday's sync." },
       { id: 2, from: "GitHub", subject: "Security alert: dependency vulnerability", summary: "One dependency in your repo has a known vulnerability, review recommended.", importance: "Important", time: "8:52 AM", unread: true, action: "archive" },
-      { id: 3, from: "Marcus Webb", subject: "Re: Contract redlines", summary: "Sent back redlines on the vendor contract, needs sign-off today.", importance: "Urgent", time: "8:30 AM", unread: true, action: "reply" },
+      { id: 3, from: "Marcus Webb", subject: "Re: Contract redlines", summary: "Sent back redlines on the vendor contract, needs sign-off today.", importance: "Urgent", time: "8:30 AM", unread: true, action: "reply", reply: "reviewing the redlines now, you'll have my sign-off today." },
       { id: 4, from: "Stripe", subject: "Your invoice is ready", summary: "October invoice for $128.00 has been generated.", importance: "FYI", time: "7:58 AM", unread: false, action: "archive" },
-      { id: 5, from: "Dana Reyes", subject: "Lunch next week?", summary: "Free Tuesday or Wednesday for lunch downtown?", importance: "FYI", time: "Yesterday", unread: true, action: "reply" },
+      { id: 5, from: "Dana Reyes", subject: "Lunch next week?", summary: "Free Tuesday or Wednesday for lunch downtown?", importance: "FYI", time: "Yesterday", unread: true, action: "reply", reply: "Wednesday works better for me, lunch downtown then?" },
       { id: 6, from: "Linear", subject: "3 issues assigned to you", summary: "New issues assigned in the Portfolio Site project.", importance: "Important", time: "Yesterday", unread: false, action: "archive" },
-      { id: 7, from: "Coach Kim", subject: "Great session today", summary: "Notes from today's session and homework for next week.", importance: "FYI", time: "Yesterday", unread: false, action: "reply" },
-      { id: 8, from: "Hana Ito", subject: "Intro: Sofia <> Rasmus", summary: "Making an introduction, Sofia is looking for engineering advice.", importance: "Important", time: "Mon", unread: true, action: "reply" },
+      { id: 7, from: "Coach Kim", subject: "Great session today", summary: "Notes from today's session and homework for next week.", importance: "FYI", time: "Yesterday", unread: false, action: "reply", reply: "thanks, I'll go through the homework before next week's session." },
+      { id: 8, from: "Hana Ito", subject: "Intro: Sofia <> Rasmus", summary: "Making an introduction, Sofia is looking for engineering advice.", importance: "Important", time: "Mon", unread: true, action: "reply", reply: "thanks for the intro, happy to chat with Sofia, I'll reach out directly." },
       { id: 9, from: "Vercel", subject: "Deployment succeeded", summary: "Production deployment of portfolio-website succeeded.", importance: "FYI", time: "Mon", unread: false, action: "archive" },
-      { id: 10, from: "Property Management", subject: "Lease renewal, action needed", summary: "Lease renewal decision needed by end of month.", importance: "Urgent", time: "Mon", unread: true, action: "reply" },
-      { id: 11, from: "Talia Brooks", subject: "Are you open to new roles?", summary: "Reaching out about a Staff Engineer opening.", importance: "FYI", time: "Sun", unread: false, action: "reply" },
+      { id: 10, from: "Property Management", subject: "Lease renewal, action needed", summary: "Lease renewal decision needed by end of month.", importance: "Urgent", time: "Mon", unread: true, action: "reply", reply: "I'll have a decision on the renewal to you before end of month." },
+      { id: 11, from: "Talia Brooks", subject: "Are you open to new roles?", summary: "Reaching out about a Staff Engineer opening.", importance: "FYI", time: "Sun", unread: false, action: "reply", reply: "appreciate you thinking of me, I'm not looking right now but let's stay in touch." },
       { id: 12, from: "Bank Alert", subject: "Unusual sign-in detected", summary: "New sign-in from an unrecognized device, verify it was you.", importance: "Urgent", time: "Sun", unread: false, action: "archive" },
       { id: 13, from: "Stratechery", subject: "Weekly update", summary: "This week: platform economics and the AI stack.", importance: "FYI", time: "Sat", unread: false, action: "archive" },
-      { id: 14, from: "Jordan Alvarez", subject: "Feedback on the CRM demo", summary: "Loved the pipeline view, one note on the mobile layout.", importance: "Important", time: "Fri", unread: false, action: "reply" },
+      { id: 14, from: "Jordan Alvarez", subject: "Feedback on the CRM demo", summary: "Loved the pipeline view, one note on the mobile layout.", importance: "Important", time: "Fri", unread: false, action: "reply", reply: "glad the pipeline view landed well, I'll take a look at the mobile layout issue." },
       { id: 15, from: "Calendar", subject: "Reminder: 1:1 with Dana tomorrow", summary: "Your 1:1 is scheduled for 10:00 AM.", importance: "FYI", time: "Fri", unread: false, action: "calendar" },
     ];
+    const IMPORTANCE_RANK = { Urgent: 0, Important: 1, FYI: 2 };
+    emails.sort((a, b) => IMPORTANCE_RANK[a.importance] - IMPORTANCE_RANK[b.importance]);
 
     const DEAL_STAGES = ["Prospecting", "Qualified", "Negotiation", "Closed Won"];
     let deals = [
@@ -1037,7 +1035,7 @@
           setTimeout(() => {
             area.innerHTML =
               `<p class="font-mono text-[10px] uppercase tracking-widest mb-1.5" style="color:#4c7cf0">AI-drafted reply</p>` +
-              `<p>Hi ${esc(email.from.split(" ")[0])}, thanks for the note on "${esc(email.subject)}", I'll take a look and get back to you shortly.</p>` +
+              `<p>Hi ${esc(email.from.split(" ")[0])}, ${esc(email.reply)}</p>` +
               `<div class="mt-2 flex gap-2"><button class="text-[11px] font-semibold" style="color:#4c7cf0">Copy</button><button class="text-[11px] font-semibold" style="color:var(--app-muted)">Regenerate</button></div>`;
           }, 550);
         })
