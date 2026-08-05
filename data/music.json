@@ -1,133 +1,118 @@
 {
-  "updatedAt": "2026-08-05T22:09:29.448Z",
-  "nowPlaying": {
-    "name": "Ain't No Sunshine",
-    "artists": [
-      "Bill Withers"
-    ],
-    "album": "Just As I Am",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f64b9ea8a8a409c6af86134f",
-    "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt",
-    "durationMs": 126458,
-    "isPlaying": true,
-    "progressMs": 75821
-  },
+  "updatedAt": "2026-08-05T23:28:34.793Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Ẹ Si M'ẹ̀dọ̀",
+      "name": "LA FINE",
       "artists": [
-        "Dele Sosimi",
-        "The Estuary 21",
-        "Lizzy Dosunmu"
+        "Måneskin"
       ],
-      "album": "The Confluence LP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
-      "url": "https://open.spotify.com/track/1oDGJr9sB0krMrTgx36V0T",
-      "durationMs": 181333,
-      "playedAt": "2026-08-05T22:08:14.479Z"
+      "album": "RUSH!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346e72dff16a10e1b5062fdf7",
+      "url": "https://open.spotify.com/track/5glLilgQ2GNudKN4BNCdjt",
+      "durationMs": 200585,
+      "playedAt": "2026-08-05T22:56:27.495Z"
     },
     {
-      "name": "Cigarrett",
+      "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
       "artists": [
-        "Bo Kaspers Orkester"
+        "Armand Van Helden",
+        "Duane Harden"
       ],
-      "album": "I centrum",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346e406a32597436e120b450",
-      "url": "https://open.spotify.com/track/7zA0WYdYSvWM8jxp39i9jd",
-      "durationMs": 170186,
-      "playedAt": "2026-08-05T22:05:32.881Z"
+      "album": "You Don't Know Me (feat. Duane Harden)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ec4e2968bee807ba322cdb18",
+      "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE",
+      "durationMs": 242333,
+      "playedAt": "2026-08-05T22:53:01.023Z"
     },
     {
-      "name": "Terra Preta",
+      "name": "Cobrastyle (feat. Mad Cobra)",
       "artists": [
-        "Tapioca"
+        "Teddybears",
+        "Mad Cobra"
       ],
-      "album": "Samba em Kigali",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27382b0aa364e7d531562a82cf6",
-      "url": "https://open.spotify.com/track/7LZJod02wp8BtAxGMlu6nz",
-      "durationMs": 226416,
-      "playedAt": "2026-08-05T22:03:04.622Z"
+      "album": "Fresh",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731c5ab58ca8dbe135c6482aeb",
+      "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ",
+      "durationMs": 179853,
+      "playedAt": "2026-08-05T22:49:26.194Z"
     },
     {
-      "name": "Chunky",
+      "name": "One More Time",
       "artists": [
-        "Bruno Mars"
+        "Daft Punk"
       ],
-      "album": "24K Magic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
-      "url": "https://open.spotify.com/track/0mBKv9DkYfQHjdMcw2jdyI",
-      "durationMs": 186973,
-      "playedAt": "2026-08-05T21:50:25.890Z"
+      "album": "Discovery",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731e81bff9807a9e629fce5ade",
+      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV",
+      "durationMs": 320357,
+      "playedAt": "2026-08-05T22:46:33.798Z"
     },
     {
-      "name": "Välkommen in",
+      "name": "No One Dies From Love",
       "artists": [
-        "Veronica Maggio"
+        "Tove Lo"
       ],
-      "album": "Satan i gatan (Bonus Version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273de25b67688e3520e24612209",
-      "url": "https://open.spotify.com/track/5MEuFY2DxrozPEgGpR8Fji",
-      "durationMs": 212453,
-      "playedAt": "2026-08-05T21:47:23.989Z"
+      "album": "Dirt Femme",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aeb431774ee02fb6b7a9fea3",
+      "url": "https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm",
+      "durationMs": 186018,
+      "playedAt": "2026-08-05T22:41:55.778Z"
     },
     {
-      "name": "The Rain",
+      "name": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
       "artists": [
-        "Awon",
-        "Phoniks",
-        "Tiff the Gift"
+        "Bee Gees"
       ],
-      "album": "The Actual Proof",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aef4500f9920f7a2464cc883",
-      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew",
-      "durationMs": 163636,
-      "playedAt": "2026-08-05T21:44:31.974Z"
+      "album": "Greatest",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352038992fc6d7868f31d23b7",
+      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH",
+      "durationMs": 285373,
+      "playedAt": "2026-08-05T22:39:01.042Z"
     },
     {
-      "name": "My Type",
+      "name": "Alla vill till himmelen men ingen vill dö",
       "artists": [
-        "Saint Motel"
+        "Timbuktu"
       ],
-      "album": "My Type",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734c8d86fcf617d28a7c55818b",
-      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI",
-      "durationMs": 206393,
-      "playedAt": "2026-08-05T21:42:21.094Z"
+      "album": "Alla vill till himmelen men ingen vill dö",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a4f00fca4d50faa2267cd33e",
+      "url": "https://open.spotify.com/track/6I1kZgg3bGrPKxhZOltbRW",
+      "durationMs": 246386,
+      "playedAt": "2026-08-05T22:34:28.171Z"
     },
     {
-      "name": "När solen går ner",
+      "name": "Känslan kommer tillbaks",
       "artists": [
-        "AKI",
-        "Kapten Röd"
+        "Mange Schmidt"
       ],
-      "album": "När solen går ner",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f9b7078db35fcb3dbef8604a",
-      "url": "https://open.spotify.com/track/68GdZAAowWDac3SkdNWOwo",
-      "durationMs": 203186,
-      "playedAt": "2026-08-05T19:55:23.191Z"
+      "album": "Känslan kommer tillbaks",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27360a54f603f1e126f689c7f0a",
+      "url": "https://open.spotify.com/track/1OhuKBFWdWqCUTxG2DKocb",
+      "durationMs": 253386,
+      "playedAt": "2026-08-05T22:30:48.448Z"
     },
     {
-      "name": "nyc in 1940",
+      "name": "Inga problem",
       "artists": [
-        "berlioz",
-        "Ted Jasper"
+        "Snook"
       ],
-      "album": "nyc in 1940",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e2862147ef657cddb6685f6",
-      "url": "https://open.spotify.com/track/3YbFagT5wCU8M9xLdVID4j",
-      "durationMs": 156611,
-      "playedAt": "2026-08-05T19:52:16.184Z"
+      "album": "Är",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730631f818e6da7c83c3347f48",
+      "url": "https://open.spotify.com/track/3OVqUymp1SZ88kZcL55DhG",
+      "durationMs": 187293,
+      "playedAt": "2026-08-05T22:27:13.247Z"
     },
     {
-      "name": "Will I See You Again?",
+      "name": "God Knows",
       "artists": [
-        "Thee Sacred Souls"
+        "Mando Diao"
       ],
-      "album": "Will I See You Again?",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a6523c6cecb43b3c2f44fd1e",
-      "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl",
-      "durationMs": 240653,
-      "playedAt": "2026-08-05T19:49:43.686Z"
+      "album": "Hurricane Bar",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d77f5131e85a3164f9c3aeed",
+      "url": "https://open.spotify.com/track/7yvVN0WIduWMnVpnIgZehl",
+      "durationMs": 230733,
+      "playedAt": "2026-08-05T22:21:53.096Z"
     }
   ],
   "topArtists": [
@@ -135,10 +120,7 @@
       "name": "Steely Dan",
       "imageUrl": "https://i.scdn.co/image/9d01e4e9aac39b891d684d3d1a5b3a451d7c72bd",
       "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE",
-      "genres": [
-        "yacht rock",
-        "classic rock"
-      ]
+      "genres": []
     },
     {
       "name": "Måneskin",
@@ -150,25 +132,19 @@
       "name": "Paul Simon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
       "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
-      "genres": [
-        "singer-songwriter"
-      ]
+      "genres": []
     },
     {
       "name": "The Waterboys",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb17d1c7c884ca5bf543aa0165",
       "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ",
-      "genres": [
-        "celtic rock"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Labyrint",
@@ -180,12 +156,7 @@
       "name": "The Pharcyde",
       "imageUrl": "https://i.scdn.co/image/db124909dcc277881bf55ed159bd417d82e2ced1",
       "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w",
-      "genres": [
-        "jazz rap",
-        "west coast hip hop",
-        "old school hip hop",
-        "hip hop"
-      ]
+      "genres": []
     },
     {
       "name": "Billy Idol",
