@@ -1,118 +1,116 @@
 {
-  "updatedAt": "2026-08-04T23:32:21.344Z",
+  "updatedAt": "2026-08-05T02:07:30.406Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Je ne t'aime plus",
+      "name": "Freedom",
+      "artists": [
+        "Jurassic 5"
+      ],
+      "album": "Power In Numbers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c416d21ee400e2438cc2c17",
+      "url": "https://open.spotify.com/track/1n4lspQpBo5smutI9K0a0s",
+      "durationMs": 199306,
+      "playedAt": "2026-08-05T00:56:53.743Z"
+    },
+    {
+      "name": "This Is",
+      "artists": [
+        "Jurassic 5"
+      ],
+      "album": "Power In Numbers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c416d21ee400e2438cc2c17",
+      "url": "https://open.spotify.com/track/7sE42ChNv4mrU6xeWZI2oP",
+      "durationMs": 53466,
+      "playedAt": "2026-08-05T00:53:34.159Z"
+    },
+    {
+      "name": "Kiss and Make Up",
+      "artists": [
+        "William DeVaughn"
+      ],
+      "album": "Be Thankful for What You Got",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273246433e2822df12c5ce38688",
+      "url": "https://open.spotify.com/track/10RTNAep02DVEdCihpWlm1",
+      "durationMs": 168403,
+      "playedAt": "2026-08-05T00:47:15.959Z"
+    },
+    {
+      "name": "Give the Little Man a Great Big Hand",
+      "artists": [
+        "William DeVaughn"
+      ],
+      "album": "Be Thankful for What You Got",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273246433e2822df12c5ce38688",
+      "url": "https://open.spotify.com/track/1qlPbluC4EecSgxWfIQhND",
+      "durationMs": 336320,
+      "playedAt": "2026-08-05T00:44:30.391Z"
+    },
+    {
+      "name": "Hold On To Love",
+      "artists": [
+        "William DeVaughn"
+      ],
+      "album": "12 Inch Classics",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738720468c89186dc587a10884",
+      "url": "https://open.spotify.com/track/2i5JYp9wfNXmaWkClybFvH",
+      "durationMs": 301960,
+      "playedAt": "2026-08-05T00:38:57.059Z"
+    },
+    {
+      "name": "Blood Is Thicker Than Water",
+      "artists": [
+        "William DeVaughn"
+      ],
+      "album": "Be Thankful for What You Got",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273246433e2822df12c5ce38688",
+      "url": "https://open.spotify.com/track/5ravNP5lTG0j3S6JKYL5ib",
+      "durationMs": 441889,
+      "playedAt": "2026-08-05T00:33:58.259Z"
+    },
+    {
+      "name": "Be Thankful for What You've Got - David Todd Remix",
+      "artists": [
+        "William DeVaughn"
+      ],
+      "album": "12 Inch Classics",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738720468c89186dc587a10884",
+      "url": "https://open.spotify.com/track/3XCUqMBHMo14AO69RYZRQe",
+      "durationMs": 416173,
+      "playedAt": "2026-08-05T00:26:39.361Z"
+    },
+    {
+      "name": "Be Thankful for What You Got (Pt. 1)",
+      "artists": [
+        "William DeVaughn"
+      ],
+      "album": "Be Thankful for What You Got",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730aea231fa06cd2d74cf0ef4c",
+      "url": "https://open.spotify.com/track/4IxyFnRAdudcJ7MrOVjyfY",
+      "durationMs": 208308,
+      "playedAt": "2026-08-05T00:19:46.155Z"
+    },
+    {
+      "name": "Be Thankful for What You Got",
+      "artists": [
+        "William DeVaughn"
+      ],
+      "album": "Be Thankful for What You Got",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273246433e2822df12c5ce38688",
+      "url": "https://open.spotify.com/track/0kg80JJ3Esi4y6XskIa3vA",
+      "durationMs": 429371,
+      "playedAt": "2026-08-05T00:16:20.861Z"
+    },
+    {
+      "name": "Desaparecido",
       "artists": [
         "Manu Chao"
       ],
       "album": "Clandestino",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27372c5875a8e4b49075978cd04",
-      "url": "https://open.spotify.com/track/7Deb4scGmEv4fY2CZcVnSb",
-      "durationMs": 122760,
-      "playedAt": "2026-08-04T22:29:39.978Z"
-    },
-    {
-      "name": "Clandestino",
-      "artists": [
-        "Manu Chao"
-      ],
-      "album": "Clandestino",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27372c5875a8e4b49075978cd04",
-      "url": "https://open.spotify.com/track/51R2M1JgyFfRS3e6v5wCt3",
-      "durationMs": 149173,
-      "playedAt": "2026-08-04T21:57:03.181Z"
-    },
-    {
-      "name": "A me mi piace",
-      "artists": [
-        "Alfa",
-        "Manu Chao"
-      ],
-      "album": "A me mi piace",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273baea69bad095e8202009ba71",
-      "url": "https://open.spotify.com/track/1HOkC1UCYVIWfnu6KD9Hca",
-      "durationMs": 140669,
-      "playedAt": "2026-08-04T21:54:36.980Z"
-    },
-    {
-      "name": "Bongo Bong",
-      "artists": [
-        "Manu Chao"
-      ],
-      "album": "Clandestino",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27372c5875a8e4b49075978cd04",
-      "url": "https://open.spotify.com/track/00SmB7n85SKROGjybsyq5i",
-      "durationMs": 158426,
-      "playedAt": "2026-08-04T21:52:19.358Z"
-    },
-    {
-      "name": "Viajando Por El Mundo",
-      "artists": [
-        "KAROL G",
-        "Manu Chao"
-      ],
-      "album": "Tropicoqueta",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c0294796e2ee5cf87a47b5f",
-      "url": "https://open.spotify.com/track/4w6Wpq1KWk485krowaqUIV",
-      "durationMs": 268075,
-      "playedAt": "2026-08-04T21:49:43.941Z"
-    },
-    {
-      "name": "Me Gustas Tu",
-      "artists": [
-        "Manu Chao"
-      ],
-      "album": "Próxima Estación: Esperanza",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731dcba4a728ca0b17cbd204a5",
-      "url": "https://open.spotify.com/track/6b37xrsNCWYIUphFBazqD6",
-      "durationMs": 239986,
-      "playedAt": "2026-08-04T21:45:18.877Z"
-    },
-    {
-      "name": "Canned Heat",
-      "artists": [
-        "Jamiroquai"
-      ],
-      "album": "Synkronized",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ccb64f022a53d3e8ec84a20",
-      "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ",
-      "durationMs": 331760,
-      "playedAt": "2026-08-04T21:38:42.501Z"
-    },
-    {
-      "name": "Cosmic Girl - Remastered 2013",
-      "artists": [
-        "Jamiroquai"
-      ],
-      "album": "Travelling Without Moving (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736407aa9a5e5215cf554ad5d1",
-      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK",
-      "durationMs": 244146,
-      "playedAt": "2026-08-04T21:33:13.761Z"
-    },
-    {
-      "name": "Virtual Insanity - Remastered 2006",
-      "artists": [
-        "Jamiroquai"
-      ],
-      "album": "Driving Songs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
-      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
-      "durationMs": 229360,
-      "playedAt": "2026-08-04T21:29:08.412Z"
-    },
-    {
-      "name": "Introduction",
-      "artists": [
-        "Guru"
-      ],
-      "album": "Jazzmatazz Volume 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
-      "url": "https://open.spotify.com/track/2lg1lksPDgFTk2NOJ8bRxv",
-      "durationMs": 80248,
-      "playedAt": "2026-08-03T21:31:18.034Z"
+      "url": "https://open.spotify.com/track/5Hc7O2dX51NI4YcHPuoOpw",
+      "durationMs": 227160,
+      "playedAt": "2026-08-05T00:08:49.860Z"
     }
   ],
   "topArtists": [
@@ -120,7 +118,10 @@
       "name": "Steely Dan",
       "imageUrl": "https://i.scdn.co/image/9d01e4e9aac39b891d684d3d1a5b3a451d7c72bd",
       "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE",
-      "genres": []
+      "genres": [
+        "yacht rock",
+        "classic rock"
+      ]
     },
     {
       "name": "Måneskin",
@@ -132,19 +133,25 @@
       "name": "Paul Simon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
       "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
-      "genres": []
+      "genres": [
+        "singer-songwriter"
+      ]
     },
     {
       "name": "The Waterboys",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb17d1c7c884ca5bf543aa0165",
       "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ",
-      "genres": []
+      "genres": [
+        "celtic rock"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Labyrint",
@@ -156,7 +163,12 @@
       "name": "The Pharcyde",
       "imageUrl": "https://i.scdn.co/image/db124909dcc277881bf55ed159bd417d82e2ced1",
       "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w",
-      "genres": []
+      "genres": [
+        "jazz rap",
+        "west coast hip hop",
+        "old school hip hop",
+        "hip hop"
+      ]
     },
     {
       "name": "Billy Idol",
