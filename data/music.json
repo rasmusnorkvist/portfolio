@@ -1,7 +1,99 @@
 {
-  "updatedAt": "2026-08-05T20:43:18.166Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-05T22:09:29.448Z",
+  "nowPlaying": {
+    "name": "Ain't No Sunshine",
+    "artists": [
+      "Bill Withers"
+    ],
+    "album": "Just As I Am",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f64b9ea8a8a409c6af86134f",
+    "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt",
+    "durationMs": 126458,
+    "isPlaying": true,
+    "progressMs": 75821
+  },
   "recentlyPlayed": [
+    {
+      "name": "Ẹ Si M'ẹ̀dọ̀",
+      "artists": [
+        "Dele Sosimi",
+        "The Estuary 21",
+        "Lizzy Dosunmu"
+      ],
+      "album": "The Confluence LP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
+      "url": "https://open.spotify.com/track/1oDGJr9sB0krMrTgx36V0T",
+      "durationMs": 181333,
+      "playedAt": "2026-08-05T22:08:14.479Z"
+    },
+    {
+      "name": "Cigarrett",
+      "artists": [
+        "Bo Kaspers Orkester"
+      ],
+      "album": "I centrum",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346e406a32597436e120b450",
+      "url": "https://open.spotify.com/track/7zA0WYdYSvWM8jxp39i9jd",
+      "durationMs": 170186,
+      "playedAt": "2026-08-05T22:05:32.881Z"
+    },
+    {
+      "name": "Terra Preta",
+      "artists": [
+        "Tapioca"
+      ],
+      "album": "Samba em Kigali",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27382b0aa364e7d531562a82cf6",
+      "url": "https://open.spotify.com/track/7LZJod02wp8BtAxGMlu6nz",
+      "durationMs": 226416,
+      "playedAt": "2026-08-05T22:03:04.622Z"
+    },
+    {
+      "name": "Chunky",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "album": "24K Magic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
+      "url": "https://open.spotify.com/track/0mBKv9DkYfQHjdMcw2jdyI",
+      "durationMs": 186973,
+      "playedAt": "2026-08-05T21:50:25.890Z"
+    },
+    {
+      "name": "Välkommen in",
+      "artists": [
+        "Veronica Maggio"
+      ],
+      "album": "Satan i gatan (Bonus Version)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273de25b67688e3520e24612209",
+      "url": "https://open.spotify.com/track/5MEuFY2DxrozPEgGpR8Fji",
+      "durationMs": 212453,
+      "playedAt": "2026-08-05T21:47:23.989Z"
+    },
+    {
+      "name": "The Rain",
+      "artists": [
+        "Awon",
+        "Phoniks",
+        "Tiff the Gift"
+      ],
+      "album": "The Actual Proof",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aef4500f9920f7a2464cc883",
+      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew",
+      "durationMs": 163636,
+      "playedAt": "2026-08-05T21:44:31.974Z"
+    },
+    {
+      "name": "My Type",
+      "artists": [
+        "Saint Motel"
+      ],
+      "album": "My Type",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734c8d86fcf617d28a7c55818b",
+      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI",
+      "durationMs": 206393,
+      "playedAt": "2026-08-05T21:42:21.094Z"
+    },
     {
       "name": "När solen går ner",
       "artists": [
@@ -36,85 +128,6 @@
       "url": "https://open.spotify.com/track/4R5GN0mBvb6jkRj3Zvyhkl",
       "durationMs": 240653,
       "playedAt": "2026-08-05T19:49:43.686Z"
-    },
-    {
-      "name": "Berget",
-      "artists": [
-        "Dina Ögon"
-      ],
-      "album": "Oas",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27347f29db19cce35a81aa12888",
-      "url": "https://open.spotify.com/track/7gdRvpMZATkoCadNtNDZyH",
-      "durationMs": 198828,
-      "playedAt": "2026-08-05T19:46:08.292Z"
-    },
-    {
-      "name": "I Just Might",
-      "artists": [
-        "Bruno Mars"
-      ],
-      "album": "The Romantic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395",
-      "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN",
-      "durationMs": 212973,
-      "playedAt": "2026-08-05T19:43:02.073Z"
-    },
-    {
-      "name": "Man I Need",
-      "artists": [
-        "Olivia Dean"
-      ],
-      "album": "The Art of Loving",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739a336bfb6d40bbd90a507417",
-      "url": "https://open.spotify.com/track/0mYXRQpTGjaLJt1l9MY4ps",
-      "durationMs": 184000,
-      "playedAt": "2026-08-05T19:39:35.450Z"
-    },
-    {
-      "name": "It's A Shame",
-      "artists": [
-        "The Spinners"
-      ],
-      "album": "2nd Time Around (Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732fbc810be2d06bd2ddb0321c",
-      "url": "https://open.spotify.com/track/1l1YTy9nJ0trwhsCGcimly",
-      "durationMs": 190058,
-      "playedAt": "2026-08-05T19:36:32.590Z"
-    },
-    {
-      "name": "Mo Se B'ólá tán",
-      "artists": [
-        "Dele Sosimi",
-        "The Estuary 21",
-        "Get Cape. Wear Cape. Fly"
-      ],
-      "album": "The Confluence LP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
-      "url": "https://open.spotify.com/track/3FOchc8aXJPCYc1ybT2EK2",
-      "durationMs": 209626,
-      "playedAt": "2026-08-05T19:33:37.191Z"
-    },
-    {
-      "name": "Dreams - 2004 Remaster",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Rumours (Super Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
-      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz",
-      "durationMs": 257800,
-      "playedAt": "2026-08-05T19:30:14.291Z"
-    },
-    {
-      "name": "Zanzibar",
-      "artists": [
-        "Tapioca"
-      ],
-      "album": "Samba em Kigali",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27382b0aa364e7d531562a82cf6",
-      "url": "https://open.spotify.com/track/3uY01B1OhsSz0h0flODfBX",
-      "durationMs": 229250,
-      "playedAt": "2026-08-05T19:26:02.342Z"
     }
   ],
   "topArtists": [
