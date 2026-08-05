@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-05T17:00:29.779Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-05T19:00:24.121Z",
+  "nowPlaying": {
+    "name": "Edge of Desire",
+    "artists": [
+      "Jonas Blue",
+      "Malive"
+    ],
+    "album": "Edge of Desire",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d62a34460f9106ee437bb0b5",
+    "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT",
+    "durationMs": 134905,
+    "isPlaying": true,
+    "progressMs": 30073
+  },
   "recentlyPlayed": [
     {
       "name": "Break",
@@ -118,7 +130,10 @@
       "name": "Steely Dan",
       "imageUrl": "https://i.scdn.co/image/9d01e4e9aac39b891d684d3d1a5b3a451d7c72bd",
       "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE",
-      "genres": []
+      "genres": [
+        "yacht rock",
+        "classic rock"
+      ]
     },
     {
       "name": "Måneskin",
@@ -130,19 +145,25 @@
       "name": "Paul Simon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
       "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
-      "genres": []
+      "genres": [
+        "singer-songwriter"
+      ]
     },
     {
       "name": "The Waterboys",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb17d1c7c884ca5bf543aa0165",
       "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ",
-      "genres": []
+      "genres": [
+        "celtic rock"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Labyrint",
@@ -154,7 +175,12 @@
       "name": "The Pharcyde",
       "imageUrl": "https://i.scdn.co/image/db124909dcc277881bf55ed159bd417d82e2ced1",
       "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w",
-      "genres": []
+      "genres": [
+        "jazz rap",
+        "west coast hip hop",
+        "old school hip hop",
+        "hip hop"
+      ]
     },
     {
       "name": "Billy Idol",
