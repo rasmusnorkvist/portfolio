@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-05T02:07:30.406Z",
+  "updatedAt": "2026-08-05T05:28:53.949Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "If You Only Knew",
+      "artists": [
+        "Jurassic 5"
+      ],
+      "album": "Power In Numbers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c416d21ee400e2438cc2c17",
+      "url": "https://open.spotify.com/track/0xwkyhdYcYaDnxrwZditrc",
+      "durationMs": 231533,
+      "playedAt": "2026-08-05T04:27:34.368Z"
+    },
     {
       "name": "Freedom",
       "artists": [
@@ -100,17 +111,6 @@
       "url": "https://open.spotify.com/track/0kg80JJ3Esi4y6XskIa3vA",
       "durationMs": 429371,
       "playedAt": "2026-08-05T00:16:20.861Z"
-    },
-    {
-      "name": "Desaparecido",
-      "artists": [
-        "Manu Chao"
-      ],
-      "album": "Clandestino",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27372c5875a8e4b49075978cd04",
-      "url": "https://open.spotify.com/track/5Hc7O2dX51NI4YcHPuoOpw",
-      "durationMs": 227160,
-      "playedAt": "2026-08-05T00:08:49.860Z"
     }
   ],
   "topArtists": [
