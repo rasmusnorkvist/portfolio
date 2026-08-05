@@ -1,0 +1,2005 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Company Directory · Rasmus Norkvist</title>
+<meta name="description" content="A live builder/contractor directory for Washington state, built by Rasmus Norkvist: Airtable-backed, mapped against real city and county boundaries, with CSV export and document generation.">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="https://unpkg.com/jszip@3.10.1/dist/jszip.min.js"></script>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@500;600;700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  html { scroll-behavior: smooth; }
+  :root {
+    --navy-900: #26331F;
+    --navy-800: #33422B;
+    --navy-700: #435635;
+    --navy-600: #557046;
+    --accent: #4F6B47;
+    --accent-hover: #33472E;
+    --danger: #A8472E;
+    --gold: #B8862E;
+    --bg: #EFEEE4;
+    --surface: #FBFAF4;
+    --border: #DEDCCB;
+    --border-strong: #C7C4AC;
+    --text: #1C2118;
+    --text-muted: #6B6A5C;
+    --shadow-sm: 0 1px 2px rgba(28,33,24,0.05), 0 1px 3px rgba(28,33,24,0.07);
+    --shadow-md: 0 4px 14px rgba(28,33,24,0.09);
+    --shadow-lg: 0 10px 30px rgba(28,33,24,0.14);
+    --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --font-heading: 'Zilla Slab', Georgia, serif;
+    --font-mono: 'JetBrains Mono', monospace;
+  }
+  * { box-sizing: border-box; }
+  html, body { background: var(--bg); }
+  body {
+    font-family: var(--font-body);
+    margin: 0; padding: 0;
+    color: var(--text);
+    font-size: 14px;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  /* ---------------- portfolio wrapper (matches the rest of the site) ---------------- */
+  .portfolio-nav {
+    position: sticky; top: 0; z-index: 70;
+    background: rgba(239,238,228,0.88);
+    backdrop-filter: saturate(160%) blur(10px);
+    border-bottom: 1px solid var(--border);
+    padding: 14px 40px;
+    display: flex; align-items: center;
+  }
+  .portfolio-nav a {
+    display: inline-flex; align-items: center; gap: 8px;
+    font-family: var(--font-mono); font-size: 12px; text-transform: uppercase; letter-spacing: 0.12em;
+    color: var(--navy-800); text-decoration: none;
+  }
+  .portfolio-nav a:hover { color: var(--accent); text-decoration: none; }
+  .portfolio-nav .rn-badge {
+    width: 26px; height: 26px; border-radius: 8px; background: var(--navy-900);
+    color: #fff; display: grid; place-items: center; font-family: var(--font-heading); font-weight: 700; font-size: 12px;
+  }
+  .portfolio-intro { max-width: 1440px; margin: 0 auto; padding: 44px 40px 12px; }
+  .portfolio-eyebrow {
+    font-family: var(--font-mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.2em;
+    color: var(--accent); margin: 0 0 14px;
+  }
+  .portfolio-h1 {
+    font-family: var(--font-heading); font-weight: 700; font-size: 44px; letter-spacing: -0.01em;
+    color: var(--navy-900); margin: 0 0 14px; max-width: 720px;
+  }
+  .portfolio-desc { max-width: 640px; color: var(--text-muted); font-size: 15px; line-height: 1.65; margin: 0 0 22px; }
+  .portfolio-tags { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 8px; padding: 0; list-style: none; }
+  .portfolio-tags li {
+    font-family: var(--font-mono); font-size: 10px; text-transform: uppercase; letter-spacing: 0.1em;
+    border: 1px solid var(--border-strong); border-radius: 999px; padding: 6px 14px; color: var(--navy-800);
+  }
+  .portfolio-footer {
+    max-width: 1440px; margin: 0 auto; padding: 30px 40px 50px;
+    display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: 10px;
+    font-family: var(--font-mono); font-size: 11px; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-muted);
+  }
+  .portfolio-footer a { color: inherit; text-decoration: none; }
+  .portfolio-footer a:hover { color: var(--accent); }
+  @media (max-width: 900px) {
+    .portfolio-nav, .portfolio-intro, .portfolio-footer { padding-left: 20px; padding-right: 20px; }
+    .portfolio-h1 { font-size: 32px; }
+  }
+
+  .site-header {
+    background: var(--surface);
+    border-bottom: 1px solid var(--border);
+    padding: 18px 40px;
+    display: flex; align-items: center; justify-content: space-between;
+    position: sticky; top: 53px; z-index: 50;
+    backdrop-filter: saturate(180%) blur(8px);
+  }
+  .brand { display: flex; align-items: center; gap: 12px; }
+  .brand-mark {
+    width: 34px; height: 34px; border-radius: 10px;
+    background: var(--navy-900);
+    display: grid; place-items: center;
+    color: #fff; font-weight: 700; font-size: 15px;
+    letter-spacing: 0.5px;
+    font-family: var(--font-heading);
+  }
+  .brand-name { font-family: var(--font-heading); font-size: 18px; font-weight: 600; color: var(--navy-900); letter-spacing: -0.01em; }
+  .brand-sub { font-size: 11px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.12em; margin-top: 2px; font-family: var(--font-mono); }
+  .site-nav { display: flex; gap: 28px; font-size: 14px; color: var(--navy-800); font-weight: 500; }
+  .site-nav a { color: inherit; text-decoration: none; }
+  .site-nav a:hover { color: var(--accent); }
+
+  .page-wrap { max-width: 1440px; margin: 0 auto; padding: 32px 40px 60px; }
+  .page-title { font-family: var(--font-heading); font-size: 34px; font-weight: 700; letter-spacing: -0.01em; margin: 0 0 4px; color: var(--navy-900); }
+  .page-subtitle { color: var(--text-muted); font-size: 15px; margin: 0 0 28px; }
+
+  h2 { font-family: var(--font-heading); font-size: 26px; font-weight: 700; letter-spacing: -0.005em; color: var(--navy-900); margin: 0 0 4px; }
+  h3 { font-family: var(--font-heading); color: var(--navy-900); font-weight: 600; letter-spacing: 0; }
+
+  .page-layout { display: flex; gap: 32px; align-items: flex-start; }
+  .main-content { flex: 1; min-width: 0; }
+  .map-sidebar { width: 260px; flex-shrink: 0; position: sticky; top: 150px; }
+  .map-sidebar-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 10px; }
+  .map-sidebar h3 { font-size: 13px; margin: 0; text-transform: uppercase; letter-spacing: 0.1em; color: var(--text-muted); font-weight: 600; font-family: var(--font-mono); }
+  .map-toggle-btn { font-size: 11px; padding: 3px 8px; }
+  #cityMap { height: 300px; border: none; background: transparent; overflow: hidden; border-radius: 16px; }
+  .city-map-label { background: none; border: none; box-shadow: none; padding: 0; font-size: 11px; font-weight: 600; color: #fff; text-shadow: 0 0 3px rgba(0,0,0,0.9), 0 0 3px rgba(0,0,0,0.9); white-space: nowrap; pointer-events: none; font-family: var(--font-mono); }
+  .city-map-label::before { display: none; }
+  .map-note { font-size: 12px; color: var(--text-muted); margin-top: 8px; }
+
+  @media (max-width: 900px) {
+    .site-header, .page-wrap { padding-left: 20px; padding-right: 20px; }
+    .site-nav { display: none; }
+    .page-layout { flex-direction: column; }
+    .map-sidebar { width: 100%; position: static; top: auto; }
+  }
+
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { color: var(--accent-hover); text-decoration: underline; }
+
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 20px 22px;
+    box-shadow: var(--shadow-sm);
+  }
+
+  .setup {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-left: 4px solid var(--accent);
+    border-radius: 16px;
+    padding: 20px 22px;
+    margin-bottom: 20px;
+    font-size: 14px;
+    box-shadow: var(--shadow-sm);
+  }
+  .setup strong { color: var(--navy-900); }
+  .setup input { width: 100%; margin: 6px 0 12px; padding: 9px 12px; border: 1px solid var(--border-strong); border-radius: 10px; font: inherit; background: #fff; transition: border-color .15s, box-shadow .15s; }
+  .setup input:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(79,107,71,0.16); }
+  .setup label { font-size: 12px; color: var(--text-muted); font-weight: 500; }
+
+  .toolbar {
+    display: flex; gap: 10px; margin-bottom: 14px; flex-wrap: wrap;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    padding: 14px;
+    border-radius: 16px;
+    box-shadow: var(--shadow-sm);
+  }
+  .list-controls { display: flex; gap: 8px; margin: 14px 0 6px; }
+  .list-controls button { font-size: 12px; padding: 6px 12px; }
+  .search-wrap { position: relative; flex: 1; min-width: 0; max-width: 100%; display: flex; align-items: center; }
+  #search {
+    width: 100%; min-width: 0; box-sizing: border-box; padding: 7px 28px 7px 12px; line-height: normal;
+    border: 1px solid var(--border-strong); border-radius: 10px; background: #fff; font: inherit; color: var(--navy-800);
+  }
+  #search:hover { border-color: var(--accent); }
+  #searchClear { position: absolute; right: 8px; top: 50%; transform: translateY(-50%); border: none; background: none; padding: 2px 4px; cursor: pointer; color: var(--text-muted); font-size: 16px; line-height: 1; display: none; }
+  #searchClear:hover { color: var(--accent); }
+  #searchCategory {
+    padding: 7px 12px; border: 1px solid var(--border-strong); border-radius: 10px;
+    background: #fff; cursor: pointer; font: inherit; color: var(--navy-800); font-weight: 500;
+  }
+  #searchCategory:hover { border-color: var(--accent); }
+  #searchCategory:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(79,107,71,0.16); }
+
+  input[type=text], input[type=password] {
+    flex: 1; min-width: 200px;
+    padding: 9px 12px;
+    border: 1px solid var(--border-strong);
+    border-radius: 10px;
+    font: inherit;
+    background: #fff;
+    transition: border-color .15s, box-shadow .15s;
+  }
+  input[type=text]:focus, input[type=password]:focus {
+    outline: none; border-color: var(--accent);
+    box-shadow: 0 0 0 3px rgba(79,107,71,0.16);
+  }
+
+  button {
+    padding: 9px 16px;
+    border: 1px solid var(--border-strong);
+    border-radius: 999px;
+    background: #fff;
+    color: var(--navy-800);
+    cursor: pointer;
+    font: inherit;
+    font-weight: 500;
+    transition: all .15s ease;
+  }
+  button:hover { border-color: var(--accent); color: var(--accent); background: #fff; }
+  button.primary {
+    background: var(--navy-900);
+    color: #fff;
+    border-color: var(--navy-900);
+    box-shadow: var(--shadow-sm);
+  }
+  button.primary:hover { background: var(--navy-700); border-color: var(--navy-700); color: #fff; }
+
+  table {
+    width: 100%; border-collapse: separate; border-spacing: 0;
+    font-size: 13px; margin-top: 16px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    box-shadow: var(--shadow-sm);
+  }
+  /* No overflow:hidden on the table — it would clip the filter dropdown panels, which are
+     absolutely positioned descendants of the header cells. Rounded corners are faked instead by
+     rounding just the outermost cells. */
+  thead tr:first-child th:first-child { border-top-left-radius: 16px; }
+  thead tr:first-child th:last-child { border-top-right-radius: 16px; }
+  tbody tr:last-child td:first-child { border-bottom-left-radius: 16px; }
+  tbody tr:last-child td:last-child { border-bottom-right-radius: 16px; }
+  th, td { padding: 14px 16px; border-bottom: 1px solid var(--border); text-align: left; vertical-align: middle; }
+  tr:last-child td { border-bottom: none; }
+  th {
+    background: #F3F1E4;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-muted);
+    font-weight: 600;
+    font-family: var(--font-mono);
+  }
+  tbody tr { transition: background .12s; }
+  tbody tr:hover { background: #F3F1E4; }
+
+  .status { font-size: 13px; color: var(--text-muted); margin: 8px 2px; }
+
+  .modal-overlay { position: fixed; inset: 0; background: rgba(28,33,24,0.55); display: flex; align-items: center; justify-content: center; z-index: 100; backdrop-filter: blur(2px); }
+  .modal {
+    background: #fff; border-radius: 22px; width: 460px; max-width: calc(100vw - 32px); max-height: 80vh;
+    box-shadow: var(--shadow-lg); position: relative; overflow: hidden;
+    display: flex; flex-direction: column;
+  }
+  .modal-header { display: flex; align-items: flex-start; justify-content: space-between; gap: 12px; padding: 24px 28px 0 28px; flex-shrink: 0; }
+  .modal-header h3 { margin: 0; }
+  .modal-scroll { flex: 1; min-height: 0; overflow-y: auto; padding: 16px 28px 28px; }
+  .field { margin-bottom: 14px; }
+  .field label { display: block; font-size: 12px; color: var(--text-muted); margin-bottom: 5px; font-weight: 500; }
+  .field > input, .field > textarea { width: 100%; padding: 9px 12px; border: 1px solid var(--border-strong); border-radius: 10px; font: inherit; }
+  .field input:focus, .field textarea:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(79,107,71,0.16); }
+  .field .dropdown-toggle { width: 100%; box-sizing: border-box; }
+
+  th .dropdown-box { font-weight: normal; }
+  .dropdown-box { position: relative; }
+  .dropdown-toggle {
+    display: flex; align-items: center; justify-content: space-between; gap: 8px;
+    padding: 7px 12px; border: 1px solid var(--border-strong); border-radius: 10px;
+    background: #fff; cursor: pointer; min-width: 140px; text-align: left; font: inherit;
+    color: var(--navy-800); font-weight: 500;
+    text-transform: none; letter-spacing: 0;
+  }
+  .dropdown-toggle:hover { border-color: var(--accent); }
+  .dropdown-toggle-arrow { line-height: 1; display: inline-flex; align-items: center; flex-shrink: 0; }
+  .dropdown-panel {
+    position: absolute; top: 100%; left: 0; z-index: 60;
+    display: flex; flex-direction: column;
+    background: #fff; border: 1px solid var(--border);
+    border-radius: 14px; margin-top: 6px; min-width: 260px;
+    box-shadow: var(--shadow-lg);
+  }
+  .dropdown-search-wrap { position: relative; margin: 10px 10px 0; display: flex; align-items: center; }
+  input.dropdown-search { width: 100%; box-sizing: border-box; margin: 0; padding: 8px 26px 8px 10px; border: 1px solid var(--border-strong); border-radius: 10px; line-height: normal; position: relative; top: -5px; }
+  .dd-search-clear { position: absolute; right: 6px; top: calc(50% - 5px); transform: translateY(-50%); border: none; background: none; padding: 2px 4px; cursor: pointer; color: var(--text-muted); font-size: 14px; line-height: 1; display: none; }
+  .dd-search-clear:hover { color: var(--accent); }
+  .dropdown-options { overflow-y: auto; max-height: 240px; padding: 8px 0; }
+  .dropdown-option { display: flex; align-items: center; gap: 8px; padding: 6px 14px; font-size: 13px; cursor: pointer; color: var(--navy-800); }
+  .dropdown-option:hover { background: #EEF0E1; color: var(--accent); }
+  .dropdown-group .dropdown-option { padding-left: 40px; }
+  .dropdown-group-checkbox, .dropdown-option input[type="checkbox"] { width: 14px; height: 14px; margin: 0; flex-shrink: 0; }
+  .field .dropdown-group-checkbox { position: relative; top: 3px; left: -2px; }
+  .dropdown-empty { padding: 8px 14px; font-size: 13px; color: var(--text-muted); }
+  .dropdown-actions { display: flex; gap: 6px; padding: 10px; border-top: 1px solid var(--border); }
+  .dropdown-actions button { flex: 1; font-size: 12px; padding: 5px 8px; }
+  .dropdown-group-label { display: flex; align-items: center; gap: 6px; padding: 8px 14px; font-size: 11px; line-height: 14px; font-weight: 600; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.06em; font-family: var(--font-mono); }
+  .dropdown-group-toggle { cursor: pointer; color: var(--text-muted); display: inline-flex; align-items: center; justify-content: center; width: 14px; height: 14px; flex-shrink: 0; }
+  .dropdown-group-toggle:hover { color: var(--accent); }
+  .dropdown-group-name { display: flex; align-items: center; gap: 6px; cursor: pointer; flex: 1; }
+  .dropdown-group-name:hover { color: var(--accent); }
+  .dd-see-more { display: block; width: calc(100% - 20px); margin: 4px 10px 10px; font-size: 12px; padding: 5px 8px; }
+
+  .expand-row td { background: #F3F1E4; padding: 20px 24px; }
+  .missing-dot-cell { text-align: right; }
+  .missing-dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; background: var(--gold); }
+  .badge {
+    display: inline-block; background: #E9EDDD; color: var(--navy-700);
+    border-radius: 999px; padding: 3px 10px; font-size: 12px; font-weight: 500;
+    border: 1px solid #D3D6B4;
+  }
+  .chev, .chev-col { width: 32px; text-align: center; padding-left: 14px; padding-right: 4px; }
+  .chev { cursor: pointer; color: var(--text-muted); font-size: 22px; line-height: 1; transition: color .12s, transform .12s; }
+  .chev:hover { color: var(--accent); }
+
+  .offline-banner { background: #FBEAE2; border: 1px solid #E5B49E; color: #7A3620; padding: 10px 16px; border-radius: 12px; font-size: 13px; margin-bottom: 12px; display: none; }
+  .demo-banner {
+    background: #F3EAD8;
+    border: 1px solid #DCC48F;
+    color: var(--navy-700);
+    padding: 12px 18px;
+    border-radius: 12px;
+    font-size: 13px;
+    margin-bottom: 16px;
+  }
+  .demo-banner strong { color: var(--gold); }
+
+  .notes-box {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    padding: 22px 24px;
+    margin-top: 32px;
+    font-size: 14px;
+    box-shadow: var(--shadow-sm);
+  }
+  .notes-box h3 { margin: 0 0 14px; font-size: 16px; }
+  .notes-list { margin: 0 0 14px; }
+  .note-item { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; padding: 10px 0; border-bottom: 1px solid var(--border); font-size: 13px; }
+  .note-item:last-child { border-bottom: none; }
+  .note-text { white-space: pre-wrap; color: var(--navy-800); }
+  .note-date { color: var(--text-muted); font-size: 12px; white-space: nowrap; margin-left: 8px; }
+  .note-del { border: none; background: none; color: var(--danger); cursor: pointer; font-size: 13px; padding: 0 4px; }
+  .note-del:hover { color: var(--danger); text-decoration: underline; }
+  .note-add-row { display: flex; gap: 10px; margin-top: 10px; }
+  .note-add-row textarea { flex: 1; padding: 9px 12px; border: 1px solid var(--border-strong); border-radius: 10px; font: inherit; resize: vertical; min-height: 42px; }
+  .note-add-row textarea:focus { outline: none; border-color: var(--accent); box-shadow: 0 0 0 3px rgba(79,107,71,0.16); }
+</style>
+</head>
+<body>
+<header class="portfolio-nav">
+  <a href="./index.html">← Back to portfolio</a>
+</header>
+<section class="portfolio-intro">
+  <p class="portfolio-eyebrow">Selected work</p>
+  <h1 class="portfolio-h1">Company Directory</h1>
+  <p class="portfolio-desc">
+    A searchable directory of homebuilders and contractors across Washington
+    state, synced live to Airtable and mapped against real city and county
+    boundaries. Filterable by company type, building type, and location,
+    with CSV export, contact management, and on-the-fly document generation.
+  </p>
+  <ul class="portfolio-tags">
+    <li>Airtable API</li>
+    <li>Leaflet</li>
+    <li>Vanilla JS</li>
+    <li>CSV Export</li>
+  </ul>
+</section>
+<header class="site-header">
+  <a href="#" class="brand" id="homeLink">
+    <div class="brand-mark">WA</div>
+    <div>
+      <div class="brand-name">Company Directory</div>
+      <div class="brand-sub">Land Intelligence</div>
+    </div>
+  </a>
+  <nav class="site-nav">
+    <a href="#" id="navDirectoryLink">Directory</a>
+    <a href="#mapSidebar" id="navMapLink">Map</a>
+    <a href="#notesBox" id="navNotesLink">Notes</a>
+  </nav>
+</header>
+<div class="page-wrap">
+<h1 class="page-title" id="pageTitle">Company Directory (not yet connected to database)</h1>
+<p class="page-subtitle">Search, filter, and manage companies across Washington state.</p>
+<div class="page-layout">
+<div class="main-content">
+
+<div class="setup" id="setupBox" style="display:none;">
+  <strong>Connect to Airtable</strong>: enter your credentials once (stored only in this browser tab's memory, not saved anywhere). Once connected, this replaces the preloaded AI-generated demo data with your live base.
+  <label>Personal access token</label>
+  <input type="password" id="apiKey" placeholder="patXXXXXXXXXXXXXX">
+  <label>Base ID</label>
+  <input type="text" id="baseId" placeholder="appXXXXXXXXXXXXXX">
+  <label>Builders table name</label>
+  <input type="text" id="tableName" value="Builders">
+  <label>Notes table name</label>
+  <input type="text" id="notesTableName" value="Notes">
+  <button class="primary" id="connectBtn">Connect</button>
+</div>
+
+<div id="mainApp" style="display:block;">
+  <div class="demo-banner" id="demoBanner">You're viewing <strong>demo data</strong>: every builder, contact, and note below was generated by AI for demonstration only and isn't real. Connect to Airtable to manage your actual directory.</div>
+  <div class="offline-banner" id="offlineBanner"></div>
+  <div class="toolbar">
+    <div class="search-wrap">
+      <input type="text" id="search" placeholder="Search builders...">
+      <button type="button" id="searchClear" aria-label="Clear search">&times;</button>
+    </div>
+    <select id="searchCategory">
+      <option value="All fields">All fields</option>
+      <option value="Company">Company</option>
+      <option value="Company Type">Company Type</option>
+      <option value="Building Types">Building Types</option>
+      <option value="Cities">Cities</option>
+      <option value="County">County</option>
+      <option value="Contacts">Contacts</option>
+      <option value="Notes">Notes</option>
+    </select>
+    <button class="primary" id="addBtn">Add company</button>
+    <button id="refreshBtn" title="Refresh" aria-label="Refresh">&#8635;</button>
+    <button id="exportBtn">Export to Excel</button>
+    <button id="connectToggleBtn">Connect to Airtable</button>
+  </div>
+  <div class="status" id="status"></div>
+  <div class="list-controls">
+    <button id="clearFiltersBtn">Clear filters</button>
+    <button id="collapseAllBtn">Collapse all</button>
+  </div>
+  <table id="table">
+    <thead><tr>
+      <th class="chev-col"></th>
+      <th>Company</th>
+      <th><div id="ddCompanyType"></div></th>
+      <th><div id="ddCity"></div></th>
+      <th><div id="ddBuildingType"></div></th>
+      <th>Last edited</th>
+      <th></th>
+    </tr></thead>
+    <tbody id="tbody"></tbody>
+  </table>
+
+  <div class="notes-box" id="notesBox">
+    <h3>Notes: future improvements</h3>
+    <div class="status" id="notesStatus"></div>
+    <div class="notes-list" id="notesList"></div>
+    <div class="note-add-row">
+      <textarea id="newNoteText" placeholder="Write down an idea for a future improvement..."></textarea>
+      <button class="primary" id="addNoteBtn">Add note</button>
+    </div>
+  </div>
+</div>
+
+</div>
+
+<div class="map-sidebar" id="mapSidebar" style="display:none;">
+  <div class="map-sidebar-header">
+    <h3>Active cities</h3>
+    <button class="map-toggle-btn" id="mapToggleBtn">Hide</button>
+  </div>
+  <div id="cityMapWrap">
+    <div id="cityMap"></div>
+    <div class="map-note">Full-color satellite imagery. Labeled areas mark cities with an active builder.</div>
+  </div>
+</div>
+</div>
+</div>
+<footer class="portfolio-footer">
+  <p>© 2026 Rasmus Norkvist</p>
+  <a href="./index.html">← Back to portfolio</a>
+</footer>
+<script>
+document.getElementById('connectToggleBtn').onclick = () => {
+  const box = document.getElementById('setupBox');
+  box.style.display = box.style.display === 'none' ? 'block' : 'none';
+};
+
+document.getElementById('collapseAllBtn').onclick = () => {
+  expandedIds.clear();
+  renderTable();
+};
+
+document.getElementById('mapToggleBtn').onclick = () => {
+  document.getElementById('mapSidebar').style.display = 'none';
+};
+
+document.getElementById('navMapLink').onclick = (e) => {
+  e.preventDefault();
+  const sidebar = document.getElementById('mapSidebar');
+  sidebar.style.display = '';
+  if (cityMap) {
+    // The map was sized/rendered while hidden (display:none), so Leaflet needs an explicit
+    // nudge to recheck its container size once it becomes visible again.
+    setTimeout(() => { cityMap.invalidateSize(); }, 0);
+  }
+  sidebar.scrollIntoView({ behavior: 'smooth', block: 'start' });
+};
+
+function goHome(e) {
+  e.preventDefault();
+  document.getElementById('setupBox').style.display = 'none';
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+document.getElementById('homeLink').onclick = goHome;
+document.getElementById('navDirectoryLink').onclick = goHome;
+
+let API_KEY = '', BASE_ID = '', TABLE = '', NOTES_TABLE = '';
+// The Builders table's own "last modified" field — a fixed name rather than a per-connection
+// setting, since it's just a column on the same table being connected to, not a separate source.
+const LAST_EDITED_FIELD = 'Last Modified';
+// Base64 of Additional Info Template.docx, embedded so the Create document button works
+// without a server fetch (a file:// page can't fetch a sibling file due to browser CORS rules).
+const TEMPLATE_DOCX_BASE64 = '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';
+let records = [{"id": "rec1", "fields": {"Company": "Blue Heron Builders", "Company Type": "General contractor, Remodeler", "Building Types": "Custom, luxury homes", "Current Cities": ["Bellevue", "Chehalis", "Edmonds", "Marysville", "Everett", "Shoreline", "Auburn", "Poulsbo", "Pasco", "Kent", "Kelso", "Ferndale", "Redmond", "Sequim", "Anacortes", "Bonney Lake", "Moses Lake", "Richland", "Mount Vernon", "Lakewood", "Camas", "Tumwater", "Wenatchee", "Centralia", "Walla Walla", "Federal Way", "Bremerton", "Olympia", "Ellensburg", "Seattle", "Longview", "Bellingham", "Tacoma", "Yakima", "Renton", "Port Orchard", "Cashmere", "Union Gap", "Kennewick", "Spokane", "Colville", "Puyallup", "Lacey", "Aberdeen", "Lynnwood", "Port Angeles", "Vancouver", "Kirkland", "Spokane Valley", "Battle Ground"], "Document link": "https://drive.google.com/file/d/demo-1/view", "Contact 1 Name": "Riley Sullivan", "Contact 1 Role": "Office admin", "Contact 1 Phone": "(206) 555-1750", "Contact 1 Email": "riley.sullivan@blueheronbuilders.com", "Contact 2 Name": "Marcus Chen", "Contact 2 Role": "VP of construction", "Contact 2 Phone": "(206) 555-4814", "Contact 2 Email": "[marcus.chen@blueheronbuilders.com](mailto:marcus.chen@blueheronbuilders.com)", "Contact 3 Name": "Priya Ramirez", "Contact 3 Role": "Sales lead", "Contact 3 Phone": "(253) 555-3664", "Contact 3 Email": "priya.ramirez@blueheronbuilders.com", "Contact 4 Name": "Taylor Sullivan", "Contact 4 Role": "Project manager", "Contact 4 Phone": "(564) 555-2169", "Contact 4 Email": "taylor.sullivan@blueheronbuilders.com", "Notes": "Prefers email over phone for scheduling. Renewed the annual contract in March 2026.", "Past Cities": ["Yelm", "Sumner"], "Local Decision Maker": "Marcus Chen", "Main Office City": "Seattle", "Stock Info": "AMH", "Building What": "Prefers pre-fab framing packages over stick-built for time savings on production runs.", "County": "King, Snohomish", "Website": "https://blueheronbuilders.com", "Main Contact": "Riley Sullivan", "Associated Company": "Blue Heron Home Builders"}}, {"id": "rec2", "fields": {"Company": "Riverstone Construction", "Company Type": "Remodeler", "Building Types": "Single-family production", "Current Cities": ["Moses Lake", "Marysville", "Tacoma", "Union Gap", "Spokane"], "Document link": "https://drive.google.com/file/d/demo-2/view", "Contact 1 Name": "Jordan Shah", "Contact 1 Role": "Project manager", "Contact 1 Phone": "(253) 555-7572", "Contact 1 Email": "jordan.shah@riverstoneconstruction.com", "Contact 2 Name": "Chris Lee", "Contact 2 Role": "Project manager", "Contact 2 Phone": "(509) 555-6155", "Contact 2 Email": "chris.lee@riverstoneconstruction.com", "Contact 3 Name": "D. Ortiz", "Contact 3 Role": "Site super", "Contact 3 Phone": "(564) 555-8517", "Contact 3 Email": "d.ortiz@riverstoneconstruction.com", "Contact 4 Name": "", "Contact 4 Role": "", "Contact 4 Phone": "", "Contact 4 Email": "", "Website": "https://riverstoneconstruction.com", "Associated Company": "Riverstone Builders"}}, {"id": "rec3", "fields": {"Company": "Summit Custom Homes", "Company Type": "Remodeler", "Building Types": "Modular homes", "Current Cities": ["Marysville", "Chehalis"], "Document link": "https://drive.google.com/file/d/demo-3/view", "Contact 1 Name": "Morgan Sullivan", "Contact 1 Role": "Project manager", "Contact 1 Phone": "(425) 555-9348", "Contact 1 Email": "morgan.sullivan@summitcustomhomes.com", "Contact 2 Name": "Drew Lee", "Contact 2 Role": "VP of construction", "Contact 2 Phone": "", "Contact 2 Email": "drew.lee@summitcustomhomes.com", "Contact 3 Name": "Priya Reyes", "Contact 3 Role": "Estimator", "Contact 3 Phone": "(564) 555-7916", "Contact 3 Email": "priya.reyes@summitcustomhomes.com", "Contact 4 Name": "", "Contact 4 Role": "", "Contact 4 Phone": "", "Contact 4 Email": "", "Past Cities": ["Everett", "Lynnwood"]}}, {"id": "rec4", "fields": {"Company": "Riverstone Builders", "Company Type": "Remodeler", "Building Types": "Custom, single-family", "Current Cities": ["Spokane", "Port Angeles", "Union Gap", "Kennewick"], "Document link": "https://drive.google.com/file/d/demo-4/view", "Contact 1 Name": "Owen Nair", "Contact 1 Role": "Estimator", "Contact 1 Phone": "(253) 555-6573", "Contact 1 Email": "owen.nair@riverstonebuilders.com", "Contact 2 Name": "Priya Patel", "Contact 2 Role": "Site super", "Contact 2 Phone": "(206) 555-5315", "Contact 2 Email": "priya.patel@riverstonebuilders.com", "Contact 3 Name": "Robin Kim", "Contact 3 Role": "Office admin", "Contact 3 Phone": "(564) 555-5889", "Contact 3 Email": "robin.kim@riverstonebuilders.com", "Contact 4 Name": "", "Contact 4 Role": "", "Contact 4 Phone": "", "Contact 4 Email": "", "Website": "https://riverstonebuilders.com", "Associated Company": "Riverstone Construction"}}, {"id": "rec5", "fields": {"Company": "Blue Heron Home Builders", "Company Type": "Remodeler", "Building Types": "Duplex / triplex", "Current Cities": ["Lakewood", "Sammamish", "Battle Ground", "Centralia", "Tacoma"], "Document link": "https://drive.google.com/file/d/demo-5/view", "Contact 1 Name": "Jamie Nair", "Contact 1 Role": "Sales lead", "Contact 1 Phone": "(253) 555-4923", "Contact 1 Email": "jamie.nair@blueheronhomebuilders.com", "Contact 2 Name": "", "Contact 2 Role": "", "Contact 2 Phone": "", "Contact 2 Email": "", "Contact 3 Name": "", "Contact 3 Role": "", "Contact 3 Phone": "", "Contact 3 Email": "", "Contact 4 Name": "", "Contact 4 Role": "", "Contact 4 Phone": "", "Contact 4 Email": "", "Associated Company": "Blue Heron Builders"}}, {"id": "rec6", "fields": {"Company": "Evergreen Development", "Company Type": "Developers", "Building Types": "ADU / small-scale", "Current Cities": ["Kent", "Moses Lake", "Cashmere", "Renton", "Centralia"], "Document link": "https://drive.google.com/file/d/demo-6/view", "Contact 1 Name": "Anna Nguyen", "Contact 1 Role": "Office admin", "Contact 1 Phone": "(360) 555-4470", "Contact 1 Email": "anna.nguyen@evergreendevelopment.com", "Contact 2 Name": "Elliot Whitfield", "Contact 2 Role": "Estimator", "Contact 2 Phone": "(564) 555-7118", "Contact 2 Email": "elliot.whitfield@evergreendevelopment.com", "Contact 3 Name": "", "Contact 3 Role": "", "Contact 3 Phone": "", "Contact 3 Email": "", "Contact 4 Name": "", "Contact 4 Role": "", "Contact 4 Phone": "", "Contact 4 Email": "", "Website": "https://evergreendevelopment.com", "Main Contact": "Anna Nguyen"}}, {"id": "rec7", "fields": {"Company": "Highline Home Builders", "Company Type": "General contractor", "Building Types": "Single-family production", "Current Cities": ["Federal Way", "Marysville", "Everett", "Renton"], "Document link": "https://drive.google.com/file/d/demo-7/view", "Contact 1 Name": "Maria Torres", "Contact 1 Role": "Owner", "Contact 1 Phone": "(206) 555-4750", "Contact 1 Email": "maria.torres@highlinehomebuilders.com", "Contact 2 Name": "Sam Shah", "Contact 2 Role": "VP of construction", "Contact 2 Phone": "(509) 555-4899", "Contact 2 Email": "sam.shah@highlinehomebuilders.com", "Contact 3 Name": "Chris Ortiz", "Contact 3 Role": "Project manager", "Contact 3 Phone": "(564) 555-8744", "Contact 3 Email": "chris.ortiz@highlinehomebuilders.com", "Contact 4 Name": "", "Contact 4 Role": "", "Contact 4 Phone": "", "Contact 4 Email": "", "Website": "https://highlinehomebuilders.com", "Main Contact": "Maria Torres"}}, {"id": "rec8", "fields": {"Company": "Columbia Contracting", "Company Type": "Custom home builder", "Building Types": "Modular homes", "Current Cities": ["Lakewood", "Auburn", "Bremerton", "Ferndale"], "Document link": "https://drive.google.com/file/d/demo-8/view", "Contact 1 Name": "Owen Shah", "Contact 1 Role": "Estimator", "Contact 1 Phone": "(564) 555-2612", "Contact 1 Email": "owen.shah@columbiacontracting.com", "Contact 2 Name": "Ravi Ramirez", "Contact 2 Role": "Estimator", "Contact 2 Phone": "(206) 555-5073", "Contact 2 Email": "ravi.ramirez@columbiacontracting.com", "Contact 3 Name": "D. Whitfield", "Contact 3 Role": "Office admin", "Contact 3 Phone": "(360) 555-4006", "Contact 3 Email": "d.whitfield@columbiacontracting.com", "Contact 4 Name": "", "Contact 4 Role": "", "Contact 4 Phone": "", "Contact 4 Email": "", "Main Contact": "Owen Shah", "Notes": "Slower to respond over email \u2014 call their office directly. Strong relationship with the Lakewood permitting office."}}, {"id": "rec9", "fields": {"Company": "Timberline Contracting", "Company Type": "General contractor", "Building Types": "Custom, single-family", "Current Cities": ["Renton", "Yakima"], "Document link": "https://drive.google.com/file/d/demo-9/view", "Contact 1 Name": "Maria Kim", "Contact 1 Role": "Site super", "Contact 1 Phone": "(425) 555-7570", "Contact 1 Email": "maria.kim@timberlinecontracting.com", "Contact 2 Name": "", "Contact 2 Role": "", "Contact 2 Phone": "", "Contact 2 Email": "", "Contact 3 Name": "", "Contact 3 Role": "", "Contact 3 Phone": "", "Contact 3 Email": "", "Contact 4 Name": "", "Contact 4 Role": "", "Contact 4 Phone": "", "Contact 4 Email": ""}}, {"id": "rec10", "fields": {"Company": "Evergreen Construction", "Company Type": "Subcontractor", "Building Types": "Modular homes", "Current Cities": ["Seattle", "Spokane", "Lynnwood", "Sequim"], "Document link": "https://drive.google.com/file/d/demo-10/view", "Contact 1 Name": "Owen Coleman", "Contact 1 Role": "Estimator", "Contact 1 Phone": "(425) 555-4111", "Contact 1 Email": "owen.coleman@evergreenconstruction.com", "Contact 2 Name": "Alex Whitfield", "Contact 2 Role": "Owner", "Contact 2 Phone": "(509) 555-1998", "Contact 2 Email": "alex.whitfield@evergreenconstruction.com", "Contact 3 Name": "Owen Brooks", "Contact 3 Role": "Owner", "Contact 3 Phone": "", "Contact 3 Email": "owen.brooks@evergreenconstruction.com", "Contact 4 Name": "Drew Hughes", "Contact 4 Role": "VP of construction", "Contact 4 Phone": "(206) 555-9320", "Contact 4 Email": "drew.hughes@evergreenconstruction.com", "Website": "https://evergreenconstruction.com", "Local Decision Maker": "Owen Coleman"}}, {"id": "rec11", "fields": {"Company": "Puget Sound Construction", "Company Type": "Developers", "Building Types": "Modular homes", "Current Cities": ["Port Angeles"], "Document link": "https://drive.google.com/file/d/demo-11/view", "Contact 1 Name": "Devon Chen", "Contact 1 Role": "Office admin", "Contact 1 Phone": "(509) 555-2343", "Contact 1 Email": "devon.chen@pugetsoundconstruction.com", "Contact 2 Name": "", "Contact 2 Role": "", "Contact 2 Phone": "", "Contact 2 Email": "", "Contact 3 Name": "", "Contact 3 Role": "", "Contact 3 Phone": "", "Contact 3 Email": "", "Contact 4 Name": "", "Contact 4 Role": "", "Contact 4 Phone": "", "Contact 4 Email": ""}}, {"id": "rec12", "fields": {"Company": "Cedar Development Group", "Company Type": "Developers", "Building Types": "Custom, luxury homes", "Current Cities": ["Kennewick", "Tumwater", "Lynnwood", "Bonney Lake", "Bremerton"], "Document link": "https://drive.google.com/file/d/demo-12/view", "Contact 1 Name": "Tom Patel", "Contact 1 Role": "Site super", "Contact 1 Phone": "(206) 555-1152", "Contact 1 Email": "tom.patel@cedardevelopmentgroup.com", "Contact 2 Name": "Jesse Vasquez", "Contact 2 Role": "Office admin", "Contact 2 Phone": "(206) 555-9808", "Contact 2 Email": "jesse.vasquez@cedardevelopmentgroup.com", "Contact 3 Name": "D. Hughes", "Contact 3 Role": "Sales lead", "Contact 3 Phone": "", "Contact 3 Email": "d.hughes@cedardevelopmentgroup.com", "Contact 4 Name": "", "Contact 4 Role": "", "Contact 4 Phone": "", "Contact 4 Email": "", "Website": "https://cedardevelopmentgroup.com", "Past Cities": ["Yakima"]}}, {"id": "rec13", "fields": {"Company": "Ridge Builders", "Company Type": "Custom home builder", "Building Types": "Custom, luxury homes", "Current Cities": ["Battle Ground", "Olympia"], "Document link": "https://drive.google.com/file/d/demo-13/view", "Contact 1 Name": "Kayla Hughes", "Contact 1 Role": "Owner", "Contact 1 Phone": "(509) 555-5905", "Contact 1 Email": "kayla.hughes@ridgebuilders.com", "Contact 2 Name": "Marcus Nair", "Contact 2 Role": "Project manager", "Contact 2 Phone": "(206) 555-3546", "Contact 2 Email": "marcus.nair@ridgebuilders.com", "Contact 3 Name": "", "Contact 3 Role": "", "Contact 3 Phone": "", "Contact 3 Email": "", "Contact 4 Name": "", "Contact 4 Role": "", "Contact 4 Phone": "", "Contact 4 Email": ""}}, {"id": "rec14", "fields": {"Company": "Timberline Custom Homes", "Company Type": "Remodeler", "Building Types": "ADU / small-scale", "Current Cities": ["Bonney Lake", "Ellensburg", "Vancouver", "Poulsbo", "Mount Vernon"], "Document link": "https://drive.google.com/file/d/demo-14/view", "Contact 1 Name": "Ravi Lee", "Contact 1 Role": "Estimator", "Contact 1 Phone": "(253) 555-1722", "Contact 1 Email": "ravi.lee@timberlinecustomhomes.com", "Contact 2 Name": "Jamie Brooks", "Contact 2 Role": "VP of construction", "Contact 2 Phone": "", "Contact 2 Email": "jamie.brooks@timberlinecustomhomes.com", "Contact 3 Name": "Chris Kim", "Contact 3 Role": "Estimator", "Contact 3 Phone": "(564) 555-8007", "Contact 3 Email": "chris.kim@timberlinecustomhomes.com", "Contact 4 Name": "", "Contact 4 Role": "", "Contact 4 Phone": "", "Contact 4 Email": "", "Website": "https://timberlinecustomhomes.com", "Local Decision Maker": "Ravi Lee"}}, {"id": "rec15", "fields": {"Company": "Skyline Homes", "Company Type": "Remodeler", "Building Types": "Custom, single-family", "Current Cities": ["Renton"], "Document link": "https://drive.google.com/file/d/demo-15/view", "Contact 1 Name": "Devon Coleman", "Contact 1 Role": "Project manager", "Contact 1 Phone": "(206) 555-6050", "Contact 1 Email": "devon.coleman@skylinehomes.com", "Contact 2 Name": "Taylor Shah", "Contact 2 Role": "Sales lead", "Contact 2 Phone": "(425) 555-2684", "Contact 2 Email": "taylor.shah@skylinehomes.com", "Contact 3 Name": "", "Contact 3 Role": "", "Contact 3 Phone": "", "Contact 3 Email": "", "Contact 4 Name": "", "Contact 4 Role": "", "Contact 4 Phone": "", "Contact 4 Email": ""}}, {"id": "rec16", "fields": {"Company": "Ridge Home Builders", "Company Type": "Developers", "Building Types": "Modular homes", "Current Cities": ["Aberdeen", "Chehalis", "Sammamish", "Marysville"], "Document link": "https://drive.google.com/file/d/demo-16/view", "Contact 1 Name": "Anna Brooks", "Contact 1 Role": "VP of construction", "Contact 1 Phone": "(564) 555-5065", "Contact 1 Email": "anna.brooks@ridgehomebuilders.com", "Contact 2 Name": "Chris Kim", "Contact 2 Role": "VP of construction", "Contact 2 Phone": "(360) 555-1634", "Contact 2 Email": "chris.kim@ridgehomebuilders.com", "Contact 3 Name": "", "Contact 3 Role": "", "Contact 3 Phone": "", "Contact 3 Email": "", "Contact 4 Name": "", "Contact 4 Role": "", "Contact 4 Phone": "", "Contact 4 Email": "", "Website": "https://ridgehomebuilders.com"}}, {"id": "rec17", "fields": {"Company": "Bluewater Development", "Company Type": "Developers", "Building Types": "Single-family production", "Current Cities": ["Union Gap", "Camas"], "Document link": "https://drive.google.com/file/d/demo-17/view", "Contact 1 Name": "Marcus Whitfield", "Contact 1 Role": "Site super", "Contact 1 Phone": "(206) 555-5573", "Contact 1 Email": "marcus.whitfield@bluewaterdevelopment.com", "Contact 2 Name": "Taylor Hughes", "Contact 2 Role": "Site super", "Contact 2 Phone": "(509) 555-6425", "Contact 2 Email": "taylor.hughes@bluewaterdevelopment.com", "Contact 3 Name": "Jamie Nair", "Contact 3 Role": "Sales lead", "Contact 3 Phone": "(253) 555-1626", "Contact 3 Email": "jamie.nair@bluewaterdevelopment.com", "Contact 4 Name": "", "Contact 4 Role": "", "Contact 4 Phone": "", "Contact 4 Email": "", "Notes": "New to the Union Gap market as of early 2026. Worth a check-in call next quarter."}}, {"id": "rec18", "fields": {"Company": "Olympic Development Group", "Company Type": "Remodeler", "Building Types": "Multi-family, townhomes", "Current Cities": ["Camas", "Moses Lake", "Sequim", "Tumwater"], "Document link": "https://drive.google.com/file/d/demo-18/view", "Contact 1 Name": "Devon Whitfield", "Contact 1 Role": "Sales lead", "Contact 1 Phone": "", "Contact 1 Email": "devon.whitfield@olympicdevelopmentgroup.com", "Contact 2 Name": "Casey Torres", "Contact 2 Role": "Office admin", "Contact 2 Phone": "(509) 555-4228", "Contact 2 Email": "casey.torres@olympicdevelopmentgroup.com", "Contact 3 Name": "Taylor Foster", "Contact 3 Role": "Owner", "Contact 3 Phone": "(253) 555-6143", "Contact 3 Email": "taylor.foster@olympicdevelopmentgroup.com", "Contact 4 Name": "Marcus Nair", "Contact 4 Role": "Estimator", "Contact 4 Phone": "(509) 555-6067", "Contact 4 Email": "marcus.nair@olympicdevelopmentgroup.com", "Website": "https://olympicdevelopmentgroup.com", "Main Contact": "Devon Whitfield", "Local Decision Maker": "Casey Torres"}}, {"id": "rec19", "fields": {"Company": "Alderwood Construction Co.", "Company Type": "Developers", "Building Types": "Modular homes", "Current Cities": ["Spokane Valley", "Port Orchard", "Olympia"], "Document link": "https://drive.google.com/file/d/demo-19/view", "Contact 1 Name": "Morgan Kim", "Contact 1 Role": "Office admin", "Contact 1 Phone": "(360) 555-9977", "Contact 1 Email": "morgan.kim@alderwoodconstructionco.com", "Contact 2 Name": "Jamie Patel", "Contact 2 Role": "Sales lead", "Contact 2 Phone": "(509) 555-6279", "Contact 2 Email": "jamie.patel@alderwoodconstructionco.com", "Contact 3 Name": "", "Contact 3 Role": "", "Contact 3 Phone": "", "Contact 3 Email": "", "Contact 4 Name": "", "Contact 4 Role": "", "Contact 4 Phone": "", "Contact 4 Email": ""}}, {"id": "rec20", "fields": {"Company": "Highline Contracting", "Company Type": "General contractor", "Building Types": "Custom, luxury homes", "Current Cities": ["Poulsbo", "Bonney Lake", "Richland", "Wenatchee"], "Document link": "https://drive.google.com/file/d/demo-20/view", "Contact 1 Name": "Marcus Vasquez", "Contact 1 Role": "Sales lead", "Contact 1 Phone": "", "Contact 1 Email": "marcus.vasquez@highlinecontracting.com", "Contact 2 Name": "Maria Patel", "Contact 2 Role": "Project manager", "Contact 2 Phone": "(425) 555-1400", "Contact 2 Email": "maria.patel@highlinecontracting.com", "Contact 3 Name": "", "Contact 3 Role": "", "Contact 3 Phone": "", "Contact 3 Email": "", "Contact 4 Name": "", "Contact 4 Role": "", "Contact 4 Phone": "", "Contact 4 Email": "", "Website": "https://highlinecontracting.com"}}, {"id": "rec21", "fields": {"Company": "Pierce County Planning & Public Works", "Company Type": "City Contact", "Building Types": "", "Current Cities": ["Graham"], "County": "Pierce", "Contact 1 Name": "Dana Whitfield", "Contact 1 Role": "Senior Planner", "Contact 1 Phone": "(253) 555-0148", "Contact 1 Email": "dana.whitfield@piercecountywa.gov", "Main Contact": "Dana Whitfield", "Notes": "Handles impact fee questions for Graham and unincorporated Pierce County permits. Reach out before submitting multi-family applications in this jurisdiction.", "Document link": "https://drive.google.com/file/d/demo-21/view"}}];
+
+let notesRecords = [
+  { "id": "note1", "fields": { "Notes Box": "Add bulk CSV import so a whole builder list can be uploaded at once instead of one at a time.", "Date": "2026-06-02" } },
+  { "id": "note2", "fields": { "Notes Box": "Show a small map of each builder's city coverage instead of just a text list.", "Date": "2026-06-15" } },
+  { "id": "note3", "fields": { "Notes Box": "Let building type options sync automatically from a shared list instead of being typed per builder.", "Date": "2026-07-01" } }
+];
+
+document.getElementById('connectBtn').onclick = async () => {
+  API_KEY = document.getElementById('apiKey').value.trim();
+  BASE_ID = document.getElementById('baseId').value.trim();
+  TABLE = document.getElementById('tableName').value.trim() || 'Builders';
+  NOTES_TABLE = document.getElementById('notesTableName').value.trim() || 'Notes';
+  if (!API_KEY || !BASE_ID) { alert('Enter your token and base ID.'); return; }
+  localStorage.setItem('wa_builders_apikey', API_KEY);
+  localStorage.setItem('wa_builders_baseid', BASE_ID);
+  localStorage.setItem('wa_builders_table', TABLE);
+  localStorage.setItem('wa_builders_notes_table', NOTES_TABLE);
+  document.getElementById('setupBox').style.display = 'none';
+  document.getElementById('demoBanner').style.display = 'none';
+  document.getElementById('pageTitle').textContent = 'Company Directory';
+  await loadRecords();
+  await loadNotes();
+};
+
+const CITY_COUNTY = {"Aberdeen": "Grays Harbor", "Airway Heights": "Spokane", "Albion": "Whitman", "Algona": "King", "Almira": "Lincoln", "Anacortes": "Skagit", "Arlington": "Snohomish", "Asotin": "Asotin", "Auburn": "King", "Bainbridge Island": "Kitsap", "Barstow": "Ferry", "Battle Ground": "Clark", "Bellevue": "King", "Bellingham": "Whatcom", "Benton City": "Benton", "Bingen": "Klickitat", "Black Diamond": "King", "Blaine": "Whatcom", "Bonney Lake": "Pierce", "Bothell": "King", "Bremerton": "Kitsap", "Brewster": "Okanogan", "Bridgeport": "Douglas", "Brier": "Snohomish", "Buckley": "Pierce", "Bucoda": "Thurston", "Burien": "King", "Burlington": "Skagit", "Camano Island": "Island", "Camas": "Clark", "Carbonado": "Pierce", "Carnation": "King", "Cashmere": "Chelan", "Castle Rock": "Cowlitz", "Cathlamet": "Wahkiakum", "Centralia": "Lewis", "Chehalis": "Lewis", "Chelan": "Chelan", "Cheney": "Spokane", "Chewelah": "Stevens", "Clarkston": "Asotin", "Cle Elum": "Kittitas", "Clyde Hill": "King", "Colfax": "Whitman", "College Place": "Walla Walla", "Colton": "Whitman", "Colville": "Stevens", "Concrete": "Skagit", "Connell": "Franklin", "Cosmopolis": "Grays Harbor", "Coulee City": "Grant", "Coulee Dam": "Okanogan", "Coupeville": "Island", "Cusick": "Pend Oreille", "Darrington": "Snohomish", "Davenport": "Lincoln", "Dayton": "Columbia", "Deer Park": "Spokane", "Deming": "Whatcom", "Des Moines": "King", "DuPont": "Pierce", "Duvall": "King", "East Wenatchee": "Douglas", "Eatonville": "Pierce", "Edgewood": "Pierce", "Edmonds": "Snohomish", "Electric City": "Grant", "Ellensburg": "Kittitas", "Elma": "Grays Harbor", "Elmer City": "Okanogan", "Enumclaw": "King", "Ephrata": "Grant", "Everett": "Snohomish", "Everson": "Whatcom", "Federal Way": "King", "Ferndale": "Whatcom", "Fife": "Pierce", "Fircrest": "Pierce", "Forks": "Clallam", "Friday Harbor": "San Juan", "Garfield": "Whitman", "George": "Grant", "Gig Harbor": "Pierce", "Gold Bar": "Snohomish", "Goldendale": "Klickitat", "Grand Coulee": "Grant", "Grandview": "Yakima", "Granger": "Yakima", "Granite Falls": "Snohomish", "Harrah": "Yakima", "Harrington": "Lincoln", "Hoquiam": "Grays Harbor", "Ilwaco": "Pacific", "Index": "Snohomish", "Ione": "Pend Oreille", "Issaquah": "King", "Kahlotus": "Franklin", "Kalama": "Cowlitz", "Kelso": "Cowlitz", "Kennewick": "Benton", "Kent": "King", "Kettle Falls": "Stevens", "Kingston": "Kitsap", "Kirkland": "King", "Kittitas": "Kittitas", "La Push": "Clallam", "Lacey": "Thurston", "La Conner": "Skagit", "Lake Forest Park": "King", "Lake Stevens": "Snohomish", "Lakewood": "Pierce", "Langley": "Island", "Leavenworth": "Chelan", "Long Beach": "Pacific", "Longview": "Cowlitz", "Lynden": "Whatcom", "Lynnwood": "Snohomish", "Mabton": "Yakima", "Maple Valley": "King", "Marysville": "Snohomish", "Mattawa": "Grant", "McCleary": "Grays Harbor", "Medical Lake": "Spokane", "Medina": "King", "Mercer Island": "King", "Metaline": "Pend Oreille", "Metaline Falls": "Pend Oreille", "Mill Creek": "Snohomish", "Milton": "Pierce", "Monroe": "Snohomish", "Montesano": "Grays Harbor", "Morton": "Lewis", "Moses Lake": "Grant", "Mossyrock": "Lewis", "Mount Vernon": "Skagit", "Mountlake Terrace": "Snohomish", "Moxee": "Yakima", "Mukilteo": "Snohomish", "Napavine": "Lewis", "Neah Bay": "Clallam", "Nespelem": "Okanogan", "Newcastle": "King", "Newport": "Pend Oreille", "Nooksack": "Whatcom", "Normandy Park": "King", "North Bend": "King", "North Bonneville": "Skamania", "Northport": "Stevens", "Oak Harbor": "Island", "Oaksdale": "Whitman", "Oakville": "Grays Harbor", "Ocean Shores": "Grays Harbor", "Odessa": "Lincoln", "Okanogan": "Okanogan", "Olympia": "Thurston", "Omak": "Okanogan", "Oroville": "Okanogan", "Orting": "Pierce", "Othello": "Adams", "Pacific": "King", "Palouse": "Whitman", "Pasco": "Franklin", "Pateros": "Okanogan", "Pe Ell": "Lewis", "Pomeroy": "Garfield", "Port Angeles": "Clallam", "Port Orchard": "Kitsap", "Port Townsend": "Jefferson", "Poulsbo": "Kitsap", "Prescott": "Walla Walla", "Prosser": "Benton", "Pullman": "Whitman", "Puyallup": "Pierce", "Quincy": "Grant", "Rainier": "Thurston", "Raymond": "Pacific", "Reardan": "Lincoln", "Redmond": "King", "Renton": "King", "Republic": "Ferry", "Richland": "Benton", "Ridgefield": "Clark", "Ritzville": "Adams", "Riverside": "Okanogan", "Rock Island": "Douglas", "Rockwood": "Douglas", "Rollingbay": "Kitsap", "Rosalia": "Whitman", "Roslyn": "Kittitas", "Roy": "Pierce", "Royal City": "Grant", "Ruston": "Pierce", "SeaTac": "King", "Seattle": "King", "Sedro Woolley": "Skagit", "Selah": "Yakima", "Sequim": "Clallam", "Shelton": "Mason", "Shoreline": "King", "Silverdale": "Kitsap", "Skykomish": "King", "Snohomish": "Snohomish", "Snoqualmie": "King", "Soap Lake": "Grant", "South Bend": "Pacific", "South Prairie": "Pierce", "Spokane": "Spokane", "Sprague": "Lincoln", "Springdale": "Stevens", "Stanwood": "Snohomish", "Steilacoom": "Pierce", "Stevenson": "Skamania", "Sultan": "Snohomish", "Sumas": "Whatcom", "Sumner": "Pierce", "Sunnyside": "Yakima", "Suquamish": "Kitsap", "Tacoma": "Pierce", "Taholah": "Grays Harbor", "Tekoa": "Whitman", "Tenino": "Thurston", "Tokeland": "Pacific", "Toledo": "Lewis", "Tonasket": "Okanogan", "Toppenish": "Yakima", "Tukwila": "King", "Tulalip": "Snohomish", "Tumwater": "Thurston", "Twisp": "Okanogan", "Union Gap": "Yakima", "Uniontown": "Whitman", "Usk": "Pend Oreille", "Vader": "Lewis", "Vancouver": "Clark", "Vashon Island": "King", "Waitsburg": "Walla Walla", "Walla Walla": "Walla Walla", "Wapato": "Yakima", "Warden": "Grant", "Washougal": "Clark", "Waterville": "Douglas", "Wellpinit": "Stevens", "Wenatchee": "Chelan", "West Richland": "Benton", "Westport": "Grays Harbor", "White Salmon": "Klickitat", "Wilbur": "Lincoln", "Wilkeson": "Pierce", "Winlock": "Lewis", "Winthrop": "Okanogan", "Woodinville": "King", "Woodland": "Cowlitz", "Woodway": "Snohomish", "Yacolt": "Clark", "Yakima": "Yakima", "Yarrow Point": "King", "Yelm": "Thurston", "Zillah": "Yakima", "Spokane Valley": "Spokane", "Sammamish": "King", "Kenmore": "King", "Covington": "King", "University Place": "Pierce", "Liberty Lake": "Spokane", "Millwood": "Spokane", "Spanaway": "Pierce", "Hunts Point": "King", "Cottage Lake": "King", "East Renton Highlands": "King", "Hobart": "King", "Mirrormont": "King", "Preston": "King", "Brush Prairie": "Clark", "Salmon Creek": "Clark", "Hockinson": "Clark", "Olalla": "Kitsap", "Seabeck": "Kitsap", "Fox Island": "Pierce", "Graham": "Pierce", "Lake Tapps": "Pierce", "Frederickson": "Pierce"};
+const CITY_COORDS = {"Aberdeen": [46.9754, -123.8157], "Airway Heights": [47.6479, -117.5936], "Albion": [46.7943, -117.2432], "Algona": [47.2751, -122.2551], "Almira": [47.7204, -118.9273], "Anacortes": [48.5126, -122.6127], "Arlington": [48.1937, -122.1262], "Asotin": [46.3401, -117.0446], "Auburn": [47.3073, -122.2285], "Bainbridge Island": [47.6262, -122.522], "Barstow": [48.684, -117.957], "Battle Ground": [45.7809, -122.5379], "Bellevue": [47.6101, -122.2015], "Bellingham": [48.7519, -122.4787], "Benton City": [46.2643, -119.4906], "Bingen": [45.7176, -121.4696], "Black Diamond": [47.3095, -122.0026], "Blaine": [48.9926, -122.7456], "Bonney Lake": [47.1784, -122.1815], "Bothell": [47.7623, -122.2054], "Bremerton": [47.5673, -122.6329], "Brewster": [48.0993, -119.7809], "Bridgeport": [48.0068, -119.6832], "Brier": [47.7909, -122.2751], "Buckley": [47.1626, -122.0287], "Bucoda": [46.7887, -122.7826], "Burien": [47.4705, -122.3467], "Burlington": [48.4762, -122.3273], "Camano Island": [48.1793, -122.474], "Camas": [45.5871, -122.4001], "Carbonado": [47.0679, -122.0526], "Carnation": [47.6465, -121.9165], "Cashmere": [47.5215, -120.4693], "Castle Rock": [46.2751, -122.9068], "Cathlamet": [46.2032, -123.3834], "Centralia": [46.7162, -122.9543], "Chehalis": [46.6621, -122.9682], "Chelan": [47.8399, -120.0163], "Cheney": [47.4874, -117.5758], "Chewelah": [48.2793, -117.7185], "Clarkston": [46.4165, -117.0454], "Cle Elum": [47.1962, -120.9378], "Clyde Hill": [47.6293, -122.2187], "Colfax": [47.1148, -117.3626], "College Place": [46.0396, -118.3877], "Colton": [46.5793, -117.129], "Colville": [48.5462, -117.9012], "Concrete": [48.5379, -121.7512], "Connell": [46.6626, -118.8593], "Cosmopolis": [46.9626, -123.7743], "Coulee City": [47.6084, -119.2895], "Coulee Dam": [47.9873, -118.9779], "Coupeville": [48.2213, -122.6857], "Cusick": [48.3324, -117.2937], "Darrington": [48.2532, -121.6032], "Davenport": [47.6554, -118.1487], "Dayton": [46.321, -117.9793], "Deer Park": [47.9515, -117.4762], "Deming": [48.8368, -122.2137], "Des Moines": [47.4004, -122.3151], "DuPont": [47.1004, -122.6421], "Duvall": [47.7434, -121.9857], "East Wenatchee": [47.4165, -120.2887], "Eatonville": [46.8646, -122.2668], "Edgewood": [47.2529, -122.2704], "Edmonds": [47.8107, -122.3774], "Electric City": [47.9276, -119.0687], "Ellensburg": [46.9965, -120.5478], "Elma": [47.0018, -123.4137], "Elmer City": [48.0207, -118.9482], "Enumclaw": [47.2043, -121.9915], "Ephrata": [47.3173, -119.5527], "Everett": [47.979, -122.2021], "Everson": [48.9204, -122.3401], "Federal Way": [47.3223, -122.3126], "Ferndale": [48.846, -122.5915], "Fife": [47.2401, -122.3593], "Fircrest": [47.2323, -122.5165], "Forks": [47.9506, -124.3854], "Friday Harbor": [48.5354, -123.0165], "Garfield": [47.0271, -117.1479], "George": [47.0906, -119.8557], "Gig Harbor": [47.3273, -122.5843], "Gold Bar": [47.8551, -121.6968], "Goldendale": [45.821, -120.8215], "Grand Coulee": [47.9432, -119.0018], "Grandview": [46.2543, -119.904], "Granger": [46.3407, -120.1868], "Granite Falls": [48.0854, -121.9668], "Harrah": [46.3924, -120.5701], "Harrington": [47.474, -118.2529], "Hoquiam": [46.9815, -123.8893], "Ilwaco": [46.3054, -124.0329], "Index": [47.8218, -121.5551], "Ione": [48.7379, -117.4109], "Issaquah": [47.5301, -122.0326], "Kahlotus": [46.6432, -118.5569], "Kalama": [45.9926, -122.8515], "Kelso": [46.1468, -122.9082], "Kennewick": [46.2112, -119.1372], "Kent": [47.3809, -122.2348], "Kettle Falls": [48.6104, -118.0576], "Kingston": [47.7982, -122.4998], "Kirkland": [47.6769, -122.206], "Kittitas": [46.9846, -120.4204], "La Push": [47.9081, -124.6352], "Lacey": [47.0343, -122.8232], "La Conner": [48.3929, -122.4993], "Lake Forest Park": [47.7554, -122.2829], "Lake Stevens": [48.0154, -122.0665], "Lakewood": [47.1718, -122.5185], "Langley": [48.0365, -122.4054], "Leavenworth": [47.5962, -120.6615], "Long Beach": [46.3529, -124.0562], "Longview": [46.1382, -122.9382], "Lynden": [48.9468, -122.4515], "Lynnwood": [47.8209, -122.3151], "Mabton": [46.2129, -119.9962], "Maple Valley": [47.3954, -122.0398], "Marysville": [48.0518, -122.1771], "Mattawa": [46.7379, -119.9028], "McCleary": [47.0501, -123.2665], "Medical Lake": [47.5679, -117.6837], "Medina": [47.6212, -122.2287], "Mercer Island": [47.5707, -122.2221], "Metaline": [48.8657, -117.3768], "Metaline Falls": [48.8606, -117.3736], "Mill Creek": [47.8601, -122.2043], "Milton": [47.2451, -122.314], "Monroe": [47.8557, -121.9715], "Montesano": [46.9776, -123.6015], "Morton": [46.5546, -122.2779], "Moses Lake": [47.1301, -119.2781], "Mossyrock": [46.549, -122.4779], "Mount Vernon": [48.4212, -122.334], "Mountlake Terrace": [47.7901, -122.3037], "Moxee": [46.5701, -120.2273], "Mukilteo": [47.9446, -122.2971], "Napavine": [46.5779, -122.9057], "Neah Bay": [48.3668, -124.6165], "Nespelem": [48.1657, -118.9776], "Newcastle": [47.5479, -122.1615], "Newport": [48.1826, -117.0451], "Nooksack": [48.9218, -122.3223], "Normandy Park": [47.4304, -122.3521], "North Bend": [47.4954, -121.7871], "North Bonneville": [45.644, -121.9843], "Northport": [48.9218, -117.7854], "Oak Harbor": [48.2935, -122.644], "Oaksdale": [47.1329, -117.244], "Oakville": [46.8437, -123.2454], "Ocean Shores": [46.9762, -124.1554], "Odessa": [47.3312, -118.6879], "Okanogan": [48.3604, -119.5807], "Olympia": [47.0379, -122.9007], "Omak": [48.4118, -119.5266], "Oroville": [48.9412, -119.4362], "Orting": [47.0965, -122.2043], "Othello": [46.829, -119.1701], "Pacific": [47.2626, -122.2568], "Palouse": [46.9137, -117.0687], "Pasco": [46.2396, -119.1006], "Pateros": [48.0479, -119.9037], "Pe Ell": [46.5701, -123.2965], "Pomeroy": [46.4715, -117.5993], "Port Angeles": [48.1181, -123.4307], "Port Orchard": [47.5401, -122.6365], "Port Townsend": [48.1173, -122.7604], "Poulsbo": [47.7368, -122.6468], "Prescott": [46.2985, -118.3018], "Prosser": [46.2059, -119.7687], "Pullman": [46.7298, -117.1817], "Puyallup": [47.1854, -122.2929], "Quincy": [47.2343, -119.8526], "Rainier": [46.8879, -122.6879], "Raymond": [46.6826, -123.7326], "Reardan": [47.6668, -117.8646], "Redmond": [47.674, -122.1215], "Renton": [47.4829, -122.2171], "Republic": [48.6482, -118.7357], "Richland": [46.2857, -119.2845], "Ridgefield": [45.8157, -122.7443], "Ritzville": [47.129, -118.3801], "Riverside": [48.5121, -119.5301], "Rock Island": [47.3607, -120.1487], "Rockwood": [46.94, -117.6801], "Rollingbay": [47.6857, -122.4907], "Rosalia": [47.2385, -117.3651], "Roslyn": [47.2276, -120.9993], "Roy": [47.0007, -122.5354], "Royal City": [46.8845, -119.6373], "Ruston": [47.2965, -122.509], "SeaTac": [47.4498, -122.2871], "Seattle": [47.6062, -122.3321], "Sedro Woolley": [48.5037, -122.2371], "Selah": [46.6546, -120.5301], "Sequim": [48.0851, -123.1065], "Shelton": [47.2154, -123.1007], "Shoreline": [47.7557, -122.341], "Silverdale": [47.644, -122.6968], "Skykomish": [47.7104, -121.3557], "Snohomish": [47.9126, -122.0982], "Snoqualmie": [47.5232, -121.8271], "Soap Lake": [47.3862, -119.4871], "South Bend": [46.6656, -123.8054], "South Prairie": [47.1421, -122.0937], "Spokane": [47.6588, -117.426], "Sprague": [47.304, -117.9718], "Springdale": [47.9714, -117.7565], "Stanwood": [48.2429, -122.3757], "Steilacoom": [47.1687, -122.594], "Stevenson": [45.6979, -121.8843], "Sultan": [47.8593, -121.8107], "Sumas": [49.0001, -122.2726], "Sumner": [47.2043, -122.2401], "Sunnyside": [46.3237, -120.006], "Suquamish": [47.7343, -122.5551], "Tacoma": [47.2529, -122.4443], "Taholah": [47.339, -124.283], "Tekoa": [47.229, -117.0693], "Tenino": [46.8593, -122.8479], "Tokeland": [46.7168, -124.169], "Toledo": [46.4407, -122.8482], "Tonasket": [48.7048, -119.4362], "Toppenish": [46.3777, -120.309], "Tukwila": [47.474, -122.261], "Tulalip": [48.0654, -122.2865], "Tumwater": [47.0154, -122.9101], "Twisp": [48.3646, -120.1207], "Union Gap": [46.559, -120.479], "Uniontown": [46.5393, -117.0861], "Usk": [48.3007, -117.2696], "Vader": [46.138, -122.949], "Vancouver": [45.6387, -122.6615], "Vashon Island": [47.4457, -122.461], "Waitsburg": [46.2707, -118.1554], "Walla Walla": [46.0646, -118.343], "Wapato": [46.4479, -120.4207], "Warden": [46.973, -119.049], "Washougal": [45.5826, -122.3532], "Waterville": [47.6501, -120.0682], "Wellpinit": [47.933, -117.999], "Wenatchee": [47.4235, -120.3103], "West Richland": [46.3098, -119.3587], "Westport": [46.8896, -124.1054], "White Salmon": [45.7267, -121.4893], "Wilbur": [47.7573, -118.7059], "Wilkeson": [47.0993, -122.0349], "Winlock": [46.4993, -122.9407], "Winthrop": [48.4737, -120.1893], "Woodinville": [47.7576, -122.1637], "Woodland": [45.9046, -122.7454], "Woodway": [47.7893, -122.3857], "Yacolt": [45.8757, -122.409], "Yakima": [46.6021, -120.5059], "Yarrow Point": [47.6462, -122.2173], "Yelm": [46.9412, -122.6046], "Zillah": [46.4046, -120.2593], "Spokane Valley": [47.6733, -117.2394], "Sammamish": [47.6163, -122.0356], "Kenmore": [47.7557, -122.244], "Covington": [47.3595, -122.1171], "University Place": [47.2154, -122.5493], "Liberty Lake": [47.6737, -117.113], "Millwood": [47.6821, -117.2907], "Spanaway": [47.1046, -122.4351], "Hunts Point": [47.6433, -122.2270], "Cottage Lake": [47.7395, -122.0355], "East Renton Highlands": [47.4784, -122.1170], "Hobart": [47.3626, -121.9990], "Mirrormont": [47.4573, -121.9548], "Preston": [47.5407, -121.9243], "Brush Prairie": [45.7329, -122.5465], "Salmon Creek": [45.7107, -122.6490], "Hockinson": [45.7379, -122.4870], "Olalla": [47.4048, -122.5457], "Seabeck": [47.6404, -122.8371], "Fox Island": [47.2109, -122.6296], "Graham": [47.0459, -122.2957], "Lake Tapps": [47.2018, -122.1651], "Frederickson": [47.0968, -122.4371]};
+let expandedIds = new Set();
+let activeFilters = { 'Company Type': [], 'Building Types': [], City: [] };
+let lastFilteredRows = [];
+const activeDropdowns = [];
+let companyTypeDropdown, buildingTypeDropdown, cityDropdown;
+let cityMap, cityMarkersLayer;
+const CITY_LABEL_MIN_ZOOM = 8;
+let cityBoundaryCache = {};
+try {
+  const savedBoundaries = localStorage.getItem('wa_city_boundary_cache_v2');
+  if (savedBoundaries) cityBoundaryCache = JSON.parse(savedBoundaries);
+} catch (e) { cityBoundaryCache = {}; }
+let cityCircleLayers = {};
+let boundaryFetchQueue = [];
+let boundaryFetchPending = new Set();
+let boundaryFetchRunning = false;
+
+initMap();
+render();
+renderNotes();
+setStatus(`${records.length} builders loaded (AI-generated demo data: connect to Airtable to use your real base).`);
+
+(function restoreSavedLogin() {
+  const savedKey = localStorage.getItem('wa_builders_apikey');
+  const savedBase = localStorage.getItem('wa_builders_baseid');
+  const savedTable = localStorage.getItem('wa_builders_table');
+  const savedNotesTable = localStorage.getItem('wa_builders_notes_table');
+  if (savedKey && savedBase) {
+    API_KEY = savedKey; BASE_ID = savedBase; TABLE = savedTable || 'Builders'; NOTES_TABLE = savedNotesTable || 'Notes';
+    document.getElementById('demoBanner').style.display = 'none';
+    document.getElementById('pageTitle').textContent = 'Company Directory';
+    loadRecords();
+    loadNotes();
+  }
+})();
+
+function showOfflineBanner(cachedAt) {
+  const banner = document.getElementById('offlineBanner');
+  banner.style.display = 'block';
+  banner.style.background = '#FBEAE2';
+  banner.style.borderColor = '#E5B49E';
+  banner.style.color = '#7A3620';
+  banner.textContent = cachedAt
+    ? `Showing last synced data from ${new Date(cachedAt).toLocaleString()}. You're offline. Changes can't be saved until you're back online.`
+    : `You're offline and no cached data is available yet.`;
+}
+function hideOfflineBanner() {
+  document.getElementById('offlineBanner').style.display = 'none';
+}
+
+async function airtableFetch(table, path, options = {}) {
+  const url = `https://api.airtable.com/v0/${BASE_ID}/${encodeURIComponent(table)}${path}`;
+  const res = await fetch(url, {
+    ...options,
+    headers: {
+      'Authorization': `Bearer ${API_KEY}`,
+      'Content-Type': 'application/json',
+      ...(options.headers || {})
+    }
+  });
+  if (!res.ok) throw new Error(`Airtable error ${res.status}: ${await res.text()}`);
+  return res.json();
+}
+
+
+function toCitiesArray(val) {
+  if (Array.isArray(val)) return val;
+  if (typeof val === 'string' && val.trim()) return val.split(/[,;]/).map(s => s.trim()).filter(Boolean);
+  return [];
+}
+
+// Flattens every value on the record — not just the fields this app has explicit UI for — into
+// one lowercase string, so search matches any imported Airtable column, including ones added to
+// the base later that this app doesn't otherwise display or know the name of.
+function recordSearchBlob(f) {
+  const fieldsBlob = Object.values(f).map(v => {
+    if (Array.isArray(v)) return v.join(' ');
+    if (v == null) return '';
+    if (typeof v === 'object') return Object.values(v).join(' ');
+    return String(v);
+  }).join(' ');
+  // Also search on each city's county via the built-in CITY_COUNTY lookup, so a county name
+  // matches a company through its cities even when the explicit County field isn't set for it.
+  const derivedCounties = [...toCitiesArray(f['Current Cities']), ...toCitiesArray(f['Past Cities'])]
+    .map(c => CITY_COUNTY[c])
+    .filter(Boolean)
+    .join(' ');
+  return `${fieldsBlob} ${derivedCounties}`.toLowerCase();
+}
+
+// Lets the search box be scoped to one meaningful group of fields instead of matching
+// everything at once, for when a broad search returns too many hits to scan.
+// A function declaration (not a const) so it's hoisted like the other search helpers below —
+// render() runs synchronously at startup before this point in the file is reached.
+function derivedCountiesFor(f) {
+  return [...toCitiesArray(f['Current Cities']), ...toCitiesArray(f['Past Cities'])]
+    .map(c => CITY_COUNTY[c])
+    .filter(Boolean)
+    .join(' ');
+}
+// Strips punctuation that varies between how a name is typed and how it's stored - "D.R. Horton"
+// vs "DR Horton", "O'Brien" vs "OBrien" - so a search matches regardless of which form was used,
+// instead of requiring an exact substring match including that punctuation.
+function normalizeSearchText(s) {
+  return (s || '').toString().toLowerCase().replace(/[.,'"()&/\\-]/g, '').replace(/\s+/g, ' ').trim();
+}
+
+function searchBlobForCategory(category, f) {
+  switch (category) {
+    case 'Company': return (f.Company || '').toLowerCase();
+    case 'Company Type': return toCitiesArray(f['Company Type']).join(' ').toLowerCase();
+    case 'Building Types': return toCitiesArray(f['Building Types']).join(' ').toLowerCase();
+    case 'Cities': return `${[...toCitiesArray(f['Current Cities']), ...toCitiesArray(f['Past Cities'])].join(' ')} ${derivedCountiesFor(f)}`.toLowerCase();
+    case 'County': return `${toCitiesArray(f['County']).join(' ')} ${derivedCountiesFor(f)}`.toLowerCase();
+    case 'Contacts': return [1,2,3,4].flatMap(n => [f[`Contact ${n} Name`], f[`Contact ${n} Role`], f[`Contact ${n} Phone`], cleanEmail(f[`Contact ${n} Email`])]).filter(Boolean).join(' ').toLowerCase();
+    case 'Notes': return [f['Notes'], f['Building What']].filter(Boolean).join(' ').toLowerCase();
+    default: return recordSearchBlob(f);
+  }
+}
+
+function builderWebsite(f) {
+  return f.Website || '';
+}
+
+function stockInfoUrl(value) {
+  let trimmed = (value || '').toString().trim();
+  if (!trimmed) return '';
+  // Airtable's Stock Info column usually holds just a ticker (e.g. "AAPL"), not a full URL —
+  // using that raw value as an href silently linked to a relative, nonexistent local page
+  // instead of navigating anywhere. Build a real Yahoo Finance URL from it; if the field
+  // already contains a full URL (some records might), leave it untouched.
+  if (/^https?:\/\//i.test(trimmed)) return trimmed;
+  // Strip exchange-prefixed notation like "NASDAQ: AAPL" or "NYSE:XYZ" down to just the ticker —
+  // Yahoo's quote URL only wants the symbol itself.
+  if (trimmed.includes(':')) trimmed = trimmed.split(':').pop().trim();
+  return `https://finance.yahoo.com/quote/${encodeURIComponent(trimmed)}`;
+}
+
+function cleanEmail(value) {
+  const trimmed = (value || '').toString().trim();
+  // Some contact emails were saved as a markdown link, e.g. "[a@b.com](mailto:a@b.com)",
+  // instead of a plain address — strip that wrapper down to the actual address so it displays
+  // and links correctly.
+  const markdownLink = trimmed.match(/^\[(.+?)\]\(mailto:(.+?)\)$/i);
+  let address = markdownLink ? (markdownLink[2] || markdownLink[1]).trim() : trimmed;
+  // Handles "Display Name <email@domain.com>" header-style addresses (e.g. pasted from an email
+  // client) - only treated as a wrapper if the bracketed part actually looks like an email.
+  const angleBracket = address.match(/<([^<>]+)>/);
+  if (angleBracket && angleBracket[1].includes('@')) address = angleBracket[1].trim();
+  // Lowercased unconditionally so "Jane@Company.com" and "jane@company.com" always display and
+  // save the same way, regardless of how it was typed or pasted in.
+  return address.toLowerCase();
+}
+
+// Normalizes any phone number typed or pasted in — plain digits, dashes, dots, parens, with or
+// without a leading US country code or a trailing extension — to a consistent xxx-xxx-xxxx
+// display. Anything past the first 10 digits is treated as an extension. Left untouched if there
+// aren't at least 10 digits to format with confidence (e.g. a partial or non-US number).
+function formatPhone(value) {
+  const raw = (value || '').toString().trim();
+  let digits = raw.replace(/\D/g, '');
+  // A genuine 10-digit US number never starts with 1 (NANP area codes can't), so a leading 1 on
+  // anything longer is safely a country code to drop - regardless of whether an extension follows.
+  if (digits.length > 10 && digits[0] === '1') digits = digits.slice(1);
+  if (digits.length < 10) return raw;
+  const base = digits.slice(0, 10);
+  const ext = digits.slice(10);
+  const formatted = `${base.slice(0,3)}-${base.slice(3,6)}-${base.slice(6,10)}`;
+  return ext ? `${formatted} ext. ${ext}` : formatted;
+}
+
+function formatLastEdited(f) {
+  if (!LAST_EDITED_FIELD) return '';
+  const val = f[LAST_EDITED_FIELD];
+  if (!val) return '';
+  const d = new Date(val);
+  return isNaN(d) ? String(val) : d.toLocaleDateString();
+}
+
+async function loadRecords() {
+  setStatus('Loading...');
+  try {
+    let all = [];
+    let offset;
+    do {
+      const data = await airtableFetch(TABLE, offset ? `?offset=${offset}` : '');
+      all = all.concat(data.records);
+      offset = data.offset;
+    } while (offset);
+    records = all;
+    localStorage.setItem('wa_builders_cache', JSON.stringify(records));
+    localStorage.setItem('wa_builders_cache_time', Date.now().toString());
+    hideOfflineBanner();
+    render();
+    setStatus(`${records.length} builders loaded.`);
+  } catch (e) {
+    const isRealOffline = !navigator.onLine || e.message.includes('Failed to fetch') || e.message.includes('NetworkError');
+    if (isRealOffline) {
+      const cached = localStorage.getItem('wa_builders_cache');
+      const cachedAt = localStorage.getItem('wa_builders_cache_time');
+      if (cached) {
+        records = JSON.parse(cached);
+        showOfflineBanner(cachedAt ? parseInt(cachedAt) : null);
+        render();
+        setStatus(`${records.length} builders loaded from offline cache.`);
+      } else {
+        showOfflineBanner(null);
+        setStatus('Could not load data: ' + e.message);
+      }
+    } else {
+      hideOfflineBanner();
+      showApiErrorBanner(e.message);
+      setStatus('Airtable request failed. See message above.');
+    }
+  }
+}
+
+function showApiErrorBanner(message) {
+  const banner = document.getElementById('offlineBanner');
+  banner.style.display = 'block';
+  banner.style.background = '#F3EAD8';
+  banner.style.borderColor = '#DCC48F';
+  banner.style.color = '#6B5320';
+  banner.textContent = `Airtable rejected the request. This isn't an offline issue. Check your token permissions, base ID, and table name. (${message})`;
+}
+
+
+function uniqueVals(key) {
+  const s = new Set();
+  records.forEach(r => {
+    const v = r.fields[key];
+    if (key === 'City') { toCitiesArray(r.fields['Current Cities']).forEach(c => s.add(c)); }
+    else if (key === 'Building Types' || key === 'Company Type' || key === 'County') { toCitiesArray(v).forEach(t => s.add(t)); }
+    else if (v) s.add(v);
+  });
+  return Array.from(s).sort();
+}
+
+function createCheckboxDropdown({ container, label, options, initialSelected, searchable, onChange, formatLabel, groupBy, showSelectAll, defaultGroups, exclusiveOptions }) {
+  exclusiveOptions = exclusiveOptions || [];
+  const selected = new Set(initialSelected || []);
+  let isOpen = false;
+  let searchQuery = '';
+  let expandedGroups = new Set();
+  let showAllGroups = false;
+  const displayText = formatLabel || (opt => opt);
+
+  function summary() {
+    return selected.size ? `${label} (${selected.size})` : `${label}: all`;
+  }
+
+  function isVisible(opt) {
+    if (!searchQuery) return true;
+    const q = searchQuery.toLowerCase();
+    if (displayText(opt).toLowerCase().includes(q)) return true;
+    if (groupBy && groupBy(opt).toLowerCase().includes(q)) return true;
+    return false;
+  }
+
+  function buildGroups() {
+    const groups = {};
+    options.forEach(opt => { const g = groupBy(opt); (groups[g] = groups[g] || []).push(opt); });
+    return groups;
+  }
+
+  function computeVisibleGroupNames(groups) {
+    const allNames = Object.keys(groups).sort();
+    if (searchQuery) return allNames.filter(g => groups[g].some(isVisible));
+    if (showAllGroups || !defaultGroups || !defaultGroups.size) return allNames;
+    return allNames.filter(g => defaultGroups.has(g));
+  }
+
+  function allSelectableOptions() {
+    // "Select all" targets every option that matches the current search (or all options
+    // when there's no search) — deliberately ignoring the default/see-more group restriction,
+    // so it can reach cities in counties that aren't currently shown.
+    return options.filter(isVisible);
+  }
+
+  function allVisibleSelected() {
+    const targets = allSelectableOptions();
+    return targets.length > 0 && targets.every(opt => selected.has(opt));
+  }
+
+  function optionRowHtml(opt) {
+    const text = displayText(opt);
+    return `<label class="dropdown-option" style="display:${isVisible(opt) ? 'flex' : 'none'};">
+      <input type="checkbox" value="${esc(opt)}" ${selected.has(opt) ? 'checked' : ''}> ${esc(text)}
+    </label>`;
+  }
+
+  function buildOptionsMarkup() {
+    let optionsHtml;
+    let seeMoreHtml = '';
+    if (!options.length) {
+      optionsHtml = `<div class="dropdown-empty">No options</div>`;
+    } else if (groupBy) {
+      const groups = buildGroups();
+      const visibleNames = computeVisibleGroupNames(groups);
+      optionsHtml = visibleNames.map(g => {
+        const groupOptions = groups[g];
+        const selectedCount = groupOptions.filter(c => selected.has(c)).length;
+        const isExpanded = !!searchQuery || expandedGroups.has(g) || selectedCount > 0;
+        const headerLabel = selectedCount ? `${g} (${selectedCount})` : g;
+        const allInGroupSelected = groupOptions.length > 0 && groupOptions.every(c => selected.has(c));
+        return `<div class="dropdown-group">
+          <div class="dropdown-group-label">
+            <span class="dropdown-group-toggle" data-group="${esc(g)}">${isExpanded ? '▾' : '▸'}</span>
+            <label class="dropdown-group-name">
+              <input type="checkbox" class="dropdown-group-checkbox" data-group="${esc(g)}" ${allInGroupSelected ? 'checked' : ''}>
+              ${esc(headerLabel)}
+            </label>
+          </div>
+          ${isExpanded ? groupOptions.map(optionRowHtml).join('') : ''}
+        </div>`;
+      }).join('');
+
+      if (!searchQuery && defaultGroups && defaultGroups.size) {
+        const allNames = Object.keys(groups).sort();
+        const hiddenCount = allNames.filter(g => !defaultGroups.has(g)).length;
+        if (hiddenCount > 0) {
+          seeMoreHtml = showAllGroups
+            ? `<button type="button" class="dd-see-more">Show fewer counties</button>`
+            : `<button type="button" class="dd-see-more">See all counties (+${hiddenCount})</button>`;
+        }
+      }
+    } else {
+      optionsHtml = options.map(optionRowHtml).join('');
+    }
+    return { optionsHtml, seeMoreHtml };
+  }
+
+  function wireOptionEvents() {
+    container.querySelectorAll('.dropdown-option input').forEach(cb => {
+      cb.onclick = (e) => e.stopPropagation();
+      cb.onchange = () => {
+        if (cb.checked) {
+          // Exclusive options (e.g. N/A, Unknown) represent "there's no real building-type
+          // answer here" - so picking one clears any other selection, and picking a normal
+          // option clears whichever exclusive one was active, since the two can't both be true.
+          if (exclusiveOptions.includes(cb.value)) selected.clear();
+          else exclusiveOptions.forEach(v => selected.delete(v));
+          selected.add(cb.value);
+        } else {
+          selected.delete(cb.value);
+        }
+        onChange(Array.from(selected));
+        renderInner();
+        const search = container.querySelector('.dropdown-search');
+        if (search) search.focus();
+      };
+    });
+    container.querySelectorAll('.dropdown-group-toggle').forEach(el => {
+      el.onclick = (e) => {
+        e.stopPropagation();
+        const g = el.dataset.group;
+        expandedGroups.has(g) ? expandedGroups.delete(g) : expandedGroups.add(g);
+        renderInner();
+      };
+    });
+    container.querySelectorAll('.dropdown-group-checkbox').forEach(cb => {
+      cb.onclick = (e) => e.stopPropagation();
+      cb.onchange = () => {
+        const g = cb.dataset.group;
+        const groups = buildGroups();
+        const groupOptions = groups[g] || [];
+        groupOptions.forEach(c => cb.checked ? selected.add(c) : selected.delete(c));
+        onChange(Array.from(selected));
+        renderInner();
+      };
+    });
+  }
+
+  function wireSeeMoreButton() {
+    const seeMoreBtn = container.querySelector('.dd-see-more');
+    if (seeMoreBtn) {
+      seeMoreBtn.onclick = (e) => {
+        e.stopPropagation();
+        showAllGroups = !showAllGroups;
+        renderInner();
+      };
+    }
+  }
+
+  // Sizes and positions the open panel so it never gets cut off: matches the panel's width to
+  // the toggle (so it's never narrower/smaller-looking than the control it belongs to), and
+  // clamps the options list to whatever room actually exists below the toggle — otherwise a
+  // panel near the bottom of the viewport (or a short list with little room left under it) can
+  // render past the visible area with no way to scroll down to the rest of it. Always opens
+  // downward (never flips above the toggle) so it can never end up behind the sticky header.
+  function positionPanel() {
+    if (!isOpen) return;
+    const toggle = container.querySelector('.dropdown-toggle');
+    const panel = container.querySelector('.dropdown-panel');
+    const optionsEl = container.querySelector('.dropdown-options');
+    if (!toggle || !panel || !optionsEl) return;
+
+    const toggleRect = toggle.getBoundingClientRect();
+    panel.style.width = Math.max(260, toggleRect.width) + 'px';
+
+    // Reset to natural (CSS-default) sizing before measuring, so a clamp left over from a
+    // previous open doesn't feed back into this calculation.
+    optionsEl.style.maxHeight = '';
+
+    const margin = 12;
+    const panelRect = panel.getBoundingClientRect();
+    const chromeHeight = panelRect.height - optionsEl.offsetHeight;
+    const spaceBelow = window.innerHeight - toggleRect.bottom - margin;
+    const available = spaceBelow - chromeHeight;
+    optionsEl.style.maxHeight = Math.max(80, Math.min(240, available)) + 'px';
+  }
+
+  // Full rebuild: used for everything except typing in the search box (open/close, checkbox
+  // clicks, group toggles, select-all, see-more). Typing uses refreshOptionsOnly() instead so the
+  // search <input> itself is never destroyed mid-keystroke — that was the actual cause of only
+  // being able to type one letter at a time (rebuilding it on every keystroke silently lost focus).
+  function renderInner() {
+    const optionsEl = container.querySelector('.dropdown-options');
+    const prevScrollTop = optionsEl ? optionsEl.scrollTop : 0;
+    const { optionsHtml, seeMoreHtml } = buildOptionsMarkup();
+
+    const actionsHtml = showSelectAll ? `
+      <div class="dropdown-actions">
+        <button type="button" class="dd-toggle-all">${allVisibleSelected() ? 'Deselect all' : 'Select all'}</button>
+      </div>` : '';
+
+    container.innerHTML = `
+      <button type="button" class="dropdown-toggle"><span>${esc(summary())}</span><span class="dropdown-toggle-arrow">▾</span></button>
+      <div class="dropdown-panel" style="display:${isOpen ? 'flex' : 'none'};">
+        ${searchable ? `<div class="dropdown-search-wrap"><input type="text" class="dropdown-search" placeholder="Search..."><button type="button" class="dd-search-clear" aria-label="Clear search">&times;</button></div>` : ''}
+        ${actionsHtml}
+        <div class="dropdown-options">${optionsHtml}</div>
+        <div class="dd-see-more-slot">${seeMoreHtml}</div>
+      </div>`;
+
+    const newOptionsEl = container.querySelector('.dropdown-options');
+    if (newOptionsEl) newOptionsEl.scrollTop = prevScrollTop;
+
+    container.querySelector('.dropdown-toggle').onclick = (e) => {
+      e.stopPropagation();
+      const opening = !isOpen;
+      // Closing every other open dropdown before this one opens keeps two panels from ever
+      // rendering on top of each other at once (instance is safe to reference here even though
+      // it's declared further down — this handler only runs on a later user click, by which
+      // point the initial synchronous setup below has already assigned it).
+      if (opening) activeDropdowns.forEach(dd => { if (dd !== instance) dd.close(); });
+      isOpen = opening;
+      renderInner();
+      const search = container.querySelector('.dropdown-search');
+      if (isOpen && search) search.focus();
+    };
+    wireOptionEvents();
+    wireSeeMoreButton();
+    const toggleAllBtn = container.querySelector('.dd-toggle-all');
+    if (toggleAllBtn) {
+      toggleAllBtn.onclick = (e) => {
+        e.stopPropagation();
+        const targets = allSelectableOptions();
+        const allSelected = targets.length > 0 && targets.every(opt => selected.has(opt));
+        targets.forEach(opt => allSelected ? selected.delete(opt) : selected.add(opt));
+        if (groupBy && defaultGroups && defaultGroups.size) showAllGroups = !allSelected;
+        onChange(Array.from(selected));
+        renderInner();
+        const search = container.querySelector('.dropdown-search');
+        if (search) search.focus();
+      };
+    }
+    const search = container.querySelector('.dropdown-search');
+    const searchClearBtn = container.querySelector('.dd-search-clear');
+    function updateSearchClearVisibility() {
+      if (searchClearBtn) searchClearBtn.style.display = searchQuery ? 'block' : 'none';
+    }
+    if (search) {
+      search.value = searchQuery;
+      search.oninput = () => {
+        searchQuery = search.value;
+        refreshOptionsOnly();
+        updateSearchClearVisibility();
+      };
+    }
+    if (searchClearBtn) {
+      searchClearBtn.onclick = (e) => {
+        e.stopPropagation();
+        searchQuery = '';
+        if (search) search.value = '';
+        refreshOptionsOnly();
+        updateSearchClearVisibility();
+        if (search) search.focus();
+      };
+    }
+    updateSearchClearVisibility();
+    positionPanel();
+  }
+
+  // Lightweight update for search-as-you-type: only touches the options list, the see-more
+  // slot, and the toggle-all button label. Never recreates the search <input>, so focus and
+  // cursor position are simply never disturbed — no restoration hack needed.
+  function refreshOptionsOnly() {
+    const optionsEl = container.querySelector('.dropdown-options');
+    const prevScrollTop = optionsEl ? optionsEl.scrollTop : 0;
+    const { optionsHtml, seeMoreHtml } = buildOptionsMarkup();
+    if (optionsEl) {
+      optionsEl.innerHTML = optionsHtml;
+      optionsEl.scrollTop = prevScrollTop;
+    }
+    wireOptionEvents();
+    const seeMoreSlot = container.querySelector('.dd-see-more-slot');
+    if (seeMoreSlot) {
+      seeMoreSlot.innerHTML = seeMoreHtml;
+      wireSeeMoreButton();
+    }
+    const toggleAllBtn = container.querySelector('.dd-toggle-all');
+    if (toggleAllBtn) toggleAllBtn.textContent = allVisibleSelected() ? 'Deselect all' : 'Select all';
+    positionPanel();
+  }
+
+  container.classList.add('dropdown-box');
+  renderInner();
+  const instance = {
+    container,
+    getSelected: () => Array.from(selected),
+    clear: () => { selected.clear(); renderInner(); },
+    close: () => { if (isOpen) { isOpen = false; renderInner(); } }
+  };
+  activeDropdowns.push(instance);
+  return instance;
+}
+
+function forgetDropdown(dd) {
+  const idx = activeDropdowns.indexOf(dd);
+  if (idx !== -1) activeDropdowns.splice(idx, 1);
+}
+
+document.addEventListener('click', (e) => {
+  activeDropdowns.forEach(dd => {
+    if (dd.container && !dd.container.contains(e.target)) dd.close();
+  });
+});
+
+function countiesWithBuilders() {
+  const set = new Set();
+  records.forEach(r => toCitiesArray(r.fields['Current Cities']).forEach(c => {
+    const county = CITY_COUNTY[c];
+    if (county) set.add(county);
+  }));
+  return set;
+}
+
+function renderFilters() {
+  [companyTypeDropdown, buildingTypeDropdown, cityDropdown].forEach(dd => dd && forgetDropdown(dd));
+
+  companyTypeDropdown = createCheckboxDropdown({
+    container: document.getElementById('ddCompanyType'),
+    label: 'Company Type',
+    options: uniqueVals('Company Type'),
+    initialSelected: activeFilters['Company Type'],
+    searchable: false,
+    showSelectAll: true,
+    onChange: (vals) => { activeFilters['Company Type'] = vals; renderTable(); }
+  });
+  buildingTypeDropdown = createCheckboxDropdown({
+    container: document.getElementById('ddBuildingType'),
+    label: 'Building Types',
+    options: uniqueVals('Building Types'),
+    initialSelected: activeFilters['Building Types'],
+    searchable: false,
+    showSelectAll: true,
+    onChange: (vals) => { activeFilters['Building Types'] = vals; renderTable(); }
+  });
+  cityDropdown = createCheckboxDropdown({
+    container: document.getElementById('ddCity'),
+    label: 'City',
+    options: Object.keys(CITY_COUNTY).sort(),
+    initialSelected: activeFilters.City,
+    searchable: true,
+    groupBy: (c) => CITY_COUNTY[c] || 'Other',
+    showSelectAll: true,
+    defaultGroups: countiesWithBuilders(),
+    onChange: (vals) => { activeFilters.City = vals; renderTable(); }
+  });
+
+  document.getElementById('clearFiltersBtn').onclick = () => {
+    activeFilters['Company Type'] = [];
+    activeFilters['Building Types'] = [];
+    activeFilters.City = [];
+    companyTypeDropdown.clear();
+    buildingTypeDropdown.clear();
+    cityDropdown.clear();
+    renderTable();
+  };
+}
+
+function groupByCounty(cities) {
+  const groups = {};
+  cities.forEach(c => {
+    const county = CITY_COUNTY[c] || 'Other';
+    (groups[county] = groups[county] || []).push(c);
+  });
+  return Object.entries(groups).sort((a,b) => a[0].localeCompare(b[0]));
+}
+
+function initMap() {
+  if (typeof L === 'undefined') return; // Leaflet CDN failed to load (offline/blocked) — skip gracefully
+  cityMap = L.map('cityMap', { scrollWheelZoom: false }).setView([47.4, -120.7], 7);
+  const esriUrl = 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}';
+  // Base layer: full-color satellite everywhere.
+  L.tileLayer(esriUrl, { attribution: 'Tiles &copy; Esri', maxZoom: 16 }).addTo(cityMap);
+  cityMarkersLayer = L.layerGroup().addTo(cityMap);
+  cityMap.on('zoomend', updateCityLabelVisibility);
+  updateActiveCityMarkers();
+}
+
+// Real city-limit polygons come from OpenStreetMap's free Nominatim boundary lookup, fetched
+// lazily (one request at a time, ~1/sec to respect their usage policy) and cached in
+// localStorage so repeat visits are instant. Until a city's real boundary is fetched (or if
+// none exists for it), it shows as an approximate circle instead.
+function boundaryStyle() {
+  return { color: '#4F6B47', fillColor: '#4F6B47', fillOpacity: 0.35, weight: 1.5 };
+}
+
+function cityActiveCounts() {
+  const counts = {};
+  lastFilteredRows.forEach(r => toCitiesArray(r.fields['Current Cities']).forEach(c => {
+    counts[c] = (counts[c] || 0) + 1;
+  }));
+  return counts;
+}
+
+function cityLabelOptions() {
+  return { permanent: true, direction: 'center', className: 'city-map-label' };
+}
+
+function drawCircleLayer(city, coords, count) {
+  const radius = 2500 + Math.min(count, 10) * 700; // meters — grows with builder coverage, capped
+  cityCircleLayers[city] = L.circle(coords, { radius, color: '#4F6B47', fillColor: '#4F6B47', fillOpacity: 0.3, weight: 1.5 })
+    .bindTooltip(city, cityLabelOptions())
+    .addTo(cityMarkersLayer);
+}
+
+function drawBoundaryLayer(city, geojson, count) {
+  cityCircleLayers[city] = L.geoJSON(geojson, { style: boundaryStyle() })
+    .bindTooltip(city, cityLabelOptions())
+    .addTo(cityMarkersLayer);
+}
+
+// Declutters at statewide zoom levels and reveals labels as you zoom in, the way place names
+// on Google Maps only appear once you're zoomed in close enough to read them individually.
+function updateCityLabelVisibility() {
+  if (!cityMap) return;
+  const show = cityMap.getZoom() >= CITY_LABEL_MIN_ZOOM;
+  Object.values(cityCircleLayers).forEach(layer => {
+    if (!layer) return;
+    if (show) { if (layer.openTooltip) layer.openTooltip(); }
+    else if (layer.closeTooltip) layer.closeTooltip();
+  });
+}
+
+function applyBoundaryIfStillActive(city) {
+  if (!cityMarkersLayer) return;
+  const geojson = cityBoundaryCache[city];
+  if (!geojson) return; // fetch failed or no boundary available — keep the circle
+  const count = cityActiveCounts()[city];
+  if (!count) return; // filters changed since this was queued — city isn't shown anymore
+  const oldLayer = cityCircleLayers[city];
+  if (oldLayer) cityMarkersLayer.removeLayer(oldLayer);
+  drawBoundaryLayer(city, geojson, count);
+}
+
+function queueBoundaryFetch(city) {
+  if (cityBoundaryCache[city] !== undefined || boundaryFetchPending.has(city)) return;
+  boundaryFetchPending.add(city);
+  boundaryFetchQueue.push(city);
+  runBoundaryFetchQueue();
+}
+
+async function runBoundaryFetchQueue() {
+  if (boundaryFetchRunning) return;
+  boundaryFetchRunning = true;
+  while (boundaryFetchQueue.length) {
+    const city = boundaryFetchQueue.shift();
+    try {
+      // Structured query (city=/state=/country=) instead of a freeform q= string — freeform search
+      // ranks "X County" above the city "X" itself for towns that share their county's name
+      // (e.g. Snohomish, Spokane), so plain-text search returns the wrong (county) boundary.
+      const url = `https://nominatim.openstreetmap.org/search?city=${encodeURIComponent(city)}&state=Washington&country=USA&format=json&polygon_geojson=1&limit=1`;
+      const res = await fetch(url);
+      const data = await res.json();
+      const geojson = data && data[0] && data[0].geojson;
+      cityBoundaryCache[city] = (geojson && (geojson.type === 'Polygon' || geojson.type === 'MultiPolygon')) ? geojson : null;
+    } catch (e) {
+      cityBoundaryCache[city] = null;
+    }
+    boundaryFetchPending.delete(city);
+    try { localStorage.setItem('wa_city_boundary_cache_v2', JSON.stringify(cityBoundaryCache)); } catch (e) {}
+    applyBoundaryIfStillActive(city);
+    if (boundaryFetchQueue.length) await new Promise(r => setTimeout(r, 1100));
+  }
+  boundaryFetchRunning = false;
+}
+
+function updateActiveCityMarkers() {
+  if (!cityMarkersLayer) return;
+  cityMarkersLayer.clearLayers();
+  cityCircleLayers = {};
+  // Reflects whatever is currently filtered/searched (lastFilteredRows), not the full dataset,
+  // so the map stays in sync with the Company Type / Building Types / City filters and search box.
+  const cityCounts = cityActiveCounts();
+  const activeCoords = [];
+  Object.keys(cityCounts).forEach(c => {
+    const coords = CITY_COORDS[c];
+    if (!coords) return;
+    activeCoords.push(coords);
+    const count = cityCounts[c];
+    const cachedBoundary = cityBoundaryCache[c];
+    if (cachedBoundary) {
+      drawBoundaryLayer(c, cachedBoundary, count);
+    } else {
+      drawCircleLayer(c, coords, count);
+      queueBoundaryFetch(c);
+    }
+  });
+  if (cityMap) {
+    if (activeCoords.length) {
+      cityMap.fitBounds(activeCoords, { padding: [20, 20], maxZoom: 11 });
+    } else {
+      cityMap.setView([47.4, -120.7], 7);
+    }
+  }
+  updateCityLabelVisibility();
+}
+
+function render() {
+  renderFilters();
+  renderTable();
+}
+
+function renderTable() {
+  const q = normalizeSearchText(document.getElementById('search').value);
+  const searchCategory = document.getElementById('searchCategory').value;
+  const tbody = document.getElementById('tbody');
+  const rows = records.filter(r => {
+    const f = r.fields;
+    if (activeFilters['Company Type'].length && !toCitiesArray(f['Company Type']).some(ct => activeFilters['Company Type'].includes(ct))) return false;
+    if (activeFilters['Building Types'].length && !toCitiesArray(f['Building Types']).some(bt => activeFilters['Building Types'].includes(bt))) return false;
+    if (activeFilters.City.length && !toCitiesArray(f['Current Cities']).some(c => activeFilters.City.includes(c))) return false;
+    if (!q) return true;
+    return normalizeSearchText(searchBlobForCategory(searchCategory, f)).includes(q);
+  });
+  rows.sort((a, b) => (a.fields.Company || '').localeCompare(b.fields.Company || ''));
+  lastFilteredRows = rows;
+  tbody.innerHTML = rows.map(r => {
+    const f = r.fields;
+    const cities = toCitiesArray(f['Current Cities']);
+    const isOpen = expandedIds.has(r.id);
+    const preview = cities.length > 4 ? cities.slice(0,3).join(', ') + ` +${cities.length-3} more` : cities.join(', ');
+    let expandHtml = '';
+    if (isOpen) {
+      const pastCities = toCitiesArray(f['Past Cities']);
+      const pastCitySet = new Set(pastCities.filter(c => !cities.includes(c)));
+      const allDisplayCities = Array.from(new Set([...cities, ...pastCities]));
+      const cityHtml = groupByCounty(allDisplayCities).map(([county, list]) =>
+        `<div style="margin-bottom:6px;"><strong>${esc(county)} County (${list.length}):</strong> ${list.map(c =>
+          pastCitySet.has(c)
+            ? `<span style="display:inline-block; padding:1px 7px; margin:1px 0; background:#FBF0D3; border:1px solid #B8862E; border-radius:8px;">${esc(c)}</span>`
+            : esc(c)
+        ).join(', ')}</div>`).join('');
+      const pastCitiesNote = pastCitySet.size
+        ? `<div style="font-size:12px; color:var(--text-muted); margin-top:6px;"><span style="display:inline-block; width:10px; height:10px; background:#FBF0D3; border:1px solid #B8862E; border-radius:3px; margin-right:4px; vertical-align:middle;"></span>Past city: this company might no longer operate here</div>`
+        : '';
+      const mainContactName = (f['Main Contact'] || '').trim().toLowerCase();
+      const localDecisionMakerName = (f['Local Decision Maker'] || '').trim().toLowerCase();
+      let anyContactIsMainContact = false;
+      let anyContactIsLocalDecisionMaker = false;
+      // Sort order: main contact first, then local decision maker, then remaining contacts by
+      // their slot number - both are name-matches against Contact N Name, not stored links, so a
+      // contact can rank as both (main contact takes priority in that case) or neither.
+      const contactRank = (n) => {
+        const name = (f[`Contact ${n} Name`] || '').trim().toLowerCase();
+        if (mainContactName && name === mainContactName) return 0;
+        if (localDecisionMakerName && name === localDecisionMakerName) return 1;
+        return 2;
+      };
+      const contactBlocks = [1,2,3,4]
+        .filter(n => f[`Contact ${n} Name`])
+        .sort((a, b) => contactRank(a) - contactRank(b) || a - b)
+        .map(n => {
+          const name = f[`Contact ${n} Name`];
+          const role = f[`Contact ${n} Role`];
+          const phone = formatPhone(f[`Contact ${n} Phone`]);
+          const email = cleanEmail(f[`Contact ${n} Email`]);
+          const emailHtml = email ? `<a href="mailto:${esc(email)}" onclick="event.stopPropagation()">${esc(email)}</a>` : '';
+          const isMainContact = mainContactName && name.trim().toLowerCase() === mainContactName;
+          const isLocalDecisionMaker = localDecisionMakerName && name.trim().toLowerCase() === localDecisionMakerName;
+          if (isMainContact) anyContactIsMainContact = true;
+          if (isLocalDecisionMaker) anyContactIsLocalDecisionMaker = true;
+          const mainDot = isMainContact
+            ? `<span style="display:inline-block; width:8px; height:8px; background:#E1E8D9; border:1px solid #3D5C3A; border-radius:50%; margin-right:5px; vertical-align:middle;"></span>`
+            : '';
+          const ldmDot = isLocalDecisionMaker
+            ? `<span style="display:inline-block; width:8px; height:8px; background:#E3E8DC; border:1px solid var(--accent); border-radius:50%; margin-right:5px; vertical-align:middle;"></span>`
+            : '';
+          return `<div style="margin-bottom:10px; font-size:13px;">
+            <div style="font-weight:500;">${mainDot}${ldmDot}${esc(name)}${role ? ` (${esc(role)})` : ''}</div>
+            <div style="font-size:12px; color:var(--text-muted); white-space:nowrap;">${[esc(phone), emailHtml].filter(Boolean).join(' &middot; ')}</div>
+          </div>`;
+        }).join('');
+      const contactHtml = contactBlocks || missingTag();
+      const mainContactNote = anyContactIsMainContact
+        ? `<div style="font-size:12px; color:var(--text-muted); margin-top:6px;"><span style="display:inline-block; width:10px; height:10px; background:#E1E8D9; border:1px solid #3D5C3A; border-radius:3px; margin-right:4px; vertical-align:middle;"></span>Main contact</div>`
+        : '';
+      const localDecisionMakerNote = anyContactIsLocalDecisionMaker
+        ? `<div style="font-size:12px; color:var(--text-muted); margin-top:6px;"><span style="display:inline-block; width:10px; height:10px; background:#E3E8DC; border:1px solid var(--accent); border-radius:3px; margin-right:4px; vertical-align:middle;"></span>Local decision maker</div>`
+        : '';
+      // Stock Info has no line at all when absent — not every company is publicly traded, so an
+      // empty ticker isn't a gap worth flagging the way a missing document link is.
+      const stockLine = f['Stock Info']
+        ? `<div>Stock info: <a href="${esc(stockInfoUrl(f['Stock Info']))}" target="_blank" onclick="event.stopPropagation()">Stock info</a></div>`
+        : '';
+      const doc = `<div style="margin-top:8px; font-size:13px;">
+        <div>Document: ${f['Document link'] ? `<a href="${esc(f['Document link'])}" target="_blank" onclick="event.stopPropagation()">Open document</a>` : missingTag()}</div>
+        ${stockLine}
+      </div>`;
+      const mainOffice = `<div style="display:inline-block; margin-bottom:12px; margin-right:8px; padding:6px 12px; background:var(--surface,#fff); border:1px solid var(--border-strong,#ccc); border-radius:4px; font-size:13px;"><strong>Local office</strong> ${f['Main Office City'] ? esc(f['Main Office City']) : missingTag()}</div>`;
+      const mainContactBox = `<div style="display:inline-block; margin-bottom:12px; margin-right:8px; padding:6px 12px; background:var(--surface,#fff); border:1px solid var(--border-strong,#ccc); border-radius:4px; font-size:13px;"><strong>Main contact</strong> ${f['Main Contact'] ? esc(f['Main Contact']) : `<span style="color:var(--text-muted); font-style:italic;">Not set</span>`}</div>`;
+      const localDecisionMaker = `<div style="display:inline-block; margin-bottom:12px; margin-right:8px; padding:6px 12px; background:var(--surface,#fff); border:1px solid var(--border-strong,#ccc); border-radius:4px; font-size:13px;"><strong>Local decision maker</strong> ${f['Local Decision Maker'] ? esc(f['Local Decision Maker']) : missingTag()}</div>`;
+      const associatedCompany = f['Associated Company'] ? `<div style="display:inline-block; margin-bottom:12px; margin-right:8px; padding:6px 12px; background:var(--surface,#fff); border:1px solid var(--border-strong,#ccc); border-radius:4px; font-size:13px;"><strong>Associated company</strong> ${esc(f['Associated Company'])}</div>` : '';
+      const countyBox = `<div style="display:inline-block; margin-bottom:12px; padding:6px 12px; background:var(--surface,#fff); border:1px solid var(--border-strong,#ccc); border-radius:4px; font-size:13px;"><strong>County</strong> ${toCitiesArray(f['County']).length ? esc(toCitiesArray(f['County']).join(', ')) : missingTag()}</div>`;
+      // Unlike the other flagged fields, no notes yet isn't a data gap — just an invitation to
+      // add one via Edit, so an empty box gets a neutral placeholder instead of the amber
+      // "Missing" tag. Four separate Airtable columns feed this one box, each as its own labeled
+      // sub-section, omitted individually when that column is empty.
+      function noteSection(label, value) {
+        return value ? `<div style="margin-top:6px;"><strong>${esc(label)}</strong><div style="white-space:pre-wrap; font-size:13px; color:var(--text-muted);">${esc(value)}</div></div>` : '';
+      }
+      const noteSections = [
+        noteSection('Notes', f['Notes']),
+        noteSection('Building What', f['Building What']),
+      ].join('');
+      const legendNotes = [mainContactNote, localDecisionMakerNote, pastCitiesNote].filter(Boolean).join('');
+      const notesHtml = `<div style="margin-top:14px; padding:10px 12px; background:var(--surface,#fff); border:1px solid var(--border-strong,#ccc); border-radius:8px;"><strong>Notes</strong>${noteSections || `<div style="margin-top:6px;"><span style="color:var(--text-muted); font-style:italic;">No notes yet</span></div>`}</div>`;
+      expandHtml = `<tr class="expand-row"><td colspan="7">
+        ${mainOffice}${mainContactBox}${localDecisionMaker}${associatedCompany}${countyBox}
+        <div style="display:grid; grid-template-columns:1fr 1fr; gap:20px;">
+          <div><strong>Cities (${allDisplayCities.length})</strong><div style="margin-top:6px;">${cityHtml || missingTag()}</div></div>
+          <div><strong>Contacts</strong><div style="margin-top:6px;">${contactHtml}</div>${doc}</div>
+        </div>
+        ${notesHtml}
+        ${legendNotes}
+        <div style="margin-top:10px;"><button data-edit="${r.id}">Edit</button></div>
+      </td></tr>`;
+    }
+    const website = builderWebsite(f);
+    const companyCell = website
+      ? `<a href="${esc(website)}" target="_blank" rel="noopener" onclick="event.stopPropagation()">${esc(f.Company)}</a>`
+      : `<span style="color:var(--accent);">${esc(f.Company)}</span> <span style="color:#8C6420; font-style:italic; font-size:12px;">(no website)</span>`;
+    const companyTypeCell = toCitiesArray(f['Company Type']).length ? esc(toCitiesArray(f['Company Type']).join(', ')) : missingTag();
+    const buildingTypesArr = toCitiesArray(f['Building Types']);
+    const buildingTypesCell = !buildingTypesArr.length
+      ? missingTag()
+      : buildingTypesArr.includes('Unknown')
+        ? `<span style="color:#8C6420; font-style:italic; font-weight:400;">${esc(buildingTypesArr.join(', '))}</span>`
+        : esc(buildingTypesArr.join(', '));
+    const previewCell = cities.length ? esc(preview) : missingTag();
+    return `<tr style="cursor:pointer;" data-toggle="${r.id}">
+      <td class="chev">${isOpen ? '▾' : '▸'}</td>
+      <td>${companyCell}</td>
+      <td>${companyTypeCell}</td>
+      <td>${previewCell}</td>
+      <td>${buildingTypesCell}</td>
+      <td style="white-space:nowrap;">${esc(formatLastEdited(f))}</td>
+      <td class="missing-dot-cell">${hasMissingData(f) ? `<span class="missing-dot" title="Some data is missing for this company"></span>` : ''}</td>
+    </tr>${expandHtml}`;
+  }).join('');
+  tbody.querySelectorAll('[data-toggle]').forEach(tr => {
+    tr.onclick = (e) => {
+      if (e.target.closest('button')) return;
+      const id = tr.dataset.toggle;
+      expandedIds.has(id) ? expandedIds.delete(id) : expandedIds.add(id);
+      renderTable();
+    };
+  });
+  tbody.querySelectorAll('[data-edit]').forEach(b => b.onclick = (e) => { e.stopPropagation(); openForm(b.dataset.edit); });
+  tbody.querySelectorAll('[data-del]').forEach(b => b.onclick = (e) => { e.stopPropagation(); deleteRecord(b.dataset.del); });
+  updateActiveCityMarkers();
+}
+
+function exportToExcel() {
+  const headers = ['Company','Company Type','Building Types','Current Cities','Document link',
+    'Contact 1 Name','Contact 1 Role','Contact 1 Phone','Contact 1 Email',
+    'Contact 2 Name','Contact 2 Role','Contact 2 Phone','Contact 2 Email',
+    'Contact 3 Name','Contact 3 Role','Contact 3 Phone','Contact 3 Email',
+    'Contact 4 Name','Contact 4 Role','Contact 4 Phone','Contact 4 Email'];
+  // A real CSV can't carry any formatting at all, so this builds an HTML table instead — Excel
+  // opens it natively when saved with a .xls extension. Plain CSS background-color isn't enough:
+  // Excel's own HTML importer still applies its default banded Table style over it. "mso-pattern:none"
+  // is Excel's own (not standard CSS) property for cell fill pattern, and is what it actually reads
+  // to decide a cell has no fill at all, overriding any AutoFormat banding it would otherwise add.
+  const theadHtml = `<tr>${headers.map(h =>
+    `<th style="font-weight:bold; text-align:left; padding:4px 8px; border:1px solid #ccc; mso-pattern:none; background:none;">${esc(h)}</th>`
+  ).join('')}</tr>`;
+  const tbodyHtml = lastFilteredRows.map(r => {
+    const f = r.fields;
+    const cells = headers.map(h => {
+      let v;
+      if (h === 'Current Cities' || h === 'Building Types' || h === 'Company Type') v = toCitiesArray(f[h]).join('; ');
+      else if (h.endsWith('Email')) v = cleanEmail(f[h]);
+      else v = f[h] || '';
+      return `<td style="padding:4px 8px; border:1px solid #ccc; mso-pattern:none; background:none;">${esc(v)}</td>`;
+    });
+    return `<tr>${cells.join('')}</tr>`;
+  }).join('');
+  const html = `<html><head><meta charset="UTF-8"></head><body><table style="border-collapse:collapse;">${theadHtml}${tbodyHtml}</table></body></html>`;
+  const blob = new Blob([html], { type: 'application/vnd.ms-excel' });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = 'wa-builders-export.xls';
+  a.click();
+  URL.revokeObjectURL(url);
+}
+document.getElementById('exportBtn').onclick = exportToExcel;
+
+function esc(s) { return (s||'').toString().replace(/[&<>"']/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m])); }
+
+// Flags a field that's empty and worth researching, rather than silently omitting it — so gaps
+// in a company's data are obvious at a glance instead of blending into the surrounding layout.
+function missingTag() {
+  return `<span style="color:#8C6420; font-style:italic; font-weight:400;">Missing</span>`;
+}
+
+// Same set of fields missingTag() flags in the detail view, checked in one place so the list-row
+// dot and the expanded detail never disagree about whether a company has a gap.
+function hasMissingData(f) {
+  // Stock Info and Notes are excluded: not every company is publicly traded, and a company with
+  // no notes yet isn't a data gap — both are optional extras, not something to chase down.
+  return !toCitiesArray(f['Company Type']).length
+    || !toCitiesArray(f['Building Types']).length
+    || toCitiesArray(f['Building Types']).includes('Unknown')
+    || !toCitiesArray(f['Current Cities']).length
+    || !toCitiesArray(f['County']).length
+    || !builderWebsite(f)
+    || !f['Main Office City']
+    || !f['Local Decision Maker']
+    || !f['Document link']
+    || ![1,2,3,4].some(n => f[`Contact ${n} Name`]);
+}
+
+function setStatus(msg) { document.getElementById('status').textContent = msg; }
+
+function updateSearchClearVisibility() {
+  document.getElementById('searchClear').style.display = document.getElementById('search').value ? 'block' : 'none';
+}
+document.getElementById('search').oninput = () => { renderTable(); updateSearchClearVisibility(); };
+document.getElementById('searchClear').onclick = () => {
+  const search = document.getElementById('search');
+  search.value = '';
+  renderTable();
+  updateSearchClearVisibility();
+  search.focus();
+};
+updateSearchClearVisibility();
+document.getElementById('searchCategory').onchange = renderTable;
+document.getElementById('refreshBtn').onclick = loadRecords;
+document.getElementById('addBtn').onclick = () => openForm(null);
+
+function openForm(id) {
+  const rec = id ? records.find(r => r.id === id) : null;
+  const f = rec ? rec.fields : {};
+  let activeContacts = [1,2,3,4].filter(n => f[`Contact ${n} Name`]);
+  if (activeContacts.length === 0) activeContacts = [1];
+
+  const allCities = Object.keys(CITY_COUNTY).sort();
+  const selectedCities = new Set(toCitiesArray(f['Current Cities']));
+  const selectedPastCities = new Set(toCitiesArray(f['Past Cities']));
+  const allBuildingTypes = ['APT', 'SF', 'TH', 'N/A', 'Unknown'];
+  const selectedBuildingTypes = new Set(toCitiesArray(f['Building Types']));
+  const standardCompanyTypes = ['Developers', 'General contractor', 'Remodeler', 'Custom home builder', 'Subcontractor', 'City Contact'];
+  const existingCompanyTypes = uniqueVals('Company Type');
+  const allCompanyTypes = Array.from(new Set([...standardCompanyTypes, ...existingCompanyTypes])).sort();
+  const selectedCompanyTypes = new Set(toCitiesArray(f['Company Type']));
+  const allCounties = Array.from(new Set([...Object.values(CITY_COUNTY), ...uniqueVals('County')])).sort();
+  const selectedCounties = new Set(toCitiesArray(f['County']));
+  function contactBlockHtml(n) {
+    const name = (f[`Contact ${n} Name`] || '').trim().toLowerCase();
+    const mainContactName = (f['Main Contact'] || '').trim().toLowerCase();
+    const ldmName = (f['Local Decision Maker'] || '').trim().toLowerCase();
+    const isMainContactChecked = name && mainContactName && name === mainContactName;
+    const isChecked = name && ldmName && name === ldmName;
+    const formattedPhone = formatPhone(f[`Contact ${n} Phone`]);
+    const formattedEmail = cleanEmail(f[`Contact ${n} Email`]);
+    return `
+    <div class="contact-block" data-slot="${n}" style="border-top:1px solid #eee; padding-top:8px; margin-top:8px;">
+      <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+        <div style="font-size:12px; color:#888;">Contact ${n}</div>
+        <button type="button" class="remove-contact-btn" style="border:none; background:none; color:var(--danger); font-size:12px; cursor:pointer; padding:0;">Remove</button>
+      </div>
+      <div class="field"><label>Name</label><input id="c${n}Name" value="${esc(f[`Contact ${n} Name`])}"></div>
+      <div class="field"><label>Role</label><input id="c${n}Role" value="${esc(f[`Contact ${n} Role`])}"></div>
+      <div class="field"><label>Phone</label><input id="c${n}Phone" value="${esc(formattedPhone)}">
+        <div id="c${n}PhonePreview" style="font-size:12px; color:var(--text-muted); margin-top:4px;">${formattedPhone ? `→ ${esc(formattedPhone)}` : ''}</div>
+      </div>
+      <div class="field"><label>Email</label><input id="c${n}Email" value="${esc(formattedEmail)}">
+        <div id="c${n}EmailPreview" style="font-size:12px; color:var(--text-muted); margin-top:4px;">${formattedEmail ? `→ ${esc(formattedEmail)}` : ''}</div>
+      </div>
+      <label style="display:flex; align-items:center; gap:6px; font-size:12px; margin-top:6px;"><input type="checkbox" data-main-contact-slot="${n}" ${isMainContactChecked ? 'checked' : ''}> Main contact</label>
+      <label style="display:flex; align-items:center; gap:6px; font-size:12px; margin-top:6px;"><input type="checkbox" data-ldm-slot="${n}" ${isChecked ? 'checked' : ''}> Local decision maker</label>
+    </div>`;
+  }
+
+  const overlay = document.createElement('div');
+  overlay.className = 'modal-overlay';
+  overlay.innerHTML = `
+    <div class="modal">
+      <div class="modal-header">
+        <h3>${id ? 'Edit company' : 'Add company'}</h3>
+        <button id="closeForm" aria-label="Close" style="width:28px; height:28px; padding:0; border-radius:3px; font-size:16px; line-height:1; flex-shrink:0;">×</button>
+      </div>
+      <div class="modal-scroll">
+      <div class="field"><label>Company</label><input id="fCompany" value="${esc(f.Company)}"></div>
+      <div class="field"><label>Company Type</label><div id="fCompanyTypeDD"></div></div>
+      <div class="field"><label>Website</label><input id="fWebsite" value="${esc(f.Website)}"> <button type="button" id="suggestWebsiteBtn">Suggest</button>
+        <div style="font-size:12px; color:#8C6420; margin-top:4px;">Double-check suggested websites — they can be wrong.</div>
+        <div id="fWebsiteSuggestions" style="margin-top:6px; font-size:12px;"></div>
+      </div>
+      <div class="field"><label>Cities</label><div id="fCitiesDD"></div></div>
+      <div class="field"><label>Past Cities</label><div id="fPastCitiesDD"></div></div>
+      <div class="field"><label>Building Types</label><div id="fBuildingTypeDD"></div></div>
+      <div class="field"><label>Local Office City</label><input id="fMainOffice" value="${esc(f['Main Office City'])}"></div>
+      <div class="field"><label>Main Contact</label><input id="fMainContact" value="${esc(f['Main Contact'])}"></div>
+      <div class="field"><label>Local Decision Maker</label><input id="fLocalDecisionMaker" value="${esc(f['Local Decision Maker'])}"></div>
+      <div class="field"><label>Associated Company</label><input id="fAssociatedCompany" value="${esc(f['Associated Company'])}"></div>
+      <div class="field"><label>County</label><div id="fCountyDD"></div></div>
+      <div class="field"><label>Stock Info</label><input id="fStockInfo" value="${esc(f['Stock Info'])}"></div>
+      <div class="field"><label>Document link</label><input id="fDoc" value="${esc(f['Document link'])}"> <button type="button" id="genDocBtn">Create document</button></div>
+      <div class="field"><label>Notes</label><textarea id="fNotes" rows="3">${esc(f['Notes'])}</textarea></div>
+      <div class="field"><label>Building What</label><textarea id="fBuildingWhat" rows="3">${esc(f['Building What'])}</textarea></div>
+      <div id="contactsContainer">${activeContacts.map(contactBlockHtml).join('')}</div>
+      <button type="button" id="addContactBtn" style="margin-top:8px;">+ Add contact</button>
+      <div style="display:flex; justify-content:flex-end; gap:8px; margin-top:16px;">
+        <button id="cancelForm">Cancel</button>
+        <button class="primary" id="saveForm">Save</button>
+      </div>
+      ${id ? `<div style="text-align:center; margin-top:14px;"><button id="deleteForm" style="border:none; background:none; color:var(--danger); font-size:13px; cursor:pointer; padding:4px;">Delete this company</button></div>` : ''}
+      </div>
+    </div>`;
+  document.body.appendChild(overlay);
+
+  // Website suggestion via Clearbit's free, keyless company-autocomplete API. Shows several
+  // candidates to pick from rather than auto-filling the first hit - common company names match
+  // more than one business, so guessing a single result silently was picking the wrong one.
+  const websiteSuggestionsEl = overlay.querySelector('#fWebsiteSuggestions');
+  overlay.querySelector('#suggestWebsiteBtn').onclick = async () => {
+    const companyName = overlay.querySelector('#fCompany').value.trim();
+    if (!companyName) { alert('Enter a company name first.'); return; }
+    websiteSuggestionsEl.textContent = 'Looking up...';
+    try {
+      const res = await fetch(`https://autocomplete.clearbit.com/v1/companies/suggest?query=${encodeURIComponent(companyName)}`);
+      if (!res.ok) throw new Error('lookup failed');
+      const results = await res.json();
+      if (!results || !results.length) {
+        websiteSuggestionsEl.textContent = 'No matches found - enter the website manually.';
+        return;
+      }
+      websiteSuggestionsEl.innerHTML = results.slice(0, 5).map(r =>
+        `<button type="button" class="website-suggestion-btn" data-domain="${esc(r.domain)}" style="margin:2px 4px 2px 0; font-size:12px; padding:3px 8px;">${esc(r.name || r.domain)} — ${esc(r.domain)}</button>`
+      ).join('');
+    } catch (e) {
+      websiteSuggestionsEl.textContent = "Couldn't look this up right now.";
+    }
+  };
+  websiteSuggestionsEl.addEventListener('click', (e) => {
+    const btn = e.target.closest('.website-suggestion-btn');
+    if (!btn) return;
+    overlay.querySelector('#fWebsite').value = `https://${btn.dataset.domain}`;
+    websiteSuggestionsEl.innerHTML = '';
+  });
+
+  const fCitiesDropdown = createCheckboxDropdown({
+    container: overlay.querySelector('#fCitiesDD'),
+    label: 'Cities',
+    options: allCities,
+    initialSelected: Array.from(selectedCities),
+    searchable: true,
+    groupBy: (c) => CITY_COUNTY[c] || 'Other',
+    showSelectAll: true,
+    onChange: () => {}
+  });
+  const fPastCitiesDropdown = createCheckboxDropdown({
+    container: overlay.querySelector('#fPastCitiesDD'),
+    label: 'Past Cities',
+    options: allCities,
+    initialSelected: Array.from(selectedPastCities),
+    searchable: true,
+    groupBy: (c) => CITY_COUNTY[c] || 'Other',
+    showSelectAll: true,
+    onChange: () => {}
+  });
+  const fBuildingTypeDropdown = createCheckboxDropdown({
+    container: overlay.querySelector('#fBuildingTypeDD'),
+    label: 'Building Types',
+    options: allBuildingTypes,
+    initialSelected: Array.from(selectedBuildingTypes),
+    searchable: false,
+    exclusiveOptions: ['N/A', 'Unknown'],
+    onChange: () => {}
+  });
+  const fCompanyTypeDropdown = createCheckboxDropdown({
+    container: overlay.querySelector('#fCompanyTypeDD'),
+    label: 'Company Type',
+    options: allCompanyTypes,
+    initialSelected: Array.from(selectedCompanyTypes),
+    searchable: false,
+    onChange: () => {}
+  });
+  const fCountyDropdown = createCheckboxDropdown({
+    container: overlay.querySelector('#fCountyDD'),
+    label: 'County',
+    options: allCounties,
+    initialSelected: Array.from(selectedCounties),
+    searchable: true,
+    onChange: () => {}
+  });
+  function forgetFormDropdowns() {
+    [fCitiesDropdown, fPastCitiesDropdown, fBuildingTypeDropdown, fCompanyTypeDropdown, fCountyDropdown].forEach(forgetDropdown);
+  }
+
+  function refreshAddButtonVisibility() {
+    const count = overlay.querySelectorAll('.contact-block').length;
+    overlay.querySelector('#addContactBtn').style.display = count >= 4 ? 'none' : 'inline-block';
+  }
+  refreshAddButtonVisibility();
+
+  overlay.querySelector('#addContactBtn').onclick = () => {
+    const used = Array.from(overlay.querySelectorAll('.contact-block')).map(el => parseInt(el.dataset.slot));
+    const nextSlot = [1,2,3,4].find(n => !used.includes(n));
+    if (!nextSlot) return;
+    overlay.querySelector('#contactsContainer').insertAdjacentHTML('beforeend', contactBlockHtml(nextSlot));
+    refreshAddButtonVisibility();
+  };
+
+  // Removing a contact only removes that one - the others keep their existing slot/label (so
+  // removing Contact 1 leaves Contact 2 and Contact 3 as-is, not renumbered). Clears the fields
+  // instead of removing the block when it's the last one, so there's always at least one slot shown.
+  overlay.querySelector('#contactsContainer').addEventListener('click', (e) => {
+    const removeBtn = e.target.closest('.remove-contact-btn');
+    if (!removeBtn) return;
+    const block = removeBtn.closest('.contact-block');
+    if (overlay.querySelectorAll('.contact-block').length <= 1) {
+      block.querySelectorAll('input').forEach(inp => { if (inp.type !== 'checkbox') inp.value = ''; else inp.checked = false; });
+    } else {
+      block.remove();
+    }
+    refreshAddButtonVisibility();
+  });
+
+  // Builds a company info doc from Additional Info Template.docx (embedded as base64) by
+  // swapping its "Company Name" placeholder heading for the real name, then downloads it -
+  // matches the existing files in the Additional Company Info folder, which follow the same
+  // template-plus-heading-swap pattern. Doesn't write into that folder directly (would require
+  // SharePoint/Graph OAuth); the user drags the download in there themselves.
+  overlay.querySelector('#genDocBtn').onclick = async () => {
+    const companyName = overlay.querySelector('#fCompany').value.trim();
+    if (!companyName) { alert('Enter a company name first.'); return; }
+    if (typeof JSZip === 'undefined') {
+      alert("Document generation isn't available right now (the required library failed to load - check your connection).");
+      return;
+    }
+    try {
+      const binary = atob(TEMPLATE_DOCX_BASE64);
+      const bytes = new Uint8Array(binary.length);
+      for (let i = 0; i < binary.length; i++) bytes[i] = binary.charCodeAt(i);
+      const zip = await JSZip.loadAsync(bytes);
+      const xml = await zip.file('word/document.xml').async('string');
+      const updatedXml = xml.replace('<w:t>Company Name</w:t>', `<w:t>${esc(companyName)}</w:t>`);
+      zip.file('word/document.xml', updatedXml);
+      const blob = await zip.generateAsync({
+        type: 'blob',
+        mimeType: 'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
+        compression: 'DEFLATE',
+        compressionOptions: { level: 6 }
+      });
+      const filename = companyName.replace(/[\\/:*?"<>|]/g, '').trim() + '.docx';
+      const url = URL.createObjectURL(blob);
+      const a = document.createElement('a');
+      a.href = url;
+      a.download = filename;
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+      URL.revokeObjectURL(url);
+    } catch (e) {
+      alert('Could not generate document: ' + e.message);
+    }
+  };
+
+  // Each checkbox is a convenience that copies a contact's name into its free-text field (Main
+  // Contact / Local Decision Maker) — neither is a stored link, just a name copied at this moment.
+  // A later edit to that contact's name in *this* edit session still updates the field live (see
+  // the input listener below), but the connection doesn't persist beyond it: reopening the record
+  // later and renaming the contact won't retroactively follow unless the box is re-checked. The
+  // two checkbox groups are independent: a contact can be checked as both, checked as only one,
+  // or neither.
+  overlay.querySelector('#contactsContainer').addEventListener('change', (e) => {
+    const mainContactCheckbox = e.target.closest('[data-main-contact-slot]');
+    if (mainContactCheckbox) {
+      const mainContactInput = overlay.querySelector('#fMainContact');
+      const slot = mainContactCheckbox.dataset.mainContactSlot;
+      const nameInput = overlay.querySelector(`#c${slot}Name`);
+      if (mainContactCheckbox.checked) {
+        mainContactInput.value = nameInput ? nameInput.value.trim() : '';
+        overlay.querySelectorAll('[data-main-contact-slot]').forEach(cb => { if (cb !== mainContactCheckbox) cb.checked = false; });
+      } else if (nameInput && mainContactInput.value.trim().toLowerCase() === nameInput.value.trim().toLowerCase()) {
+        mainContactInput.value = '';
+      }
+      return;
+    }
+    const checkbox = e.target.closest('[data-ldm-slot]');
+    if (!checkbox) return;
+    const ldmInput = overlay.querySelector('#fLocalDecisionMaker');
+    const slot = checkbox.dataset.ldmSlot;
+    const nameInput = overlay.querySelector(`#c${slot}Name`);
+    if (checkbox.checked) {
+      ldmInput.value = nameInput ? nameInput.value.trim() : '';
+      overlay.querySelectorAll('[data-ldm-slot]').forEach(cb => { if (cb !== checkbox) cb.checked = false; });
+    } else if (nameInput && ldmInput.value.trim().toLowerCase() === nameInput.value.trim().toLowerCase()) {
+      ldmInput.value = '';
+    }
+  });
+
+  // Live preview of what a Phone/Email field will actually be saved as, so a paste with mixed
+  // punctuation or a header-style "Name <email>" address shows its normalized form immediately
+  // instead of only on save.
+  overlay.querySelector('#contactsContainer').addEventListener('input', (e) => {
+    const phoneMatch = e.target.id.match(/^c(\d)Phone$/);
+    if (phoneMatch) {
+      const preview = overlay.querySelector(`#c${phoneMatch[1]}PhonePreview`);
+      if (preview) preview.textContent = e.target.value.trim() ? `→ ${formatPhone(e.target.value)}` : '';
+      return;
+    }
+    const emailMatch = e.target.id.match(/^c(\d)Email$/);
+    if (emailMatch) {
+      const preview = overlay.querySelector(`#c${emailMatch[1]}EmailPreview`);
+      if (preview) preview.textContent = e.target.value.trim() ? `→ ${cleanEmail(e.target.value)}` : '';
+      return;
+    }
+    // Keeps the Main Contact / Local Decision Maker free-text field tracking a checked contact's
+    // name live, not just at the moment the box was checked - so typing the name after checking
+    // the box (or renaming a contact that's already checked) still lands the right name in
+    // Airtable, instead of saving whatever the field happened to hold when the box was ticked.
+    const nameMatch = e.target.id.match(/^c(\d)Name$/);
+    if (nameMatch) {
+      const slot = nameMatch[1];
+      const mainCheckbox = overlay.querySelector(`[data-main-contact-slot="${slot}"]`);
+      if (mainCheckbox && mainCheckbox.checked) overlay.querySelector('#fMainContact').value = e.target.value.trim();
+      const ldmCheckbox = overlay.querySelector(`[data-ldm-slot="${slot}"]`);
+      if (ldmCheckbox && ldmCheckbox.checked) overlay.querySelector('#fLocalDecisionMaker').value = e.target.value.trim();
+    }
+  });
+
+  function buildFields() {
+    const fields = {
+      Company: overlay.querySelector('#fCompany').value.trim(),
+      'Company Type': fCompanyTypeDropdown.getSelected().join(', '),
+      Website: overlay.querySelector('#fWebsite').value.trim(),
+      'Building Types': fBuildingTypeDropdown.getSelected().join(', '),
+      'Main Office City': overlay.querySelector('#fMainOffice').value.trim(),
+      'Main Contact': overlay.querySelector('#fMainContact').value.trim(),
+      'Local Decision Maker': overlay.querySelector('#fLocalDecisionMaker').value.trim(),
+      'Associated Company': overlay.querySelector('#fAssociatedCompany').value.trim(),
+      County: fCountyDropdown.getSelected().join(', '),
+      'Stock Info': overlay.querySelector('#fStockInfo').value.trim(),
+      'Document link': overlay.querySelector('#fDoc').value.trim(),
+      Notes: overlay.querySelector('#fNotes').value.trim(),
+      'Building What': overlay.querySelector('#fBuildingWhat').value.trim()
+    };
+    [1,2,3,4].forEach(n => {
+      const block = overlay.querySelector(`.contact-block[data-slot="${n}"]`);
+      fields[`Contact ${n} Name`] = block ? block.querySelector(`#c${n}Name`).value.trim() : '';
+      fields[`Contact ${n} Role`] = block ? block.querySelector(`#c${n}Role`).value.trim() : '';
+      fields[`Contact ${n} Phone`] = block ? formatPhone(block.querySelector(`#c${n}Phone`).value) : '';
+      fields[`Contact ${n} Email`] = block ? cleanEmail(block.querySelector(`#c${n}Email`).value) : '';
+    });
+    fields['Current Cities'] = fCitiesDropdown.getSelected().join(', ');
+    fields['Past Cities'] = fPastCitiesDropdown.getSelected().join(', ');
+    return fields;
+  }
+
+  const initialFieldsSnapshot = JSON.stringify(buildFields());
+  function hasUnsavedChanges() {
+    return JSON.stringify(buildFields()) !== initialFieldsSnapshot;
+  }
+
+  async function doSave() {
+    const fields = buildFields();
+    if (!navigator.onLine) {
+      alert("You're offline. Changes can't be saved right now. Try again once you're back online.");
+      return false;
+    }
+    try {
+      if (id) {
+        await airtableFetch(TABLE, `/${id}`, { method: 'PATCH', body: JSON.stringify({ fields, typecast: true }) });
+      } else {
+        await airtableFetch(TABLE, '', { method: 'POST', body: JSON.stringify({ fields, typecast: true }) });
+      }
+      forgetFormDropdowns();
+      overlay.remove();
+      await loadRecords();
+      return true;
+    } catch (e) {
+      alert('Save failed: ' + e.message);
+      return false;
+    }
+  }
+
+  function promptUnsavedChanges() {
+    return new Promise(resolve => {
+      const confirmOverlay = document.createElement('div');
+      confirmOverlay.className = 'modal-overlay';
+      confirmOverlay.style.zIndex = '200';
+      confirmOverlay.innerHTML = `
+        <div class="modal" style="width:360px;">
+          <div class="modal-scroll" style="padding:22px;">
+            <h3 style="margin-top:0;">Save changes?</h3>
+            <p style="font-size:14px; color:var(--text-muted);">You have unsaved changes. Do you want to save them before closing?</p>
+            <div style="display:flex; justify-content:flex-end; gap:8px; margin-top:18px; flex-wrap:wrap;">
+              <button id="promptKeepEditing">Keep editing</button>
+              <button id="promptDiscard" style="color:var(--danger); border-color:var(--danger);">Discard</button>
+              <button class="primary" id="promptSave">Save changes</button>
+            </div>
+          </div>
+        </div>`;
+      document.body.appendChild(confirmOverlay);
+      const cleanup = (result) => { confirmOverlay.remove(); resolve(result); };
+      confirmOverlay.querySelector('#promptKeepEditing').onclick = () => cleanup('cancel');
+      confirmOverlay.querySelector('#promptDiscard').onclick = () => cleanup('discard');
+      confirmOverlay.querySelector('#promptSave').onclick = () => cleanup('save');
+    });
+  }
+
+  async function closeFormWithConfirm() {
+    if (!hasUnsavedChanges()) {
+      forgetFormDropdowns();
+      overlay.remove();
+      return;
+    }
+    const choice = await promptUnsavedChanges();
+    if (choice === 'cancel') return;
+    if (choice === 'discard') {
+      forgetFormDropdowns();
+      overlay.remove();
+      return;
+    }
+    if (choice === 'save') await doSave();
+  }
+
+  overlay.querySelector('#closeForm').onclick = closeFormWithConfirm;
+  overlay.querySelector('#cancelForm').onclick = closeFormWithConfirm;
+  if (id) {
+    overlay.querySelector('#deleteForm').onclick = async () => {
+      await deleteRecord(id);
+      forgetFormDropdowns();
+      overlay.remove();
+    };
+  }
+
+  overlay.querySelector('#saveForm').onclick = doSave;
+}
+
+async function deleteRecord(id) {
+  if (!confirm('Delete this company?')) return;
+  if (!navigator.onLine) {
+    alert("You're offline. Changes can't be saved right now. Try again once you're back online.");
+    return;
+  }
+  try {
+    await airtableFetch(TABLE, `/${id}`, { method: 'DELETE' });
+    await loadRecords();
+  } catch (e) {
+    alert('Delete failed: ' + e.message);
+  }
+}
+
+function setNotesStatus(msg) { document.getElementById('notesStatus').textContent = msg; }
+
+function renderNotes() {
+  const list = document.getElementById('notesList');
+  if (!notesRecords.length) {
+    list.innerHTML = `<div style="font-size:13px; color:#888;">No notes yet.</div>`;
+    return;
+  }
+  list.innerHTML = notesRecords.map(n => `
+    <div class="note-item">
+      <div>
+        <div class="note-text">${esc(n.fields['Notes Box'])}</div>
+        ${n.fields.Date ? `<div class="note-date">${esc(n.fields.Date)}</div>` : ''}
+      </div>
+      <button class="note-del" data-del-note="${n.id}" title="Delete note">×</button>
+    </div>`).join('');
+  list.querySelectorAll('[data-del-note]').forEach(b => b.onclick = () => deleteNote(b.dataset.delNote));
+}
+
+async function loadNotes() {
+  try {
+    let all = [];
+    let offset;
+    do {
+      const data = await airtableFetch(NOTES_TABLE, offset ? `?offset=${offset}` : '');
+      all = all.concat(data.records);
+      offset = data.offset;
+    } while (offset);
+    notesRecords = all;
+    renderNotes();
+    setNotesStatus('');
+  } catch (e) {
+    setNotesStatus('Could not load notes: ' + e.message);
+  }
+}
+
+document.getElementById('addNoteBtn').onclick = async () => {
+  const textarea = document.getElementById('newNoteText');
+  const text = textarea.value.trim();
+  if (!text) return;
+  if (!navigator.onLine) {
+    alert("You're offline. Changes can't be saved right now. Try again once you're back online.");
+    return;
+  }
+  const fields = { 'Notes Box': text };
+  try {
+    const data = await airtableFetch(NOTES_TABLE, '', { method: 'POST', body: JSON.stringify({ fields, typecast: true }) });
+    notesRecords.push(data);
+    textarea.value = '';
+    renderNotes();
+  } catch (e) {
+    alert('Could not save note: ' + e.message);
+  }
+};
+
+async function deleteNote(id) {
+  if (!confirm('Delete this note?')) return;
+  if (!navigator.onLine) {
+    alert("You're offline. Changes can't be saved right now. Try again once you're back online.");
+    return;
+  }
+  try {
+    await airtableFetch(NOTES_TABLE, `/${id}`, { method: 'DELETE' });
+    notesRecords = notesRecords.filter(n => n.id !== id);
+    renderNotes();
+  } catch (e) {
+    alert('Could not delete note: ' + e.message);
+  }
+}
+
+window.addEventListener('online', () => { hideOfflineBanner(); loadRecords(); });
+window.addEventListener('offline', () => showOfflineBanner(localStorage.getItem('wa_builders_cache_time')));
+</script>
+</body>
+</html>
