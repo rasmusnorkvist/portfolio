@@ -238,6 +238,7 @@
         position: relative; width: 100%; height: 100%;
         transform-style: preserve-3d;
         transition: transform 0.6s cubic-bezier(.2, .7, .3, 1);
+        will-change: transform;
       }
       #hero-vinyl .hv-flip-inner.is-flipped { transform: rotateY(180deg); }
       #hero-vinyl .hv-face { position: absolute; inset: 0; backface-visibility: hidden; }
@@ -325,7 +326,7 @@
           <div class="hv-flip-inner">
             <div class="hv-face hv-face--a">
               <div class="vc-widget" data-side="a" tabindex="0" role="group"
-                   aria-label="Vinyl record. Drag or use the left and right arrow keys to spin it. Click the center label to flip to Side B.">
+                   aria-label="Vinyl record. Drag to spin it, use the left and right arrow keys, or click or tap it to flip to Side B.">
                 <div class="vc-disc">
                   <button type="button" class="vc-label" data-side="a" aria-label="Flip to Side B">Side A</button>
                 </div>
@@ -333,7 +334,7 @@
             </div>
             <div class="hv-face hv-face--b">
               <div class="vc-widget" data-side="b" tabindex="0" role="group"
-                   aria-label="Vinyl record, Side B. Drag or use the left and right arrow keys to spin it. Click the center label to flip back to Side A.">
+                   aria-label="Vinyl record, Side B. Drag to spin it, use the left and right arrow keys, or click or tap it to flip back to Side A.">
                 <div class="vc-disc">
                   <button type="button" class="vc-label" data-side="b" aria-label="Flip to Side A">Side B</button>
                 </div>
@@ -350,11 +351,16 @@
         var FRICTION_PER_SECOND = 0.05; // fraction of velocity retained per second of momentum decay
         var RELEASE_THRESHOLD = 20; // deg/s below which a release doesn't trigger momentum
         var SETTLE_EPSILON = 4; // deg/s below which momentum is considered settled
+        var TAP_MAX_DISTANCE = 6; // px of pointer movement below which a press+release counts as a tap, not a drag
+        var TAP_MAX_DURATION = 500; // ms
         var reduceMQ = matchMedia('(prefers-reduced-motion: reduce)');
 
-        // One vinyl side (idle spin / hover speedup / drag+momentum / keyboard nudge),
+        // One vinyl side (idle spin / drag+momentum / keyboard nudge / tap-anywhere-to-flip),
         // scoped entirely to rootEl so two instances (Side A, Side B) never collide.
-        function createVinylDisc(rootEl) {
+        // onFlipRequest(focus) is called on a qualifying tap or Enter/Space; focus indicates
+        // whether the trigger was keyboard-driven (and so should move focus to the new front
+        // label — its face is about to go inert, so keyboard focus would otherwise be stranded).
+        function createVinylDisc(rootEl, onFlipRequest) {
           var widget = rootEl.querySelector('.vc-widget');
           var disc = rootEl.querySelector('.vc-disc');
           var label = rootEl.querySelector('.vc-label');
@@ -422,12 +428,21 @@
             render();
           }
 
+          var pointerDownX = 0;
+          var pointerDownY = 0;
+          var pointerDownTime = 0;
+          var pointerMaxDist = 0;
+
           function startDrag(e) {
             enterManual();
             dragging = true;
             lastAngle = angleFromEvent(e);
             lastTime = performance.now();
             velocity = 0;
+            pointerDownX = e.clientX;
+            pointerDownY = e.clientY;
+            pointerDownTime = lastTime;
+            pointerMaxDist = 0;
             disc.setPointerCapture(e.pointerId);
             disc.classList.add('vc-dragging');
           }
@@ -443,6 +458,9 @@
             velocity = velocity * 0.7 + instV * 0.3;
             lastAngle = angle;
             lastTime = now;
+            var dx = e.clientX - pointerDownX;
+            var dy = e.clientY - pointerDownY;
+            pointerMaxDist = Math.max(pointerMaxDist, Math.sqrt(dx * dx + dy * dy));
             render();
           }
 
@@ -451,8 +469,12 @@
             dragging = false;
             disc.classList.remove('vc-dragging');
             try { disc.releasePointerCapture(e.pointerId); } catch (err) {}
-            if (reduceMQ.matches || Math.abs(velocity) < RELEASE_THRESHOLD) { resumeIdle(); return; }
-            momentumId = requestAnimationFrame(momentumStep);
+            // A press+release with negligible movement/duration is a tap, not a drag —
+            // flip instead of (or as well as) settling back into idle spin.
+            var wasTap = pointerMaxDist < TAP_MAX_DISTANCE && (performance.now() - pointerDownTime) < TAP_MAX_DURATION;
+            if (reduceMQ.matches || Math.abs(velocity) < RELEASE_THRESHOLD) { resumeIdle(); }
+            else { momentumId = requestAnimationFrame(momentumStep); }
+            if (wasTap && onFlipRequest) onFlipRequest(false);
           }
 
           function momentumStep(now) {
@@ -487,6 +509,10 @@
               enterManual();
               rotation -= step;
               render();
+            } else if (e.key === 'Enter' || e.key === ' ' || e.key === 'Spacebar') {
+              e.preventDefault();
+              if (onFlipRequest) onFlipRequest(true);
+              return;
             } else {
               return;
             }
@@ -514,20 +540,28 @@
         var inner = heroVinyl.querySelector('.hv-flip-inner');
         var faceA = heroVinyl.querySelector('.hv-face--a');
         var faceB = heroVinyl.querySelector('.hv-face--b');
-        var discA = createVinylDisc(faceA);
-        var discB = createVinylDisc(faceB);
+        var discA = createVinylDisc(faceA, function (focus) { setFlipped(true, focus); });
+        var discB = createVinylDisc(faceB, function (focus) { setFlipped(false, focus); });
 
-        function setFlipped(flipped) {
+        // `focus` only moves keyboard focus onto the new front label when the flip was
+        // itself keyboard-triggered — mouse/touch taps skip it, since the label's face is
+        // about to go inert either way, and forcing a focus()+inert reflow on every plain
+        // click was the main source of any felt stutter between the two flip directions.
+        function setFlipped(flipped, focus) {
           inner.classList.toggle('is-flipped', flipped);
           faceA.inert = flipped;
           faceB.inert = !flipped;
           discA.setFront(!flipped);
           discB.setFront(flipped);
-          (flipped ? faceB : faceA).querySelector('.vc-label').focus();
+          if (focus) {
+            (flipped ? faceB : faceA).querySelector('.vc-label').focus();
+          }
         }
 
-        faceA.querySelector('.vc-label').addEventListener('click', function () { setFlipped(true); });
-        faceB.querySelector('.vc-label').addEventListener('click', function () { setFlipped(false); });
+        // e.detail === 0 distinguishes a keyboard-activated button click (Enter/Space on
+        // the label itself, tabbed to directly) from a real mouse/touch click.
+        faceA.querySelector('.vc-label').addEventListener('click', function (e) { setFlipped(true, e.detail === 0); });
+        faceB.querySelector('.vc-label').addEventListener('click', function (e) { setFlipped(false, e.detail === 0); });
 
         // Initial state: Side A front-facing, Side B inert and paused — set directly
         // (not via setFlipped(false)) so we don't steal focus onto the label on page load.
