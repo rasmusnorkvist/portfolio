@@ -1,118 +1,128 @@
 {
-  "updatedAt": "2026-08-05T23:28:34.793Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-06T00:53:15.881Z",
+  "nowPlaying": {
+    "name": "A Deuce Or An Ace",
+    "artists": [
+      "Supersci",
+      "Remedeeh"
+    ],
+    "album": "Pinetrees On The Pavement",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8729fbc083cd2b468a0702c",
+    "url": "https://open.spotify.com/track/04E5VHM8trBSUbjs9h3Bjx",
+    "durationMs": 228320,
+    "isPlaying": true,
+    "progressMs": 34971
+  },
   "recentlyPlayed": [
     {
-      "name": "LA FINE",
+      "name": "Lightenup",
       "artists": [
-        "Måneskin"
+        "Parcels"
       ],
-      "album": "RUSH!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346e72dff16a10e1b5062fdf7",
-      "url": "https://open.spotify.com/track/5glLilgQ2GNudKN4BNCdjt",
-      "durationMs": 200585,
-      "playedAt": "2026-08-05T22:56:27.495Z"
+      "album": "Parcels",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d26bc8655d6132c9e243f82e",
+      "url": "https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki",
+      "durationMs": 237227,
+      "playedAt": "2026-08-06T00:51:56.710Z"
     },
     {
-      "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
+      "name": "On Melancholy Hill",
       "artists": [
-        "Armand Van Helden",
-        "Duane Harden"
+        "Gorillaz"
       ],
-      "album": "You Don't Know Me (feat. Duane Harden)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ec4e2968bee807ba322cdb18",
-      "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE",
-      "durationMs": 242333,
-      "playedAt": "2026-08-05T22:53:01.023Z"
+      "album": "Plastic Beach (Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734960e8b13691e5570337d4d8",
+      "url": "https://open.spotify.com/track/4ercRiJZl8kBm8vfPaNjrl",
+      "durationMs": 233866,
+      "playedAt": "2026-08-06T00:44:37.700Z"
     },
     {
-      "name": "Cobrastyle (feat. Mad Cobra)",
+      "name": "Use Me",
       "artists": [
-        "Teddybears",
-        "Mad Cobra"
+        "Bill Withers"
       ],
-      "album": "Fresh",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731c5ab58ca8dbe135c6482aeb",
-      "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ",
-      "durationMs": 179853,
-      "playedAt": "2026-08-05T22:49:26.194Z"
+      "album": "Still Bill",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27372641ed682401fc46c18ac12",
+      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN",
+      "durationMs": 228326,
+      "playedAt": "2026-08-06T00:40:58.316Z"
     },
     {
-      "name": "One More Time",
+      "name": "Kid Charlemagne - 2025 Remaster",
       "artists": [
-        "Daft Punk"
+        "Steely Dan"
+      ],
+      "album": "The Royal Scam (2025 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273934a94c1dbbfc78b8c67e5fe",
+      "url": "https://open.spotify.com/track/27G16GZASr5vZhk1j6VFqn",
+      "durationMs": 274151,
+      "playedAt": "2026-08-06T00:37:33.241Z"
+    },
+    {
+      "name": "Last Train to London",
+      "artists": [
+        "Electric Light Orchestra"
       ],
       "album": "Discovery",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731e81bff9807a9e629fce5ade",
-      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV",
-      "durationMs": 320357,
-      "playedAt": "2026-08-05T22:46:33.798Z"
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f",
+      "url": "https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz",
+      "durationMs": 272649,
+      "playedAt": "2026-08-06T00:30:31.150Z"
     },
     {
-      "name": "No One Dies From Love",
+      "name": "Someday",
       "artists": [
-        "Tove Lo"
+        "The Strokes"
       ],
-      "album": "Dirt Femme",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aeb431774ee02fb6b7a9fea3",
-      "url": "https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm",
-      "durationMs": 186018,
-      "playedAt": "2026-08-05T22:41:55.778Z"
+      "album": "Is This It",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
+      "url": "https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT",
+      "durationMs": 183573,
+      "playedAt": "2026-08-06T00:26:28.127Z"
     },
     {
-      "name": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
+      "name": "Never Going Back Again - 2004 Remaster",
       "artists": [
-        "Bee Gees"
+        "Fleetwood Mac"
       ],
-      "album": "Greatest",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352038992fc6d7868f31d23b7",
-      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH",
-      "durationMs": 285373,
-      "playedAt": "2026-08-05T22:39:01.042Z"
+      "album": "Rumours (Super Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+      "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd",
+      "durationMs": 134400,
+      "playedAt": "2026-08-06T00:23:25.972Z"
     },
     {
-      "name": "Alla vill till himmelen men ingen vill dö",
+      "name": "Maneater",
       "artists": [
-        "Timbuktu"
+        "Daryl Hall & John Oates"
       ],
-      "album": "Alla vill till himmelen men ingen vill dö",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a4f00fca4d50faa2267cd33e",
-      "url": "https://open.spotify.com/track/6I1kZgg3bGrPKxhZOltbRW",
-      "durationMs": 246386,
-      "playedAt": "2026-08-05T22:34:28.171Z"
+      "album": "H2O",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cfe4163cbb6d12f3ec15898e",
+      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY",
+      "durationMs": 273173,
+      "playedAt": "2026-08-06T00:21:14.979Z"
     },
     {
-      "name": "Känslan kommer tillbaks",
+      "name": "Maneater",
       "artists": [
-        "Mange Schmidt"
+        "Daryl Hall & John Oates"
       ],
-      "album": "Känslan kommer tillbaks",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27360a54f603f1e126f689c7f0a",
-      "url": "https://open.spotify.com/track/1OhuKBFWdWqCUTxG2DKocb",
-      "durationMs": 253386,
-      "playedAt": "2026-08-05T22:30:48.448Z"
+      "album": "H2O",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cfe4163cbb6d12f3ec15898e",
+      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY",
+      "durationMs": 273173,
+      "playedAt": "2026-08-06T00:17:21.123Z"
     },
     {
-      "name": "Inga problem",
+      "name": "Hung Up",
       "artists": [
-        "Snook"
+        "Madonna"
       ],
-      "album": "Är",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730631f818e6da7c83c3347f48",
-      "url": "https://open.spotify.com/track/3OVqUymp1SZ88kZcL55DhG",
-      "durationMs": 187293,
-      "playedAt": "2026-08-05T22:27:13.247Z"
-    },
-    {
-      "name": "God Knows",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Hurricane Bar",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d77f5131e85a3164f9c3aeed",
-      "url": "https://open.spotify.com/track/7yvVN0WIduWMnVpnIgZehl",
-      "durationMs": 230733,
-      "playedAt": "2026-08-05T22:21:53.096Z"
+      "album": "Confessions on a Dance Floor",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aaa9d84415623c1e790cd07b",
+      "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH",
+      "durationMs": 337733,
+      "playedAt": "2026-08-06T00:16:54.769Z"
     }
   ],
   "topArtists": [
