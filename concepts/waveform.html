@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Concept Archive: Audio Waveform / Equalizer</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600..800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap"
+  rel="stylesheet"
+/>
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: {
+          display: ['"Bricolage Grotesque"', "sans-serif"],
+          body: ["Inter", "sans-serif"],
+          mono: ['"JetBrains Mono"', "monospace"],
+        },
+      },
+    },
+  };
+</script>
+</head>
+<body class="font-body antialiased" style="background:#1B120C">
+  <!-- Archived snapshot of the original Concept Lab's waveform prototype (once built inside
+       music.html). Not linked from the live site — standalone reference only. -->
+  <section id="concept-lab" class="min-h-screen py-20 md:py-28 relative overflow-hidden">
+    <style>
+      #concept-lab {
+        --lab-base: #1B120C;
+        --lab-elevated: #2A1D14;
+        --lab-accent: #E0762C;
+        --lab-accent-2: #C23B2B;
+        --lab-text: #F5E9D6;
+        --lab-muted: #A98F72;
+        background:
+          radial-gradient(120% 140% at 15% 0%, rgba(224, 118, 44, 0.16), transparent 55%),
+          radial-gradient(100% 120% at 100% 100%, rgba(194, 59, 43, 0.14), transparent 60%),
+          var(--lab-base);
+        color: var(--lab-text);
+        border-top: 1px dashed rgba(224, 118, 44, 0.35);
+      }
+      #concept-lab .lab-eyebrow { color: var(--lab-accent); }
+      #concept-lab .lab-heading { color: var(--lab-text); font-family: "Bricolage Grotesque", sans-serif; }
+      #concept-lab .lab-sub { color: var(--lab-muted); }
+
+      #concept-lab .lab-panel {
+        border-radius: 1.25rem;
+        border: 1px solid rgba(245, 233, 214, 0.12);
+        background: var(--lab-elevated);
+        padding: 2rem;
+        display: grid;
+        gap: 2rem;
+        grid-template-columns: 1fr;
+        box-shadow: 0 28px 70px -30px rgba(224, 118, 44, .35), 0 10px 26px -12px rgba(0, 0, 0, .55);
+      }
+      @media (min-width: 768px) {
+        #concept-lab .lab-panel { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: center; padding: 3rem; }
+      }
+      #concept-lab .lab-panel:focus-visible { outline: 2px solid var(--lab-accent); outline-offset: 4px; }
+      #concept-lab .lab-tags span {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 9px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        border: 1px solid rgba(245, 233, 214, 0.18);
+        border-radius: 999px;
+        padding: 0.3rem 0.7rem;
+        color: var(--lab-muted);
+      }
+      #concept-lab .lab-note {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 10px;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: var(--lab-muted);
+        border-top: 1px dashed rgba(245, 233, 214, 0.15);
+        padding-top: 1rem;
+        margin-top: 1.5rem;
+        line-height: 1.6;
+      }
+
+      /* ---------- Waveform / equalizer ---------- */
+      #concept-lab .eq-stage { padding: 1rem 0; width: 100%; }
+      #concept-lab .eq-bars { display: flex; align-items: flex-end; gap: 6px; height: 160px; justify-content: center; }
+      #concept-lab .eq-bar {
+        width: 6px; height: 100%; border-radius: 3px 3px 0 0;
+        background: linear-gradient(180deg, var(--lab-accent), var(--lab-accent-2));
+        box-shadow: 0 0 16px -4px rgba(224, 118, 44, .4);
+        transform-origin: bottom; transform: scaleY(var(--h));
+        animation: eq-idle 3.4s ease-in-out infinite; animation-delay: var(--d);
+      }
+      @keyframes eq-idle { 50% { transform: scaleY(calc(var(--h) * 0.88)); } }
+      @keyframes eq-energetic { 50% { transform: scaleY(calc(var(--h) * 0.22)); } }
+      #concept-lab .eq-bars.is-energetic .eq-bar { animation-name: eq-energetic; animation-duration: var(--dur); }
+      #concept-lab .eq-bars.lab-paused .eq-bar { animation-play-state: paused; }
+      @media (prefers-reduced-motion: reduce) {
+        #concept-lab .eq-bar { animation: none !important; }
+      }
+    </style>
+
+    <div class="max-w-[1400px] mx-auto px-6 md:px-10 lg:px-16 relative">
+      <div class="mb-12">
+        <p class="lab-eyebrow font-mono text-[10px] uppercase tracking-[0.2em] mb-4">Internal &middot; Prototype archive</p>
+        <h1 class="lab-heading font-display font-bold text-3xl md:text-4xl tracking-tight mb-3">Concept Lab</h1>
+        <p class="lab-sub max-w-xl text-sm md:text-base leading-relaxed">
+          Archived snapshot of one of four Spotify-section interaction concepts. Not linked
+          from the live site &mdash; kept here for reference only.
+        </p>
+      </div>
+
+      <div id="lab-panel-eq" class="lab-panel" tabindex="0">
+        <div class="eq-stage flex items-center justify-center">
+          <div class="eq-bars" aria-hidden="true"></div>
+        </div>
+        <div class="lab-copy">
+          <h3 class="font-display font-bold text-2xl mb-3">02 &middot; Audio Waveform / Equalizer</h3>
+          <p class="text-sm leading-relaxed mb-4" style="color:var(--lab-muted)">
+            A minimal bar visualizer that breathes gently at rest and turns energetic on hover,
+            focus, or when it scrolls into view &mdash; meant to sit quietly rather than compete
+            for attention.
+          </p>
+          <div class="flex flex-wrap gap-2 mb-4 lab-tags">
+            <span>Transform-only bars</span><span>Hover / in-view trigger</span><span>Ambient</span>
+          </div>
+          <p class="lab-note">Fits: drop-in replacement for the .badge-bars icon on the project cards (index.html:136&ndash;147, used at 443/473/502), and reusable as music.html's now-playing pulse.</p>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      (function () {
+        var panel = document.getElementById('lab-panel-eq');
+        var container = panel.querySelector('.eq-bars');
+        var BAR_COUNT = 22;
+
+        // Precomputed envelope (not random) so the resting silhouette looks intentional.
+        var frag = document.createDocumentFragment();
+        for (var i = 0; i < BAR_COUNT; i++) {
+          var bar = document.createElement('span');
+          bar.className = 'eq-bar';
+          var h = (0.32 + 0.55 * Math.abs(Math.sin(i * 0.9)) * Math.abs(Math.cos(i * 0.37))).toFixed(2);
+          var delay = (i * 0.045).toFixed(3);
+          var dur = (0.55 + (i % 5) * 0.09).toFixed(2);
+          bar.style.setProperty('--h', h);
+          bar.style.setProperty('--d', delay + 's');
+          bar.style.setProperty('--dur', dur + 's');
+          frag.appendChild(bar);
+        }
+        container.appendChild(frag);
+
+        var isHovered = false, isFocused = false, isEnergeticFromView = false;
+        function updateEnergetic() {
+          container.classList.toggle('is-energetic', isHovered || isFocused || isEnergeticFromView);
+        }
+        panel.addEventListener('mouseenter', function () { isHovered = true; updateEnergetic(); });
+        panel.addEventListener('mouseleave', function () { isHovered = false; updateEnergetic(); });
+        panel.addEventListener('focusin', function () { isFocused = true; updateEnergetic(); });
+        panel.addEventListener('focusout', function () { isFocused = false; updateEnergetic(); });
+
+        // One observer serves both jobs: energetic trigger (ratio > 0.4) and off-screen pause (not intersecting at all).
+        new IntersectionObserver(function (entries) {
+          var entry = entries[0];
+          isEnergeticFromView = entry.isIntersecting && entry.intersectionRatio > 0.4;
+          container.classList.toggle('lab-paused', !entry.isIntersecting);
+          updateEnergetic();
+        }, { threshold: [0, 0.4] }).observe(panel);
+      })();
+    </script>
+  </section>
+</body>
+</html>

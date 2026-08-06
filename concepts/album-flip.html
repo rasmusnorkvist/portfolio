@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Concept Archive: Interactive Album Card</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600..800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap"
+  rel="stylesheet"
+/>
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: {
+          display: ['"Bricolage Grotesque"', "sans-serif"],
+          body: ["Inter", "sans-serif"],
+          mono: ['"JetBrains Mono"', "monospace"],
+        },
+      },
+    },
+  };
+</script>
+</head>
+<body class="font-body antialiased" style="background:#1B120C">
+  <!-- Archived snapshot of the original Concept Lab's album-flip prototype (once built inside
+       music.html). Not linked from the live site — standalone reference only. -->
+  <section id="concept-lab" class="min-h-screen py-20 md:py-28 relative overflow-hidden">
+    <style>
+      #concept-lab {
+        --lab-base: #1B120C;
+        --lab-elevated: #2A1D14;
+        --lab-accent: #E0762C;
+        --lab-accent-2: #C23B2B;
+        --lab-text: #F5E9D6;
+        --lab-muted: #A98F72;
+        background:
+          radial-gradient(120% 140% at 15% 0%, rgba(224, 118, 44, 0.16), transparent 55%),
+          radial-gradient(100% 120% at 100% 100%, rgba(194, 59, 43, 0.14), transparent 60%),
+          var(--lab-base);
+        color: var(--lab-text);
+        border-top: 1px dashed rgba(224, 118, 44, 0.35);
+      }
+      #concept-lab .lab-eyebrow { color: var(--lab-accent); }
+      #concept-lab .lab-heading { color: var(--lab-text); font-family: "Bricolage Grotesque", sans-serif; }
+      #concept-lab .lab-sub { color: var(--lab-muted); }
+
+      #concept-lab .lab-panel {
+        border-radius: 1.25rem;
+        border: 1px solid rgba(245, 233, 214, 0.12);
+        background: var(--lab-elevated);
+        padding: 2rem;
+        display: grid;
+        gap: 2rem;
+        grid-template-columns: 1fr;
+        box-shadow: 0 28px 70px -30px rgba(224, 118, 44, .35), 0 10px 26px -12px rgba(0, 0, 0, .55);
+      }
+      @media (min-width: 768px) {
+        #concept-lab .lab-panel { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: center; padding: 3rem; }
+      }
+      #concept-lab .lab-panel:focus-visible { outline: 2px solid var(--lab-accent); outline-offset: 4px; }
+      #concept-lab .lab-tags span, #concept-lab .flip-tags span {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 9px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        border: 1px solid rgba(245, 233, 214, 0.18);
+        border-radius: 999px;
+        padding: 0.3rem 0.7rem;
+        color: var(--lab-muted);
+      }
+      #concept-lab .lab-note {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 10px;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: var(--lab-muted);
+        border-top: 1px dashed rgba(245, 233, 214, 0.15);
+        padding-top: 1rem;
+        margin-top: 1.5rem;
+        line-height: 1.6;
+      }
+
+      /* ---------- Album flip card ---------- */
+      #concept-lab .flip-stage { padding: 1rem 0; width: 100%; }
+      #concept-lab .flip-card { width: 240px; height: 320px; margin: 0 auto; perspective: 1400px; }
+      #concept-lab .flip-card-inner {
+        position: relative; width: 100%; height: 100%;
+        transform-style: preserve-3d;
+        transition: transform 0.6s cubic-bezier(.2, .7, .3, 1);
+      }
+      #concept-lab .flip-card-inner.is-flipped { transform: rotateY(180deg); }
+      #concept-lab .flip-card:hover .flip-card-inner:not(.is-flipped),
+      #concept-lab .flip-card-inner.is-lifted:not(.is-flipped) { transform: translateY(-4px) rotateX(3deg); }
+      #concept-lab .flip-card:active .flip-card-inner:not(.is-flipped) { transform: scale(0.98); }
+      #concept-lab .flip-face {
+        position: absolute; inset: 0; border-radius: 1.1rem; overflow: hidden;
+        backface-visibility: hidden;
+        box-shadow: 0 24px 60px -28px rgba(224, 118, 44, .4), 0 8px 22px -12px rgba(0, 0, 0, .55);
+      }
+      #concept-lab .flip-face--back { transform: rotateY(180deg); background: var(--lab-base); border: 1px solid rgba(245, 233, 214, 0.12); }
+      #concept-lab .flip-card-inner:not(.is-flipped) .flip-face--back { pointer-events: none; }
+      #concept-lab .flip-card-inner.is-flipped .flip-face--front { pointer-events: none; }
+      #concept-lab .flip-front-btn {
+        all: unset; box-sizing: border-box; display: flex; flex-direction: column;
+        width: 100%; height: 100%; cursor: pointer;
+      }
+      #concept-lab .flip-front-btn:focus-visible { outline: 2px solid var(--lab-accent); outline-offset: -4px; }
+      #concept-lab .flip-art { display: block; width: 100%; height: 68%; }
+      #concept-lab .flip-front-label {
+        flex: 1; display: flex; align-items: center; justify-content: center; text-align: center; padding: 0 1rem;
+        font-family: "Bricolage Grotesque", sans-serif; font-weight: 700; font-size: 0.95rem;
+        background: var(--lab-elevated); color: var(--lab-text);
+      }
+      #concept-lab .flip-back-content { padding: 1.5rem; height: 100%; display: flex; flex-direction: column; }
+      #concept-lab .flip-cta {
+        font-family: "JetBrains Mono", monospace; font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase;
+        border-radius: 999px; padding: 0.5rem 0.9rem;
+        transition: transform .15s ease, background-color .2s ease, border-color .2s ease, color .2s ease;
+      }
+      #concept-lab .flip-cta--ghost { border: 1px solid rgba(245, 233, 214, 0.25); color: var(--lab-text); }
+      #concept-lab .flip-cta--ghost:hover { border-color: var(--lab-accent); color: var(--lab-accent); }
+      #concept-lab .flip-cta--solid { background: var(--lab-accent); color: var(--lab-base); }
+      #concept-lab .flip-cta--solid:hover { background: var(--lab-accent-2); }
+      #concept-lab .flip-cta:focus-visible { outline: 2px solid var(--lab-accent); outline-offset: 2px; }
+      #concept-lab .flip-cta:active { transform: scale(0.96); }
+      #concept-lab .flip-back-btn {
+        margin-top: auto; align-self: flex-start;
+        font-family: "JetBrains Mono", monospace; font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase;
+        background: none; border: none; color: var(--lab-muted); cursor: pointer; padding: 0.4rem 0;
+        transition: color .2s ease, transform .15s ease;
+      }
+      #concept-lab .flip-back-btn:hover { color: var(--lab-text); }
+      #concept-lab .flip-back-btn:focus-visible { outline: 2px solid var(--lab-accent); outline-offset: 2px; }
+      #concept-lab .flip-back-btn:active { transform: translateX(-2px); }
+    </style>
+
+    <div class="max-w-[1400px] mx-auto px-6 md:px-10 lg:px-16 relative">
+      <div class="mb-12">
+        <p class="lab-eyebrow font-mono text-[10px] uppercase tracking-[0.2em] mb-4">Internal &middot; Prototype archive</p>
+        <h1 class="lab-heading font-display font-bold text-3xl md:text-4xl tracking-tight mb-3">Concept Lab</h1>
+        <p class="lab-sub max-w-xl text-sm md:text-base leading-relaxed">
+          Archived snapshot of one of four Spotify-section interaction concepts. Not linked
+          from the live site &mdash; kept here for reference only.
+        </p>
+      </div>
+
+      <div id="lab-panel-flip" class="lab-panel" tabindex="0">
+        <div class="flip-stage flex items-center justify-center">
+          <div class="flip-card">
+            <div class="flip-card-inner">
+              <div class="flip-face flip-face--front">
+                <button type="button" class="flip-front-btn" aria-pressed="false" aria-label="Flip card to see project details">
+                  <span class="flip-art" aria-hidden="true">
+                    <svg viewBox="0 0 200 200" width="100%" height="100%" preserveAspectRatio="xMidYMid slice">
+                      <defs>
+                        <linearGradient id="flip-art-grad" x1="0" y1="0" x2="1" y2="1">
+                          <stop offset="0%" stop-color="#E0762C" />
+                          <stop offset="100%" stop-color="#C23B2B" />
+                        </linearGradient>
+                      </defs>
+                      <rect width="200" height="200" fill="url(#flip-art-grad)" />
+                      <circle cx="100" cy="100" r="46" fill="rgba(27,18,12,0.55)" />
+                      <circle cx="100" cy="100" r="10" fill="#1B120C" />
+                    </svg>
+                  </span>
+                  <span class="flip-front-label">Spotify Listening<br>Analytics</span>
+                </button>
+              </div>
+              <div class="flip-face flip-face--back">
+                <div class="flip-back-content">
+                  <h4 class="font-display font-bold text-lg mb-2">Spotify Listening Analytics</h4>
+                  <p class="text-xs leading-relaxed mb-3" style="color:var(--lab-muted)">
+                    A live Spotify Web API integration: recently played tracks, top artists and
+                    tracks, and featured playlists, refreshed daily.
+                  </p>
+                  <div class="flip-tags flex flex-wrap gap-1.5 mb-4">
+                    <span>Spotify API</span><span>Node.js</span><span>OAuth</span><span>GitHub Actions</span>
+                  </div>
+                  <div class="flex flex-wrap gap-2 mb-2">
+                    <!-- TODO: replace with real GitHub repo URL -->
+                    <a href="#" class="flip-cta flip-cta--ghost">GitHub</a>
+                    <a href="https://open.spotify.com/" target="_blank" rel="noopener noreferrer" class="flip-cta flip-cta--solid">Live demo</a>
+                  </div>
+                  <button type="button" class="flip-back-btn">&larr; Flip back</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="lab-copy">
+          <h3 class="font-display font-bold text-2xl mb-3">03 &middot; Interactive Album Card</h3>
+          <p class="text-sm leading-relaxed mb-4" style="color:var(--lab-muted)">
+            An album-cover-style card that flips in 3D on click or tap. The front carries artwork
+            and the project name; the back holds the description, tech tags, and links.
+          </p>
+          <div class="flex flex-wrap gap-2 mb-4 lab-tags">
+            <span>3D CSS flip</span><span>inert-guarded backface</span><span>Touch-friendly</span>
+          </div>
+          <p class="lab-note">Fits: the Spotify project card in index.html's grid &mdash; front = current card, back = the tags/description/links currently inline (index.html:477&ndash;491).</p>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      (function () {
+        var panel = document.getElementById('lab-panel-flip');
+        var inner = panel.querySelector('.flip-card-inner');
+        var frontFace = panel.querySelector('.flip-face--front');
+        var backFace = panel.querySelector('.flip-face--back');
+        var frontBtn = panel.querySelector('.flip-front-btn');
+        var backBtn = panel.querySelector('.flip-back-btn');
+
+        function setFlipped(flipped) {
+          inner.classList.toggle('is-flipped', flipped);
+          frontBtn.setAttribute('aria-pressed', String(flipped));
+          // `inert` removes the hidden face from tab order/hit-testing/AT exposure in one line;
+          // the CSS pointer-events rule on .flip-face--back/--front is a synchronous backstop.
+          frontFace.inert = flipped;
+          backFace.inert = !flipped;
+        }
+        setFlipped(false);
+
+        frontBtn.addEventListener('click', function () { setFlipped(true); });
+        frontBtn.addEventListener('focus', function () { inner.classList.add('is-lifted'); });
+        frontBtn.addEventListener('blur', function () { inner.classList.remove('is-lifted'); });
+        backBtn.addEventListener('click', function () { setFlipped(false); frontBtn.focus(); });
+      })();
+    </script>
+  </section>
+</body>
+</html>

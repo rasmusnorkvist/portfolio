@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Concept Archive: Headphones with Interactive Cord</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600..800&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap"
+  rel="stylesheet"
+/>
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        fontFamily: {
+          display: ['"Bricolage Grotesque"', "sans-serif"],
+          body: ["Inter", "sans-serif"],
+          mono: ['"JetBrains Mono"', "monospace"],
+        },
+      },
+    },
+  };
+</script>
+</head>
+<body class="font-body antialiased" style="background:#1B120C">
+  <!-- Archived snapshot of the original Concept Lab's headphones prototype (once built inside
+       music.html). Not linked from the live site — standalone reference only. -->
+  <section id="concept-lab" class="min-h-screen py-20 md:py-28 relative overflow-hidden">
+    <style>
+      #concept-lab {
+        --lab-base: #1B120C;
+        --lab-elevated: #2A1D14;
+        --lab-accent: #E0762C;
+        --lab-accent-2: #C23B2B;
+        --lab-text: #F5E9D6;
+        --lab-muted: #A98F72;
+        background:
+          radial-gradient(120% 140% at 15% 0%, rgba(224, 118, 44, 0.16), transparent 55%),
+          radial-gradient(100% 120% at 100% 100%, rgba(194, 59, 43, 0.14), transparent 60%),
+          var(--lab-base);
+        color: var(--lab-text);
+        border-top: 1px dashed rgba(224, 118, 44, 0.35);
+      }
+      #concept-lab .lab-eyebrow { color: var(--lab-accent); }
+      #concept-lab .lab-heading { color: var(--lab-text); font-family: "Bricolage Grotesque", sans-serif; }
+      #concept-lab .lab-sub { color: var(--lab-muted); }
+
+      #concept-lab .lab-panel {
+        border-radius: 1.25rem;
+        border: 1px solid rgba(245, 233, 214, 0.12);
+        background: var(--lab-elevated);
+        padding: 2rem;
+        display: grid;
+        gap: 2rem;
+        grid-template-columns: 1fr;
+        box-shadow: 0 28px 70px -30px rgba(224, 118, 44, .35), 0 10px 26px -12px rgba(0, 0, 0, .55);
+      }
+      @media (min-width: 768px) {
+        #concept-lab .lab-panel { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: center; padding: 3rem; }
+      }
+      #concept-lab .lab-panel:focus-visible { outline: 2px solid var(--lab-accent); outline-offset: 4px; }
+      #concept-lab .lab-tags span {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 9px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        border: 1px solid rgba(245, 233, 214, 0.18);
+        border-radius: 999px;
+        padding: 0.3rem 0.7rem;
+        color: var(--lab-muted);
+      }
+      #concept-lab .lab-note {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 10px;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: var(--lab-muted);
+        border-top: 1px dashed rgba(245, 233, 214, 0.15);
+        padding-top: 1rem;
+        margin-top: 1.5rem;
+        line-height: 1.6;
+      }
+
+      /* ---------- Headphones ---------- */
+      #concept-lab .hp-stage {
+        padding: 1rem 0; width: 100%; cursor: pointer; border-radius: 12px;
+        transition: transform .2s ease;
+      }
+      #concept-lab .hp-stage:hover { transform: scale(1.02); }
+      #concept-lab .hp-stage:active { transform: scale(0.98); }
+      #concept-lab .hp-stage:focus-visible { outline: 2px solid var(--lab-accent); outline-offset: 6px; }
+      #concept-lab .hp-svg { display: block; margin: 0 auto; }
+      #concept-lab #hp-headset { transform-box: view-box; transform-origin: 100px 96px; }
+    </style>
+
+    <div class="max-w-[1400px] mx-auto px-6 md:px-10 lg:px-16 relative">
+      <div class="mb-12">
+        <p class="lab-eyebrow font-mono text-[10px] uppercase tracking-[0.2em] mb-4">Internal &middot; Prototype archive</p>
+        <h1 class="lab-heading font-display font-bold text-3xl md:text-4xl tracking-tight mb-3">Concept Lab</h1>
+        <p class="lab-sub max-w-xl text-sm md:text-base leading-relaxed">
+          Archived snapshot of one of four Spotify-section interaction concepts. Not linked
+          from the live site &mdash; kept here for reference only.
+        </p>
+      </div>
+
+      <div id="lab-panel-headphones" class="lab-panel" tabindex="0">
+        <div class="hp-stage flex items-center justify-center" tabindex="0" role="button" aria-label="Headphones illustration. Move your cursor nearby to tilt them, or press enter to send a ripple down the cable.">
+          <svg class="hp-svg" viewBox="0 0 200 200" width="200" height="200" aria-hidden="true">
+            <path id="hp-cable" d="M 100 8 C 100 52, 100 52, 100 96" fill="none" stroke="var(--lab-muted)" stroke-width="2.5" stroke-linecap="round" />
+            <circle cx="100" cy="8" r="4" fill="var(--lab-accent)" />
+            <circle id="hp-pulse" cx="100" cy="8" r="4" fill="var(--lab-accent)" opacity="0" />
+            <g id="hp-headset">
+              <path d="M 60 96 A 40 40 0 0 1 140 96" fill="none" stroke="var(--lab-text)" stroke-width="6" stroke-linecap="round" />
+              <rect x="46" y="92" width="20" height="42" rx="10" fill="var(--lab-elevated)" stroke="var(--lab-accent)" stroke-width="2" />
+              <rect x="134" y="92" width="20" height="42" rx="10" fill="var(--lab-elevated)" stroke="var(--lab-accent)" stroke-width="2" />
+            </g>
+          </svg>
+        </div>
+        <div class="lab-copy">
+          <h3 class="font-display font-bold text-2xl mb-3">04 &middot; Headphones with Interactive Cord</h3>
+          <p class="text-sm leading-relaxed mb-4" style="color:var(--lab-muted)">
+            A minimal line-art illustration that sways gently on its own, tilts toward your cursor,
+            and sends a one-shot ripple down the cable when clicked.
+          </p>
+          <div class="flex flex-wrap gap-2 mb-4 lab-tags">
+            <span>SVG path animation</span><span>Cursor-follow lerp</span><span>One-shot ripple</span>
+          </div>
+          <p class="lab-note">Fits: decorative hero illustration on music.html, or a loading/empty state for #music-content (music.html:281&ndash;292) while data fetches.</p>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      (function () {
+        var panel = document.getElementById('lab-panel-headphones');
+        var stage = panel.querySelector('.hp-stage');
+        var cable = panel.querySelector('#hp-cable');
+        var headset = panel.querySelector('#hp-headset');
+        var pulse = panel.querySelector('#hp-pulse');
+
+        var ANCHOR = { x: 100, y: 8 };
+        var ATTACH = { x: 100, y: 96 };
+        var MAX_TILT = 22; // degrees
+        var IDLE_AMPLITUDE = 5; // degrees
+        var IDLE_PERIOD = 4200; // ms
+        var EASE = 0.1;
+
+        var reduceMQ = matchMedia('(prefers-reduced-motion: reduce)');
+        var currentAngle = 0;
+        var pointerNear = false;
+        var pointerX = 0;
+        var startTime = performance.now();
+        var rafId = null;
+        var isOnScreen = false;
+
+        function clamp(v, min, max) { return Math.max(min, Math.min(max, v)); }
+        function shouldRun() { return isOnScreen && !document.hidden && !reduceMQ.matches; }
+
+        function frame(now) {
+          var target;
+          if (pointerNear) {
+            var rect = stage.getBoundingClientRect();
+            var centerX = rect.left + rect.width / 2;
+            var dist = pointerX - centerX;
+            target = clamp((dist / (rect.width / 2)) * MAX_TILT, -MAX_TILT, MAX_TILT);
+          } else {
+            target = IDLE_AMPLITUDE * Math.sin((now - startTime) / IDLE_PERIOD * Math.PI * 2);
+          }
+          currentAngle += (target - currentAngle) * EASE;
+          headset.style.transform = 'rotate(' + currentAngle.toFixed(2) + 'deg)';
+          var belly = Math.sin(currentAngle * Math.PI / 180) * 14;
+          cable.setAttribute('d',
+            'M ' + ANCHOR.x + ' ' + ANCHOR.y +
+            ' C ' + (ANCHOR.x + belly * 0.5) + ' ' + (ANCHOR.y + 44) + ', ' +
+                    (ATTACH.x + belly) + ' ' + (ATTACH.y - 40) + ', ' +
+                    ATTACH.x + ' ' + ATTACH.y
+          );
+          // Self-terminating: the loop simply stops re-scheduling once shouldRun() goes false,
+          // rather than needing a separate external cancel call.
+          rafId = shouldRun() ? requestAnimationFrame(frame) : null;
+        }
+
+        function syncRunState() {
+          // Resuming just restarts the idle sine phase at 0 — the per-frame lerp toward it
+          // (EASE below) glides currentAngle there smoothly rather than snapping.
+          if (shouldRun() && rafId == null) { startTime = performance.now(); rafId = requestAnimationFrame(frame); }
+        }
+
+        function setStatic() {
+          headset.style.transform = 'rotate(0deg)';
+          cable.setAttribute('d', 'M 100 8 C 100 52, 100 52, 100 96');
+        }
+
+        stage.addEventListener('pointerenter', function () { pointerNear = true; });
+        stage.addEventListener('pointerleave', function () { pointerNear = false; });
+        stage.addEventListener('pointermove', function (e) { pointerX = e.clientX; });
+
+        var rippleId = null;
+        function ripple() {
+          if (reduceMQ.matches) {
+            cable.animate([{ opacity: 1 }, { opacity: 0.35 }, { opacity: 1 }], { duration: 150, easing: 'ease-out' });
+            return;
+          }
+          if (rippleId != null) cancelAnimationFrame(rippleId);
+          var total = cable.getTotalLength();
+          var duration = 800;
+          var start = performance.now();
+          function step(now) {
+            var progress = clamp((now - start) / duration, 0, 1);
+            var pt = cable.getPointAtLength(progress * total);
+            pulse.setAttribute('cx', pt.x);
+            pulse.setAttribute('cy', pt.y);
+            pulse.setAttribute('opacity', String(1 - Math.pow(progress, 3)));
+            if (progress >= 1) { rippleId = null; pulse.setAttribute('opacity', '0'); return; }
+            rippleId = requestAnimationFrame(step);
+          }
+          rippleId = requestAnimationFrame(step);
+        }
+        stage.addEventListener('click', ripple);
+        stage.addEventListener('keydown', function (e) {
+          if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); ripple(); }
+        });
+
+        new IntersectionObserver(function (entries) {
+          isOnScreen = entries[0].isIntersecting;
+          syncRunState();
+        }, { threshold: 0.1 }).observe(panel);
+        document.addEventListener('visibilitychange', syncRunState);
+        reduceMQ.addEventListener('change', function () {
+          if (reduceMQ.matches) { if (rafId != null) { cancelAnimationFrame(rafId); rafId = null; } setStatic(); }
+          else { syncRunState(); }
+        });
+
+        if (reduceMQ.matches) setStatic();
+      })();
+    </script>
+  </section>
+</body>
+</html>
