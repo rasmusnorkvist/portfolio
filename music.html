@@ -293,6 +293,745 @@
     </div>
   </section>
 
+  <!-- ============================================================
+       CONCEPT LAB — throwaway prototypes, not part of the live design.
+       Delete this entire <section>...</section> block (including its
+       inline <style>/<script>) to remove all 4 concepts at once.
+       Each concept below is independently self-contained: its own
+       scoped CSS class prefix (vc- / eq- / flip- / hp-) and its own
+       IIFE, so any single one can also be lifted out or deleted on
+       its own without touching the others.
+       ============================================================ -->
+  <section id="concept-lab" class="py-20 md:py-28 relative overflow-hidden">
+    <style>
+      #concept-lab {
+        --lab-base: #1B120C;
+        --lab-elevated: #2A1D14;
+        --lab-accent: #E0762C;
+        --lab-accent-2: #C23B2B;
+        --lab-text: #F5E9D6;
+        --lab-muted: #A98F72;
+        background:
+          radial-gradient(120% 140% at 15% 0%, rgba(224, 118, 44, 0.16), transparent 55%),
+          radial-gradient(100% 120% at 100% 100%, rgba(194, 59, 43, 0.14), transparent 60%),
+          var(--lab-base);
+        color: var(--lab-text);
+        border-top: 1px dashed rgba(224, 118, 44, 0.35);
+      }
+      #concept-lab .lab-eyebrow { color: var(--lab-accent); }
+      #concept-lab .lab-heading { color: var(--lab-text); font-family: "Bricolage Grotesque", sans-serif; }
+      #concept-lab .lab-sub { color: var(--lab-muted); }
+
+      /* tabs */
+      #concept-lab .lab-tab {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 10px;
+        letter-spacing: 0.14em;
+        text-transform: uppercase;
+        padding: 0.55rem 1rem;
+        border-radius: 999px;
+        border: 1px solid rgba(245, 233, 214, 0.18);
+        background: transparent;
+        color: var(--lab-muted);
+        cursor: pointer;
+        transition: border-color 0.25s ease, color 0.25s ease, background-color 0.25s ease, transform 0.15s ease;
+      }
+      #concept-lab .lab-tab:hover { color: var(--lab-text); border-color: rgba(224, 118, 44, 0.5); }
+      #concept-lab .lab-tab:focus-visible { outline: 2px solid var(--lab-accent); outline-offset: 3px; }
+      #concept-lab .lab-tab:active { transform: scale(0.97); }
+      #concept-lab .lab-tab[aria-selected="true"] {
+        color: var(--lab-base);
+        background: var(--lab-accent);
+        border-color: var(--lab-accent);
+      }
+
+      /* panel shell */
+      #concept-lab .lab-panel {
+        border-radius: 1.25rem;
+        border: 1px solid rgba(245, 233, 214, 0.12);
+        background: var(--lab-elevated);
+        padding: 2rem;
+        display: grid;
+        gap: 2rem;
+        grid-template-columns: 1fr;
+        box-shadow: 0 28px 70px -30px rgba(224, 118, 44, .35), 0 10px 26px -12px rgba(0, 0, 0, .55);
+      }
+      @media (min-width: 768px) {
+        #concept-lab .lab-panel { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); align-items: center; padding: 3rem; }
+      }
+      #concept-lab .lab-panel:focus-visible { outline: 2px solid var(--lab-accent); outline-offset: 4px; }
+      #concept-lab .lab-panel[hidden] { display: none; }
+      #concept-lab .lab-tags span, #concept-lab .flip-tags span {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 9px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        border: 1px solid rgba(245, 233, 214, 0.18);
+        border-radius: 999px;
+        padding: 0.3rem 0.7rem;
+        color: var(--lab-muted);
+      }
+      #concept-lab .lab-note {
+        font-family: "JetBrains Mono", monospace;
+        font-size: 10px;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: var(--lab-muted);
+        border-top: 1px dashed rgba(245, 233, 214, 0.15);
+        padding-top: 1rem;
+        margin-top: 1.5rem;
+        line-height: 1.6;
+      }
+
+      /* ---------- Concept 1: vinyl record ---------- */
+      #concept-lab .vc-stage { padding: 1rem 0; width: 100%; }
+      #concept-lab .vc-widget {
+        position: relative; width: 240px; height: 240px; margin: 0 auto;
+        touch-action: none; border-radius: 50%;
+      }
+      #concept-lab .vc-widget:focus-visible { outline: 2px solid var(--lab-accent); outline-offset: 6px; border-radius: 50%; }
+      #concept-lab .vc-disc {
+        position: absolute; inset: 0; border-radius: 50%;
+        background:
+          repeating-radial-gradient(circle at 50% 50%, rgba(245, 233, 214, 0.05) 0 1px, transparent 1px 6px),
+          radial-gradient(circle at 38% 32%, rgba(245, 233, 214, 0.12), transparent 45%),
+          radial-gradient(circle at 50% 50%, #241a12 0%, #140d08 62%, #0b0704 100%);
+        box-shadow: 0 0 0 1px rgba(245, 233, 214, 0.08) inset, 0 20px 44px -20px rgba(0, 0, 0, .6);
+        cursor: grab; transform-origin: center; will-change: transform;
+        animation: vc-idle-spin 8s linear infinite;
+      }
+      #concept-lab .vc-widget:hover .vc-disc,
+      #concept-lab .vc-widget:focus-visible .vc-disc { animation-duration: 2.4s; }
+      #concept-lab .vc-disc.vc-manual { animation: none; }
+      #concept-lab .vc-disc.vc-dragging { cursor: grabbing; }
+      #concept-lab .vc-disc.lab-paused { animation-play-state: paused; }
+      @keyframes vc-idle-spin { to { transform: rotate(360deg); } }
+      #concept-lab .vc-label {
+        position: absolute; top: 50%; left: 50%; width: 34%; height: 34%;
+        transform: translate(-50%, -50%); border-radius: 50%;
+        background: var(--lab-accent); color: var(--lab-base);
+        display: flex; align-items: center; justify-content: center; text-align: center;
+        font-family: "JetBrains Mono", monospace; font-size: 9px; letter-spacing: 0.06em; text-transform: uppercase; font-weight: 600;
+        box-shadow: 0 0 0 4px var(--lab-elevated), 0 8px 20px -6px rgba(0, 0, 0, .6);
+        transition: background-color 0.2s ease, transform 0.15s ease;
+      }
+      #concept-lab .vc-label:hover { background: var(--lab-accent-2); }
+      #concept-lab .vc-label:focus-visible { outline: 2px solid var(--lab-text); outline-offset: 3px; }
+      #concept-lab .vc-label:active { transform: translate(-50%, -50%) scale(0.94); }
+      @media (prefers-reduced-motion: reduce) {
+        #concept-lab .vc-disc { animation: none !important; }
+      }
+
+      /* ---------- Concept 2: waveform / equalizer ---------- */
+      #concept-lab .eq-stage { padding: 1rem 0; width: 100%; }
+      #concept-lab .eq-bars { display: flex; align-items: flex-end; gap: 6px; height: 160px; justify-content: center; }
+      #concept-lab .eq-bar {
+        width: 6px; height: 100%; border-radius: 3px 3px 0 0;
+        background: linear-gradient(180deg, var(--lab-accent), var(--lab-accent-2));
+        box-shadow: 0 0 16px -4px rgba(224, 118, 44, .4);
+        transform-origin: bottom; transform: scaleY(var(--h));
+        animation: eq-idle 3.4s ease-in-out infinite; animation-delay: var(--d);
+      }
+      @keyframes eq-idle { 50% { transform: scaleY(calc(var(--h) * 0.88)); } }
+      @keyframes eq-energetic { 50% { transform: scaleY(calc(var(--h) * 0.22)); } }
+      #concept-lab .eq-bars.is-energetic .eq-bar { animation-name: eq-energetic; animation-duration: var(--dur); }
+      #concept-lab .eq-bars.lab-paused .eq-bar { animation-play-state: paused; }
+      @media (prefers-reduced-motion: reduce) {
+        #concept-lab .eq-bar { animation: none !important; }
+      }
+
+      /* ---------- Concept 3: album flip card ---------- */
+      #concept-lab .flip-stage { padding: 1rem 0; width: 100%; }
+      #concept-lab .flip-card { width: 240px; height: 320px; margin: 0 auto; perspective: 1400px; }
+      #concept-lab .flip-card-inner {
+        position: relative; width: 100%; height: 100%;
+        transform-style: preserve-3d;
+        transition: transform 0.6s cubic-bezier(.2, .7, .3, 1);
+      }
+      #concept-lab .flip-card-inner.is-flipped { transform: rotateY(180deg); }
+      #concept-lab .flip-card:hover .flip-card-inner:not(.is-flipped),
+      #concept-lab .flip-card-inner.is-lifted:not(.is-flipped) { transform: translateY(-4px) rotateX(3deg); }
+      #concept-lab .flip-card:active .flip-card-inner:not(.is-flipped) { transform: scale(0.98); }
+      #concept-lab .flip-face {
+        position: absolute; inset: 0; border-radius: 1.1rem; overflow: hidden;
+        backface-visibility: hidden;
+        box-shadow: 0 24px 60px -28px rgba(224, 118, 44, .4), 0 8px 22px -12px rgba(0, 0, 0, .55);
+      }
+      #concept-lab .flip-face--back { transform: rotateY(180deg); background: var(--lab-base); border: 1px solid rgba(245, 233, 214, 0.12); }
+      #concept-lab .flip-card-inner:not(.is-flipped) .flip-face--back { pointer-events: none; }
+      #concept-lab .flip-card-inner.is-flipped .flip-face--front { pointer-events: none; }
+      #concept-lab .flip-front-btn {
+        all: unset; box-sizing: border-box; display: flex; flex-direction: column;
+        width: 100%; height: 100%; cursor: pointer;
+      }
+      #concept-lab .flip-front-btn:focus-visible { outline: 2px solid var(--lab-accent); outline-offset: -4px; }
+      #concept-lab .flip-art { display: block; width: 100%; height: 68%; }
+      #concept-lab .flip-front-label {
+        flex: 1; display: flex; align-items: center; justify-content: center; text-align: center; padding: 0 1rem;
+        font-family: "Bricolage Grotesque", sans-serif; font-weight: 700; font-size: 0.95rem;
+        background: var(--lab-elevated); color: var(--lab-text);
+      }
+      #concept-lab .flip-back-content { padding: 1.5rem; height: 100%; display: flex; flex-direction: column; }
+      #concept-lab .flip-cta {
+        font-family: "JetBrains Mono", monospace; font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase;
+        border-radius: 999px; padding: 0.5rem 0.9rem;
+        transition: transform .15s ease, background-color .2s ease, border-color .2s ease, color .2s ease;
+      }
+      #concept-lab .flip-cta--ghost { border: 1px solid rgba(245, 233, 214, 0.25); color: var(--lab-text); }
+      #concept-lab .flip-cta--ghost:hover { border-color: var(--lab-accent); color: var(--lab-accent); }
+      #concept-lab .flip-cta--solid { background: var(--lab-accent); color: var(--lab-base); }
+      #concept-lab .flip-cta--solid:hover { background: var(--lab-accent-2); }
+      #concept-lab .flip-cta:focus-visible { outline: 2px solid var(--lab-accent); outline-offset: 2px; }
+      #concept-lab .flip-cta:active { transform: scale(0.96); }
+      #concept-lab .flip-back-btn {
+        margin-top: auto; align-self: flex-start;
+        font-family: "JetBrains Mono", monospace; font-size: 10px; letter-spacing: 0.08em; text-transform: uppercase;
+        background: none; border: none; color: var(--lab-muted); cursor: pointer; padding: 0.4rem 0;
+        transition: color .2s ease, transform .15s ease;
+      }
+      #concept-lab .flip-back-btn:hover { color: var(--lab-text); }
+      #concept-lab .flip-back-btn:focus-visible { outline: 2px solid var(--lab-accent); outline-offset: 2px; }
+      #concept-lab .flip-back-btn:active { transform: translateX(-2px); }
+
+      /* ---------- Concept 4: headphones ---------- */
+      #concept-lab .hp-stage {
+        padding: 1rem 0; width: 100%; cursor: pointer; border-radius: 12px;
+        transition: transform .2s ease;
+      }
+      #concept-lab .hp-stage:hover { transform: scale(1.02); }
+      #concept-lab .hp-stage:active { transform: scale(0.98); }
+      #concept-lab .hp-stage:focus-visible { outline: 2px solid var(--lab-accent); outline-offset: 6px; }
+      #concept-lab .hp-svg { display: block; margin: 0 auto; }
+      #concept-lab #hp-headset { transform-box: view-box; transform-origin: 100px 96px; }
+    </style>
+
+    <div class="max-w-[1400px] mx-auto px-6 md:px-10 lg:px-16 relative">
+      <div class="mb-12">
+        <p class="lab-eyebrow font-mono text-[10px] uppercase tracking-[0.2em] mb-4">Internal &middot; Prototype comparison</p>
+        <h2 class="lab-heading font-display font-bold text-3xl md:text-4xl tracking-tight mb-3">Concept Lab</h2>
+        <p class="lab-sub max-w-xl text-sm md:text-base leading-relaxed">
+          Four independent interaction concepts for the Spotify project section. Switch tabs to
+          compare each one on its own &mdash; only one or two are meant to survive.
+        </p>
+      </div>
+
+      <div role="tablist" aria-label="Concept Lab prototypes" class="lab-tablist flex flex-wrap gap-2 mb-10">
+        <button role="tab" id="lab-tab-vinyl" aria-controls="lab-panel-vinyl" aria-selected="true" tabindex="0" class="lab-tab">01 &middot; Vinyl</button>
+        <button role="tab" id="lab-tab-eq" aria-controls="lab-panel-eq" aria-selected="false" tabindex="-1" class="lab-tab">02 &middot; Waveform</button>
+        <button role="tab" id="lab-tab-flip" aria-controls="lab-panel-flip" aria-selected="false" tabindex="-1" class="lab-tab">03 &middot; Album Flip</button>
+        <button role="tab" id="lab-tab-headphones" aria-controls="lab-panel-headphones" aria-selected="false" tabindex="-1" class="lab-tab">04 &middot; Headphones</button>
+      </div>
+
+      <!-- ===== Concept 1: Interactive Vinyl Record ===== -->
+      <div id="lab-panel-vinyl" role="tabpanel" aria-labelledby="lab-tab-vinyl" class="lab-panel" tabindex="0">
+        <div class="vc-stage flex items-center justify-center">
+          <div class="vc-widget" tabindex="0" role="group" aria-label="Vinyl record. Drag with a mouse or touch to spin it, or use the left and right arrow keys. The center label opens the project.">
+            <div class="vc-disc">
+              <!-- TODO: replace with real GitHub repo URL (or live demo URL) -->
+              <a class="vc-label" href="#" data-vc-link aria-label="Open project (placeholder link)"><span>View<br>Project</span></a>
+            </div>
+          </div>
+        </div>
+        <div class="lab-copy">
+          <h3 class="font-display font-bold text-2xl mb-3">01 &middot; Interactive Vinyl Record</h3>
+          <p class="text-sm leading-relaxed mb-4" style="color:var(--lab-muted)">
+            Idles in a slow spin, speeds up on hover, and can be grabbed with a mouse or finger and
+            spun by hand. Let go and it keeps turning with real momentum before settling back into
+            its idle spin. The center label opens the project.
+          </p>
+          <div class="flex flex-wrap gap-2 mb-4 lab-tags">
+            <span>Drag + momentum</span><span>Pointer events</span><span>Keyboard nudge</span>
+          </div>
+          <p class="lab-note">Fits: music.html hero, which currently has no hero visual &mdash; center label would link to the live Spotify profile.</p>
+        </div>
+      </div>
+
+      <!-- ===== Concept 2: Audio Waveform / Equalizer ===== -->
+      <div id="lab-panel-eq" role="tabpanel" aria-labelledby="lab-tab-eq" class="lab-panel" tabindex="0" hidden>
+        <div class="eq-stage flex items-center justify-center">
+          <div class="eq-bars" aria-hidden="true"></div>
+        </div>
+        <div class="lab-copy">
+          <h3 class="font-display font-bold text-2xl mb-3">02 &middot; Audio Waveform / Equalizer</h3>
+          <p class="text-sm leading-relaxed mb-4" style="color:var(--lab-muted)">
+            A minimal bar visualizer that breathes gently at rest and turns energetic on hover,
+            focus, or when it scrolls into view &mdash; meant to sit quietly rather than compete
+            for attention.
+          </p>
+          <div class="flex flex-wrap gap-2 mb-4 lab-tags">
+            <span>Transform-only bars</span><span>Hover / in-view trigger</span><span>Ambient</span>
+          </div>
+          <p class="lab-note">Fits: drop-in replacement for the .badge-bars icon on the project cards (index.html:136&ndash;147, used at 443/473/502), and reusable as music.html's now-playing pulse.</p>
+        </div>
+      </div>
+
+      <!-- ===== Concept 3: Interactive Album Card ===== -->
+      <div id="lab-panel-flip" role="tabpanel" aria-labelledby="lab-tab-flip" class="lab-panel" tabindex="0" hidden>
+        <div class="flip-stage flex items-center justify-center">
+          <div class="flip-card">
+            <div class="flip-card-inner">
+              <div class="flip-face flip-face--front">
+                <button type="button" class="flip-front-btn" aria-pressed="false" aria-label="Flip card to see project details">
+                  <span class="flip-art" aria-hidden="true">
+                    <svg viewBox="0 0 200 200" width="100%" height="100%" preserveAspectRatio="xMidYMid slice">
+                      <defs>
+                        <linearGradient id="flip-art-grad" x1="0" y1="0" x2="1" y2="1">
+                          <stop offset="0%" stop-color="#E0762C" />
+                          <stop offset="100%" stop-color="#C23B2B" />
+                        </linearGradient>
+                      </defs>
+                      <rect width="200" height="200" fill="url(#flip-art-grad)" />
+                      <circle cx="100" cy="100" r="46" fill="rgba(27,18,12,0.55)" />
+                      <circle cx="100" cy="100" r="10" fill="#1B120C" />
+                    </svg>
+                  </span>
+                  <span class="flip-front-label">Spotify Listening<br>Analytics</span>
+                </button>
+              </div>
+              <div class="flip-face flip-face--back">
+                <div class="flip-back-content">
+                  <h4 class="font-display font-bold text-lg mb-2">Spotify Listening Analytics</h4>
+                  <p class="text-xs leading-relaxed mb-3" style="color:var(--lab-muted)">
+                    A live Spotify Web API integration: recently played tracks, top artists and
+                    tracks, and featured playlists, refreshed daily.
+                  </p>
+                  <div class="flip-tags flex flex-wrap gap-1.5 mb-4">
+                    <span>Spotify API</span><span>Node.js</span><span>OAuth</span><span>GitHub Actions</span>
+                  </div>
+                  <div class="flex flex-wrap gap-2 mb-2">
+                    <!-- TODO: replace with real GitHub repo URL -->
+                    <a href="#" class="flip-cta flip-cta--ghost">GitHub</a>
+                    <a href="https://open.spotify.com/" target="_blank" rel="noopener noreferrer" class="flip-cta flip-cta--solid">Live demo</a>
+                  </div>
+                  <button type="button" class="flip-back-btn">&larr; Flip back</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="lab-copy">
+          <h3 class="font-display font-bold text-2xl mb-3">03 &middot; Interactive Album Card</h3>
+          <p class="text-sm leading-relaxed mb-4" style="color:var(--lab-muted)">
+            An album-cover-style card that flips in 3D on click or tap. The front carries artwork
+            and the project name; the back holds the description, tech tags, and links.
+          </p>
+          <div class="flex flex-wrap gap-2 mb-4 lab-tags">
+            <span>3D CSS flip</span><span>inert-guarded backface</span><span>Touch-friendly</span>
+          </div>
+          <p class="lab-note">Fits: the Spotify project card in index.html's grid &mdash; front = current card, back = the tags/description/links currently inline (index.html:477&ndash;491).</p>
+        </div>
+      </div>
+
+      <!-- ===== Concept 4: Headphones with Interactive Cord ===== -->
+      <div id="lab-panel-headphones" role="tabpanel" aria-labelledby="lab-tab-headphones" class="lab-panel" tabindex="0" hidden>
+        <div class="hp-stage flex items-center justify-center" tabindex="0" role="button" aria-label="Headphones illustration. Move your cursor nearby to tilt them, or press enter to send a ripple down the cable.">
+          <svg class="hp-svg" viewBox="0 0 200 200" width="200" height="200" aria-hidden="true">
+            <path id="hp-cable" d="M 100 8 C 100 52, 100 52, 100 96" fill="none" stroke="var(--lab-muted)" stroke-width="2.5" stroke-linecap="round" />
+            <circle cx="100" cy="8" r="4" fill="var(--lab-accent)" />
+            <circle id="hp-pulse" cx="100" cy="8" r="4" fill="var(--lab-accent)" opacity="0" />
+            <g id="hp-headset">
+              <path d="M 60 96 A 40 40 0 0 1 140 96" fill="none" stroke="var(--lab-text)" stroke-width="6" stroke-linecap="round" />
+              <rect x="46" y="92" width="20" height="42" rx="10" fill="var(--lab-elevated)" stroke="var(--lab-accent)" stroke-width="2" />
+              <rect x="134" y="92" width="20" height="42" rx="10" fill="var(--lab-elevated)" stroke="var(--lab-accent)" stroke-width="2" />
+            </g>
+          </svg>
+        </div>
+        <div class="lab-copy">
+          <h3 class="font-display font-bold text-2xl mb-3">04 &middot; Headphones with Interactive Cord</h3>
+          <p class="text-sm leading-relaxed mb-4" style="color:var(--lab-muted)">
+            A minimal line-art illustration that sways gently on its own, tilts toward your cursor,
+            and sends a one-shot ripple down the cable when clicked.
+          </p>
+          <div class="flex flex-wrap gap-2 mb-4 lab-tags">
+            <span>SVG path animation</span><span>Cursor-follow lerp</span><span>One-shot ripple</span>
+          </div>
+          <p class="lab-note">Fits: decorative hero illustration on music.html, or a loading/empty state for #music-content (music.html:281&ndash;292) while data fetches.</p>
+        </div>
+      </div>
+    </div>
+
+    <script>
+      (function () {
+        // ---- Concept Lab tab switcher (WAI-ARIA APG tabs pattern) ----
+        var tablist = document.querySelector('#concept-lab .lab-tablist');
+        var tabs = Array.prototype.slice.call(tablist.querySelectorAll('[role="tab"]'));
+        var panels = tabs.map(function (tab) { return document.getElementById(tab.getAttribute('aria-controls')); });
+
+        function activate(index, moveFocus) {
+          tabs.forEach(function (tab, i) {
+            var selected = i === index;
+            tab.setAttribute('aria-selected', String(selected));
+            tab.tabIndex = selected ? 0 : -1;
+            panels[i].hidden = !selected;
+            panels[i].dispatchEvent(new CustomEvent(selected ? 'lab:activate' : 'lab:deactivate'));
+          });
+          if (moveFocus) tabs[index].focus();
+        }
+
+        tabs.forEach(function (tab, i) {
+          tab.addEventListener('click', function () { activate(i, false); });
+        });
+
+        tablist.addEventListener('keydown', function (e) {
+          var current = tabs.indexOf(document.activeElement);
+          if (current === -1) return;
+          var next = null;
+          if (e.key === 'ArrowRight') next = (current + 1) % tabs.length;
+          else if (e.key === 'ArrowLeft') next = (current - 1 + tabs.length) % tabs.length;
+          else if (e.key === 'Home') next = 0;
+          else if (e.key === 'End') next = tabs.length - 1;
+          if (next !== null) { e.preventDefault(); activate(next, true); }
+        });
+
+        activate(0, false); // panel 0 (vinyl) live on load, others hidden + deactivated
+      })();
+
+      // ================================================================
+      // Concept 1: Interactive Vinyl Record
+      // ================================================================
+      (function () {
+        var panel = document.getElementById('lab-panel-vinyl');
+        var widget = panel.querySelector('.vc-widget');
+        var disc = panel.querySelector('.vc-disc');
+        var label = panel.querySelector('.vc-label');
+
+        var IDLE_DURATION = 8; // seconds — must match the vc-idle-spin CSS animation duration
+        var FRICTION_PER_SECOND = 0.05; // fraction of velocity retained per second of momentum decay
+        var RELEASE_THRESHOLD = 20; // deg/s below which a release doesn't trigger momentum
+        var SETTLE_EPSILON = 4; // deg/s below which momentum is considered settled
+
+        var reduceMQ = matchMedia('(prefers-reduced-motion: reduce)');
+        var rotation = 0;
+        var velocity = 0; // deg/s, smoothed
+        var dragging = false;
+        var lastAngle = 0;
+        var lastTime = 0;
+        var momentumId = null;
+        var momentumLastTime = 0;
+        var isActiveTab = true; // vinyl panel starts as the active tab
+        var isOnScreen = false;
+
+        function shouldRun() {
+          return isActiveTab && isOnScreen && !document.hidden;
+        }
+
+        function currentTransformAngle() {
+          var t = getComputedStyle(disc).transform;
+          if (t === 'none') return 0;
+          var m = new DOMMatrix(t);
+          return Math.atan2(m.b, m.a) * 180 / Math.PI;
+        }
+
+        function angleFromEvent(e) {
+          var rect = disc.getBoundingClientRect();
+          var cx = rect.left + rect.width / 2;
+          var cy = rect.top + rect.height / 2;
+          return Math.atan2(e.clientY - cy, e.clientX - cx) * 180 / Math.PI;
+        }
+
+        function shortestDelta(from, to) {
+          var d = (to - from) % 360;
+          if (d > 180) d -= 360;
+          if (d < -180) d += 360;
+          return d;
+        }
+
+        function render() {
+          disc.style.transform = 'rotate(' + rotation + 'deg)';
+        }
+
+        function stopMomentum() {
+          if (momentumId != null) { cancelAnimationFrame(momentumId); momentumId = null; momentumLastTime = 0; }
+        }
+
+        function resumeIdle() {
+          disc.classList.remove('vc-manual');
+          if (reduceMQ.matches) {
+            // No idle auto-spin under reduced motion — stay exactly where it was dropped.
+            disc.style.animation = 'none';
+            render();
+            return;
+          }
+          disc.style.animation = '';
+          disc.style.transform = '';
+          var norm = ((rotation % 360) + 360) % 360;
+          // Negative animation-delay seeks the CSS keyframe to the current visual angle,
+          // so handing control back from JS to CSS causes no jump.
+          disc.style.animationDelay = (-(norm / 360) * IDLE_DURATION) + 's';
+        }
+
+        function enterManual() {
+          stopMomentum();
+          rotation = currentTransformAngle();
+          disc.classList.add('vc-manual');
+          disc.style.animation = 'none';
+          disc.style.animationDelay = '';
+          render();
+        }
+
+        function startDrag(e) {
+          enterManual();
+          dragging = true;
+          lastAngle = angleFromEvent(e);
+          lastTime = performance.now();
+          velocity = 0;
+          disc.setPointerCapture(e.pointerId);
+          disc.classList.add('vc-dragging');
+        }
+
+        function onMove(e) {
+          if (!dragging) return;
+          var now = performance.now();
+          var angle = angleFromEvent(e);
+          var delta = shortestDelta(lastAngle, angle);
+          var dt = Math.max(now - lastTime, 1);
+          rotation += delta;
+          var instV = (delta / dt) * 1000; // deg/s
+          velocity = velocity * 0.7 + instV * 0.3; // smoothed
+          lastAngle = angle;
+          lastTime = now;
+          render();
+        }
+
+        function endDrag(e) {
+          if (!dragging) return;
+          dragging = false;
+          disc.classList.remove('vc-dragging');
+          try { disc.releasePointerCapture(e.pointerId); } catch (err) {}
+          if (reduceMQ.matches || Math.abs(velocity) < RELEASE_THRESHOLD) { resumeIdle(); return; }
+          momentumId = requestAnimationFrame(momentumStep);
+        }
+
+        function momentumStep(now) {
+          if (!shouldRun()) { momentumId = null; resumeIdle(); return; }
+          if (!momentumLastTime) momentumLastTime = now;
+          var dt = now - momentumLastTime;
+          momentumLastTime = now;
+          rotation += velocity * (dt / 1000);
+          velocity *= Math.pow(FRICTION_PER_SECOND, dt / 1000);
+          render();
+          if (Math.abs(velocity) < SETTLE_EPSILON) { momentumId = null; momentumLastTime = 0; resumeIdle(); return; }
+          momentumId = requestAnimationFrame(momentumStep);
+        }
+
+        disc.addEventListener('pointerdown', function (e) { startDrag(e); });
+        disc.addEventListener('pointermove', onMove);
+        disc.addEventListener('pointerup', endDrag);
+        disc.addEventListener('pointercancel', endDrag);
+        // Clicking the label should open the link, never start a drag.
+        label.addEventListener('pointerdown', function (e) { e.stopPropagation(); });
+
+        var idleResumeTimer = null;
+        widget.addEventListener('keydown', function (e) {
+          var step = e.shiftKey ? 45 : 10;
+          if (e.key === 'ArrowRight' || e.key === 'ArrowUp') {
+            e.preventDefault();
+            enterManual();
+            rotation += step;
+            render();
+          } else if (e.key === 'ArrowLeft' || e.key === 'ArrowDown') {
+            e.preventDefault();
+            enterManual();
+            rotation -= step;
+            render();
+          } else {
+            return;
+          }
+          clearTimeout(idleResumeTimer);
+          idleResumeTimer = setTimeout(resumeIdle, 1200);
+        });
+
+        new IntersectionObserver(function (entries) {
+          isOnScreen = entries[0].isIntersecting;
+          disc.classList.toggle('lab-paused', !isOnScreen);
+        }, { threshold: 0.1 }).observe(panel);
+
+        panel.addEventListener('lab:activate', function () { isActiveTab = true; });
+        panel.addEventListener('lab:deactivate', function () { isActiveTab = false; });
+      })();
+
+      // ================================================================
+      // Concept 2: Audio Waveform / Equalizer
+      // ================================================================
+      (function () {
+        var panel = document.getElementById('lab-panel-eq');
+        var container = panel.querySelector('.eq-bars');
+        var BAR_COUNT = 22;
+
+        // Precomputed envelope (not random) so the resting silhouette looks intentional.
+        var frag = document.createDocumentFragment();
+        for (var i = 0; i < BAR_COUNT; i++) {
+          var bar = document.createElement('span');
+          bar.className = 'eq-bar';
+          var h = (0.32 + 0.55 * Math.abs(Math.sin(i * 0.9)) * Math.abs(Math.cos(i * 0.37))).toFixed(2);
+          var delay = (i * 0.045).toFixed(3);
+          var dur = (0.55 + (i % 5) * 0.09).toFixed(2);
+          bar.style.setProperty('--h', h);
+          bar.style.setProperty('--d', delay + 's');
+          bar.style.setProperty('--dur', dur + 's');
+          frag.appendChild(bar);
+        }
+        container.appendChild(frag);
+
+        var isHovered = false, isFocused = false, isEnergeticFromView = false;
+        function updateEnergetic() {
+          container.classList.toggle('is-energetic', isHovered || isFocused || isEnergeticFromView);
+        }
+        panel.addEventListener('mouseenter', function () { isHovered = true; updateEnergetic(); });
+        panel.addEventListener('mouseleave', function () { isHovered = false; updateEnergetic(); });
+        panel.addEventListener('focusin', function () { isFocused = true; updateEnergetic(); });
+        panel.addEventListener('focusout', function () { isFocused = false; updateEnergetic(); });
+
+        // One observer serves both jobs: energetic trigger (ratio > 0.4) and off-screen pause (not intersecting at all).
+        new IntersectionObserver(function (entries) {
+          var entry = entries[0];
+          isEnergeticFromView = entry.isIntersecting && entry.intersectionRatio > 0.4;
+          container.classList.toggle('lab-paused', !entry.isIntersecting);
+          updateEnergetic();
+        }, { threshold: [0, 0.4] }).observe(panel);
+      })();
+
+      // ================================================================
+      // Concept 3: Interactive Album Card
+      // ================================================================
+      (function () {
+        var panel = document.getElementById('lab-panel-flip');
+        var inner = panel.querySelector('.flip-card-inner');
+        var frontFace = panel.querySelector('.flip-face--front');
+        var backFace = panel.querySelector('.flip-face--back');
+        var frontBtn = panel.querySelector('.flip-front-btn');
+        var backBtn = panel.querySelector('.flip-back-btn');
+
+        function setFlipped(flipped) {
+          inner.classList.toggle('is-flipped', flipped);
+          frontBtn.setAttribute('aria-pressed', String(flipped));
+          // `inert` removes the hidden face from tab order/hit-testing/AT exposure in one line;
+          // the CSS pointer-events rule on .flip-face--back/--front is a synchronous backstop.
+          frontFace.inert = flipped;
+          backFace.inert = !flipped;
+        }
+        setFlipped(false);
+
+        frontBtn.addEventListener('click', function () { setFlipped(true); });
+        frontBtn.addEventListener('focus', function () { inner.classList.add('is-lifted'); });
+        frontBtn.addEventListener('blur', function () { inner.classList.remove('is-lifted'); });
+        backBtn.addEventListener('click', function () { setFlipped(false); frontBtn.focus(); });
+      })();
+
+      // ================================================================
+      // Concept 4: Headphones with Interactive Cord
+      // ================================================================
+      (function () {
+        var panel = document.getElementById('lab-panel-headphones');
+        var stage = panel.querySelector('.hp-stage');
+        var cable = panel.querySelector('#hp-cable');
+        var headset = panel.querySelector('#hp-headset');
+        var pulse = panel.querySelector('#hp-pulse');
+
+        var ANCHOR = { x: 100, y: 8 };
+        var ATTACH = { x: 100, y: 96 };
+        var MAX_TILT = 22; // degrees
+        var IDLE_AMPLITUDE = 5; // degrees
+        var IDLE_PERIOD = 4200; // ms
+        var EASE = 0.1;
+
+        var reduceMQ = matchMedia('(prefers-reduced-motion: reduce)');
+        var currentAngle = 0;
+        var pointerNear = false;
+        var pointerX = 0;
+        var startTime = performance.now();
+        var rafId = null;
+        var isActiveTab = false; // headphones panel starts hidden (not the initial active tab)
+        var isOnScreen = false;
+
+        function clamp(v, min, max) { return Math.max(min, Math.min(max, v)); }
+        function shouldRun() { return isActiveTab && isOnScreen && !document.hidden && !reduceMQ.matches; }
+
+        function frame(now) {
+          var target;
+          if (pointerNear) {
+            var rect = stage.getBoundingClientRect();
+            var centerX = rect.left + rect.width / 2;
+            var dist = pointerX - centerX;
+            target = clamp((dist / (rect.width / 2)) * MAX_TILT, -MAX_TILT, MAX_TILT);
+          } else {
+            target = IDLE_AMPLITUDE * Math.sin((now - startTime) / IDLE_PERIOD * Math.PI * 2);
+          }
+          currentAngle += (target - currentAngle) * EASE;
+          headset.style.transform = 'rotate(' + currentAngle.toFixed(2) + 'deg)';
+          var belly = Math.sin(currentAngle * Math.PI / 180) * 14;
+          cable.setAttribute('d',
+            'M ' + ANCHOR.x + ' ' + ANCHOR.y +
+            ' C ' + (ANCHOR.x + belly * 0.5) + ' ' + (ANCHOR.y + 44) + ', ' +
+                    (ATTACH.x + belly) + ' ' + (ATTACH.y - 40) + ', ' +
+                    ATTACH.x + ' ' + ATTACH.y
+          );
+          // Self-terminating: the loop simply stops re-scheduling once shouldRun() goes false,
+          // rather than needing a separate external cancel call.
+          rafId = shouldRun() ? requestAnimationFrame(frame) : null;
+        }
+
+        function syncRunState() {
+          // Resuming just restarts the idle sine phase at 0 — the per-frame lerp toward it
+          // (EASE below) glides currentAngle there smoothly rather than snapping.
+          if (shouldRun() && rafId == null) { startTime = performance.now(); rafId = requestAnimationFrame(frame); }
+        }
+
+        function setStatic() {
+          headset.style.transform = 'rotate(0deg)';
+          cable.setAttribute('d', 'M 100 8 C 100 52, 100 52, 100 96');
+        }
+
+        stage.addEventListener('pointerenter', function () { pointerNear = true; });
+        stage.addEventListener('pointerleave', function () { pointerNear = false; });
+        stage.addEventListener('pointermove', function (e) { pointerX = e.clientX; });
+
+        var rippleId = null;
+        function ripple() {
+          if (reduceMQ.matches) {
+            cable.animate([{ opacity: 1 }, { opacity: 0.35 }, { opacity: 1 }], { duration: 150, easing: 'ease-out' });
+            return;
+          }
+          if (rippleId != null) cancelAnimationFrame(rippleId);
+          var total = cable.getTotalLength();
+          var duration = 800;
+          var start = performance.now();
+          function step(now) {
+            var progress = clamp((now - start) / duration, 0, 1);
+            var pt = cable.getPointAtLength(progress * total);
+            pulse.setAttribute('cx', pt.x);
+            pulse.setAttribute('cy', pt.y);
+            pulse.setAttribute('opacity', String(1 - Math.pow(progress, 3)));
+            if (progress >= 1) { rippleId = null; pulse.setAttribute('opacity', '0'); return; }
+            rippleId = requestAnimationFrame(step);
+          }
+          rippleId = requestAnimationFrame(step);
+        }
+        stage.addEventListener('click', ripple);
+        stage.addEventListener('keydown', function (e) {
+          if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); ripple(); }
+        });
+
+        panel.addEventListener('lab:activate', function () { isActiveTab = true; syncRunState(); });
+        panel.addEventListener('lab:deactivate', function () { isActiveTab = false; });
+        new IntersectionObserver(function (entries) {
+          isOnScreen = entries[0].isIntersecting;
+          syncRunState();
+        }, { threshold: 0.1 }).observe(panel);
+        document.addEventListener('visibilitychange', syncRunState);
+        reduceMQ.addEventListener('change', function () {
+          if (reduceMQ.matches) { if (rafId != null) { cancelAnimationFrame(rafId); rafId = null; } setStatic(); }
+          else { syncRunState(); }
+        });
+
+        if (reduceMQ.matches) setStatic();
+      })();
+    </script>
+  </section>
+  <!-- ============================================================
+       END CONCEPT LAB
+       ============================================================ -->
+
   <!-- footer -->
   <footer class="py-10">
     <div
