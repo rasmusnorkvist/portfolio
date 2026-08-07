@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-08-07T16:22:54.551Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-07T17:21:36.171Z",
+  "nowPlaying": {
+    "name": "Survival",
+    "artists": [
+      "Bob Marley & The Wailers"
+    ],
+    "album": "Survival",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+    "url": "https://open.spotify.com/track/7rCOQjHqD2ArkKvoemDG54",
+    "durationMs": 234240,
+    "isPlaying": true,
+    "progressMs": 176790
+  },
   "recentlyPlayed": [
+    {
+      "name": "Babylon System",
+      "artists": [
+        "Bob Marley & The Wailers"
+      ],
+      "album": "Survival",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+      "url": "https://open.spotify.com/track/6xbtDXk8utIS8rOWD0X9XA",
+      "durationMs": 261839,
+      "playedAt": "2026-08-07T17:18:40.256Z"
+    },
+    {
+      "name": "Top Rankin'",
+      "artists": [
+        "Bob Marley & The Wailers"
+      ],
+      "album": "Survival",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+      "url": "https://open.spotify.com/track/0uMvm0efKsaADso8NO7pk1",
+      "durationMs": 191253,
+      "playedAt": "2026-08-07T17:14:18.337Z"
+    },
+    {
+      "name": "Zimbabwe",
+      "artists": [
+        "Bob Marley & The Wailers"
+      ],
+      "album": "Survival",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+      "url": "https://open.spotify.com/track/5ApfJDLibIoWL0mRZ5uOKu",
+      "durationMs": 231266,
+      "playedAt": "2026-08-07T17:11:07.140Z"
+    },
+    {
+      "name": "So Much Trouble In The World",
+      "artists": [
+        "Bob Marley & The Wailers"
+      ],
+      "album": "Survival",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+      "url": "https://open.spotify.com/track/209SbubR5uKaVzj5SeN42w",
+      "durationMs": 240333,
+      "playedAt": "2026-08-07T17:07:15.846Z"
+    },
     {
       "name": "Everybody Dance - 2018 Remaster",
       "artists": [
@@ -68,51 +123,6 @@
       "url": "https://open.spotify.com/track/46ZO8YW8YIluhgSfOwccDE",
       "durationMs": 297371,
       "playedAt": "2026-08-07T00:31:48.243Z"
-    },
-    {
-      "name": "Do You Wanna Funk?",
-      "artists": [
-        "Patrick Cowley",
-        "Sylvester"
-      ],
-      "album": "All I Need",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa24e701cdc1cc21e44fad8d",
-      "url": "https://open.spotify.com/track/708DnJC8l1b4Bf4xg0GiBv",
-      "durationMs": 414746,
-      "playedAt": "2026-08-07T00:26:53.814Z"
-    },
-    {
-      "name": "Ring My Bell",
-      "artists": [
-        "Anita Ward"
-      ],
-      "album": "Ring My Bell",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733b0e0d19618f2dec4531f368",
-      "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd",
-      "durationMs": 491933,
-      "playedAt": "2026-08-07T00:20:02.042Z"
-    },
-    {
-      "name": "He's the Greatest Dancer - 1995 Remaster",
-      "artists": [
-        "Sister Sledge"
-      ],
-      "album": "We Are Family (1995 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f66d92378b233aa8253e71d2",
-      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU",
-      "durationMs": 375400,
-      "playedAt": "2026-08-07T00:10:05.485Z"
-    },
-    {
-      "name": "Makoma",
-      "artists": [
-        "Jembaa Groove"
-      ],
-      "album": "Ye Ankasa | We Ourselves",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb0680e797cb6633290d8b4e",
-      "url": "https://open.spotify.com/track/6TFRqyhtftT4fiRiE24kAw",
-      "durationMs": 217120,
-      "playedAt": "2026-08-06T23:00:47.106Z"
     }
   ],
   "topArtists": [
