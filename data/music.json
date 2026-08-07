@@ -1,121 +1,140 @@
 {
-  "updatedAt": "2026-08-06T14:52:24.648Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-07T00:22:45.491Z",
+  "nowPlaying": {
+    "name": "Do You Wanna Funk?",
+    "artists": [
+      "Patrick Cowley",
+      "Sylvester"
+    ],
+    "album": "All I Need",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa24e701cdc1cc21e44fad8d",
+    "url": "https://open.spotify.com/track/708DnJC8l1b4Bf4xg0GiBv",
+    "durationMs": 414746,
+    "isPlaying": true,
+    "progressMs": 167238
+  },
   "recentlyPlayed": [
     {
-      "name": "Suit & Tie (feat. JAY-Z)",
+      "name": "Ring My Bell",
       "artists": [
-        "Justin Timberlake",
-        "JAŸ-Z"
+        "Anita Ward"
       ],
-      "album": "The 20/20 Experience (Deluxe Version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27356d5fb0cc9cec001d8ae0c8c",
-      "url": "https://open.spotify.com/track/6vt0I1cw1YmAIKDJvHVIM5",
-      "durationMs": 326271,
-      "playedAt": "2026-08-06T01:25:58.610Z"
+      "album": "Ring My Bell",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733b0e0d19618f2dec4531f368",
+      "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd",
+      "durationMs": 491933,
+      "playedAt": "2026-08-07T00:20:02.042Z"
     },
     {
-      "name": "Heart Of The City (Ain't No Love)",
+      "name": "He's the Greatest Dancer - 1995 Remaster",
       "artists": [
-        "JAŸ-Z"
+        "Sister Sledge"
       ],
-      "album": "The Blueprint (Explicit Version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731b3f6f34954118500ed3e7a7",
-      "url": "https://open.spotify.com/track/6gpZSI0xEMTzleBc5ykOVA",
-      "durationMs": 223240,
-      "playedAt": "2026-08-06T01:20:35.213Z"
+      "album": "We Are Family (1995 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f66d92378b233aa8253e71d2",
+      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU",
+      "durationMs": 375400,
+      "playedAt": "2026-08-07T00:10:05.485Z"
     },
     {
-      "name": "Get Down",
+      "name": "Makoma",
       "artists": [
-        "Nas"
+        "Jembaa Groove"
       ],
-      "album": "God's Son",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730b3331c0bfce749049377d70",
-      "url": "https://open.spotify.com/track/3UYuDTslR35thjQzaVwRMe",
-      "durationMs": 244253,
-      "playedAt": "2026-08-06T01:16:54.816Z"
+      "album": "Ye Ankasa | We Ourselves",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb0680e797cb6633290d8b4e",
+      "url": "https://open.spotify.com/track/6TFRqyhtftT4fiRiE24kAw",
+      "durationMs": 217120,
+      "playedAt": "2026-08-06T23:00:47.106Z"
     },
     {
-      "name": "Rapp Snitch Knishes",
+      "name": "Maniac",
       "artists": [
-        "MF DOOM",
-        "Mr. Fantastik"
+        "Michael Sembello"
       ],
-      "album": "MM..FOOD",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352f194d02c39909d1b284799",
-      "url": "https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI",
-      "durationMs": 172893,
-      "playedAt": "2026-08-06T01:12:53.613Z"
+      "album": "Flashdance (Original Soundtrack From The Motion Picture)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737b436d31c5ae44b334736619",
+      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe",
+      "durationMs": 244706,
+      "playedAt": "2026-08-06T22:57:12.950Z"
     },
     {
-      "name": "Through The Wire",
+      "name": "Everybody Dance - 12\" Mix",
       "artists": [
-        "Kanye West"
+        "CHIC"
       ],
-      "album": "The College Dropout",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
-      "url": "https://open.spotify.com/track/4mmkhcEm1Ljy1U9nwtsxUo",
-      "durationMs": 221226,
-      "playedAt": "2026-08-06T01:10:03.713Z"
+      "album": "Dance, Dance, Dance: The Best of Chic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273966507d369a0de6da093d5f1",
+      "url": "https://open.spotify.com/track/0LqPXq2pKXnydc96PvTK3v",
+      "durationMs": 507000,
+      "playedAt": "2026-08-06T22:53:11.259Z"
     },
     {
-      "name": "Ice Rink",
+      "name": "Teardrops",
       "artists": [
-        "Awon",
-        "The Other Guys"
+        "Womack & Womack"
       ],
-      "album": "Solidified",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351fc534b66739a4c7a7f0113",
-      "url": "https://open.spotify.com/track/7sPC1ozNf8d2OVt3OxczeJ",
-      "durationMs": 197276,
-      "playedAt": "2026-08-06T01:04:20.008Z"
+      "album": "Conscience",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fc4491c53b2f9e3c4b1e547e",
+      "url": "https://open.spotify.com/track/34zDwAdksPXYzGINUT0oW7",
+      "durationMs": 303666,
+      "playedAt": "2026-08-06T22:44:47.268Z"
     },
     {
-      "name": "Loungin'",
+      "name": "Ai No Corrida",
       "artists": [
-        "Guru",
-        "Donald Byrd"
+        "Quincy Jones",
+        "Charles May"
       ],
-      "album": "Jazzmatazz Volume 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
-      "url": "https://open.spotify.com/track/1VzhfMEGIIkn5hFITMJzW1",
-      "durationMs": 279640,
-      "playedAt": "2026-08-06T01:01:05.713Z"
+      "album": "The Dude",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394c75a1bf1c69bb2af35d937",
+      "url": "https://open.spotify.com/track/0SzAKZYTUvDLqlPgllEb3N",
+      "durationMs": 386360,
+      "playedAt": "2026-08-06T22:29:51.523Z"
     },
     {
-      "name": "A Deuce Or An Ace",
+      "name": "Bassa Bassa",
       "artists": [
-        "Supersci",
-        "Remedeeh"
+        "Jembaa Groove"
       ],
-      "album": "Pinetrees On The Pavement",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8729fbc083cd2b468a0702c",
-      "url": "https://open.spotify.com/track/04E5VHM8trBSUbjs9h3Bjx",
-      "durationMs": 228320,
-      "playedAt": "2026-08-06T00:56:29.215Z"
+      "album": "Susuma",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273291b05869df4d896ff782541",
+      "url": "https://open.spotify.com/track/4SnMDKZEBTZs33cPj58PES",
+      "durationMs": 301647,
+      "playedAt": "2026-08-06T22:23:28.109Z"
     },
     {
-      "name": "Lightenup",
+      "name": "International Love Affair - Edit",
       "artists": [
-        "Parcels"
+        "Keleketla!",
+        "Coldcut",
+        "Tony Allen",
+        "Nono Nkoane",
+        "Thabang Tabane",
+        "Gally Ngoveni",
+        "Sibusile Xaba",
+        "Tamar Osborn",
+        "Tenderlonious",
+        "Dele Sosimi",
+        "Afla Sackey",
+        "Antibalas"
       ],
-      "album": "Parcels",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d26bc8655d6132c9e243f82e",
-      "url": "https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki",
-      "durationMs": 237227,
-      "playedAt": "2026-08-06T00:51:56.710Z"
+      "album": "Keleketla!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c76412f82ca47a7c442d0be",
+      "url": "https://open.spotify.com/track/1xx5n38r2qNpNIBz1j6Ncu",
+      "durationMs": 220000,
+      "playedAt": "2026-08-06T22:18:29.465Z"
     },
     {
-      "name": "On Melancholy Hill",
+      "name": "Vamonos",
       "artists": [
-        "Gorillaz"
+        "Elkin & Nelson"
       ],
-      "album": "Plastic Beach (Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734960e8b13691e5570337d4d8",
-      "url": "https://open.spotify.com/track/4ercRiJZl8kBm8vfPaNjrl",
-      "durationMs": 233866,
-      "playedAt": "2026-08-06T00:44:37.700Z"
+      "album": "Elkin & Nelson",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ec1175fced0b73b90b5177ad",
+      "url": "https://open.spotify.com/track/0pD3cIN77b609Kk6Gp628v",
+      "durationMs": 557187,
+      "playedAt": "2026-08-06T20:19:48.619Z"
     }
   ],
   "topArtists": [
@@ -123,10 +142,7 @@
       "name": "Steely Dan",
       "imageUrl": "https://i.scdn.co/image/9d01e4e9aac39b891d684d3d1a5b3a451d7c72bd",
       "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE",
-      "genres": [
-        "yacht rock",
-        "classic rock"
-      ]
+      "genres": []
     },
     {
       "name": "Måneskin",
@@ -138,25 +154,19 @@
       "name": "Paul Simon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
       "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
-      "genres": [
-        "singer-songwriter"
-      ]
+      "genres": []
     },
     {
       "name": "The Waterboys",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb17d1c7c884ca5bf543aa0165",
       "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ",
-      "genres": [
-        "celtic rock"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Labyrint",
@@ -168,22 +178,13 @@
       "name": "The Pharcyde",
       "imageUrl": "https://i.scdn.co/image/db124909dcc277881bf55ed159bd417d82e2ced1",
       "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w",
-      "genres": [
-        "jazz rap",
-        "west coast hip hop",
-        "old school hip hop",
-        "hip hop"
-      ]
+      "genres": []
     },
     {
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": [
-        "yacht rock",
-        "classic rock",
-        "soft rock"
-      ]
+      "genres": []
     }
   ],
   "topTracks": [
