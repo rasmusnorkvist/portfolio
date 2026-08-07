@@ -1,18 +1,62 @@
 {
-  "updatedAt": "2026-08-07T17:21:36.171Z",
-  "nowPlaying": {
-    "name": "Survival",
-    "artists": [
-      "Bob Marley & The Wailers"
-    ],
-    "album": "Survival",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
-    "url": "https://open.spotify.com/track/7rCOQjHqD2ArkKvoemDG54",
-    "durationMs": 234240,
-    "isPlaying": true,
-    "progressMs": 176790
-  },
+  "updatedAt": "2026-08-07T18:10:15.257Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Ambush In The Night",
+      "artists": [
+        "Bob Marley & The Wailers"
+      ],
+      "album": "Survival",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+      "url": "https://open.spotify.com/track/6kAye2WmX9RVnheY3QmF54",
+      "durationMs": 192680,
+      "playedAt": "2026-08-07T17:36:25.851Z"
+    },
+    {
+      "name": "Ride Natty Ride",
+      "artists": [
+        "Bob Marley & The Wailers"
+      ],
+      "album": "Survival",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+      "url": "https://open.spotify.com/track/5cTsXX5qwa6zmG80OCz4hR",
+      "durationMs": 231466,
+      "playedAt": "2026-08-07T17:33:13.167Z"
+    },
+    {
+      "name": "One Drop",
+      "artists": [
+        "Bob Marley & The Wailers"
+      ],
+      "album": "Survival",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+      "url": "https://open.spotify.com/track/3Ui4BMHapr00Iul1kB7lHC",
+      "durationMs": 231773,
+      "playedAt": "2026-08-07T17:29:21.759Z"
+    },
+    {
+      "name": "Africa Unite",
+      "artists": [
+        "Bob Marley & The Wailers"
+      ],
+      "album": "Survival",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+      "url": "https://open.spotify.com/track/2qmHhaOmlcKDeGfipGhF1j",
+      "durationMs": 175626,
+      "playedAt": "2026-08-07T17:25:30.040Z"
+    },
+    {
+      "name": "Survival",
+      "artists": [
+        "Bob Marley & The Wailers"
+      ],
+      "album": "Survival",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+      "url": "https://open.spotify.com/track/7rCOQjHqD2ArkKvoemDG54",
+      "durationMs": 234240,
+      "playedAt": "2026-08-07T17:22:34.440Z"
+    },
     {
       "name": "Babylon System",
       "artists": [
@@ -67,62 +111,6 @@
       "url": "https://open.spotify.com/track/15ifyO8wYntwyXAptfxhKr",
       "durationMs": 402693,
       "playedAt": "2026-08-07T06:25:18.434Z"
-    },
-    {
-      "name": "Otan Hunu",
-      "artists": [
-        "Slim Young"
-      ],
-      "album": "Straight from the Decks (Guts Finest Selection from His Famous DJ Sets)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735141921a9b63c0e8ac2988ba",
-      "url": "https://open.spotify.com/track/14HaQ8iuZTQRIYj9wuZLG3",
-      "durationMs": 285692,
-      "playedAt": "2026-08-07T00:55:34.087Z"
-    },
-    {
-      "name": "You Make Me Feel (Mighty Real)",
-      "artists": [
-        "Sylvester"
-      ],
-      "album": "Step II",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c6619148196a323b2e41d6d4",
-      "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ",
-      "durationMs": 400115,
-      "playedAt": "2026-08-07T00:50:51.430Z"
-    },
-    {
-      "name": "Knock on Wood (7\" Edit)",
-      "artists": [
-        "Amii Stewart"
-      ],
-      "album": "Knock on Wood",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273628fb8733f5e28fff5458692",
-      "url": "https://open.spotify.com/track/6hG8HM8AqD5wIJTQH37sIV",
-      "durationMs": 226493,
-      "playedAt": "2026-08-07T00:41:26.458Z"
-    },
-    {
-      "name": "More Than A Woman - SG's Paradise Edit",
-      "artists": [
-        "Bee Gees",
-        "SG Lewis"
-      ],
-      "album": "More Than A Woman (SG's Paradise Edit)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bd8e2af160f4664d666c4132",
-      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J",
-      "durationMs": 357936,
-      "playedAt": "2026-08-07T00:37:43.072Z"
-    },
-    {
-      "name": "Amale",
-      "artists": [
-        "Jembaa Groove"
-      ],
-      "album": "Susuma",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273291b05869df4d896ff782541",
-      "url": "https://open.spotify.com/track/46ZO8YW8YIluhgSfOwccDE",
-      "durationMs": 297371,
-      "playedAt": "2026-08-07T00:31:48.243Z"
     }
   ],
   "topArtists": [
@@ -169,9 +157,9 @@
       "genres": []
     },
     {
-      "name": "Fleetwood Mac",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
-      "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
+      "name": "Bob Marley & The Wailers",
+      "imageUrl": "https://i.scdn.co/image/b5aae2067db80f694a980e596e7f49618c1206c9",
+      "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD",
       "genres": []
     }
   ],
