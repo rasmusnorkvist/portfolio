@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T06:44:05.107Z",
+  "updatedAt": "2026-08-07T08:10:40.150Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -208,16 +208,6 @@
       "durationMs": 173346
     },
     {
-      "name": "Ambitionz Az A Ridah",
-      "artists": [
-        "2Pac"
-      ],
-      "album": "All Eyez On Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596",
-      "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
-      "durationMs": 278386
-    },
-    {
       "name": "Eyes Without A Face",
       "artists": [
         "Billy Idol"
@@ -236,6 +226,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346e72dff16a10e1b5062fdf7",
       "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ",
       "durationMs": 164682
+    },
+    {
+      "name": "Ambitionz Az A Ridah",
+      "artists": [
+        "2Pac"
+      ],
+      "album": "All Eyez On Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596",
+      "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "durationMs": 278386
     },
     {
       "name": "The Boy In the Bubble",
