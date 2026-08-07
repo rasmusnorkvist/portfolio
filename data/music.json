@@ -1,19 +1,75 @@
 {
-  "updatedAt": "2026-08-07T00:22:45.491Z",
-  "nowPlaying": {
-    "name": "Do You Wanna Funk?",
-    "artists": [
-      "Patrick Cowley",
-      "Sylvester"
-    ],
-    "album": "All I Need",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa24e701cdc1cc21e44fad8d",
-    "url": "https://open.spotify.com/track/708DnJC8l1b4Bf4xg0GiBv",
-    "durationMs": 414746,
-    "isPlaying": true,
-    "progressMs": 167238
-  },
+  "updatedAt": "2026-08-07T03:26:23.922Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Otan Hunu",
+      "artists": [
+        "Slim Young"
+      ],
+      "album": "Straight from the Decks (Guts Finest Selection from His Famous DJ Sets)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735141921a9b63c0e8ac2988ba",
+      "url": "https://open.spotify.com/track/14HaQ8iuZTQRIYj9wuZLG3",
+      "durationMs": 285692,
+      "playedAt": "2026-08-07T00:55:34.087Z"
+    },
+    {
+      "name": "You Make Me Feel (Mighty Real)",
+      "artists": [
+        "Sylvester"
+      ],
+      "album": "Step II",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c6619148196a323b2e41d6d4",
+      "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ",
+      "durationMs": 400115,
+      "playedAt": "2026-08-07T00:50:51.430Z"
+    },
+    {
+      "name": "Knock on Wood (7\" Edit)",
+      "artists": [
+        "Amii Stewart"
+      ],
+      "album": "Knock on Wood",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273628fb8733f5e28fff5458692",
+      "url": "https://open.spotify.com/track/6hG8HM8AqD5wIJTQH37sIV",
+      "durationMs": 226493,
+      "playedAt": "2026-08-07T00:41:26.458Z"
+    },
+    {
+      "name": "More Than A Woman - SG's Paradise Edit",
+      "artists": [
+        "Bee Gees",
+        "SG Lewis"
+      ],
+      "album": "More Than A Woman (SG's Paradise Edit)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bd8e2af160f4664d666c4132",
+      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J",
+      "durationMs": 357936,
+      "playedAt": "2026-08-07T00:37:43.072Z"
+    },
+    {
+      "name": "Amale",
+      "artists": [
+        "Jembaa Groove"
+      ],
+      "album": "Susuma",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273291b05869df4d896ff782541",
+      "url": "https://open.spotify.com/track/46ZO8YW8YIluhgSfOwccDE",
+      "durationMs": 297371,
+      "playedAt": "2026-08-07T00:31:48.243Z"
+    },
+    {
+      "name": "Do You Wanna Funk?",
+      "artists": [
+        "Patrick Cowley",
+        "Sylvester"
+      ],
+      "album": "All I Need",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa24e701cdc1cc21e44fad8d",
+      "url": "https://open.spotify.com/track/708DnJC8l1b4Bf4xg0GiBv",
+      "durationMs": 414746,
+      "playedAt": "2026-08-07T00:26:53.814Z"
+    },
     {
       "name": "Ring My Bell",
       "artists": [
@@ -57,84 +113,6 @@
       "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe",
       "durationMs": 244706,
       "playedAt": "2026-08-06T22:57:12.950Z"
-    },
-    {
-      "name": "Everybody Dance - 12\" Mix",
-      "artists": [
-        "CHIC"
-      ],
-      "album": "Dance, Dance, Dance: The Best of Chic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273966507d369a0de6da093d5f1",
-      "url": "https://open.spotify.com/track/0LqPXq2pKXnydc96PvTK3v",
-      "durationMs": 507000,
-      "playedAt": "2026-08-06T22:53:11.259Z"
-    },
-    {
-      "name": "Teardrops",
-      "artists": [
-        "Womack & Womack"
-      ],
-      "album": "Conscience",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fc4491c53b2f9e3c4b1e547e",
-      "url": "https://open.spotify.com/track/34zDwAdksPXYzGINUT0oW7",
-      "durationMs": 303666,
-      "playedAt": "2026-08-06T22:44:47.268Z"
-    },
-    {
-      "name": "Ai No Corrida",
-      "artists": [
-        "Quincy Jones",
-        "Charles May"
-      ],
-      "album": "The Dude",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394c75a1bf1c69bb2af35d937",
-      "url": "https://open.spotify.com/track/0SzAKZYTUvDLqlPgllEb3N",
-      "durationMs": 386360,
-      "playedAt": "2026-08-06T22:29:51.523Z"
-    },
-    {
-      "name": "Bassa Bassa",
-      "artists": [
-        "Jembaa Groove"
-      ],
-      "album": "Susuma",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273291b05869df4d896ff782541",
-      "url": "https://open.spotify.com/track/4SnMDKZEBTZs33cPj58PES",
-      "durationMs": 301647,
-      "playedAt": "2026-08-06T22:23:28.109Z"
-    },
-    {
-      "name": "International Love Affair - Edit",
-      "artists": [
-        "Keleketla!",
-        "Coldcut",
-        "Tony Allen",
-        "Nono Nkoane",
-        "Thabang Tabane",
-        "Gally Ngoveni",
-        "Sibusile Xaba",
-        "Tamar Osborn",
-        "Tenderlonious",
-        "Dele Sosimi",
-        "Afla Sackey",
-        "Antibalas"
-      ],
-      "album": "Keleketla!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c76412f82ca47a7c442d0be",
-      "url": "https://open.spotify.com/track/1xx5n38r2qNpNIBz1j6Ncu",
-      "durationMs": 220000,
-      "playedAt": "2026-08-06T22:18:29.465Z"
-    },
-    {
-      "name": "Vamonos",
-      "artists": [
-        "Elkin & Nelson"
-      ],
-      "album": "Elkin & Nelson",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ec1175fced0b73b90b5177ad",
-      "url": "https://open.spotify.com/track/0pD3cIN77b609Kk6Gp628v",
-      "durationMs": 557187,
-      "playedAt": "2026-08-06T20:19:48.619Z"
     }
   ],
   "topArtists": [
@@ -142,7 +120,10 @@
       "name": "Steely Dan",
       "imageUrl": "https://i.scdn.co/image/9d01e4e9aac39b891d684d3d1a5b3a451d7c72bd",
       "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE",
-      "genres": []
+      "genres": [
+        "yacht rock",
+        "classic rock"
+      ]
     },
     {
       "name": "Måneskin",
@@ -154,19 +135,25 @@
       "name": "Paul Simon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
       "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
-      "genres": []
+      "genres": [
+        "singer-songwriter"
+      ]
     },
     {
       "name": "The Waterboys",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb17d1c7c884ca5bf543aa0165",
       "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ",
-      "genres": []
+      "genres": [
+        "celtic rock"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Labyrint",
@@ -178,13 +165,22 @@
       "name": "The Pharcyde",
       "imageUrl": "https://i.scdn.co/image/db124909dcc277881bf55ed159bd417d82e2ced1",
       "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w",
-      "genres": []
+      "genres": [
+        "jazz rap",
+        "west coast hip hop",
+        "old school hip hop",
+        "hip hop"
+      ]
     },
     {
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": []
+      "genres": [
+        "yacht rock",
+        "classic rock",
+        "soft rock"
+      ]
     }
   ],
   "topTracks": [
