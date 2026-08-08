@@ -1,18 +1,95 @@
 {
-  "updatedAt": "2026-08-08T17:56:19.200Z",
+  "updatedAt": "2026-08-08T18:35:55.160Z",
   "nowPlaying": {
-    "name": "Send It On",
+    "name": "Untitled (How Does It Feel)",
     "artists": [
       "D'Angelo"
     ],
     "album": "Voodoo",
     "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-    "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J",
-    "durationMs": 356493,
+    "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966",
+    "durationMs": 430800,
     "isPlaying": true,
-    "progressMs": 353105
+    "progressMs": 145793
   },
   "recentlyPlayed": [
+    {
+      "name": "Greatdayndamornin'/Booty",
+      "artists": [
+        "D'Angelo"
+      ],
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/50k4cklYBbHthI5UDG24KU",
+      "durationMs": 455066,
+      "playedAt": "2026-08-08T18:33:29.981Z"
+    },
+    {
+      "name": "Feel Like Makin' Love",
+      "artists": [
+        "D'Angelo"
+      ],
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z",
+      "durationMs": 382333,
+      "playedAt": "2026-08-08T18:25:54.989Z"
+    },
+    {
+      "name": "Spanish Joint",
+      "artists": [
+        "D'Angelo"
+      ],
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE",
+      "durationMs": 344493,
+      "playedAt": "2026-08-08T18:19:32.587Z"
+    },
+    {
+      "name": "The Root",
+      "artists": [
+        "D'Angelo"
+      ],
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/2Qmkg3JVW6e0w55HQudjSW",
+      "durationMs": 393106,
+      "playedAt": "2026-08-08T18:13:48.071Z"
+    },
+    {
+      "name": "One Mo'Gin",
+      "artists": [
+        "D'Angelo"
+      ],
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/4KdHmcUVArJeN7XPjp6Czx",
+      "durationMs": 373026,
+      "playedAt": "2026-08-08T18:07:14.975Z"
+    },
+    {
+      "name": "Chicken Grease",
+      "artists": [
+        "D'Angelo"
+      ],
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/42uCM9saw5B3bCjEFLROlE",
+      "durationMs": 278573,
+      "playedAt": "2026-08-08T18:01:01.978Z"
+    },
+    {
+      "name": "Send It On",
+      "artists": [
+        "D'Angelo"
+      ],
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J",
+      "durationMs": 356493,
+      "playedAt": "2026-08-08T17:56:23.378Z"
+    },
     {
       "name": "The Line",
       "artists": [
@@ -47,85 +124,6 @@
       "url": "https://open.spotify.com/track/5ILWEn8WXPezgpHkGHDk8s",
       "durationMs": 321642,
       "playedAt": "2026-08-08T16:29:17.546Z"
-    },
-    {
-      "name": "Playa Playa",
-      "artists": [
-        "D'Angelo"
-      ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/6j0FBH06L1YlVkxBvE972P",
-      "durationMs": 426760,
-      "playedAt": "2026-08-08T16:23:55.928Z"
-    },
-    {
-      "name": "Ventura Highway",
-      "artists": [
-        "America",
-        "George Martin"
-      ],
-      "album": "Homecoming",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e2289475a30c75dfca7d228",
-      "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW",
-      "durationMs": 211680,
-      "playedAt": "2026-08-08T02:55:33.548Z"
-    },
-    {
-      "name": "Waiting On the World to Change",
-      "artists": [
-        "John Mayer"
-      ],
-      "album": "Continuum",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ac9fea717d5b78e73cbd89f6",
-      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh",
-      "durationMs": 200666,
-      "playedAt": "2026-08-08T02:52:04.793Z"
-    },
-    {
-      "name": "DON'T WANNA SLEEP",
-      "artists": [
-        "Måneskin"
-      ],
-      "album": "RUSH!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346e72dff16a10e1b5062fdf7",
-      "url": "https://open.spotify.com/track/6ab8aFARxn63vq6KiTGnSz",
-      "durationMs": 156057,
-      "playedAt": "2026-08-08T02:48:47.149Z"
-    },
-    {
-      "name": "Don't Go Breaking My Heart",
-      "artists": [
-        "Elton John",
-        "Kiki Dee"
-      ],
-      "album": "Rock Of The Westies",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27342a15a4fe15a8a88ab728d5b",
-      "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5",
-      "durationMs": 275440,
-      "playedAt": "2026-08-08T02:46:14.352Z"
-    },
-    {
-      "name": "Ambush In The Night",
-      "artists": [
-        "Bob Marley & The Wailers"
-      ],
-      "album": "Survival",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
-      "url": "https://open.spotify.com/track/6kAye2WmX9RVnheY3QmF54",
-      "durationMs": 192680,
-      "playedAt": "2026-08-07T17:36:25.851Z"
-    },
-    {
-      "name": "Ride Natty Ride",
-      "artists": [
-        "Bob Marley & The Wailers"
-      ],
-      "album": "Survival",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
-      "url": "https://open.spotify.com/track/5cTsXX5qwa6zmG80OCz4hR",
-      "durationMs": 231466,
-      "playedAt": "2026-08-07T17:33:13.167Z"
     }
   ],
   "topArtists": [
