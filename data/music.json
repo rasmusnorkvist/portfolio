@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-08-08T15:36:30.576Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-08T16:28:22.993Z",
+  "nowPlaying": {
+    "name": "Devil's Pie",
+    "artists": [
+      "D'Angelo"
+    ],
+    "album": "Voodoo",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+    "url": "https://open.spotify.com/track/5ILWEn8WXPezgpHkGHDk8s",
+    "durationMs": 321642,
+    "isPlaying": true,
+    "progressMs": 267785
+  },
   "recentlyPlayed": [
+    {
+      "name": "Playa Playa",
+      "artists": [
+        "D'Angelo"
+      ],
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/6j0FBH06L1YlVkxBvE972P",
+      "durationMs": 426760,
+      "playedAt": "2026-08-08T16:23:55.928Z"
+    },
     {
       "name": "Ventura Highway",
       "artists": [
@@ -102,17 +124,6 @@
       "url": "https://open.spotify.com/track/7rCOQjHqD2ArkKvoemDG54",
       "durationMs": 234240,
       "playedAt": "2026-08-07T17:22:34.440Z"
-    },
-    {
-      "name": "Babylon System",
-      "artists": [
-        "Bob Marley & The Wailers"
-      ],
-      "album": "Survival",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
-      "url": "https://open.spotify.com/track/6xbtDXk8utIS8rOWD0X9XA",
-      "durationMs": 261839,
-      "playedAt": "2026-08-07T17:18:40.256Z"
     }
   ],
   "topArtists": [
