@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-08-08T19:26:02.962Z",
-  "nowPlaying": {
-    "name": "Loco in Acapulco",
-    "artists": [
-      "Four Tops"
-    ],
-    "album": "Indestructible",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27388e5b36b4749123a69b164e4",
-    "url": "https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi",
-    "durationMs": 274066,
-    "isPlaying": true,
-    "progressMs": 88031
-  },
+  "updatedAt": "2026-08-08T19:53:19.411Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
       "name": "You're The One That I Want - From “Grease”",
