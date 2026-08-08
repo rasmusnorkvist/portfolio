@@ -1,18 +1,31 @@
 {
-  "updatedAt": "2026-08-08T16:28:22.993Z",
-  "nowPlaying": {
-    "name": "Devil's Pie",
-    "artists": [
-      "D'Angelo"
-    ],
-    "album": "Voodoo",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-    "url": "https://open.spotify.com/track/5ILWEn8WXPezgpHkGHDk8s",
-    "durationMs": 321642,
-    "isPlaying": true,
-    "progressMs": 267785
-  },
+  "updatedAt": "2026-08-08T17:03:29.610Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Left And Right",
+      "artists": [
+        "D'Angelo",
+        "Redman",
+        "Method Man"
+      ],
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/4EQ0dK6Sg7v685NGrQvuki",
+      "durationMs": 286466,
+      "playedAt": "2026-08-08T16:34:04.042Z"
+    },
+    {
+      "name": "Devil's Pie",
+      "artists": [
+        "D'Angelo"
+      ],
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/5ILWEn8WXPezgpHkGHDk8s",
+      "durationMs": 321642,
+      "playedAt": "2026-08-08T16:29:17.546Z"
+    },
     {
       "name": "Playa Playa",
       "artists": [
@@ -102,28 +115,6 @@
       "url": "https://open.spotify.com/track/3Ui4BMHapr00Iul1kB7lHC",
       "durationMs": 231773,
       "playedAt": "2026-08-07T17:29:21.759Z"
-    },
-    {
-      "name": "Africa Unite",
-      "artists": [
-        "Bob Marley & The Wailers"
-      ],
-      "album": "Survival",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
-      "url": "https://open.spotify.com/track/2qmHhaOmlcKDeGfipGhF1j",
-      "durationMs": 175626,
-      "playedAt": "2026-08-07T17:25:30.040Z"
-    },
-    {
-      "name": "Survival",
-      "artists": [
-        "Bob Marley & The Wailers"
-      ],
-      "album": "Survival",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
-      "url": "https://open.spotify.com/track/7rCOQjHqD2ArkKvoemDG54",
-      "durationMs": 234240,
-      "playedAt": "2026-08-07T17:22:34.440Z"
     }
   ],
   "topArtists": [
