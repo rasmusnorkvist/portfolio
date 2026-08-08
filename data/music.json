@@ -1,129 +1,130 @@
 {
-  "updatedAt": "2026-08-08T18:35:55.160Z",
+  "updatedAt": "2026-08-08T19:26:02.962Z",
   "nowPlaying": {
-    "name": "Untitled (How Does It Feel)",
+    "name": "Loco in Acapulco",
     "artists": [
-      "D'Angelo"
+      "Four Tops"
     ],
-    "album": "Voodoo",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-    "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966",
-    "durationMs": 430800,
+    "album": "Indestructible",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27388e5b36b4749123a69b164e4",
+    "url": "https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi",
+    "durationMs": 274066,
     "isPlaying": true,
-    "progressMs": 145793
+    "progressMs": 88031
   },
   "recentlyPlayed": [
     {
-      "name": "Greatdayndamornin'/Booty",
+      "name": "You're The One That I Want - From “Grease”",
       "artists": [
-        "D'Angelo"
+        "John Travolta",
+        "Olivia Newton-John"
       ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/50k4cklYBbHthI5UDG24KU",
-      "durationMs": 455066,
-      "playedAt": "2026-08-08T18:33:29.981Z"
+      "album": "Grease (The Original Motion Picture Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b68df485f3304211904548a8",
+      "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3",
+      "durationMs": 169840,
+      "playedAt": "2026-08-08T19:24:38.721Z"
     },
     {
-      "name": "Feel Like Makin' Love",
+      "name": "Nacka (Omåttligt kära)",
       "artists": [
-        "D'Angelo"
+        "Magnus Uggla"
       ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z",
-      "durationMs": 382333,
-      "playedAt": "2026-08-08T18:25:54.989Z"
+      "album": "Alla tolkningar",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273adc9c005dc9091b40898360a",
+      "url": "https://open.spotify.com/track/3FYL6Iyu2QW7dPyNdLSDVg",
+      "durationMs": 174038,
+      "playedAt": "2026-08-08T19:21:51.899Z"
     },
     {
-      "name": "Spanish Joint",
+      "name": "Kokomo",
       "artists": [
-        "D'Angelo"
+        "The Beach Boys"
       ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE",
-      "durationMs": 344493,
-      "playedAt": "2026-08-08T18:19:32.587Z"
+      "album": "80s Songs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731a084ded45b82a14264bc786",
+      "url": "https://open.spotify.com/track/1fiorGW4O4s6vpFhbdc7EV",
+      "durationMs": 215186,
+      "playedAt": "2026-08-08T19:19:00.906Z"
     },
     {
-      "name": "The Root",
+      "name": "Stockholm i mitt hjärta",
       "artists": [
-        "D'Angelo"
+        "Lasse Berghagen"
       ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/2Qmkg3JVW6e0w55HQudjSW",
-      "durationMs": 393106,
-      "playedAt": "2026-08-08T18:13:48.071Z"
+      "album": "Sträck ut din hand",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389cc7516cbe30573fac5e491",
+      "url": "https://open.spotify.com/track/7GW8gHSaruetBuMbRSdma9",
+      "durationMs": 249026,
+      "playedAt": "2026-08-08T19:15:28.711Z"
     },
     {
-      "name": "One Mo'Gin",
+      "name": "Your Song",
       "artists": [
-        "D'Angelo"
+        "Billy Paul"
       ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/4KdHmcUVArJeN7XPjp6Czx",
-      "durationMs": 373026,
-      "playedAt": "2026-08-08T18:07:14.975Z"
+      "album": "360 Degrees of Billy Paul (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c0a60253689c598d83528149",
+      "url": "https://open.spotify.com/track/5TUs6T93fNFvgQov6MlYkP",
+      "durationMs": 390986,
+      "playedAt": "2026-08-08T19:11:22.712Z"
     },
     {
-      "name": "Chicken Grease",
+      "name": "Stockholm",
       "artists": [
-        "D'Angelo"
+        "Orup"
       ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/42uCM9saw5B3bCjEFLROlE",
-      "durationMs": 278573,
-      "playedAt": "2026-08-08T18:01:01.978Z"
+      "album": "Stockholm Och Andra Ställen",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27328c928d82d265455145f0823",
+      "url": "https://open.spotify.com/track/0xx53RF7FTN7Z7YPKI9k51",
+      "durationMs": 297413,
+      "playedAt": "2026-08-08T19:04:54.821Z"
     },
     {
-      "name": "Send It On",
+      "name": "Franska kort",
       "artists": [
-        "D'Angelo"
+        "Ted Gärdestad"
       ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J",
-      "durationMs": 356493,
-      "playedAt": "2026-08-08T17:56:23.378Z"
+      "album": "Franska kort (Remastered 2009)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273641087ad915e47e6b35b3258",
+      "url": "https://open.spotify.com/track/3FyHt8BKMmoV5CgoaJgC6M",
+      "durationMs": 241066,
+      "playedAt": "2026-08-08T19:00:00.424Z"
     },
     {
-      "name": "The Line",
+      "name": "Les Champs-Elysées",
       "artists": [
-        "D'Angelo"
+        "Joe Dassin"
       ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/3RE93xPC29qZqbubAUeXTt",
-      "durationMs": 316306,
-      "playedAt": "2026-08-08T17:50:26.877Z"
+      "album": "Les Champs-Elysées",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273159a5ce13b0c1657c87b96bc",
+      "url": "https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz",
+      "durationMs": 157626,
+      "playedAt": "2026-08-08T18:56:02.308Z"
     },
     {
-      "name": "Left And Right",
+      "name": "Empire State Of Mind",
       "artists": [
-        "D'Angelo",
-        "Redman",
-        "Method Man"
+        "JAŸ-Z",
+        "Alicia Keys"
       ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/4EQ0dK6Sg7v685NGrQvuki",
-      "durationMs": 286466,
-      "playedAt": "2026-08-08T16:34:04.042Z"
+      "album": "The Blueprint 3",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10",
+      "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
+      "durationMs": 276920,
+      "playedAt": "2026-08-08T18:53:27.772Z"
     },
     {
-      "name": "Devil's Pie",
+      "name": "Destination Calabria - Radio Edit",
       "artists": [
-        "D'Angelo"
+        "Alex Gaudino",
+        "Crystal Waters"
       ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/5ILWEn8WXPezgpHkGHDk8s",
-      "durationMs": 321642,
-      "playedAt": "2026-08-08T16:29:17.546Z"
+      "album": "Destination Calabria",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739ddec2a9c771fcd96ca3fe1d",
+      "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h",
+      "durationMs": 223111,
+      "playedAt": "2026-08-08T18:48:53.882Z"
     }
   ],
   "topArtists": [
