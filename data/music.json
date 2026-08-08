@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-08-08T17:03:29.610Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-08T17:56:19.200Z",
+  "nowPlaying": {
+    "name": "Send It On",
+    "artists": [
+      "D'Angelo"
+    ],
+    "album": "Voodoo",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+    "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J",
+    "durationMs": 356493,
+    "isPlaying": true,
+    "progressMs": 353105
+  },
   "recentlyPlayed": [
+    {
+      "name": "The Line",
+      "artists": [
+        "D'Angelo"
+      ],
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/3RE93xPC29qZqbubAUeXTt",
+      "durationMs": 316306,
+      "playedAt": "2026-08-08T17:50:26.877Z"
+    },
     {
       "name": "Left And Right",
       "artists": [
@@ -104,17 +126,6 @@
       "url": "https://open.spotify.com/track/5cTsXX5qwa6zmG80OCz4hR",
       "durationMs": 231466,
       "playedAt": "2026-08-07T17:33:13.167Z"
-    },
-    {
-      "name": "One Drop",
-      "artists": [
-        "Bob Marley & The Wailers"
-      ],
-      "album": "Survival",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
-      "url": "https://open.spotify.com/track/3Ui4BMHapr00Iul1kB7lHC",
-      "durationMs": 231773,
-      "playedAt": "2026-08-07T17:29:21.759Z"
     }
   ],
   "topArtists": [
