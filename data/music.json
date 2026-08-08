@@ -1,7 +1,53 @@
 {
-  "updatedAt": "2026-08-08T01:48:10.756Z",
+  "updatedAt": "2026-08-08T03:21:26.810Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Ventura Highway",
+      "artists": [
+        "America",
+        "George Martin"
+      ],
+      "album": "Homecoming",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e2289475a30c75dfca7d228",
+      "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW",
+      "durationMs": 211680,
+      "playedAt": "2026-08-08T02:55:33.548Z"
+    },
+    {
+      "name": "Waiting On the World to Change",
+      "artists": [
+        "John Mayer"
+      ],
+      "album": "Continuum",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ac9fea717d5b78e73cbd89f6",
+      "url": "https://open.spotify.com/track/5imShWWzwqfAJ9gXFpGAQh",
+      "durationMs": 200666,
+      "playedAt": "2026-08-08T02:52:04.793Z"
+    },
+    {
+      "name": "DON'T WANNA SLEEP",
+      "artists": [
+        "Måneskin"
+      ],
+      "album": "RUSH!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346e72dff16a10e1b5062fdf7",
+      "url": "https://open.spotify.com/track/6ab8aFARxn63vq6KiTGnSz",
+      "durationMs": 156057,
+      "playedAt": "2026-08-08T02:48:47.149Z"
+    },
+    {
+      "name": "Don't Go Breaking My Heart",
+      "artists": [
+        "Elton John",
+        "Kiki Dee"
+      ],
+      "album": "Rock Of The Westies",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27342a15a4fe15a8a88ab728d5b",
+      "url": "https://open.spotify.com/track/7HW5WIw7ZgZORCzUxv5gW5",
+      "durationMs": 275440,
+      "playedAt": "2026-08-08T02:46:14.352Z"
+    },
     {
       "name": "Ambush In The Night",
       "artists": [
@@ -67,50 +113,6 @@
       "url": "https://open.spotify.com/track/6xbtDXk8utIS8rOWD0X9XA",
       "durationMs": 261839,
       "playedAt": "2026-08-07T17:18:40.256Z"
-    },
-    {
-      "name": "Top Rankin'",
-      "artists": [
-        "Bob Marley & The Wailers"
-      ],
-      "album": "Survival",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
-      "url": "https://open.spotify.com/track/0uMvm0efKsaADso8NO7pk1",
-      "durationMs": 191253,
-      "playedAt": "2026-08-07T17:14:18.337Z"
-    },
-    {
-      "name": "Zimbabwe",
-      "artists": [
-        "Bob Marley & The Wailers"
-      ],
-      "album": "Survival",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
-      "url": "https://open.spotify.com/track/5ApfJDLibIoWL0mRZ5uOKu",
-      "durationMs": 231266,
-      "playedAt": "2026-08-07T17:11:07.140Z"
-    },
-    {
-      "name": "So Much Trouble In The World",
-      "artists": [
-        "Bob Marley & The Wailers"
-      ],
-      "album": "Survival",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
-      "url": "https://open.spotify.com/track/209SbubR5uKaVzj5SeN42w",
-      "durationMs": 240333,
-      "playedAt": "2026-08-07T17:07:15.846Z"
-    },
-    {
-      "name": "Everybody Dance - 2018 Remaster",
-      "artists": [
-        "CHIC"
-      ],
-      "album": "Chic (2018 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba10d60a14e68a58c7c9baec",
-      "url": "https://open.spotify.com/track/15ifyO8wYntwyXAptfxhKr",
-      "durationMs": 402693,
-      "playedAt": "2026-08-07T06:25:18.434Z"
     }
   ],
   "topArtists": [
