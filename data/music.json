@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-08-08T23:56:41.398Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-09T01:45:09.700Z",
+  "nowPlaying": {
+    "name": "I Mumindalen",
+    "artists": [
+      "Benny Törnroos"
+    ],
+    "album": "14 original Mumin låtar",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273395936ca4fbf4cea6a5523d3",
+    "url": "https://open.spotify.com/track/1lngfz4KthdhSs8IEjbjht",
+    "durationMs": 189240,
+    "isPlaying": false,
+    "progressMs": 10474
+  },
   "recentlyPlayed": [
+    {
+      "name": "Loco in Acapulco",
+      "artists": [
+        "Four Tops"
+      ],
+      "album": "Indestructible",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27388e5b36b4749123a69b164e4",
+      "url": "https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi",
+      "durationMs": 274066,
+      "playedAt": "2026-08-09T00:13:39.878Z"
+    },
     {
       "name": "You're The One That I Want - From “Grease”",
       "artists": [
@@ -102,18 +124,6 @@
       "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
       "durationMs": 276920,
       "playedAt": "2026-08-08T18:53:27.772Z"
-    },
-    {
-      "name": "Destination Calabria - Radio Edit",
-      "artists": [
-        "Alex Gaudino",
-        "Crystal Waters"
-      ],
-      "album": "Destination Calabria",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739ddec2a9c771fcd96ca3fe1d",
-      "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h",
-      "durationMs": 223111,
-      "playedAt": "2026-08-08T18:48:53.882Z"
     }
   ],
   "topArtists": [
