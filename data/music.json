@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-08-09T01:45:09.700Z",
-  "nowPlaying": {
-    "name": "I Mumindalen",
-    "artists": [
-      "Benny Törnroos"
-    ],
-    "album": "14 original Mumin låtar",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273395936ca4fbf4cea6a5523d3",
-    "url": "https://open.spotify.com/track/1lngfz4KthdhSs8IEjbjht",
-    "durationMs": 189240,
-    "isPlaying": false,
-    "progressMs": 10474
-  },
+  "updatedAt": "2026-08-09T03:38:01.065Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
       "name": "Loco in Acapulco",
