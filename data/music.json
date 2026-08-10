@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-08-10T15:56:58.419Z",
-  "nowPlaying": {
-    "name": "Ma Baker",
-    "artists": [
-      "Boney M."
-    ],
-    "album": "Love For Sale",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27308240f5407fb2123e3d7b966",
-    "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm",
-    "durationMs": 276080,
-    "isPlaying": true,
-    "progressMs": 185961
-  },
+  "updatedAt": "2026-08-10T16:54:37.946Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Ma Baker",
+      "artists": [
+        "Boney M."
+      ],
+      "album": "Love For Sale",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27308240f5407fb2123e3d7b966",
+      "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm",
+      "durationMs": 276080,
+      "playedAt": "2026-08-10T15:58:26.436Z"
+    },
     {
       "name": "Ooh Wee (feat. Ghostface Killah, Nate Dogg, Trife & Saigon)",
       "artists": [
@@ -120,17 +120,6 @@
       "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT",
       "durationMs": 134905,
       "playedAt": "2026-08-10T14:52:29.095Z"
-    },
-    {
-      "name": "Cry for You",
-      "artists": [
-        "September"
-      ],
-      "album": "Dancing Shoes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e1a050d8545416935386e73a",
-      "url": "https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao",
-      "durationMs": 209800,
-      "playedAt": "2026-08-10T14:50:22.058Z"
     }
   ],
   "topArtists": [
