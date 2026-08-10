@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-08-10T13:53:42.696Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-10T14:54:27.849Z",
+  "nowPlaying": {
+    "name": "Cloud Bossa",
+    "artists": [
+      "Jazzinuf"
+    ],
+    "album": "Cloud Bossa",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a58a47972209700e60b3c417",
+    "url": "https://open.spotify.com/track/06d4rPAlFzb2Outp9ZAmyu",
+    "durationMs": 156000,
+    "isPlaying": true,
+    "progressMs": 122829
+  },
   "recentlyPlayed": [
+    {
+      "name": "Edge of Desire",
+      "artists": [
+        "Jonas Blue",
+        "Malive"
+      ],
+      "album": "Edge of Desire",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d62a34460f9106ee437bb0b5",
+      "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT",
+      "durationMs": 134905,
+      "playedAt": "2026-08-10T14:52:29.095Z"
+    },
+    {
+      "name": "Cry for You",
+      "artists": [
+        "September"
+      ],
+      "album": "Dancing Shoes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e1a050d8545416935386e73a",
+      "url": "https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao",
+      "durationMs": 209800,
+      "playedAt": "2026-08-10T14:50:22.058Z"
+    },
+    {
+      "name": "Don't Stop 'Til You Get Enough",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Off the Wall",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ",
+      "durationMs": 364441,
+      "playedAt": "2026-08-10T14:47:04.588Z"
+    },
+    {
+      "name": "Do It Again",
+      "artists": [
+        "Steely Dan"
+      ],
+      "album": "Can't Buy A Thrill",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
+      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19",
+      "durationMs": 357041,
+      "playedAt": "2026-08-10T14:42:02.099Z"
+    },
     {
       "name": "Loco in Acapulco",
       "artists": [
@@ -68,51 +124,6 @@
       "url": "https://open.spotify.com/track/5TUs6T93fNFvgQov6MlYkP",
       "durationMs": 390986,
       "playedAt": "2026-08-08T19:11:22.712Z"
-    },
-    {
-      "name": "Stockholm",
-      "artists": [
-        "Orup"
-      ],
-      "album": "Stockholm Och Andra Ställen",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27328c928d82d265455145f0823",
-      "url": "https://open.spotify.com/track/0xx53RF7FTN7Z7YPKI9k51",
-      "durationMs": 297413,
-      "playedAt": "2026-08-08T19:04:54.821Z"
-    },
-    {
-      "name": "Franska kort",
-      "artists": [
-        "Ted Gärdestad"
-      ],
-      "album": "Franska kort (Remastered 2009)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273641087ad915e47e6b35b3258",
-      "url": "https://open.spotify.com/track/3FyHt8BKMmoV5CgoaJgC6M",
-      "durationMs": 241066,
-      "playedAt": "2026-08-08T19:00:00.424Z"
-    },
-    {
-      "name": "Les Champs-Elysées",
-      "artists": [
-        "Joe Dassin"
-      ],
-      "album": "Les Champs-Elysées",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273159a5ce13b0c1657c87b96bc",
-      "url": "https://open.spotify.com/track/4VWbPQUPvLes814r6T11Jz",
-      "durationMs": 157626,
-      "playedAt": "2026-08-08T18:56:02.308Z"
-    },
-    {
-      "name": "Empire State Of Mind",
-      "artists": [
-        "JAŸ-Z",
-        "Alicia Keys"
-      ],
-      "album": "The Blueprint 3",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10",
-      "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
-      "durationMs": 276920,
-      "playedAt": "2026-08-08T18:53:27.772Z"
     }
   ],
   "topArtists": [
@@ -120,10 +131,7 @@
       "name": "Steely Dan",
       "imageUrl": "https://i.scdn.co/image/9d01e4e9aac39b891d684d3d1a5b3a451d7c72bd",
       "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE",
-      "genres": [
-        "yacht rock",
-        "classic rock"
-      ]
+      "genres": []
     },
     {
       "name": "Måneskin",
@@ -135,25 +143,19 @@
       "name": "Paul Simon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
       "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
-      "genres": [
-        "singer-songwriter"
-      ]
+      "genres": []
     },
     {
       "name": "The Waterboys",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb17d1c7c884ca5bf543aa0165",
       "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ",
-      "genres": [
-        "celtic rock"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Labyrint",
@@ -165,21 +167,13 @@
       "name": "The Pharcyde",
       "imageUrl": "https://i.scdn.co/image/db124909dcc277881bf55ed159bd417d82e2ced1",
       "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w",
-      "genres": [
-        "jazz rap",
-        "west coast hip hop",
-        "old school hip hop",
-        "hip hop"
-      ]
+      "genres": []
     },
     {
       "name": "Bob Marley & The Wailers",
       "imageUrl": "https://i.scdn.co/image/b5aae2067db80f694a980e596e7f49618c1206c9",
       "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD",
-      "genres": [
-        "reggae",
-        "roots reggae"
-      ]
+      "genres": []
     }
   ],
   "topTracks": [
