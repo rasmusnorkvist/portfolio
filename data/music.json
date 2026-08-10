@@ -1,18 +1,114 @@
 {
-  "updatedAt": "2026-08-10T14:54:27.849Z",
+  "updatedAt": "2026-08-10T15:56:58.419Z",
   "nowPlaying": {
-    "name": "Cloud Bossa",
+    "name": "Ma Baker",
     "artists": [
-      "Jazzinuf"
+      "Boney M."
     ],
-    "album": "Cloud Bossa",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a58a47972209700e60b3c417",
-    "url": "https://open.spotify.com/track/06d4rPAlFzb2Outp9ZAmyu",
-    "durationMs": 156000,
+    "album": "Love For Sale",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27308240f5407fb2123e3d7b966",
+    "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm",
+    "durationMs": 276080,
     "isPlaying": true,
-    "progressMs": 122829
+    "progressMs": 185961
   },
   "recentlyPlayed": [
+    {
+      "name": "Ooh Wee (feat. Ghostface Killah, Nate Dogg, Trife & Saigon)",
+      "artists": [
+        "Mark Ronson",
+        "Ghostface Killah",
+        "Nate Dogg",
+        "Trife",
+        "Saigon"
+      ],
+      "album": "Here Comes The Fuzz",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e58775d8015f2ea0b85dc57d",
+      "url": "https://open.spotify.com/track/4WimB4Ei0LU3MotHhL3kBL",
+      "durationMs": 209626,
+      "playedAt": "2026-08-10T15:19:10.751Z"
+    },
+    {
+      "name": "Hate It Or Love It",
+      "artists": [
+        "The Game",
+        "50 Cent"
+      ],
+      "album": "The Documentary",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d",
+      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R",
+      "durationMs": 206400,
+      "playedAt": "2026-08-10T15:15:51.967Z"
+    },
+    {
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "artists": [
+        "Gorillaz",
+        "Tame Impala",
+        "Bootie Brown"
+      ],
+      "album": "Cracker Island",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27319707804f73dc50f7a29cd86",
+      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3",
+      "durationMs": 215149,
+      "playedAt": "2026-08-10T15:12:49.565Z"
+    },
+    {
+      "name": "A Horse with No Name",
+      "artists": [
+        "America",
+        "George Martin"
+      ],
+      "album": "America",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
+      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt",
+      "durationMs": 252239,
+      "playedAt": "2026-08-10T15:09:19.990Z"
+    },
+    {
+      "name": "The Goodbye Look",
+      "artists": [
+        "Donald Fagen"
+      ],
+      "album": "The Nightfly",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
+      "url": "https://open.spotify.com/track/3jAqtv3axuQ4lYz7v5h9MW",
+      "durationMs": 290306,
+      "playedAt": "2026-08-10T15:05:45.695Z"
+    },
+    {
+      "name": "I Heard It Through The Grapevine",
+      "artists": [
+        "Marvin Gaye"
+      ],
+      "album": "In The Groove",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8",
+      "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw",
+      "durationMs": 194293,
+      "playedAt": "2026-08-10T15:01:54.566Z"
+    },
+    {
+      "name": "Sabor Swahili",
+      "artists": [
+        "Tapioca"
+      ],
+      "album": "Samba em Kigali",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27382b0aa364e7d531562a82cf6",
+      "url": "https://open.spotify.com/track/1HB81VnfJXTOwn33HEJeqW",
+      "durationMs": 244624,
+      "playedAt": "2026-08-10T14:58:42.139Z"
+    },
+    {
+      "name": "Cloud Bossa",
+      "artists": [
+        "Jazzinuf"
+      ],
+      "album": "Cloud Bossa",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a58a47972209700e60b3c417",
+      "url": "https://open.spotify.com/track/06d4rPAlFzb2Outp9ZAmyu",
+      "durationMs": 156000,
+      "playedAt": "2026-08-10T14:55:00.794Z"
+    },
     {
       "name": "Edge of Desire",
       "artists": [
@@ -35,95 +131,6 @@
       "url": "https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao",
       "durationMs": 209800,
       "playedAt": "2026-08-10T14:50:22.058Z"
-    },
-    {
-      "name": "Don't Stop 'Til You Get Enough",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Off the Wall",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
-      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ",
-      "durationMs": 364441,
-      "playedAt": "2026-08-10T14:47:04.588Z"
-    },
-    {
-      "name": "Do It Again",
-      "artists": [
-        "Steely Dan"
-      ],
-      "album": "Can't Buy A Thrill",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
-      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19",
-      "durationMs": 357041,
-      "playedAt": "2026-08-10T14:42:02.099Z"
-    },
-    {
-      "name": "Loco in Acapulco",
-      "artists": [
-        "Four Tops"
-      ],
-      "album": "Indestructible",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27388e5b36b4749123a69b164e4",
-      "url": "https://open.spotify.com/track/7gfAYm7X5HMSuKcO4dy8Wi",
-      "durationMs": 274066,
-      "playedAt": "2026-08-09T00:13:39.878Z"
-    },
-    {
-      "name": "You're The One That I Want - From “Grease”",
-      "artists": [
-        "John Travolta",
-        "Olivia Newton-John"
-      ],
-      "album": "Grease (The Original Motion Picture Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b68df485f3304211904548a8",
-      "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3",
-      "durationMs": 169840,
-      "playedAt": "2026-08-08T19:24:38.721Z"
-    },
-    {
-      "name": "Nacka (Omåttligt kära)",
-      "artists": [
-        "Magnus Uggla"
-      ],
-      "album": "Alla tolkningar",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273adc9c005dc9091b40898360a",
-      "url": "https://open.spotify.com/track/3FYL6Iyu2QW7dPyNdLSDVg",
-      "durationMs": 174038,
-      "playedAt": "2026-08-08T19:21:51.899Z"
-    },
-    {
-      "name": "Kokomo",
-      "artists": [
-        "The Beach Boys"
-      ],
-      "album": "80s Songs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731a084ded45b82a14264bc786",
-      "url": "https://open.spotify.com/track/1fiorGW4O4s6vpFhbdc7EV",
-      "durationMs": 215186,
-      "playedAt": "2026-08-08T19:19:00.906Z"
-    },
-    {
-      "name": "Stockholm i mitt hjärta",
-      "artists": [
-        "Lasse Berghagen"
-      ],
-      "album": "Sträck ut din hand",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389cc7516cbe30573fac5e491",
-      "url": "https://open.spotify.com/track/7GW8gHSaruetBuMbRSdma9",
-      "durationMs": 249026,
-      "playedAt": "2026-08-08T19:15:28.711Z"
-    },
-    {
-      "name": "Your Song",
-      "artists": [
-        "Billy Paul"
-      ],
-      "album": "360 Degrees of Billy Paul (Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c0a60253689c598d83528149",
-      "url": "https://open.spotify.com/track/5TUs6T93fNFvgQov6MlYkP",
-      "durationMs": 390986,
-      "playedAt": "2026-08-08T19:11:22.712Z"
     }
   ],
   "topArtists": [
@@ -178,16 +185,6 @@
   ],
   "topTracks": [
     {
-      "name": "Beggin'",
-      "artists": [
-        "Måneskin"
-      ],
-      "album": "Chosen",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
-      "durationMs": 211560
-    },
-    {
       "name": "Do It Again",
       "artists": [
         "Steely Dan"
@@ -196,6 +193,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
       "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19",
       "durationMs": 357041
+    },
+    {
+      "name": "Beggin'",
+      "artists": [
+        "Måneskin"
+      ],
+      "album": "Chosen",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
+      "durationMs": 211560
     },
     {
       "name": "Got to Get (feat. Leila K)",
@@ -209,16 +216,6 @@
       "durationMs": 201466
     },
     {
-      "name": "I WANNA BE YOUR SLAVE",
-      "artists": [
-        "Måneskin"
-      ],
-      "album": "Teatro d'ira - Vol. I",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21",
-      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk",
-      "durationMs": 173346
-    },
-    {
       "name": "Eyes Without A Face",
       "artists": [
         "Billy Idol"
@@ -227,16 +224,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
       "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS",
       "durationMs": 299240
-    },
-    {
-      "name": "BABY SAID",
-      "artists": [
-        "Måneskin"
-      ],
-      "album": "RUSH!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346e72dff16a10e1b5062fdf7",
-      "url": "https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ",
-      "durationMs": 164682
     },
     {
       "name": "Ambitionz Az A Ridah",
@@ -257,6 +244,26 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
       "url": "https://open.spotify.com/track/00IrSynHsun7DpDrLkRIjM",
       "durationMs": 239133
+    },
+    {
+      "name": "So Much Trouble In The World",
+      "artists": [
+        "Bob Marley & The Wailers"
+      ],
+      "album": "Survival",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c15cf8bfc892d27aecf2f6d",
+      "url": "https://open.spotify.com/track/209SbubR5uKaVzj5SeN42w",
+      "durationMs": 240333
+    },
+    {
+      "name": "Introduction",
+      "artists": [
+        "Guru"
+      ],
+      "album": "Jazzmatazz Volume 1",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
+      "url": "https://open.spotify.com/track/2lg1lksPDgFTk2NOJ8bRxv",
+      "durationMs": 80248
     }
   ],
   "featuredPlaylists": []
