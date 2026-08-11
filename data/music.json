@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2026-08-11T17:26:12.016Z",
+  "updatedAt": "2026-08-11T18:24:19.342Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Det läcker",
+      "artists": [
+        "Dina Ögon"
+      ],
+      "album": "Orion",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27311fa8309150ef449346dd8dd",
+      "url": "https://open.spotify.com/track/2t4MLwOlWf3uzgqNgTrHYd",
+      "durationMs": 259646,
+      "playedAt": "2026-08-11T17:55:04.699Z"
+    },
+    {
+      "name": "Du tappa dä",
+      "artists": [
+        "Dina Ögon"
+      ],
+      "album": "Människobarn",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a9b2653980b2bb3c1887cc",
+      "url": "https://open.spotify.com/track/2i7HYPaJBVefvd6OwQ2rD2",
+      "durationMs": 191132,
+      "playedAt": "2026-08-11T17:50:48.147Z"
+    },
+    {
+      "name": "Dålig teve",
+      "artists": [
+        "Dina Ögon"
+      ],
+      "album": "Människobarn",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a9b2653980b2bb3c1887cc",
+      "url": "https://open.spotify.com/track/5pj5QMaH0AAIaN0ZiolYyJ",
+      "durationMs": 219357,
+      "playedAt": "2026-08-11T17:47:39.955Z"
+    },
+    {
+      "name": "Jag vill ha allt",
+      "artists": [
+        "Dina Ögon"
+      ],
+      "album": "Orion",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27311fa8309150ef449346dd8dd",
+      "url": "https://open.spotify.com/track/5LQqxkVZnA5kvbzHOMFjde",
+      "durationMs": 206285,
+      "playedAt": "2026-08-11T17:44:03.647Z"
+    },
+    {
+      "name": "Mormor",
+      "artists": [
+        "Dina Ögon"
+      ],
+      "album": "Oas",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27347f29db19cce35a81aa12888",
+      "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3",
+      "durationMs": 240262,
+      "playedAt": "2026-08-11T17:40:40.353Z"
+    },
+    {
+      "name": "Berget",
+      "artists": [
+        "Dina Ögon"
+      ],
+      "album": "Oas",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27347f29db19cce35a81aa12888",
+      "url": "https://open.spotify.com/track/7gdRvpMZATkoCadNtNDZyH",
+      "durationMs": 198828,
+      "playedAt": "2026-08-11T17:36:43.205Z"
+    },
     {
       "name": "Campione 2000 - Radio Version",
       "artists": [
@@ -45,74 +111,6 @@
       "url": "https://open.spotify.com/track/1nThB5NAb6HgmmtxB1ANel",
       "durationMs": 220960,
       "playedAt": "2026-08-11T13:39:49.185Z"
-    },
-    {
-      "name": "This Is The Way - Radio Edit",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Made In Sweden",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
-      "url": "https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo",
-      "durationMs": 235293,
-      "playedAt": "2026-08-11T13:36:11.282Z"
-    },
-    {
-      "name": "Angels Crying",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Last Man Standing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
-      "url": "https://open.spotify.com/track/5E5iD6wpxcBw6J9VemdWGd",
-      "durationMs": 230440,
-      "playedAt": "2026-08-11T13:32:18.953Z"
-    },
-    {
-      "name": "Life",
-      "artists": [
-        "E-Type",
-        "Nana Hedin"
-      ],
-      "album": "Euro IV Ever",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c89626b8b2a51e1383a86efd",
-      "url": "https://open.spotify.com/track/41Ef0PikCCRBcIM8O0t5HK",
-      "durationMs": 222040,
-      "playedAt": "2026-08-11T13:28:31.583Z"
-    },
-    {
-      "name": "Du tappa dä",
-      "artists": [
-        "Dina Ögon"
-      ],
-      "album": "Människobarn",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a9b2653980b2bb3c1887cc",
-      "url": "https://open.spotify.com/track/2i7HYPaJBVefvd6OwQ2rD2",
-      "durationMs": 191132,
-      "playedAt": "2026-08-11T06:04:12.465Z"
-    },
-    {
-      "name": "The Sound of Silence - Acoustic Version",
-      "artists": [
-        "Simon & Garfunkel"
-      ],
-      "album": "Wednesday Morning, 3 A.M.",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273af4d7d647d72345ad6a294ad",
-      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK",
-      "durationMs": 189432,
-      "playedAt": "2026-08-11T03:45:04.846Z"
-    },
-    {
-      "name": "Ni**as In Paris",
-      "artists": [
-        "JAŸ-Z",
-        "Kanye West"
-      ],
-      "album": "Watch The Throne",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30",
-      "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um",
-      "durationMs": 219333,
-      "playedAt": "2026-08-11T03:39:49.783Z"
     }
   ],
   "topArtists": [
@@ -120,19 +118,26 @@
       "name": "Steely Dan",
       "imageUrl": "https://i.scdn.co/image/9d01e4e9aac39b891d684d3d1a5b3a451d7c72bd",
       "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE",
-      "genres": []
+      "genres": [
+        "yacht rock",
+        "classic rock"
+      ]
     },
     {
       "name": "Paul Simon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
       "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
-      "genres": []
+      "genres": [
+        "singer-songwriter"
+      ]
     },
     {
       "name": "The Waterboys",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb17d1c7c884ca5bf543aa0165",
       "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ",
-      "genres": []
+      "genres": [
+        "celtic rock"
+      ]
     },
     {
       "name": "Måneskin",
@@ -144,7 +149,9 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Labyrint",
@@ -156,13 +163,21 @@
       "name": "The Pharcyde",
       "imageUrl": "https://i.scdn.co/image/db124909dcc277881bf55ed159bd417d82e2ced1",
       "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w",
-      "genres": []
+      "genres": [
+        "jazz rap",
+        "west coast hip hop",
+        "old school hip hop",
+        "hip hop"
+      ]
     },
     {
       "name": "Bob Marley & The Wailers",
       "imageUrl": "https://i.scdn.co/image/b5aae2067db80f694a980e596e7f49618c1206c9",
       "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD",
-      "genres": []
+      "genres": [
+        "reggae",
+        "roots reggae"
+      ]
     }
   ],
   "topTracks": [
