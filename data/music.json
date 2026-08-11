@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T19:33:25.533Z",
+  "updatedAt": "2026-08-11T20:39:13.758Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -151,15 +151,15 @@
       "genres": []
     },
     {
-      "name": "Dina Ögon",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
-      "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
+      "name": "E-Type",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
+      "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
       "genres": []
     },
     {
-      "name": "The Pharcyde",
-      "imageUrl": "https://i.scdn.co/image/db124909dcc277881bf55ed159bd417d82e2ced1",
-      "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w",
+      "name": "Dina Ögon",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
+      "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
       "genres": []
     }
   ],
