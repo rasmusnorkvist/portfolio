@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-11T05:51:36.415Z",
+  "updatedAt": "2026-08-11T07:00:09.542Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Du tappa dä",
+      "artists": [
+        "Dina Ögon"
+      ],
+      "album": "Människobarn",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a9b2653980b2bb3c1887cc",
+      "url": "https://open.spotify.com/track/2i7HYPaJBVefvd6OwQ2rD2",
+      "durationMs": 191132,
+      "playedAt": "2026-08-11T06:04:12.465Z"
+    },
     {
       "name": "The Sound of Silence - Acoustic Version",
       "artists": [
@@ -102,17 +113,6 @@
       "url": "https://open.spotify.com/track/4IHc6SzGPnzSPuHVEPzpJc",
       "durationMs": 153240,
       "playedAt": "2026-08-11T00:46:39.448Z"
-    },
-    {
-      "name": "Africa",
-      "artists": [
-        "TOTO"
-      ],
-      "album": "Toto IV",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df",
-      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX",
-      "durationMs": 295282,
-      "playedAt": "2026-08-11T00:44:09.233Z"
     }
   ],
   "topArtists": [
