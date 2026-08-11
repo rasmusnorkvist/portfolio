@@ -1,125 +1,117 @@
 {
-  "updatedAt": "2026-08-10T23:31:13.305Z",
+  "updatedAt": "2026-08-11T01:21:31.811Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Ma Baker",
+      "name": "Havana (feat. Young Thug)",
       "artists": [
-        "Boney M."
+        "Camila Cabello",
+        "Young Thug"
       ],
-      "album": "Love For Sale",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27308240f5407fb2123e3d7b966",
-      "url": "https://open.spotify.com/track/1BqnZOkYJbvYLOhN0qPJDm",
-      "durationMs": 276080,
-      "playedAt": "2026-08-10T15:58:26.436Z"
+      "album": "Camila",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273652c9f55dfbf3cfe1800daea",
+      "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W",
+      "durationMs": 217308,
+      "playedAt": "2026-08-11T01:07:14.542Z"
     },
     {
-      "name": "Ooh Wee (feat. Ghostface Killah, Nate Dogg, Trife & Saigon)",
+      "name": "Sol, vind och vatten",
       "artists": [
-        "Mark Ronson",
-        "Ghostface Killah",
-        "Nate Dogg",
-        "Trife",
-        "Saigon"
+        "Ted Gärdestad"
       ],
-      "album": "Here Comes The Fuzz",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e58775d8015f2ea0b85dc57d",
-      "url": "https://open.spotify.com/track/4WimB4Ei0LU3MotHhL3kBL",
-      "durationMs": 209626,
-      "playedAt": "2026-08-10T15:19:10.751Z"
+      "album": "Ted",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273279f48896822185c7ae7ab34",
+      "url": "https://open.spotify.com/track/0lwJH1BDr8Z4wfXvi6yC9y",
+      "durationMs": 189560,
+      "playedAt": "2026-08-11T01:03:40.259Z"
     },
     {
-      "name": "Hate It Or Love It",
+      "name": "Sweet Home Alabama",
       "artists": [
-        "The Game",
-        "50 Cent"
+        "Lynyrd Skynyrd"
       ],
-      "album": "The Documentary",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d",
-      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R",
-      "durationMs": 206400,
-      "playedAt": "2026-08-10T15:15:51.967Z"
+      "album": "Second Helping (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27317e1907923e91181f38290ac",
+      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg",
+      "durationMs": 283800,
+      "playedAt": "2026-08-11T01:00:33.642Z"
     },
     {
-      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
       "artists": [
-        "Gorillaz",
-        "Tame Impala",
-        "Bootie Brown"
+        "Elton John"
       ],
-      "album": "Cracker Island",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27319707804f73dc50f7a29cd86",
-      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3",
-      "durationMs": 215149,
-      "playedAt": "2026-08-10T15:12:49.565Z"
+      "album": "Honky Chateau",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3",
+      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY",
+      "durationMs": 281613,
+      "playedAt": "2026-08-11T00:55:52.862Z"
     },
     {
-      "name": "A Horse with No Name",
+      "name": "Wouldn't It Be Nice",
       "artists": [
-        "America",
-        "George Martin"
+        "The Beach Boys"
       ],
-      "album": "America",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
-      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt",
-      "durationMs": 252239,
-      "playedAt": "2026-08-10T15:09:19.990Z"
+      "album": "Pet Sounds",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27350eb0c521d2d3b2f599bff04",
+      "url": "https://open.spotify.com/track/4IHc6SzGPnzSPuHVEPzpJc",
+      "durationMs": 153240,
+      "playedAt": "2026-08-11T00:46:39.448Z"
     },
     {
-      "name": "The Goodbye Look",
+      "name": "Africa",
       "artists": [
-        "Donald Fagen"
+        "TOTO"
       ],
-      "album": "The Nightfly",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
-      "url": "https://open.spotify.com/track/3jAqtv3axuQ4lYz7v5h9MW",
-      "durationMs": 290306,
-      "playedAt": "2026-08-10T15:05:45.695Z"
+      "album": "Toto IV",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df",
+      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX",
+      "durationMs": 295282,
+      "playedAt": "2026-08-11T00:44:09.233Z"
     },
     {
-      "name": "I Heard It Through The Grapevine",
+      "name": "Magaluf",
       "artists": [
-        "Marvin Gaye"
+        "Orup"
       ],
-      "album": "In The Groove",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8",
-      "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw",
-      "durationMs": 194293,
-      "playedAt": "2026-08-10T15:01:54.566Z"
+      "album": "Stockholm Och Andra Ställen",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27328c928d82d265455145f0823",
+      "url": "https://open.spotify.com/track/1eQbty3NNMMmGiFFEwdxjV",
+      "durationMs": 243519,
+      "playedAt": "2026-08-11T00:39:16.936Z"
     },
     {
-      "name": "Sabor Swahili",
+      "name": "It Ain't Hard to Tell",
       "artists": [
-        "Tapioca"
+        "Nas"
       ],
-      "album": "Samba em Kigali",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27382b0aa364e7d531562a82cf6",
-      "url": "https://open.spotify.com/track/1HB81VnfJXTOwn33HEJeqW",
-      "durationMs": 244624,
-      "playedAt": "2026-08-10T14:58:42.139Z"
+      "album": "Illmatic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27371d840defb002ed3b180f7cd",
+      "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV",
+      "durationMs": 202106,
+      "playedAt": "2026-08-11T00:35:16.448Z"
     },
     {
-      "name": "Cloud Bossa",
+      "name": "Saint-Tropez",
       "artists": [
-        "Jazzinuf"
+        "Post Malone"
       ],
-      "album": "Cloud Bossa",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a58a47972209700e60b3c417",
-      "url": "https://open.spotify.com/track/06d4rPAlFzb2Outp9ZAmyu",
-      "durationMs": 156000,
-      "playedAt": "2026-08-10T14:55:00.794Z"
+      "album": "Hollywood's Bleeding",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
+      "url": "https://open.spotify.com/track/05mDaV9Vb3wrzjF6OPZnhq",
+      "durationMs": 150866,
+      "playedAt": "2026-08-11T00:31:57.348Z"
     },
     {
-      "name": "Edge of Desire",
+      "name": "Back In The U.S.S.R. - Remastered 2009",
       "artists": [
-        "Jonas Blue",
-        "Malive"
+        "The Beatles"
       ],
-      "album": "Edge of Desire",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d62a34460f9106ee437bb0b5",
-      "url": "https://open.spotify.com/track/4A56h4B9xUuMMXoKuj18HT",
-      "durationMs": 134905,
-      "playedAt": "2026-08-10T14:52:29.095Z"
+      "album": "The Beatles (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
+      "url": "https://open.spotify.com/track/0j3p1p06deJ7f9xmJ9yG22",
+      "durationMs": 163453,
+      "playedAt": "2026-08-11T00:29:29.510Z"
     }
   ],
   "topArtists": [
@@ -127,12 +119,6 @@
       "name": "Steely Dan",
       "imageUrl": "https://i.scdn.co/image/9d01e4e9aac39b891d684d3d1a5b3a451d7c72bd",
       "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE",
-      "genres": []
-    },
-    {
-      "name": "Måneskin",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f",
-      "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr",
       "genres": []
     },
     {
@@ -145,6 +131,12 @@
       "name": "The Waterboys",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb17d1c7c884ca5bf543aa0165",
       "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ",
+      "genres": []
+    },
+    {
+      "name": "Måneskin",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f",
+      "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr",
       "genres": []
     },
     {
@@ -184,16 +176,6 @@
       "durationMs": 357041
     },
     {
-      "name": "Beggin'",
-      "artists": [
-        "Måneskin"
-      ],
-      "album": "Chosen",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
-      "durationMs": 211560
-    },
-    {
       "name": "Got to Get (feat. Leila K)",
       "artists": [
         "Rob n Raz",
@@ -203,16 +185,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27370a5259756ea09e952392506",
       "url": "https://open.spotify.com/track/3Atr2OBXJVIpQ96zxuActC",
       "durationMs": 201466
-    },
-    {
-      "name": "Eyes Without A Face",
-      "artists": [
-        "Billy Idol"
-      ],
-      "album": "Rebel Yell",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
-      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS",
-      "durationMs": 299240
     },
     {
       "name": "Ambitionz Az A Ridah",
@@ -253,6 +225,26 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
       "url": "https://open.spotify.com/track/2lg1lksPDgFTk2NOJ8bRxv",
       "durationMs": 80248
+    },
+    {
+      "name": "Beggin'",
+      "artists": [
+        "Måneskin"
+      ],
+      "album": "Chosen",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
+      "durationMs": 211560
+    },
+    {
+      "name": "Passin' Me By",
+      "artists": [
+        "The Pharcyde"
+      ],
+      "album": "Bizarre Ride II The Pharcyde",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739ec4abd35652fafe34ee7dfb",
+      "url": "https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts",
+      "durationMs": 303493
     }
   ],
   "featuredPlaylists": []
