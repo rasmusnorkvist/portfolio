@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-08-11T03:17:25.968Z",
+  "updatedAt": "2026-08-11T04:48:13.752Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "The Sound of Silence - Acoustic Version",
+      "artists": [
+        "Simon & Garfunkel"
+      ],
+      "album": "Wednesday Morning, 3 A.M.",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273af4d7d647d72345ad6a294ad",
+      "url": "https://open.spotify.com/track/5y788ya4NvwhBznoDIcXwK",
+      "durationMs": 189432,
+      "playedAt": "2026-08-11T03:45:04.846Z"
+    },
+    {
+      "name": "Ni**as In Paris",
+      "artists": [
+        "JAŸ-Z",
+        "Kanye West"
+      ],
+      "album": "Watch The Throne",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30",
+      "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um",
+      "durationMs": 219333,
+      "playedAt": "2026-08-11T03:39:49.783Z"
+    },
+    {
+      "name": "Vem vet?",
+      "artists": [
+        "Lisa Ekdahl"
+      ],
+      "album": "Lisa Ekdahl",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a565aad3c9c1515c3ea8d003",
+      "url": "https://open.spotify.com/track/0oKOAL9nhFMieApXNLYkZ8",
+      "durationMs": 183413,
+      "playedAt": "2026-08-11T03:36:13.384Z"
+    },
+    {
+      "name": "New York State of Mind",
+      "artists": [
+        "Billy Joel"
+      ],
+      "album": "Turnstiles",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e3cab24fffc10781baa66287",
+      "url": "https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1",
+      "durationMs": 363286,
+      "playedAt": "2026-08-11T03:33:12.987Z"
+    },
     {
       "name": "Havana (feat. Young Thug)",
       "artists": [
@@ -68,50 +113,6 @@
       "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX",
       "durationMs": 295282,
       "playedAt": "2026-08-11T00:44:09.233Z"
-    },
-    {
-      "name": "Magaluf",
-      "artists": [
-        "Orup"
-      ],
-      "album": "Stockholm Och Andra Ställen",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27328c928d82d265455145f0823",
-      "url": "https://open.spotify.com/track/1eQbty3NNMMmGiFFEwdxjV",
-      "durationMs": 243519,
-      "playedAt": "2026-08-11T00:39:16.936Z"
-    },
-    {
-      "name": "It Ain't Hard to Tell",
-      "artists": [
-        "Nas"
-      ],
-      "album": "Illmatic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27371d840defb002ed3b180f7cd",
-      "url": "https://open.spotify.com/track/2CPturRUlpvirYr7VpkXCV",
-      "durationMs": 202106,
-      "playedAt": "2026-08-11T00:35:16.448Z"
-    },
-    {
-      "name": "Saint-Tropez",
-      "artists": [
-        "Post Malone"
-      ],
-      "album": "Hollywood's Bleeding",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
-      "url": "https://open.spotify.com/track/05mDaV9Vb3wrzjF6OPZnhq",
-      "durationMs": 150866,
-      "playedAt": "2026-08-11T00:31:57.348Z"
-    },
-    {
-      "name": "Back In The U.S.S.R. - Remastered 2009",
-      "artists": [
-        "The Beatles"
-      ],
-      "album": "The Beatles (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
-      "url": "https://open.spotify.com/track/0j3p1p06deJ7f9xmJ9yG22",
-      "durationMs": 163453,
-      "playedAt": "2026-08-11T00:29:29.510Z"
     }
   ],
   "topArtists": [
