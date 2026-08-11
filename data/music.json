@@ -1,18 +1,51 @@
 {
-  "updatedAt": "2026-08-11T22:37:03.139Z",
-  "nowPlaying": {
-    "name": "Dålig teve",
-    "artists": [
-      "Dina Ögon"
-    ],
-    "album": "Människobarn",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a9b2653980b2bb3c1887cc",
-    "url": "https://open.spotify.com/track/5pj5QMaH0AAIaN0ZiolYyJ",
-    "durationMs": 219357,
-    "isPlaying": true,
-    "progressMs": 85736
-  },
+  "updatedAt": "2026-08-11T23:35:29.333Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Oas",
+      "artists": [
+        "Dina Ögon"
+      ],
+      "album": "Oas",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27347f29db19cce35a81aa12888",
+      "url": "https://open.spotify.com/track/0XpRnotgEEsbFHY7UfXH3o",
+      "durationMs": 197297,
+      "playedAt": "2026-08-11T22:53:13.315Z"
+    },
+    {
+      "name": "Det läcker",
+      "artists": [
+        "Dina Ögon"
+      ],
+      "album": "Orion",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27311fa8309150ef449346dd8dd",
+      "url": "https://open.spotify.com/track/2t4MLwOlWf3uzgqNgTrHYd",
+      "durationMs": 259646,
+      "playedAt": "2026-08-11T22:46:42.120Z"
+    },
+    {
+      "name": "Du tappa dä",
+      "artists": [
+        "Dina Ögon"
+      ],
+      "album": "Människobarn",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a9b2653980b2bb3c1887cc",
+      "url": "https://open.spotify.com/track/2i7HYPaJBVefvd6OwQ2rD2",
+      "durationMs": 191132,
+      "playedAt": "2026-08-11T22:42:25.412Z"
+    },
+    {
+      "name": "Dålig teve",
+      "artists": [
+        "Dina Ögon"
+      ],
+      "album": "Människobarn",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a9b2653980b2bb3c1887cc",
+      "url": "https://open.spotify.com/track/5pj5QMaH0AAIaN0ZiolYyJ",
+      "durationMs": 219357,
+      "playedAt": "2026-08-11T22:39:17.305Z"
+    },
     {
       "name": "Jag vill ha allt",
       "artists": [
@@ -79,50 +112,6 @@
       "url": "https://open.spotify.com/track/1kaL8kRZYdzYFDcMP7RvxD",
       "durationMs": 219760,
       "playedAt": "2026-08-11T19:15:06.186Z"
-    },
-    {
-      "name": "Eurofighter",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Eurotopia",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27300c05bac4b1bf65b7fbf42d7",
-      "url": "https://open.spotify.com/track/378iJE0ultZ7OTRaFpe8p5",
-      "durationMs": 227573,
-      "playedAt": "2026-08-11T19:11:29.386Z"
-    },
-    {
-      "name": "Back In The Loop",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "The Explorer",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273167dd2526c2e800c38578262",
-      "url": "https://open.spotify.com/track/6UfLnSbejyphaBPEdKfPsM",
-      "durationMs": 206600,
-      "playedAt": "2026-08-11T19:07:44.839Z"
-    },
-    {
-      "name": "Russian Lullaby",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Made In Sweden",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
-      "url": "https://open.spotify.com/track/0wm1WI6IaWODKrbyfaVBFq",
-      "durationMs": 192933,
-      "playedAt": "2026-08-11T19:04:21.274Z"
-    },
-    {
-      "name": "I Just Wanna Be With You",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "The Explorer",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273167dd2526c2e800c38578262",
-      "url": "https://open.spotify.com/track/1hT711SbuxGploWC1g6Dq4",
-      "durationMs": 231400,
-      "playedAt": "2026-08-11T19:01:11.327Z"
     }
   ],
   "topArtists": [
@@ -157,6 +146,12 @@
       "genres": []
     },
     {
+      "name": "Dina Ögon",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
+      "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
+      "genres": []
+    },
+    {
       "name": "Labyrint",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8c253702a29d143fb8de5039",
       "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo",
@@ -166,12 +161,6 @@
       "name": "E-Type",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
       "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
-      "genres": []
-    },
-    {
-      "name": "Dina Ögon",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
-      "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
       "genres": []
     }
   ],
@@ -207,6 +196,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c89626b8b2a51e1383a86efd",
       "url": "https://open.spotify.com/track/41Ef0PikCCRBcIM8O0t5HK",
       "durationMs": 222040
+    },
+    {
+      "name": "Berget",
+      "artists": [
+        "Dina Ögon"
+      ],
+      "album": "Oas",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27347f29db19cce35a81aa12888",
+      "url": "https://open.spotify.com/track/7gdRvpMZATkoCadNtNDZyH",
+      "durationMs": 198828
     },
     {
       "name": "Ambitionz Az A Ridah",
@@ -247,16 +246,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
       "url": "https://open.spotify.com/track/2lg1lksPDgFTk2NOJ8bRxv",
       "durationMs": 80248
-    },
-    {
-      "name": "Beggin'",
-      "artists": [
-        "Måneskin"
-      ],
-      "album": "Chosen",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
-      "durationMs": 211560
     }
   ],
   "featuredPlaylists": []
