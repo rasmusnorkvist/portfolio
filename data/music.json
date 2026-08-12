@@ -1,117 +1,133 @@
 {
-  "updatedAt": "2026-08-11T23:35:29.333Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-12T01:38:18.312Z",
+  "nowPlaying": {
+    "name": "True Believer",
+    "artists": [
+      "E-Type"
+    ],
+    "album": "Eurotopia",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27300c05bac4b1bf65b7fbf42d7",
+    "url": "https://open.spotify.com/track/1nThB5NAb6HgmmtxB1ANel",
+    "durationMs": 220960,
+    "isPlaying": true,
+    "progressMs": 136765
+  },
   "recentlyPlayed": [
     {
-      "name": "Oas",
-      "artists": [
-        "Dina Ögon"
-      ],
-      "album": "Oas",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27347f29db19cce35a81aa12888",
-      "url": "https://open.spotify.com/track/0XpRnotgEEsbFHY7UfXH3o",
-      "durationMs": 197297,
-      "playedAt": "2026-08-11T22:53:13.315Z"
-    },
-    {
-      "name": "Det läcker",
-      "artists": [
-        "Dina Ögon"
-      ],
-      "album": "Orion",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27311fa8309150ef449346dd8dd",
-      "url": "https://open.spotify.com/track/2t4MLwOlWf3uzgqNgTrHYd",
-      "durationMs": 259646,
-      "playedAt": "2026-08-11T22:46:42.120Z"
-    },
-    {
-      "name": "Du tappa dä",
-      "artists": [
-        "Dina Ögon"
-      ],
-      "album": "Människobarn",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a9b2653980b2bb3c1887cc",
-      "url": "https://open.spotify.com/track/2i7HYPaJBVefvd6OwQ2rD2",
-      "durationMs": 191132,
-      "playedAt": "2026-08-11T22:42:25.412Z"
-    },
-    {
-      "name": "Dålig teve",
-      "artists": [
-        "Dina Ögon"
-      ],
-      "album": "Människobarn",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a9b2653980b2bb3c1887cc",
-      "url": "https://open.spotify.com/track/5pj5QMaH0AAIaN0ZiolYyJ",
-      "durationMs": 219357,
-      "playedAt": "2026-08-11T22:39:17.305Z"
-    },
-    {
-      "name": "Jag vill ha allt",
-      "artists": [
-        "Dina Ögon"
-      ],
-      "album": "Orion",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27311fa8309150ef449346dd8dd",
-      "url": "https://open.spotify.com/track/5LQqxkVZnA5kvbzHOMFjde",
-      "durationMs": 206285,
-      "playedAt": "2026-08-11T22:35:40.965Z"
-    },
-    {
-      "name": "Mormor",
-      "artists": [
-        "Dina Ögon"
-      ],
-      "album": "Oas",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27347f29db19cce35a81aa12888",
-      "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3",
-      "durationMs": 240262,
-      "playedAt": "2026-08-11T22:32:17.715Z"
-    },
-    {
-      "name": "Berget",
-      "artists": [
-        "Dina Ögon"
-      ],
-      "album": "Oas",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27347f29db19cce35a81aa12888",
-      "url": "https://open.spotify.com/track/7gdRvpMZATkoCadNtNDZyH",
-      "durationMs": 198828,
-      "playedAt": "2026-08-11T22:28:20.530Z"
-    },
-    {
-      "name": "TECHNO TOWN",
-      "artists": [
-        "Little Sis Nora",
-        "E-Type"
-      ],
-      "album": "TECHNO TOWN",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27339576b028732bed60a37fec9",
-      "url": "https://open.spotify.com/track/0JIG40nYHl7bouUWsGcDWv",
-      "durationMs": 145548,
-      "playedAt": "2026-08-11T22:22:46.319Z"
-    },
-    {
-      "name": "Calling Your Name - Radio Version",
+      "name": "This Is The Way - Radio Edit",
       "artists": [
         "E-Type"
       ],
-      "album": "The Explorer",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273167dd2526c2e800c38578262",
-      "url": "https://open.spotify.com/track/26UEmFAUOLUsjHEFa6vg72",
-      "durationMs": 217533,
-      "playedAt": "2026-08-11T19:22:22.830Z"
+      "album": "Made In Sweden",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
+      "url": "https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo",
+      "durationMs": 235293,
+      "playedAt": "2026-08-12T01:36:05.245Z"
     },
     {
-      "name": "Princess Of Egypt",
+      "name": "Angels Crying",
       "artists": [
         "E-Type"
       ],
       "album": "Last Man Standing",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
-      "url": "https://open.spotify.com/track/1kaL8kRZYdzYFDcMP7RvxD",
-      "durationMs": 219760,
-      "playedAt": "2026-08-11T19:15:06.186Z"
+      "url": "https://open.spotify.com/track/5E5iD6wpxcBw6J9VemdWGd",
+      "durationMs": 230440,
+      "playedAt": "2026-08-12T01:31:55.461Z"
+    },
+    {
+      "name": "Life",
+      "artists": [
+        "E-Type",
+        "Nana Hedin"
+      ],
+      "album": "Euro IV Ever",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c89626b8b2a51e1383a86efd",
+      "url": "https://open.spotify.com/track/41Ef0PikCCRBcIM8O0t5HK",
+      "durationMs": 222040,
+      "playedAt": "2026-08-12T01:28:08.042Z"
+    },
+    {
+      "name": "Vill va HighWon (feat. Sabo, Ju-Mazz & Hoosam)",
+      "artists": [
+        "Ison & Fille",
+        "ISON",
+        "Fille Danza",
+        "Sabo",
+        "Ju-Mazz",
+        "Hoosam"
+      ],
+      "album": "Resumé",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736f5129a324c7098ce05cc534",
+      "url": "https://open.spotify.com/track/5pVoTA0BHRnlTK5cg1cR3q",
+      "durationMs": 219786,
+      "playedAt": "2026-08-12T01:13:23.792Z"
+    },
+    {
+      "name": "Vår betong",
+      "artists": [
+        "Jacco"
+      ],
+      "album": "Vår betong",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738068a5560a2cda1460b30d89",
+      "url": "https://open.spotify.com/track/5iLYWyAMSGqpL7NASZbR4w",
+      "durationMs": 224466,
+      "playedAt": "2026-08-12T01:10:14.697Z"
+    },
+    {
+      "name": "My Cool",
+      "artists": [
+        "Adam Tensta"
+      ],
+      "album": "It's A Tensta Thing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27350f76fb4be6750753ef002b7",
+      "url": "https://open.spotify.com/track/1KhdDS8sEoRg03R9jLhMgj",
+      "durationMs": 227198,
+      "playedAt": "2026-08-12T01:06:53.778Z"
+    },
+    {
+      "name": "Eld och djupa vatten",
+      "artists": [
+        "Ken Ring"
+      ],
+      "album": "Vägen tillbaka",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730401a1ad5c0b1afe59e22ed4",
+      "url": "https://open.spotify.com/track/3QnOeUwRd1v1eniL3VaQTg",
+      "durationMs": 237493,
+      "playedAt": "2026-08-12T01:03:50.097Z"
+    },
+    {
+      "name": "Tell It Like It Is - Re-recording",
+      "artists": [
+        "Aaron Neville"
+      ],
+      "album": "Tell It Like It Is",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273997ad990443ed14a34579dc6",
+      "url": "https://open.spotify.com/track/0EpIxiAKO7ExsTKJNyfC0n",
+      "durationMs": 186000,
+      "playedAt": "2026-08-12T00:59:12.175Z"
+    },
+    {
+      "name": "I Forgot To Be Your Lover",
+      "artists": [
+        "William Bell"
+      ],
+      "album": "The Best Of William Bell",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27353fbbaa939812aaa4466fda4",
+      "url": "https://open.spotify.com/track/3PLKsooF2oGUBdGzblvOlI",
+      "durationMs": 138960,
+      "playedAt": "2026-08-12T00:56:08.998Z"
+    },
+    {
+      "name": "Didn't I (Blow Your Mind This Time)",
+      "artists": [
+        "The Delfonics"
+      ],
+      "album": "The Delfonics",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f606a66ae319776c0dc86ce8",
+      "url": "https://open.spotify.com/track/1NeKY4qWsCnhY8fvhwQa7q",
+      "durationMs": 201066,
+      "playedAt": "2026-08-12T00:53:53.096Z"
     }
   ],
   "topArtists": [
@@ -140,6 +156,12 @@
       "genres": []
     },
     {
+      "name": "E-Type",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
+      "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
+      "genres": []
+    },
+    {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
@@ -156,15 +178,20 @@
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8c253702a29d143fb8de5039",
       "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo",
       "genres": []
-    },
-    {
-      "name": "E-Type",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
-      "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
-      "genres": []
     }
   ],
   "topTracks": [
+    {
+      "name": "Life",
+      "artists": [
+        "E-Type",
+        "Nana Hedin"
+      ],
+      "album": "Euro IV Ever",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c89626b8b2a51e1383a86efd",
+      "url": "https://open.spotify.com/track/41Ef0PikCCRBcIM8O0t5HK",
+      "durationMs": 222040
+    },
     {
       "name": "Do It Again",
       "artists": [
@@ -185,17 +212,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27370a5259756ea09e952392506",
       "url": "https://open.spotify.com/track/3Atr2OBXJVIpQ96zxuActC",
       "durationMs": 201466
-    },
-    {
-      "name": "Life",
-      "artists": [
-        "E-Type",
-        "Nana Hedin"
-      ],
-      "album": "Euro IV Ever",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c89626b8b2a51e1383a86efd",
-      "url": "https://open.spotify.com/track/41Ef0PikCCRBcIM8O0t5HK",
-      "durationMs": 222040
     },
     {
       "name": "Berget",
