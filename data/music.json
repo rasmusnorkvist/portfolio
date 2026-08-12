@@ -1,117 +1,120 @@
 {
-  "updatedAt": "2026-08-12T17:55:31.446Z",
+  "updatedAt": "2026-08-12T18:58:15.475Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Let The Cool Come Off",
+      "name": "Send It Back",
       "artists": [
-        "T.J. Wilkins"
+        "DON WEST"
       ],
-      "album": "Yesterday, Today, Forever",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ed822d1332870b5c5fb9c9de",
-      "url": "https://open.spotify.com/track/7LubpUgxRl2qIVi0ohQyFa",
-      "durationMs": 185626,
-      "playedAt": "2026-08-12T15:16:05.427Z"
+      "album": "Give Me All Your Love",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27378b22ab7e27a2c6dff1b2281",
+      "url": "https://open.spotify.com/track/08QVyeT5P43ll1voKgaiw8",
+      "durationMs": 173112,
+      "playedAt": "2026-08-12T18:38:34.473Z"
     },
     {
-      "name": "Are You Satisfied?",
+      "name": "Solar Power",
       "artists": [
-        "The Rah Band"
+        "Lorde"
       ],
-      "album": "Past, Present & Future",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ad5816c6fafdf2876de8aca9",
-      "url": "https://open.spotify.com/track/1XowbeLc27U22ao4MgJKO0",
-      "durationMs": 201986,
-      "playedAt": "2026-08-12T15:13:02.804Z"
+      "album": "Solar Power",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27336615a0a60523dd62135ab3a",
+      "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C",
+      "durationMs": 192621,
+      "playedAt": "2026-08-12T18:35:59.089Z"
     },
     {
-      "name": "Let's Do It Today",
+      "name": "Real Love",
       "artists": [
-        "T-Connection"
+        "Drizabone"
       ],
-      "album": "Totally Connected",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27301aad7348ed3032ef6a636b1",
-      "url": "https://open.spotify.com/track/3FpSToAu6CJRn8pkXbT7fJ",
-      "durationMs": 234513,
-      "playedAt": "2026-08-12T15:09:39.028Z"
+      "album": "Conspiracy",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dde3b4245cffcfe26a53b2a9",
+      "url": "https://open.spotify.com/track/639cc3IeyJVop1Wxm57FP3",
+      "durationMs": 315466,
+      "playedAt": "2026-08-12T18:32:49.514Z"
     },
     {
-      "name": "Piña Colada",
+      "name": "Apocalypse (feat. Refugee All Stars)",
       "artists": [
-        "Starwolf"
+        "Wyclef Jean",
+        "Refugee All Stars"
       ],
-      "album": "Tropical Disco",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730280cb714a47bcacf6433d67",
-      "url": "https://open.spotify.com/track/2jIHVOlXk39l3bxK6XiezJ",
-      "durationMs": 247480,
-      "playedAt": "2026-08-12T15:05:47.630Z"
+      "album": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+      "url": "https://open.spotify.com/track/5y5aFlTMuKQCzhGsGdATap",
+      "durationMs": 229266,
+      "playedAt": "2026-08-12T18:27:52.191Z"
     },
     {
-      "name": "Keepin' It to Myself",
+      "name": "Välkommen hem",
       "artists": [
-        "Jaye P. Morgan"
+        "Labyrint",
+        "Dani M"
       ],
-      "album": "Jaye P. Morgan",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27371017c2265f16e61538840bb",
-      "url": "https://open.spotify.com/track/7pdv2SGp7owHta3yHuIuBP",
-      "durationMs": 206840,
-      "playedAt": "2026-08-12T15:01:43.160Z"
+      "album": "Labababa",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738fd5c8d8cfa248e74a28e933",
+      "url": "https://open.spotify.com/track/5KMaxztlP8LUwAKN9bUKIN",
+      "durationMs": 246773,
+      "playedAt": "2026-08-12T18:24:35.085Z"
     },
     {
-      "name": "Space Funk",
+      "name": "Topp Doggz",
       "artists": [
-        "Jafunk"
+        "Petter",
+        "Looptroop Rockers"
       ],
-      "album": "Classic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27313bfa07959e98c9cbdde81b8",
-      "url": "https://open.spotify.com/track/1U9LfeByX5hkTV6CxeOQ1u",
-      "durationMs": 188976,
-      "playedAt": "2026-08-12T14:58:19.127Z"
+      "album": "Den Svenska Underjorden",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b37ee66023d9f54c2942252a",
+      "url": "https://open.spotify.com/track/1ArnPmsv5NWRNUJNRIYc5K",
+      "durationMs": 252626,
+      "playedAt": "2026-08-12T18:20:42.954Z"
     },
     {
-      "name": "Alice",
+      "name": "Cashen dom tas",
       "artists": [
-        "Mcbaise"
+        "The Latin Kings"
       ],
-      "album": "Wrongderful",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a80808ceb0f38e194a15bd6c",
-      "url": "https://open.spotify.com/track/7y9k6hMYX1wAMRsmGowWvz",
-      "durationMs": 320640,
-      "playedAt": "2026-08-12T14:55:13.129Z"
+      "album": "Cashen dom tas",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732bff445b58be18b9c053bed6",
+      "url": "https://open.spotify.com/track/06Gdd6zfAHBy7B5DxaBugm",
+      "durationMs": 287893,
+      "playedAt": "2026-08-12T18:17:03.121Z"
     },
     {
-      "name": "Black Walnut",
+      "name": "Destination Calabria - Radio Edit",
       "artists": [
-        "SHEBAD"
+        "Alex Gaudino",
+        "Crystal Waters"
       ],
-      "album": "Music is the Answer",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734c7db14cc03b1326962e63cb",
-      "url": "https://open.spotify.com/track/6DskDAI7s4WzBNVJjxgEod",
-      "durationMs": 219008,
-      "playedAt": "2026-08-12T14:49:55.529Z"
+      "album": "Destination Calabria",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739ddec2a9c771fcd96ca3fe1d",
+      "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h",
+      "durationMs": 223111,
+      "playedAt": "2026-08-12T18:13:08.886Z"
     },
     {
-      "name": "Fine Living",
+      "name": "I WANNA BE YOUR SLAVE",
       "artists": [
-        "Rapallo"
+        "Måneskin"
       ],
-      "album": "Fine Living",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e082d8d2e978e30fd262a8c2",
-      "url": "https://open.spotify.com/track/0BzJtqgA6ARE8BpNwrByYn",
-      "durationMs": 163061,
-      "playedAt": "2026-08-12T14:46:19.531Z"
+      "album": "Teatro d'ira - Vol. I",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21",
+      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk",
+      "durationMs": 173346,
+      "playedAt": "2026-08-12T18:09:29.886Z"
     },
     {
-      "name": "Tropical Disco",
+      "name": "Hey Nineteen",
       "artists": [
-        "Starwolf",
-        "Marcello Cassanelli"
+        "Steely Dan"
       ],
-      "album": "Tropical Disco",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730280cb714a47bcacf6433d67",
-      "url": "https://open.spotify.com/track/0f2GmiCT9BfG5ai6OfUzyx",
-      "durationMs": 277106,
-      "playedAt": "2026-08-12T14:43:39.628Z"
+      "album": "Gaucho",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27353e10b63c25c7f7a3d7e0f9d",
+      "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5",
+      "durationMs": 309018,
+      "playedAt": "2026-08-12T18:06:43.566Z"
     }
   ],
   "topArtists": [
