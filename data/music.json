@@ -1,7 +1,114 @@
 {
-  "updatedAt": "2026-08-12T21:12:52.096Z",
+  "updatedAt": "2026-08-12T22:09:36.043Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Visa från Utanmyra",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800,
+      "playedAt": "2026-08-12T21:57:00.722Z"
+    },
+    {
+      "name": "King of My Castle (Roy Malone's King Radio Edit)",
+      "artists": [
+        "Wamdue Project",
+        "Roy Malone"
+      ],
+      "album": "King Of My Castle (Mixes)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273478b1bf3c8a06e07c48572ab",
+      "url": "https://open.spotify.com/track/5ov3LhsdEifKENMIlLCuJo",
+      "durationMs": 209026,
+      "playedAt": "2026-08-12T21:52:31.820Z"
+    },
+    {
+      "name": "The Way You Move (feat. Sleepy Brown)",
+      "artists": [
+        "Outkast",
+        "Sleepy Brown"
+      ],
+      "album": "Speakerboxxx/The Love Below",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736e88eb6508fd94cd1b745ce2",
+      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD",
+      "durationMs": 234000,
+      "playedAt": "2026-08-12T21:49:05.107Z"
+    },
+    {
+      "name": "Ring My Bell",
+      "artists": [
+        "Anita Ward"
+      ],
+      "album": "Ring My Bell",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733b0e0d19618f2dec4531f368",
+      "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd",
+      "durationMs": 491933,
+      "playedAt": "2026-08-12T21:45:47.002Z"
+    },
+    {
+      "name": "Butterfly",
+      "artists": [
+        "Crazy Town"
+      ],
+      "album": "The Gift Of Game",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273523e6f09c8962982254de0cd",
+      "url": "https://open.spotify.com/track/6GQ3WTaNHMFlVmN4burGat",
+      "durationMs": 216773,
+      "playedAt": "2026-08-12T21:37:46.651Z"
+    },
+    {
+      "name": "Music Sounds Better With You",
+      "artists": [
+        "Stardust",
+        "Benjamin Diamond",
+        "Alan Braxe",
+        "Thomas Bangalter"
+      ],
+      "album": "Music Sounds Better With You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b98afa12c212cbbda4f1799b",
+      "url": "https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt",
+      "durationMs": 403293,
+      "playedAt": "2026-08-12T21:34:37.403Z"
+    },
+    {
+      "name": "THE LONELIEST",
+      "artists": [
+        "Måneskin"
+      ],
+      "album": "RUSH!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346e72dff16a10e1b5062fdf7",
+      "url": "https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP",
+      "durationMs": 247067,
+      "playedAt": "2026-08-12T21:28:39.749Z"
+    },
+    {
+      "name": "Children Of The Internet - Ezra Collective Remix",
+      "artists": [
+        "Future Utopia",
+        "Ezra Collective",
+        "Dave",
+        "Es Devlin"
+      ],
+      "album": "Children Of The Internet (Remixes)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352b047b3959d8a80fb52ad5c",
+      "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X",
+      "durationMs": 353346,
+      "playedAt": "2026-08-12T21:24:35.923Z"
+    },
+    {
+      "name": "GALS4U",
+      "artists": [
+        "The Free Label"
+      ],
+      "album": "DANCING ON YOUR OWN",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739fa30cf6ab7642868b51afab",
+      "url": "https://open.spotify.com/track/6sU774APj2OZ4tLGjwbZsK",
+      "durationMs": 175297,
+      "playedAt": "2026-08-12T21:18:43.810Z"
+    },
     {
       "name": "Send It Back",
       "artists": [
@@ -12,109 +119,6 @@
       "url": "https://open.spotify.com/track/08QVyeT5P43ll1voKgaiw8",
       "durationMs": 173112,
       "playedAt": "2026-08-12T18:38:34.473Z"
-    },
-    {
-      "name": "Solar Power",
-      "artists": [
-        "Lorde"
-      ],
-      "album": "Solar Power",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27336615a0a60523dd62135ab3a",
-      "url": "https://open.spotify.com/track/7s2kWabRM60W9I61HpKg8C",
-      "durationMs": 192621,
-      "playedAt": "2026-08-12T18:35:59.089Z"
-    },
-    {
-      "name": "Real Love",
-      "artists": [
-        "Drizabone"
-      ],
-      "album": "Conspiracy",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dde3b4245cffcfe26a53b2a9",
-      "url": "https://open.spotify.com/track/639cc3IeyJVop1Wxm57FP3",
-      "durationMs": 315466,
-      "playedAt": "2026-08-12T18:32:49.514Z"
-    },
-    {
-      "name": "Apocalypse (feat. Refugee All Stars)",
-      "artists": [
-        "Wyclef Jean",
-        "Refugee All Stars"
-      ],
-      "album": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
-      "url": "https://open.spotify.com/track/5y5aFlTMuKQCzhGsGdATap",
-      "durationMs": 229266,
-      "playedAt": "2026-08-12T18:27:52.191Z"
-    },
-    {
-      "name": "Välkommen hem",
-      "artists": [
-        "Labyrint",
-        "Dani M"
-      ],
-      "album": "Labababa",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738fd5c8d8cfa248e74a28e933",
-      "url": "https://open.spotify.com/track/5KMaxztlP8LUwAKN9bUKIN",
-      "durationMs": 246773,
-      "playedAt": "2026-08-12T18:24:35.085Z"
-    },
-    {
-      "name": "Topp Doggz",
-      "artists": [
-        "Petter",
-        "Looptroop Rockers"
-      ],
-      "album": "Den Svenska Underjorden",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b37ee66023d9f54c2942252a",
-      "url": "https://open.spotify.com/track/1ArnPmsv5NWRNUJNRIYc5K",
-      "durationMs": 252626,
-      "playedAt": "2026-08-12T18:20:42.954Z"
-    },
-    {
-      "name": "Cashen dom tas",
-      "artists": [
-        "The Latin Kings"
-      ],
-      "album": "Cashen dom tas",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732bff445b58be18b9c053bed6",
-      "url": "https://open.spotify.com/track/06Gdd6zfAHBy7B5DxaBugm",
-      "durationMs": 287893,
-      "playedAt": "2026-08-12T18:17:03.121Z"
-    },
-    {
-      "name": "Destination Calabria - Radio Edit",
-      "artists": [
-        "Alex Gaudino",
-        "Crystal Waters"
-      ],
-      "album": "Destination Calabria",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739ddec2a9c771fcd96ca3fe1d",
-      "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h",
-      "durationMs": 223111,
-      "playedAt": "2026-08-12T18:13:08.886Z"
-    },
-    {
-      "name": "I WANNA BE YOUR SLAVE",
-      "artists": [
-        "Måneskin"
-      ],
-      "album": "Teatro d'ira - Vol. I",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21",
-      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk",
-      "durationMs": 173346,
-      "playedAt": "2026-08-12T18:09:29.886Z"
-    },
-    {
-      "name": "Hey Nineteen",
-      "artists": [
-        "Steely Dan"
-      ],
-      "album": "Gaucho",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27353e10b63c25c7f7a3d7e0f9d",
-      "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5",
-      "durationMs": 309018,
-      "playedAt": "2026-08-12T18:06:43.566Z"
     }
   ],
   "topArtists": [
