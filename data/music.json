@@ -1,7 +1,74 @@
 {
-  "updatedAt": "2026-08-12T13:55:29.222Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-12T14:53:26.552Z",
+  "nowPlaying": {
+    "name": "Alice",
+    "artists": [
+      "Mcbaise"
+    ],
+    "album": "Wrongderful",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a80808ceb0f38e194a15bd6c",
+    "url": "https://open.spotify.com/track/7y9k6hMYX1wAMRsmGowWvz",
+    "durationMs": 320640,
+    "isPlaying": true,
+    "progressMs": 213553
+  },
   "recentlyPlayed": [
+    {
+      "name": "Black Walnut",
+      "artists": [
+        "SHEBAD"
+      ],
+      "album": "Music is the Answer",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734c7db14cc03b1326962e63cb",
+      "url": "https://open.spotify.com/track/6DskDAI7s4WzBNVJjxgEod",
+      "durationMs": 219008,
+      "playedAt": "2026-08-12T14:49:55.529Z"
+    },
+    {
+      "name": "Fine Living",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Fine Living",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e082d8d2e978e30fd262a8c2",
+      "url": "https://open.spotify.com/track/0BzJtqgA6ARE8BpNwrByYn",
+      "durationMs": 163061,
+      "playedAt": "2026-08-12T14:46:19.531Z"
+    },
+    {
+      "name": "Tropical Disco",
+      "artists": [
+        "Starwolf",
+        "Marcello Cassanelli"
+      ],
+      "album": "Tropical Disco",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730280cb714a47bcacf6433d67",
+      "url": "https://open.spotify.com/track/0f2GmiCT9BfG5ai6OfUzyx",
+      "durationMs": 277106,
+      "playedAt": "2026-08-12T14:43:39.628Z"
+    },
+    {
+      "name": "No Problems",
+      "artists": [
+        "Ginger Root"
+      ],
+      "album": "SHINBANGUMI",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb7e5ecc0e1513ee7a3313a5",
+      "url": "https://open.spotify.com/track/6qvkRSSx2JE3iFCi2KFZcq",
+      "durationMs": 224888,
+      "playedAt": "2026-08-12T14:38:58.920Z"
+    },
+    {
+      "name": "LGCY",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/3e1oWT8W1S1OI4eEtpwSj4",
+      "durationMs": 196206,
+      "playedAt": "2026-08-12T14:35:17.022Z"
+    },
     {
       "name": "Soul Man",
       "artists": [
@@ -56,62 +123,6 @@
       "url": "https://open.spotify.com/track/1hjZbd4ZlaCQhEpuyADSyb",
       "durationMs": 231893,
       "playedAt": "2026-08-12T02:28:17.029Z"
-    },
-    {
-      "name": "Midnight Train to Georgia",
-      "artists": [
-        "Gladys Knight & The Pips"
-      ],
-      "album": "The Way We Were: The Best Of Gladys Knight & The Pips",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a309dcac95d481a13af1d81b",
-      "url": "https://open.spotify.com/track/6UaocmOO1bO7YwfHv9Kqcy",
-      "durationMs": 280093,
-      "playedAt": "2026-08-12T02:24:28.133Z"
-    },
-    {
-      "name": "People Get Ready",
-      "artists": [
-        "Curtis Mayfield",
-        "The Impressions"
-      ],
-      "album": "Get Ready - Hello Young Lovers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c5889b8cbbc560b0fa7b2e19",
-      "url": "https://open.spotify.com/track/1mHPTUYCEQkDvMF1lCqUXD",
-      "durationMs": 161186,
-      "playedAt": "2026-08-12T02:19:51.034Z"
-    },
-    {
-      "name": "Midnight Train to Georgia",
-      "artists": [
-        "Gladys Knight & The Pips"
-      ],
-      "album": "The Way We Were: The Best Of Gladys Knight & The Pips",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a309dcac95d481a13af1d81b",
-      "url": "https://open.spotify.com/track/6UaocmOO1bO7YwfHv9Kqcy",
-      "durationMs": 280093,
-      "playedAt": "2026-08-12T02:17:12.833Z"
-    },
-    {
-      "name": "My Girl",
-      "artists": [
-        "The Temptations"
-      ],
-      "album": "The Temptations Sing Smokey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e",
-      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH",
-      "durationMs": 165000,
-      "playedAt": "2026-08-12T02:12:35.832Z"
-    },
-    {
-      "name": "Son Of A Preacher Man",
-      "artists": [
-        "Dusty Springfield"
-      ],
-      "album": "Dusty In Memphis",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e20037311210924b3c386f00",
-      "url": "https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM",
-      "durationMs": 148053,
-      "playedAt": "2026-08-12T02:09:53.833Z"
     }
   ],
   "topArtists": [
