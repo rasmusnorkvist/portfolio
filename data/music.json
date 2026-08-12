@@ -1,18 +1,84 @@
 {
-  "updatedAt": "2026-08-12T14:53:26.552Z",
-  "nowPlaying": {
-    "name": "Alice",
-    "artists": [
-      "Mcbaise"
-    ],
-    "album": "Wrongderful",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a80808ceb0f38e194a15bd6c",
-    "url": "https://open.spotify.com/track/7y9k6hMYX1wAMRsmGowWvz",
-    "durationMs": 320640,
-    "isPlaying": true,
-    "progressMs": 213553
-  },
+  "updatedAt": "2026-08-12T15:56:04.757Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Let The Cool Come Off",
+      "artists": [
+        "T.J. Wilkins"
+      ],
+      "album": "Yesterday, Today, Forever",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ed822d1332870b5c5fb9c9de",
+      "url": "https://open.spotify.com/track/7LubpUgxRl2qIVi0ohQyFa",
+      "durationMs": 185626,
+      "playedAt": "2026-08-12T15:16:05.427Z"
+    },
+    {
+      "name": "Are You Satisfied?",
+      "artists": [
+        "The Rah Band"
+      ],
+      "album": "Past, Present & Future",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ad5816c6fafdf2876de8aca9",
+      "url": "https://open.spotify.com/track/1XowbeLc27U22ao4MgJKO0",
+      "durationMs": 201986,
+      "playedAt": "2026-08-12T15:13:02.804Z"
+    },
+    {
+      "name": "Let's Do It Today",
+      "artists": [
+        "T-Connection"
+      ],
+      "album": "Totally Connected",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27301aad7348ed3032ef6a636b1",
+      "url": "https://open.spotify.com/track/3FpSToAu6CJRn8pkXbT7fJ",
+      "durationMs": 234513,
+      "playedAt": "2026-08-12T15:09:39.028Z"
+    },
+    {
+      "name": "Piña Colada",
+      "artists": [
+        "Starwolf"
+      ],
+      "album": "Tropical Disco",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730280cb714a47bcacf6433d67",
+      "url": "https://open.spotify.com/track/2jIHVOlXk39l3bxK6XiezJ",
+      "durationMs": 247480,
+      "playedAt": "2026-08-12T15:05:47.630Z"
+    },
+    {
+      "name": "Keepin' It to Myself",
+      "artists": [
+        "Jaye P. Morgan"
+      ],
+      "album": "Jaye P. Morgan",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27371017c2265f16e61538840bb",
+      "url": "https://open.spotify.com/track/7pdv2SGp7owHta3yHuIuBP",
+      "durationMs": 206840,
+      "playedAt": "2026-08-12T15:01:43.160Z"
+    },
+    {
+      "name": "Space Funk",
+      "artists": [
+        "Jafunk"
+      ],
+      "album": "Classic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27313bfa07959e98c9cbdde81b8",
+      "url": "https://open.spotify.com/track/1U9LfeByX5hkTV6CxeOQ1u",
+      "durationMs": 188976,
+      "playedAt": "2026-08-12T14:58:19.127Z"
+    },
+    {
+      "name": "Alice",
+      "artists": [
+        "Mcbaise"
+      ],
+      "album": "Wrongderful",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a80808ceb0f38e194a15bd6c",
+      "url": "https://open.spotify.com/track/7y9k6hMYX1wAMRsmGowWvz",
+      "durationMs": 320640,
+      "playedAt": "2026-08-12T14:55:13.129Z"
+    },
     {
       "name": "Black Walnut",
       "artists": [
@@ -46,83 +112,6 @@
       "url": "https://open.spotify.com/track/0f2GmiCT9BfG5ai6OfUzyx",
       "durationMs": 277106,
       "playedAt": "2026-08-12T14:43:39.628Z"
-    },
-    {
-      "name": "No Problems",
-      "artists": [
-        "Ginger Root"
-      ],
-      "album": "SHINBANGUMI",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb7e5ecc0e1513ee7a3313a5",
-      "url": "https://open.spotify.com/track/6qvkRSSx2JE3iFCi2KFZcq",
-      "durationMs": 224888,
-      "playedAt": "2026-08-12T14:38:58.920Z"
-    },
-    {
-      "name": "LGCY",
-      "artists": [
-        "Rapallo"
-      ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/3e1oWT8W1S1OI4eEtpwSj4",
-      "durationMs": 196206,
-      "playedAt": "2026-08-12T14:35:17.022Z"
-    },
-    {
-      "name": "Soul Man",
-      "artists": [
-        "Sam & Dave"
-      ],
-      "album": "Atlantic 60th: Soul, Sweat And Strut",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c584610c45a37bb87e8a5be",
-      "url": "https://open.spotify.com/track/0aebD8Phxpok5MG7pbwey5",
-      "durationMs": 156680,
-      "playedAt": "2026-08-12T02:40:27.633Z"
-    },
-    {
-      "name": "Me and Mrs. Jones",
-      "artists": [
-        "Billy Paul"
-      ],
-      "album": "R&B: From Doo-Wop To Hip-Hop",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273980caf4dd525a15f08f8cb87",
-      "url": "https://open.spotify.com/track/5GYcaVfaFBHe2gzA6Oybgj",
-      "durationMs": 285293,
-      "playedAt": "2026-08-12T02:37:53.934Z"
-    },
-    {
-      "name": "Get out of My Life Woman",
-      "artists": [
-        "Lee Dorsey"
-      ],
-      "album": "Ride Your Pony",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a575571e55ac14995c5eff2a",
-      "url": "https://open.spotify.com/track/6DNgKv1sWH2505Z5SAqAXr",
-      "durationMs": 146266,
-      "playedAt": "2026-08-12T02:33:11.621Z"
-    },
-    {
-      "name": "My World Is Empty Without You",
-      "artists": [
-        "The Supremes"
-      ],
-      "album": "I Hear A Symphony",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27316a6e92d6f1c8a02d68b4e44",
-      "url": "https://open.spotify.com/track/1kFCFfR5q4VO02KtYguXgh",
-      "durationMs": 154426,
-      "playedAt": "2026-08-12T02:30:48.382Z"
-    },
-    {
-      "name": "Boogie Down - Single Version",
-      "artists": [
-        "Eddie Kendricks"
-      ],
-      "album": "Hitsville USA, The Motown Collection 1972-1992",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27329323dd47b2b6b50e793ece5",
-      "url": "https://open.spotify.com/track/1hjZbd4ZlaCQhEpuyADSyb",
-      "durationMs": 231893,
-      "playedAt": "2026-08-12T02:28:17.029Z"
     }
   ],
   "topArtists": [
