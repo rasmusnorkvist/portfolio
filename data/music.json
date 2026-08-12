@@ -1,7 +1,30 @@
 {
-  "updatedAt": "2026-08-12T22:09:36.043Z",
+  "updatedAt": "2026-08-12T23:08:54.137Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Hypnotize - 2014 Remaster",
+      "artists": [
+        "The Notorious B.I.G."
+      ],
+      "album": "Life After Death (2014 Remastered Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j",
+      "durationMs": 229826,
+      "playedAt": "2026-08-12T22:19:04.393Z"
+    },
+    {
+      "name": "Tell Me Why",
+      "artists": [
+        "Gotts Street Park",
+        "Olive Jones"
+      ],
+      "album": "On The Inside",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ffa7cc0ea75c1e23e54ccb9",
+      "url": "https://open.spotify.com/track/7AvuIMRKdo5RvS6YIzXjsj",
+      "durationMs": 231560,
+      "playedAt": "2026-08-12T22:15:24.564Z"
+    },
     {
       "name": "Visa från Utanmyra",
       "artists": [
@@ -97,28 +120,6 @@
       "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X",
       "durationMs": 353346,
       "playedAt": "2026-08-12T21:24:35.923Z"
-    },
-    {
-      "name": "GALS4U",
-      "artists": [
-        "The Free Label"
-      ],
-      "album": "DANCING ON YOUR OWN",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739fa30cf6ab7642868b51afab",
-      "url": "https://open.spotify.com/track/6sU774APj2OZ4tLGjwbZsK",
-      "durationMs": 175297,
-      "playedAt": "2026-08-12T21:18:43.810Z"
-    },
-    {
-      "name": "Send It Back",
-      "artists": [
-        "DON WEST"
-      ],
-      "album": "Give Me All Your Love",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27378b22ab7e27a2c6dff1b2281",
-      "url": "https://open.spotify.com/track/08QVyeT5P43ll1voKgaiw8",
-      "durationMs": 173112,
-      "playedAt": "2026-08-12T18:38:34.473Z"
     }
   ],
   "topArtists": [
