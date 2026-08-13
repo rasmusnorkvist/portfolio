@@ -1,7 +1,75 @@
 {
-  "updatedAt": "2026-08-12T23:08:54.137Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-13T00:05:35.877Z",
+  "nowPlaying": {
+    "name": "Time Is On Our Side - Edit",
+    "artists": [
+      "Mad Honey",
+      "Another Taste"
+    ],
+    "album": "Setback / Time Is On Our Side",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273de1fb6658ddc6ebe8bcf0b43",
+    "url": "https://open.spotify.com/track/0D7PkDncUlv2FjOjfcQWau",
+    "durationMs": 375500,
+    "isPlaying": true,
+    "progressMs": 153511
+  },
   "recentlyPlayed": [
+    {
+      "name": "You Can't Hide From The Boogie",
+      "artists": [
+        "Donna Washington"
+      ],
+      "album": "Just For You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273808cf9edc35acbf3a29f0053",
+      "url": "https://open.spotify.com/track/7BTH8kLOUe3MTogvRRomOO",
+      "durationMs": 249660,
+      "playedAt": "2026-08-13T00:03:04.561Z"
+    },
+    {
+      "name": "Super People",
+      "artists": [
+        "Sunlightsquare"
+      ],
+      "album": "Super People / Papa Was a Rolling Stone",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3c29f81fb33dbad370d017f",
+      "url": "https://open.spotify.com/track/468C9SvUsVc5o0rFvWJiVD",
+      "durationMs": 266980,
+      "playedAt": "2026-08-12T23:59:11.063Z"
+    },
+    {
+      "name": "Sh’qweyla",
+      "artists": [
+        "Schwey"
+      ],
+      "album": "Schwey",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27310005031fa63c3bf746f31aa",
+      "url": "https://open.spotify.com/track/2Y06nxAHlwUAcfkfqWUrra",
+      "durationMs": 182385,
+      "playedAt": "2026-08-12T23:55:05.362Z"
+    },
+    {
+      "name": "Wait for the Moment",
+      "artists": [
+        "Vulfpeck",
+        "Antwaun Stanley"
+      ],
+      "album": "My First Car",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734685206d0fd6fb9a50c06a46",
+      "url": "https://open.spotify.com/track/6Sex737JxUArLplUR9hzPE",
+      "durationMs": 230676,
+      "playedAt": "2026-08-12T23:52:01.761Z"
+    },
+    {
+      "name": "Ms. Fat Booty",
+      "artists": [
+        "Mos Def"
+      ],
+      "album": "Black On Both Sides",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+      "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU",
+      "durationMs": 223546,
+      "playedAt": "2026-08-12T23:48:21.466Z"
+    },
     {
       "name": "Hypnotize - 2014 Remaster",
       "artists": [
@@ -59,67 +127,6 @@
       "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD",
       "durationMs": 234000,
       "playedAt": "2026-08-12T21:49:05.107Z"
-    },
-    {
-      "name": "Ring My Bell",
-      "artists": [
-        "Anita Ward"
-      ],
-      "album": "Ring My Bell",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733b0e0d19618f2dec4531f368",
-      "url": "https://open.spotify.com/track/7GK2KVYH8FrTC9zehmjVMd",
-      "durationMs": 491933,
-      "playedAt": "2026-08-12T21:45:47.002Z"
-    },
-    {
-      "name": "Butterfly",
-      "artists": [
-        "Crazy Town"
-      ],
-      "album": "The Gift Of Game",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273523e6f09c8962982254de0cd",
-      "url": "https://open.spotify.com/track/6GQ3WTaNHMFlVmN4burGat",
-      "durationMs": 216773,
-      "playedAt": "2026-08-12T21:37:46.651Z"
-    },
-    {
-      "name": "Music Sounds Better With You",
-      "artists": [
-        "Stardust",
-        "Benjamin Diamond",
-        "Alan Braxe",
-        "Thomas Bangalter"
-      ],
-      "album": "Music Sounds Better With You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b98afa12c212cbbda4f1799b",
-      "url": "https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt",
-      "durationMs": 403293,
-      "playedAt": "2026-08-12T21:34:37.403Z"
-    },
-    {
-      "name": "THE LONELIEST",
-      "artists": [
-        "Måneskin"
-      ],
-      "album": "RUSH!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346e72dff16a10e1b5062fdf7",
-      "url": "https://open.spotify.com/track/7exHT4swWOKL5addPeqkLP",
-      "durationMs": 247067,
-      "playedAt": "2026-08-12T21:28:39.749Z"
-    },
-    {
-      "name": "Children Of The Internet - Ezra Collective Remix",
-      "artists": [
-        "Future Utopia",
-        "Ezra Collective",
-        "Dave",
-        "Es Devlin"
-      ],
-      "album": "Children Of The Internet (Remixes)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352b047b3959d8a80fb52ad5c",
-      "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X",
-      "durationMs": 353346,
-      "playedAt": "2026-08-12T21:24:35.923Z"
     }
   ],
   "topArtists": [
