@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-13T09:39:53.624Z",
+  "updatedAt": "2026-08-13T10:58:14.761Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Groove Is in the Heart",
+      "artists": [
+        "Deee-Lite"
+      ],
+      "album": "World Clique",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cbcb5083c56df2a557625bca",
+      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb",
+      "durationMs": 231786,
+      "playedAt": "2026-08-13T04:41:02.842Z"
+    },
     {
       "name": "God Speed",
       "artists": [
@@ -100,17 +111,6 @@
       "url": "https://open.spotify.com/track/7i5VLq2laUNeVJ0DScDhV6",
       "durationMs": 224732,
       "playedAt": "2026-08-13T02:10:14.919Z"
-    },
-    {
-      "name": "Nine Ball",
-      "artists": [
-        "Zach Bryan"
-      ],
-      "album": "Nine Ball",
-      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b7436041ee04a45a66b51b3f0d",
-      "url": "https://open.spotify.com/track/1SxQ2hE4RsJoFWh3ZCRFnj",
-      "durationMs": 190954,
-      "playedAt": "2026-08-13T02:06:27.249Z"
     }
   ],
   "topArtists": [
