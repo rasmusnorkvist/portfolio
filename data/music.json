@@ -1,132 +1,116 @@
 {
-  "updatedAt": "2026-08-13T00:05:35.877Z",
-  "nowPlaying": {
-    "name": "Time Is On Our Side - Edit",
-    "artists": [
-      "Mad Honey",
-      "Another Taste"
-    ],
-    "album": "Setback / Time Is On Our Side",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273de1fb6658ddc6ebe8bcf0b43",
-    "url": "https://open.spotify.com/track/0D7PkDncUlv2FjOjfcQWau",
-    "durationMs": 375500,
-    "isPlaying": true,
-    "progressMs": 153511
-  },
+  "updatedAt": "2026-08-13T03:06:42.229Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "You Can't Hide From The Boogie",
+      "name": "God Speed",
       "artists": [
-        "Donna Washington"
+        "Zach Bryan"
       ],
-      "album": "Just For You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273808cf9edc35acbf3a29f0053",
-      "url": "https://open.spotify.com/track/7BTH8kLOUe3MTogvRRomOO",
-      "durationMs": 249660,
-      "playedAt": "2026-08-13T00:03:04.561Z"
+      "album": "DeAnn",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b003471548f17f615a0b3f67",
+      "url": "https://open.spotify.com/track/4GeyPGMzh6VwdNcaCufY9f",
+      "durationMs": 253359,
+      "playedAt": "2026-08-13T02:38:45.198Z"
     },
     {
-      "name": "Super People",
+      "name": "Revival",
       "artists": [
-        "Sunlightsquare"
+        "Zach Bryan"
       ],
-      "album": "Super People / Papa Was a Rolling Stone",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3c29f81fb33dbad370d017f",
-      "url": "https://open.spotify.com/track/468C9SvUsVc5o0rFvWJiVD",
-      "durationMs": 266980,
-      "playedAt": "2026-08-12T23:59:11.063Z"
+      "album": "Elisabeth",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f6004ce8b8f2740cfb0a5258",
+      "url": "https://open.spotify.com/track/2QfX9Pdz3q66fN3kCXl0Js",
+      "durationMs": 221250,
+      "playedAt": "2026-08-13T02:36:23.134Z"
     },
     {
-      "name": "Sh’qweyla",
+      "name": "Think As You Drunk",
       "artists": [
-        "Schwey"
+        "Riley Green"
       ],
-      "album": "Schwey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27310005031fa63c3bf746f31aa",
-      "url": "https://open.spotify.com/track/2Y06nxAHlwUAcfkfqWUrra",
-      "durationMs": 182385,
-      "playedAt": "2026-08-12T23:55:05.362Z"
+      "album": "Think As You Drunk",
+      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b78426055c9d2fc445748dc679",
+      "url": "https://open.spotify.com/track/74S1rsGHa4qrd1GE6Mv4LH",
+      "durationMs": 232448,
+      "playedAt": "2026-08-13T02:31:48.827Z"
     },
     {
-      "name": "Wait for the Moment",
+      "name": "Wanna Be Loved",
       "artists": [
-        "Vulfpeck",
-        "Antwaun Stanley"
+        "The Red Clay Strays"
       ],
-      "album": "My First Car",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734685206d0fd6fb9a50c06a46",
-      "url": "https://open.spotify.com/track/6Sex737JxUArLplUR9hzPE",
-      "durationMs": 230676,
-      "playedAt": "2026-08-12T23:52:01.761Z"
+      "album": "Wanna Be Loved",
+      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b7521928e93bb2b0b14bb13672",
+      "url": "https://open.spotify.com/track/09E0GMK7q0ox02VkLY1pXK",
+      "durationMs": 235285,
+      "playedAt": "2026-08-13T02:27:52.636Z"
     },
     {
-      "name": "Ms. Fat Booty",
+      "name": "Before He Cheats",
       "artists": [
-        "Mos Def"
+        "Carrie Underwood"
       ],
-      "album": "Black On Both Sides",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
-      "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU",
-      "durationMs": 223546,
-      "playedAt": "2026-08-12T23:48:21.466Z"
+      "album": "Before He Cheats",
+      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b7bba1d80dbbfb090d3b69f636",
+      "url": "https://open.spotify.com/track/1jrzTVxmhiHAN2z9ryxAMu",
+      "durationMs": 198080,
+      "playedAt": "2026-08-13T02:23:54.447Z"
     },
     {
-      "name": "Hypnotize - 2014 Remaster",
+      "name": "Better Me For You (Brown Eyes)",
       "artists": [
-        "The Notorious B.I.G."
+        "Max McNown"
       ],
-      "album": "Life After Death (2014 Remastered Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
-      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j",
-      "durationMs": 229826,
-      "playedAt": "2026-08-12T22:19:04.393Z"
+      "album": "Better Me For You (Brown Eyes)",
+      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b777002c1dd5e0a64fb47eb337",
+      "url": "https://open.spotify.com/track/2vyHzYoayHqwyiEHXug4wb",
+      "durationMs": 194954,
+      "playedAt": "2026-08-13T02:20:34.047Z"
     },
     {
-      "name": "Tell Me Why",
+      "name": "I Got Better",
       "artists": [
-        "Gotts Street Park",
-        "Olive Jones"
+        "Morgan Wallen"
       ],
-      "album": "On The Inside",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ffa7cc0ea75c1e23e54ccb9",
-      "url": "https://open.spotify.com/track/7AvuIMRKdo5RvS6YIzXjsj",
-      "durationMs": 231560,
-      "playedAt": "2026-08-12T22:15:24.564Z"
+      "album": "I Got Better",
+      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b75774ccc17281c41500eebc9c",
+      "url": "https://open.spotify.com/track/6UmOKYsdq2kDa79S6Ivt6h",
+      "durationMs": 212470,
+      "playedAt": "2026-08-13T02:17:16.315Z"
     },
     {
-      "name": "Visa från Utanmyra",
+      "name": "weren't for the wind",
       "artists": [
-        "Jan Johansson"
+        "Ella Langley"
       ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
-      "durationMs": 273800,
-      "playedAt": "2026-08-12T21:57:00.722Z"
+      "album": "weren't for the wind",
+      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b72de6d4413c251dd531418f45",
+      "url": "https://open.spotify.com/track/70inPA7KaAWokGWRGlVZZF",
+      "durationMs": 202837,
+      "playedAt": "2026-08-13T02:13:40.663Z"
     },
     {
-      "name": "King of My Castle (Roy Malone's King Radio Edit)",
+      "name": "Worst Way",
       "artists": [
-        "Wamdue Project",
-        "Roy Malone"
+        "Riley Green"
       ],
-      "album": "King Of My Castle (Mixes)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273478b1bf3c8a06e07c48572ab",
-      "url": "https://open.spotify.com/track/5ov3LhsdEifKENMIlLCuJo",
-      "durationMs": 209026,
-      "playedAt": "2026-08-12T21:52:31.820Z"
+      "album": "Worst Way",
+      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b7d58d161621469970e1e9c472",
+      "url": "https://open.spotify.com/track/7i5VLq2laUNeVJ0DScDhV6",
+      "durationMs": 224732,
+      "playedAt": "2026-08-13T02:10:14.919Z"
     },
     {
-      "name": "The Way You Move (feat. Sleepy Brown)",
+      "name": "Nine Ball",
       "artists": [
-        "Outkast",
-        "Sleepy Brown"
+        "Zach Bryan"
       ],
-      "album": "Speakerboxxx/The Love Below",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736e88eb6508fd94cd1b745ce2",
-      "url": "https://open.spotify.com/track/5z7mYFfhw6N6f23VwrokJD",
-      "durationMs": 234000,
-      "playedAt": "2026-08-12T21:49:05.107Z"
+      "album": "Nine Ball",
+      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b7436041ee04a45a66b51b3f0d",
+      "url": "https://open.spotify.com/track/1SxQ2hE4RsJoFWh3ZCRFnj",
+      "durationMs": 190954,
+      "playedAt": "2026-08-13T02:06:27.249Z"
     }
   ],
   "topArtists": [
@@ -155,15 +139,15 @@
       "genres": []
     },
     {
-      "name": "Måneskin",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f",
-      "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr",
-      "genres": []
-    },
-    {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
+      "genres": []
+    },
+    {
+      "name": "Labyrint",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8c253702a29d143fb8de5039",
+      "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo",
       "genres": []
     },
     {
@@ -173,9 +157,9 @@
       "genres": []
     },
     {
-      "name": "Labyrint",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8c253702a29d143fb8de5039",
-      "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo",
+      "name": "Måneskin",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f",
+      "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr",
       "genres": []
     }
   ],
