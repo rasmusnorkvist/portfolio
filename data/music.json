@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T10:58:14.761Z",
+  "updatedAt": "2026-08-13T11:51:25.792Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -133,12 +133,6 @@
       "genres": []
     },
     {
-      "name": "The Waterboys",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb17d1c7c884ca5bf543aa0165",
-      "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ",
-      "genres": []
-    },
-    {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
@@ -160,6 +154,12 @@
       "name": "Måneskin",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f",
       "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr",
+      "genres": []
+    },
+    {
+      "name": "The Waterboys",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb17d1c7c884ca5bf543aa0165",
+      "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ",
       "genres": []
     }
   ],
