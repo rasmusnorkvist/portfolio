@@ -1,116 +1,117 @@
 {
-  "updatedAt": "2026-08-13T13:00:55.881Z",
+  "updatedAt": "2026-08-13T15:55:58.292Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Groove Is in the Heart",
+      "name": "Dancing In The Street",
       "artists": [
-        "Deee-Lite"
+        "Martha Reeves & The Vandellas"
       ],
-      "album": "World Clique",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cbcb5083c56df2a557625bca",
-      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb",
-      "durationMs": 231786,
-      "playedAt": "2026-08-13T04:41:02.842Z"
+      "album": "Dance Party",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fc466e0c9ac165ac85ddbedf",
+      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q",
+      "durationMs": 165226,
+      "playedAt": "2026-08-13T15:01:43.358Z"
     },
     {
-      "name": "God Speed",
+      "name": "I Can't Get Next To You",
       "artists": [
-        "Zach Bryan"
+        "The Temptations"
       ],
-      "album": "DeAnn",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b003471548f17f615a0b3f67",
-      "url": "https://open.spotify.com/track/4GeyPGMzh6VwdNcaCufY9f",
-      "durationMs": 253359,
-      "playedAt": "2026-08-13T02:38:45.198Z"
+      "album": "Puzzle People",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc89de040bec0294d3104fa5",
+      "url": "https://open.spotify.com/track/6aL6pPBaTMGgM558mplSnj",
+      "durationMs": 174933,
+      "playedAt": "2026-08-13T14:59:00.959Z"
     },
     {
-      "name": "Revival",
+      "name": "Hang On In There Baby",
       "artists": [
-        "Zach Bryan"
+        "Johnny Bristol"
       ],
-      "album": "Elisabeth",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f6004ce8b8f2740cfb0a5258",
-      "url": "https://open.spotify.com/track/2QfX9Pdz3q66fN3kCXl0Js",
-      "durationMs": 221250,
-      "playedAt": "2026-08-13T02:36:23.134Z"
+      "album": "Hang On In There Baby",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c836bcb8a0d4d4155195d2c1",
+      "url": "https://open.spotify.com/track/4RYNJVKgNpwSZguajVfsef",
+      "durationMs": 233720,
+      "playedAt": "2026-08-13T14:56:09.059Z"
     },
     {
-      "name": "Think As You Drunk",
+      "name": "See See Rider",
       "artists": [
-        "Riley Green"
+        "LaVern Baker"
       ],
-      "album": "Think As You Drunk",
-      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b78426055c9d2fc445748dc679",
-      "url": "https://open.spotify.com/track/74S1rsGHa4qrd1GE6Mv4LH",
-      "durationMs": 232448,
-      "playedAt": "2026-08-13T02:31:48.827Z"
+      "album": "See See Rider",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c5a4dae52d5d9b815f47b279",
+      "url": "https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO",
+      "durationMs": 150426,
+      "playedAt": "2026-08-13T14:52:18.457Z"
     },
     {
-      "name": "Wanna Be Loved",
+      "name": "Tramp",
       "artists": [
-        "The Red Clay Strays"
+        "Otis Redding",
+        "Carla Thomas"
       ],
-      "album": "Wanna Be Loved",
-      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b7521928e93bb2b0b14bb13672",
-      "url": "https://open.spotify.com/track/09E0GMK7q0ox02VkLY1pXK",
-      "durationMs": 235285,
-      "playedAt": "2026-08-13T02:27:52.636Z"
+      "album": "Definitive Soul: Otis Redding",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734f8ad06d7716ad493913fa29",
+      "url": "https://open.spotify.com/track/5gxGKPB1P3b4P4vWU2Fjzv",
+      "durationMs": 181253,
+      "playedAt": "2026-08-13T14:49:50.934Z"
     },
     {
-      "name": "Before He Cheats",
+      "name": "Rainy Night in Georgia",
       "artists": [
-        "Carrie Underwood"
+        "Brook Benton"
       ],
-      "album": "Before He Cheats",
-      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b7bba1d80dbbfb090d3b69f636",
-      "url": "https://open.spotify.com/track/1jrzTVxmhiHAN2z9ryxAMu",
-      "durationMs": 198080,
-      "playedAt": "2026-08-13T02:23:54.447Z"
+      "album": "The Platinum Collection",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733bbf69db599d8468d995eea8",
+      "url": "https://open.spotify.com/track/1mRmNpeDpEbPXQluq7hmTe",
+      "durationMs": 228893,
+      "playedAt": "2026-08-13T14:46:52.708Z"
     },
     {
-      "name": "Better Me For You (Brown Eyes)",
+      "name": "I Got You (I Feel Good)",
       "artists": [
-        "Max McNown"
+        "James Brown"
       ],
-      "album": "Better Me For You (Brown Eyes)",
-      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b777002c1dd5e0a64fb47eb337",
-      "url": "https://open.spotify.com/track/2vyHzYoayHqwyiEHXug4wb",
-      "durationMs": 194954,
-      "playedAt": "2026-08-13T02:20:34.047Z"
+      "album": "How To Eat Fried Worms (Music From The Motion Picture)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734366547fcbe37beee8d09ce2",
+      "url": "https://open.spotify.com/track/6aPtuII3nyrn1dcxx30KsW",
+      "durationMs": 165666,
+      "playedAt": "2026-08-13T14:43:06.925Z"
     },
     {
-      "name": "I Got Better",
+      "name": "Groove Me",
       "artists": [
-        "Morgan Wallen"
+        "King Floyd"
       ],
-      "album": "I Got Better",
-      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b75774ccc17281c41500eebc9c",
-      "url": "https://open.spotify.com/track/6UmOKYsdq2kDa79S6Ivt6h",
-      "durationMs": 212470,
-      "playedAt": "2026-08-13T02:17:16.315Z"
+      "album": "King Floyd",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273304772c154c32c6fb08c731f",
+      "url": "https://open.spotify.com/track/1sG3M0yjIYweejCR9Amyh6",
+      "durationMs": 183266,
+      "playedAt": "2026-08-13T14:40:24.320Z"
     },
     {
-      "name": "weren't for the wind",
+      "name": "I Never Loved a Man (The Way I Love You)",
       "artists": [
-        "Ella Langley"
+        "Aretha Franklin"
       ],
-      "album": "weren't for the wind",
-      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b72de6d4413c251dd531418f45",
-      "url": "https://open.spotify.com/track/70inPA7KaAWokGWRGlVZZF",
-      "durationMs": 202837,
-      "playedAt": "2026-08-13T02:13:40.663Z"
+      "album": "I Never Loved a Man the Way I Love You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac",
+      "url": "https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0",
+      "durationMs": 171773,
+      "playedAt": "2026-08-13T14:37:23.928Z"
     },
     {
-      "name": "Worst Way",
+      "name": "If You Don't Want My Love",
       "artists": [
-        "Riley Green"
+        "Jalen Ngonda"
       ],
-      "album": "Worst Way",
-      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b7d58d161621469970e1e9c472",
-      "url": "https://open.spotify.com/track/7i5VLq2laUNeVJ0DScDhV6",
-      "durationMs": 224732,
-      "playedAt": "2026-08-13T02:10:14.919Z"
+      "album": "Come Around and Love Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273753a720a9845b697d8a120f6",
+      "url": "https://open.spotify.com/track/4A48ckONJNoXU5smWT9CeG",
+      "durationMs": 146813,
+      "playedAt": "2026-08-13T14:23:50.064Z"
     }
   ],
   "topArtists": [
@@ -157,9 +158,9 @@
       "genres": []
     },
     {
-      "name": "The Waterboys",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb17d1c7c884ca5bf543aa0165",
-      "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ",
+      "name": "Rapallo",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
+      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
       "genres": []
     }
   ],
