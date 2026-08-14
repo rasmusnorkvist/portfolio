@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-08-14T17:26:56.018Z",
+  "updatedAt": "2026-08-14T18:24:44.933Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Tess",
+      "artists": [
+        "Peter LeMarc"
+      ],
+      "album": "Bok med blanka sidor",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736224f1f20e9f1962acf81735",
+      "url": "https://open.spotify.com/track/3lLh4EHR2PBdmBFrMDIIuC",
+      "durationMs": 216520,
+      "playedAt": "2026-08-14T17:53:11.326Z"
+    },
+    {
+      "name": "Gröna små äpplen",
+      "artists": [
+        "Monica Zetterlund"
+      ],
+      "album": "Gröna små äpplen",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a9db86fbb61e5eed80bf2d37",
+      "url": "https://open.spotify.com/track/0dtE42FDoz08Aa9i7EWUI2",
+      "durationMs": 225213,
+      "playedAt": "2026-08-14T17:49:37.811Z"
+    },
+    {
+      "name": "Vem kan segla förutan vind?",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Musik genom fyra sekler",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e90b34f2ec4c3e6adb1e86c8",
+      "url": "https://open.spotify.com/track/69mGxme2zc2L6vqFFWcIJX",
+      "durationMs": 199426,
+      "playedAt": "2026-08-14T17:45:38.232Z"
+    },
     {
       "name": "Här kommer Pippi Långstrump",
       "artists": [
@@ -85,42 +118,6 @@
       "url": "https://open.spotify.com/track/4a4E6idBPkJVKpQhjXEOmX",
       "durationMs": 215586,
       "playedAt": "2026-08-14T14:44:39.924Z"
-    },
-    {
-      "name": "Polka från Jämtland",
-      "artists": [
-        "Jan Johansson",
-        "Georg Riedel"
-      ],
-      "album": "Jan Johansson in Hamburg with Georg Riedel",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
-      "url": "https://open.spotify.com/track/1hlXdXjshd1xBPkfA6B2il",
-      "durationMs": 139733,
-      "playedAt": "2026-08-14T14:41:04.356Z"
-    },
-    {
-      "name": "Sommar Adjö",
-      "artists": [
-        "Jan Johansson",
-        "Georg Riedel"
-      ],
-      "album": "Jan Johansson in Hamburg with Georg Riedel",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
-      "url": "https://open.spotify.com/track/0gJ6MryGPTyMJaK9EKRVIM",
-      "durationMs": 233453,
-      "playedAt": "2026-08-14T14:38:44.653Z"
-    },
-    {
-      "name": "Gånglek från Älvdalen",
-      "artists": [
-        "Jan Johansson",
-        "Georg Riedel"
-      ],
-      "album": "Jan Johansson in Hamburg with Georg Riedel",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
-      "url": "https://open.spotify.com/track/67Jbl3rilUlTvt7vCUcXfG",
-      "durationMs": 116640,
-      "playedAt": "2026-08-14T14:34:51.153Z"
     }
   ],
   "topArtists": [
