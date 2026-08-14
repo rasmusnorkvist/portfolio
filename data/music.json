@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-14T22:18:08.491Z",
+  "updatedAt": "2026-08-14T22:48:08.140Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Berget",
+      "artists": [
+        "Dina Ögon"
+      ],
+      "album": "Oas",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27347f29db19cce35a81aa12888",
+      "url": "https://open.spotify.com/track/7gdRvpMZATkoCadNtNDZyH",
+      "durationMs": 198828,
+      "playedAt": "2026-08-14T22:44:36.417Z"
+    },
+    {
+      "name": "I WANNA BE YOUR SLAVE",
+      "artists": [
+        "Måneskin"
+      ],
+      "album": "Teatro d'ira - Vol. I",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21",
+      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk",
+      "durationMs": 173346,
+      "playedAt": "2026-08-14T22:41:17.971Z"
+    },
+    {
+      "name": "Here I Go Again",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "Last Man Standing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
+      "url": "https://open.spotify.com/track/3BCEmscmbx9dhPH76Ipc7R",
+      "durationMs": 233666,
+      "playedAt": "2026-08-14T22:38:31.670Z"
+    },
+    {
+      "name": "The Alkalite",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/4AlEDesuRd6npBdFHVkfPT",
+      "durationMs": 248568,
+      "playedAt": "2026-08-14T22:31:11.180Z"
+    },
     {
       "name": "Tess",
       "artists": [
@@ -70,54 +114,6 @@
       "url": "https://open.spotify.com/track/15krOacrFmIignmZyUXnct",
       "durationMs": 240346,
       "playedAt": "2026-08-14T15:03:35.205Z"
-    },
-    {
-      "name": "Dimma i dag",
-      "artists": [
-        "Jan Johansson",
-        "Georg Riedel"
-      ],
-      "album": "Jan Johansson in Hamburg with Georg Riedel",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
-      "url": "https://open.spotify.com/track/2yyZNchPzxMn9jcO65ALkZ",
-      "durationMs": 255653,
-      "playedAt": "2026-08-14T14:59:34.869Z"
-    },
-    {
-      "name": "Fem",
-      "artists": [
-        "Jan Johansson",
-        "Georg Riedel"
-      ],
-      "album": "Jan Johansson in Hamburg with Georg Riedel",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
-      "url": "https://open.spotify.com/track/4P0W0ug4utjR8kgTCDwJnq",
-      "durationMs": 220306,
-      "playedAt": "2026-08-14T14:55:19.213Z"
-    },
-    {
-      "name": "Yesterdays",
-      "artists": [
-        "Jan Johansson",
-        "Georg Riedel"
-      ],
-      "album": "Jan Johansson in Hamburg with Georg Riedel",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
-      "url": "https://open.spotify.com/track/1CWkQAs0BDrNR44nUlgKdb",
-      "durationMs": 419040,
-      "playedAt": "2026-08-14T14:51:38.909Z"
-    },
-    {
-      "name": "Visa från Rättvik",
-      "artists": [
-        "Jan Johansson",
-        "Georg Riedel"
-      ],
-      "album": "Jan Johansson in Hamburg with Georg Riedel",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
-      "url": "https://open.spotify.com/track/4a4E6idBPkJVKpQhjXEOmX",
-      "durationMs": 215586,
-      "playedAt": "2026-08-14T14:44:39.924Z"
     }
   ],
   "topArtists": [
