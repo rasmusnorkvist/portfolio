@@ -1,18 +1,74 @@
 {
-  "updatedAt": "2026-08-14T01:38:26.742Z",
-  "nowPlaying": {
-    "name": "Soup for One",
-    "artists": [
-      "CHIC"
-    ],
-    "album": "Dance, Dance, Dance: The Best of Chic",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273966507d369a0de6da093d5f1",
-    "url": "https://open.spotify.com/track/2Rr4ZOnKXUrzjhMPkmkRjK",
-    "durationMs": 335066,
-    "isPlaying": true,
-    "progressMs": 103014
-  },
+  "updatedAt": "2026-08-14T04:04:19.211Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Okay Okay",
+      "artists": [
+        "Pino D'Angiò"
+      ],
+      "album": "Italian Classics: Pino D'Angiò Collection, Vol. 1",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cad8789bb4e3de4e81ece093",
+      "url": "https://open.spotify.com/track/6W0PqAtbW7fkTRBtmwOwfM",
+      "durationMs": 258399,
+      "playedAt": "2026-08-14T02:11:07.197Z"
+    },
+    {
+      "name": "Nights on Broadway",
+      "artists": [
+        "Candi Staton"
+      ],
+      "album": "Music Speaks Louder Than Words",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738de72b42bf9c1f177288c86c",
+      "url": "https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x",
+      "durationMs": 209826,
+      "playedAt": "2026-08-14T02:06:51.645Z"
+    },
+    {
+      "name": "I'm Every Woman",
+      "artists": [
+        "Chaka Khan"
+      ],
+      "album": "Chaka",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273622e8921ae2d4a48b508be5e",
+      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl",
+      "durationMs": 249600,
+      "playedAt": "2026-08-14T02:03:24.870Z"
+    },
+    {
+      "name": "He's The Greatest Dancer - Dimitri From Paris Remix",
+      "artists": [
+        "Sister Sledge",
+        "Dimitri From Paris"
+      ],
+      "album": "Dimitri From Paris presents Le CHIC Remix",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733ea056efbfc4b1507b700db4",
+      "url": "https://open.spotify.com/track/5SBnRk7wrngBhbptBZbhd6",
+      "durationMs": 368002,
+      "playedAt": "2026-08-14T01:59:18.397Z"
+    },
+    {
+      "name": "I Want Your Love - 2018 Remaster",
+      "artists": [
+        "CHIC"
+      ],
+      "album": "C'est Chic (2018 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e37d5190acaf635f06cfcc4b",
+      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq",
+      "durationMs": 413586,
+      "playedAt": "2026-08-14T01:53:13.236Z"
+    },
+    {
+      "name": "Soup for One",
+      "artists": [
+        "CHIC"
+      ],
+      "album": "Dance, Dance, Dance: The Best of Chic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273966507d369a0de6da093d5f1",
+      "url": "https://open.spotify.com/track/2Rr4ZOnKXUrzjhMPkmkRjK",
+      "durationMs": 335066,
+      "playedAt": "2026-08-14T01:42:18.645Z"
+    },
     {
       "name": "Dancing In The Street",
       "artists": [
@@ -56,73 +112,6 @@
       "url": "https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO",
       "durationMs": 150426,
       "playedAt": "2026-08-13T14:52:18.457Z"
-    },
-    {
-      "name": "Tramp",
-      "artists": [
-        "Otis Redding",
-        "Carla Thomas"
-      ],
-      "album": "Definitive Soul: Otis Redding",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734f8ad06d7716ad493913fa29",
-      "url": "https://open.spotify.com/track/5gxGKPB1P3b4P4vWU2Fjzv",
-      "durationMs": 181253,
-      "playedAt": "2026-08-13T14:49:50.934Z"
-    },
-    {
-      "name": "Rainy Night in Georgia",
-      "artists": [
-        "Brook Benton"
-      ],
-      "album": "The Platinum Collection",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733bbf69db599d8468d995eea8",
-      "url": "https://open.spotify.com/track/1mRmNpeDpEbPXQluq7hmTe",
-      "durationMs": 228893,
-      "playedAt": "2026-08-13T14:46:52.708Z"
-    },
-    {
-      "name": "I Got You (I Feel Good)",
-      "artists": [
-        "James Brown"
-      ],
-      "album": "How To Eat Fried Worms (Music From The Motion Picture)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734366547fcbe37beee8d09ce2",
-      "url": "https://open.spotify.com/track/6aPtuII3nyrn1dcxx30KsW",
-      "durationMs": 165666,
-      "playedAt": "2026-08-13T14:43:06.925Z"
-    },
-    {
-      "name": "Groove Me",
-      "artists": [
-        "King Floyd"
-      ],
-      "album": "King Floyd",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273304772c154c32c6fb08c731f",
-      "url": "https://open.spotify.com/track/1sG3M0yjIYweejCR9Amyh6",
-      "durationMs": 183266,
-      "playedAt": "2026-08-13T14:40:24.320Z"
-    },
-    {
-      "name": "I Never Loved a Man (The Way I Love You)",
-      "artists": [
-        "Aretha Franklin"
-      ],
-      "album": "I Never Loved a Man the Way I Love You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac",
-      "url": "https://open.spotify.com/track/1hES47PrbU8GPTI5A9lsr0",
-      "durationMs": 171773,
-      "playedAt": "2026-08-13T14:37:23.928Z"
-    },
-    {
-      "name": "If You Don't Want My Love",
-      "artists": [
-        "Jalen Ngonda"
-      ],
-      "album": "Come Around and Love Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273753a720a9845b697d8a120f6",
-      "url": "https://open.spotify.com/track/4A48ckONJNoXU5smWT9CeG",
-      "durationMs": 146813,
-      "playedAt": "2026-08-13T14:23:50.064Z"
     }
   ],
   "topArtists": [
@@ -163,15 +152,15 @@
       "genres": []
     },
     {
-      "name": "Måneskin",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f",
-      "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr",
-      "genres": []
-    },
-    {
       "name": "Rapallo",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
       "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
+      "genres": []
+    },
+    {
+      "name": "The Pharcyde",
+      "imageUrl": "https://i.scdn.co/image/db124909dcc277881bf55ed159bd417d82e2ced1",
+      "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w",
       "genres": []
     }
   ],
