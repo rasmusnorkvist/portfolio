@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-13T23:36:51.794Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-14T01:38:26.742Z",
+  "nowPlaying": {
+    "name": "Soup for One",
+    "artists": [
+      "CHIC"
+    ],
+    "album": "Dance, Dance, Dance: The Best of Chic",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273966507d369a0de6da093d5f1",
+    "url": "https://open.spotify.com/track/2Rr4ZOnKXUrzjhMPkmkRjK",
+    "durationMs": 335066,
+    "isPlaying": true,
+    "progressMs": 103014
+  },
   "recentlyPlayed": [
     {
       "name": "Dancing In The Street",
