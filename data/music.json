@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T18:24:44.933Z",
+  "updatedAt": "2026-08-14T19:27:42.951Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -128,15 +128,15 @@
       "genres": []
     },
     {
-      "name": "E-Type",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
-      "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
-      "genres": []
-    },
-    {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
+      "genres": []
+    },
+    {
+      "name": "E-Type",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
+      "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
       "genres": []
     },
     {
