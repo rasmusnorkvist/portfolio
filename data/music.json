@@ -1,117 +1,126 @@
 {
-  "updatedAt": "2026-08-14T14:16:07.691Z",
+  "updatedAt": "2026-08-14T15:20:42.537Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Okay Okay",
+      "name": "Här kommer Pippi Långstrump",
       "artists": [
-        "Pino D'Angiò"
+        "Jan Johansson",
+        "Georg Riedel"
       ],
-      "album": "Italian Classics: Pino D'Angiò Collection, Vol. 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cad8789bb4e3de4e81ece093",
-      "url": "https://open.spotify.com/track/6W0PqAtbW7fkTRBtmwOwfM",
-      "durationMs": 258399,
-      "playedAt": "2026-08-14T02:11:07.197Z"
+      "album": "Jan Johansson in Hamburg with Georg Riedel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
+      "url": "https://open.spotify.com/track/0DoxFR9Am9lCxNtGF0F9Xr",
+      "durationMs": 270906,
+      "playedAt": "2026-08-14T15:13:53.790Z"
     },
     {
-      "name": "Nights on Broadway",
+      "name": "3,2,1 - go!",
       "artists": [
-        "Candi Staton"
+        "Jan Johansson",
+        "Georg Riedel"
       ],
-      "album": "Music Speaks Louder Than Words",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738de72b42bf9c1f177288c86c",
-      "url": "https://open.spotify.com/track/30ZrzK67a7FoDiBfDSlU1x",
-      "durationMs": 209826,
-      "playedAt": "2026-08-14T02:06:51.645Z"
+      "album": "Jan Johansson in Hamburg with Georg Riedel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
+      "url": "https://open.spotify.com/track/7FILGmOkaaV1LDYunpGMLW",
+      "durationMs": 347706,
+      "playedAt": "2026-08-14T15:09:22.878Z"
     },
     {
-      "name": "I'm Every Woman",
+      "name": "Vals från Delsbo",
       "artists": [
-        "Chaka Khan"
+        "Jan Johansson",
+        "Georg Riedel"
       ],
-      "album": "Chaka",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273622e8921ae2d4a48b508be5e",
-      "url": "https://open.spotify.com/track/1oFiPGBafH9Woo9AMwgBSl",
-      "durationMs": 249600,
-      "playedAt": "2026-08-14T02:03:24.870Z"
+      "album": "Jan Johansson in Hamburg with Georg Riedel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
+      "url": "https://open.spotify.com/track/15krOacrFmIignmZyUXnct",
+      "durationMs": 240346,
+      "playedAt": "2026-08-14T15:03:35.205Z"
     },
     {
-      "name": "He's The Greatest Dancer - Dimitri From Paris Remix",
+      "name": "Dimma i dag",
       "artists": [
-        "Sister Sledge",
-        "Dimitri From Paris"
+        "Jan Johansson",
+        "Georg Riedel"
       ],
-      "album": "Dimitri From Paris presents Le CHIC Remix",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733ea056efbfc4b1507b700db4",
-      "url": "https://open.spotify.com/track/5SBnRk7wrngBhbptBZbhd6",
-      "durationMs": 368002,
-      "playedAt": "2026-08-14T01:59:18.397Z"
+      "album": "Jan Johansson in Hamburg with Georg Riedel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
+      "url": "https://open.spotify.com/track/2yyZNchPzxMn9jcO65ALkZ",
+      "durationMs": 255653,
+      "playedAt": "2026-08-14T14:59:34.869Z"
     },
     {
-      "name": "I Want Your Love - 2018 Remaster",
+      "name": "Fem",
       "artists": [
-        "CHIC"
+        "Jan Johansson",
+        "Georg Riedel"
       ],
-      "album": "C'est Chic (2018 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e37d5190acaf635f06cfcc4b",
-      "url": "https://open.spotify.com/track/7ooheiWgbyNtGOBTPbjNoq",
-      "durationMs": 413586,
-      "playedAt": "2026-08-14T01:53:13.236Z"
+      "album": "Jan Johansson in Hamburg with Georg Riedel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
+      "url": "https://open.spotify.com/track/4P0W0ug4utjR8kgTCDwJnq",
+      "durationMs": 220306,
+      "playedAt": "2026-08-14T14:55:19.213Z"
     },
     {
-      "name": "Soup for One",
+      "name": "Yesterdays",
       "artists": [
-        "CHIC"
+        "Jan Johansson",
+        "Georg Riedel"
       ],
-      "album": "Dance, Dance, Dance: The Best of Chic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273966507d369a0de6da093d5f1",
-      "url": "https://open.spotify.com/track/2Rr4ZOnKXUrzjhMPkmkRjK",
-      "durationMs": 335066,
-      "playedAt": "2026-08-14T01:42:18.645Z"
+      "album": "Jan Johansson in Hamburg with Georg Riedel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
+      "url": "https://open.spotify.com/track/1CWkQAs0BDrNR44nUlgKdb",
+      "durationMs": 419040,
+      "playedAt": "2026-08-14T14:51:38.909Z"
     },
     {
-      "name": "Dancing In The Street",
+      "name": "Visa från Rättvik",
       "artists": [
-        "Martha Reeves & The Vandellas"
+        "Jan Johansson",
+        "Georg Riedel"
       ],
-      "album": "Dance Party",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fc466e0c9ac165ac85ddbedf",
-      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q",
-      "durationMs": 165226,
-      "playedAt": "2026-08-13T15:01:43.358Z"
+      "album": "Jan Johansson in Hamburg with Georg Riedel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
+      "url": "https://open.spotify.com/track/4a4E6idBPkJVKpQhjXEOmX",
+      "durationMs": 215586,
+      "playedAt": "2026-08-14T14:44:39.924Z"
     },
     {
-      "name": "I Can't Get Next To You",
+      "name": "Polka från Jämtland",
       "artists": [
-        "The Temptations"
+        "Jan Johansson",
+        "Georg Riedel"
       ],
-      "album": "Puzzle People",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc89de040bec0294d3104fa5",
-      "url": "https://open.spotify.com/track/6aL6pPBaTMGgM558mplSnj",
-      "durationMs": 174933,
-      "playedAt": "2026-08-13T14:59:00.959Z"
+      "album": "Jan Johansson in Hamburg with Georg Riedel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
+      "url": "https://open.spotify.com/track/1hlXdXjshd1xBPkfA6B2il",
+      "durationMs": 139733,
+      "playedAt": "2026-08-14T14:41:04.356Z"
     },
     {
-      "name": "Hang On In There Baby",
+      "name": "Sommar Adjö",
       "artists": [
-        "Johnny Bristol"
+        "Jan Johansson",
+        "Georg Riedel"
       ],
-      "album": "Hang On In There Baby",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c836bcb8a0d4d4155195d2c1",
-      "url": "https://open.spotify.com/track/4RYNJVKgNpwSZguajVfsef",
-      "durationMs": 233720,
-      "playedAt": "2026-08-13T14:56:09.059Z"
+      "album": "Jan Johansson in Hamburg with Georg Riedel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
+      "url": "https://open.spotify.com/track/0gJ6MryGPTyMJaK9EKRVIM",
+      "durationMs": 233453,
+      "playedAt": "2026-08-14T14:38:44.653Z"
     },
     {
-      "name": "See See Rider",
+      "name": "Gånglek från Älvdalen",
       "artists": [
-        "LaVern Baker"
+        "Jan Johansson",
+        "Georg Riedel"
       ],
-      "album": "See See Rider",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c5a4dae52d5d9b815f47b279",
-      "url": "https://open.spotify.com/track/1MW7hcqDWh0ODZA5hVunaO",
-      "durationMs": 150426,
-      "playedAt": "2026-08-13T14:52:18.457Z"
+      "album": "Jan Johansson in Hamburg with Georg Riedel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
+      "url": "https://open.spotify.com/track/67Jbl3rilUlTvt7vCUcXfG",
+      "durationMs": 116640,
+      "playedAt": "2026-08-14T14:34:51.153Z"
     }
   ],
   "topArtists": [
@@ -128,15 +137,15 @@
       "genres": []
     },
     {
-      "name": "Paul Simon",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
-      "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
-      "genres": []
-    },
-    {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
+      "genres": []
+    },
+    {
+      "name": "Paul Simon",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
+      "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
       "genres": []
     },
     {
