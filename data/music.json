@@ -1,19 +1,90 @@
 {
-  "updatedAt": "2026-08-14T23:17:34.496Z",
+  "updatedAt": "2026-08-14T23:45:54.235Z",
   "nowPlaying": {
-    "name": "On The Grind",
+    "name": "The Boy In the Bubble",
     "artists": [
-      "Supersci",
-      "Chords"
+      "Paul Simon"
     ],
-    "album": "Pinetrees On The Pavement",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8729fbc083cd2b468a0702c",
-    "url": "https://open.spotify.com/track/1LZ56yhDe3Jf1WJ75mzjGv",
-    "durationMs": 305720,
+    "album": "Graceland (25th Anniversary Deluxe Edition)",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
+    "url": "https://open.spotify.com/track/00IrSynHsun7DpDrLkRIjM",
+    "durationMs": 239133,
     "isPlaying": true,
-    "progressMs": 65288
+    "progressMs": 84554
   },
   "recentlyPlayed": [
+    {
+      "name": "SpottieOttieDopaliscious",
+      "artists": [
+        "Outkast"
+      ],
+      "album": "Aquemini",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e2352cc20602d45e9a0e7617",
+      "url": "https://open.spotify.com/track/4GdB5M7GbwLZLouktYocFC",
+      "durationMs": 426859,
+      "playedAt": "2026-08-14T23:44:44.633Z"
+    },
+    {
+      "name": "Music Sounds Better With You",
+      "artists": [
+        "Stardust",
+        "Benjamin Diamond",
+        "Alan Braxe",
+        "Thomas Bangalter"
+      ],
+      "album": "Music Sounds Better With You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b98afa12c212cbbda4f1799b",
+      "url": "https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt",
+      "durationMs": 403293,
+      "playedAt": "2026-08-14T23:38:04.372Z"
+    },
+    {
+      "name": "You Get What You Give",
+      "artists": [
+        "New Radicals"
+      ],
+      "album": "Maybe You've Been Brainwashed Too",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dfdedd4553b40bbaab342dae",
+      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF",
+      "durationMs": 300773,
+      "playedAt": "2026-08-14T23:32:14.632Z"
+    },
+    {
+      "name": "Rapp Snitch Knishes",
+      "artists": [
+        "MF DOOM",
+        "Mr. Fantastik"
+      ],
+      "album": "MM..FOOD",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352f194d02c39909d1b284799",
+      "url": "https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI",
+      "durationMs": 172893,
+      "playedAt": "2026-08-14T23:27:34.475Z"
+    },
+    {
+      "name": "A Horse with No Name",
+      "artists": [
+        "America",
+        "George Martin"
+      ],
+      "album": "America",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
+      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt",
+      "durationMs": 252239,
+      "playedAt": "2026-08-14T23:24:39.778Z"
+    },
+    {
+      "name": "On The Grind",
+      "artists": [
+        "Supersci",
+        "Chords"
+      ],
+      "album": "Pinetrees On The Pavement",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8729fbc083cd2b468a0702c",
+      "url": "https://open.spotify.com/track/1LZ56yhDe3Jf1WJ75mzjGv",
+      "durationMs": 305720,
+      "playedAt": "2026-08-14T23:21:05.477Z"
+    },
     {
       "name": "Repa skivan (feat. AFC)",
       "artists": [
@@ -68,72 +139,6 @@
       "url": "https://open.spotify.com/track/7gdRvpMZATkoCadNtNDZyH",
       "durationMs": 198828,
       "playedAt": "2026-08-14T22:44:36.417Z"
-    },
-    {
-      "name": "I WANNA BE YOUR SLAVE",
-      "artists": [
-        "Måneskin"
-      ],
-      "album": "Teatro d'ira - Vol. I",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21",
-      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk",
-      "durationMs": 173346,
-      "playedAt": "2026-08-14T22:41:17.971Z"
-    },
-    {
-      "name": "Here I Go Again",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Last Man Standing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
-      "url": "https://open.spotify.com/track/3BCEmscmbx9dhPH76Ipc7R",
-      "durationMs": 233666,
-      "playedAt": "2026-08-14T22:38:31.670Z"
-    },
-    {
-      "name": "The Alkalite",
-      "artists": [
-        "Rapallo"
-      ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/4AlEDesuRd6npBdFHVkfPT",
-      "durationMs": 248568,
-      "playedAt": "2026-08-14T22:31:11.180Z"
-    },
-    {
-      "name": "Tess",
-      "artists": [
-        "Peter LeMarc"
-      ],
-      "album": "Bok med blanka sidor",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736224f1f20e9f1962acf81735",
-      "url": "https://open.spotify.com/track/3lLh4EHR2PBdmBFrMDIIuC",
-      "durationMs": 216520,
-      "playedAt": "2026-08-14T17:53:11.326Z"
-    },
-    {
-      "name": "Gröna små äpplen",
-      "artists": [
-        "Monica Zetterlund"
-      ],
-      "album": "Gröna små äpplen",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a9db86fbb61e5eed80bf2d37",
-      "url": "https://open.spotify.com/track/0dtE42FDoz08Aa9i7EWUI2",
-      "durationMs": 225213,
-      "playedAt": "2026-08-14T17:49:37.811Z"
-    },
-    {
-      "name": "Vem kan segla förutan vind?",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Musik genom fyra sekler",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e90b34f2ec4c3e6adb1e86c8",
-      "url": "https://open.spotify.com/track/69mGxme2zc2L6vqFFWcIJX",
-      "durationMs": 199426,
-      "playedAt": "2026-08-14T17:45:38.232Z"
     }
   ],
   "topArtists": [
@@ -230,6 +235,16 @@
       "durationMs": 198828
     },
     {
+      "name": "Here I Go Again",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "Last Man Standing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
+      "url": "https://open.spotify.com/track/3BCEmscmbx9dhPH76Ipc7R",
+      "durationMs": 233666
+    },
+    {
       "name": "Ambitionz Az A Ridah",
       "artists": [
         "2Pac"
@@ -258,16 +273,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
       "url": "https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo",
       "durationMs": 235293
-    },
-    {
-      "name": "True Believer",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Eurotopia",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27300c05bac4b1bf65b7fbf42d7",
-      "url": "https://open.spotify.com/track/1nThB5NAb6HgmmtxB1ANel",
-      "durationMs": 220960
     }
   ],
   "featuredPlaylists": []
