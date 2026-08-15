@@ -1,18 +1,98 @@
 {
-  "updatedAt": "2026-08-15T22:17:00.488Z",
+  "updatedAt": "2026-08-15T22:46:25.865Z",
   "nowPlaying": {
-    "name": "Lady - Hear Me Tonight",
+    "name": "Sing It Back - Boris Musical Mix - Edit",
     "artists": [
-      "Modjo"
+      "Moloko",
+      "Boris Dlugosch",
+      "Michael Lange"
     ],
-    "album": "Modjo (Remastered)",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27354c5c304064df85d61253ac7",
-    "url": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6",
-    "durationMs": 307153,
+    "album": "Sing It Back",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d4f00c1ac90480a02fa6b73f",
+    "url": "https://open.spotify.com/track/4O0LwyuV3U18Hg5AxILDlI",
+    "durationMs": 278000,
     "isPlaying": true,
-    "progressMs": 182408
+    "progressMs": 65013
   },
   "recentlyPlayed": [
+    {
+      "name": "Cry for You",
+      "artists": [
+        "September"
+      ],
+      "album": "Dancing Shoes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e1a050d8545416935386e73a",
+      "url": "https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao",
+      "durationMs": 209800,
+      "playedAt": "2026-08-15T22:45:24.532Z"
+    },
+    {
+      "name": "Virtual Insanity - Remastered 2006",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "Driving Songs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
+      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
+      "durationMs": 229360,
+      "playedAt": "2026-08-15T22:41:57.762Z"
+    },
+    {
+      "name": "My My My",
+      "artists": [
+        "Armand Van Helden"
+      ],
+      "album": "Nympho",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731373e40983ac85018eb42671",
+      "url": "https://open.spotify.com/track/653rxW1E7V52QWh6a7oIdS",
+      "durationMs": 182266,
+      "playedAt": "2026-08-15T22:38:11.407Z"
+    },
+    {
+      "name": "That's the Way (I Like It) - 2004 Remaster",
+      "artists": [
+        "KC & The Sunshine Band"
+      ],
+      "album": "KC & the Sunshine Band",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27390298163e25342e58d153899",
+      "url": "https://open.spotify.com/track/3PR79C1jVvLLLmgdyHkXl3",
+      "durationMs": 185106,
+      "playedAt": "2026-08-15T22:35:12.158Z"
+    },
+    {
+      "name": "Turn Around - Radio Edit",
+      "artists": [
+        "Phats & Small",
+        "Toney Lee"
+      ],
+      "album": "Turn Around - Single",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273173f2a4de1b67ef336774cc4",
+      "url": "https://open.spotify.com/track/5NweJG7j09ijQ4x54KTubf",
+      "durationMs": 212146,
+      "playedAt": "2026-08-15T22:32:10.152Z"
+    },
+    {
+      "name": "Innerbloom",
+      "artists": [
+        "RÜFÜS DU SOL"
+      ],
+      "album": "Bloom",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27360e5059dcab339142d7642bb",
+      "url": "https://open.spotify.com/track/6CGMZijOAZvTXG21T8t6R0",
+      "durationMs": 578040,
+      "playedAt": "2026-08-15T22:28:40.956Z"
+    },
+    {
+      "name": "Lady - Hear Me Tonight",
+      "artists": [
+        "Modjo"
+      ],
+      "album": "Modjo (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27354c5c304064df85d61253ac7",
+      "url": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6",
+      "durationMs": 307153,
+      "playedAt": "2026-08-15T22:19:05.971Z"
+    },
     {
       "name": "Last Train to London",
       "artists": [
@@ -45,84 +125,6 @@
       "url": "https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT",
       "durationMs": 183573,
       "playedAt": "2026-08-15T22:06:08.091Z"
-    },
-    {
-      "name": "I WANNA BE YOUR SLAVE",
-      "artists": [
-        "Måneskin"
-      ],
-      "album": "Teatro d'ira - Vol. I",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21",
-      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk",
-      "durationMs": 173346,
-      "playedAt": "2026-08-15T22:03:07.592Z"
-    },
-    {
-      "name": "You Make Me Feel (Mighty Real)",
-      "artists": [
-        "Sylvester"
-      ],
-      "album": "Marchando y Bailando Con Orgullo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27384c47f716f9e805ca4f38c0a",
-      "url": "https://open.spotify.com/track/4jeW20wAbrs7Pjw43wHZer",
-      "durationMs": 229053,
-      "playedAt": "2026-08-15T21:50:26.962Z"
-    },
-    {
-      "name": "Dance (Disco Heat)",
-      "artists": [
-        "Sylvester"
-      ],
-      "album": "Step II",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c6619148196a323b2e41d6d4",
-      "url": "https://open.spotify.com/track/0z7k9lTYzdTjuT7KmtOr2q",
-      "durationMs": 355263,
-      "playedAt": "2026-08-15T21:46:40.913Z"
-    },
-    {
-      "name": "You Make Me Feel (Mighty Real) - Michael Gray Radio Edit",
-      "artists": [
-        "Sylvester",
-        "Michael Gray"
-      ],
-      "album": "You Make Me Feel (Mighty Real)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ab33439f54558ffdf7891cf8",
-      "url": "https://open.spotify.com/track/2pnb9xjlcar9xqa0ZJglP4",
-      "durationMs": 166538,
-      "playedAt": "2026-08-15T21:40:48.671Z"
-    },
-    {
-      "name": "You Make Me Feel (Mighty Real)",
-      "artists": [
-        "Sylvester"
-      ],
-      "album": "Step II",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c6619148196a323b2e41d6d4",
-      "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ",
-      "durationMs": 400115,
-      "playedAt": "2026-08-15T21:38:05.168Z"
-    },
-    {
-      "name": "Campione 2000 - Radio Version",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Euro IV Ever",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c89626b8b2a51e1383a86efd",
-      "url": "https://open.spotify.com/track/78UcxP3Xm0EOXneQUDsStA",
-      "durationMs": 213413,
-      "playedAt": "2026-08-15T21:31:02.876Z"
-    },
-    {
-      "name": "Russian Lullaby",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Made In Sweden",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
-      "url": "https://open.spotify.com/track/0wm1WI6IaWODKrbyfaVBFq",
-      "durationMs": 192933,
-      "playedAt": "2026-08-15T21:27:32.476Z"
     }
   ],
   "topArtists": [
