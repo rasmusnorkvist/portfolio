@@ -1,18 +1,84 @@
 {
-  "updatedAt": "2026-08-15T21:43:59.493Z",
+  "updatedAt": "2026-08-15T22:17:00.488Z",
   "nowPlaying": {
-    "name": "Dance (Disco Heat)",
+    "name": "Lady - Hear Me Tonight",
     "artists": [
-      "Sylvester"
+      "Modjo"
     ],
-    "album": "Step II",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c6619148196a323b2e41d6d4",
-    "url": "https://open.spotify.com/track/0z7k9lTYzdTjuT7KmtOr2q",
-    "durationMs": 355263,
+    "album": "Modjo (Remastered)",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27354c5c304064df85d61253ac7",
+    "url": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6",
+    "durationMs": 307153,
     "isPlaying": true,
-    "progressMs": 193517
+    "progressMs": 182408
   },
   "recentlyPlayed": [
+    {
+      "name": "Last Train to London",
+      "artists": [
+        "Rikas"
+      ],
+      "album": "Last Train to London",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731a61a0637f0d90538a950303",
+      "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq",
+      "durationMs": 179000,
+      "playedAt": "2026-08-15T22:14:01.881Z"
+    },
+    {
+      "name": "You Get What You Give",
+      "artists": [
+        "New Radicals"
+      ],
+      "album": "Maybe You've Been Brainwashed Too",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dfdedd4553b40bbaab342dae",
+      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF",
+      "durationMs": 300773,
+      "playedAt": "2026-08-15T22:11:05.838Z"
+    },
+    {
+      "name": "Someday",
+      "artists": [
+        "The Strokes"
+      ],
+      "album": "Is This It",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
+      "url": "https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT",
+      "durationMs": 183573,
+      "playedAt": "2026-08-15T22:06:08.091Z"
+    },
+    {
+      "name": "I WANNA BE YOUR SLAVE",
+      "artists": [
+        "Måneskin"
+      ],
+      "album": "Teatro d'ira - Vol. I",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735aa05015cfa7bd2943c29b21",
+      "url": "https://open.spotify.com/track/4pt5fDVTg5GhEvEtlz9dKk",
+      "durationMs": 173346,
+      "playedAt": "2026-08-15T22:03:07.592Z"
+    },
+    {
+      "name": "You Make Me Feel (Mighty Real)",
+      "artists": [
+        "Sylvester"
+      ],
+      "album": "Marchando y Bailando Con Orgullo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27384c47f716f9e805ca4f38c0a",
+      "url": "https://open.spotify.com/track/4jeW20wAbrs7Pjw43wHZer",
+      "durationMs": 229053,
+      "playedAt": "2026-08-15T21:50:26.962Z"
+    },
+    {
+      "name": "Dance (Disco Heat)",
+      "artists": [
+        "Sylvester"
+      ],
+      "album": "Step II",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c6619148196a323b2e41d6d4",
+      "url": "https://open.spotify.com/track/0z7k9lTYzdTjuT7KmtOr2q",
+      "durationMs": 355263,
+      "playedAt": "2026-08-15T21:46:40.913Z"
+    },
     {
       "name": "You Make Me Feel (Mighty Real) - Michael Gray Radio Edit",
       "artists": [
@@ -57,72 +123,6 @@
       "url": "https://open.spotify.com/track/0wm1WI6IaWODKrbyfaVBFq",
       "durationMs": 192933,
       "playedAt": "2026-08-15T21:27:32.476Z"
-    },
-    {
-      "name": "I Just Wanna Be With You",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "The Explorer",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273167dd2526c2e800c38578262",
-      "url": "https://open.spotify.com/track/1hT711SbuxGploWC1g6Dq4",
-      "durationMs": 231400,
-      "playedAt": "2026-08-15T21:24:22.582Z"
-    },
-    {
-      "name": "Set The World On Fire - 7\" Version",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Made In Sweden",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
-      "url": "https://open.spotify.com/track/67rBycpa8FTFJkQwP5FzP1",
-      "durationMs": 224506,
-      "playedAt": "2026-08-15T21:20:34.181Z"
-    },
-    {
-      "name": "Here I Go Again",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Last Man Standing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
-      "url": "https://open.spotify.com/track/3BCEmscmbx9dhPH76Ipc7R",
-      "durationMs": 233666,
-      "playedAt": "2026-08-15T21:16:52.681Z"
-    },
-    {
-      "name": "True Believer",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Eurotopia",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27300c05bac4b1bf65b7fbf42d7",
-      "url": "https://open.spotify.com/track/1nThB5NAb6HgmmtxB1ANel",
-      "durationMs": 220960,
-      "playedAt": "2026-08-15T21:13:02.001Z"
-    },
-    {
-      "name": "This Is The Way - Radio Edit",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Made In Sweden",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
-      "url": "https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo",
-      "durationMs": 235293,
-      "playedAt": "2026-08-15T21:09:24.052Z"
-    },
-    {
-      "name": "Angels Crying",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Last Man Standing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
-      "url": "https://open.spotify.com/track/5E5iD6wpxcBw6J9VemdWGd",
-      "durationMs": 230440,
-      "playedAt": "2026-08-15T21:05:31.792Z"
     }
   ],
   "topArtists": [
@@ -133,15 +133,15 @@
       "genres": []
     },
     {
-      "name": "Jan Johansson",
-      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
-      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
-    },
-    {
       "name": "E-Type",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
       "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
+      "genres": []
+    },
+    {
+      "name": "Jan Johansson",
+      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
+      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
       "genres": []
     },
     {
@@ -188,6 +188,16 @@
       "durationMs": 222040
     },
     {
+      "name": "Angels Crying",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "Last Man Standing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
+      "url": "https://open.spotify.com/track/5E5iD6wpxcBw6J9VemdWGd",
+      "durationMs": 230440
+    },
+    {
       "name": "Do It Again",
       "artists": [
         "Steely Dan"
@@ -196,6 +206,26 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
       "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19",
       "durationMs": 357041
+    },
+    {
+      "name": "This Is The Way - Radio Edit",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "Made In Sweden",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
+      "url": "https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo",
+      "durationMs": 235293
+    },
+    {
+      "name": "True Believer",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "Eurotopia",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27300c05bac4b1bf65b7fbf42d7",
+      "url": "https://open.spotify.com/track/1nThB5NAb6HgmmtxB1ANel",
+      "durationMs": 220960
     },
     {
       "name": "Got to Get (feat. Leila K)",
@@ -209,26 +239,6 @@
       "durationMs": 201466
     },
     {
-      "name": "Berget",
-      "artists": [
-        "Dina Ögon"
-      ],
-      "album": "Oas",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27347f29db19cce35a81aa12888",
-      "url": "https://open.spotify.com/track/7gdRvpMZATkoCadNtNDZyH",
-      "durationMs": 198828
-    },
-    {
-      "name": "The Boy In the Bubble",
-      "artists": [
-        "Paul Simon"
-      ],
-      "album": "Graceland (25th Anniversary Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
-      "url": "https://open.spotify.com/track/00IrSynHsun7DpDrLkRIjM",
-      "durationMs": 239133
-    },
-    {
       "name": "Here I Go Again",
       "artists": [
         "E-Type"
@@ -239,24 +249,14 @@
       "durationMs": 233666
     },
     {
-      "name": "Ambitionz Az A Ridah",
-      "artists": [
-        "2Pac"
-      ],
-      "album": "All Eyez On Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596",
-      "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
-      "durationMs": 278386
-    },
-    {
-      "name": "This Is The Way - Radio Edit",
+      "name": "Set The World On Fire - 7\" Version",
       "artists": [
         "E-Type"
       ],
       "album": "Made In Sweden",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
-      "url": "https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo",
-      "durationMs": 235293
+      "url": "https://open.spotify.com/track/67rBycpa8FTFJkQwP5FzP1",
+      "durationMs": 224506
     }
   ],
   "featuredPlaylists": []
