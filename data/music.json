@@ -1,18 +1,85 @@
 {
-  "updatedAt": "2026-08-15T21:16:58.522Z",
+  "updatedAt": "2026-08-15T21:43:59.493Z",
   "nowPlaying": {
-    "name": "Set The World On Fire - 7\" Version",
+    "name": "Dance (Disco Heat)",
     "artists": [
-      "E-Type"
+      "Sylvester"
     ],
-    "album": "Made In Sweden",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
-    "url": "https://open.spotify.com/track/67rBycpa8FTFJkQwP5FzP1",
-    "durationMs": 224506,
+    "album": "Step II",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c6619148196a323b2e41d6d4",
+    "url": "https://open.spotify.com/track/0z7k9lTYzdTjuT7KmtOr2q",
+    "durationMs": 355263,
     "isPlaying": true,
-    "progressMs": 9698
+    "progressMs": 193517
   },
   "recentlyPlayed": [
+    {
+      "name": "You Make Me Feel (Mighty Real) - Michael Gray Radio Edit",
+      "artists": [
+        "Sylvester",
+        "Michael Gray"
+      ],
+      "album": "You Make Me Feel (Mighty Real)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ab33439f54558ffdf7891cf8",
+      "url": "https://open.spotify.com/track/2pnb9xjlcar9xqa0ZJglP4",
+      "durationMs": 166538,
+      "playedAt": "2026-08-15T21:40:48.671Z"
+    },
+    {
+      "name": "You Make Me Feel (Mighty Real)",
+      "artists": [
+        "Sylvester"
+      ],
+      "album": "Step II",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c6619148196a323b2e41d6d4",
+      "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ",
+      "durationMs": 400115,
+      "playedAt": "2026-08-15T21:38:05.168Z"
+    },
+    {
+      "name": "Campione 2000 - Radio Version",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "Euro IV Ever",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c89626b8b2a51e1383a86efd",
+      "url": "https://open.spotify.com/track/78UcxP3Xm0EOXneQUDsStA",
+      "durationMs": 213413,
+      "playedAt": "2026-08-15T21:31:02.876Z"
+    },
+    {
+      "name": "Russian Lullaby",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "Made In Sweden",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
+      "url": "https://open.spotify.com/track/0wm1WI6IaWODKrbyfaVBFq",
+      "durationMs": 192933,
+      "playedAt": "2026-08-15T21:27:32.476Z"
+    },
+    {
+      "name": "I Just Wanna Be With You",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "The Explorer",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273167dd2526c2e800c38578262",
+      "url": "https://open.spotify.com/track/1hT711SbuxGploWC1g6Dq4",
+      "durationMs": 231400,
+      "playedAt": "2026-08-15T21:24:22.582Z"
+    },
+    {
+      "name": "Set The World On Fire - 7\" Version",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "Made In Sweden",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
+      "url": "https://open.spotify.com/track/67rBycpa8FTFJkQwP5FzP1",
+      "durationMs": 224506,
+      "playedAt": "2026-08-15T21:20:34.181Z"
+    },
     {
       "name": "Here I Go Again",
       "artists": [
@@ -56,73 +123,6 @@
       "url": "https://open.spotify.com/track/5E5iD6wpxcBw6J9VemdWGd",
       "durationMs": 230440,
       "playedAt": "2026-08-15T21:05:31.792Z"
-    },
-    {
-      "name": "This Is The Way - Radio Edit",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Made In Sweden",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
-      "url": "https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo",
-      "durationMs": 235293,
-      "playedAt": "2026-08-15T21:00:02.280Z"
-    },
-    {
-      "name": "Angels Crying",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Last Man Standing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
-      "url": "https://open.spotify.com/track/5E5iD6wpxcBw6J9VemdWGd",
-      "durationMs": 230440,
-      "playedAt": "2026-08-15T20:56:09.980Z"
-    },
-    {
-      "name": "Life",
-      "artists": [
-        "E-Type",
-        "Nana Hedin"
-      ],
-      "album": "Euro IV Ever",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c89626b8b2a51e1383a86efd",
-      "url": "https://open.spotify.com/track/41Ef0PikCCRBcIM8O0t5HK",
-      "durationMs": 222040,
-      "playedAt": "2026-08-15T20:53:24.680Z"
-    },
-    {
-      "name": "Saturday Sun",
-      "artists": [
-        "Nick Drake"
-      ],
-      "album": "Five Leaves Left",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bd158c797b1026005c2917bc",
-      "url": "https://open.spotify.com/track/1drLQNS9D5z9lBP4DbtO2R",
-      "durationMs": 245013,
-      "playedAt": "2026-08-15T17:58:41.679Z"
-    },
-    {
-      "name": "Diamonds on the Soles of Her Shoes",
-      "artists": [
-        "Paul Simon"
-      ],
-      "album": "Graceland (25th Anniversary Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
-      "url": "https://open.spotify.com/track/71GvlH0VdeClloLIkHrAVu",
-      "durationMs": 350723,
-      "playedAt": "2026-08-15T17:54:39.681Z"
-    },
-    {
-      "name": "I Want You Back",
-      "artists": [
-        "The Jackson 5"
-      ],
-      "album": "Diana Ross Presents The Jackson 5",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38",
-      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S",
-      "durationMs": 176333,
-      "playedAt": "2026-08-15T17:48:51.978Z"
     }
   ],
   "topArtists": [
