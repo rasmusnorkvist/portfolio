@@ -1,19 +1,52 @@
 {
-  "updatedAt": "2026-08-15T17:44:43.818Z",
-  "nowPlaying": {
-    "name": "Titanic",
-    "artists": [
-      "Σtella",
-      "Redinho"
-    ],
-    "album": "Up and Away",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735fde798f6842d0ccc57c4bba",
-    "url": "https://open.spotify.com/track/7lirdOcXuV6nIPH1NTNwW8",
-    "durationMs": 186665,
-    "isPlaying": true,
-    "progressMs": 112515
-  },
+  "updatedAt": "2026-08-15T18:22:11.611Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Saturday Sun",
+      "artists": [
+        "Nick Drake"
+      ],
+      "album": "Five Leaves Left",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bd158c797b1026005c2917bc",
+      "url": "https://open.spotify.com/track/1drLQNS9D5z9lBP4DbtO2R",
+      "durationMs": 245013,
+      "playedAt": "2026-08-15T17:58:41.679Z"
+    },
+    {
+      "name": "Diamonds on the Soles of Her Shoes",
+      "artists": [
+        "Paul Simon"
+      ],
+      "album": "Graceland (25th Anniversary Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
+      "url": "https://open.spotify.com/track/71GvlH0VdeClloLIkHrAVu",
+      "durationMs": 350723,
+      "playedAt": "2026-08-15T17:54:39.681Z"
+    },
+    {
+      "name": "I Want You Back",
+      "artists": [
+        "The Jackson 5"
+      ],
+      "album": "Diana Ross Presents The Jackson 5",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38",
+      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S",
+      "durationMs": 176333,
+      "playedAt": "2026-08-15T17:48:51.978Z"
+    },
+    {
+      "name": "Titanic",
+      "artists": [
+        "Σtella",
+        "Redinho"
+      ],
+      "album": "Up and Away",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735fde798f6842d0ccc57c4bba",
+      "url": "https://open.spotify.com/track/7lirdOcXuV6nIPH1NTNwW8",
+      "durationMs": 186665,
+      "playedAt": "2026-08-15T17:45:58.681Z"
+    },
     {
       "name": "Worth It.",
       "artists": [
@@ -79,51 +112,6 @@
       "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6",
       "durationMs": 292613,
       "playedAt": "2026-08-15T16:52:47.191Z"
-    },
-    {
-      "name": "Nature Boy",
-      "artists": [
-        "Jan Johansson",
-        "Georg Riedel"
-      ],
-      "album": "Jan Johansson in Hamburg with Georg Riedel",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
-      "url": "https://open.spotify.com/track/7hDq6sOZ5Rl1XnSSfoOBRK",
-      "durationMs": 284186,
-      "playedAt": "2026-08-15T16:42:37.092Z"
-    },
-    {
-      "name": "Visa från Utanmyra",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
-      "durationMs": 273800,
-      "playedAt": "2026-08-15T16:37:55.959Z"
-    },
-    {
-      "name": "Grandma's Hands",
-      "artists": [
-        "Bill Withers"
-      ],
-      "album": "Just As I Am",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f64b9ea8a8a409c6af86134f",
-      "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv",
-      "durationMs": 122534,
-      "playedAt": "2026-08-15T07:16:34.201Z"
-    },
-    {
-      "name": "Keep It Rising",
-      "artists": [
-        "Supershy"
-      ],
-      "album": "Happy Music",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273021cd6e6502c54645ff8c9c6",
-      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN",
-      "durationMs": 194962,
-      "playedAt": "2026-08-15T06:49:22.007Z"
     }
   ],
   "topArtists": [
