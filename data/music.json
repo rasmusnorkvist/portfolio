@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-08-15T16:18:57.085Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-15T16:48:58.982Z",
+  "nowPlaying": {
+    "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+    "artists": [
+      "ABBA"
+    ],
+    "album": "Voulez-Vous",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec",
+    "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6",
+    "durationMs": 292613,
+    "isPlaying": true,
+    "progressMs": 64295
+  },
   "recentlyPlayed": [
+    {
+      "name": "Nature Boy",
+      "artists": [
+        "Jan Johansson",
+        "Georg Riedel"
+      ],
+      "album": "Jan Johansson in Hamburg with Georg Riedel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
+      "url": "https://open.spotify.com/track/7hDq6sOZ5Rl1XnSSfoOBRK",
+      "durationMs": 284186,
+      "playedAt": "2026-08-15T16:42:37.092Z"
+    },
+    {
+      "name": "Visa från Utanmyra",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800,
+      "playedAt": "2026-08-15T16:37:55.959Z"
+    },
+    {
+      "name": "Grandma's Hands",
+      "artists": [
+        "Bill Withers"
+      ],
+      "album": "Just As I Am",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f64b9ea8a8a409c6af86134f",
+      "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv",
+      "durationMs": 122534,
+      "playedAt": "2026-08-15T07:16:34.201Z"
+    },
     {
       "name": "Keep It Rising",
       "artists": [
@@ -83,39 +128,6 @@
       "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j",
       "durationMs": 229826,
       "playedAt": "2026-08-15T02:18:42.894Z"
-    },
-    {
-      "name": "Ain't My Fault",
-      "artists": [
-        "Zara Larsson"
-      ],
-      "album": "So Good",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
-      "url": "https://open.spotify.com/track/0ADG9OgdVTL7fgREP75BrZ",
-      "durationMs": 224457,
-      "playedAt": "2026-08-15T02:15:03.700Z"
-    },
-    {
-      "name": "The Boy In the Bubble",
-      "artists": [
-        "Paul Simon"
-      ],
-      "album": "Graceland (25th Anniversary Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
-      "url": "https://open.spotify.com/track/00IrSynHsun7DpDrLkRIjM",
-      "durationMs": 239133,
-      "playedAt": "2026-08-15T02:11:25.985Z"
-    },
-    {
-      "name": "SpottieOttieDopaliscious",
-      "artists": [
-        "Outkast"
-      ],
-      "album": "Aquemini",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e2352cc20602d45e9a0e7617",
-      "url": "https://open.spotify.com/track/4GdB5M7GbwLZLouktYocFC",
-      "durationMs": 426859,
-      "playedAt": "2026-08-14T23:44:44.633Z"
     }
   ],
   "topArtists": [
