@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-08-15T17:17:04.521Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-15T17:44:43.818Z",
+  "nowPlaying": {
+    "name": "Titanic",
+    "artists": [
+      "Σtella",
+      "Redinho"
+    ],
+    "album": "Up and Away",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735fde798f6842d0ccc57c4bba",
+    "url": "https://open.spotify.com/track/7lirdOcXuV6nIPH1NTNwW8",
+    "durationMs": 186665,
+    "isPlaying": true,
+    "progressMs": 112515
+  },
   "recentlyPlayed": [
+    {
+      "name": "Worth It.",
+      "artists": [
+        "RAYE"
+      ],
+      "album": "My 21st Century Blues",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f",
+      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF",
+      "durationMs": 246813,
+      "playedAt": "2026-08-15T17:42:54.982Z"
+    },
+    {
+      "name": "Lorelei",
+      "artists": [
+        "MRCY"
+      ],
+      "album": "VOLUME 1",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fd56503c81962586fd566c88",
+      "url": "https://open.spotify.com/track/0saFjmJYZlWjoOpLhlrOgH",
+      "durationMs": 264275,
+      "playedAt": "2026-08-15T17:38:21.144Z"
+    },
+    {
+      "name": "I'll Get Along",
+      "artists": [
+        "Michael Kiwanuka"
+      ],
+      "album": "Home Again (Deluxe Version)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cf3cd9588ec89ab911b70780",
+      "url": "https://open.spotify.com/track/2QIvd2Uow99gv5kBBbtf3y",
+      "durationMs": 206516,
+      "playedAt": "2026-08-15T17:33:53.421Z"
+    },
     {
       "name": "Le Freak - 2018 Remaster",
       "artists": [
@@ -79,43 +124,6 @@
       "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN",
       "durationMs": 194962,
       "playedAt": "2026-08-15T06:49:22.007Z"
-    },
-    {
-      "name": "Back Pocket",
-      "artists": [
-        "Vulfpeck",
-        "Theo Katzman",
-        "Christine Hucal",
-        "Mark Dover"
-      ],
-      "album": "Thrill of the Arts",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba94b5ac9a0771550fe81682",
-      "url": "https://open.spotify.com/track/0tLwe28zupkUQMpoXIDgX2",
-      "durationMs": 181259,
-      "playedAt": "2026-08-15T06:46:10.038Z"
-    },
-    {
-      "name": "Drream",
-      "artists": [
-        "JGrrey",
-        "Zombie Juice"
-      ],
-      "album": "If Not Now?",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273262e7010e307a3242caa01b7",
-      "url": "https://open.spotify.com/track/601rxU2qipds7R6qwee3jh",
-      "durationMs": 190769,
-      "playedAt": "2026-08-15T06:43:10.300Z"
-    },
-    {
-      "name": "You Make Me Feel (Mighty Real)",
-      "artists": [
-        "Sylvester"
-      ],
-      "album": "Step II",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c6619148196a323b2e41d6d4",
-      "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ",
-      "durationMs": 400115,
-      "playedAt": "2026-08-15T06:39:58.202Z"
     }
   ],
   "topArtists": [
