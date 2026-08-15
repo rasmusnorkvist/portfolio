@@ -1,19 +1,67 @@
 {
-  "updatedAt": "2026-08-15T06:31:21.096Z",
-  "nowPlaying": {
-    "name": "Hit 'Em Up - Single Version",
-    "artists": [
-      "2Pac",
-      "Outlawz"
-    ],
-    "album": "Greatest Hits",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec",
-    "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf",
-    "durationMs": 312626,
-    "isPlaying": true,
-    "progressMs": 173510
-  },
+  "updatedAt": "2026-08-15T07:26:19.632Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Keep It Rising",
+      "artists": [
+        "Supershy"
+      ],
+      "album": "Happy Music",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273021cd6e6502c54645ff8c9c6",
+      "url": "https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN",
+      "durationMs": 194962,
+      "playedAt": "2026-08-15T06:49:22.007Z"
+    },
+    {
+      "name": "Back Pocket",
+      "artists": [
+        "Vulfpeck",
+        "Theo Katzman",
+        "Christine Hucal",
+        "Mark Dover"
+      ],
+      "album": "Thrill of the Arts",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba94b5ac9a0771550fe81682",
+      "url": "https://open.spotify.com/track/0tLwe28zupkUQMpoXIDgX2",
+      "durationMs": 181259,
+      "playedAt": "2026-08-15T06:46:10.038Z"
+    },
+    {
+      "name": "Drream",
+      "artists": [
+        "JGrrey",
+        "Zombie Juice"
+      ],
+      "album": "If Not Now?",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273262e7010e307a3242caa01b7",
+      "url": "https://open.spotify.com/track/601rxU2qipds7R6qwee3jh",
+      "durationMs": 190769,
+      "playedAt": "2026-08-15T06:43:10.300Z"
+    },
+    {
+      "name": "You Make Me Feel (Mighty Real)",
+      "artists": [
+        "Sylvester"
+      ],
+      "album": "Step II",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c6619148196a323b2e41d6d4",
+      "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ",
+      "durationMs": 400115,
+      "playedAt": "2026-08-15T06:39:58.202Z"
+    },
+    {
+      "name": "Hit 'Em Up - Single Version",
+      "artists": [
+        "2Pac",
+        "Outlawz"
+      ],
+      "album": "Greatest Hits",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec",
+      "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf",
+      "durationMs": 312626,
+      "playedAt": "2026-08-15T06:33:33.005Z"
+    },
     {
       "name": "Gettin' Jiggy Wit It",
       "artists": [
@@ -68,67 +116,6 @@
       "url": "https://open.spotify.com/track/4GdB5M7GbwLZLouktYocFC",
       "durationMs": 426859,
       "playedAt": "2026-08-14T23:44:44.633Z"
-    },
-    {
-      "name": "Music Sounds Better With You",
-      "artists": [
-        "Stardust",
-        "Benjamin Diamond",
-        "Alan Braxe",
-        "Thomas Bangalter"
-      ],
-      "album": "Music Sounds Better With You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b98afa12c212cbbda4f1799b",
-      "url": "https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt",
-      "durationMs": 403293,
-      "playedAt": "2026-08-14T23:38:04.372Z"
-    },
-    {
-      "name": "You Get What You Give",
-      "artists": [
-        "New Radicals"
-      ],
-      "album": "Maybe You've Been Brainwashed Too",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dfdedd4553b40bbaab342dae",
-      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF",
-      "durationMs": 300773,
-      "playedAt": "2026-08-14T23:32:14.632Z"
-    },
-    {
-      "name": "Rapp Snitch Knishes",
-      "artists": [
-        "MF DOOM",
-        "Mr. Fantastik"
-      ],
-      "album": "MM..FOOD",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352f194d02c39909d1b284799",
-      "url": "https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI",
-      "durationMs": 172893,
-      "playedAt": "2026-08-14T23:27:34.475Z"
-    },
-    {
-      "name": "A Horse with No Name",
-      "artists": [
-        "America",
-        "George Martin"
-      ],
-      "album": "America",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
-      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt",
-      "durationMs": 252239,
-      "playedAt": "2026-08-14T23:24:39.778Z"
-    },
-    {
-      "name": "On The Grind",
-      "artists": [
-        "Supersci",
-        "Chords"
-      ],
-      "album": "Pinetrees On The Pavement",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8729fbc083cd2b468a0702c",
-      "url": "https://open.spotify.com/track/1LZ56yhDe3Jf1WJ75mzjGv",
-      "durationMs": 305720,
-      "playedAt": "2026-08-14T23:21:05.477Z"
     }
   ],
   "topArtists": [
