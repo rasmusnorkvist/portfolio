@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-15T05:50:06.128Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-15T06:31:21.096Z",
+  "nowPlaying": {
+    "name": "Hit 'Em Up - Single Version",
+    "artists": [
+      "2Pac",
+      "Outlawz"
+    ],
+    "album": "Greatest Hits",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec",
+    "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf",
+    "durationMs": 312626,
+    "isPlaying": true,
+    "progressMs": 173510
+  },
   "recentlyPlayed": [
     {
       "name": "Gettin' Jiggy Wit It",
