@@ -1,20 +1,43 @@
 {
-  "updatedAt": "2026-08-15T22:46:25.865Z",
-  "nowPlaying": {
-    "name": "Sing It Back - Boris Musical Mix - Edit",
-    "artists": [
-      "Moloko",
-      "Boris Dlugosch",
-      "Michael Lange"
-    ],
-    "album": "Sing It Back",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d4f00c1ac90480a02fa6b73f",
-    "url": "https://open.spotify.com/track/4O0LwyuV3U18Hg5AxILDlI",
-    "durationMs": 278000,
-    "isPlaying": true,
-    "progressMs": 65013
-  },
+  "updatedAt": "2026-08-15T23:16:22.244Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "It Just Won't Do - Radio Edit",
+      "artists": [
+        "Tim Deluxe",
+        "Sam Obernik"
+      ],
+      "album": "It Just Won't Do",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27357662b8dbcf7b104478096c9",
+      "url": "https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9",
+      "durationMs": 198000,
+      "playedAt": "2026-08-15T22:59:53.164Z"
+    },
+    {
+      "name": "At Night",
+      "artists": [
+        "Shakedown"
+      ],
+      "album": "At Night",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a64d35f03bc11fc80a9a5d47",
+      "url": "https://open.spotify.com/track/7bvyn8QyVbuJ9GIjUG4z7M",
+      "durationMs": 401607,
+      "playedAt": "2026-08-15T22:56:38.167Z"
+    },
+    {
+      "name": "Sing It Back - Boris Musical Mix - Edit",
+      "artists": [
+        "Moloko",
+        "Boris Dlugosch",
+        "Michael Lange"
+      ],
+      "album": "Sing It Back",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d4f00c1ac90480a02fa6b73f",
+      "url": "https://open.spotify.com/track/4O0LwyuV3U18Hg5AxILDlI",
+      "durationMs": 278000,
+      "playedAt": "2026-08-15T22:49:59.525Z"
+    },
     {
       "name": "Cry for You",
       "artists": [
@@ -92,39 +115,6 @@
       "url": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6",
       "durationMs": 307153,
       "playedAt": "2026-08-15T22:19:05.971Z"
-    },
-    {
-      "name": "Last Train to London",
-      "artists": [
-        "Rikas"
-      ],
-      "album": "Last Train to London",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731a61a0637f0d90538a950303",
-      "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq",
-      "durationMs": 179000,
-      "playedAt": "2026-08-15T22:14:01.881Z"
-    },
-    {
-      "name": "You Get What You Give",
-      "artists": [
-        "New Radicals"
-      ],
-      "album": "Maybe You've Been Brainwashed Too",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dfdedd4553b40bbaab342dae",
-      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF",
-      "durationMs": 300773,
-      "playedAt": "2026-08-15T22:11:05.838Z"
-    },
-    {
-      "name": "Someday",
-      "artists": [
-        "The Strokes"
-      ],
-      "album": "Is This It",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
-      "url": "https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT",
-      "durationMs": 183573,
-      "playedAt": "2026-08-15T22:06:08.091Z"
     }
   ],
   "topArtists": [
