@@ -1,7 +1,96 @@
 {
-  "updatedAt": "2026-08-15T20:47:18.333Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-15T21:16:58.522Z",
+  "nowPlaying": {
+    "name": "Set The World On Fire - 7\" Version",
+    "artists": [
+      "E-Type"
+    ],
+    "album": "Made In Sweden",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
+    "url": "https://open.spotify.com/track/67rBycpa8FTFJkQwP5FzP1",
+    "durationMs": 224506,
+    "isPlaying": true,
+    "progressMs": 9698
+  },
   "recentlyPlayed": [
+    {
+      "name": "Here I Go Again",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "Last Man Standing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
+      "url": "https://open.spotify.com/track/3BCEmscmbx9dhPH76Ipc7R",
+      "durationMs": 233666,
+      "playedAt": "2026-08-15T21:16:52.681Z"
+    },
+    {
+      "name": "True Believer",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "Eurotopia",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27300c05bac4b1bf65b7fbf42d7",
+      "url": "https://open.spotify.com/track/1nThB5NAb6HgmmtxB1ANel",
+      "durationMs": 220960,
+      "playedAt": "2026-08-15T21:13:02.001Z"
+    },
+    {
+      "name": "This Is The Way - Radio Edit",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "Made In Sweden",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
+      "url": "https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo",
+      "durationMs": 235293,
+      "playedAt": "2026-08-15T21:09:24.052Z"
+    },
+    {
+      "name": "Angels Crying",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "Last Man Standing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
+      "url": "https://open.spotify.com/track/5E5iD6wpxcBw6J9VemdWGd",
+      "durationMs": 230440,
+      "playedAt": "2026-08-15T21:05:31.792Z"
+    },
+    {
+      "name": "This Is The Way - Radio Edit",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "Made In Sweden",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
+      "url": "https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo",
+      "durationMs": 235293,
+      "playedAt": "2026-08-15T21:00:02.280Z"
+    },
+    {
+      "name": "Angels Crying",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "Last Man Standing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
+      "url": "https://open.spotify.com/track/5E5iD6wpxcBw6J9VemdWGd",
+      "durationMs": 230440,
+      "playedAt": "2026-08-15T20:56:09.980Z"
+    },
+    {
+      "name": "Life",
+      "artists": [
+        "E-Type",
+        "Nana Hedin"
+      ],
+      "album": "Euro IV Ever",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c89626b8b2a51e1383a86efd",
+      "url": "https://open.spotify.com/track/41Ef0PikCCRBcIM8O0t5HK",
+      "durationMs": 222040,
+      "playedAt": "2026-08-15T20:53:24.680Z"
+    },
     {
       "name": "Saturday Sun",
       "artists": [
@@ -34,84 +123,6 @@
       "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S",
       "durationMs": 176333,
       "playedAt": "2026-08-15T17:48:51.978Z"
-    },
-    {
-      "name": "Titanic",
-      "artists": [
-        "Σtella",
-        "Redinho"
-      ],
-      "album": "Up and Away",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735fde798f6842d0ccc57c4bba",
-      "url": "https://open.spotify.com/track/7lirdOcXuV6nIPH1NTNwW8",
-      "durationMs": 186665,
-      "playedAt": "2026-08-15T17:45:58.681Z"
-    },
-    {
-      "name": "Worth It.",
-      "artists": [
-        "RAYE"
-      ],
-      "album": "My 21st Century Blues",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394e5237ce925531dbb38e75f",
-      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF",
-      "durationMs": 246813,
-      "playedAt": "2026-08-15T17:42:54.982Z"
-    },
-    {
-      "name": "Lorelei",
-      "artists": [
-        "MRCY"
-      ],
-      "album": "VOLUME 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fd56503c81962586fd566c88",
-      "url": "https://open.spotify.com/track/0saFjmJYZlWjoOpLhlrOgH",
-      "durationMs": 264275,
-      "playedAt": "2026-08-15T17:38:21.144Z"
-    },
-    {
-      "name": "I'll Get Along",
-      "artists": [
-        "Michael Kiwanuka"
-      ],
-      "album": "Home Again (Deluxe Version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cf3cd9588ec89ab911b70780",
-      "url": "https://open.spotify.com/track/2QIvd2Uow99gv5kBBbtf3y",
-      "durationMs": 206516,
-      "playedAt": "2026-08-15T17:33:53.421Z"
-    },
-    {
-      "name": "Le Freak - 2018 Remaster",
-      "artists": [
-        "CHIC"
-      ],
-      "album": "C'est Chic (2018 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e37d5190acaf635f06cfcc4b",
-      "url": "https://open.spotify.com/track/7Kszjzps0xbQXyo1pO4KfE",
-      "durationMs": 331360,
-      "playedAt": "2026-08-15T17:02:22.094Z"
-    },
-    {
-      "name": "I'm Every Woman",
-      "artists": [
-        "Chaka Khan"
-      ],
-      "album": "Epiphany: The Best of Chaka Khan, Vol. 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273895ac2862b5c06e058fa09c8",
-      "url": "https://open.spotify.com/track/2M55R2A9IAhLdsCGFj8r8k",
-      "durationMs": 249600,
-      "playedAt": "2026-08-15T16:56:53.795Z"
-    },
-    {
-      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-      "artists": [
-        "ABBA"
-      ],
-      "album": "Voulez-Vous",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec",
-      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6",
-      "durationMs": 292613,
-      "playedAt": "2026-08-15T16:52:47.191Z"
     }
   ],
   "topArtists": [
