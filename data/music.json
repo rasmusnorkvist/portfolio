@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T02:31:03.775Z",
+  "updatedAt": "2026-08-15T03:34:38.598Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -213,6 +213,16 @@
       "durationMs": 198828
     },
     {
+      "name": "The Boy In the Bubble",
+      "artists": [
+        "Paul Simon"
+      ],
+      "album": "Graceland (25th Anniversary Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
+      "url": "https://open.spotify.com/track/00IrSynHsun7DpDrLkRIjM",
+      "durationMs": 239133
+    },
+    {
       "name": "Here I Go Again",
       "artists": [
         "E-Type"
@@ -231,16 +241,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596",
       "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
       "durationMs": 278386
-    },
-    {
-      "name": "The Boy In the Bubble",
-      "artists": [
-        "Paul Simon"
-      ],
-      "album": "Graceland (25th Anniversary Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
-      "url": "https://open.spotify.com/track/00IrSynHsun7DpDrLkRIjM",
-      "durationMs": 239133
     },
     {
       "name": "This Is The Way - Radio Edit",
