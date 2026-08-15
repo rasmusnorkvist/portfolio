@@ -1,18 +1,40 @@
 {
-  "updatedAt": "2026-08-15T16:48:58.982Z",
-  "nowPlaying": {
-    "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
-    "artists": [
-      "ABBA"
-    ],
-    "album": "Voulez-Vous",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec",
-    "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6",
-    "durationMs": 292613,
-    "isPlaying": true,
-    "progressMs": 64295
-  },
+  "updatedAt": "2026-08-15T17:17:04.521Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Le Freak - 2018 Remaster",
+      "artists": [
+        "CHIC"
+      ],
+      "album": "C'est Chic (2018 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e37d5190acaf635f06cfcc4b",
+      "url": "https://open.spotify.com/track/7Kszjzps0xbQXyo1pO4KfE",
+      "durationMs": 331360,
+      "playedAt": "2026-08-15T17:02:22.094Z"
+    },
+    {
+      "name": "I'm Every Woman",
+      "artists": [
+        "Chaka Khan"
+      ],
+      "album": "Epiphany: The Best of Chaka Khan, Vol. 1",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273895ac2862b5c06e058fa09c8",
+      "url": "https://open.spotify.com/track/2M55R2A9IAhLdsCGFj8r8k",
+      "durationMs": 249600,
+      "playedAt": "2026-08-15T16:56:53.795Z"
+    },
+    {
+      "name": "Gimme! Gimme! Gimme! (A Man After Midnight)",
+      "artists": [
+        "ABBA"
+      ],
+      "album": "Voulez-Vous",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec",
+      "url": "https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6",
+      "durationMs": 292613,
+      "playedAt": "2026-08-15T16:52:47.191Z"
+    },
     {
       "name": "Nature Boy",
       "artists": [
@@ -94,40 +116,6 @@
       "url": "https://open.spotify.com/track/0RnCUYXa7jhgTXtiMXF2PQ",
       "durationMs": 400115,
       "playedAt": "2026-08-15T06:39:58.202Z"
-    },
-    {
-      "name": "Hit 'Em Up - Single Version",
-      "artists": [
-        "2Pac",
-        "Outlawz"
-      ],
-      "album": "Greatest Hits",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec",
-      "url": "https://open.spotify.com/track/0Z2J91b2iTGLVTZC4fKgxf",
-      "durationMs": 312626,
-      "playedAt": "2026-08-15T06:33:33.005Z"
-    },
-    {
-      "name": "Gettin' Jiggy Wit It",
-      "artists": [
-        "Will Smith"
-      ],
-      "album": "Big Willie Style",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ddf2f9edabd166c60047e3c4",
-      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp",
-      "durationMs": 227933,
-      "playedAt": "2026-08-15T02:26:37.805Z"
-    },
-    {
-      "name": "Hypnotize - 2014 Remaster",
-      "artists": [
-        "The Notorious B.I.G."
-      ],
-      "album": "Life After Death (2014 Remastered Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
-      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j",
-      "durationMs": 229826,
-      "playedAt": "2026-08-15T02:18:42.894Z"
     }
   ],
   "topArtists": [
