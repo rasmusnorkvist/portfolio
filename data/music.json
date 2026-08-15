@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-15T01:00:16.938Z",
+  "updatedAt": "2026-08-15T02:31:03.775Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Gettin' Jiggy Wit It",
+      "artists": [
+        "Will Smith"
+      ],
+      "album": "Big Willie Style",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ddf2f9edabd166c60047e3c4",
+      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp",
+      "durationMs": 227933,
+      "playedAt": "2026-08-15T02:26:37.805Z"
+    },
+    {
+      "name": "Hypnotize - 2014 Remaster",
+      "artists": [
+        "The Notorious B.I.G."
+      ],
+      "album": "Life After Death (2014 Remastered Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j",
+      "durationMs": 229826,
+      "playedAt": "2026-08-15T02:18:42.894Z"
+    },
+    {
+      "name": "Ain't My Fault",
+      "artists": [
+        "Zara Larsson"
+      ],
+      "album": "So Good",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
+      "url": "https://open.spotify.com/track/0ADG9OgdVTL7fgREP75BrZ",
+      "durationMs": 224457,
+      "playedAt": "2026-08-15T02:15:03.700Z"
+    },
+    {
+      "name": "The Boy In the Bubble",
+      "artists": [
+        "Paul Simon"
+      ],
+      "album": "Graceland (25th Anniversary Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
+      "url": "https://open.spotify.com/track/00IrSynHsun7DpDrLkRIjM",
+      "durationMs": 239133,
+      "playedAt": "2026-08-15T02:11:25.985Z"
+    },
     {
       "name": "SpottieOttieDopaliscious",
       "artists": [
@@ -73,61 +117,6 @@
       "url": "https://open.spotify.com/track/1LZ56yhDe3Jf1WJ75mzjGv",
       "durationMs": 305720,
       "playedAt": "2026-08-14T23:21:05.477Z"
-    },
-    {
-      "name": "Repa skivan (feat. AFC)",
-      "artists": [
-        "Petter",
-        "AFC"
-      ],
-      "album": "Ronin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739fcf1f80b58c2dc32682a7fb",
-      "url": "https://open.spotify.com/track/62K8Xt3yTATChthdDnlneY",
-      "durationMs": 213240,
-      "playedAt": "2026-08-14T23:16:51.080Z"
-    },
-    {
-      "name": "Ride out the Storm",
-      "artists": [
-        "Dele Sosimi",
-        "The Estuary 21",
-        "Get Cape. Wear Cape. Fly"
-      ],
-      "album": "The Confluence LP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
-      "url": "https://open.spotify.com/track/1Hx4BfEyycVEn6diIa2LLS",
-      "durationMs": 171000,
-      "playedAt": "2026-08-14T23:13:27.782Z"
-    },
-    {
-      "name": "Ortens favoriter - Remix",
-      "artists": [
-        "Labyrint",
-        "Black Ghost",
-        "STOR",
-        "Aleks",
-        "Allyawan",
-        "Påse",
-        "Dani M",
-        "Alladin",
-        "Jaqe"
-      ],
-      "album": "Ortens favoriter",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eafa6e5e617f20387d27de1b",
-      "url": "https://open.spotify.com/track/3K7UdFfEr3EWURDOOYvuwq",
-      "durationMs": 346093,
-      "playedAt": "2026-08-14T23:10:57.282Z"
-    },
-    {
-      "name": "Berget",
-      "artists": [
-        "Dina Ögon"
-      ],
-      "album": "Oas",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27347f29db19cce35a81aa12888",
-      "url": "https://open.spotify.com/track/7gdRvpMZATkoCadNtNDZyH",
-      "durationMs": 198828,
-      "playedAt": "2026-08-14T22:44:36.417Z"
     }
   ],
   "topArtists": [
