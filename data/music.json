@@ -1,7 +1,79 @@
 {
-  "updatedAt": "2026-08-16T16:49:26.943Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-16T17:15:40.197Z",
+  "nowPlaying": {
+    "name": "aNYway",
+    "artists": [
+      "Duck Sauce",
+      "A-Trak",
+      "Armand Van Helden"
+    ],
+    "album": "Quack",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27316f9e3468a6938591bca4cee",
+    "url": "https://open.spotify.com/track/5TC4Iq44YSsdxTrzOoL2jj",
+    "durationMs": 302920,
+    "isPlaying": true,
+    "progressMs": 45407
+  },
   "recentlyPlayed": [
+    {
+      "name": "American Boy",
+      "artists": [
+        "Estelle",
+        "Kanye West"
+      ],
+      "album": "Shine",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27398dc3e242a818007dd67b7c5",
+      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh",
+      "durationMs": 284733,
+      "playedAt": "2026-08-16T17:14:58.377Z"
+    },
+    {
+      "name": "Messages from the Stars",
+      "artists": [
+        "Dabeull",
+        "Rude Jude",
+        "HolyBrune"
+      ],
+      "album": "Messages from the Stars",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738e07a4ea933bc5bbcd58c5a5",
+      "url": "https://open.spotify.com/track/00NUowM70GCryxvjHPd26C",
+      "durationMs": 166001,
+      "playedAt": "2026-08-16T17:10:16.677Z"
+    },
+    {
+      "name": "Destination Calabria - Radio Edit",
+      "artists": [
+        "Alex Gaudino",
+        "Crystal Waters"
+      ],
+      "album": "Destination Calabria",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739ddec2a9c771fcd96ca3fe1d",
+      "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h",
+      "durationMs": 223111,
+      "playedAt": "2026-08-16T17:07:33.676Z"
+    },
+    {
+      "name": "Chillin'",
+      "artists": [
+        "Modjo"
+      ],
+      "album": "Modjo (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27354c5c304064df85d61253ac7",
+      "url": "https://open.spotify.com/track/3Nxw6eeFpBwUbxVuSY6NC0",
+      "durationMs": 293732,
+      "playedAt": "2026-08-16T17:03:14.754Z"
+    },
+    {
+      "name": "Chillin'",
+      "artists": [
+        "Modjo"
+      ],
+      "album": "Modjo (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27354c5c304064df85d61253ac7",
+      "url": "https://open.spotify.com/track/3Nxw6eeFpBwUbxVuSY6NC0",
+      "durationMs": 293732,
+      "playedAt": "2026-08-16T10:54:16.435Z"
+    },
     {
       "name": "All That She Wants",
       "artists": [
@@ -58,64 +130,6 @@
       "url": "https://open.spotify.com/track/0uZzV9dlrCuoOCLKVBEfxt",
       "durationMs": 227619,
       "playedAt": "2026-08-16T03:57:21.945Z"
-    },
-    {
-      "name": "Forget Me Nots - Remastered",
-      "artists": [
-        "Patrice Rushen"
-      ],
-      "album": "Straight from the Heart (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ce36d2a7b551ee0fc8dbb341",
-      "url": "https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx",
-      "durationMs": 284506,
-      "playedAt": "2026-08-16T03:53:37.344Z"
-    },
-    {
-      "name": "Marea (we’ve lost dancing)",
-      "artists": [
-        "Fred again..",
-        "The Blessed Madonna"
-      ],
-      "album": "Actual Life (April 14 - December 17 2020)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273723d4df900fd02eff83579d9",
-      "url": "https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f",
-      "durationMs": 285375,
-      "playedAt": "2026-08-16T03:48:40.930Z"
-    },
-    {
-      "name": "Talk To You (ft. 54 Ultra)",
-      "artists": [
-        "ANOTR",
-        "54 Ultra"
-      ],
-      "album": "Withness",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aeb168f35ab002d77a4f3918",
-      "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz",
-      "durationMs": 191076,
-      "playedAt": "2026-08-16T03:43:58.581Z"
-    },
-    {
-      "name": "You & I",
-      "artists": [
-        "Dabeull",
-        "HolyBrune"
-      ],
-      "album": "Intimate Fonk",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d8fbde445bc39dae6b859698",
-      "url": "https://open.spotify.com/track/4FKuIlfFCIcvpg7M2HJhwx",
-      "durationMs": 208898,
-      "playedAt": "2026-08-16T03:40:50.590Z"
-    },
-    {
-      "name": "The Bomb (These Sounds Fall Into My Mind)",
-      "artists": [
-        "The Bucketheads"
-      ],
-      "album": "All In The Mind",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c775772fa7bbd72e6565b85c",
-      "url": "https://open.spotify.com/track/2Biy0tRkZTGxGH8axDwnqP",
-      "durationMs": 202934,
-      "playedAt": "2026-08-16T03:37:24.630Z"
     }
   ],
   "topArtists": [
