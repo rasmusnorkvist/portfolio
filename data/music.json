@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T17:43:02.640Z",
+  "updatedAt": "2026-08-16T18:22:37.977Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -140,12 +140,6 @@
       "genres": []
     },
     {
-      "name": "Paul Simon",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
-      "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
-      "genres": []
-    },
-    {
       "name": "Labyrint",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8c253702a29d143fb8de5039",
       "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo",
@@ -155,6 +149,12 @@
       "name": "Dina Ögon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
       "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
+      "genres": []
+    },
+    {
+      "name": "Paul Simon",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
+      "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
       "genres": []
     },
     {
