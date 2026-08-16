@@ -1,20 +1,31 @@
 {
-  "updatedAt": "2026-08-16T17:15:40.197Z",
-  "nowPlaying": {
-    "name": "aNYway",
-    "artists": [
-      "Duck Sauce",
-      "A-Trak",
-      "Armand Van Helden"
-    ],
-    "album": "Quack",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27316f9e3468a6938591bca4cee",
-    "url": "https://open.spotify.com/track/5TC4Iq44YSsdxTrzOoL2jj",
-    "durationMs": 302920,
-    "isPlaying": true,
-    "progressMs": 45407
-  },
+  "updatedAt": "2026-08-16T17:43:02.640Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Daddy Cool",
+      "artists": [
+        "Boney M."
+      ],
+      "album": "Take The Heat Off Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dafd1cd6e9537ec8463ea691",
+      "url": "https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g",
+      "durationMs": 208600,
+      "playedAt": "2026-08-16T17:23:23.873Z"
+    },
+    {
+      "name": "aNYway",
+      "artists": [
+        "Duck Sauce",
+        "A-Trak",
+        "Armand Van Helden"
+      ],
+      "album": "Quack",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27316f9e3468a6938591bca4cee",
+      "url": "https://open.spotify.com/track/5TC4Iq44YSsdxTrzOoL2jj",
+      "durationMs": 302920,
+      "playedAt": "2026-08-16T17:19:58.281Z"
+    },
     {
       "name": "American Boy",
       "artists": [
@@ -107,29 +118,6 @@
       "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP",
       "durationMs": 246480,
       "playedAt": "2026-08-16T04:05:10.519Z"
-    },
-    {
-      "name": "Don't Call Me Baby",
-      "artists": [
-        "Madison Avenue"
-      ],
-      "album": "Polyester Embassy",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ac4c015b49efc5724b9a68e8",
-      "url": "https://open.spotify.com/track/4VlbWRmrfit1wfU1ZOK4yY",
-      "durationMs": 228140,
-      "playedAt": "2026-08-16T04:01:07.045Z"
-    },
-    {
-      "name": "Groovejet (If This Ain't Love)",
-      "artists": [
-        "Spiller",
-        "Sophie Ellis-Bextor"
-      ],
-      "album": "Groovejet (If This Ain’t Love)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c896327ed2d09c7cb44a1cee",
-      "url": "https://open.spotify.com/track/0uZzV9dlrCuoOCLKVBEfxt",
-      "durationMs": 227619,
-      "playedAt": "2026-08-16T03:57:21.945Z"
     }
   ],
   "topArtists": [
