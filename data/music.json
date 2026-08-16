@@ -1,7 +1,76 @@
 {
-  "updatedAt": "2026-08-16T02:39:53.891Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-16T03:44:11.124Z",
+  "nowPlaying": {
+    "name": "Marea (we’ve lost dancing)",
+    "artists": [
+      "Fred again..",
+      "The Blessed Madonna"
+    ],
+    "album": "Actual Life (April 14 - December 17 2020)",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273723d4df900fd02eff83579d9",
+    "url": "https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f",
+    "durationMs": 285375,
+    "isPlaying": true,
+    "progressMs": 16470
+  },
   "recentlyPlayed": [
+    {
+      "name": "Talk To You (ft. 54 Ultra)",
+      "artists": [
+        "ANOTR",
+        "54 Ultra"
+      ],
+      "album": "Withness",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aeb168f35ab002d77a4f3918",
+      "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz",
+      "durationMs": 191076,
+      "playedAt": "2026-08-16T03:43:58.581Z"
+    },
+    {
+      "name": "You & I",
+      "artists": [
+        "Dabeull",
+        "HolyBrune"
+      ],
+      "album": "Intimate Fonk",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d8fbde445bc39dae6b859698",
+      "url": "https://open.spotify.com/track/4FKuIlfFCIcvpg7M2HJhwx",
+      "durationMs": 208898,
+      "playedAt": "2026-08-16T03:40:50.590Z"
+    },
+    {
+      "name": "The Bomb (These Sounds Fall Into My Mind)",
+      "artists": [
+        "The Bucketheads"
+      ],
+      "album": "All In The Mind",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c775772fa7bbd72e6565b85c",
+      "url": "https://open.spotify.com/track/2Biy0tRkZTGxGH8axDwnqP",
+      "durationMs": 202934,
+      "playedAt": "2026-08-16T03:37:24.630Z"
+    },
+    {
+      "name": "The Weekend - Radio Edit",
+      "artists": [
+        "Michael Gray"
+      ],
+      "album": "Analog Is On",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736901b4f4490faaf121cfb64c",
+      "url": "https://open.spotify.com/track/6KzkqZqhUBEsWYJJa2aBOd",
+      "durationMs": 192173,
+      "playedAt": "2026-08-16T03:31:40.863Z"
+    },
+    {
+      "name": "Afraid To Feel",
+      "artists": [
+        "LF SYSTEM"
+      ],
+      "album": "Afraid To Feel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc8945f4d18a31b09b80819b",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr",
+      "durationMs": 177525,
+      "playedAt": "2026-08-16T03:28:31.807Z"
+    },
     {
       "name": "You Rock My World - Radio Edit",
       "artists": [
@@ -60,64 +129,6 @@
       "url": "https://open.spotify.com/track/0BRwoCBQR3azPbxoIjF0yR",
       "durationMs": 336820,
       "playedAt": "2026-08-16T01:55:41.883Z"
-    },
-    {
-      "name": "Blame It on the Boogie",
-      "artists": [
-        "The Jacksons"
-      ],
-      "album": "Destiny",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739daf7b461a827acbbb0e4971",
-      "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS",
-      "durationMs": 215319,
-      "playedAt": "2026-08-16T01:50:08.173Z"
-    },
-    {
-      "name": "Blame It on the Boogie",
-      "artists": [
-        "The Jacksons"
-      ],
-      "album": "Destiny",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739daf7b461a827acbbb0e4971",
-      "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS",
-      "durationMs": 215319,
-      "playedAt": "2026-08-16T01:47:36.388Z"
-    },
-    {
-      "name": "It Just Won't Do - Radio Edit",
-      "artists": [
-        "Tim Deluxe",
-        "Sam Obernik"
-      ],
-      "album": "It Just Won't Do",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27357662b8dbcf7b104478096c9",
-      "url": "https://open.spotify.com/track/6Ss1QOGzn0iG8hrRRSGrr9",
-      "durationMs": 198000,
-      "playedAt": "2026-08-15T22:59:53.164Z"
-    },
-    {
-      "name": "At Night",
-      "artists": [
-        "Shakedown"
-      ],
-      "album": "At Night",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a64d35f03bc11fc80a9a5d47",
-      "url": "https://open.spotify.com/track/7bvyn8QyVbuJ9GIjUG4z7M",
-      "durationMs": 401607,
-      "playedAt": "2026-08-15T22:56:38.167Z"
-    },
-    {
-      "name": "Sing It Back - Boris Musical Mix - Edit",
-      "artists": [
-        "Moloko",
-        "Boris Dlugosch",
-        "Michael Lange"
-      ],
-      "album": "Sing It Back",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d4f00c1ac90480a02fa6b73f",
-      "url": "https://open.spotify.com/track/4O0LwyuV3U18Hg5AxILDlI",
-      "durationMs": 278000,
-      "playedAt": "2026-08-15T22:49:59.525Z"
     }
   ],
   "topArtists": [
