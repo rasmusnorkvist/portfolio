@@ -1,19 +1,87 @@
 {
-  "updatedAt": "2026-08-16T03:44:11.124Z",
-  "nowPlaying": {
-    "name": "Marea (we’ve lost dancing)",
-    "artists": [
-      "Fred again..",
-      "The Blessed Madonna"
-    ],
-    "album": "Actual Life (April 14 - December 17 2020)",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273723d4df900fd02eff83579d9",
-    "url": "https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f",
-    "durationMs": 285375,
-    "isPlaying": true,
-    "progressMs": 16470
-  },
+  "updatedAt": "2026-08-16T04:31:33.251Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "All That She Wants",
+      "artists": [
+        "Ace of Base"
+      ],
+      "album": "The Sign",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175",
+      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9",
+      "durationMs": 211213,
+      "playedAt": "2026-08-16T04:21:12.453Z"
+    },
+    {
+      "name": "Somethin’ Here - Original Mix",
+      "artists": [
+        "Terrence Parker"
+      ],
+      "album": "Somethin’ Here (Original Mix)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730628d1e19178c84681c454cb",
+      "url": "https://open.spotify.com/track/0GjNbT5RmUXtPUNTjtPt5C",
+      "durationMs": 310613,
+      "playedAt": "2026-08-16T04:17:44.208Z"
+    },
+    {
+      "name": "Love Never Felt So Good",
+      "artists": [
+        "Michael Jackson",
+        "Justin Timberlake"
+      ],
+      "album": "XSCAPE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0",
+      "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP",
+      "durationMs": 246480,
+      "playedAt": "2026-08-16T04:05:10.519Z"
+    },
+    {
+      "name": "Don't Call Me Baby",
+      "artists": [
+        "Madison Avenue"
+      ],
+      "album": "Polyester Embassy",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ac4c015b49efc5724b9a68e8",
+      "url": "https://open.spotify.com/track/4VlbWRmrfit1wfU1ZOK4yY",
+      "durationMs": 228140,
+      "playedAt": "2026-08-16T04:01:07.045Z"
+    },
+    {
+      "name": "Groovejet (If This Ain't Love)",
+      "artists": [
+        "Spiller",
+        "Sophie Ellis-Bextor"
+      ],
+      "album": "Groovejet (If This Ain’t Love)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c896327ed2d09c7cb44a1cee",
+      "url": "https://open.spotify.com/track/0uZzV9dlrCuoOCLKVBEfxt",
+      "durationMs": 227619,
+      "playedAt": "2026-08-16T03:57:21.945Z"
+    },
+    {
+      "name": "Forget Me Nots - Remastered",
+      "artists": [
+        "Patrice Rushen"
+      ],
+      "album": "Straight from the Heart (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ce36d2a7b551ee0fc8dbb341",
+      "url": "https://open.spotify.com/track/5ERZGchTi6sysVmA913Ryx",
+      "durationMs": 284506,
+      "playedAt": "2026-08-16T03:53:37.344Z"
+    },
+    {
+      "name": "Marea (we’ve lost dancing)",
+      "artists": [
+        "Fred again..",
+        "The Blessed Madonna"
+      ],
+      "album": "Actual Life (April 14 - December 17 2020)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273723d4df900fd02eff83579d9",
+      "url": "https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f",
+      "durationMs": 285375,
+      "playedAt": "2026-08-16T03:48:40.930Z"
+    },
     {
       "name": "Talk To You (ft. 54 Ultra)",
       "artists": [
@@ -48,87 +116,6 @@
       "url": "https://open.spotify.com/track/2Biy0tRkZTGxGH8axDwnqP",
       "durationMs": 202934,
       "playedAt": "2026-08-16T03:37:24.630Z"
-    },
-    {
-      "name": "The Weekend - Radio Edit",
-      "artists": [
-        "Michael Gray"
-      ],
-      "album": "Analog Is On",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736901b4f4490faaf121cfb64c",
-      "url": "https://open.spotify.com/track/6KzkqZqhUBEsWYJJa2aBOd",
-      "durationMs": 192173,
-      "playedAt": "2026-08-16T03:31:40.863Z"
-    },
-    {
-      "name": "Afraid To Feel",
-      "artists": [
-        "LF SYSTEM"
-      ],
-      "album": "Afraid To Feel",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc8945f4d18a31b09b80819b",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr",
-      "durationMs": 177525,
-      "playedAt": "2026-08-16T03:28:31.807Z"
-    },
-    {
-      "name": "You Rock My World - Radio Edit",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Number Ones",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb15b69407230b713423d3cb",
-      "url": "https://open.spotify.com/track/4oY2T9ur7Ll5b2kpBlcWcb",
-      "durationMs": 266914,
-      "playedAt": "2026-08-16T02:14:11.762Z"
-    },
-    {
-      "name": "Sunny",
-      "artists": [
-        "Boney M."
-      ],
-      "album": "Take The Heat Off Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dafd1cd6e9537ec8463ea691",
-      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt",
-      "durationMs": 242240,
-      "playedAt": "2026-08-16T02:09:47.863Z"
-    },
-    {
-      "name": "Music Sounds Better With You",
-      "artists": [
-        "Stardust",
-        "Benjamin Diamond",
-        "Alan Braxe",
-        "Thomas Bangalter"
-      ],
-      "album": "Music Sounds Better With You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b98afa12c212cbbda4f1799b",
-      "url": "https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt",
-      "durationMs": 403293,
-      "playedAt": "2026-08-16T02:05:48.661Z"
-    },
-    {
-      "name": "Pasilda - Knee Deep Mix",
-      "artists": [
-        "Afro Medusa",
-        "Knee Deep"
-      ],
-      "album": "Pasilda",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273408b5b93ea59befa5a1ad6ea",
-      "url": "https://open.spotify.com/track/2BUL7sF7y5oBYUQarVCukR",
-      "durationMs": 209500,
-      "playedAt": "2026-08-16T01:59:08.381Z"
-    },
-    {
-      "name": "Lola's Theme",
-      "artists": [
-        "The Shapeshifters"
-      ],
-      "album": "Sound Advice",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733e8c1745b643e79f71f0e50c",
-      "url": "https://open.spotify.com/track/0BRwoCBQR3azPbxoIjF0yR",
-      "durationMs": 336820,
-      "playedAt": "2026-08-16T01:55:41.883Z"
     }
   ],
   "topArtists": [
