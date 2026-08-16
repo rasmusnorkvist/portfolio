@@ -1,7 +1,96 @@
 {
-  "updatedAt": "2026-08-16T23:15:24.856Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-16T23:43:10.623Z",
+  "nowPlaying": {
+    "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
+    "artists": [
+      "Armand Van Helden",
+      "Duane Harden"
+    ],
+    "album": "You Don't Know Me (feat. Duane Harden)",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ec4e2968bee807ba322cdb18",
+    "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE",
+    "durationMs": 242333,
+    "isPlaying": true,
+    "progressMs": 63212
+  },
   "recentlyPlayed": [
+    {
+      "name": "TOO COOL TO BE CARELESS",
+      "artists": [
+        "PAWSA"
+      ],
+      "album": "TOO COOL TO BE CARELESS",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732ae2ed5bc30ffd941d29d4ac",
+      "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5",
+      "durationMs": 220046,
+      "playedAt": "2026-08-16T23:42:11.289Z"
+    },
+    {
+      "name": "Miami",
+      "artists": [
+        "Will Smith"
+      ],
+      "album": "Big Willie Style",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ddf2f9edabd166c60047e3c4",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8",
+      "durationMs": 197560,
+      "playedAt": "2026-08-16T23:38:34.272Z"
+    },
+    {
+      "name": "Da Ya Think I'm Sexy?",
+      "artists": [
+        "Rod Stewart"
+      ],
+      "album": "Blondes Have More Fun",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d6806ddfc58bbaa0cb3e9fa5",
+      "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f",
+      "durationMs": 331333,
+      "playedAt": "2026-08-16T23:35:19.775Z"
+    },
+    {
+      "name": "You Were Right",
+      "artists": [
+        "RÜFÜS DU SOL"
+      ],
+      "album": "Bloom",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27360e5059dcab339142d7642bb",
+      "url": "https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz",
+      "durationMs": 239417,
+      "playedAt": "2026-08-16T23:29:51.410Z"
+    },
+    {
+      "name": "Off the Wall",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Off the Wall",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
+      "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W",
+      "durationMs": 245778,
+      "playedAt": "2026-08-16T23:25:54.998Z"
+    },
+    {
+      "name": "In Your Eyes",
+      "artists": [
+        "Kylie Minogue"
+      ],
+      "album": "Fever",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735d6121285c42ea4535e59048",
+      "url": "https://open.spotify.com/track/1t5nwfsb90IliczIhOMnpJ",
+      "durationMs": 197826,
+      "playedAt": "2026-08-16T23:21:52.290Z"
+    },
+    {
+      "name": "Trubbel",
+      "artists": [
+        "Monica Zetterlund"
+      ],
+      "album": "Monica - Monica",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4426c1320b7860dd83d96cb",
+      "url": "https://open.spotify.com/track/7xjucUUNrRgwW49fLmU91q",
+      "durationMs": 264920,
+      "playedAt": "2026-08-16T23:18:37.492Z"
+    },
     {
       "name": "The Time Is Now",
       "artists": [
@@ -36,87 +125,6 @@
       "url": "https://open.spotify.com/track/5TC4Iq44YSsdxTrzOoL2jj",
       "durationMs": 302920,
       "playedAt": "2026-08-16T17:19:58.281Z"
-    },
-    {
-      "name": "American Boy",
-      "artists": [
-        "Estelle",
-        "Kanye West"
-      ],
-      "album": "Shine",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27398dc3e242a818007dd67b7c5",
-      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh",
-      "durationMs": 284733,
-      "playedAt": "2026-08-16T17:14:58.377Z"
-    },
-    {
-      "name": "Messages from the Stars",
-      "artists": [
-        "Dabeull",
-        "Rude Jude",
-        "HolyBrune"
-      ],
-      "album": "Messages from the Stars",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738e07a4ea933bc5bbcd58c5a5",
-      "url": "https://open.spotify.com/track/00NUowM70GCryxvjHPd26C",
-      "durationMs": 166001,
-      "playedAt": "2026-08-16T17:10:16.677Z"
-    },
-    {
-      "name": "Destination Calabria - Radio Edit",
-      "artists": [
-        "Alex Gaudino",
-        "Crystal Waters"
-      ],
-      "album": "Destination Calabria",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739ddec2a9c771fcd96ca3fe1d",
-      "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h",
-      "durationMs": 223111,
-      "playedAt": "2026-08-16T17:07:33.676Z"
-    },
-    {
-      "name": "Chillin'",
-      "artists": [
-        "Modjo"
-      ],
-      "album": "Modjo (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27354c5c304064df85d61253ac7",
-      "url": "https://open.spotify.com/track/3Nxw6eeFpBwUbxVuSY6NC0",
-      "durationMs": 293732,
-      "playedAt": "2026-08-16T17:03:14.754Z"
-    },
-    {
-      "name": "Chillin'",
-      "artists": [
-        "Modjo"
-      ],
-      "album": "Modjo (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27354c5c304064df85d61253ac7",
-      "url": "https://open.spotify.com/track/3Nxw6eeFpBwUbxVuSY6NC0",
-      "durationMs": 293732,
-      "playedAt": "2026-08-16T10:54:16.435Z"
-    },
-    {
-      "name": "All That She Wants",
-      "artists": [
-        "Ace of Base"
-      ],
-      "album": "The Sign",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175",
-      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9",
-      "durationMs": 211213,
-      "playedAt": "2026-08-16T04:21:12.453Z"
-    },
-    {
-      "name": "Somethin’ Here - Original Mix",
-      "artists": [
-        "Terrence Parker"
-      ],
-      "album": "Somethin’ Here (Original Mix)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730628d1e19178c84681c454cb",
-      "url": "https://open.spotify.com/track/0GjNbT5RmUXtPUNTjtPt5C",
-      "durationMs": 310613,
-      "playedAt": "2026-08-16T04:17:44.208Z"
     }
   ],
   "topArtists": [
