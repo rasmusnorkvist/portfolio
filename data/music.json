@@ -1,18 +1,41 @@
 {
-  "updatedAt": "2026-08-17T14:23:00.610Z",
-  "nowPlaying": {
-    "name": "Visa från Utanmyra",
-    "artists": [
-      "Jan Johansson"
-    ],
-    "album": "Jazz på svenska",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-    "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
-    "durationMs": 273800,
-    "isPlaying": true,
-    "progressMs": 229514
-  },
+  "updatedAt": "2026-08-17T14:53:07.777Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Solen i maj (feat. Lisa Nilsson)",
+      "artists": [
+        "Svante Thuresson",
+        "Lisa Nilsson"
+      ],
+      "album": "Svante Thuresson & Vänner",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739523e8f0cf6815182d972e58",
+      "url": "https://open.spotify.com/track/0IzOW3ADcXc9ZYiO2YF0Nl",
+      "durationMs": 218760,
+      "playedAt": "2026-08-17T14:49:05.023Z"
+    },
+    {
+      "name": "Vara vänner",
+      "artists": [
+        "Jakob Hellman"
+      ],
+      "album": "...och stora havet",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380d8f3d5241e4a5b1fd6b4db",
+      "url": "https://open.spotify.com/track/6a41rCqZhb2W6rpMolDR08",
+      "durationMs": 219600,
+      "playedAt": "2026-08-17T14:27:22.784Z"
+    },
+    {
+      "name": "Visa från Utanmyra",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800,
+      "playedAt": "2026-08-17T14:23:46.123Z"
+    },
     {
       "name": "Sommarö",
       "artists": [
@@ -90,39 +113,6 @@
       "url": "https://open.spotify.com/track/0dtE42FDoz08Aa9i7EWUI2",
       "durationMs": 225213,
       "playedAt": "2026-08-17T13:59:48.992Z"
-    },
-    {
-      "name": "Ångbåtsblues",
-      "artists": [
-        "Cornelis Vreeswijk"
-      ],
-      "album": "Grimascher och telegram",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27320dbd435dab83f29a2cef312",
-      "url": "https://open.spotify.com/track/022a4LtsFYyDMObyFDZjbQ",
-      "durationMs": 180786,
-      "playedAt": "2026-08-17T13:56:06.785Z"
-    },
-    {
-      "name": "Benen i kors",
-      "artists": [
-        "Lisa Ekdahl"
-      ],
-      "album": "Lisa Ekdahl",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a565aad3c9c1515c3ea8d003",
-      "url": "https://open.spotify.com/track/00bx6daJkVcdlGw1vfixPy",
-      "durationMs": 204000,
-      "playedAt": "2026-08-17T02:25:51.568Z"
-    },
-    {
-      "name": "Med ögon känsliga för grönt",
-      "artists": [
-        "Barbro Hörberg"
-      ],
-      "album": "Med ögon känsliga för grönt",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f6b8306828d0efed29c8c4c5",
-      "url": "https://open.spotify.com/track/4IdAkaK3oeBpKXBF6hKxgR",
-      "durationMs": 236413,
-      "playedAt": "2026-08-17T02:22:06.871Z"
     }
   ],
   "topArtists": [
