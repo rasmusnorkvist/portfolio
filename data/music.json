@@ -1,18 +1,109 @@
 {
-  "updatedAt": "2026-08-17T22:49:09.625Z",
+  "updatedAt": "2026-08-17T23:18:44.786Z",
   "nowPlaying": {
-    "name": "New Shoes",
+    "name": "LDN",
     "artists": [
-      "Paolo Nutini"
+      "Lily Allen"
     ],
-    "album": "These Streets",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273280a44b1caee9f2109602c41",
-    "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD",
-    "durationMs": 203653,
+    "album": "Alright, Still (Deluxe)",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f44ea7ef8d5c793399bae7af",
+    "url": "https://open.spotify.com/track/5wD6de7Fz1QfxVNkv1SEy7",
+    "durationMs": 190773,
     "isPlaying": true,
-    "progressMs": 108106
+    "progressMs": 111346
   },
   "recentlyPlayed": [
+    {
+      "name": "One More Time",
+      "artists": [
+        "Daft Punk"
+      ],
+      "album": "Discovery",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731e81bff9807a9e629fce5ade",
+      "url": "https://open.spotify.com/track/0DiWol3AO6WpXZgp0goxAV",
+      "durationMs": 320357,
+      "playedAt": "2026-08-17T23:16:57.433Z"
+    },
+    {
+      "name": "Restless",
+      "artists": [
+        "Kakkmaddafakka"
+      ],
+      "album": "Hest",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330cc0db57c1550e87e22a1ca",
+      "url": "https://open.spotify.com/track/5QBVRETMnR1sKyrQAMypDu",
+      "durationMs": 177746,
+      "playedAt": "2026-08-17T23:11:40.032Z"
+    },
+    {
+      "name": "Be My Lover",
+      "artists": [
+        "La Bouche"
+      ],
+      "album": "Sweet Dreams",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d4c3788166b9c4de0921f6b0",
+      "url": "https://open.spotify.com/track/3YB6nCSuFqNiqOvPtAPK9X",
+      "durationMs": 241133,
+      "playedAt": "2026-08-17T23:08:45.430Z"
+    },
+    {
+      "name": "Baby I'm Yours",
+      "artists": [
+        "Breakbot",
+        "Irfane"
+      ],
+      "album": "By Your Side",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ac2d979712c58dcc49290e0",
+      "url": "https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV",
+      "durationMs": 215506,
+      "playedAt": "2026-08-17T23:04:47.148Z"
+    },
+    {
+      "name": "These Words",
+      "artists": [
+        "Natasha Bedingfield"
+      ],
+      "album": "Unwritten",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b337e1ca6629a53c66a3b0d4",
+      "url": "https://open.spotify.com/track/6MFQeWtk7kxWGydnJB2y36",
+      "durationMs": 216360,
+      "playedAt": "2026-08-17T23:01:14.738Z"
+    },
+    {
+      "name": "Skate",
+      "artists": [
+        "Bruno Mars",
+        "Anderson .Paak",
+        "Silk Sonic"
+      ],
+      "album": "An Evening With Silk Sonic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731756c2022529aacfa98d2eb8",
+      "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO",
+      "durationMs": 203122,
+      "playedAt": "2026-08-17T22:57:41.342Z"
+    },
+    {
+      "name": "Bright Lights Bigger City",
+      "artists": [
+        "CeeLo Green"
+      ],
+      "album": "The Lady Killer",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273745ed32da5e64120925ce7b0",
+      "url": "https://open.spotify.com/track/3lOMPxZipoRwnO0IUvk6WX",
+      "durationMs": 218280,
+      "playedAt": "2026-08-17T22:54:21.244Z"
+    },
+    {
+      "name": "New Shoes",
+      "artists": [
+        "Paolo Nutini"
+      ],
+      "album": "These Streets",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273280a44b1caee9f2109602c41",
+      "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD",
+      "durationMs": 203653,
+      "playedAt": "2026-08-17T22:50:45.943Z"
+    },
     {
       "name": "Cold Cold Man",
       "artists": [
@@ -34,96 +125,6 @@
       "url": "https://open.spotify.com/track/5u5MpBnvJejW9dHPrfWEXZ",
       "durationMs": 215480,
       "playedAt": "2026-08-17T22:43:37.642Z"
-    },
-    {
-      "name": "Rock Your Body",
-      "artists": [
-        "Justin Timberlake"
-      ],
-      "album": "Justified",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee",
-      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT",
-      "durationMs": 267266,
-      "playedAt": "2026-08-17T22:40:05.142Z"
-    },
-    {
-      "name": "28 Butts",
-      "artists": [
-        "Little Jackie"
-      ],
-      "album": "The Stoop",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cf2ce7da6482174eea91dc7d",
-      "url": "https://open.spotify.com/track/3VzXczteOCdWEGboYhmQ3W",
-      "durationMs": 188813,
-      "playedAt": "2026-08-17T22:35:40.942Z"
-    },
-    {
-      "name": "Hung Up",
-      "artists": [
-        "Madonna"
-      ],
-      "album": "Confessions on a Dance Floor",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aaa9d84415623c1e790cd07b",
-      "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH",
-      "durationMs": 337733,
-      "playedAt": "2026-08-17T22:32:35.043Z"
-    },
-    {
-      "name": "This Head I Hold",
-      "artists": [
-        "Electric Guest"
-      ],
-      "album": "Mondo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736466e833eb9b18310fab4de4",
-      "url": "https://open.spotify.com/track/0LVaveDmmoMEKhBGhVhfoI",
-      "durationMs": 175773,
-      "playedAt": "2026-08-17T22:27:00.372Z"
-    },
-    {
-      "name": "Someone New",
-      "artists": [
-        "Kakkmaddafakka"
-      ],
-      "album": "Six Months Is a Long Time",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d82dfe272628f423962bbe3f",
-      "url": "https://open.spotify.com/track/2h5e8vGUKU1b7jD3GKV7IB",
-      "durationMs": 182239,
-      "playedAt": "2026-08-17T22:18:24.549Z"
-    },
-    {
-      "name": "Stateside + Zara Larsson",
-      "artists": [
-        "PinkPantheress",
-        "Zara Larsson"
-      ],
-      "album": "Fancy Some More?",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694",
-      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt",
-      "durationMs": 184761,
-      "playedAt": "2026-08-17T22:14:44.327Z"
-    },
-    {
-      "name": "Tieduprightnow",
-      "artists": [
-        "Parcels"
-      ],
-      "album": "Tieduprightnow",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735293681f1d72c22430e382e0",
-      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB",
-      "durationMs": 249956,
-      "playedAt": "2026-08-17T21:44:13.594Z"
-    },
-    {
-      "name": "No Broke Boys",
-      "artists": [
-        "Disco Lines",
-        "Tinashe"
-      ],
-      "album": "No Broke Boys",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273699b0363dda94e1f1e32eef5",
-      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj",
-      "durationMs": 163994,
-      "playedAt": "2026-08-17T21:40:06.694Z"
     }
   ],
   "topArtists": [
