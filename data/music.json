@@ -1,18 +1,84 @@
 {
-  "updatedAt": "2026-08-17T22:19:38.768Z",
+  "updatedAt": "2026-08-17T22:49:09.625Z",
   "nowPlaying": {
-    "name": "This Head I Hold",
+    "name": "New Shoes",
     "artists": [
-      "Electric Guest"
+      "Paolo Nutini"
     ],
-    "album": "Mondo",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736466e833eb9b18310fab4de4",
-    "url": "https://open.spotify.com/track/0LVaveDmmoMEKhBGhVhfoI",
-    "durationMs": 175773,
-    "isPlaying": false,
-    "progressMs": 4355
+    "album": "These Streets",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273280a44b1caee9f2109602c41",
+    "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD",
+    "durationMs": 203653,
+    "isPlaying": true,
+    "progressMs": 108106
   },
   "recentlyPlayed": [
+    {
+      "name": "Cold Cold Man",
+      "artists": [
+        "Saint Motel"
+      ],
+      "album": "My Type EP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273500a95f36178e1c86a835077",
+      "url": "https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F",
+      "durationMs": 230773,
+      "playedAt": "2026-08-17T22:47:25.370Z"
+    },
+    {
+      "name": "Superstar",
+      "artists": [
+        "Jamelia"
+      ],
+      "album": "Thank You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ac27b4f5d1ad74f433274cd5",
+      "url": "https://open.spotify.com/track/5u5MpBnvJejW9dHPrfWEXZ",
+      "durationMs": 215480,
+      "playedAt": "2026-08-17T22:43:37.642Z"
+    },
+    {
+      "name": "Rock Your Body",
+      "artists": [
+        "Justin Timberlake"
+      ],
+      "album": "Justified",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee",
+      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT",
+      "durationMs": 267266,
+      "playedAt": "2026-08-17T22:40:05.142Z"
+    },
+    {
+      "name": "28 Butts",
+      "artists": [
+        "Little Jackie"
+      ],
+      "album": "The Stoop",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cf2ce7da6482174eea91dc7d",
+      "url": "https://open.spotify.com/track/3VzXczteOCdWEGboYhmQ3W",
+      "durationMs": 188813,
+      "playedAt": "2026-08-17T22:35:40.942Z"
+    },
+    {
+      "name": "Hung Up",
+      "artists": [
+        "Madonna"
+      ],
+      "album": "Confessions on a Dance Floor",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aaa9d84415623c1e790cd07b",
+      "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH",
+      "durationMs": 337733,
+      "playedAt": "2026-08-17T22:32:35.043Z"
+    },
+    {
+      "name": "This Head I Hold",
+      "artists": [
+        "Electric Guest"
+      ],
+      "album": "Mondo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736466e833eb9b18310fab4de4",
+      "url": "https://open.spotify.com/track/0LVaveDmmoMEKhBGhVhfoI",
+      "durationMs": 175773,
+      "playedAt": "2026-08-17T22:27:00.372Z"
+    },
     {
       "name": "Someone New",
       "artists": [
@@ -58,74 +124,6 @@
       "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj",
       "durationMs": 163994,
       "playedAt": "2026-08-17T21:40:06.694Z"
-    },
-    {
-      "name": "GOSSIP (feat. Tom Morello)",
-      "artists": [
-        "Måneskin",
-        "Tom Morello"
-      ],
-      "album": "RUSH!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346e72dff16a10e1b5062fdf7",
-      "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi",
-      "durationMs": 168280,
-      "playedAt": "2026-08-17T21:37:25.694Z"
-    },
-    {
-      "name": "Spiral Stairs",
-      "artists": [
-        "Yot Club"
-      ],
-      "album": "Spiral Stairs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379277920da40e1c07da8f811",
-      "url": "https://open.spotify.com/track/6ODsBcPNsjqHzxrhmsPWLD",
-      "durationMs": 146026,
-      "playedAt": "2026-08-17T21:34:40.418Z"
-    },
-    {
-      "name": "You Rock My World",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "The Essential Michael Jackson",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c1748b440eb462a19f24eec",
-      "url": "https://open.spotify.com/track/3T59S3Vh3DOatsmTD8clqP",
-      "durationMs": 307071,
-      "playedAt": "2026-08-17T21:32:17.389Z"
-    },
-    {
-      "name": "My Type",
-      "artists": [
-        "Saint Motel"
-      ],
-      "album": "My Type",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734c8d86fcf617d28a7c55818b",
-      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI",
-      "durationMs": 206393,
-      "playedAt": "2026-08-17T21:27:13.394Z"
-    },
-    {
-      "name": "19-2000 - Soulchild Remix",
-      "artists": [
-        "Gorillaz"
-      ],
-      "album": "Gorillaz",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f6c46838e4425ea96e2562fe",
-      "url": "https://open.spotify.com/track/1PpfeNl5uYRBhfFcig2Uz6",
-      "durationMs": 209386,
-      "playedAt": "2026-08-17T21:23:49.988Z"
-    },
-    {
-      "name": "Jamaican (Bam Bam)",
-      "artists": [
-        "HUGEL",
-        "SOLTO (FR)"
-      ],
-      "album": "Jamaican (Bam Bam)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273450a730dd72f3bf49882ae9d",
-      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay",
-      "durationMs": 156393,
-      "playedAt": "2026-08-17T21:20:23.575Z"
     }
   ],
   "topArtists": [
@@ -154,12 +152,6 @@
       "genres": []
     },
     {
-      "name": "Dina Ögon",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
-      "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
-      "genres": []
-    },
-    {
       "name": "Paul Simon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
       "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
@@ -172,9 +164,15 @@
       "genres": []
     },
     {
-      "name": "The Pharcyde",
-      "imageUrl": "https://i.scdn.co/image/db124909dcc277881bf55ed159bd417d82e2ced1",
-      "url": "https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w",
+      "name": "Dina Ögon",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
+      "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
+      "genres": []
+    },
+    {
+      "name": "Fleetwood Mac",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
+      "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
       "genres": []
     }
   ],
