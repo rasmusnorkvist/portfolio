@@ -1,19 +1,76 @@
 {
-  "updatedAt": "2026-08-16T23:43:10.623Z",
-  "nowPlaying": {
-    "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
-    "artists": [
-      "Armand Van Helden",
-      "Duane Harden"
-    ],
-    "album": "You Don't Know Me (feat. Duane Harden)",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ec4e2968bee807ba322cdb18",
-    "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE",
-    "durationMs": 242333,
-    "isPlaying": true,
-    "progressMs": 63212
-  },
+  "updatedAt": "2026-08-17T01:02:05.491Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Show Me Love",
+      "artists": [
+        "Robin S"
+      ],
+      "album": "Show Me Love",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f454aa96e81265bc61b8d4ed",
+      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF",
+      "durationMs": 252106,
+      "playedAt": "2026-08-17T00:07:29.991Z"
+    },
+    {
+      "name": "Maria Maria (feat. The Product G&B)",
+      "artists": [
+        "Santana",
+        "The Product G&B"
+      ],
+      "album": "Supernatural (Legacy Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27305517e4e2defded1e818d3d0",
+      "url": "https://open.spotify.com/track/567UAkWoLBqZ709s3Qcbze",
+      "durationMs": 261973,
+      "playedAt": "2026-08-17T00:03:20.853Z"
+    },
+    {
+      "name": "Oh La La La - Radio Mix",
+      "artists": [
+        "2 Eivissa"
+      ],
+      "album": "Are You Ready?",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b93af33add869ca7f721fa1b",
+      "url": "https://open.spotify.com/track/5Y7iHPwxeRlhsErLtQdbvD",
+      "durationMs": 210234,
+      "playedAt": "2026-08-16T23:59:01.857Z"
+    },
+    {
+      "name": "Street Player 2021 - Radio Edit",
+      "artists": [
+        "D.J.F.",
+        "Curre"
+      ],
+      "album": "Street Player 2021 (Radio Edit)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c6b798ae0ee1a15dc527cb2e",
+      "url": "https://open.spotify.com/track/07VytlABdnHKmZsr1hYdj5",
+      "durationMs": 192503,
+      "playedAt": "2026-08-16T23:55:34.665Z"
+    },
+    {
+      "name": "No More Tears",
+      "artists": [
+        "Modjo"
+      ],
+      "album": "Modjo (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27354c5c304064df85d61253ac7",
+      "url": "https://open.spotify.com/track/6R7HiEHriT8uCvNwnqRA1D",
+      "durationMs": 377556,
+      "playedAt": "2026-08-16T23:52:25.161Z"
+    },
+    {
+      "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
+      "artists": [
+        "Armand Van Helden",
+        "Duane Harden"
+      ],
+      "album": "You Don't Know Me (feat. Duane Harden)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ec4e2968bee807ba322cdb18",
+      "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE",
+      "durationMs": 242333,
+      "playedAt": "2026-08-16T23:46:10.671Z"
+    },
     {
       "name": "TOO COOL TO BE CARELESS",
       "artists": [
@@ -57,74 +114,6 @@
       "url": "https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz",
       "durationMs": 239417,
       "playedAt": "2026-08-16T23:29:51.410Z"
-    },
-    {
-      "name": "Off the Wall",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Off the Wall",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
-      "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W",
-      "durationMs": 245778,
-      "playedAt": "2026-08-16T23:25:54.998Z"
-    },
-    {
-      "name": "In Your Eyes",
-      "artists": [
-        "Kylie Minogue"
-      ],
-      "album": "Fever",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735d6121285c42ea4535e59048",
-      "url": "https://open.spotify.com/track/1t5nwfsb90IliczIhOMnpJ",
-      "durationMs": 197826,
-      "playedAt": "2026-08-16T23:21:52.290Z"
-    },
-    {
-      "name": "Trubbel",
-      "artists": [
-        "Monica Zetterlund"
-      ],
-      "album": "Monica - Monica",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4426c1320b7860dd83d96cb",
-      "url": "https://open.spotify.com/track/7xjucUUNrRgwW49fLmU91q",
-      "durationMs": 264920,
-      "playedAt": "2026-08-16T23:18:37.492Z"
-    },
-    {
-      "name": "The Time Is Now",
-      "artists": [
-        "Moloko"
-      ],
-      "album": "Things to Make and Do",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c4cb6e3da4c16c3c0f1db7c3",
-      "url": "https://open.spotify.com/track/6caODjFlH5iakvYJIrhATv",
-      "durationMs": 318280,
-      "playedAt": "2026-08-16T23:09:30.196Z"
-    },
-    {
-      "name": "Daddy Cool",
-      "artists": [
-        "Boney M."
-      ],
-      "album": "Take The Heat Off Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dafd1cd6e9537ec8463ea691",
-      "url": "https://open.spotify.com/track/3WMbD1OyfKuwWDWMNbPQ4g",
-      "durationMs": 208600,
-      "playedAt": "2026-08-16T17:23:23.873Z"
-    },
-    {
-      "name": "aNYway",
-      "artists": [
-        "Duck Sauce",
-        "A-Trak",
-        "Armand Van Helden"
-      ],
-      "album": "Quack",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27316f9e3468a6938591bca4cee",
-      "url": "https://open.spotify.com/track/5TC4Iq44YSsdxTrzOoL2jj",
-      "durationMs": 302920,
-      "playedAt": "2026-08-16T17:19:58.281Z"
     }
   ],
   "topArtists": [
