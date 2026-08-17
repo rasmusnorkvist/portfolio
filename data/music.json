@@ -1,7 +1,30 @@
 {
-  "updatedAt": "2026-08-17T20:52:34.743Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-17T21:21:59.776Z",
+  "nowPlaying": {
+    "name": "19-2000 - Soulchild Remix",
+    "artists": [
+      "Gorillaz"
+    ],
+    "album": "Gorillaz",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f6c46838e4425ea96e2562fe",
+    "url": "https://open.spotify.com/track/1PpfeNl5uYRBhfFcig2Uz6",
+    "durationMs": 209386,
+    "isPlaying": true,
+    "progressMs": 99046
+  },
   "recentlyPlayed": [
+    {
+      "name": "Jamaican (Bam Bam)",
+      "artists": [
+        "HUGEL",
+        "SOLTO (FR)"
+      ],
+      "album": "Jamaican (Bam Bam)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273450a730dd72f3bf49882ae9d",
+      "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay",
+      "durationMs": 156393,
+      "playedAt": "2026-08-17T21:20:23.575Z"
+    },
     {
       "name": "Solen i maj (feat. Lisa Nilsson)",
       "artists": [
@@ -102,17 +125,6 @@
       "url": "https://open.spotify.com/track/0oKOAL9nhFMieApXNLYkZ8",
       "durationMs": 183413,
       "playedAt": "2026-08-17T14:02:49.406Z"
-    },
-    {
-      "name": "Gröna små äpplen",
-      "artists": [
-        "Monica Zetterlund"
-      ],
-      "album": "Gröna små äpplen",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a9db86fbb61e5eed80bf2d37",
-      "url": "https://open.spotify.com/track/0dtE42FDoz08Aa9i7EWUI2",
-      "durationMs": 225213,
-      "playedAt": "2026-08-17T13:59:48.992Z"
     }
   ],
   "topArtists": [
