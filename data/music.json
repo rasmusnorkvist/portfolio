@@ -1,18 +1,62 @@
 {
-  "updatedAt": "2026-08-17T23:18:44.786Z",
-  "nowPlaying": {
-    "name": "LDN",
-    "artists": [
-      "Lily Allen"
-    ],
-    "album": "Alright, Still (Deluxe)",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f44ea7ef8d5c793399bae7af",
-    "url": "https://open.spotify.com/track/5wD6de7Fz1QfxVNkv1SEy7",
-    "durationMs": 190773,
-    "isPlaying": true,
-    "progressMs": 111346
-  },
+  "updatedAt": "2026-08-17T23:45:49.626Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Dance with Somebody - Radio Version",
+      "artists": [
+        "Mando Diao"
+      ],
+      "album": "Dance with Somebody",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c399529600f436bcdaeb842",
+      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48",
+      "durationMs": 241000,
+      "playedAt": "2026-08-17T23:35:05.242Z"
+    },
+    {
+      "name": "Hypotheticals",
+      "artists": [
+        "Lake Street Dive"
+      ],
+      "album": "Obviously",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730c044e52637b2a8362e20659",
+      "url": "https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN",
+      "durationMs": 230178,
+      "playedAt": "2026-08-17T23:31:07.154Z"
+    },
+    {
+      "name": "Virtual Insanity - Remastered 2006",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "Driving Songs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
+      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
+      "durationMs": 229360,
+      "playedAt": "2026-08-17T23:27:20.129Z"
+    },
+    {
+      "name": "Beggin'",
+      "artists": [
+        "Måneskin"
+      ],
+      "album": "Chosen",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
+      "durationMs": 211560,
+      "playedAt": "2026-08-17T23:23:33.632Z"
+    },
+    {
+      "name": "LDN",
+      "artists": [
+        "Lily Allen"
+      ],
+      "album": "Alright, Still (Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f44ea7ef8d5c793399bae7af",
+      "url": "https://open.spotify.com/track/5wD6de7Fz1QfxVNkv1SEy7",
+      "durationMs": 190773,
+      "playedAt": "2026-08-17T23:20:05.133Z"
+    },
     {
       "name": "One More Time",
       "artists": [
@@ -68,63 +112,6 @@
       "url": "https://open.spotify.com/track/6MFQeWtk7kxWGydnJB2y36",
       "durationMs": 216360,
       "playedAt": "2026-08-17T23:01:14.738Z"
-    },
-    {
-      "name": "Skate",
-      "artists": [
-        "Bruno Mars",
-        "Anderson .Paak",
-        "Silk Sonic"
-      ],
-      "album": "An Evening With Silk Sonic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731756c2022529aacfa98d2eb8",
-      "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO",
-      "durationMs": 203122,
-      "playedAt": "2026-08-17T22:57:41.342Z"
-    },
-    {
-      "name": "Bright Lights Bigger City",
-      "artists": [
-        "CeeLo Green"
-      ],
-      "album": "The Lady Killer",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273745ed32da5e64120925ce7b0",
-      "url": "https://open.spotify.com/track/3lOMPxZipoRwnO0IUvk6WX",
-      "durationMs": 218280,
-      "playedAt": "2026-08-17T22:54:21.244Z"
-    },
-    {
-      "name": "New Shoes",
-      "artists": [
-        "Paolo Nutini"
-      ],
-      "album": "These Streets",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273280a44b1caee9f2109602c41",
-      "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD",
-      "durationMs": 203653,
-      "playedAt": "2026-08-17T22:50:45.943Z"
-    },
-    {
-      "name": "Cold Cold Man",
-      "artists": [
-        "Saint Motel"
-      ],
-      "album": "My Type EP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273500a95f36178e1c86a835077",
-      "url": "https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F",
-      "durationMs": 230773,
-      "playedAt": "2026-08-17T22:47:25.370Z"
-    },
-    {
-      "name": "Superstar",
-      "artists": [
-        "Jamelia"
-      ],
-      "album": "Thank You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ac27b4f5d1ad74f433274cd5",
-      "url": "https://open.spotify.com/track/5u5MpBnvJejW9dHPrfWEXZ",
-      "durationMs": 215480,
-      "playedAt": "2026-08-17T22:43:37.642Z"
     }
   ],
   "topArtists": [
