@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-17T01:02:05.491Z",
+  "updatedAt": "2026-08-17T02:39:12.690Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Benen i kors",
+      "artists": [
+        "Lisa Ekdahl"
+      ],
+      "album": "Lisa Ekdahl",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a565aad3c9c1515c3ea8d003",
+      "url": "https://open.spotify.com/track/00bx6daJkVcdlGw1vfixPy",
+      "durationMs": 204000,
+      "playedAt": "2026-08-17T02:25:51.568Z"
+    },
+    {
+      "name": "Med ögon känsliga för grönt",
+      "artists": [
+        "Barbro Hörberg"
+      ],
+      "album": "Med ögon känsliga för grönt",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f6b8306828d0efed29c8c4c5",
+      "url": "https://open.spotify.com/track/4IdAkaK3oeBpKXBF6hKxgR",
+      "durationMs": 236413,
+      "playedAt": "2026-08-17T02:22:06.871Z"
+    },
+    {
+      "name": "He's the Greatest Dancer - 1995 Remaster",
+      "artists": [
+        "Sister Sledge"
+      ],
+      "album": "We Are Family (1995 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f66d92378b233aa8253e71d2",
+      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU",
+      "durationMs": 375400,
+      "playedAt": "2026-08-17T01:37:20.919Z"
+    },
+    {
+      "name": "P.Y.T. (Pretty Young Thing)",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Thriller",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+      "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k",
+      "durationMs": 238333,
+      "playedAt": "2026-08-17T01:31:03.971Z"
+    },
     {
       "name": "Show Me Love",
       "artists": [
@@ -70,50 +114,6 @@
       "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE",
       "durationMs": 242333,
       "playedAt": "2026-08-16T23:46:10.671Z"
-    },
-    {
-      "name": "TOO COOL TO BE CARELESS",
-      "artists": [
-        "PAWSA"
-      ],
-      "album": "TOO COOL TO BE CARELESS",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732ae2ed5bc30ffd941d29d4ac",
-      "url": "https://open.spotify.com/track/6KqM3xmPIDonsTjCSGrrr5",
-      "durationMs": 220046,
-      "playedAt": "2026-08-16T23:42:11.289Z"
-    },
-    {
-      "name": "Miami",
-      "artists": [
-        "Will Smith"
-      ],
-      "album": "Big Willie Style",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ddf2f9edabd166c60047e3c4",
-      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8",
-      "durationMs": 197560,
-      "playedAt": "2026-08-16T23:38:34.272Z"
-    },
-    {
-      "name": "Da Ya Think I'm Sexy?",
-      "artists": [
-        "Rod Stewart"
-      ],
-      "album": "Blondes Have More Fun",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d6806ddfc58bbaa0cb3e9fa5",
-      "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f",
-      "durationMs": 331333,
-      "playedAt": "2026-08-16T23:35:19.775Z"
-    },
-    {
-      "name": "You Were Right",
-      "artists": [
-        "RÜFÜS DU SOL"
-      ],
-      "album": "Bloom",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27360e5059dcab339142d7642bb",
-      "url": "https://open.spotify.com/track/5HGxLtYxTriF7mMiriSpaz",
-      "durationMs": 239417,
-      "playedAt": "2026-08-16T23:29:51.410Z"
     }
   ],
   "topArtists": [
