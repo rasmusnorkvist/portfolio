@@ -1,18 +1,86 @@
 {
-  "updatedAt": "2026-08-17T21:21:59.776Z",
-  "nowPlaying": {
-    "name": "19-2000 - Soulchild Remix",
-    "artists": [
-      "Gorillaz"
-    ],
-    "album": "Gorillaz",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f6c46838e4425ea96e2562fe",
-    "url": "https://open.spotify.com/track/1PpfeNl5uYRBhfFcig2Uz6",
-    "durationMs": 209386,
-    "isPlaying": true,
-    "progressMs": 99046
-  },
+  "updatedAt": "2026-08-17T21:49:17.527Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Tieduprightnow",
+      "artists": [
+        "Parcels"
+      ],
+      "album": "Tieduprightnow",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735293681f1d72c22430e382e0",
+      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB",
+      "durationMs": 249956,
+      "playedAt": "2026-08-17T21:44:13.594Z"
+    },
+    {
+      "name": "No Broke Boys",
+      "artists": [
+        "Disco Lines",
+        "Tinashe"
+      ],
+      "album": "No Broke Boys",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273699b0363dda94e1f1e32eef5",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj",
+      "durationMs": 163994,
+      "playedAt": "2026-08-17T21:40:06.694Z"
+    },
+    {
+      "name": "GOSSIP (feat. Tom Morello)",
+      "artists": [
+        "Måneskin",
+        "Tom Morello"
+      ],
+      "album": "RUSH!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346e72dff16a10e1b5062fdf7",
+      "url": "https://open.spotify.com/track/44Xyja7xYPlVC6v2CeweSi",
+      "durationMs": 168280,
+      "playedAt": "2026-08-17T21:37:25.694Z"
+    },
+    {
+      "name": "Spiral Stairs",
+      "artists": [
+        "Yot Club"
+      ],
+      "album": "Spiral Stairs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379277920da40e1c07da8f811",
+      "url": "https://open.spotify.com/track/6ODsBcPNsjqHzxrhmsPWLD",
+      "durationMs": 146026,
+      "playedAt": "2026-08-17T21:34:40.418Z"
+    },
+    {
+      "name": "You Rock My World",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "The Essential Michael Jackson",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c1748b440eb462a19f24eec",
+      "url": "https://open.spotify.com/track/3T59S3Vh3DOatsmTD8clqP",
+      "durationMs": 307071,
+      "playedAt": "2026-08-17T21:32:17.389Z"
+    },
+    {
+      "name": "My Type",
+      "artists": [
+        "Saint Motel"
+      ],
+      "album": "My Type",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734c8d86fcf617d28a7c55818b",
+      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI",
+      "durationMs": 206393,
+      "playedAt": "2026-08-17T21:27:13.394Z"
+    },
+    {
+      "name": "19-2000 - Soulchild Remix",
+      "artists": [
+        "Gorillaz"
+      ],
+      "album": "Gorillaz",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f6c46838e4425ea96e2562fe",
+      "url": "https://open.spotify.com/track/1PpfeNl5uYRBhfFcig2Uz6",
+      "durationMs": 209386,
+      "playedAt": "2026-08-17T21:23:49.988Z"
+    },
     {
       "name": "Jamaican (Bam Bam)",
       "artists": [
@@ -47,84 +115,6 @@
       "url": "https://open.spotify.com/track/6a41rCqZhb2W6rpMolDR08",
       "durationMs": 219600,
       "playedAt": "2026-08-17T14:27:22.784Z"
-    },
-    {
-      "name": "Visa från Utanmyra",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
-      "durationMs": 273800,
-      "playedAt": "2026-08-17T14:23:46.123Z"
-    },
-    {
-      "name": "Sommarö",
-      "artists": [
-        "Barbro Hörberg"
-      ],
-      "album": "Med ögon känsliga för grönt",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f6b8306828d0efed29c8c4c5",
-      "url": "https://open.spotify.com/track/3w1J8mOc02URhG2KBi4BSL",
-      "durationMs": 173186,
-      "playedAt": "2026-08-17T14:18:53.249Z"
-    },
-    {
-      "name": "Sakta vi gå genom stan",
-      "artists": [
-        "Monica Zetterlund"
-      ],
-      "album": "Ahh! Monica!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
-      "url": "https://open.spotify.com/track/5gBWGTO2prExy9yVwhUbOU",
-      "durationMs": 202360,
-      "playedAt": "2026-08-17T14:16:03.055Z"
-    },
-    {
-      "name": "Deirdres samba",
-      "artists": [
-        "Cornelis Vreeswijk"
-      ],
-      "album": "Tio vackra visor och personliga Person",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
-      "url": "https://open.spotify.com/track/2BHwWqwuwcC5Zk6dpThXph",
-      "durationMs": 181800,
-      "playedAt": "2026-08-17T14:12:43.693Z"
-    },
-    {
-      "name": "Aldrig min vän - 2013 - Remaster",
-      "artists": [
-        "Doris",
-        "Claes Rosendahls Orkester"
-      ],
-      "album": "Svenssons Doris!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c02ba38582e669dd9080ba48",
-      "url": "https://open.spotify.com/track/7BNKJ94ugJu2HvrD4msrnS",
-      "durationMs": 172133,
-      "playedAt": "2026-08-17T14:09:44.969Z"
-    },
-    {
-      "name": "Strövtåg i hembygden",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Infruset",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
-      "url": "https://open.spotify.com/track/7KOegFQMd13ETQry4A6Tu1",
-      "durationMs": 249573,
-      "playedAt": "2026-08-17T14:06:55.806Z"
-    },
-    {
-      "name": "Vem vet?",
-      "artists": [
-        "Lisa Ekdahl"
-      ],
-      "album": "Lisa Ekdahl",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a565aad3c9c1515c3ea8d003",
-      "url": "https://open.spotify.com/track/0oKOAL9nhFMieApXNLYkZ8",
-      "durationMs": 183413,
-      "playedAt": "2026-08-17T14:02:49.406Z"
     }
   ],
   "topArtists": [
