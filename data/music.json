@@ -1,7 +1,107 @@
 {
-  "updatedAt": "2026-08-17T13:36:07.963Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-17T14:23:00.610Z",
+  "nowPlaying": {
+    "name": "Visa från Utanmyra",
+    "artists": [
+      "Jan Johansson"
+    ],
+    "album": "Jazz på svenska",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+    "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+    "durationMs": 273800,
+    "isPlaying": true,
+    "progressMs": 229514
+  },
   "recentlyPlayed": [
+    {
+      "name": "Sommarö",
+      "artists": [
+        "Barbro Hörberg"
+      ],
+      "album": "Med ögon känsliga för grönt",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f6b8306828d0efed29c8c4c5",
+      "url": "https://open.spotify.com/track/3w1J8mOc02URhG2KBi4BSL",
+      "durationMs": 173186,
+      "playedAt": "2026-08-17T14:18:53.249Z"
+    },
+    {
+      "name": "Sakta vi gå genom stan",
+      "artists": [
+        "Monica Zetterlund"
+      ],
+      "album": "Ahh! Monica!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
+      "url": "https://open.spotify.com/track/5gBWGTO2prExy9yVwhUbOU",
+      "durationMs": 202360,
+      "playedAt": "2026-08-17T14:16:03.055Z"
+    },
+    {
+      "name": "Deirdres samba",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Tio vackra visor och personliga Person",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
+      "url": "https://open.spotify.com/track/2BHwWqwuwcC5Zk6dpThXph",
+      "durationMs": 181800,
+      "playedAt": "2026-08-17T14:12:43.693Z"
+    },
+    {
+      "name": "Aldrig min vän - 2013 - Remaster",
+      "artists": [
+        "Doris",
+        "Claes Rosendahls Orkester"
+      ],
+      "album": "Svenssons Doris!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c02ba38582e669dd9080ba48",
+      "url": "https://open.spotify.com/track/7BNKJ94ugJu2HvrD4msrnS",
+      "durationMs": 172133,
+      "playedAt": "2026-08-17T14:09:44.969Z"
+    },
+    {
+      "name": "Strövtåg i hembygden",
+      "artists": [
+        "Mando Diao"
+      ],
+      "album": "Infruset",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
+      "url": "https://open.spotify.com/track/7KOegFQMd13ETQry4A6Tu1",
+      "durationMs": 249573,
+      "playedAt": "2026-08-17T14:06:55.806Z"
+    },
+    {
+      "name": "Vem vet?",
+      "artists": [
+        "Lisa Ekdahl"
+      ],
+      "album": "Lisa Ekdahl",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a565aad3c9c1515c3ea8d003",
+      "url": "https://open.spotify.com/track/0oKOAL9nhFMieApXNLYkZ8",
+      "durationMs": 183413,
+      "playedAt": "2026-08-17T14:02:49.406Z"
+    },
+    {
+      "name": "Gröna små äpplen",
+      "artists": [
+        "Monica Zetterlund"
+      ],
+      "album": "Gröna små äpplen",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a9db86fbb61e5eed80bf2d37",
+      "url": "https://open.spotify.com/track/0dtE42FDoz08Aa9i7EWUI2",
+      "durationMs": 225213,
+      "playedAt": "2026-08-17T13:59:48.992Z"
+    },
+    {
+      "name": "Ångbåtsblues",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Grimascher och telegram",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27320dbd435dab83f29a2cef312",
+      "url": "https://open.spotify.com/track/022a4LtsFYyDMObyFDZjbQ",
+      "durationMs": 180786,
+      "playedAt": "2026-08-17T13:56:06.785Z"
+    },
     {
       "name": "Benen i kors",
       "artists": [
@@ -23,97 +123,6 @@
       "url": "https://open.spotify.com/track/4IdAkaK3oeBpKXBF6hKxgR",
       "durationMs": 236413,
       "playedAt": "2026-08-17T02:22:06.871Z"
-    },
-    {
-      "name": "He's the Greatest Dancer - 1995 Remaster",
-      "artists": [
-        "Sister Sledge"
-      ],
-      "album": "We Are Family (1995 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f66d92378b233aa8253e71d2",
-      "url": "https://open.spotify.com/track/5WwRKYnVy9dekqXAGPbAvU",
-      "durationMs": 375400,
-      "playedAt": "2026-08-17T01:37:20.919Z"
-    },
-    {
-      "name": "P.Y.T. (Pretty Young Thing)",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Thriller",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-      "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k",
-      "durationMs": 238333,
-      "playedAt": "2026-08-17T01:31:03.971Z"
-    },
-    {
-      "name": "Show Me Love",
-      "artists": [
-        "Robin S"
-      ],
-      "album": "Show Me Love",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f454aa96e81265bc61b8d4ed",
-      "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF",
-      "durationMs": 252106,
-      "playedAt": "2026-08-17T00:07:29.991Z"
-    },
-    {
-      "name": "Maria Maria (feat. The Product G&B)",
-      "artists": [
-        "Santana",
-        "The Product G&B"
-      ],
-      "album": "Supernatural (Legacy Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27305517e4e2defded1e818d3d0",
-      "url": "https://open.spotify.com/track/567UAkWoLBqZ709s3Qcbze",
-      "durationMs": 261973,
-      "playedAt": "2026-08-17T00:03:20.853Z"
-    },
-    {
-      "name": "Oh La La La - Radio Mix",
-      "artists": [
-        "2 Eivissa"
-      ],
-      "album": "Are You Ready?",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b93af33add869ca7f721fa1b",
-      "url": "https://open.spotify.com/track/5Y7iHPwxeRlhsErLtQdbvD",
-      "durationMs": 210234,
-      "playedAt": "2026-08-16T23:59:01.857Z"
-    },
-    {
-      "name": "Street Player 2021 - Radio Edit",
-      "artists": [
-        "D.J.F.",
-        "Curre"
-      ],
-      "album": "Street Player 2021 (Radio Edit)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c6b798ae0ee1a15dc527cb2e",
-      "url": "https://open.spotify.com/track/07VytlABdnHKmZsr1hYdj5",
-      "durationMs": 192503,
-      "playedAt": "2026-08-16T23:55:34.665Z"
-    },
-    {
-      "name": "No More Tears",
-      "artists": [
-        "Modjo"
-      ],
-      "album": "Modjo (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27354c5c304064df85d61253ac7",
-      "url": "https://open.spotify.com/track/6R7HiEHriT8uCvNwnqRA1D",
-      "durationMs": 377556,
-      "playedAt": "2026-08-16T23:52:25.161Z"
-    },
-    {
-      "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
-      "artists": [
-        "Armand Van Helden",
-        "Duane Harden"
-      ],
-      "album": "You Don't Know Me (feat. Duane Harden)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ec4e2968bee807ba322cdb18",
-      "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE",
-      "durationMs": 242333,
-      "playedAt": "2026-08-16T23:46:10.671Z"
     }
   ],
   "topArtists": [
