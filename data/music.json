@@ -1,7 +1,41 @@
 {
-  "updatedAt": "2026-08-17T21:49:17.527Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-17T22:19:38.768Z",
+  "nowPlaying": {
+    "name": "This Head I Hold",
+    "artists": [
+      "Electric Guest"
+    ],
+    "album": "Mondo",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736466e833eb9b18310fab4de4",
+    "url": "https://open.spotify.com/track/0LVaveDmmoMEKhBGhVhfoI",
+    "durationMs": 175773,
+    "isPlaying": false,
+    "progressMs": 4355
+  },
   "recentlyPlayed": [
+    {
+      "name": "Someone New",
+      "artists": [
+        "Kakkmaddafakka"
+      ],
+      "album": "Six Months Is a Long Time",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d82dfe272628f423962bbe3f",
+      "url": "https://open.spotify.com/track/2h5e8vGUKU1b7jD3GKV7IB",
+      "durationMs": 182239,
+      "playedAt": "2026-08-17T22:18:24.549Z"
+    },
+    {
+      "name": "Stateside + Zara Larsson",
+      "artists": [
+        "PinkPantheress",
+        "Zara Larsson"
+      ],
+      "album": "Fancy Some More?",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt",
+      "durationMs": 184761,
+      "playedAt": "2026-08-17T22:14:44.327Z"
+    },
     {
       "name": "Tieduprightnow",
       "artists": [
@@ -92,29 +126,6 @@
       "url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay",
       "durationMs": 156393,
       "playedAt": "2026-08-17T21:20:23.575Z"
-    },
-    {
-      "name": "Solen i maj (feat. Lisa Nilsson)",
-      "artists": [
-        "Svante Thuresson",
-        "Lisa Nilsson"
-      ],
-      "album": "Svante Thuresson & Vänner",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739523e8f0cf6815182d972e58",
-      "url": "https://open.spotify.com/track/0IzOW3ADcXc9ZYiO2YF0Nl",
-      "durationMs": 218760,
-      "playedAt": "2026-08-17T14:49:05.023Z"
-    },
-    {
-      "name": "Vara vänner",
-      "artists": [
-        "Jakob Hellman"
-      ],
-      "album": "...och stora havet",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380d8f3d5241e4a5b1fd6b4db",
-      "url": "https://open.spotify.com/track/6a41rCqZhb2W6rpMolDR08",
-      "durationMs": 219600,
-      "playedAt": "2026-08-17T14:27:22.784Z"
     }
   ],
   "topArtists": [
