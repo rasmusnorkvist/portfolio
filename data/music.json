@@ -1,19 +1,42 @@
 {
-  "updatedAt": "2026-08-18T21:19:50.190Z",
-  "nowPlaying": {
-    "name": "Feel Good Inc.",
-    "artists": [
-      "Gorillaz",
-      "De La Soul"
-    ],
-    "album": "Demon Days",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273622aefd794f6fe4d8e714358",
-    "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
-    "durationMs": 222640,
-    "isPlaying": true,
-    "progressMs": 13163
-  },
+  "updatedAt": "2026-08-18T21:46:35.242Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Boogie Wonderland (with The Emotions)",
+      "artists": [
+        "Earth, Wind & Fire",
+        "The Emotions"
+      ],
+      "album": "I Am",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738b2238ebc2b233ba73b8c4ca",
+      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD",
+      "durationMs": 288408,
+      "playedAt": "2026-08-18T21:32:19.131Z"
+    },
+    {
+      "name": "Black or White",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Dangerous",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bf4cf0f48b94d0c8297b751a",
+      "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4",
+      "durationMs": 256017,
+      "playedAt": "2026-08-18T21:27:33.522Z"
+    },
+    {
+      "name": "Feel Good Inc.",
+      "artists": [
+        "Gorillaz",
+        "De La Soul"
+      ],
+      "album": "Demon Days",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273622aefd794f6fe4d8e714358",
+      "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
+      "durationMs": 222640,
+      "playedAt": "2026-08-18T21:23:20.525Z"
+    },
     {
       "name": "Liberian Girl - 2012 Remastered Version",
       "artists": [
@@ -90,42 +113,6 @@
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw",
       "durationMs": 258296,
       "playedAt": "2026-08-18T20:52:55.627Z"
-    },
-    {
-      "name": "Say Say Say - Remastered 2015",
-      "artists": [
-        "Paul McCartney",
-        "Michael Jackson"
-      ],
-      "album": "Pipes Of Peace (Remastered 2015)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c55d393c7225798e359bca60",
-      "url": "https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO",
-      "durationMs": 235693,
-      "playedAt": "2026-08-18T20:48:40.312Z"
-    },
-    {
-      "name": "Bad - 2012 Remaster",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Bad (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
-      "url": "https://open.spotify.com/track/2gSNBigeWMVtY3QBIvPAEc",
-      "durationMs": 247368,
-      "playedAt": "2026-08-18T20:44:47.627Z"
-    },
-    {
-      "name": "Skate",
-      "artists": [
-        "Bruno Mars",
-        "Anderson .Paak",
-        "Silk Sonic"
-      ],
-      "album": "An Evening With Silk Sonic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731756c2022529aacfa98d2eb8",
-      "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO",
-      "durationMs": 203122,
-      "playedAt": "2026-08-18T20:40:43.469Z"
     }
   ],
   "topArtists": [
