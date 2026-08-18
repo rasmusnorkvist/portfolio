@@ -1,19 +1,108 @@
 {
-  "updatedAt": "2026-08-18T20:48:31.038Z",
+  "updatedAt": "2026-08-18T21:19:50.190Z",
   "nowPlaying": {
-    "name": "Say Say Say - Remastered 2015",
+    "name": "Feel Good Inc.",
     "artists": [
-      "Paul McCartney",
-      "Michael Jackson"
+      "Gorillaz",
+      "De La Soul"
     ],
-    "album": "Pipes Of Peace (Remastered 2015)",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c55d393c7225798e359bca60",
-    "url": "https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO",
-    "durationMs": 235693,
+    "album": "Demon Days",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273622aefd794f6fe4d8e714358",
+    "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
+    "durationMs": 222640,
     "isPlaying": true,
-    "progressMs": 227199
+    "progressMs": 13163
   },
   "recentlyPlayed": [
+    {
+      "name": "Liberian Girl - 2012 Remastered Version",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Bad (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
+      "url": "https://open.spotify.com/track/2WzQbiXKpmRNLWXbqo8Z7b",
+      "durationMs": 232801,
+      "playedAt": "2026-08-18T21:19:40.925Z"
+    },
+    {
+      "name": "Smooth Operator - Single Version",
+      "artists": [
+        "Sade"
+      ],
+      "album": "The Best of Sade",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R",
+      "durationMs": 258693,
+      "playedAt": "2026-08-18T21:15:51.075Z"
+    },
+    {
+      "name": "Remember the Time",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Dangerous",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bf4cf0f48b94d0c8297b751a",
+      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd",
+      "durationMs": 240134,
+      "playedAt": "2026-08-18T21:11:35.401Z"
+    },
+    {
+      "name": "The Chain - 2004 Remaster",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "album": "Rumours (Super Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+      "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU",
+      "durationMs": 270213,
+      "playedAt": "2026-08-18T21:07:38.260Z"
+    },
+    {
+      "name": "Heaven Can Wait",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Invincible",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
+      "url": "https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz",
+      "durationMs": 289680,
+      "playedAt": "2026-08-18T21:03:11.047Z"
+    },
+    {
+      "name": "Canned Heat",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "Synkronized",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ccb64f022a53d3e8ec84a20",
+      "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ",
+      "durationMs": 331760,
+      "playedAt": "2026-08-18T20:58:24.348Z"
+    },
+    {
+      "name": "Beat It",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Thriller",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw",
+      "durationMs": 258296,
+      "playedAt": "2026-08-18T20:52:55.627Z"
+    },
+    {
+      "name": "Say Say Say - Remastered 2015",
+      "artists": [
+        "Paul McCartney",
+        "Michael Jackson"
+      ],
+      "album": "Pipes Of Peace (Remastered 2015)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c55d393c7225798e359bca60",
+      "url": "https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO",
+      "durationMs": 235693,
+      "playedAt": "2026-08-18T20:48:40.312Z"
+    },
     {
       "name": "Bad - 2012 Remaster",
       "artists": [
@@ -37,94 +126,6 @@
       "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO",
       "durationMs": 203122,
       "playedAt": "2026-08-18T20:40:43.469Z"
-    },
-    {
-      "name": "Wanna Be Startin' Somethin'",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Thriller",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-      "url": "https://open.spotify.com/track/1hu2s7qkm5bo03eODpRQO3",
-      "durationMs": 363400,
-      "playedAt": "2026-08-18T20:37:23.127Z"
-    },
-    {
-      "name": "La Isla Bonita",
-      "artists": [
-        "Madonna"
-      ],
-      "album": "True Blue",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ab2411303d48498dc1d8c137",
-      "url": "https://open.spotify.com/track/0NJdtoQ3RX5ckBjJlNXhlP",
-      "durationMs": 242733,
-      "playedAt": "2026-08-18T19:28:27.775Z"
-    },
-    {
-      "name": "The Way You Make Me Feel - 2012 Remaster",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Bad (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
-      "url": "https://open.spotify.com/track/76HKOVWqsEg26SECtmw7Rz",
-      "durationMs": 298121,
-      "playedAt": "2026-08-18T19:24:28.041Z"
-    },
-    {
-      "name": "Lady - Hear Me Tonight",
-      "artists": [
-        "Modjo"
-      ],
-      "album": "Modjo (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27354c5c304064df85d61253ac7",
-      "url": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6",
-      "durationMs": 307153,
-      "playedAt": "2026-08-18T19:19:32.938Z"
-    },
-    {
-      "name": "Billie Jean",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Thriller",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj",
-      "durationMs": 293802,
-      "playedAt": "2026-08-18T19:12:52.163Z"
-    },
-    {
-      "name": "Blame It on the Boogie",
-      "artists": [
-        "The Jacksons"
-      ],
-      "album": "Destiny",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739daf7b461a827acbbb0e4971",
-      "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS",
-      "durationMs": 215319,
-      "playedAt": "2026-08-18T19:08:01.363Z"
-    },
-    {
-      "name": "Smooth Criminal - 2012 Remaster",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Bad (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
-      "url": "https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j",
-      "durationMs": 257766,
-      "playedAt": "2026-08-18T19:00:12.016Z"
-    },
-    {
-      "name": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
-      "artists": [
-        "Bee Gees"
-      ],
-      "album": "Greatest",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352038992fc6d7868f31d23b7",
-      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH",
-      "durationMs": 285373,
-      "playedAt": "2026-08-18T18:55:57.315Z"
     }
   ],
   "topArtists": [
