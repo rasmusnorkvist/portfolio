@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-08-18T03:22:17.216Z",
+  "updatedAt": "2026-08-18T04:06:07.224Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Runaway Baby",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "album": "Doo-Wops & Hooligans",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738a9eb5a1f701d1d367a5ea10",
+      "url": "https://open.spotify.com/track/7hCNBVRhHzcsRAv0TQnOzq",
+      "durationMs": 148448,
+      "playedAt": "2026-08-18T03:28:00.825Z"
+    },
+    {
+      "name": "Adventure of a Lifetime",
+      "artists": [
+        "Coldplay"
+      ],
+      "album": "A Head Full of Dreams",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738ff7c3580d429c8212b9a3b6",
+      "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M",
+      "durationMs": 263786,
+      "playedAt": "2026-08-18T03:25:35.302Z"
+    },
     {
       "name": "Bad - 2012 Remaster",
       "artists": [
@@ -90,28 +112,6 @@
       "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD",
       "durationMs": 288408,
       "playedAt": "2026-08-18T01:24:48.116Z"
-    },
-    {
-      "name": "You Can Call Me Al",
-      "artists": [
-        "Paul Simon"
-      ],
-      "album": "Graceland (25th Anniversary Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP",
-      "durationMs": 280586,
-      "playedAt": "2026-08-18T01:13:49.738Z"
-    },
-    {
-      "name": "Musta Been A Ghost",
-      "artists": [
-        "Próxima Parada"
-      ],
-      "album": "Kind Reminder",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dd887b7f06bf71618e299496",
-      "url": "https://open.spotify.com/track/7K6nhFus3bYxYojgrt1n9e",
-      "durationMs": 220096,
-      "playedAt": "2026-08-18T01:09:12.239Z"
     }
   ],
   "topArtists": [
