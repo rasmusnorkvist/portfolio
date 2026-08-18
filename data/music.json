@@ -1,18 +1,29 @@
 {
-  "updatedAt": "2026-08-18T23:17:40.610Z",
-  "nowPlaying": {
-    "name": "Det finns inga mirakel",
-    "artists": [
-      "Peter LeMarc"
-    ],
-    "album": "Närmare gränsen",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bdf7704046e15e078824e721",
-    "url": "https://open.spotify.com/track/7ppiyPEgnV73SeGXSFcd08",
-    "durationMs": 285706,
-    "isPlaying": true,
-    "progressMs": 124281
-  },
+  "updatedAt": "2026-08-18T23:45:28.568Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Jag ger dig min morgon",
+      "artists": [
+        "Fred Åkerström"
+      ],
+      "album": "Två Tungor",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735db8ca3e78a3da93059cbc3b",
+      "url": "https://open.spotify.com/track/7nBARurNPIRVcf81uOFz3i",
+      "durationMs": 226426,
+      "playedAt": "2026-08-18T23:24:05.357Z"
+    },
+    {
+      "name": "Det finns inga mirakel",
+      "artists": [
+        "Peter LeMarc"
+      ],
+      "album": "Närmare gränsen",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bdf7704046e15e078824e721",
+      "url": "https://open.spotify.com/track/7ppiyPEgnV73SeGXSFcd08",
+      "durationMs": 285706,
+      "playedAt": "2026-08-18T23:20:21.962Z"
+    },
     {
       "name": "Lilla fågel blå",
       "artists": [
@@ -101,29 +112,6 @@
       "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4",
       "durationMs": 256017,
       "playedAt": "2026-08-18T21:27:33.522Z"
-    },
-    {
-      "name": "Feel Good Inc.",
-      "artists": [
-        "Gorillaz",
-        "De La Soul"
-      ],
-      "album": "Demon Days",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273622aefd794f6fe4d8e714358",
-      "url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
-      "durationMs": 222640,
-      "playedAt": "2026-08-18T21:23:20.525Z"
-    },
-    {
-      "name": "Liberian Girl - 2012 Remastered Version",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Bad (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
-      "url": "https://open.spotify.com/track/2WzQbiXKpmRNLWXbqo8Z7b",
-      "durationMs": 232801,
-      "playedAt": "2026-08-18T21:19:40.925Z"
     }
   ],
   "topArtists": [
