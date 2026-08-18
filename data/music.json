@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-08-18T12:36:56.664Z",
+  "updatedAt": "2026-08-18T13:38:29.218Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
+      "artists": [
+        "Mark Ronson",
+        "Amy Winehouse"
+      ],
+      "album": "Version",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736a5beb0500ad6e3b0f7aea22",
+      "url": "https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7",
+      "durationMs": 219413,
+      "playedAt": "2026-08-18T10:40:42.924Z"
+    },
     {
       "name": "Runaway Baby",
       "artists": [
@@ -100,18 +112,6 @@
       "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN",
       "durationMs": 212973,
       "playedAt": "2026-08-18T01:28:18.112Z"
-    },
-    {
-      "name": "Boogie Wonderland (with The Emotions)",
-      "artists": [
-        "Earth, Wind & Fire",
-        "The Emotions"
-      ],
-      "album": "I Am",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738b2238ebc2b233ba73b8c4ca",
-      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD",
-      "durationMs": 288408,
-      "playedAt": "2026-08-18T01:24:48.116Z"
     }
   ],
   "topArtists": [
