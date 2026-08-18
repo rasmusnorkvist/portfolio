@@ -1,18 +1,84 @@
 {
-  "updatedAt": "2026-08-18T17:22:26.555Z",
+  "updatedAt": "2026-08-18T17:53:04.452Z",
   "nowPlaying": {
-    "name": "Maneater",
+    "name": "Virtual Insanity - Remastered 2006",
     "artists": [
-      "Daryl Hall & John Oates"
+      "Jamiroquai"
     ],
-    "album": "H2O",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cfe4163cbb6d12f3ec15898e",
-    "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY",
-    "durationMs": 273173,
+    "album": "Driving Songs",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
+    "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
+    "durationMs": 229360,
     "isPlaying": true,
-    "progressMs": 102863
+    "progressMs": 114667
   },
   "recentlyPlayed": [
+    {
+      "name": "You Rock My World",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Invincible",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
+      "url": "https://open.spotify.com/track/1Lhwn4PqeGpM4LTVUowW76",
+      "durationMs": 338946,
+      "playedAt": "2026-08-18T17:51:13.650Z"
+    },
+    {
+      "name": "Eyes Without A Face",
+      "artists": [
+        "Billy Idol"
+      ],
+      "album": "Rebel Yell",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
+      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS",
+      "durationMs": 299240,
+      "playedAt": "2026-08-18T17:43:46.787Z"
+    },
+    {
+      "name": "Don't Stop 'Til You Get Enough",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Off the Wall",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ",
+      "durationMs": 364441,
+      "playedAt": "2026-08-18T17:38:50.587Z"
+    },
+    {
+      "name": "I Just Might",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "album": "The Romantic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395",
+      "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN",
+      "durationMs": 212973,
+      "playedAt": "2026-08-18T17:32:49.127Z"
+    },
+    {
+      "name": "Chicago",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "XSCAPE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0",
+      "url": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP",
+      "durationMs": 245565,
+      "playedAt": "2026-08-18T17:29:19.192Z"
+    },
+    {
+      "name": "Maneater",
+      "artists": [
+        "Daryl Hall & John Oates"
+      ],
+      "album": "H2O",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cfe4163cbb6d12f3ec15898e",
+      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY",
+      "durationMs": 273173,
+      "playedAt": "2026-08-18T17:25:16.691Z"
+    },
     {
       "name": "Baby Be Mine",
       "artists": [
@@ -57,72 +123,6 @@
       "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M",
       "durationMs": 263786,
       "playedAt": "2026-08-18T03:25:35.302Z"
-    },
-    {
-      "name": "Bad - 2012 Remaster",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Bad (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
-      "url": "https://open.spotify.com/track/2gSNBigeWMVtY3QBIvPAEc",
-      "durationMs": 247368,
-      "playedAt": "2026-08-18T01:51:24.042Z"
-    },
-    {
-      "name": "God Knows",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Hurricane Bar",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d77f5131e85a3164f9c3aeed",
-      "url": "https://open.spotify.com/track/7yvVN0WIduWMnVpnIgZehl",
-      "durationMs": 230733,
-      "playedAt": "2026-08-18T01:47:19.716Z"
-    },
-    {
-      "name": "The Sign",
-      "artists": [
-        "Ace of Base"
-      ],
-      "album": "The Sign",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE",
-      "durationMs": 191240,
-      "playedAt": "2026-08-18T01:43:32.017Z"
-    },
-    {
-      "name": "The Rubberband Man",
-      "artists": [
-        "The Spinners"
-      ],
-      "album": "The Rubberband Man / Now That We're Together",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27371babe239c18fc21b5e2f0f5",
-      "url": "https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6",
-      "durationMs": 213000,
-      "playedAt": "2026-08-18T01:40:23.716Z"
-    },
-    {
-      "name": "Midnight Sun",
-      "artists": [
-        "Zara Larsson"
-      ],
-      "album": "Midnight Sun",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737657f9028ea8bb2c18dca99f",
-      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ",
-      "durationMs": 189898,
-      "playedAt": "2026-08-18T01:36:53.914Z"
-    },
-    {
-      "name": "Canned Heat",
-      "artists": [
-        "Jamiroquai"
-      ],
-      "album": "Synkronized",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ccb64f022a53d3e8ec84a20",
-      "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ",
-      "durationMs": 331760,
-      "playedAt": "2026-08-18T01:33:47.014Z"
     }
   ],
   "topArtists": [
