@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2026-08-18T22:49:06.119Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-18T23:17:40.610Z",
+  "nowPlaying": {
+    "name": "Det finns inga mirakel",
+    "artists": [
+      "Peter LeMarc"
+    ],
+    "album": "Närmare gränsen",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bdf7704046e15e078824e721",
+    "url": "https://open.spotify.com/track/7ppiyPEgnV73SeGXSFcd08",
+    "durationMs": 285706,
+    "isPlaying": true,
+    "progressMs": 124281
+  },
   "recentlyPlayed": [
+    {
+      "name": "Lilla fågel blå",
+      "artists": [
+        "Staffan Hellstrand"
+      ],
+      "album": "Regn",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733071e45ed6052aecf94fea58",
+      "url": "https://open.spotify.com/track/24LPjYUpC28ODnHNx25kqo",
+      "durationMs": 283226,
+      "playedAt": "2026-08-18T23:15:39.258Z"
+    },
+    {
+      "name": "Sången dom spelar när filmen är slut - Version",
+      "artists": [
+        "Peter LeMarc"
+      ],
+      "album": "LeMarc - Klassiker",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3593a634876c6e748fa3424",
+      "url": "https://open.spotify.com/track/1IQEuk3ZLGfCkyeIeXR1V6",
+      "durationMs": 291466,
+      "playedAt": "2026-08-18T23:10:58.561Z"
+    },
+    {
+      "name": "Hon har ett sätt",
+      "artists": [
+        "Jakob Hellman"
+      ],
+      "album": "...och stora havet",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380d8f3d5241e4a5b1fd6b4db",
+      "url": "https://open.spotify.com/track/1nrvksAMsxoiEbUkQyxOXo",
+      "durationMs": 201066,
+      "playedAt": "2026-08-18T23:06:09.988Z"
+    },
+    {
+      "name": "Regn hos mej",
+      "artists": [
+        "Orup"
+      ],
+      "album": "Orup 2",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d8842fa09f08442a4e52f816",
+      "url": "https://open.spotify.com/track/1YEwlI2aCKITozVudLxrBs",
+      "durationMs": 185186,
+      "playedAt": "2026-08-18T23:02:51.966Z"
+    },
+    {
+      "name": "Strövtåg i hembygden",
+      "artists": [
+        "Mando Diao"
+      ],
+      "album": "Infruset",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
+      "url": "https://open.spotify.com/track/7KOegFQMd13ETQry4A6Tu1",
+      "durationMs": 249573,
+      "playedAt": "2026-08-18T22:59:49.766Z"
+    },
+    {
+      "name": "Tess",
+      "artists": [
+        "Peter LeMarc"
+      ],
+      "album": "Bok med blanka sidor",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736224f1f20e9f1962acf81735",
+      "url": "https://open.spotify.com/track/3lLh4EHR2PBdmBFrMDIIuC",
+      "durationMs": 216520,
+      "playedAt": "2026-08-18T22:55:43.193Z"
+    },
     {
       "name": "Boogie Wonderland (with The Emotions)",
       "artists": [
@@ -47,72 +124,6 @@
       "url": "https://open.spotify.com/track/2WzQbiXKpmRNLWXbqo8Z7b",
       "durationMs": 232801,
       "playedAt": "2026-08-18T21:19:40.925Z"
-    },
-    {
-      "name": "Smooth Operator - Single Version",
-      "artists": [
-        "Sade"
-      ],
-      "album": "The Best of Sade",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-      "url": "https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R",
-      "durationMs": 258693,
-      "playedAt": "2026-08-18T21:15:51.075Z"
-    },
-    {
-      "name": "Remember the Time",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Dangerous",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bf4cf0f48b94d0c8297b751a",
-      "url": "https://open.spotify.com/track/4jnFqNWeJCeCRHc4HCdxfd",
-      "durationMs": 240134,
-      "playedAt": "2026-08-18T21:11:35.401Z"
-    },
-    {
-      "name": "The Chain - 2004 Remaster",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Rumours (Super Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
-      "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU",
-      "durationMs": 270213,
-      "playedAt": "2026-08-18T21:07:38.260Z"
-    },
-    {
-      "name": "Heaven Can Wait",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Invincible",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
-      "url": "https://open.spotify.com/track/1AZXNAVDD9ZFIEKySgflFz",
-      "durationMs": 289680,
-      "playedAt": "2026-08-18T21:03:11.047Z"
-    },
-    {
-      "name": "Canned Heat",
-      "artists": [
-        "Jamiroquai"
-      ],
-      "album": "Synkronized",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ccb64f022a53d3e8ec84a20",
-      "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ",
-      "durationMs": 331760,
-      "playedAt": "2026-08-18T20:58:24.348Z"
-    },
-    {
-      "name": "Beat It",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Thriller",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-      "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw",
-      "durationMs": 258296,
-      "playedAt": "2026-08-18T20:52:55.627Z"
     }
   ],
   "topArtists": [
