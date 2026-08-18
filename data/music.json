@@ -1,132 +1,117 @@
 {
-  "updatedAt": "2026-08-18T00:59:43.224Z",
-  "nowPlaying": {
-    "name": "New Gold (feat. Tame Impala and Bootie Brown)",
-    "artists": [
-      "Gorillaz",
-      "Tame Impala",
-      "Bootie Brown"
-    ],
-    "album": "Cracker Island",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27319707804f73dc50f7a29cd86",
-    "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3",
-    "durationMs": 215149,
-    "isPlaying": true,
-    "progressMs": 200338
-  },
+  "updatedAt": "2026-08-18T02:18:09.272Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Rather Be (feat. Jess Glynne)",
+      "name": "Bad - 2012 Remaster",
       "artists": [
-        "Clean Bandit",
-        "Jess Glynne"
+        "Michael Jackson"
       ],
-      "album": "New Eyes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735ef315d54fd701725176292e",
-      "url": "https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM",
-      "durationMs": 227833,
-      "playedAt": "2026-08-18T00:56:25.738Z"
+      "album": "Bad (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
+      "url": "https://open.spotify.com/track/2gSNBigeWMVtY3QBIvPAEc",
+      "durationMs": 247368,
+      "playedAt": "2026-08-18T01:51:24.042Z"
     },
     {
-      "name": "Barbra Streisand - Radio Edit",
-      "artists": [
-        "Duck Sauce",
-        "A-Trak",
-        "Armand Van Helden"
-      ],
-      "album": "Barbra Streisand",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cba37a0344dc3ec8052b42c1",
-      "url": "https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7",
-      "durationMs": 193052,
-      "playedAt": "2026-08-18T00:52:40.847Z"
-    },
-    {
-      "name": "You Want The Sun",
-      "artists": [
-        "Niki & The Dove"
-      ],
-      "album": "Everybody’s Heart Is Broken Now (Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e3c520352ff2c2287c0e78da",
-      "url": "https://open.spotify.com/track/0JRNPoITcFcNSTRErs8moc",
-      "durationMs": 211547,
-      "playedAt": "2026-08-18T00:49:30.838Z"
-    },
-    {
-      "name": "Last Train to London",
-      "artists": [
-        "Rikas"
-      ],
-      "album": "Last Train to London",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731a61a0637f0d90538a950303",
-      "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq",
-      "durationMs": 179000,
-      "playedAt": "2026-08-18T00:46:02.372Z"
-    },
-    {
-      "name": "Lightenup",
-      "artists": [
-        "Parcels"
-      ],
-      "album": "Parcels",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d26bc8655d6132c9e243f82e",
-      "url": "https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki",
-      "durationMs": 237227,
-      "playedAt": "2026-08-18T00:43:06.234Z"
-    },
-    {
-      "name": "Better Than Ever",
-      "artists": [
-        "Video Age"
-      ],
-      "album": "Away From The Castle",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731ad860620284a842e9f92df0",
-      "url": "https://open.spotify.com/track/5fUKZY3f9BGGRbW22toY19",
-      "durationMs": 236188,
-      "playedAt": "2026-08-18T00:39:12.137Z"
-    },
-    {
-      "name": "New Shoes",
-      "artists": [
-        "Paolo Nutini"
-      ],
-      "album": "These Streets",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273280a44b1caee9f2109602c41",
-      "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD",
-      "durationMs": 203653,
-      "playedAt": "2026-08-18T00:35:19.037Z"
-    },
-    {
-      "name": "Jerk It Out",
-      "artists": [
-        "Caesars"
-      ],
-      "album": "Love For The Streets",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346ed4ae9343359e5965baf7b",
-      "url": "https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV",
-      "durationMs": 195666,
-      "playedAt": "2026-08-18T00:31:58.375Z"
-    },
-    {
-      "name": "Dance with Somebody - Radio Version",
+      "name": "God Knows",
       "artists": [
         "Mando Diao"
       ],
-      "album": "Dance with Somebody",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c399529600f436bcdaeb842",
-      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48",
-      "durationMs": 241000,
-      "playedAt": "2026-08-17T23:35:05.242Z"
+      "album": "Hurricane Bar",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d77f5131e85a3164f9c3aeed",
+      "url": "https://open.spotify.com/track/7yvVN0WIduWMnVpnIgZehl",
+      "durationMs": 230733,
+      "playedAt": "2026-08-18T01:47:19.716Z"
     },
     {
-      "name": "Hypotheticals",
+      "name": "The Sign",
       "artists": [
-        "Lake Street Dive"
+        "Ace of Base"
       ],
-      "album": "Obviously",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730c044e52637b2a8362e20659",
-      "url": "https://open.spotify.com/track/5lE2EFXt4muvLFMGQg4hZN",
-      "durationMs": 230178,
-      "playedAt": "2026-08-17T23:31:07.154Z"
+      "album": "The Sign",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE",
+      "durationMs": 191240,
+      "playedAt": "2026-08-18T01:43:32.017Z"
+    },
+    {
+      "name": "The Rubberband Man",
+      "artists": [
+        "The Spinners"
+      ],
+      "album": "The Rubberband Man / Now That We're Together",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27371babe239c18fc21b5e2f0f5",
+      "url": "https://open.spotify.com/track/13Mzsb8VzRSZ5w3pM48cn6",
+      "durationMs": 213000,
+      "playedAt": "2026-08-18T01:40:23.716Z"
+    },
+    {
+      "name": "Midnight Sun",
+      "artists": [
+        "Zara Larsson"
+      ],
+      "album": "Midnight Sun",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737657f9028ea8bb2c18dca99f",
+      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ",
+      "durationMs": 189898,
+      "playedAt": "2026-08-18T01:36:53.914Z"
+    },
+    {
+      "name": "Canned Heat",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "Synkronized",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ccb64f022a53d3e8ec84a20",
+      "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ",
+      "durationMs": 331760,
+      "playedAt": "2026-08-18T01:33:47.014Z"
+    },
+    {
+      "name": "I Just Might",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "album": "The Romantic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395",
+      "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN",
+      "durationMs": 212973,
+      "playedAt": "2026-08-18T01:28:18.112Z"
+    },
+    {
+      "name": "Boogie Wonderland (with The Emotions)",
+      "artists": [
+        "Earth, Wind & Fire",
+        "The Emotions"
+      ],
+      "album": "I Am",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738b2238ebc2b233ba73b8c4ca",
+      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD",
+      "durationMs": 288408,
+      "playedAt": "2026-08-18T01:24:48.116Z"
+    },
+    {
+      "name": "You Can Call Me Al",
+      "artists": [
+        "Paul Simon"
+      ],
+      "album": "Graceland (25th Anniversary Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP",
+      "durationMs": 280586,
+      "playedAt": "2026-08-18T01:13:49.738Z"
+    },
+    {
+      "name": "Musta Been A Ghost",
+      "artists": [
+        "Próxima Parada"
+      ],
+      "album": "Kind Reminder",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dd887b7f06bf71618e299496",
+      "url": "https://open.spotify.com/track/7K6nhFus3bYxYojgrt1n9e",
+      "durationMs": 220096,
+      "playedAt": "2026-08-18T01:09:12.239Z"
     }
   ],
   "topArtists": [
