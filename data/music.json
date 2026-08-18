@@ -1,18 +1,29 @@
 {
-  "updatedAt": "2026-08-18T19:23:59.861Z",
-  "nowPlaying": {
-    "name": "The Way You Make Me Feel - 2012 Remaster",
-    "artists": [
-      "Michael Jackson"
-    ],
-    "album": "Bad (Remastered)",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
-    "url": "https://open.spotify.com/track/76HKOVWqsEg26SECtmw7Rz",
-    "durationMs": 298121,
-    "isPlaying": true,
-    "progressMs": 270834
-  },
+  "updatedAt": "2026-08-18T19:48:01.172Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "La Isla Bonita",
+      "artists": [
+        "Madonna"
+      ],
+      "album": "True Blue",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ab2411303d48498dc1d8c137",
+      "url": "https://open.spotify.com/track/0NJdtoQ3RX5ckBjJlNXhlP",
+      "durationMs": 242733,
+      "playedAt": "2026-08-18T19:28:27.775Z"
+    },
+    {
+      "name": "The Way You Make Me Feel - 2012 Remaster",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Bad (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
+      "url": "https://open.spotify.com/track/76HKOVWqsEg26SECtmw7Rz",
+      "durationMs": 298121,
+      "playedAt": "2026-08-18T19:24:28.041Z"
+    },
     {
       "name": "Lady - Hear Me Tonight",
       "artists": [
@@ -100,29 +111,6 @@
       "url": "https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX",
       "durationMs": 312532,
       "playedAt": "2026-08-18T18:43:50.649Z"
-    },
-    {
-      "name": "A Horse with No Name",
-      "artists": [
-        "America",
-        "George Martin"
-      ],
-      "album": "America",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
-      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt",
-      "durationMs": 252239,
-      "playedAt": "2026-08-18T18:38:41.139Z"
-    },
-    {
-      "name": "Human Nature",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Thriller",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t",
-      "durationMs": 245837,
-      "playedAt": "2026-08-18T18:34:32.140Z"
     }
   ],
   "topArtists": [
