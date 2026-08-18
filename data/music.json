@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-08-18T16:30:32.483Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-18T17:22:26.555Z",
+  "nowPlaying": {
+    "name": "Maneater",
+    "artists": [
+      "Daryl Hall & John Oates"
+    ],
+    "album": "H2O",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cfe4163cbb6d12f3ec15898e",
+    "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY",
+    "durationMs": 273173,
+    "isPlaying": true,
+    "progressMs": 102863
+  },
   "recentlyPlayed": [
+    {
+      "name": "Baby Be Mine",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Thriller",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+      "url": "https://open.spotify.com/track/6XYbMGvtl6tlPoGWaiH7EY",
+      "durationMs": 260368,
+      "playedAt": "2026-08-18T17:20:46.492Z"
+    },
     {
       "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
       "artists": [
@@ -101,17 +123,6 @@
       "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ",
       "durationMs": 331760,
       "playedAt": "2026-08-18T01:33:47.014Z"
-    },
-    {
-      "name": "I Just Might",
-      "artists": [
-        "Bruno Mars"
-      ],
-      "album": "The Romantic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395",
-      "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN",
-      "durationMs": 212973,
-      "playedAt": "2026-08-18T01:28:18.112Z"
     }
   ],
   "topArtists": [
