@@ -1,7 +1,54 @@
 {
-  "updatedAt": "2026-08-18T20:18:26.596Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-18T20:48:31.038Z",
+  "nowPlaying": {
+    "name": "Say Say Say - Remastered 2015",
+    "artists": [
+      "Paul McCartney",
+      "Michael Jackson"
+    ],
+    "album": "Pipes Of Peace (Remastered 2015)",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c55d393c7225798e359bca60",
+    "url": "https://open.spotify.com/track/1db0gbTSKdRQum8VlbNkiO",
+    "durationMs": 235693,
+    "isPlaying": true,
+    "progressMs": 227199
+  },
   "recentlyPlayed": [
+    {
+      "name": "Bad - 2012 Remaster",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Bad (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
+      "url": "https://open.spotify.com/track/2gSNBigeWMVtY3QBIvPAEc",
+      "durationMs": 247368,
+      "playedAt": "2026-08-18T20:44:47.627Z"
+    },
+    {
+      "name": "Skate",
+      "artists": [
+        "Bruno Mars",
+        "Anderson .Paak",
+        "Silk Sonic"
+      ],
+      "album": "An Evening With Silk Sonic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731756c2022529aacfa98d2eb8",
+      "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO",
+      "durationMs": 203122,
+      "playedAt": "2026-08-18T20:40:43.469Z"
+    },
+    {
+      "name": "Wanna Be Startin' Somethin'",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Thriller",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+      "url": "https://open.spotify.com/track/1hu2s7qkm5bo03eODpRQO3",
+      "durationMs": 363400,
+      "playedAt": "2026-08-18T20:37:23.127Z"
+    },
     {
       "name": "La Isla Bonita",
       "artists": [
@@ -78,39 +125,6 @@
       "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH",
       "durationMs": 285373,
       "playedAt": "2026-08-18T18:55:57.315Z"
-    },
-    {
-      "name": "P.Y.T. (Pretty Young Thing)",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Thriller",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-      "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k",
-      "durationMs": 238333,
-      "playedAt": "2026-08-18T18:51:14.914Z"
-    },
-    {
-      "name": "All That She Wants",
-      "artists": [
-        "Ace of Base"
-      ],
-      "album": "The Sign",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175",
-      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9",
-      "durationMs": 211213,
-      "playedAt": "2026-08-18T18:47:18.911Z"
-    },
-    {
-      "name": "Workin' Day and Night",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Off the Wall",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
-      "url": "https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX",
-      "durationMs": 312532,
-      "playedAt": "2026-08-18T18:43:50.649Z"
     }
   ],
   "topArtists": [
