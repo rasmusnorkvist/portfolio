@@ -1,18 +1,118 @@
 {
-  "updatedAt": "2026-08-18T17:53:04.452Z",
+  "updatedAt": "2026-08-18T18:32:08.032Z",
   "nowPlaying": {
-    "name": "Virtual Insanity - Remastered 2006",
+    "name": "Human Nature",
     "artists": [
-      "Jamiroquai"
+      "Michael Jackson"
     ],
-    "album": "Driving Songs",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
-    "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
-    "durationMs": 229360,
+    "album": "Thriller",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+    "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t",
+    "durationMs": 245837,
     "isPlaying": true,
-    "progressMs": 114667
+    "progressMs": 102658
   },
   "recentlyPlayed": [
+    {
+      "name": "Rock Your Body",
+      "artists": [
+        "Justin Timberlake"
+      ],
+      "album": "Justified",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee",
+      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT",
+      "durationMs": 267266,
+      "playedAt": "2026-08-18T18:30:29.313Z"
+    },
+    {
+      "name": "Rock with You - Single Version",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Off the Wall",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
+      "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7",
+      "durationMs": 219926,
+      "playedAt": "2026-08-18T18:26:04.712Z"
+    },
+    {
+      "name": "Africa",
+      "artists": [
+        "TOTO"
+      ],
+      "album": "Toto IV",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df",
+      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX",
+      "durationMs": 295282,
+      "playedAt": "2026-08-18T18:22:27.417Z"
+    },
+    {
+      "name": "Love Never Felt So Good",
+      "artists": [
+        "Michael Jackson",
+        "Justin Timberlake"
+      ],
+      "album": "XSCAPE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0",
+      "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP",
+      "durationMs": 246480,
+      "playedAt": "2026-08-18T18:17:34.115Z"
+    },
+    {
+      "name": "Paradise",
+      "artists": [
+        "Sade"
+      ],
+      "album": "The Best of Sade",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
+      "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b",
+      "durationMs": 217466,
+      "playedAt": "2026-08-18T18:14:44.067Z"
+    },
+    {
+      "name": "Blood on the Dance Floor",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "BLOOD ON THE DANCE FLOOR/ HIStory In The Mix",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273777230e2062652ea3818f1d4",
+      "url": "https://open.spotify.com/track/11lw4bWbmxWIETHitBU0Gc",
+      "durationMs": 254226,
+      "playedAt": "2026-08-18T18:11:09.616Z"
+    },
+    {
+      "name": "Dreams - 2004 Remaster",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "album": "Rumours (Super Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz",
+      "durationMs": 257800,
+      "playedAt": "2026-08-18T18:06:58.414Z"
+    },
+    {
+      "name": "Off the Wall",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Off the Wall",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
+      "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W",
+      "durationMs": 245778,
+      "playedAt": "2026-08-18T18:02:43.616Z"
+    },
+    {
+      "name": "Virtual Insanity - Remastered 2006",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "Driving Songs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
+      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
+      "durationMs": 229360,
+      "playedAt": "2026-08-18T17:54:59.994Z"
+    },
     {
       "name": "You Rock My World",
       "artists": [
@@ -23,106 +123,6 @@
       "url": "https://open.spotify.com/track/1Lhwn4PqeGpM4LTVUowW76",
       "durationMs": 338946,
       "playedAt": "2026-08-18T17:51:13.650Z"
-    },
-    {
-      "name": "Eyes Without A Face",
-      "artists": [
-        "Billy Idol"
-      ],
-      "album": "Rebel Yell",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
-      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS",
-      "durationMs": 299240,
-      "playedAt": "2026-08-18T17:43:46.787Z"
-    },
-    {
-      "name": "Don't Stop 'Til You Get Enough",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Off the Wall",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
-      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ",
-      "durationMs": 364441,
-      "playedAt": "2026-08-18T17:38:50.587Z"
-    },
-    {
-      "name": "I Just Might",
-      "artists": [
-        "Bruno Mars"
-      ],
-      "album": "The Romantic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395",
-      "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN",
-      "durationMs": 212973,
-      "playedAt": "2026-08-18T17:32:49.127Z"
-    },
-    {
-      "name": "Chicago",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "XSCAPE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0",
-      "url": "https://open.spotify.com/track/5BKKy9fIJL5uM9fz1SnqyP",
-      "durationMs": 245565,
-      "playedAt": "2026-08-18T17:29:19.192Z"
-    },
-    {
-      "name": "Maneater",
-      "artists": [
-        "Daryl Hall & John Oates"
-      ],
-      "album": "H2O",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cfe4163cbb6d12f3ec15898e",
-      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY",
-      "durationMs": 273173,
-      "playedAt": "2026-08-18T17:25:16.691Z"
-    },
-    {
-      "name": "Baby Be Mine",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Thriller",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-      "url": "https://open.spotify.com/track/6XYbMGvtl6tlPoGWaiH7EY",
-      "durationMs": 260368,
-      "playedAt": "2026-08-18T17:20:46.492Z"
-    },
-    {
-      "name": "Valerie (feat. Amy Winehouse) - Version Revisited",
-      "artists": [
-        "Mark Ronson",
-        "Amy Winehouse"
-      ],
-      "album": "Version",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736a5beb0500ad6e3b0f7aea22",
-      "url": "https://open.spotify.com/track/6kopmMZiyLmw7h66uXcXR7",
-      "durationMs": 219413,
-      "playedAt": "2026-08-18T10:40:42.924Z"
-    },
-    {
-      "name": "Runaway Baby",
-      "artists": [
-        "Bruno Mars"
-      ],
-      "album": "Doo-Wops & Hooligans",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738a9eb5a1f701d1d367a5ea10",
-      "url": "https://open.spotify.com/track/7hCNBVRhHzcsRAv0TQnOzq",
-      "durationMs": 148448,
-      "playedAt": "2026-08-18T03:28:00.825Z"
-    },
-    {
-      "name": "Adventure of a Lifetime",
-      "artists": [
-        "Coldplay"
-      ],
-      "album": "A Head Full of Dreams",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738ff7c3580d429c8212b9a3b6",
-      "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M",
-      "durationMs": 263786,
-      "playedAt": "2026-08-18T03:25:35.302Z"
     }
   ],
   "topArtists": [
