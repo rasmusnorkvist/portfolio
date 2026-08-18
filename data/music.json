@@ -1,128 +1,128 @@
 {
-  "updatedAt": "2026-08-18T18:32:08.032Z",
+  "updatedAt": "2026-08-18T19:23:59.861Z",
   "nowPlaying": {
-    "name": "Human Nature",
+    "name": "The Way You Make Me Feel - 2012 Remaster",
     "artists": [
       "Michael Jackson"
     ],
-    "album": "Thriller",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-    "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t",
-    "durationMs": 245837,
+    "album": "Bad (Remastered)",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
+    "url": "https://open.spotify.com/track/76HKOVWqsEg26SECtmw7Rz",
+    "durationMs": 298121,
     "isPlaying": true,
-    "progressMs": 102658
+    "progressMs": 270834
   },
   "recentlyPlayed": [
     {
-      "name": "Rock Your Body",
+      "name": "Lady - Hear Me Tonight",
       "artists": [
-        "Justin Timberlake"
+        "Modjo"
       ],
-      "album": "Justified",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee",
-      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT",
-      "durationMs": 267266,
-      "playedAt": "2026-08-18T18:30:29.313Z"
+      "album": "Modjo (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27354c5c304064df85d61253ac7",
+      "url": "https://open.spotify.com/track/49X0LAl6faAusYq02PRAY6",
+      "durationMs": 307153,
+      "playedAt": "2026-08-18T19:19:32.938Z"
     },
     {
-      "name": "Rock with You - Single Version",
+      "name": "Billie Jean",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Thriller",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj",
+      "durationMs": 293802,
+      "playedAt": "2026-08-18T19:12:52.163Z"
+    },
+    {
+      "name": "Blame It on the Boogie",
+      "artists": [
+        "The Jacksons"
+      ],
+      "album": "Destiny",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739daf7b461a827acbbb0e4971",
+      "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS",
+      "durationMs": 215319,
+      "playedAt": "2026-08-18T19:08:01.363Z"
+    },
+    {
+      "name": "Smooth Criminal - 2012 Remaster",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Bad (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
+      "url": "https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j",
+      "durationMs": 257766,
+      "playedAt": "2026-08-18T19:00:12.016Z"
+    },
+    {
+      "name": "Stayin' Alive - From \"Saturday Night Fever\" Soundtrack",
+      "artists": [
+        "Bee Gees"
+      ],
+      "album": "Greatest",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352038992fc6d7868f31d23b7",
+      "url": "https://open.spotify.com/track/3mRM4NM8iO7UBqrSigCQFH",
+      "durationMs": 285373,
+      "playedAt": "2026-08-18T18:55:57.315Z"
+    },
+    {
+      "name": "P.Y.T. (Pretty Young Thing)",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Thriller",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+      "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k",
+      "durationMs": 238333,
+      "playedAt": "2026-08-18T18:51:14.914Z"
+    },
+    {
+      "name": "All That She Wants",
+      "artists": [
+        "Ace of Base"
+      ],
+      "album": "The Sign",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175",
+      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9",
+      "durationMs": 211213,
+      "playedAt": "2026-08-18T18:47:18.911Z"
+    },
+    {
+      "name": "Workin' Day and Night",
       "artists": [
         "Michael Jackson"
       ],
       "album": "Off the Wall",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
-      "url": "https://open.spotify.com/track/7oOOI85fVQvVnK5ynNMdW7",
-      "durationMs": 219926,
-      "playedAt": "2026-08-18T18:26:04.712Z"
+      "url": "https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX",
+      "durationMs": 312532,
+      "playedAt": "2026-08-18T18:43:50.649Z"
     },
     {
-      "name": "Africa",
+      "name": "A Horse with No Name",
       "artists": [
-        "TOTO"
+        "America",
+        "George Martin"
       ],
-      "album": "Toto IV",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ebd6d20c0082524244ef83df",
-      "url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX",
-      "durationMs": 295282,
-      "playedAt": "2026-08-18T18:22:27.417Z"
+      "album": "America",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
+      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt",
+      "durationMs": 252239,
+      "playedAt": "2026-08-18T18:38:41.139Z"
     },
     {
-      "name": "Love Never Felt So Good",
-      "artists": [
-        "Michael Jackson",
-        "Justin Timberlake"
-      ],
-      "album": "XSCAPE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0",
-      "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP",
-      "durationMs": 246480,
-      "playedAt": "2026-08-18T18:17:34.115Z"
-    },
-    {
-      "name": "Paradise",
-      "artists": [
-        "Sade"
-      ],
-      "album": "The Best of Sade",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e25e034e25258b356774c79",
-      "url": "https://open.spotify.com/track/4tReFKumS5bcFahdXDiM1b",
-      "durationMs": 217466,
-      "playedAt": "2026-08-18T18:14:44.067Z"
-    },
-    {
-      "name": "Blood on the Dance Floor",
+      "name": "Human Nature",
       "artists": [
         "Michael Jackson"
       ],
-      "album": "BLOOD ON THE DANCE FLOOR/ HIStory In The Mix",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273777230e2062652ea3818f1d4",
-      "url": "https://open.spotify.com/track/11lw4bWbmxWIETHitBU0Gc",
-      "durationMs": 254226,
-      "playedAt": "2026-08-18T18:11:09.616Z"
-    },
-    {
-      "name": "Dreams - 2004 Remaster",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Rumours (Super Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
-      "url": "https://open.spotify.com/track/0ofHAoxe9vBkTCp2UQIavz",
-      "durationMs": 257800,
-      "playedAt": "2026-08-18T18:06:58.414Z"
-    },
-    {
-      "name": "Off the Wall",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Off the Wall",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
-      "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W",
-      "durationMs": 245778,
-      "playedAt": "2026-08-18T18:02:43.616Z"
-    },
-    {
-      "name": "Virtual Insanity - Remastered 2006",
-      "artists": [
-        "Jamiroquai"
-      ],
-      "album": "Driving Songs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
-      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
-      "durationMs": 229360,
-      "playedAt": "2026-08-18T17:54:59.994Z"
-    },
-    {
-      "name": "You Rock My World",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Invincible",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27376bfd700e0c47fae7f2c7b75",
-      "url": "https://open.spotify.com/track/1Lhwn4PqeGpM4LTVUowW76",
-      "durationMs": 338946,
-      "playedAt": "2026-08-18T17:51:13.650Z"
+      "album": "Thriller",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+      "url": "https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t",
+      "durationMs": 245837,
+      "playedAt": "2026-08-18T18:34:32.140Z"
     }
   ],
   "topArtists": [
