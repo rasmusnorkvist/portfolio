@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-08-19T13:40:23.593Z",
+  "updatedAt": "2026-08-19T14:28:45.490Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Gråbergssång",
+      "artists": [
+        "Mando Diao"
+      ],
+      "album": "Infruset",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
+      "url": "https://open.spotify.com/track/2ydRTgxDnYm8F1HkLVRoXC",
+      "durationMs": 184453,
+      "playedAt": "2026-08-19T14:13:12.090Z"
+    },
+    {
+      "name": "Titania",
+      "artists": [
+        "Mando Diao"
+      ],
+      "album": "Infruset",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
+      "url": "https://open.spotify.com/track/3h9Pb8o0stivQ9xfz3K68v",
+      "durationMs": 204040,
+      "playedAt": "2026-08-19T14:10:07.683Z"
+    },
+    {
+      "name": "En ung mor",
+      "artists": [
+        "Mando Diao"
+      ],
+      "album": "Infruset",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
+      "url": "https://open.spotify.com/track/4ZwEZqfaV0C6htrNQ94SEK",
+      "durationMs": 176346,
+      "playedAt": "2026-08-19T14:06:43.590Z"
+    },
+    {
+      "name": "Men",
+      "artists": [
+        "Mando Diao"
+      ],
+      "album": "Infruset",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
+      "url": "https://open.spotify.com/track/67ZzlliUd2UWekcoGzNj3c",
+      "durationMs": 172906,
+      "playedAt": "2026-08-19T14:03:47.129Z"
+    },
+    {
+      "name": "Men",
+      "artists": [
+        "Mando Diao"
+      ],
+      "album": "Infruset",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
+      "url": "https://open.spotify.com/track/67ZzlliUd2UWekcoGzNj3c",
+      "durationMs": 172906,
+      "playedAt": "2026-08-19T13:12:22.713Z"
+    },
     {
       "name": "Strövtåg i hembygden",
       "artists": [
@@ -56,62 +111,6 @@
       "url": "https://open.spotify.com/track/38VGUniscpQ4yXBM9Lgku3",
       "durationMs": 400320,
       "playedAt": "2026-08-19T01:22:19.486Z"
-    },
-    {
-      "name": "Den självslagne",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Infruset",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
-      "url": "https://open.spotify.com/track/2XbvR3EnADAHNi4mzkYwCP",
-      "durationMs": 107013,
-      "playedAt": "2026-08-19T01:15:37.881Z"
-    },
-    {
-      "name": "Av längtan till dig",
-      "artists": [
-        "Åsa Jinder",
-        "Cajsa Stina Åkerström"
-      ],
-      "album": "Folkmusik På Svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273455d7ca79bfb1bfc01eac9db",
-      "url": "https://open.spotify.com/track/16umabsUYAkuS1ZX8D1WcJ",
-      "durationMs": 211426,
-      "playedAt": "2026-08-19T00:45:04.482Z"
-    },
-    {
-      "name": "Ett av dom sätt",
-      "artists": [
-        "Peter LeMarc"
-      ],
-      "album": "Sången dom spelar när filmen är slut",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f3257119f34c96ac9eb01ec",
-      "url": "https://open.spotify.com/track/16xd1M5MtH2a3PsMusOyM1",
-      "durationMs": 156040,
-      "playedAt": "2026-08-19T00:41:36.005Z"
-    },
-    {
-      "name": "Sång för april",
-      "artists": [
-        "Peter LeMarc"
-      ],
-      "album": "Närmare gränsen",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bdf7704046e15e078824e721",
-      "url": "https://open.spotify.com/track/339sqQQftdQW8wKWbfq0Dj",
-      "durationMs": 242013,
-      "playedAt": "2026-08-19T00:36:44.382Z"
-    },
-    {
-      "name": "If I Used To Love You",
-      "artists": [
-        "Daniel Lemma"
-      ],
-      "album": "Morning Train",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273be3994ca049172c875888ca6",
-      "url": "https://open.spotify.com/track/6OaYyjVlTuknHNGgheG73j",
-      "durationMs": 234626,
-      "playedAt": "2026-08-19T00:32:45.381Z"
     }
   ],
   "topArtists": [
