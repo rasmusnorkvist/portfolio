@@ -1,18 +1,62 @@
 {
-  "updatedAt": "2026-08-19T22:50:15.348Z",
-  "nowPlaying": {
-    "name": "December 4th",
-    "artists": [
-      "JAŸ-Z"
-    ],
-    "album": "The Black Album",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-    "url": "https://open.spotify.com/track/7gVaf6eZDV1oQdGwvDYfmU",
-    "durationMs": 272360,
-    "isPlaying": true,
-    "progressMs": 41109
-  },
+  "updatedAt": "2026-08-19T23:18:45.925Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Dirt Off Your Shoulder",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm",
+      "durationMs": 245173,
+      "playedAt": "2026-08-19T23:12:32.671Z"
+    },
+    {
+      "name": "Change Clothes",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/1xE7osYAtzz1PvLoVdOp5E",
+      "durationMs": 258426,
+      "playedAt": "2026-08-19T23:07:32.061Z"
+    },
+    {
+      "name": "Encore",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/1GzNGrxi4NIOKu0Z4npUss",
+      "durationMs": 250973,
+      "playedAt": "2026-08-19T23:03:13.619Z"
+    },
+    {
+      "name": "What More Can I Say",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/75JwFVMnX88ypgshWYBSYL",
+      "durationMs": 295160,
+      "playedAt": "2026-08-19T22:59:02.680Z"
+    },
+    {
+      "name": "December 4th",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/7gVaf6eZDV1oQdGwvDYfmU",
+      "durationMs": 272360,
+      "playedAt": "2026-08-19T22:54:07.475Z"
+    },
     {
       "name": "Interlude",
       "artists": [
@@ -72,61 +116,6 @@
       "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ",
       "durationMs": 304600,
       "playedAt": "2026-08-19T22:31:37.494Z"
-    },
-    {
-      "name": "Hey Ya!",
-      "artists": [
-        "Outkast"
-      ],
-      "album": "Speakerboxxx/The Love Below",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736e88eb6508fd94cd1b745ce2",
-      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM",
-      "durationMs": 235213,
-      "playedAt": "2026-08-19T22:18:38.683Z"
-    },
-    {
-      "name": "93 'Til Infinity",
-      "artists": [
-        "Souls Of Mischief"
-      ],
-      "album": "93 'til Infinity",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343969ecfe687484121805478",
-      "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB",
-      "durationMs": 286440,
-      "playedAt": "2026-08-19T22:14:46.496Z"
-    },
-    {
-      "name": "So Fresh, So Clean",
-      "artists": [
-        "Outkast"
-      ],
-      "album": "Stankonia",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273153b3d6495031cb813a7451c",
-      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4",
-      "durationMs": 240026,
-      "playedAt": "2026-08-19T22:10:03.171Z"
-    },
-    {
-      "name": "Runnin'",
-      "artists": [
-        "The Pharcyde"
-      ],
-      "album": "Labcabincalifornia (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738248914bbbcdcba2d154c8de",
-      "url": "https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5",
-      "durationMs": 296266,
-      "playedAt": "2026-08-19T21:58:55.635Z"
-    },
-    {
-      "name": "I Wish - Radio Edit",
-      "artists": [
-        "Skee-Lo"
-      ],
-      "album": "I Wish",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e2bca5e5a3f48064f2300be",
-      "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT",
-      "durationMs": 252306,
-      "playedAt": "2026-08-19T21:54:02.434Z"
     }
   ],
   "topArtists": [
