@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-19T20:21:47.811Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-19T20:53:06.059Z",
+  "nowPlaying": {
+    "name": "Finesse",
+    "artists": [
+      "Bruno Mars"
+    ],
+    "album": "24K Magic",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
+    "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK",
+    "durationMs": 191000,
+    "isPlaying": true,
+    "progressMs": 6096
+  },
   "recentlyPlayed": [
+    {
+      "name": "GOOD TIMES",
+      "artists": [
+        "Jungle"
+      ],
+      "album": "GOOD TIMES / PROBLEMZ",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739794f349060e0bb35c8a6410",
+      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e",
+      "durationMs": 181312,
+      "playedAt": "2026-08-19T20:47:54.206Z"
+    },
+    {
+      "name": "Virtual Insanity - Remastered 2006",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "Driving Songs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
+      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
+      "durationMs": 229360,
+      "playedAt": "2026-08-19T20:44:55.907Z"
+    },
+    {
+      "name": "Weapon of Choice",
+      "artists": [
+        "Fatboy Slim"
+      ],
+      "album": "Weapon of Choice EP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b899cacf9115d9dd1a52a1f",
+      "url": "https://open.spotify.com/track/1sooHNTnK4CAn7HLTU3Q59",
+      "durationMs": 220373,
+      "playedAt": "2026-08-19T20:41:09.672Z"
+    },
     {
       "name": "Neverender",
       "artists": [
@@ -86,41 +130,6 @@
       "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk",
       "durationMs": 244999,
       "playedAt": "2026-08-19T18:27:55.057Z"
-    },
-    {
-      "name": "Shadowman",
-      "artists": [
-        "Deki Alem"
-      ],
-      "album": "Fluent Stutter",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273debb9e0ae6a51569da0e7ece",
-      "url": "https://open.spotify.com/track/0cytkUZkllEce2mqaMRvlZ",
-      "durationMs": 177181,
-      "playedAt": "2026-08-19T18:23:53.234Z"
-    },
-    {
-      "name": "Cosmic Girl - Remastered 2013",
-      "artists": [
-        "Jamiroquai"
-      ],
-      "album": "Travelling Without Moving (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736407aa9a5e5215cf554ad5d1",
-      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK",
-      "durationMs": 244146,
-      "playedAt": "2026-08-19T18:20:58.956Z"
-    },
-    {
-      "name": "Talk of the Town",
-      "artists": [
-        "Fred again..",
-        "Sammy Virji",
-        "Reggie"
-      ],
-      "album": "USB",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12",
-      "url": "https://open.spotify.com/track/1O8jgjoGRcRwcD4QPQbz8S",
-      "durationMs": 193846,
-      "playedAt": "2026-08-19T18:09:22.796Z"
     }
   ],
   "topArtists": [
