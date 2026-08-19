@@ -1,18 +1,53 @@
 {
-  "updatedAt": "2026-08-19T21:21:16.018Z",
+  "updatedAt": "2026-08-19T21:49:35.905Z",
   "nowPlaying": {
-    "name": "All Eyez On Me",
+    "name": "I Wish - Radio Edit",
     "artists": [
-      "2Pac"
+      "Skee-Lo"
     ],
-    "album": "All Eyez On Me",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
-    "url": "https://open.spotify.com/track/2xTft6GEZeTyWNpdX94rkf",
-    "durationMs": 307773,
+    "album": "I Wish",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e2bca5e5a3f48064f2300be",
+    "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT",
+    "durationMs": 252306,
     "isPlaying": true,
-    "progressMs": 103731
+    "progressMs": 27698
   },
   "recentlyPlayed": [
+    {
+      "name": "Miami",
+      "artists": [
+        "Will Smith"
+      ],
+      "album": "Big Willie Style",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ddf2f9edabd166c60047e3c4",
+      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8",
+      "durationMs": 197560,
+      "playedAt": "2026-08-19T21:49:11.904Z"
+    },
+    {
+      "name": "Money Trees",
+      "artists": [
+        "Kendrick Lamar",
+        "Jay Rock"
+      ],
+      "album": "good kid, m.A.A.d city",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732cd55246d935a8a77cb4859e",
+      "url": "https://open.spotify.com/track/74tLlkN3rgVzRqQJgPfink",
+      "durationMs": 386906,
+      "playedAt": "2026-08-19T21:31:04.729Z"
+    },
+    {
+      "name": "All Eyez On Me (ft. Big Syke)",
+      "artists": [
+        "2Pac",
+        "Big Syke"
+      ],
+      "album": "All Eyez On Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596",
+      "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
+      "durationMs": 307773,
+      "playedAt": "2026-08-19T21:24:41.031Z"
+    },
     {
       "name": "Still D.R.E.",
       "artists": [
@@ -90,40 +125,6 @@
       "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e",
       "durationMs": 181312,
       "playedAt": "2026-08-19T20:47:54.206Z"
-    },
-    {
-      "name": "Virtual Insanity - Remastered 2006",
-      "artists": [
-        "Jamiroquai"
-      ],
-      "album": "Driving Songs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
-      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
-      "durationMs": 229360,
-      "playedAt": "2026-08-19T20:44:55.907Z"
-    },
-    {
-      "name": "Weapon of Choice",
-      "artists": [
-        "Fatboy Slim"
-      ],
-      "album": "Weapon of Choice EP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b899cacf9115d9dd1a52a1f",
-      "url": "https://open.spotify.com/track/1sooHNTnK4CAn7HLTU3Q59",
-      "durationMs": 220373,
-      "playedAt": "2026-08-19T20:41:09.672Z"
-    },
-    {
-      "name": "Neverender",
-      "artists": [
-        "Justice",
-        "Tame Impala"
-      ],
-      "album": "Hyperdrama",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273730e327760fe592ad69bf18e",
-      "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn",
-      "durationMs": 266493,
-      "playedAt": "2026-08-19T19:42:16.748Z"
     }
   ],
   "topArtists": [
