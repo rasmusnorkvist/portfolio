@@ -1,7 +1,107 @@
 {
-  "updatedAt": "2026-08-18T23:45:28.568Z",
+  "updatedAt": "2026-08-19T01:00:16.591Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Av längtan till dig",
+      "artists": [
+        "Åsa Jinder",
+        "Cajsa Stina Åkerström"
+      ],
+      "album": "Folkmusik På Svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273455d7ca79bfb1bfc01eac9db",
+      "url": "https://open.spotify.com/track/16umabsUYAkuS1ZX8D1WcJ",
+      "durationMs": 211426,
+      "playedAt": "2026-08-19T00:45:04.482Z"
+    },
+    {
+      "name": "Ett av dom sätt",
+      "artists": [
+        "Peter LeMarc"
+      ],
+      "album": "Sången dom spelar när filmen är slut",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f3257119f34c96ac9eb01ec",
+      "url": "https://open.spotify.com/track/16xd1M5MtH2a3PsMusOyM1",
+      "durationMs": 156040,
+      "playedAt": "2026-08-19T00:41:36.005Z"
+    },
+    {
+      "name": "Sång för april",
+      "artists": [
+        "Peter LeMarc"
+      ],
+      "album": "Närmare gränsen",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bdf7704046e15e078824e721",
+      "url": "https://open.spotify.com/track/339sqQQftdQW8wKWbfq0Dj",
+      "durationMs": 242013,
+      "playedAt": "2026-08-19T00:36:44.382Z"
+    },
+    {
+      "name": "If I Used To Love You",
+      "artists": [
+        "Daniel Lemma"
+      ],
+      "album": "Morning Train",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273be3994ca049172c875888ca6",
+      "url": "https://open.spotify.com/track/6OaYyjVlTuknHNGgheG73j",
+      "durationMs": 234626,
+      "playedAt": "2026-08-19T00:32:45.381Z"
+    },
+    {
+      "name": "En stund på jorden",
+      "artists": [
+        "Laleh"
+      ],
+      "album": "Colors",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eeb668b40f24b2417943e211",
+      "url": "https://open.spotify.com/track/0Zii0Q4Z17kd1XMB27CQ2t",
+      "durationMs": 232858,
+      "playedAt": "2026-08-19T00:28:53.782Z"
+    },
+    {
+      "name": "Himlen runt hörnet",
+      "artists": [
+        "Lisa Nilsson"
+      ],
+      "album": "Himlen runt hörnet",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273619f60dd041fcfffbfc2263c",
+      "url": "https://open.spotify.com/track/3uhF5EBcuqqXELlszBhIOy",
+      "durationMs": 305413,
+      "playedAt": "2026-08-19T00:25:03.881Z"
+    },
+    {
+      "name": "Håll om mej!",
+      "artists": [
+        "Peter LeMarc"
+      ],
+      "album": "Peter LeMarc",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273476cd04baf56b0a60791a2ce",
+      "url": "https://open.spotify.com/track/2KqY5Bvi0l2wNyWYpzzrDr",
+      "durationMs": 232946,
+      "playedAt": "2026-08-19T00:20:01.482Z"
+    },
+    {
+      "name": "Fråga stjärnorna",
+      "artists": [
+        "Cajsa Stina Åkerström"
+      ],
+      "album": "Cajsa Stina",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ab333db7cfebcd2aa05b246d",
+      "url": "https://open.spotify.com/track/1QJcdzMUidsBaMTHoZZRGn",
+      "durationMs": 255280,
+      "playedAt": "2026-08-19T00:16:11.578Z"
+    },
+    {
+      "name": "Little Willie John - Version",
+      "artists": [
+        "Peter LeMarc"
+      ],
+      "album": "LeMarc - Klassiker",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3593a634876c6e748fa3424",
+      "url": "https://open.spotify.com/track/7M57AuAeA5M4lnWqpUGRIR",
+      "durationMs": 330240,
+      "playedAt": "2026-08-19T00:11:59.300Z"
+    },
     {
       "name": "Jag ger dig min morgon",
       "artists": [
@@ -11,107 +111,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735db8ca3e78a3da93059cbc3b",
       "url": "https://open.spotify.com/track/7nBARurNPIRVcf81uOFz3i",
       "durationMs": 226426,
-      "playedAt": "2026-08-18T23:24:05.357Z"
-    },
-    {
-      "name": "Det finns inga mirakel",
-      "artists": [
-        "Peter LeMarc"
-      ],
-      "album": "Närmare gränsen",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bdf7704046e15e078824e721",
-      "url": "https://open.spotify.com/track/7ppiyPEgnV73SeGXSFcd08",
-      "durationMs": 285706,
-      "playedAt": "2026-08-18T23:20:21.962Z"
-    },
-    {
-      "name": "Lilla fågel blå",
-      "artists": [
-        "Staffan Hellstrand"
-      ],
-      "album": "Regn",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733071e45ed6052aecf94fea58",
-      "url": "https://open.spotify.com/track/24LPjYUpC28ODnHNx25kqo",
-      "durationMs": 283226,
-      "playedAt": "2026-08-18T23:15:39.258Z"
-    },
-    {
-      "name": "Sången dom spelar när filmen är slut - Version",
-      "artists": [
-        "Peter LeMarc"
-      ],
-      "album": "LeMarc - Klassiker",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3593a634876c6e748fa3424",
-      "url": "https://open.spotify.com/track/1IQEuk3ZLGfCkyeIeXR1V6",
-      "durationMs": 291466,
-      "playedAt": "2026-08-18T23:10:58.561Z"
-    },
-    {
-      "name": "Hon har ett sätt",
-      "artists": [
-        "Jakob Hellman"
-      ],
-      "album": "...och stora havet",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380d8f3d5241e4a5b1fd6b4db",
-      "url": "https://open.spotify.com/track/1nrvksAMsxoiEbUkQyxOXo",
-      "durationMs": 201066,
-      "playedAt": "2026-08-18T23:06:09.988Z"
-    },
-    {
-      "name": "Regn hos mej",
-      "artists": [
-        "Orup"
-      ],
-      "album": "Orup 2",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d8842fa09f08442a4e52f816",
-      "url": "https://open.spotify.com/track/1YEwlI2aCKITozVudLxrBs",
-      "durationMs": 185186,
-      "playedAt": "2026-08-18T23:02:51.966Z"
-    },
-    {
-      "name": "Strövtåg i hembygden",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Infruset",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
-      "url": "https://open.spotify.com/track/7KOegFQMd13ETQry4A6Tu1",
-      "durationMs": 249573,
-      "playedAt": "2026-08-18T22:59:49.766Z"
-    },
-    {
-      "name": "Tess",
-      "artists": [
-        "Peter LeMarc"
-      ],
-      "album": "Bok med blanka sidor",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736224f1f20e9f1962acf81735",
-      "url": "https://open.spotify.com/track/3lLh4EHR2PBdmBFrMDIIuC",
-      "durationMs": 216520,
-      "playedAt": "2026-08-18T22:55:43.193Z"
-    },
-    {
-      "name": "Boogie Wonderland (with The Emotions)",
-      "artists": [
-        "Earth, Wind & Fire",
-        "The Emotions"
-      ],
-      "album": "I Am",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738b2238ebc2b233ba73b8c4ca",
-      "url": "https://open.spotify.com/track/6ztstiyZL6FXzh4aG46ZPD",
-      "durationMs": 288408,
-      "playedAt": "2026-08-18T21:32:19.131Z"
-    },
-    {
-      "name": "Black or White",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Dangerous",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bf4cf0f48b94d0c8297b751a",
-      "url": "https://open.spotify.com/track/7EsjkelQuoUlJXEw7SeVV4",
-      "durationMs": 256017,
-      "playedAt": "2026-08-18T21:27:33.522Z"
+      "playedAt": "2026-08-19T00:06:32.084Z"
     }
   ],
   "topArtists": [
