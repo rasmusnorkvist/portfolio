@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2026-08-19T23:18:45.925Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-19T23:45:55.322Z",
+  "nowPlaying": {
+    "name": "Allure",
+    "artists": [
+      "JAŸ-Z"
+    ],
+    "album": "The Black Album",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+    "url": "https://open.spotify.com/track/6Sgm6qofFJPJG1A06mzDIb",
+    "durationMs": 292493,
+    "isPlaying": true,
+    "progressMs": 203673
+  },
   "recentlyPlayed": [
+    {
+      "name": "Lucifer",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/05VHidqx1tV6V7MsCdAIby",
+      "durationMs": 192040,
+      "playedAt": "2026-08-19T23:42:32.412Z"
+    },
+    {
+      "name": "Justify My Thug",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/1cBhXfX0IlaTpqovVcdyFv",
+      "durationMs": 244066,
+      "playedAt": "2026-08-19T23:39:20.432Z"
+    },
+    {
+      "name": "Public Service Announcement (Interlude)",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/1WOwGVtrVWtV3WW7X4TZoB",
+      "durationMs": 173000,
+      "playedAt": "2026-08-19T23:35:16.316Z"
+    },
+    {
+      "name": "99 Problems",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/7sLpSWxQazJzDVG6YGzlVs",
+      "durationMs": 234626,
+      "playedAt": "2026-08-19T23:31:59.128Z"
+    },
+    {
+      "name": "Moment Of Clarity",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/5TTFD5DuFhQOrs0RJxGDbD",
+      "durationMs": 264066,
+      "playedAt": "2026-08-19T23:28:04.532Z"
+    },
+    {
+      "name": "Threat",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/2Zl1wunKulBAythbBKmW4S",
+      "durationMs": 245626,
+      "playedAt": "2026-08-19T23:23:40.434Z"
+    },
     {
       "name": "Dirt Off Your Shoulder",
       "artists": [
@@ -45,77 +122,6 @@
       "url": "https://open.spotify.com/track/75JwFVMnX88ypgshWYBSYL",
       "durationMs": 295160,
       "playedAt": "2026-08-19T22:59:02.680Z"
-    },
-    {
-      "name": "December 4th",
-      "artists": [
-        "JAŸ-Z"
-      ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/7gVaf6eZDV1oQdGwvDYfmU",
-      "durationMs": 272360,
-      "playedAt": "2026-08-19T22:54:07.475Z"
-    },
-    {
-      "name": "Interlude",
-      "artists": [
-        "JAŸ-Z"
-      ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/2D4JZUIZVJVzZz9gpYaiO9",
-      "durationMs": 81800,
-      "playedAt": "2026-08-19T22:49:35.036Z"
-    },
-    {
-      "name": "They Want EFX",
-      "artists": [
-        "Das EFX"
-      ],
-      "album": "Dead Serious",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27348cedec86716241749e0b5b3",
-      "url": "https://open.spotify.com/track/3HCzj965m8Fz2E8wZkir6q",
-      "durationMs": 221400,
-      "playedAt": "2026-08-19T22:43:02.723Z"
-    },
-    {
-      "name": "I'll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster",
-      "artists": [
-        "Diddy",
-        "112",
-        "Faith Evans"
-      ],
-      "album": "No Way Out (2014 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733680b3a63917a1523b5a8ac9",
-      "url": "https://open.spotify.com/track/1yy2DlSDtEt90d54rPDPXz",
-      "durationMs": 306560,
-      "playedAt": "2026-08-19T22:40:10.264Z"
-    },
-    {
-      "name": "Regulate",
-      "artists": [
-        "Warren G",
-        "Nate Dogg"
-      ],
-      "album": "Regulate...G Funk Era (20th Anniversary)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fb009ec94ffc5a282a06f03b",
-      "url": "https://open.spotify.com/track/4uIKHABS2ixy0AW0Y31rj4",
-      "durationMs": 248866,
-      "playedAt": "2026-08-19T22:35:34.967Z"
-    },
-    {
-      "name": "No Diggity",
-      "artists": [
-        "Blackstreet",
-        "Dr. Dre",
-        "Queen Pen"
-      ],
-      "album": "Another Level",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27303ca37157b9ceefbe8fe225b",
-      "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ",
-      "durationMs": 304600,
-      "playedAt": "2026-08-19T22:31:37.494Z"
     }
   ],
   "topArtists": [
