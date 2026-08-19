@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T15:02:58.484Z",
+  "updatedAt": "2026-08-19T15:56:36.798Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -151,15 +151,15 @@
       "genres": []
     },
     {
-      "name": "Fleetwood Mac",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
-      "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
+      "name": "Mando Diao",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
+      "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
       "genres": []
     },
     {
-      "name": "Rapallo",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
-      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
+      "name": "Fleetwood Mac",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
+      "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
       "genres": []
     }
   ],
