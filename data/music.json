@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T11:20:52.359Z",
+  "updatedAt": "2026-08-19T11:49:27.968Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -119,19 +119,27 @@
       "name": "Steely Dan",
       "imageUrl": "https://i.scdn.co/image/9d01e4e9aac39b891d684d3d1a5b3a451d7c72bd",
       "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE",
-      "genres": []
+      "genres": [
+        "yacht rock",
+        "classic rock"
+      ]
     },
     {
       "name": "E-Type",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
       "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
-      "genres": []
+      "genres": [
+        "eurodance",
+        "europop"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Labyrint",
@@ -143,19 +151,27 @@
       "name": "Paul Simon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
       "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
-      "genres": []
+      "genres": [
+        "singer-songwriter"
+      ]
     },
     {
       "name": "Dina Ögon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
       "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": []
+      "genres": [
+        "yacht rock",
+        "classic rock",
+        "soft rock"
+      ]
     },
     {
       "name": "Rapallo",
