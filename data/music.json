@@ -1,18 +1,42 @@
 {
-  "updatedAt": "2026-08-19T18:28:45.424Z",
-  "nowPlaying": {
-    "name": "Is It True",
-    "artists": [
-      "Tame Impala"
-    ],
-    "album": "The Slow Rush",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
-    "url": "https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d",
-    "durationMs": 239266,
-    "isPlaying": true,
-    "progressMs": 54255
-  },
+  "updatedAt": "2026-08-19T19:03:29.674Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Canned Heat",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "Synkronized",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ccb64f022a53d3e8ec84a20",
+      "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ",
+      "durationMs": 331760,
+      "playedAt": "2026-08-19T18:41:03.655Z"
+    },
+    {
+      "name": "places to be",
+      "artists": [
+        "Fred again..",
+        "Anderson .Paak",
+        "CHIKA"
+      ],
+      "album": "ten days",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739574df129a4a2f4fa4990286",
+      "url": "https://open.spotify.com/track/1qfJ6OvxrspQTmcvdIEoX6",
+      "durationMs": 226677,
+      "playedAt": "2026-08-19T18:35:34.956Z"
+    },
+    {
+      "name": "Is It True",
+      "artists": [
+        "Tame Impala"
+      ],
+      "album": "The Slow Rush",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
+      "url": "https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d",
+      "durationMs": 239266,
+      "playedAt": "2026-08-19T18:31:51.456Z"
+    },
     {
       "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
       "artists": [
@@ -96,41 +120,6 @@
       "url": "https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5",
       "durationMs": 173385,
       "playedAt": "2026-08-19T17:59:38.698Z"
-    },
-    {
-      "name": "Love Foolosophy - Radio Edit",
-      "artists": [
-        "Jamiroquai"
-      ],
-      "album": "A Funk Odyssey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273909ebb0c355f14d0ee7f9974",
-      "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf",
-      "durationMs": 224493,
-      "playedAt": "2026-08-19T17:56:48.345Z"
-    },
-    {
-      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
-      "artists": [
-        "Gorillaz",
-        "Tame Impala",
-        "Bootie Brown"
-      ],
-      "album": "Cracker Island",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27319707804f73dc50f7a29cd86",
-      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3",
-      "durationMs": 215149,
-      "playedAt": "2026-08-19T17:53:06.898Z"
-    },
-    {
-      "name": "Gråbergssång",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Infruset",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
-      "url": "https://open.spotify.com/track/2ydRTgxDnYm8F1HkLVRoXC",
-      "durationMs": 184453,
-      "playedAt": "2026-08-19T14:13:12.090Z"
     }
   ],
   "topArtists": [
