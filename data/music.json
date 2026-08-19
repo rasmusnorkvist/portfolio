@@ -1,18 +1,62 @@
 {
-  "updatedAt": "2026-08-19T21:49:35.905Z",
-  "nowPlaying": {
-    "name": "I Wish - Radio Edit",
-    "artists": [
-      "Skee-Lo"
-    ],
-    "album": "I Wish",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e2bca5e5a3f48064f2300be",
-    "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT",
-    "durationMs": 252306,
-    "isPlaying": true,
-    "progressMs": 27698
-  },
+  "updatedAt": "2026-08-19T22:20:18.869Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Hey Ya!",
+      "artists": [
+        "Outkast"
+      ],
+      "album": "Speakerboxxx/The Love Below",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736e88eb6508fd94cd1b745ce2",
+      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM",
+      "durationMs": 235213,
+      "playedAt": "2026-08-19T22:18:38.683Z"
+    },
+    {
+      "name": "93 'Til Infinity",
+      "artists": [
+        "Souls Of Mischief"
+      ],
+      "album": "93 'til Infinity",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343969ecfe687484121805478",
+      "url": "https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB",
+      "durationMs": 286440,
+      "playedAt": "2026-08-19T22:14:46.496Z"
+    },
+    {
+      "name": "So Fresh, So Clean",
+      "artists": [
+        "Outkast"
+      ],
+      "album": "Stankonia",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273153b3d6495031cb813a7451c",
+      "url": "https://open.spotify.com/track/6glsMWIMIxQ4BedzLqGVi4",
+      "durationMs": 240026,
+      "playedAt": "2026-08-19T22:10:03.171Z"
+    },
+    {
+      "name": "Runnin'",
+      "artists": [
+        "The Pharcyde"
+      ],
+      "album": "Labcabincalifornia (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738248914bbbcdcba2d154c8de",
+      "url": "https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5",
+      "durationMs": 296266,
+      "playedAt": "2026-08-19T21:58:55.635Z"
+    },
+    {
+      "name": "I Wish - Radio Edit",
+      "artists": [
+        "Skee-Lo"
+      ],
+      "album": "I Wish",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e2bca5e5a3f48064f2300be",
+      "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT",
+      "durationMs": 252306,
+      "playedAt": "2026-08-19T21:54:02.434Z"
+    },
     {
       "name": "Miami",
       "artists": [
@@ -70,61 +114,6 @@
       "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j",
       "durationMs": 229826,
       "playedAt": "2026-08-19T21:15:11.230Z"
-    },
-    {
-      "name": "Little L",
-      "artists": [
-        "Jamiroquai"
-      ],
-      "album": "A Funk Odyssey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273909ebb0c355f14d0ee7f9974",
-      "url": "https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc",
-      "durationMs": 295400,
-      "playedAt": "2026-08-19T21:11:00.829Z"
-    },
-    {
-      "name": "Bright Lights Bigger City",
-      "artists": [
-        "CeeLo Green"
-      ],
-      "album": "The Lady Killer",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273745ed32da5e64120925ce7b0",
-      "url": "https://open.spotify.com/track/3lOMPxZipoRwnO0IUvk6WX",
-      "durationMs": 218280,
-      "playedAt": "2026-08-19T21:06:08.629Z"
-    },
-    {
-      "name": "Finesse",
-      "artists": [
-        "Bruno Mars"
-      ],
-      "album": "24K Magic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
-      "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK",
-      "durationMs": 191000,
-      "playedAt": "2026-08-19T20:56:11.701Z"
-    },
-    {
-      "name": "Workin' Day and Night",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Off the Wall",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
-      "url": "https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX",
-      "durationMs": 312532,
-      "playedAt": "2026-08-19T20:53:03.714Z"
-    },
-    {
-      "name": "GOOD TIMES",
-      "artists": [
-        "Jungle"
-      ],
-      "album": "GOOD TIMES / PROBLEMZ",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739794f349060e0bb35c8a6410",
-      "url": "https://open.spotify.com/track/6I6QkE2UVSj9YX48oRrD6e",
-      "durationMs": 181312,
-      "playedAt": "2026-08-19T20:47:54.206Z"
     }
   ],
   "topArtists": [
