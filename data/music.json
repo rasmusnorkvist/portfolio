@@ -1,18 +1,85 @@
 {
-  "updatedAt": "2026-08-19T20:53:06.059Z",
+  "updatedAt": "2026-08-19T21:21:16.018Z",
   "nowPlaying": {
-    "name": "Finesse",
+    "name": "All Eyez On Me",
     "artists": [
-      "Bruno Mars"
+      "2Pac"
     ],
-    "album": "24K Magic",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
-    "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK",
-    "durationMs": 191000,
+    "album": "All Eyez On Me",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a786ad0992cfe0b2719729bf",
+    "url": "https://open.spotify.com/track/2xTft6GEZeTyWNpdX94rkf",
+    "durationMs": 307773,
     "isPlaying": true,
-    "progressMs": 6096
+    "progressMs": 103731
   },
   "recentlyPlayed": [
+    {
+      "name": "Still D.R.E.",
+      "artists": [
+        "Dr. Dre",
+        "Snoop Dogg"
+      ],
+      "album": "Hip Hop: The Collection 2008",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e1006755aa74151e4e04775d",
+      "url": "https://open.spotify.com/track/00twZviPonMhKWN60B3l0F",
+      "durationMs": 267933,
+      "playedAt": "2026-08-19T21:19:36.129Z"
+    },
+    {
+      "name": "Hypnotize - 2014 Remaster",
+      "artists": [
+        "The Notorious B.I.G."
+      ],
+      "album": "Life After Death (2014 Remastered Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j",
+      "durationMs": 229826,
+      "playedAt": "2026-08-19T21:15:11.230Z"
+    },
+    {
+      "name": "Little L",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "A Funk Odyssey",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273909ebb0c355f14d0ee7f9974",
+      "url": "https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc",
+      "durationMs": 295400,
+      "playedAt": "2026-08-19T21:11:00.829Z"
+    },
+    {
+      "name": "Bright Lights Bigger City",
+      "artists": [
+        "CeeLo Green"
+      ],
+      "album": "The Lady Killer",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273745ed32da5e64120925ce7b0",
+      "url": "https://open.spotify.com/track/3lOMPxZipoRwnO0IUvk6WX",
+      "durationMs": 218280,
+      "playedAt": "2026-08-19T21:06:08.629Z"
+    },
+    {
+      "name": "Finesse",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "album": "24K Magic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
+      "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK",
+      "durationMs": 191000,
+      "playedAt": "2026-08-19T20:56:11.701Z"
+    },
+    {
+      "name": "Workin' Day and Night",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Off the Wall",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
+      "url": "https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX",
+      "durationMs": 312532,
+      "playedAt": "2026-08-19T20:53:03.714Z"
+    },
     {
       "name": "GOOD TIMES",
       "artists": [
@@ -57,79 +124,6 @@
       "url": "https://open.spotify.com/track/3aQ9MHkMeL7Yu7jpyF62xn",
       "durationMs": 266493,
       "playedAt": "2026-08-19T19:42:16.748Z"
-    },
-    {
-      "name": "Cracker Island (feat. Thundercat)",
-      "artists": [
-        "Gorillaz",
-        "Thundercat"
-      ],
-      "album": "Cracker Island",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27319707804f73dc50f7a29cd86",
-      "url": "https://open.spotify.com/track/4J3I4jpAtNjsclcs99jzeF",
-      "durationMs": 213750,
-      "playedAt": "2026-08-19T19:37:53.349Z"
-    },
-    {
-      "name": "Skate",
-      "artists": [
-        "Bruno Mars",
-        "Anderson .Paak",
-        "Silk Sonic"
-      ],
-      "album": "An Evening With Silk Sonic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731756c2022529aacfa98d2eb8",
-      "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO",
-      "durationMs": 203122,
-      "playedAt": "2026-08-19T19:34:22.544Z"
-    },
-    {
-      "name": "Canned Heat",
-      "artists": [
-        "Jamiroquai"
-      ],
-      "album": "Synkronized",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ccb64f022a53d3e8ec84a20",
-      "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ",
-      "durationMs": 331760,
-      "playedAt": "2026-08-19T18:41:03.655Z"
-    },
-    {
-      "name": "places to be",
-      "artists": [
-        "Fred again..",
-        "Anderson .Paak",
-        "CHIKA"
-      ],
-      "album": "ten days",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739574df129a4a2f4fa4990286",
-      "url": "https://open.spotify.com/track/1qfJ6OvxrspQTmcvdIEoX6",
-      "durationMs": 226677,
-      "playedAt": "2026-08-19T18:35:34.956Z"
-    },
-    {
-      "name": "Is It True",
-      "artists": [
-        "Tame Impala"
-      ],
-      "album": "The Slow Rush",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
-      "url": "https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d",
-      "durationMs": 239266,
-      "playedAt": "2026-08-19T18:31:51.456Z"
-    },
-    {
-      "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
-      "artists": [
-        "Gorillaz",
-        "Shaun Ryder",
-        "Roses Gabor"
-      ],
-      "album": "Demon Days",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273622aefd794f6fe4d8e714358",
-      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk",
-      "durationMs": 244999,
-      "playedAt": "2026-08-19T18:27:55.057Z"
     }
   ],
   "topArtists": [
