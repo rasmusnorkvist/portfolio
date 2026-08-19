@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2026-08-19T01:00:16.591Z",
+  "updatedAt": "2026-08-19T02:36:41.263Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Strövtåg i hembygden",
+      "artists": [
+        "Mando Diao"
+      ],
+      "album": "Infruset",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
+      "url": "https://open.spotify.com/track/7KOegFQMd13ETQry4A6Tu1",
+      "durationMs": 249573,
+      "playedAt": "2026-08-19T01:39:01.752Z"
+    },
+    {
+      "name": "Snigelns visa",
+      "artists": [
+        "Mando Diao"
+      ],
+      "album": "Infruset",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
+      "url": "https://open.spotify.com/track/2vzSD69uRJFIeZF79SIbm1",
+      "durationMs": 230626,
+      "playedAt": "2026-08-19T01:34:52.152Z"
+    },
+    {
+      "name": "I ungdomen",
+      "artists": [
+        "Mando Diao"
+      ],
+      "album": "Infruset",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
+      "url": "https://open.spotify.com/track/4nlpFQO7SOdTYFac42gOqb",
+      "durationMs": 198973,
+      "playedAt": "2026-08-19T01:31:01.779Z"
+    },
+    {
+      "name": "Infruset",
+      "artists": [
+        "Mando Diao"
+      ],
+      "album": "Infruset",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
+      "url": "https://open.spotify.com/track/0QYKofmjujSGhcTmyvq63L",
+      "durationMs": 323426,
+      "playedAt": "2026-08-19T01:27:42.752Z"
+    },
+    {
+      "name": "En sångarsaga",
+      "artists": [
+        "Mando Diao"
+      ],
+      "album": "Infruset",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
+      "url": "https://open.spotify.com/track/38VGUniscpQ4yXBM9Lgku3",
+      "durationMs": 400320,
+      "playedAt": "2026-08-19T01:22:19.486Z"
+    },
+    {
+      "name": "Den självslagne",
+      "artists": [
+        "Mando Diao"
+      ],
+      "album": "Infruset",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
+      "url": "https://open.spotify.com/track/2XbvR3EnADAHNi4mzkYwCP",
+      "durationMs": 107013,
+      "playedAt": "2026-08-19T01:15:37.881Z"
+    },
     {
       "name": "Av längtan till dig",
       "artists": [
@@ -46,72 +112,6 @@
       "url": "https://open.spotify.com/track/6OaYyjVlTuknHNGgheG73j",
       "durationMs": 234626,
       "playedAt": "2026-08-19T00:32:45.381Z"
-    },
-    {
-      "name": "En stund på jorden",
-      "artists": [
-        "Laleh"
-      ],
-      "album": "Colors",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eeb668b40f24b2417943e211",
-      "url": "https://open.spotify.com/track/0Zii0Q4Z17kd1XMB27CQ2t",
-      "durationMs": 232858,
-      "playedAt": "2026-08-19T00:28:53.782Z"
-    },
-    {
-      "name": "Himlen runt hörnet",
-      "artists": [
-        "Lisa Nilsson"
-      ],
-      "album": "Himlen runt hörnet",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273619f60dd041fcfffbfc2263c",
-      "url": "https://open.spotify.com/track/3uhF5EBcuqqXELlszBhIOy",
-      "durationMs": 305413,
-      "playedAt": "2026-08-19T00:25:03.881Z"
-    },
-    {
-      "name": "Håll om mej!",
-      "artists": [
-        "Peter LeMarc"
-      ],
-      "album": "Peter LeMarc",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273476cd04baf56b0a60791a2ce",
-      "url": "https://open.spotify.com/track/2KqY5Bvi0l2wNyWYpzzrDr",
-      "durationMs": 232946,
-      "playedAt": "2026-08-19T00:20:01.482Z"
-    },
-    {
-      "name": "Fråga stjärnorna",
-      "artists": [
-        "Cajsa Stina Åkerström"
-      ],
-      "album": "Cajsa Stina",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ab333db7cfebcd2aa05b246d",
-      "url": "https://open.spotify.com/track/1QJcdzMUidsBaMTHoZZRGn",
-      "durationMs": 255280,
-      "playedAt": "2026-08-19T00:16:11.578Z"
-    },
-    {
-      "name": "Little Willie John - Version",
-      "artists": [
-        "Peter LeMarc"
-      ],
-      "album": "LeMarc - Klassiker",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3593a634876c6e748fa3424",
-      "url": "https://open.spotify.com/track/7M57AuAeA5M4lnWqpUGRIR",
-      "durationMs": 330240,
-      "playedAt": "2026-08-19T00:11:59.300Z"
-    },
-    {
-      "name": "Jag ger dig min morgon",
-      "artists": [
-        "Fred Åkerström"
-      ],
-      "album": "Två Tungor",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735db8ca3e78a3da93059cbc3b",
-      "url": "https://open.spotify.com/track/7nBARurNPIRVcf81uOFz3i",
-      "durationMs": 226426,
-      "playedAt": "2026-08-19T00:06:32.084Z"
     }
   ],
   "topArtists": [
