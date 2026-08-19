@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-08-19T22:20:18.869Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-19T22:50:15.348Z",
+  "nowPlaying": {
+    "name": "December 4th",
+    "artists": [
+      "JAŸ-Z"
+    ],
+    "album": "The Black Album",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+    "url": "https://open.spotify.com/track/7gVaf6eZDV1oQdGwvDYfmU",
+    "durationMs": 272360,
+    "isPlaying": true,
+    "progressMs": 41109
+  },
   "recentlyPlayed": [
+    {
+      "name": "Interlude",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/2D4JZUIZVJVzZz9gpYaiO9",
+      "durationMs": 81800,
+      "playedAt": "2026-08-19T22:49:35.036Z"
+    },
+    {
+      "name": "They Want EFX",
+      "artists": [
+        "Das EFX"
+      ],
+      "album": "Dead Serious",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27348cedec86716241749e0b5b3",
+      "url": "https://open.spotify.com/track/3HCzj965m8Fz2E8wZkir6q",
+      "durationMs": 221400,
+      "playedAt": "2026-08-19T22:43:02.723Z"
+    },
+    {
+      "name": "I'll Be Missing You (feat. Faith Evans & 112) - 2014 Remaster",
+      "artists": [
+        "Diddy",
+        "112",
+        "Faith Evans"
+      ],
+      "album": "No Way Out (2014 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733680b3a63917a1523b5a8ac9",
+      "url": "https://open.spotify.com/track/1yy2DlSDtEt90d54rPDPXz",
+      "durationMs": 306560,
+      "playedAt": "2026-08-19T22:40:10.264Z"
+    },
+    {
+      "name": "Regulate",
+      "artists": [
+        "Warren G",
+        "Nate Dogg"
+      ],
+      "album": "Regulate...G Funk Era (20th Anniversary)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fb009ec94ffc5a282a06f03b",
+      "url": "https://open.spotify.com/track/4uIKHABS2ixy0AW0Y31rj4",
+      "durationMs": 248866,
+      "playedAt": "2026-08-19T22:35:34.967Z"
+    },
+    {
+      "name": "No Diggity",
+      "artists": [
+        "Blackstreet",
+        "Dr. Dre",
+        "Queen Pen"
+      ],
+      "album": "Another Level",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27303ca37157b9ceefbe8fe225b",
+      "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ",
+      "durationMs": 304600,
+      "playedAt": "2026-08-19T22:31:37.494Z"
+    },
     {
       "name": "Hey Ya!",
       "artists": [
@@ -56,64 +127,6 @@
       "url": "https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT",
       "durationMs": 252306,
       "playedAt": "2026-08-19T21:54:02.434Z"
-    },
-    {
-      "name": "Miami",
-      "artists": [
-        "Will Smith"
-      ],
-      "album": "Big Willie Style",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ddf2f9edabd166c60047e3c4",
-      "url": "https://open.spotify.com/track/6e8Ou0wiqAzIpWb2eSxll8",
-      "durationMs": 197560,
-      "playedAt": "2026-08-19T21:49:11.904Z"
-    },
-    {
-      "name": "Money Trees",
-      "artists": [
-        "Kendrick Lamar",
-        "Jay Rock"
-      ],
-      "album": "good kid, m.A.A.d city",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732cd55246d935a8a77cb4859e",
-      "url": "https://open.spotify.com/track/74tLlkN3rgVzRqQJgPfink",
-      "durationMs": 386906,
-      "playedAt": "2026-08-19T21:31:04.729Z"
-    },
-    {
-      "name": "All Eyez On Me (ft. Big Syke)",
-      "artists": [
-        "2Pac",
-        "Big Syke"
-      ],
-      "album": "All Eyez On Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596",
-      "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
-      "durationMs": 307773,
-      "playedAt": "2026-08-19T21:24:41.031Z"
-    },
-    {
-      "name": "Still D.R.E.",
-      "artists": [
-        "Dr. Dre",
-        "Snoop Dogg"
-      ],
-      "album": "Hip Hop: The Collection 2008",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e1006755aa74151e4e04775d",
-      "url": "https://open.spotify.com/track/00twZviPonMhKWN60B3l0F",
-      "durationMs": 267933,
-      "playedAt": "2026-08-19T21:19:36.129Z"
-    },
-    {
-      "name": "Hypnotize - 2014 Remaster",
-      "artists": [
-        "The Notorious B.I.G."
-      ],
-      "album": "Life After Death (2014 Remastered Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
-      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j",
-      "durationMs": 229826,
-      "playedAt": "2026-08-19T21:15:11.230Z"
     }
   ],
   "topArtists": [
