@@ -1,7 +1,126 @@
 {
-  "updatedAt": "2026-08-19T17:49:24.561Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-19T18:28:45.424Z",
+  "nowPlaying": {
+    "name": "Is It True",
+    "artists": [
+      "Tame Impala"
+    ],
+    "album": "The Slow Rush",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
+    "url": "https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d",
+    "durationMs": 239266,
+    "isPlaying": true,
+    "progressMs": 54255
+  },
   "recentlyPlayed": [
+    {
+      "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
+      "artists": [
+        "Gorillaz",
+        "Shaun Ryder",
+        "Roses Gabor"
+      ],
+      "album": "Demon Days",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273622aefd794f6fe4d8e714358",
+      "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk",
+      "durationMs": 244999,
+      "playedAt": "2026-08-19T18:27:55.057Z"
+    },
+    {
+      "name": "Shadowman",
+      "artists": [
+        "Deki Alem"
+      ],
+      "album": "Fluent Stutter",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273debb9e0ae6a51569da0e7ece",
+      "url": "https://open.spotify.com/track/0cytkUZkllEce2mqaMRvlZ",
+      "durationMs": 177181,
+      "playedAt": "2026-08-19T18:23:53.234Z"
+    },
+    {
+      "name": "Cosmic Girl - Remastered 2013",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "Travelling Without Moving (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736407aa9a5e5215cf554ad5d1",
+      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK",
+      "durationMs": 244146,
+      "playedAt": "2026-08-19T18:20:58.956Z"
+    },
+    {
+      "name": "Talk of the Town",
+      "artists": [
+        "Fred again..",
+        "Sammy Virji",
+        "Reggie"
+      ],
+      "album": "USB",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734018b70099d433d9c8aabb12",
+      "url": "https://open.spotify.com/track/1O8jgjoGRcRwcD4QPQbz8S",
+      "durationMs": 193846,
+      "playedAt": "2026-08-19T18:09:22.796Z"
+    },
+    {
+      "name": "Fly As Me",
+      "artists": [
+        "Bruno Mars",
+        "Anderson .Paak",
+        "Silk Sonic"
+      ],
+      "album": "An Evening With Silk Sonic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731756c2022529aacfa98d2eb8",
+      "url": "https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5",
+      "durationMs": 219389,
+      "playedAt": "2026-08-19T18:06:11.992Z"
+    },
+    {
+      "name": "Cobrastyle (feat. Mad Cobra)",
+      "artists": [
+        "Teddybears",
+        "Mad Cobra"
+      ],
+      "album": "Fresh",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731c5ab58ca8dbe135c6482aeb",
+      "url": "https://open.spotify.com/track/45sdD9GjryujVOcRJ4YQRQ",
+      "durationMs": 179853,
+      "playedAt": "2026-08-19T18:02:35.595Z"
+    },
+    {
+      "name": "Think About Things",
+      "artists": [
+        "Daði Freyr"
+      ],
+      "album": "Think About Things",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27340d0f2a4d4c9b5b7ac978f4b",
+      "url": "https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5",
+      "durationMs": 173385,
+      "playedAt": "2026-08-19T17:59:38.698Z"
+    },
+    {
+      "name": "Love Foolosophy - Radio Edit",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "A Funk Odyssey",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273909ebb0c355f14d0ee7f9974",
+      "url": "https://open.spotify.com/track/0upgxxew2mVAEctrz08jnf",
+      "durationMs": 224493,
+      "playedAt": "2026-08-19T17:56:48.345Z"
+    },
+    {
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "artists": [
+        "Gorillaz",
+        "Tame Impala",
+        "Bootie Brown"
+      ],
+      "album": "Cracker Island",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27319707804f73dc50f7a29cd86",
+      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3",
+      "durationMs": 215149,
+      "playedAt": "2026-08-19T17:53:06.898Z"
+    },
     {
       "name": "Gråbergssång",
       "artists": [
@@ -12,105 +131,6 @@
       "url": "https://open.spotify.com/track/2ydRTgxDnYm8F1HkLVRoXC",
       "durationMs": 184453,
       "playedAt": "2026-08-19T14:13:12.090Z"
-    },
-    {
-      "name": "Titania",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Infruset",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
-      "url": "https://open.spotify.com/track/3h9Pb8o0stivQ9xfz3K68v",
-      "durationMs": 204040,
-      "playedAt": "2026-08-19T14:10:07.683Z"
-    },
-    {
-      "name": "En ung mor",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Infruset",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
-      "url": "https://open.spotify.com/track/4ZwEZqfaV0C6htrNQ94SEK",
-      "durationMs": 176346,
-      "playedAt": "2026-08-19T14:06:43.590Z"
-    },
-    {
-      "name": "Men",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Infruset",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
-      "url": "https://open.spotify.com/track/67ZzlliUd2UWekcoGzNj3c",
-      "durationMs": 172906,
-      "playedAt": "2026-08-19T14:03:47.129Z"
-    },
-    {
-      "name": "Men",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Infruset",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
-      "url": "https://open.spotify.com/track/67ZzlliUd2UWekcoGzNj3c",
-      "durationMs": 172906,
-      "playedAt": "2026-08-19T13:12:22.713Z"
-    },
-    {
-      "name": "Strövtåg i hembygden",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Infruset",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
-      "url": "https://open.spotify.com/track/7KOegFQMd13ETQry4A6Tu1",
-      "durationMs": 249573,
-      "playedAt": "2026-08-19T01:39:01.752Z"
-    },
-    {
-      "name": "Snigelns visa",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Infruset",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
-      "url": "https://open.spotify.com/track/2vzSD69uRJFIeZF79SIbm1",
-      "durationMs": 230626,
-      "playedAt": "2026-08-19T01:34:52.152Z"
-    },
-    {
-      "name": "I ungdomen",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Infruset",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
-      "url": "https://open.spotify.com/track/4nlpFQO7SOdTYFac42gOqb",
-      "durationMs": 198973,
-      "playedAt": "2026-08-19T01:31:01.779Z"
-    },
-    {
-      "name": "Infruset",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Infruset",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
-      "url": "https://open.spotify.com/track/0QYKofmjujSGhcTmyvq63L",
-      "durationMs": 323426,
-      "playedAt": "2026-08-19T01:27:42.752Z"
-    },
-    {
-      "name": "En sångarsaga",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Infruset",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
-      "url": "https://open.spotify.com/track/38VGUniscpQ4yXBM9Lgku3",
-      "durationMs": 400320,
-      "playedAt": "2026-08-19T01:22:19.486Z"
     }
   ],
   "topArtists": [
