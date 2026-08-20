@@ -1,129 +1,133 @@
 {
-  "updatedAt": "2026-08-20T01:00:33.978Z",
+  "updatedAt": "2026-08-20T02:35:36.591Z",
   "nowPlaying": {
-    "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
+    "name": "Hits from the Bong",
     "artists": [
-      "Wu-Tang Clan"
+      "Cypress Hill"
     ],
-    "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735901aaa980d3e714bf01171c",
-    "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx",
-    "durationMs": 252026,
+    "album": "The Essential Cypress Hill",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273298ac2d7ba7d96d010fcd88c",
+    "url": "https://open.spotify.com/track/4EfBENPBy1GvUWLO9YAp3F",
+    "durationMs": 161440,
     "isPlaying": true,
-    "progressMs": 216098
+    "progressMs": 122732
   },
   "recentlyPlayed": [
     {
-      "name": "Hip-Hop",
+      "name": "You Got Me",
       "artists": [
-        "Dead Prez"
+        "The Roots",
+        "Tariq Trotter",
+        "Erykah Badu",
+        "Eve"
       ],
-      "album": "Let's Get Free",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273592d6367a0957363d7a39e9e",
-      "url": "https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy",
-      "durationMs": 214066,
-      "playedAt": "2026-08-20T00:57:01.259Z"
+      "album": "Things Fall Apart",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bac8015c7e47644fb86e27e2",
+      "url": "https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw",
+      "durationMs": 259306,
+      "playedAt": "2026-08-20T02:33:37.698Z"
     },
     {
-      "name": "O.P.P",
+      "name": "DEAD PRESIDENTS (ALBUM VERSION)",
       "artists": [
-        "Naughty By Nature"
+        "JAŸ-Z"
       ],
-      "album": "Naughty By Nature",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f631e275b1f65ce108977e4e",
-      "url": "https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE",
-      "durationMs": 271066,
-      "playedAt": "2026-08-20T00:53:54.091Z"
+      "album": "Dead Presidents",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731f5b9dc0d758858d8ee01857",
+      "url": "https://open.spotify.com/track/0nzLXQufkRxo1aslz36gJp",
+      "durationMs": 213200,
+      "playedAt": "2026-08-20T02:29:31.239Z"
     },
     {
-      "name": "They Reminisce Over You (T.R.O.Y.)",
+      "name": "The Choice Is Yours (Revisited)",
       "artists": [
-        "Pete Rock & C.L. Smooth"
+        "Black Sheep"
       ],
-      "album": "Mecca And The Soul Brother",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731f1da7722c2c3673759a6a4d",
-      "url": "https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy",
-      "durationMs": 286693,
-      "playedAt": "2026-08-20T00:49:58.072Z"
+      "album": "A Wolf In Sheep's Clothing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a19467a0f512538bd5f25d89",
+      "url": "https://open.spotify.com/track/4k9EkhkFZY8Bk41Qi0Ob7P",
+      "durationMs": 243200,
+      "playedAt": "2026-08-20T02:25:09.256Z"
     },
     {
-      "name": "Rosa Parks",
+      "name": "Set Adrift On Memory Bliss",
       "artists": [
-        "Outkast"
+        "P.M. Dawn"
       ],
-      "album": "Aquemini",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e2352cc20602d45e9a0e7617",
-      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9",
-      "durationMs": 324369,
-      "playedAt": "2026-08-20T00:45:52.886Z"
+      "album": "Of the Heart, of the Soul and of the Cross: The Utopian Experience",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735423456a99eaf4218893d20a",
+      "url": "https://open.spotify.com/track/7vo0ILIm1He4wo30ikYBHh",
+      "durationMs": 255160,
+      "playedAt": "2026-08-20T02:21:59.721Z"
     },
     {
-      "name": "Intergalactic - Remastered 2009",
+      "name": "Keep Ya Head Up",
       "artists": [
-        "Beastie Boys"
+        "2Pac"
       ],
-      "album": "Hello Nasty (Deluxe Edition/Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ab1d7b56d97842315dd0fdaa",
-      "url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R",
-      "durationMs": 231493,
-      "playedAt": "2026-08-20T00:40:47.151Z"
+      "album": "Strictly 4 My N.I.G.G.A.Z...",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737f6f6c9e4b492a3d7e910d82",
+      "url": "https://open.spotify.com/track/0XRbYXQUymj9SJkrr8YK5B",
+      "durationMs": 262506,
+      "playedAt": "2026-08-20T02:18:16.990Z"
     },
     {
-      "name": "Award Tour (feat. Trugoy The Dove)",
+      "name": "Mistadobalina",
       "artists": [
-        "A Tribe Called Quest",
-        "Trugoy The Dove"
+        "Del The Funky Homosapien"
       ],
-      "album": "Midnight Marauders",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f306af1dae08f81f9d6f1f9f",
-      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ",
-      "durationMs": 226440,
-      "playedAt": "2026-08-20T00:37:32.321Z"
+      "album": "The Best Of Del Tha Funkee Homosapien [The Elektra Years]: The B-Boy Handbook",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27310e59be9fca1f647161108db",
+      "url": "https://open.spotify.com/track/0KQd3QY1Y8zC2rfO4ZBQRC",
+      "durationMs": 260306,
+      "playedAt": "2026-08-20T02:13:40.431Z"
     },
     {
-      "name": "He Got Game",
+      "name": "Rebirth Of Slick (Cool Like Dat)",
       "artists": [
-        "Public Enemy",
-        "Stephen Stills"
+        "Digable Planets"
       ],
-      "album": "He Got Game (Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273331c8f13fb4bbf72670f77c7",
-      "url": "https://open.spotify.com/track/7aRGb3vZGMLNpK2PEdUjdA",
-      "durationMs": 286200,
-      "playedAt": "2026-08-20T00:34:27.279Z"
+      "album": "Reachin' (A New Refutation Of Time And Space)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c9f6a742f2337f938e89f599",
+      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9",
+      "durationMs": 261265,
+      "playedAt": "2026-08-20T02:09:58.633Z"
     },
     {
-      "name": "Drop",
+      "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
       "artists": [
-        "The Pharcyde"
+        "The Notorious B.I.G.",
+        "Mase",
+        "Diddy"
       ],
-      "album": "Labcabincalifornia (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738248914bbbcdcba2d154c8de",
-      "url": "https://open.spotify.com/track/7sT3O2PXs1o12XnCKlv204",
-      "durationMs": 334466,
-      "playedAt": "2026-08-20T00:30:15.987Z"
+      "album": "Life After Death (2014 Remastered Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
+      "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz",
+      "durationMs": 257399,
+      "playedAt": "2026-08-20T02:06:33.634Z"
     },
     {
-      "name": "That Voice Again - Remastered",
+      "name": "You Know How We Do It",
       "artists": [
-        "Peter Gabriel"
+        "Ice Cube"
       ],
-      "album": "So (Special Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bade4fc3596a6eee8dd3302a",
-      "url": "https://open.spotify.com/track/1FOurFq9IZqLB7TNUefRMk",
-      "durationMs": 289200,
-      "playedAt": "2026-08-20T00:22:06.386Z"
+      "album": "Lethal Injection",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27368820c2a3865d138ab7daba3",
+      "url": "https://open.spotify.com/track/2Ih217RCGAmyQR68Nn7Cqo",
+      "durationMs": 232773,
+      "playedAt": "2026-08-20T02:02:52.833Z"
     },
     {
-      "name": "Don't Give Up - Remastered",
+      "name": "I Get Around",
       "artists": [
-        "Peter Gabriel"
+        "2Pac",
+        "Digital Underground"
       ],
-      "album": "So (Special Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bade4fc3596a6eee8dd3302a",
-      "url": "https://open.spotify.com/track/1L9sdlXYGlUg4l6PEeJv8M",
-      "durationMs": 394826,
-      "playedAt": "2026-08-20T00:17:17.009Z"
+      "album": "Strictly 4 My N.I.G.G.A.Z...",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737f6f6c9e4b492a3d7e910d82",
+      "url": "https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3",
+      "durationMs": 259000,
+      "playedAt": "2026-08-20T01:59:36.433Z"
     }
   ],
   "topArtists": [
