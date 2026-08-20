@@ -1,127 +1,129 @@
 {
-  "updatedAt": "2026-08-19T23:45:55.322Z",
+  "updatedAt": "2026-08-20T01:00:33.978Z",
   "nowPlaying": {
-    "name": "Allure",
+    "name": "C.R.E.A.M. (Cash Rules Everything Around Me)",
     "artists": [
-      "JAŸ-Z"
+      "Wu-Tang Clan"
     ],
-    "album": "The Black Album",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-    "url": "https://open.spotify.com/track/6Sgm6qofFJPJG1A06mzDIb",
-    "durationMs": 292493,
+    "album": "Enter The Wu-Tang (36 Chambers) [Expanded Edition]",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735901aaa980d3e714bf01171c",
+    "url": "https://open.spotify.com/track/119c93MHjrDLJTApCVGpvx",
+    "durationMs": 252026,
     "isPlaying": true,
-    "progressMs": 203673
+    "progressMs": 216098
   },
   "recentlyPlayed": [
     {
-      "name": "Lucifer",
+      "name": "Hip-Hop",
       "artists": [
-        "JAŸ-Z"
+        "Dead Prez"
       ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/05VHidqx1tV6V7MsCdAIby",
-      "durationMs": 192040,
-      "playedAt": "2026-08-19T23:42:32.412Z"
+      "album": "Let's Get Free",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273592d6367a0957363d7a39e9e",
+      "url": "https://open.spotify.com/track/2HoDr1yVksl19omOhc1zWy",
+      "durationMs": 214066,
+      "playedAt": "2026-08-20T00:57:01.259Z"
     },
     {
-      "name": "Justify My Thug",
+      "name": "O.P.P",
       "artists": [
-        "JAŸ-Z"
+        "Naughty By Nature"
       ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/1cBhXfX0IlaTpqovVcdyFv",
-      "durationMs": 244066,
-      "playedAt": "2026-08-19T23:39:20.432Z"
+      "album": "Naughty By Nature",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f631e275b1f65ce108977e4e",
+      "url": "https://open.spotify.com/track/1k28sDTLOz942qa3wEtMQE",
+      "durationMs": 271066,
+      "playedAt": "2026-08-20T00:53:54.091Z"
     },
     {
-      "name": "Public Service Announcement (Interlude)",
+      "name": "They Reminisce Over You (T.R.O.Y.)",
       "artists": [
-        "JAŸ-Z"
+        "Pete Rock & C.L. Smooth"
       ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/1WOwGVtrVWtV3WW7X4TZoB",
-      "durationMs": 173000,
-      "playedAt": "2026-08-19T23:35:16.316Z"
+      "album": "Mecca And The Soul Brother",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731f1da7722c2c3673759a6a4d",
+      "url": "https://open.spotify.com/track/2Mb3zpobD0CvJGWv6NpsPy",
+      "durationMs": 286693,
+      "playedAt": "2026-08-20T00:49:58.072Z"
     },
     {
-      "name": "99 Problems",
+      "name": "Rosa Parks",
       "artists": [
-        "JAŸ-Z"
+        "Outkast"
       ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/7sLpSWxQazJzDVG6YGzlVs",
-      "durationMs": 234626,
-      "playedAt": "2026-08-19T23:31:59.128Z"
+      "album": "Aquemini",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e2352cc20602d45e9a0e7617",
+      "url": "https://open.spotify.com/track/0shK5iZQppbHPQYiy60xs9",
+      "durationMs": 324369,
+      "playedAt": "2026-08-20T00:45:52.886Z"
     },
     {
-      "name": "Moment Of Clarity",
+      "name": "Intergalactic - Remastered 2009",
       "artists": [
-        "JAŸ-Z"
+        "Beastie Boys"
       ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/5TTFD5DuFhQOrs0RJxGDbD",
-      "durationMs": 264066,
-      "playedAt": "2026-08-19T23:28:04.532Z"
+      "album": "Hello Nasty (Deluxe Edition/Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ab1d7b56d97842315dd0fdaa",
+      "url": "https://open.spotify.com/track/5fpizYGbi5IQoEraj6FP0R",
+      "durationMs": 231493,
+      "playedAt": "2026-08-20T00:40:47.151Z"
     },
     {
-      "name": "Threat",
+      "name": "Award Tour (feat. Trugoy The Dove)",
       "artists": [
-        "JAŸ-Z"
+        "A Tribe Called Quest",
+        "Trugoy The Dove"
       ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/2Zl1wunKulBAythbBKmW4S",
-      "durationMs": 245626,
-      "playedAt": "2026-08-19T23:23:40.434Z"
+      "album": "Midnight Marauders",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f306af1dae08f81f9d6f1f9f",
+      "url": "https://open.spotify.com/track/5YTM7OgQDt9EJAYcfHLniJ",
+      "durationMs": 226440,
+      "playedAt": "2026-08-20T00:37:32.321Z"
     },
     {
-      "name": "Dirt Off Your Shoulder",
+      "name": "He Got Game",
       "artists": [
-        "JAŸ-Z"
+        "Public Enemy",
+        "Stephen Stills"
       ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm",
-      "durationMs": 245173,
-      "playedAt": "2026-08-19T23:12:32.671Z"
+      "album": "He Got Game (Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273331c8f13fb4bbf72670f77c7",
+      "url": "https://open.spotify.com/track/7aRGb3vZGMLNpK2PEdUjdA",
+      "durationMs": 286200,
+      "playedAt": "2026-08-20T00:34:27.279Z"
     },
     {
-      "name": "Change Clothes",
+      "name": "Drop",
       "artists": [
-        "JAŸ-Z"
+        "The Pharcyde"
       ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/1xE7osYAtzz1PvLoVdOp5E",
-      "durationMs": 258426,
-      "playedAt": "2026-08-19T23:07:32.061Z"
+      "album": "Labcabincalifornia (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738248914bbbcdcba2d154c8de",
+      "url": "https://open.spotify.com/track/7sT3O2PXs1o12XnCKlv204",
+      "durationMs": 334466,
+      "playedAt": "2026-08-20T00:30:15.987Z"
     },
     {
-      "name": "Encore",
+      "name": "That Voice Again - Remastered",
       "artists": [
-        "JAŸ-Z"
+        "Peter Gabriel"
       ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/1GzNGrxi4NIOKu0Z4npUss",
-      "durationMs": 250973,
-      "playedAt": "2026-08-19T23:03:13.619Z"
+      "album": "So (Special Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bade4fc3596a6eee8dd3302a",
+      "url": "https://open.spotify.com/track/1FOurFq9IZqLB7TNUefRMk",
+      "durationMs": 289200,
+      "playedAt": "2026-08-20T00:22:06.386Z"
     },
     {
-      "name": "What More Can I Say",
+      "name": "Don't Give Up - Remastered",
       "artists": [
-        "JAŸ-Z"
+        "Peter Gabriel"
       ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/75JwFVMnX88ypgshWYBSYL",
-      "durationMs": 295160,
-      "playedAt": "2026-08-19T22:59:02.680Z"
+      "album": "So (Special Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bade4fc3596a6eee8dd3302a",
+      "url": "https://open.spotify.com/track/1L9sdlXYGlUg4l6PEeJv8M",
+      "durationMs": 394826,
+      "playedAt": "2026-08-20T00:17:17.009Z"
     }
   ],
   "topArtists": [
@@ -168,9 +170,9 @@
       "genres": []
     },
     {
-      "name": "Fleetwood Mac",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
-      "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
+      "name": "JAŸ-Z",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
+      "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
       "genres": []
     }
   ],
