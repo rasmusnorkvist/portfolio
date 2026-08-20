@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-08-20T14:32:05.758Z",
+  "updatedAt": "2026-08-20T15:29:25.727Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Killing Me Softly With His Song",
+      "artists": [
+        "Fugees",
+        "Ms. Lauryn Hill"
+      ],
+      "album": "The Score (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735b7865be7f7fcc05faec6137",
+      "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl",
+      "durationMs": 298666,
+      "playedAt": "2026-08-20T14:46:35.865Z"
+    },
+    {
+      "name": "Doin' Our Own Dang",
+      "artists": [
+        "Jungle Brothers"
+      ],
+      "album": "Done By The Forces Of Nature",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27305b4040611bff0d7659761af",
+      "url": "https://open.spotify.com/track/4fuLWKNpY01OLMT9tARnB4",
+      "durationMs": 258933,
+      "playedAt": "2026-08-20T14:41:37.704Z"
+    },
+    {
+      "name": "Find a Way",
+      "artists": [
+        "A Tribe Called Quest"
+      ],
+      "album": "The Love Movement",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389202df9fbd69ea49e9efe11",
+      "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8",
+      "durationMs": 203066,
+      "playedAt": "2026-08-20T14:38:05.504Z"
+    },
+    {
+      "name": "Find a Way",
+      "artists": [
+        "A Tribe Called Quest"
+      ],
+      "album": "The Love Movement",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389202df9fbd69ea49e9efe11",
+      "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8",
+      "durationMs": 203066,
+      "playedAt": "2026-08-20T14:36:17.339Z"
+    },
     {
       "name": "N.Y. State of Mind",
       "artists": [
@@ -69,53 +114,6 @@
       "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX",
       "durationMs": 238466,
       "playedAt": "2026-08-20T02:43:05.827Z"
-    },
-    {
-      "name": "Jump Around - 30 Years Remaster",
-      "artists": [
-        "House Of Pain"
-      ],
-      "album": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379606c79fde418c0bc458abb",
-      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq",
-      "durationMs": 218546,
-      "playedAt": "2026-08-20T02:39:15.144Z"
-    },
-    {
-      "name": "Hits from the Bong",
-      "artists": [
-        "Cypress Hill"
-      ],
-      "album": "The Essential Cypress Hill",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273298ac2d7ba7d96d010fcd88c",
-      "url": "https://open.spotify.com/track/4EfBENPBy1GvUWLO9YAp3F",
-      "durationMs": 161440,
-      "playedAt": "2026-08-20T02:36:08.743Z"
-    },
-    {
-      "name": "You Got Me",
-      "artists": [
-        "The Roots",
-        "Tariq Trotter",
-        "Erykah Badu",
-        "Eve"
-      ],
-      "album": "Things Fall Apart",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bac8015c7e47644fb86e27e2",
-      "url": "https://open.spotify.com/track/4pdLZsxq0y5oJDb6Cxlokw",
-      "durationMs": 259306,
-      "playedAt": "2026-08-20T02:33:37.698Z"
-    },
-    {
-      "name": "DEAD PRESIDENTS (ALBUM VERSION)",
-      "artists": [
-        "JAŸ-Z"
-      ],
-      "album": "Dead Presidents",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731f5b9dc0d758858d8ee01857",
-      "url": "https://open.spotify.com/track/0nzLXQufkRxo1aslz36gJp",
-      "durationMs": 213200,
-      "playedAt": "2026-08-20T02:29:31.239Z"
     }
   ],
   "topArtists": [
