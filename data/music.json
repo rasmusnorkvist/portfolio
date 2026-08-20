@@ -1,7 +1,41 @@
 {
-  "updatedAt": "2026-08-20T17:00:18.039Z",
+  "updatedAt": "2026-08-20T17:55:43.320Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Life",
+      "artists": [
+        "E-Type",
+        "Nana Hedin"
+      ],
+      "album": "Euro IV Ever",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c89626b8b2a51e1383a86efd",
+      "url": "https://open.spotify.com/track/41Ef0PikCCRBcIM8O0t5HK",
+      "durationMs": 222040,
+      "playedAt": "2026-08-20T17:30:53.624Z"
+    },
+    {
+      "name": "The Alkalite",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/4AlEDesuRd6npBdFHVkfPT",
+      "durationMs": 248568,
+      "playedAt": "2026-08-20T17:25:14.965Z"
+    },
+    {
+      "name": "Do It Again",
+      "artists": [
+        "Steely Dan"
+      ],
+      "album": "Can't Buy A Thrill",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
+      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19",
+      "durationMs": 357041,
+      "playedAt": "2026-08-20T17:21:07.496Z"
+    },
     {
       "name": "Killing Me Softly With His Song",
       "artists": [
@@ -80,40 +114,6 @@
       "url": "https://open.spotify.com/track/2KBo6O5rkNdtYT3wYjkEkq",
       "durationMs": 235212,
       "playedAt": "2026-08-20T04:01:50.540Z"
-    },
-    {
-      "name": "Summertime",
-      "artists": [
-        "DJ Jazzy Jeff & The Fresh Prince"
-      ],
-      "album": "Homebase",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738f8697f6ee69d4b8ea74c9d6",
-      "url": "https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd",
-      "durationMs": 270973,
-      "playedAt": "2026-08-20T03:58:51.820Z"
-    },
-    {
-      "name": "N 2 Gether Now",
-      "artists": [
-        "Limp Bizkit",
-        "Method Man"
-      ],
-      "album": "Significant Other",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c",
-      "url": "https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb",
-      "durationMs": 289866,
-      "playedAt": "2026-08-20T02:47:03.543Z"
-    },
-    {
-      "name": "Hard Knock Life (Ghetto Anthem)",
-      "artists": [
-        "JAŸ-Z"
-      ],
-      "album": "Vol.2... Hard Knock Life",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739700390e9c33c62cfcd915ce",
-      "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX",
-      "durationMs": 238466,
-      "playedAt": "2026-08-20T02:43:05.827Z"
     }
   ],
   "topArtists": [
