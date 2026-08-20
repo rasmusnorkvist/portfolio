@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-08-20T20:56:26.898Z",
+  "updatedAt": "2026-08-20T21:27:34.064Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Topp Doggz",
+      "artists": [
+        "Petter",
+        "Looptroop Rockers"
+      ],
+      "album": "Den Svenska Underjorden",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b37ee66023d9f54c2942252a",
+      "url": "https://open.spotify.com/track/1ArnPmsv5NWRNUJNRIYc5K",
+      "durationMs": 252626,
+      "playedAt": "2026-08-20T21:11:47.645Z"
+    },
+    {
+      "name": "Gin and Juice",
+      "artists": [
+        "Snoop Dogg"
+      ],
+      "album": "Doggystyle",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273733af86f8dea9692a3f59d29",
+      "url": "https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0",
+      "durationMs": 211866,
+      "playedAt": "2026-08-20T21:07:37.914Z"
+    },
+    {
+      "name": "Gott folk",
+      "artists": [
+        "Timbuktu"
+      ],
+      "album": "Wått's dö maddefakking diil?",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736f7b01cab83bdbc1eb2fa811",
+      "url": "https://open.spotify.com/track/7smXtBV1LZXk261okQpJl7",
+      "durationMs": 253413,
+      "playedAt": "2026-08-20T21:04:09.044Z"
+    },
+    {
+      "name": "Stray Dog",
+      "artists": [
+        "Deki Alem"
+      ],
+      "album": "Forget In Mass",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c1f9ec1d4dbb90d40ac89683",
+      "url": "https://open.spotify.com/track/1qyZweacop2nG30Ng6wqt0",
+      "durationMs": 170193,
+      "playedAt": "2026-08-20T20:59:58.573Z"
+    },
     {
       "name": "All Falls Down",
       "artists": [
@@ -73,53 +118,6 @@
       "url": "https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts",
       "durationMs": 303493,
       "playedAt": "2026-08-20T20:36:36.437Z"
-    },
-    {
-      "name": "Hypnotize - 2014 Remaster",
-      "artists": [
-        "The Notorious B.I.G."
-      ],
-      "album": "Life After Death (2014 Remastered Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
-      "url": "https://open.spotify.com/track/7KwZNVEaqikRSBSpyhXK2j",
-      "durationMs": 229826,
-      "playedAt": "2026-08-20T20:31:35.939Z"
-    },
-    {
-      "name": "The Rain",
-      "artists": [
-        "Awon",
-        "Phoniks",
-        "Tiff the Gift"
-      ],
-      "album": "The Actual Proof",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aef4500f9920f7a2464cc883",
-      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew",
-      "durationMs": 163636,
-      "playedAt": "2026-08-20T20:27:49.136Z"
-    },
-    {
-      "name": "Fantasy",
-      "artists": [
-        "Breakbot",
-        "Ruckazoid"
-      ],
-      "album": "By Your Side",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ac2d979712c58dcc49290e0",
-      "url": "https://open.spotify.com/track/6o2Yj3Usc7tfNW9XJQy6eB",
-      "durationMs": 196146,
-      "playedAt": "2026-08-20T20:24:36.823Z"
-    },
-    {
-      "name": "Morirò da Re",
-      "artists": [
-        "Måneskin"
-      ],
-      "album": "Il ballo della vita",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dbc892b8194e35ca3524e767",
-      "url": "https://open.spotify.com/track/1aX0Ki80LFzzhqxqRlqbAV",
-      "durationMs": 157880,
-      "playedAt": "2026-08-20T20:21:18.194Z"
     }
   ],
   "topArtists": [
