@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T22:53:47.066Z",
+  "updatedAt": "2026-08-20T23:21:48.706Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -223,17 +223,6 @@
       "durationMs": 220960
     },
     {
-      "name": "Got to Get (feat. Leila K)",
-      "artists": [
-        "Rob n Raz",
-        "Leila K"
-      ],
-      "album": "Rob n Raz (feat. Leila K)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27370a5259756ea09e952392506",
-      "url": "https://open.spotify.com/track/3Atr2OBXJVIpQ96zxuActC",
-      "durationMs": 201466
-    },
-    {
       "name": "Here I Go Again",
       "artists": [
         "E-Type"
@@ -252,6 +241,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
       "url": "https://open.spotify.com/track/67rBycpa8FTFJkQwP5FzP1",
       "durationMs": 224506
+    },
+    {
+      "name": "Campione 2000 - Radio Version",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "Euro IV Ever",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c89626b8b2a51e1383a86efd",
+      "url": "https://open.spotify.com/track/78UcxP3Xm0EOXneQUDsStA",
+      "durationMs": 213413
     }
   ],
   "featuredPlaylists": []
