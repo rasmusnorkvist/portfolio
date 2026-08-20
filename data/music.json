@@ -1,18 +1,52 @@
 {
-  "updatedAt": "2026-08-20T02:35:36.591Z",
-  "nowPlaying": {
-    "name": "Hits from the Bong",
-    "artists": [
-      "Cypress Hill"
-    ],
-    "album": "The Essential Cypress Hill",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273298ac2d7ba7d96d010fcd88c",
-    "url": "https://open.spotify.com/track/4EfBENPBy1GvUWLO9YAp3F",
-    "durationMs": 161440,
-    "isPlaying": true,
-    "progressMs": 122732
-  },
+  "updatedAt": "2026-08-20T03:42:22.661Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "N 2 Gether Now",
+      "artists": [
+        "Limp Bizkit",
+        "Method Man"
+      ],
+      "album": "Significant Other",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733783782de74f61e36795bf9c",
+      "url": "https://open.spotify.com/track/5SEBSAio1N77Vbrj1cAEGb",
+      "durationMs": 289866,
+      "playedAt": "2026-08-20T02:47:03.543Z"
+    },
+    {
+      "name": "Hard Knock Life (Ghetto Anthem)",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "Vol.2... Hard Knock Life",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739700390e9c33c62cfcd915ce",
+      "url": "https://open.spotify.com/track/5Tl0HJvynZtKdSUMKbFVVX",
+      "durationMs": 238466,
+      "playedAt": "2026-08-20T02:43:05.827Z"
+    },
+    {
+      "name": "Jump Around - 30 Years Remaster",
+      "artists": [
+        "House Of Pain"
+      ],
+      "album": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379606c79fde418c0bc458abb",
+      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq",
+      "durationMs": 218546,
+      "playedAt": "2026-08-20T02:39:15.144Z"
+    },
+    {
+      "name": "Hits from the Bong",
+      "artists": [
+        "Cypress Hill"
+      ],
+      "album": "The Essential Cypress Hill",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273298ac2d7ba7d96d010fcd88c",
+      "url": "https://open.spotify.com/track/4EfBENPBy1GvUWLO9YAp3F",
+      "durationMs": 161440,
+      "playedAt": "2026-08-20T02:36:08.743Z"
+    },
     {
       "name": "You Got Me",
       "artists": [
@@ -81,53 +115,6 @@
       "url": "https://open.spotify.com/track/0KQd3QY1Y8zC2rfO4ZBQRC",
       "durationMs": 260306,
       "playedAt": "2026-08-20T02:13:40.431Z"
-    },
-    {
-      "name": "Rebirth Of Slick (Cool Like Dat)",
-      "artists": [
-        "Digable Planets"
-      ],
-      "album": "Reachin' (A New Refutation Of Time And Space)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c9f6a742f2337f938e89f599",
-      "url": "https://open.spotify.com/track/26q6YTrXt9l8qshIveiTX9",
-      "durationMs": 261265,
-      "playedAt": "2026-08-20T02:09:58.633Z"
-    },
-    {
-      "name": "Mo Money Mo Problems (feat. Puff Daddy & Mase) - 2014 Remaster",
-      "artists": [
-        "The Notorious B.I.G.",
-        "Mase",
-        "Diddy"
-      ],
-      "album": "Life After Death (2014 Remastered Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fde79b88e2a659c394c5ae30",
-      "url": "https://open.spotify.com/track/4INDiWSKvqSKDEu7mh8HFz",
-      "durationMs": 257399,
-      "playedAt": "2026-08-20T02:06:33.634Z"
-    },
-    {
-      "name": "You Know How We Do It",
-      "artists": [
-        "Ice Cube"
-      ],
-      "album": "Lethal Injection",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27368820c2a3865d138ab7daba3",
-      "url": "https://open.spotify.com/track/2Ih217RCGAmyQR68Nn7Cqo",
-      "durationMs": 232773,
-      "playedAt": "2026-08-20T02:02:52.833Z"
-    },
-    {
-      "name": "I Get Around",
-      "artists": [
-        "2Pac",
-        "Digital Underground"
-      ],
-      "album": "Strictly 4 My N.I.G.G.A.Z...",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737f6f6c9e4b492a3d7e910d82",
-      "url": "https://open.spotify.com/track/4voEoczU7Ijborps9XF1n3",
-      "durationMs": 259000,
-      "playedAt": "2026-08-20T01:59:36.433Z"
     }
   ],
   "topArtists": [
