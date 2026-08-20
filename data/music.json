@@ -1,7 +1,61 @@
 {
-  "updatedAt": "2026-08-20T19:27:36.447Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-20T19:56:22.046Z",
+  "nowPlaying": {
+    "name": "On The Grind",
+    "artists": [
+      "Supersci",
+      "Chords"
+    ],
+    "album": "Pinetrees On The Pavement",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8729fbc083cd2b468a0702c",
+    "url": "https://open.spotify.com/track/1LZ56yhDe3Jf1WJ75mzjGv",
+    "durationMs": 305720,
+    "isPlaying": false,
+    "progressMs": 188432
+  },
   "recentlyPlayed": [
+    {
+      "name": "Ortens favoriter - Remix",
+      "artists": [
+        "Labyrint",
+        "Black Ghost",
+        "STOR",
+        "Aleks",
+        "Allyawan",
+        "Påse",
+        "Dani M",
+        "Alladin",
+        "Jaqe"
+      ],
+      "album": "Ortens favoriter",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eafa6e5e617f20387d27de1b",
+      "url": "https://open.spotify.com/track/3K7UdFfEr3EWURDOOYvuwq",
+      "durationMs": 346093,
+      "playedAt": "2026-08-20T19:53:31.543Z"
+    },
+    {
+      "name": "Repa skivan (feat. AFC)",
+      "artists": [
+        "Petter",
+        "AFC"
+      ],
+      "album": "Ronin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739fcf1f80b58c2dc32682a7fb",
+      "url": "https://open.spotify.com/track/62K8Xt3yTATChthdDnlneY",
+      "durationMs": 213240,
+      "playedAt": "2026-08-20T19:48:00.843Z"
+    },
+    {
+      "name": "You Get What You Give",
+      "artists": [
+        "New Radicals"
+      ],
+      "album": "Maybe You've Been Brainwashed Too",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dfdedd4553b40bbaab342dae",
+      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF",
+      "durationMs": 300773,
+      "playedAt": "2026-08-20T19:44:35.347Z"
+    },
     {
       "name": "Life",
       "artists": [
@@ -80,40 +134,6 @@
       "url": "https://open.spotify.com/track/2MAaiV0bbeq4FpSwPe2rR8",
       "durationMs": 203066,
       "playedAt": "2026-08-20T14:36:17.339Z"
-    },
-    {
-      "name": "N.Y. State of Mind",
-      "artists": [
-        "Nas"
-      ],
-      "album": "Illmatic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27371d840defb002ed3b180f7cd",
-      "url": "https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo",
-      "durationMs": 294081,
-      "playedAt": "2026-08-20T04:09:22.439Z"
-    },
-    {
-      "name": "Still Not a Player (feat. Joe) - Radio Version",
-      "artists": [
-        "Big Pun",
-        "Joe"
-      ],
-      "album": "Capital Punishment",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738c7a8e68dc5c20bb72f713f2",
-      "url": "https://open.spotify.com/track/3GKL13lkM5nRc4zC1lIOrR",
-      "durationMs": 236800,
-      "playedAt": "2026-08-20T04:05:35.139Z"
-    },
-    {
-      "name": "Fall In Love",
-      "artists": [
-        "Slum Village"
-      ],
-      "album": "Fantastic, Vol. 2.10",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731e2c21c76335a726538496cd",
-      "url": "https://open.spotify.com/track/2KBo6O5rkNdtYT3wYjkEkq",
-      "durationMs": 235212,
-      "playedAt": "2026-08-20T04:01:50.540Z"
     }
   ],
   "topArtists": [
@@ -121,19 +141,27 @@
       "name": "Steely Dan",
       "imageUrl": "https://i.scdn.co/image/9d01e4e9aac39b891d684d3d1a5b3a451d7c72bd",
       "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE",
-      "genres": []
+      "genres": [
+        "yacht rock",
+        "classic rock"
+      ]
     },
     {
       "name": "E-Type",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
       "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
-      "genres": []
+      "genres": [
+        "eurodance",
+        "europop"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Labyrint",
@@ -145,25 +173,35 @@
       "name": "Paul Simon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
       "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
-      "genres": []
+      "genres": [
+        "singer-songwriter"
+      ]
     },
     {
       "name": "Dina Ögon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
       "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "JAŸ-Z",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
       "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
-      "genres": []
+      "genres": [
+        "hip hop",
+        "east coast hip hop",
+        "rap"
+      ]
     }
   ],
   "topTracks": [
