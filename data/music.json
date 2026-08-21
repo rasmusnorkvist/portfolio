@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-21T09:32:36.693Z",
+  "updatedAt": "2026-08-21T10:25:29.057Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Green Flower Street",
+      "artists": [
+        "Donald Fagen"
+      ],
+      "album": "The Nightfly",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
+      "url": "https://open.spotify.com/track/34fWcazka5WAgvsPg1ZKXU",
+      "durationMs": 222493,
+      "playedAt": "2026-08-21T10:13:56.178Z"
+    },
     {
       "name": "I.G.Y.",
       "artists": [
@@ -102,17 +113,6 @@
       "url": "https://open.spotify.com/track/6omojoKV4GqJT5CexQnfGM",
       "durationMs": 203364,
       "playedAt": "2026-08-21T02:42:19.343Z"
-    },
-    {
-      "name": "I Want You Back",
-      "artists": [
-        "The Jackson 5"
-      ],
-      "album": "Diana Ross Presents The Jackson 5",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38",
-      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S",
-      "durationMs": 176333,
-      "playedAt": "2026-08-21T02:14:24.340Z"
     }
   ],
   "topArtists": [
