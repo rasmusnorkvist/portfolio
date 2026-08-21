@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-08-21T18:31:35.054Z",
+  "updatedAt": "2026-08-21T19:22:30.280Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Love Never Felt So Good",
+      "artists": [
+        "Michael Jackson",
+        "Justin Timberlake"
+      ],
+      "album": "XSCAPE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0",
+      "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP",
+      "durationMs": 246480,
+      "playedAt": "2026-08-21T18:57:23.954Z"
+    },
+    {
+      "name": "Virtual Insanity - Remastered 2006",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "Driving Songs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
+      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
+      "durationMs": 229360,
+      "playedAt": "2026-08-21T18:53:20.625Z"
+    },
+    {
+      "name": "Smooth Criminal - 2012 Remaster",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Bad (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
+      "url": "https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j",
+      "durationMs": 257766,
+      "playedAt": "2026-08-21T18:49:34.264Z"
+    },
+    {
+      "name": "Angels Crying",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "Last Man Standing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
+      "url": "https://open.spotify.com/track/5E5iD6wpxcBw6J9VemdWGd",
+      "durationMs": 230440,
+      "playedAt": "2026-08-21T18:43:32.660Z"
+    },
+    {
+      "name": "Green Flower Street",
+      "artists": [
+        "Donald Fagen"
+      ],
+      "album": "The Nightfly",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
+      "url": "https://open.spotify.com/track/34fWcazka5WAgvsPg1ZKXU",
+      "durationMs": 222493,
+      "playedAt": "2026-08-21T18:39:27.743Z"
+    },
     {
       "name": "Green Flower Street",
       "artists": [
@@ -58,61 +114,6 @@
       "url": "https://open.spotify.com/track/6Vkq1ef084Z7ss13G8fzlp",
       "durationMs": 185582,
       "playedAt": "2026-08-21T03:02:45.138Z"
-    },
-    {
-      "name": "The Alkalite",
-      "artists": [
-        "Rapallo"
-      ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/4AlEDesuRd6npBdFHVkfPT",
-      "durationMs": 248568,
-      "playedAt": "2026-08-21T02:57:36.048Z"
-    },
-    {
-      "name": "Nothing You Can Do",
-      "artists": [
-        "Rapallo"
-      ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/6PZyuI35ZZrbAW3bo9RAgG",
-      "durationMs": 222591,
-      "playedAt": "2026-08-21T02:53:27.516Z"
-    },
-    {
-      "name": "Breathing Underwater",
-      "artists": [
-        "Rapallo"
-      ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/0qNtsooW1RMtApSfkMTfiX",
-      "durationMs": 290054,
-      "playedAt": "2026-08-21T02:49:44.942Z"
-    },
-    {
-      "name": "V.I.P.",
-      "artists": [
-        "Rapallo"
-      ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/1Hs65Rzndy9ijGBA9JQltu",
-      "durationMs": 155587,
-      "playedAt": "2026-08-21T02:44:54.838Z"
-    },
-    {
-      "name": "Play to Lose",
-      "artists": [
-        "Rapallo"
-      ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/6omojoKV4GqJT5CexQnfGM",
-      "durationMs": 203364,
-      "playedAt": "2026-08-21T02:42:19.343Z"
     }
   ],
   "topArtists": [
