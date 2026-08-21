@@ -1,7 +1,106 @@
 {
-  "updatedAt": "2026-08-21T01:03:48.197Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-21T02:42:38.266Z",
+  "nowPlaying": {
+    "name": "V.I.P.",
+    "artists": [
+      "Rapallo"
+    ],
+    "album": "Merger",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+    "url": "https://open.spotify.com/track/1Hs65Rzndy9ijGBA9JQltu",
+    "durationMs": 155587,
+    "isPlaying": true,
+    "progressMs": 19886
+  },
   "recentlyPlayed": [
+    {
+      "name": "Play to Lose",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/6omojoKV4GqJT5CexQnfGM",
+      "durationMs": 203364,
+      "playedAt": "2026-08-21T02:42:19.343Z"
+    },
+    {
+      "name": "I Want You Back",
+      "artists": [
+        "The Jackson 5"
+      ],
+      "album": "Diana Ross Presents The Jackson 5",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27316aaf05fe82237576a7d0e38",
+      "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S",
+      "durationMs": 176333,
+      "playedAt": "2026-08-21T02:14:24.340Z"
+    },
+    {
+      "name": "Blame It on the Boogie",
+      "artists": [
+        "The Jacksons"
+      ],
+      "album": "Destiny",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739daf7b461a827acbbb0e4971",
+      "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS",
+      "durationMs": 215319,
+      "playedAt": "2026-08-21T02:11:30.994Z"
+    },
+    {
+      "name": "Off the Wall",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Off the Wall",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
+      "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W",
+      "durationMs": 245778,
+      "playedAt": "2026-08-21T02:07:58.740Z"
+    },
+    {
+      "name": "Can't Take My Eyes off You",
+      "artists": [
+        "Frankie Valli"
+      ],
+      "album": "Solo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273328ba1034774366865d78ac1",
+      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW",
+      "durationMs": 203680,
+      "playedAt": "2026-08-21T02:03:55.939Z"
+    },
+    {
+      "name": "Da Ya Think I'm Sexy?",
+      "artists": [
+        "Rod Stewart"
+      ],
+      "album": "Blondes Have More Fun",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d6806ddfc58bbaa0cb3e9fa5",
+      "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f",
+      "durationMs": 331333,
+      "playedAt": "2026-08-21T02:00:35.274Z"
+    },
+    {
+      "name": "Alla vill till himmelen men ingen vill dö",
+      "artists": [
+        "Timbuktu"
+      ],
+      "album": "Alla vill till himmelen men ingen vill dö",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a4f00fca4d50faa2267cd33e",
+      "url": "https://open.spotify.com/track/6I1kZgg3bGrPKxhZOltbRW",
+      "durationMs": 246386,
+      "playedAt": "2026-08-21T01:10:51.497Z"
+    },
+    {
+      "name": "Tribulations",
+      "artists": [
+        "Labyrint"
+      ],
+      "album": "Labababa",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738fd5c8d8cfa248e74a28e933",
+      "url": "https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj",
+      "durationMs": 273813,
+      "playedAt": "2026-08-21T01:06:48.095Z"
+    },
     {
       "name": "Havanna Mamma",
       "artists": [
@@ -24,96 +123,6 @@
       "url": "https://open.spotify.com/track/53DBPshpD9IVoBxS81tJCv",
       "durationMs": 277466,
       "playedAt": "2026-08-21T00:55:44.145Z"
-    },
-    {
-      "name": "Mister Cool",
-      "artists": [
-        "Snook"
-      ],
-      "album": "Vi vet inte vart vi ska men vi ska komma dit",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b5689c0569886ddace77d2a1",
-      "url": "https://open.spotify.com/track/1AfdWCYXaJHzHWsgGVkjhe",
-      "durationMs": 187320,
-      "playedAt": "2026-08-21T00:51:09.645Z"
-    },
-    {
-      "name": "Fredrik Snortare och Cecilia Synd",
-      "artists": [
-        "Petter"
-      ],
-      "album": "Ronin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739fcf1f80b58c2dc32682a7fb",
-      "url": "https://open.spotify.com/track/0I7B4cDM2Rqh6uxn00BU7m",
-      "durationMs": 236960,
-      "playedAt": "2026-08-21T00:48:05.423Z"
-    },
-    {
-      "name": "Repa skivan (feat. AFC)",
-      "artists": [
-        "Petter",
-        "AFC"
-      ],
-      "album": "Ronin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739fcf1f80b58c2dc32682a7fb",
-      "url": "https://open.spotify.com/track/62K8Xt3yTATChthdDnlneY",
-      "durationMs": 213240,
-      "playedAt": "2026-08-21T00:44:08.341Z"
-    },
-    {
-      "name": "Det går bra nu",
-      "artists": [
-        "Petter"
-      ],
-      "album": "P",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731544b2cb3838a8c4c0eceb53",
-      "url": "https://open.spotify.com/track/6UmqS1BvZdAqlloNbK014D",
-      "durationMs": 213573,
-      "playedAt": "2026-08-21T00:40:38.085Z"
-    },
-    {
-      "name": "Topp Doggz",
-      "artists": [
-        "Petter",
-        "Looptroop Rockers"
-      ],
-      "album": "Den Svenska Underjorden",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b37ee66023d9f54c2942252a",
-      "url": "https://open.spotify.com/track/1ArnPmsv5NWRNUJNRIYc5K",
-      "durationMs": 252626,
-      "playedAt": "2026-08-21T00:37:07.545Z"
-    },
-    {
-      "name": "Glassigt",
-      "artists": [
-        "Mange Schmidt"
-      ],
-      "album": "Samtidigt, i Stockholm",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738b48a1828d2e4fcd2fa317c4",
-      "url": "https://open.spotify.com/track/7APCZKToklXyRgdt7CccgP",
-      "durationMs": 224400,
-      "playedAt": "2026-08-21T00:32:57.944Z"
-    },
-    {
-      "name": "Happy Hawaii",
-      "artists": [
-        "ABBA"
-      ],
-      "album": "Arrival",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0",
-      "url": "https://open.spotify.com/track/1S2B1KJWZyPVu0dKWcG94f",
-      "durationMs": 265760,
-      "playedAt": "2026-08-21T00:27:57.045Z"
-    },
-    {
-      "name": "Strö lite socker på mig",
-      "artists": [
-        "Timbuktu"
-      ],
-      "album": "The botten is nådd",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27309d55e8e96bb2801a95a5011",
-      "url": "https://open.spotify.com/track/054ud7vKTXdfPDfRQilghV",
-      "durationMs": 221946,
-      "playedAt": "2026-08-21T00:23:34.340Z"
     }
   ],
   "topArtists": [
