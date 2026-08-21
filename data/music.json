@@ -1,18 +1,97 @@
 {
-  "updatedAt": "2026-08-21T02:42:38.266Z",
-  "nowPlaying": {
-    "name": "V.I.P.",
-    "artists": [
-      "Rapallo"
-    ],
-    "album": "Merger",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-    "url": "https://open.spotify.com/track/1Hs65Rzndy9ijGBA9JQltu",
-    "durationMs": 155587,
-    "isPlaying": true,
-    "progressMs": 19886
-  },
+  "updatedAt": "2026-08-21T03:46:57.676Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "I.G.Y.",
+      "artists": [
+        "Donald Fagen"
+      ],
+      "album": "The Nightfly",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
+      "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3",
+      "durationMs": 363413,
+      "playedAt": "2026-08-21T03:16:41.477Z"
+    },
+    {
+      "name": "Ride out the Storm",
+      "artists": [
+        "Dele Sosimi",
+        "The Estuary 21",
+        "Get Cape. Wear Cape. Fly"
+      ],
+      "album": "The Confluence LP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
+      "url": "https://open.spotify.com/track/1Hx4BfEyycVEn6diIa2LLS",
+      "durationMs": 171000,
+      "playedAt": "2026-08-21T03:10:41.146Z"
+    },
+    {
+      "name": "Daryll's On the News",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/29dsXo0QLDFg66ONJI6sZs",
+      "durationMs": 250309,
+      "playedAt": "2026-08-21T03:06:55.440Z"
+    },
+    {
+      "name": "Lion's Share",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/6Vkq1ef084Z7ss13G8fzlp",
+      "durationMs": 185582,
+      "playedAt": "2026-08-21T03:02:45.138Z"
+    },
+    {
+      "name": "The Alkalite",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/4AlEDesuRd6npBdFHVkfPT",
+      "durationMs": 248568,
+      "playedAt": "2026-08-21T02:57:36.048Z"
+    },
+    {
+      "name": "Nothing You Can Do",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/6PZyuI35ZZrbAW3bo9RAgG",
+      "durationMs": 222591,
+      "playedAt": "2026-08-21T02:53:27.516Z"
+    },
+    {
+      "name": "Breathing Underwater",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/0qNtsooW1RMtApSfkMTfiX",
+      "durationMs": 290054,
+      "playedAt": "2026-08-21T02:49:44.942Z"
+    },
+    {
+      "name": "V.I.P.",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/1Hs65Rzndy9ijGBA9JQltu",
+      "durationMs": 155587,
+      "playedAt": "2026-08-21T02:44:54.838Z"
+    },
     {
       "name": "Play to Lose",
       "artists": [
@@ -34,95 +113,6 @@
       "url": "https://open.spotify.com/track/5LxvwujISqiB8vpRYv887S",
       "durationMs": 176333,
       "playedAt": "2026-08-21T02:14:24.340Z"
-    },
-    {
-      "name": "Blame It on the Boogie",
-      "artists": [
-        "The Jacksons"
-      ],
-      "album": "Destiny",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739daf7b461a827acbbb0e4971",
-      "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS",
-      "durationMs": 215319,
-      "playedAt": "2026-08-21T02:11:30.994Z"
-    },
-    {
-      "name": "Off the Wall",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Off the Wall",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
-      "url": "https://open.spotify.com/track/3zYpRGnnoegSpt3SguSo3W",
-      "durationMs": 245778,
-      "playedAt": "2026-08-21T02:07:58.740Z"
-    },
-    {
-      "name": "Can't Take My Eyes off You",
-      "artists": [
-        "Frankie Valli"
-      ],
-      "album": "Solo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273328ba1034774366865d78ac1",
-      "url": "https://open.spotify.com/track/0bfvHnWWOeU1U5XeKyVLbW",
-      "durationMs": 203680,
-      "playedAt": "2026-08-21T02:03:55.939Z"
-    },
-    {
-      "name": "Da Ya Think I'm Sexy?",
-      "artists": [
-        "Rod Stewart"
-      ],
-      "album": "Blondes Have More Fun",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d6806ddfc58bbaa0cb3e9fa5",
-      "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f",
-      "durationMs": 331333,
-      "playedAt": "2026-08-21T02:00:35.274Z"
-    },
-    {
-      "name": "Alla vill till himmelen men ingen vill dö",
-      "artists": [
-        "Timbuktu"
-      ],
-      "album": "Alla vill till himmelen men ingen vill dö",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a4f00fca4d50faa2267cd33e",
-      "url": "https://open.spotify.com/track/6I1kZgg3bGrPKxhZOltbRW",
-      "durationMs": 246386,
-      "playedAt": "2026-08-21T01:10:51.497Z"
-    },
-    {
-      "name": "Tribulations",
-      "artists": [
-        "Labyrint"
-      ],
-      "album": "Labababa",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738fd5c8d8cfa248e74a28e933",
-      "url": "https://open.spotify.com/track/7jzFVOOT6trTwKApHmp9Yj",
-      "durationMs": 273813,
-      "playedAt": "2026-08-21T01:06:48.095Z"
-    },
-    {
-      "name": "Havanna Mamma",
-      "artists": [
-        "Veronica Maggio"
-      ],
-      "album": "Vatten och bröd",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5475c2d11b2d4309d5191ea",
-      "url": "https://open.spotify.com/track/7gybDAR6f9GVls39O1aYT2",
-      "durationMs": 232546,
-      "playedAt": "2026-08-21T01:01:59.582Z"
-    },
-    {
-      "name": "Get!",
-      "artists": [
-        "Supersci",
-        "Remedeeh"
-      ],
-      "album": "Pinetrees On The Pavement",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8729fbc083cd2b468a0702c",
-      "url": "https://open.spotify.com/track/53DBPshpD9IVoBxS81tJCv",
-      "durationMs": 277466,
-      "playedAt": "2026-08-21T00:55:44.145Z"
     }
   ],
   "topArtists": [
@@ -157,6 +147,12 @@
       "genres": []
     },
     {
+      "name": "Rapallo",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
+      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
+      "genres": []
+    },
+    {
       "name": "Dina Ögon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
       "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
@@ -166,12 +162,6 @@
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": []
-    },
-    {
-      "name": "JAŸ-Z",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
-      "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
       "genres": []
     }
   ],
