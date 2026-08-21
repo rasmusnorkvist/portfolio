@@ -1,7 +1,75 @@
 {
-  "updatedAt": "2026-08-20T23:49:29.012Z",
+  "updatedAt": "2026-08-21T01:03:48.197Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Havanna Mamma",
+      "artists": [
+        "Veronica Maggio"
+      ],
+      "album": "Vatten och bröd",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5475c2d11b2d4309d5191ea",
+      "url": "https://open.spotify.com/track/7gybDAR6f9GVls39O1aYT2",
+      "durationMs": 232546,
+      "playedAt": "2026-08-21T01:01:59.582Z"
+    },
+    {
+      "name": "Get!",
+      "artists": [
+        "Supersci",
+        "Remedeeh"
+      ],
+      "album": "Pinetrees On The Pavement",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8729fbc083cd2b468a0702c",
+      "url": "https://open.spotify.com/track/53DBPshpD9IVoBxS81tJCv",
+      "durationMs": 277466,
+      "playedAt": "2026-08-21T00:55:44.145Z"
+    },
+    {
+      "name": "Mister Cool",
+      "artists": [
+        "Snook"
+      ],
+      "album": "Vi vet inte vart vi ska men vi ska komma dit",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b5689c0569886ddace77d2a1",
+      "url": "https://open.spotify.com/track/1AfdWCYXaJHzHWsgGVkjhe",
+      "durationMs": 187320,
+      "playedAt": "2026-08-21T00:51:09.645Z"
+    },
+    {
+      "name": "Fredrik Snortare och Cecilia Synd",
+      "artists": [
+        "Petter"
+      ],
+      "album": "Ronin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739fcf1f80b58c2dc32682a7fb",
+      "url": "https://open.spotify.com/track/0I7B4cDM2Rqh6uxn00BU7m",
+      "durationMs": 236960,
+      "playedAt": "2026-08-21T00:48:05.423Z"
+    },
+    {
+      "name": "Repa skivan (feat. AFC)",
+      "artists": [
+        "Petter",
+        "AFC"
+      ],
+      "album": "Ronin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739fcf1f80b58c2dc32682a7fb",
+      "url": "https://open.spotify.com/track/62K8Xt3yTATChthdDnlneY",
+      "durationMs": 213240,
+      "playedAt": "2026-08-21T00:44:08.341Z"
+    },
+    {
+      "name": "Det går bra nu",
+      "artists": [
+        "Petter"
+      ],
+      "album": "P",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731544b2cb3838a8c4c0eceb53",
+      "url": "https://open.spotify.com/track/6UmqS1BvZdAqlloNbK014D",
+      "durationMs": 213573,
+      "playedAt": "2026-08-21T00:40:38.085Z"
+    },
     {
       "name": "Topp Doggz",
       "artists": [
@@ -12,112 +80,40 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b37ee66023d9f54c2942252a",
       "url": "https://open.spotify.com/track/1ArnPmsv5NWRNUJNRIYc5K",
       "durationMs": 252626,
-      "playedAt": "2026-08-20T21:11:47.645Z"
+      "playedAt": "2026-08-21T00:37:07.545Z"
     },
     {
-      "name": "Gin and Juice",
-      "artists": [
-        "Snoop Dogg"
-      ],
-      "album": "Doggystyle",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273733af86f8dea9692a3f59d29",
-      "url": "https://open.spotify.com/track/39QBkWKnap8wRSW4WB9OK0",
-      "durationMs": 211866,
-      "playedAt": "2026-08-20T21:07:37.914Z"
-    },
-    {
-      "name": "Gott folk",
-      "artists": [
-        "Timbuktu"
-      ],
-      "album": "Wått's dö maddefakking diil?",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736f7b01cab83bdbc1eb2fa811",
-      "url": "https://open.spotify.com/track/7smXtBV1LZXk261okQpJl7",
-      "durationMs": 253413,
-      "playedAt": "2026-08-20T21:04:09.044Z"
-    },
-    {
-      "name": "Stray Dog",
-      "artists": [
-        "Deki Alem"
-      ],
-      "album": "Forget In Mass",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c1f9ec1d4dbb90d40ac89683",
-      "url": "https://open.spotify.com/track/1qyZweacop2nG30Ng6wqt0",
-      "durationMs": 170193,
-      "playedAt": "2026-08-20T20:59:58.573Z"
-    },
-    {
-      "name": "All Falls Down",
-      "artists": [
-        "Kanye West",
-        "Syleena Johnson"
-      ],
-      "album": "The College Dropout",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27325b055377757b3cdd6f26b78",
-      "url": "https://open.spotify.com/track/5SkRLpaGtvYPhw02vZhQQ9",
-      "durationMs": 223506,
-      "playedAt": "2026-08-20T20:55:10.830Z"
-    },
-    {
-      "name": "Känslan kommer tillbaks",
+      "name": "Glassigt",
       "artists": [
         "Mange Schmidt"
       ],
-      "album": "Känslan kommer tillbaks",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27360a54f603f1e126f689c7f0a",
-      "url": "https://open.spotify.com/track/1OhuKBFWdWqCUTxG2DKocb",
-      "durationMs": 253386,
-      "playedAt": "2026-08-20T20:51:30.328Z"
+      "album": "Samtidigt, i Stockholm",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738b48a1828d2e4fcd2fa317c4",
+      "url": "https://open.spotify.com/track/7APCZKToklXyRgdt7CccgP",
+      "durationMs": 224400,
+      "playedAt": "2026-08-21T00:32:57.944Z"
     },
     {
-      "name": "Ooh Wee (feat. Ghostface Killah, Nate Dogg, Trife & Saigon)",
+      "name": "Happy Hawaii",
       "artists": [
-        "Mark Ronson",
-        "Ghostface Killah",
-        "Nate Dogg",
-        "Trife",
-        "Saigon"
+        "ABBA"
       ],
-      "album": "Here Comes The Fuzz",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e58775d8015f2ea0b85dc57d",
-      "url": "https://open.spotify.com/track/4WimB4Ei0LU3MotHhL3kBL",
-      "durationMs": 209626,
-      "playedAt": "2026-08-20T20:47:20.028Z"
+      "album": "Arrival",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0",
+      "url": "https://open.spotify.com/track/1S2B1KJWZyPVu0dKWcG94f",
+      "durationMs": 265760,
+      "playedAt": "2026-08-21T00:27:57.045Z"
     },
     {
-      "name": "A Deuce Or An Ace",
+      "name": "Strö lite socker på mig",
       "artists": [
-        "Supersci",
-        "Remedeeh"
+        "Timbuktu"
       ],
-      "album": "Pinetrees On The Pavement",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8729fbc083cd2b468a0702c",
-      "url": "https://open.spotify.com/track/04E5VHM8trBSUbjs9h3Bjx",
-      "durationMs": 228320,
-      "playedAt": "2026-08-20T20:43:53.430Z"
-    },
-    {
-      "name": "Dag 1",
-      "artists": [
-        "Labyrint"
-      ],
-      "album": "Dag 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739681629835b03099877c2a2e",
-      "url": "https://open.spotify.com/track/1uldIZbqjW1nMER6ktCQLS",
-      "durationMs": 214642,
-      "playedAt": "2026-08-20T20:40:08.066Z"
-    },
-    {
-      "name": "Passin' Me By",
-      "artists": [
-        "The Pharcyde"
-      ],
-      "album": "Bizarre Ride II The Pharcyde",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739ec4abd35652fafe34ee7dfb",
-      "url": "https://open.spotify.com/track/4G3dZN9o3o2X4VKwt4CLts",
-      "durationMs": 303493,
-      "playedAt": "2026-08-20T20:36:36.437Z"
+      "album": "The botten is nådd",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27309d55e8e96bb2801a95a5011",
+      "url": "https://open.spotify.com/track/054ud7vKTXdfPDfRQilghV",
+      "durationMs": 221946,
+      "playedAt": "2026-08-21T00:23:34.340Z"
     }
   ],
   "topArtists": [
