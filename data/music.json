@@ -1,129 +1,135 @@
 {
-  "updatedAt": "2026-08-22T04:28:29.437Z",
+  "updatedAt": "2026-08-22T05:00:30.638Z",
   "nowPlaying": {
-    "name": "Sunflower Samurai",
+    "name": "Dazzle",
     "artists": [
-      "Jazzinuf"
+      "Jazzinuf",
+      "Engelwood"
     ],
-    "album": "Kick This",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730090bcb964db0c479e14f70b",
-    "url": "https://open.spotify.com/track/47zTgyJ3YIWWGdo6FREfMp",
-    "durationMs": 262000,
+    "album": "Dazzle",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273269dc240e2b69fcabd82d3b7",
+    "url": "https://open.spotify.com/track/5Se5put2P3JdoMoRHIX2uq",
+    "durationMs": 103165,
     "isPlaying": true,
-    "progressMs": 10126
+    "progressMs": 1667
   },
   "recentlyPlayed": [
     {
-      "name": "Jazzy's Joint",
+      "name": "Under Pressure",
       "artists": [
         "Jazzinuf"
       ],
-      "album": "The Magic Carpet",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa98d442f75b1d35f761995a",
-      "url": "https://open.spotify.com/track/3MonuiYoIeN3cYQ5WRuf5V",
-      "durationMs": 151317,
-      "playedAt": "2026-08-22T04:28:23.155Z"
+      "album": "The Harlem Barber Swing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0e772a6c737692a90fcdb0",
+      "url": "https://open.spotify.com/track/3wtohP1ysNCwQ3vtzJcHqb",
+      "durationMs": 148570,
+      "playedAt": "2026-08-22T04:57:31.555Z"
     },
     {
-      "name": "Cloud Bossa",
+      "name": "Love Potion",
       "artists": [
         "Jazzinuf"
       ],
-      "album": "Cloud Bossa",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a58a47972209700e60b3c417",
-      "url": "https://open.spotify.com/track/06d4rPAlFzb2Outp9ZAmyu",
-      "durationMs": 156000,
-      "playedAt": "2026-08-22T04:25:54.844Z"
+      "album": "Sun Dance",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739cc7887164d92d14358e3c9c",
+      "url": "https://open.spotify.com/track/0okNrMhMkNyrA0EvBiv6MW",
+      "durationMs": 166666,
+      "playedAt": "2026-08-22T04:55:06.055Z"
     },
     {
-      "name": "Hugging You (Quietly)",
+      "name": "Magic Hoodie",
       "artists": [
         "Jazzinuf"
       ],
-      "album": "Harlem Barber Swing 2",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b318f7a1b8da963173139bd9",
-      "url": "https://open.spotify.com/track/1v6fPU147jYPMZXUFMEvMF",
-      "durationMs": 117000,
-      "playedAt": "2026-08-22T04:23:09.270Z"
+      "album": "Dazzle",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273269dc240e2b69fcabd82d3b7",
+      "url": "https://open.spotify.com/track/3Q5uu90ueSV1hk1bIKYBKu",
+      "durationMs": 118355,
+      "playedAt": "2026-08-22T04:52:22.356Z"
     },
     {
-      "name": "Mental Acupuncture",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Harlem Barber Swing 2",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b318f7a1b8da963173139bd9",
-      "url": "https://open.spotify.com/track/2Cpw9KXDlq4jKGMhL3hmkL",
-      "durationMs": 152000,
-      "playedAt": "2026-08-22T04:21:15.266Z"
-    },
-    {
-      "name": "When You're In Love",
-      "artists": [
-        "Intel Music",
-        "Jazzinuf"
-      ],
-      "album": "Lithography Vol. 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730026699eb4e4776eaa0e2fc0",
-      "url": "https://open.spotify.com/track/4FIKrQcAqi5I6PGWb5BNPB",
-      "durationMs": 441818,
-      "playedAt": "2026-08-22T04:18:46.277Z"
-    },
-    {
-      "name": "Soul Mates",
+      "name": "With U",
       "artists": [
         "Jazzinuf",
         "Etymology Records"
       ],
-      "album": "Soul Mates",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736d61a0286817cd75d35eb67e",
-      "url": "https://open.spotify.com/track/7pFRhCj70NUNZG4xMDEQj8",
-      "durationMs": 96343,
-      "playedAt": "2026-08-22T04:11:27.435Z"
+      "album": "Rose Moods",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f887b5e1e89c122ee6accdb4",
+      "url": "https://open.spotify.com/track/4f9oVqZscQYd2sQBymcMON",
+      "durationMs": 185142,
+      "playedAt": "2026-08-22T04:50:27.055Z"
     },
     {
-      "name": "When You Gonna Learn?",
+      "name": "Vista Del Bosque",
       "artists": [
-        "Jamiroquai"
+        "Strehlow",
+        "Jazzinuf",
+        "Noé Mina"
       ],
-      "album": "Emergency on Planet Earth (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b6f13e40fbd883767da606bc",
-      "url": "https://open.spotify.com/track/09jscLcwa4usINbtfzo5FL",
-      "durationMs": 230053,
-      "playedAt": "2026-08-22T03:44:09.570Z"
+      "album": "Vista Del Bosque",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f50d88f2ae1918186688c8f",
+      "url": "https://open.spotify.com/track/3TfZuLNo9MgTgLuCAloKOF",
+      "durationMs": 120925,
+      "playedAt": "2026-08-22T04:47:24.876Z"
     },
     {
-      "name": "Virtual Insanity - Remastered 2006",
+      "name": "Letters That Never Reached You",
       "artists": [
-        "Jamiroquai"
+        "Jazzinuf"
       ],
-      "album": "Driving Songs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
-      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
-      "durationMs": 229360,
-      "playedAt": "2026-08-22T03:41:17.170Z"
+      "album": "Sun Dance",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739cc7887164d92d14358e3c9c",
+      "url": "https://open.spotify.com/track/6XdqDZtNcr2wm0BLiXln95",
+      "durationMs": 157500,
+      "playedAt": "2026-08-22T04:45:26.956Z"
     },
     {
-      "name": "Berg-Kirstis polska",
+      "name": "Caffè Mocha",
       "artists": [
-        "Jan Johansson"
+        "Jazzinuf"
       ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/6mNQG5XYpwSnnnfJDe3CFj",
-      "durationMs": 213986,
-      "playedAt": "2026-08-22T03:36:01.277Z"
+      "album": "Dazzle",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273269dc240e2b69fcabd82d3b7",
+      "url": "https://open.spotify.com/track/1On4Zw5nSEJKpGIGSK8QYd",
+      "durationMs": 89361,
+      "playedAt": "2026-08-22T04:42:52.555Z"
     },
     {
-      "name": "Vallåt från Jämtland",
+      "name": "You've Got a Friend in Me",
       "artists": [
-        "Jan Johansson"
+        "Jazzinuf",
+        "Disney",
+        "Disney Lofi"
       ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/3sJI7yMJz2RwLtS31z3Dgc",
-      "durationMs": 114693,
-      "playedAt": "2026-08-22T03:32:30.309Z"
+      "album": "Lofi Minnie: Focus",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27328cd7497add5532bdf0c29b8",
+      "url": "https://open.spotify.com/track/4gmUlgnHHys4ci2gi2pAGb",
+      "durationMs": 136801,
+      "playedAt": "2026-08-22T04:41:26.154Z"
+    },
+    {
+      "name": "Green Tea",
+      "artists": [
+        "Jazzinuf"
+      ],
+      "album": "Audio Bartending",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731f6a72c455a12e6bc885654a",
+      "url": "https://open.spotify.com/track/4yW1ylRo8AYxWmkvqzEcAK",
+      "durationMs": 116636,
+      "playedAt": "2026-08-22T04:39:12.354Z"
+    },
+    {
+      "name": "good daze",
+      "artists": [
+        "Jazzinuf",
+        "Shanin Blake",
+        "Etymology Records"
+      ],
+      "album": "good daze",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273db58ac652c623d751e0bb065",
+      "url": "https://open.spotify.com/track/2sAPkJ75cAkG1ZPREsdnob",
+      "durationMs": 153780,
+      "playedAt": "2026-08-22T04:37:18.755Z"
     }
   ],
   "topArtists": [
