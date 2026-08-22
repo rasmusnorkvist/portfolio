@@ -1,18 +1,108 @@
 {
-  "updatedAt": "2026-08-22T03:38:11.591Z",
+  "updatedAt": "2026-08-22T04:28:29.437Z",
   "nowPlaying": {
-    "name": "Virtual Insanity - Remastered 2006",
+    "name": "Sunflower Samurai",
     "artists": [
-      "Jamiroquai"
+      "Jazzinuf"
     ],
-    "album": "Driving Songs",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
-    "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
-    "durationMs": 229360,
+    "album": "Kick This",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730090bcb964db0c479e14f70b",
+    "url": "https://open.spotify.com/track/47zTgyJ3YIWWGdo6FREfMp",
+    "durationMs": 262000,
     "isPlaying": true,
-    "progressMs": 56709
+    "progressMs": 10126
   },
   "recentlyPlayed": [
+    {
+      "name": "Jazzy's Joint",
+      "artists": [
+        "Jazzinuf"
+      ],
+      "album": "The Magic Carpet",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa98d442f75b1d35f761995a",
+      "url": "https://open.spotify.com/track/3MonuiYoIeN3cYQ5WRuf5V",
+      "durationMs": 151317,
+      "playedAt": "2026-08-22T04:28:23.155Z"
+    },
+    {
+      "name": "Cloud Bossa",
+      "artists": [
+        "Jazzinuf"
+      ],
+      "album": "Cloud Bossa",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a58a47972209700e60b3c417",
+      "url": "https://open.spotify.com/track/06d4rPAlFzb2Outp9ZAmyu",
+      "durationMs": 156000,
+      "playedAt": "2026-08-22T04:25:54.844Z"
+    },
+    {
+      "name": "Hugging You (Quietly)",
+      "artists": [
+        "Jazzinuf"
+      ],
+      "album": "Harlem Barber Swing 2",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b318f7a1b8da963173139bd9",
+      "url": "https://open.spotify.com/track/1v6fPU147jYPMZXUFMEvMF",
+      "durationMs": 117000,
+      "playedAt": "2026-08-22T04:23:09.270Z"
+    },
+    {
+      "name": "Mental Acupuncture",
+      "artists": [
+        "Jazzinuf"
+      ],
+      "album": "Harlem Barber Swing 2",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b318f7a1b8da963173139bd9",
+      "url": "https://open.spotify.com/track/2Cpw9KXDlq4jKGMhL3hmkL",
+      "durationMs": 152000,
+      "playedAt": "2026-08-22T04:21:15.266Z"
+    },
+    {
+      "name": "When You're In Love",
+      "artists": [
+        "Intel Music",
+        "Jazzinuf"
+      ],
+      "album": "Lithography Vol. 1",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730026699eb4e4776eaa0e2fc0",
+      "url": "https://open.spotify.com/track/4FIKrQcAqi5I6PGWb5BNPB",
+      "durationMs": 441818,
+      "playedAt": "2026-08-22T04:18:46.277Z"
+    },
+    {
+      "name": "Soul Mates",
+      "artists": [
+        "Jazzinuf",
+        "Etymology Records"
+      ],
+      "album": "Soul Mates",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736d61a0286817cd75d35eb67e",
+      "url": "https://open.spotify.com/track/7pFRhCj70NUNZG4xMDEQj8",
+      "durationMs": 96343,
+      "playedAt": "2026-08-22T04:11:27.435Z"
+    },
+    {
+      "name": "When You Gonna Learn?",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "Emergency on Planet Earth (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b6f13e40fbd883767da606bc",
+      "url": "https://open.spotify.com/track/09jscLcwa4usINbtfzo5FL",
+      "durationMs": 230053,
+      "playedAt": "2026-08-22T03:44:09.570Z"
+    },
+    {
+      "name": "Virtual Insanity - Remastered 2006",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "Driving Songs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
+      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
+      "durationMs": 229360,
+      "playedAt": "2026-08-22T03:41:17.170Z"
+    },
     {
       "name": "Berg-Kirstis polska",
       "artists": [
@@ -34,95 +124,6 @@
       "url": "https://open.spotify.com/track/3sJI7yMJz2RwLtS31z3Dgc",
       "durationMs": 114693,
       "playedAt": "2026-08-22T03:32:30.309Z"
-    },
-    {
-      "name": "Brudmarsch efter Larshöga Jonke",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/4Ejyw9gZeAWW7QzjtVWRdw",
-      "durationMs": 124120,
-      "playedAt": "2026-08-22T03:30:35.575Z"
-    },
-    {
-      "name": "Emigrantvisa",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/5kjFu1dBCCqm0RPpjdgRQt",
-      "durationMs": 207733,
-      "playedAt": "2026-08-22T03:28:34.476Z"
-    },
-    {
-      "name": "Polska från Medelpad",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/35tgywQgB4oOOtB8gp29CM",
-      "durationMs": 150786,
-      "playedAt": "2026-08-22T03:25:09.775Z"
-    },
-    {
-      "name": "Leksands skänklåt",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/6xz1YWi4Fvld47xYDRoh3F",
-      "durationMs": 180813,
-      "playedAt": "2026-08-22T03:22:41.974Z"
-    },
-    {
-      "name": "Visa från Rättvik",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/5OfX2H74dOwUjr4Aw6HEiE",
-      "durationMs": 202986,
-      "playedAt": "2026-08-22T03:19:44.174Z"
-    },
-    {
-      "name": "Gånglek från Älvdalen",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/5xFJjgYxqi2utu8m4yftYY",
-      "durationMs": 118466,
-      "playedAt": "2026-08-22T03:16:24.273Z"
-    },
-    {
-      "name": "Nature Boy",
-      "artists": [
-        "Jan Johansson",
-        "Georg Riedel"
-      ],
-      "album": "Jan Johansson in Hamburg with Georg Riedel",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
-      "url": "https://open.spotify.com/track/7hDq6sOZ5Rl1XnSSfoOBRK",
-      "durationMs": 284186,
-      "playedAt": "2026-08-22T03:14:28.771Z"
-    },
-    {
-      "name": "Visa från Utanmyra",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
-      "durationMs": 273800,
-      "playedAt": "2026-08-22T03:09:47.576Z"
     }
   ],
   "topArtists": [
