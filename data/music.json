@@ -1,7 +1,110 @@
 {
-  "updatedAt": "2026-08-22T01:00:39.281Z",
+  "updatedAt": "2026-08-22T02:33:06.637Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "All Good?",
+      "artists": [
+        "De La Soul",
+        "Chaka Khan"
+      ],
+      "album": "Art Official Intelligence: Mosaic Thump",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27359296f60bb8e045b84a2c0ee",
+      "url": "https://open.spotify.com/track/6Epbp3MOBM6UnFHyJokEAI",
+      "durationMs": 299008,
+      "playedAt": "2026-08-22T02:19:32.306Z"
+    },
+    {
+      "name": "One To Grow On",
+      "artists": [
+        "The UMC's"
+      ],
+      "album": "Fruits Of Nature",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334ba2f037c9f57b03080dfee",
+      "url": "https://open.spotify.com/track/5xELy29v1SKxWaEtgFCjaM",
+      "durationMs": 214133,
+      "playedAt": "2026-08-22T01:47:50.519Z"
+    },
+    {
+      "name": "Party And Bullshit",
+      "artists": [
+        "The Notorious B.I.G."
+      ],
+      "album": "Whos The Man ? Soundtrack",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273248667da8d589ce025f1ba56",
+      "url": "https://open.spotify.com/track/5mqPg2dyqb1gBNyg9ycGcT",
+      "durationMs": 219706,
+      "playedAt": "2026-08-22T01:44:19.317Z"
+    },
+    {
+      "name": "Inga problem",
+      "artists": [
+        "Snook"
+      ],
+      "album": "Är",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730631f818e6da7c83c3347f48",
+      "url": "https://open.spotify.com/track/3OVqUymp1SZ88kZcL55DhG",
+      "durationMs": 187293,
+      "playedAt": "2026-08-22T01:37:09.017Z"
+    },
+    {
+      "name": "ATLiens",
+      "artists": [
+        "Outkast"
+      ],
+      "album": "ATLiens",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27384be563c5931d7ef35706148",
+      "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz",
+      "durationMs": 230693,
+      "playedAt": "2026-08-22T01:34:04.685Z"
+    },
+    {
+      "name": "The Rain",
+      "artists": [
+        "Awon",
+        "Phoniks",
+        "Tiff the Gift"
+      ],
+      "album": "The Actual Proof",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aef4500f9920f7a2464cc883",
+      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew",
+      "durationMs": 163636,
+      "playedAt": "2026-08-22T01:30:16.988Z"
+    },
+    {
+      "name": "Välkommen hem",
+      "artists": [
+        "Labyrint",
+        "Dani M"
+      ],
+      "album": "Labababa",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738fd5c8d8cfa248e74a28e933",
+      "url": "https://open.spotify.com/track/5KMaxztlP8LUwAKN9bUKIN",
+      "durationMs": 246773,
+      "playedAt": "2026-08-22T01:27:36.373Z"
+    },
+    {
+      "name": "Runnin'",
+      "artists": [
+        "The Pharcyde"
+      ],
+      "album": "Labcabincalifornia (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738248914bbbcdcba2d154c8de",
+      "url": "https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5",
+      "durationMs": 296266,
+      "playedAt": "2026-08-22T01:23:32.592Z"
+    },
+    {
+      "name": "Virtual Insanity - Remastered 2006",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "Driving Songs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
+      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
+      "durationMs": 229360,
+      "playedAt": "2026-08-22T01:18:26.975Z"
+    },
     {
       "name": "Love Never Felt So Good",
       "artists": [
@@ -13,107 +116,6 @@
       "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP",
       "durationMs": 246480,
       "playedAt": "2026-08-21T18:57:23.954Z"
-    },
-    {
-      "name": "Virtual Insanity - Remastered 2006",
-      "artists": [
-        "Jamiroquai"
-      ],
-      "album": "Driving Songs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
-      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
-      "durationMs": 229360,
-      "playedAt": "2026-08-21T18:53:20.625Z"
-    },
-    {
-      "name": "Smooth Criminal - 2012 Remaster",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Bad (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
-      "url": "https://open.spotify.com/track/5T7ywazdGIydr6JCW6t02j",
-      "durationMs": 257766,
-      "playedAt": "2026-08-21T18:49:34.264Z"
-    },
-    {
-      "name": "Angels Crying",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Last Man Standing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
-      "url": "https://open.spotify.com/track/5E5iD6wpxcBw6J9VemdWGd",
-      "durationMs": 230440,
-      "playedAt": "2026-08-21T18:43:32.660Z"
-    },
-    {
-      "name": "Green Flower Street",
-      "artists": [
-        "Donald Fagen"
-      ],
-      "album": "The Nightfly",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
-      "url": "https://open.spotify.com/track/34fWcazka5WAgvsPg1ZKXU",
-      "durationMs": 222493,
-      "playedAt": "2026-08-21T18:39:27.743Z"
-    },
-    {
-      "name": "Green Flower Street",
-      "artists": [
-        "Donald Fagen"
-      ],
-      "album": "The Nightfly",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
-      "url": "https://open.spotify.com/track/34fWcazka5WAgvsPg1ZKXU",
-      "durationMs": 222493,
-      "playedAt": "2026-08-21T10:13:56.178Z"
-    },
-    {
-      "name": "I.G.Y.",
-      "artists": [
-        "Donald Fagen"
-      ],
-      "album": "The Nightfly",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
-      "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3",
-      "durationMs": 363413,
-      "playedAt": "2026-08-21T03:16:41.477Z"
-    },
-    {
-      "name": "Ride out the Storm",
-      "artists": [
-        "Dele Sosimi",
-        "The Estuary 21",
-        "Get Cape. Wear Cape. Fly"
-      ],
-      "album": "The Confluence LP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
-      "url": "https://open.spotify.com/track/1Hx4BfEyycVEn6diIa2LLS",
-      "durationMs": 171000,
-      "playedAt": "2026-08-21T03:10:41.146Z"
-    },
-    {
-      "name": "Daryll's On the News",
-      "artists": [
-        "Rapallo"
-      ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/29dsXo0QLDFg66ONJI6sZs",
-      "durationMs": 250309,
-      "playedAt": "2026-08-21T03:06:55.440Z"
-    },
-    {
-      "name": "Lion's Share",
-      "artists": [
-        "Rapallo"
-      ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/6Vkq1ef084Z7ss13G8fzlp",
-      "durationMs": 185582,
-      "playedAt": "2026-08-21T03:02:45.138Z"
     }
   ],
   "topArtists": [
