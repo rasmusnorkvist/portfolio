@@ -1,20 +1,42 @@
 {
-  "updatedAt": "2026-08-22T19:23:41.685Z",
-  "nowPlaying": {
-    "name": "Tryon Park",
-    "artists": [
-      "Oatmello",
-      "Jazzinuf",
-      "Hippo Dreams"
-    ],
-    "album": "NYC Stories",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8eb10155bfa07867505c2c4",
-    "url": "https://open.spotify.com/track/2UdnXz7IkglUjWDVKuLKgo",
-    "durationMs": 93975,
-    "isPlaying": true,
-    "progressMs": 28390
-  },
+  "updatedAt": "2026-08-22T19:45:10.699Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Bake Shop",
+      "artists": [
+        "Jazzinuf"
+      ],
+      "album": "Dazzle",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273269dc240e2b69fcabd82d3b7",
+      "url": "https://open.spotify.com/track/2RbD6nVEvuMNmQuXTwIlU4",
+      "durationMs": 123875,
+      "playedAt": "2026-08-22T19:28:58.315Z"
+    },
+    {
+      "name": "Banana Coconut Pie",
+      "artists": [
+        "Jazzinuf"
+      ],
+      "album": "Banana Coconut Pie",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc15dad14d596a6e42a8b5f0",
+      "url": "https://open.spotify.com/track/0wmyEg08lqajK5jMZZvcTi",
+      "durationMs": 132451,
+      "playedAt": "2026-08-22T19:26:57.415Z"
+    },
+    {
+      "name": "Tryon Park",
+      "artists": [
+        "Oatmello",
+        "Jazzinuf",
+        "Hippo Dreams"
+      ],
+      "album": "NYC Stories",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8eb10155bfa07867505c2c4",
+      "url": "https://open.spotify.com/track/2UdnXz7IkglUjWDVKuLKgo",
+      "durationMs": 93975,
+      "playedAt": "2026-08-22T19:24:48.015Z"
+    },
     {
       "name": "Moon and Tonic",
       "artists": [
@@ -93,41 +115,6 @@
       "url": "https://open.spotify.com/track/5CsJtaArX50OcMVyGOTiEq",
       "durationMs": 153600,
       "playedAt": "2026-08-22T05:13:34.553Z"
-    },
-    {
-      "name": "Winter Seoul (Orchestral Version)",
-      "artists": [
-        "Jazzinuf",
-        "Hippo Dreams",
-        "Julia Henderson"
-      ],
-      "album": "Winter Seoul",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27338c8564dcef16eae2c45b51d",
-      "url": "https://open.spotify.com/track/6mdlBNh5wctRhW7FG02FgY",
-      "durationMs": 132441,
-      "playedAt": "2026-08-22T05:11:03.931Z"
-    },
-    {
-      "name": "Vibe Out",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "The Harlem Barber Swing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0e772a6c737692a90fcdb0",
-      "url": "https://open.spotify.com/track/59BY6nKcGUD5uhwm9LB2vi",
-      "durationMs": 96666,
-      "playedAt": "2026-08-22T05:08:54.539Z"
-    },
-    {
-      "name": "Dreaming About You",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Coffee and Cigarettes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f64e23ad232b825630fdc2e",
-      "url": "https://open.spotify.com/track/7u9DnB0ZMfRx8MfOqF2X06",
-      "durationMs": 192548,
-      "playedAt": "2026-08-22T05:07:20.890Z"
     }
   ],
   "topArtists": [
