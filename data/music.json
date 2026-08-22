@@ -1,7 +1,113 @@
 {
-  "updatedAt": "2026-08-22T19:45:10.699Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-22T20:17:59.521Z",
+  "nowPlaying": {
+    "name": "Love Affogato",
+    "artists": [
+      "Jazzinuf",
+      "Rook1e",
+      "Etymology Records"
+    ],
+    "album": "Love Affogato",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731770ab28d55013f47e7ca330",
+    "url": "https://open.spotify.com/track/4vWaHo2skMsxVvi5Uqs5a1",
+    "durationMs": 127951,
+    "isPlaying": true,
+    "progressMs": 78219
+  },
   "recentlyPlayed": [
+    {
+      "name": "Something Has Happened",
+      "artists": [
+        "Jazzinuf",
+        "Hippo Dreams",
+        "Slug"
+      ],
+      "album": "Something Has Happened",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27348553bdf6f154c06eef6c11d",
+      "url": "https://open.spotify.com/track/1BqjjwB77YBHjm90El8jLI",
+      "durationMs": 116593,
+      "playedAt": "2026-08-22T20:16:45.028Z"
+    },
+    {
+      "name": "The Harlem Barber Swing",
+      "artists": [
+        "Jazzinuf"
+      ],
+      "album": "The Harlem Barber Swing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0e772a6c737692a90fcdb0",
+      "url": "https://open.spotify.com/track/6iw2J2XoCXjkHJ85M8w1wV",
+      "durationMs": 152869,
+      "playedAt": "2026-08-22T20:14:51.429Z"
+    },
+    {
+      "name": "Miracle of the Fishes",
+      "artists": [
+        "Jazzinuf",
+        "Etymology Records",
+        "Adam O'Farrill"
+      ],
+      "album": "Miracle of the Fishes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e059048a59e8f6575e9e4017",
+      "url": "https://open.spotify.com/track/3PmklyTsokpWA2NihZu4ak",
+      "durationMs": 111630,
+      "playedAt": "2026-08-22T20:12:21.545Z"
+    },
+    {
+      "name": "Gymnopedie No.77",
+      "artists": [
+        "Jazzinuf",
+        "Oatmello"
+      ],
+      "album": "Sun Dance",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739cc7887164d92d14358e3c9c",
+      "url": "https://open.spotify.com/track/0qyuaKKCafdMj8oUHKuARi",
+      "durationMs": 136615,
+      "playedAt": "2026-08-22T20:10:32.924Z"
+    },
+    {
+      "name": "Je t'aime",
+      "artists": [
+        "Jazzinuf"
+      ],
+      "album": "Dazzle",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273269dc240e2b69fcabd82d3b7",
+      "url": "https://open.spotify.com/track/6dxl91vlQDi9EvmuX39jm4",
+      "durationMs": 143376,
+      "playedAt": "2026-08-22T20:08:19.329Z"
+    },
+    {
+      "name": "Be Mine",
+      "artists": [
+        "Jazzinuf"
+      ],
+      "album": "The Harlem Barber Swing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0e772a6c737692a90fcdb0",
+      "url": "https://open.spotify.com/track/4x4KcHMriD0CuU4XG1si6O",
+      "durationMs": 207250,
+      "playedAt": "2026-08-22T20:05:59.030Z"
+    },
+    {
+      "name": "Coffee and Cigarettes",
+      "artists": [
+        "Jazzinuf"
+      ],
+      "album": "Coffee and Cigarettes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f64e23ad232b825630fdc2e",
+      "url": "https://open.spotify.com/track/6Lx02kkeK3GOfvUora5LBE",
+      "durationMs": 193384,
+      "playedAt": "2026-08-22T20:02:34.770Z"
+    },
+    {
+      "name": "Snow in My Shoe",
+      "artists": [
+        "Jazzinuf"
+      ],
+      "album": "Snow in My Shoe",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bbcb9df7b40d1abaa4f3424f",
+      "url": "https://open.spotify.com/track/2WW3yzfcOk082LANurmdzT",
+      "durationMs": 198857,
+      "playedAt": "2026-08-22T19:59:24.403Z"
+    },
     {
       "name": "Bake Shop",
       "artists": [
@@ -23,98 +129,6 @@
       "url": "https://open.spotify.com/track/0wmyEg08lqajK5jMZZvcTi",
       "durationMs": 132451,
       "playedAt": "2026-08-22T19:26:57.415Z"
-    },
-    {
-      "name": "Tryon Park",
-      "artists": [
-        "Oatmello",
-        "Jazzinuf",
-        "Hippo Dreams"
-      ],
-      "album": "NYC Stories",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8eb10155bfa07867505c2c4",
-      "url": "https://open.spotify.com/track/2UdnXz7IkglUjWDVKuLKgo",
-      "durationMs": 93975,
-      "playedAt": "2026-08-22T19:24:48.015Z"
-    },
-    {
-      "name": "Moon and Tonic",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Audio Bartending",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731f6a72c455a12e6bc885654a",
-      "url": "https://open.spotify.com/track/3yflyr0bWIMCievxoprfiV",
-      "durationMs": 121887,
-      "playedAt": "2026-08-22T19:23:17.013Z"
-    },
-    {
-      "name": "Bitter Sweet",
-      "artists": [
-        "Jazzinuf",
-        "Santosh Sharma"
-      ],
-      "album": "Harlem Barber Swing 2",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b318f7a1b8da963173139bd9",
-      "url": "https://open.spotify.com/track/0SQAjpKE8p37Tgi71rafbZ",
-      "durationMs": 95727,
-      "playedAt": "2026-08-22T19:21:18.123Z"
-    },
-    {
-      "name": "Alone Together",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Alone Together",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eeb94ff25c3fa4bb8ca6cf07",
-      "url": "https://open.spotify.com/track/5AbYvUgk86Nt3EywuX6N2n",
-      "durationMs": 181395,
-      "playedAt": "2026-08-22T19:19:45.415Z"
-    },
-    {
-      "name": "Knee Socks",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "The Harlem Barber Swing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0e772a6c737692a90fcdb0",
-      "url": "https://open.spotify.com/track/4wjDU35F2QTiAE5h96LOHG",
-      "durationMs": 196363,
-      "playedAt": "2026-08-22T19:16:47.046Z"
-    },
-    {
-      "name": "Dream Dealer",
-      "artists": [
-        "Jazzinuf",
-        "Etymology Records"
-      ],
-      "album": "Miracle of the Fishes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e059048a59e8f6575e9e4017",
-      "url": "https://open.spotify.com/track/0Tbo24tjW9kdo5eGFoHZGI",
-      "durationMs": 136089,
-      "playedAt": "2026-08-22T05:18:58.029Z"
-    },
-    {
-      "name": "Coffee and Cigarettes",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Coffee and Cigarettes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f64e23ad232b825630fdc2e",
-      "url": "https://open.spotify.com/track/6Lx02kkeK3GOfvUora5LBE",
-      "durationMs": 193384,
-      "playedAt": "2026-08-22T05:16:44.932Z"
-    },
-    {
-      "name": "Lemon Ginger",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Sun Dance",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739cc7887164d92d14358e3c9c",
-      "url": "https://open.spotify.com/track/5CsJtaArX50OcMVyGOTiEq",
-      "durationMs": 153600,
-      "playedAt": "2026-08-22T05:13:34.553Z"
     }
   ],
   "topArtists": [
@@ -137,15 +151,15 @@
       "genres": []
     },
     {
-      "name": "Labyrint",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8c253702a29d143fb8de5039",
-      "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo",
-      "genres": []
-    },
-    {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
+      "genres": []
+    },
+    {
+      "name": "Labyrint",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8c253702a29d143fb8de5039",
+      "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo",
       "genres": []
     },
     {
