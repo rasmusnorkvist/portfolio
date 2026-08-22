@@ -1,121 +1,128 @@
 {
-  "updatedAt": "2026-08-22T02:33:06.637Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-22T03:38:11.591Z",
+  "nowPlaying": {
+    "name": "Virtual Insanity - Remastered 2006",
+    "artists": [
+      "Jamiroquai"
+    ],
+    "album": "Driving Songs",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
+    "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
+    "durationMs": 229360,
+    "isPlaying": true,
+    "progressMs": 56709
+  },
   "recentlyPlayed": [
     {
-      "name": "All Good?",
+      "name": "Berg-Kirstis polska",
       "artists": [
-        "De La Soul",
-        "Chaka Khan"
+        "Jan Johansson"
       ],
-      "album": "Art Official Intelligence: Mosaic Thump",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27359296f60bb8e045b84a2c0ee",
-      "url": "https://open.spotify.com/track/6Epbp3MOBM6UnFHyJokEAI",
-      "durationMs": 299008,
-      "playedAt": "2026-08-22T02:19:32.306Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/6mNQG5XYpwSnnnfJDe3CFj",
+      "durationMs": 213986,
+      "playedAt": "2026-08-22T03:36:01.277Z"
     },
     {
-      "name": "One To Grow On",
+      "name": "Vallåt från Jämtland",
       "artists": [
-        "The UMC's"
+        "Jan Johansson"
       ],
-      "album": "Fruits Of Nature",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334ba2f037c9f57b03080dfee",
-      "url": "https://open.spotify.com/track/5xELy29v1SKxWaEtgFCjaM",
-      "durationMs": 214133,
-      "playedAt": "2026-08-22T01:47:50.519Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/3sJI7yMJz2RwLtS31z3Dgc",
+      "durationMs": 114693,
+      "playedAt": "2026-08-22T03:32:30.309Z"
     },
     {
-      "name": "Party And Bullshit",
+      "name": "Brudmarsch efter Larshöga Jonke",
       "artists": [
-        "The Notorious B.I.G."
+        "Jan Johansson"
       ],
-      "album": "Whos The Man ? Soundtrack",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273248667da8d589ce025f1ba56",
-      "url": "https://open.spotify.com/track/5mqPg2dyqb1gBNyg9ycGcT",
-      "durationMs": 219706,
-      "playedAt": "2026-08-22T01:44:19.317Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/4Ejyw9gZeAWW7QzjtVWRdw",
+      "durationMs": 124120,
+      "playedAt": "2026-08-22T03:30:35.575Z"
     },
     {
-      "name": "Inga problem",
+      "name": "Emigrantvisa",
       "artists": [
-        "Snook"
+        "Jan Johansson"
       ],
-      "album": "Är",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730631f818e6da7c83c3347f48",
-      "url": "https://open.spotify.com/track/3OVqUymp1SZ88kZcL55DhG",
-      "durationMs": 187293,
-      "playedAt": "2026-08-22T01:37:09.017Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/5kjFu1dBCCqm0RPpjdgRQt",
+      "durationMs": 207733,
+      "playedAt": "2026-08-22T03:28:34.476Z"
     },
     {
-      "name": "ATLiens",
+      "name": "Polska från Medelpad",
       "artists": [
-        "Outkast"
+        "Jan Johansson"
       ],
-      "album": "ATLiens",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27384be563c5931d7ef35706148",
-      "url": "https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz",
-      "durationMs": 230693,
-      "playedAt": "2026-08-22T01:34:04.685Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/35tgywQgB4oOOtB8gp29CM",
+      "durationMs": 150786,
+      "playedAt": "2026-08-22T03:25:09.775Z"
     },
     {
-      "name": "The Rain",
+      "name": "Leksands skänklåt",
       "artists": [
-        "Awon",
-        "Phoniks",
-        "Tiff the Gift"
+        "Jan Johansson"
       ],
-      "album": "The Actual Proof",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aef4500f9920f7a2464cc883",
-      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew",
-      "durationMs": 163636,
-      "playedAt": "2026-08-22T01:30:16.988Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/6xz1YWi4Fvld47xYDRoh3F",
+      "durationMs": 180813,
+      "playedAt": "2026-08-22T03:22:41.974Z"
     },
     {
-      "name": "Välkommen hem",
+      "name": "Visa från Rättvik",
       "artists": [
-        "Labyrint",
-        "Dani M"
+        "Jan Johansson"
       ],
-      "album": "Labababa",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738fd5c8d8cfa248e74a28e933",
-      "url": "https://open.spotify.com/track/5KMaxztlP8LUwAKN9bUKIN",
-      "durationMs": 246773,
-      "playedAt": "2026-08-22T01:27:36.373Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/5OfX2H74dOwUjr4Aw6HEiE",
+      "durationMs": 202986,
+      "playedAt": "2026-08-22T03:19:44.174Z"
     },
     {
-      "name": "Runnin'",
+      "name": "Gånglek från Älvdalen",
       "artists": [
-        "The Pharcyde"
+        "Jan Johansson"
       ],
-      "album": "Labcabincalifornia (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738248914bbbcdcba2d154c8de",
-      "url": "https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5",
-      "durationMs": 296266,
-      "playedAt": "2026-08-22T01:23:32.592Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/5xFJjgYxqi2utu8m4yftYY",
+      "durationMs": 118466,
+      "playedAt": "2026-08-22T03:16:24.273Z"
     },
     {
-      "name": "Virtual Insanity - Remastered 2006",
+      "name": "Nature Boy",
       "artists": [
-        "Jamiroquai"
+        "Jan Johansson",
+        "Georg Riedel"
       ],
-      "album": "Driving Songs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
-      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
-      "durationMs": 229360,
-      "playedAt": "2026-08-22T01:18:26.975Z"
+      "album": "Jan Johansson in Hamburg with Georg Riedel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a2a9c5dc691c07365948804",
+      "url": "https://open.spotify.com/track/7hDq6sOZ5Rl1XnSSfoOBRK",
+      "durationMs": 284186,
+      "playedAt": "2026-08-22T03:14:28.771Z"
     },
     {
-      "name": "Love Never Felt So Good",
+      "name": "Visa från Utanmyra",
       "artists": [
-        "Michael Jackson",
-        "Justin Timberlake"
+        "Jan Johansson"
       ],
-      "album": "XSCAPE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27335f36cb686b0d5a12ab3a9f0",
-      "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP",
-      "durationMs": 246480,
-      "playedAt": "2026-08-21T18:57:23.954Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800,
+      "playedAt": "2026-08-22T03:09:47.576Z"
     }
   ],
   "topArtists": [
@@ -126,15 +133,15 @@
       "genres": []
     },
     {
-      "name": "E-Type",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
-      "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
-      "genres": []
-    },
-    {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
+      "genres": []
+    },
+    {
+      "name": "E-Type",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
+      "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
       "genres": []
     },
     {
@@ -201,6 +208,16 @@
       "durationMs": 357041
     },
     {
+      "name": "Visa från Utanmyra",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800
+    },
+    {
       "name": "This Is The Way - Radio Edit",
       "artists": [
         "E-Type"
@@ -239,16 +256,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
       "url": "https://open.spotify.com/track/67rBycpa8FTFJkQwP5FzP1",
       "durationMs": 224506
-    },
-    {
-      "name": "Campione 2000 - Radio Version",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Euro IV Ever",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c89626b8b2a51e1383a86efd",
-      "url": "https://open.spotify.com/track/78UcxP3Xm0EOXneQUDsStA",
-      "durationMs": 213413
     }
   ],
   "featuredPlaylists": []
