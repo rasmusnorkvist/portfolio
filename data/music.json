@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-08-22T20:47:31.657Z",
-  "nowPlaying": {
-    "name": "Long Day",
-    "artists": [
-      "Guru Griff"
-    ],
-    "album": "Nature Boi",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dda0d5ccc56376a2eb05bc79",
-    "url": "https://open.spotify.com/track/708aD6BmFC9KLdeY5uou95",
-    "durationMs": 102539,
-    "isPlaying": true,
-    "progressMs": 89608
-  },
+  "updatedAt": "2026-08-22T21:17:31.648Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Long Day",
+      "artists": [
+        "Guru Griff"
+      ],
+      "album": "Nature Boi",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dda0d5ccc56376a2eb05bc79",
+      "url": "https://open.spotify.com/track/708aD6BmFC9KLdeY5uou95",
+      "durationMs": 102539,
+      "playedAt": "2026-08-22T20:47:45.479Z"
+    },
     {
       "name": "breakfast",
       "artists": [
@@ -118,17 +118,6 @@
       "url": "https://open.spotify.com/track/1oVz4Kd1Vxj8mdjjkaEcYN",
       "durationMs": 135000,
       "playedAt": "2026-08-22T20:29:29.126Z"
-    },
-    {
-      "name": "Polaroids (Vintage)",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Sun Dance",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739cc7887164d92d14358e3c9c",
-      "url": "https://open.spotify.com/track/1Ma8QRXxHEhnr1PgBBIxkF",
-      "durationMs": 138571,
-      "playedAt": "2026-08-22T20:27:17.130Z"
     }
   ],
   "topArtists": [
