@@ -1,134 +1,134 @@
 {
-  "updatedAt": "2026-08-22T20:17:59.521Z",
+  "updatedAt": "2026-08-22T20:47:31.657Z",
   "nowPlaying": {
-    "name": "Love Affogato",
+    "name": "Long Day",
     "artists": [
-      "Jazzinuf",
-      "Rook1e",
-      "Etymology Records"
+      "Guru Griff"
     ],
-    "album": "Love Affogato",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731770ab28d55013f47e7ca330",
-    "url": "https://open.spotify.com/track/4vWaHo2skMsxVvi5Uqs5a1",
-    "durationMs": 127951,
+    "album": "Nature Boi",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dda0d5ccc56376a2eb05bc79",
+    "url": "https://open.spotify.com/track/708aD6BmFC9KLdeY5uou95",
+    "durationMs": 102539,
     "isPlaying": true,
-    "progressMs": 78219
+    "progressMs": 89608
   },
   "recentlyPlayed": [
     {
-      "name": "Something Has Happened",
+      "name": "breakfast",
       "artists": [
-        "Jazzinuf",
-        "Hippo Dreams",
-        "Slug"
+        "potsu",
+        "lando!"
       ],
-      "album": "Something Has Happened",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27348553bdf6f154c06eef6c11d",
-      "url": "https://open.spotify.com/track/1BqjjwB77YBHjm90El8jLI",
-      "durationMs": 116593,
-      "playedAt": "2026-08-22T20:16:45.028Z"
+      "album": "breakfast",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730baba7c3e7075720e95f7d26",
+      "url": "https://open.spotify.com/track/5inPJdObXRtrY0cNrUDv3b",
+      "durationMs": 131041,
+      "playedAt": "2026-08-22T20:46:05.957Z"
     },
     {
-      "name": "The Harlem Barber Swing",
+      "name": "chet baker tribute",
+      "artists": [
+        "Bassti"
+      ],
+      "album": "she says it's too much",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f8ab5453cd4886cb5515636b",
+      "url": "https://open.spotify.com/track/5Dr7gCPCmc3EVA0762l78B",
+      "durationMs": 130601,
+      "playedAt": "2026-08-22T20:43:57.916Z"
+    },
+    {
+      "name": "City Samba",
+      "artists": [
+        "Konteks"
+      ],
+      "album": "Faces & Spaces",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731cd1ae29bf4e4054f3a816c9",
+      "url": "https://open.spotify.com/track/14kpqRxMt2iAvNvMEoGJws",
+      "durationMs": 180000,
+      "playedAt": "2026-08-22T20:41:50.300Z"
+    },
+    {
+      "name": "Espresso",
       "artists": [
         "Jazzinuf"
       ],
       "album": "The Harlem Barber Swing",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0e772a6c737692a90fcdb0",
-      "url": "https://open.spotify.com/track/6iw2J2XoCXjkHJ85M8w1wV",
-      "durationMs": 152869,
-      "playedAt": "2026-08-22T20:14:51.429Z"
+      "url": "https://open.spotify.com/track/2H2MfQkBlIQ8w8TL7CPto7",
+      "durationMs": 91500,
+      "playedAt": "2026-08-22T20:38:53.379Z"
     },
     {
-      "name": "Miracle of the Fishes",
+      "name": "Espresso",
       "artists": [
-        "Jazzinuf",
-        "Etymology Records",
-        "Adam O'Farrill"
+        "Jazzinuf"
       ],
-      "album": "Miracle of the Fishes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e059048a59e8f6575e9e4017",
-      "url": "https://open.spotify.com/track/3PmklyTsokpWA2NihZu4ak",
-      "durationMs": 111630,
-      "playedAt": "2026-08-22T20:12:21.545Z"
+      "album": "The Harlem Barber Swing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0e772a6c737692a90fcdb0",
+      "url": "https://open.spotify.com/track/2H2MfQkBlIQ8w8TL7CPto7",
+      "durationMs": 91500,
+      "playedAt": "2026-08-22T20:38:23.555Z"
     },
     {
-      "name": "Gymnopedie No.77",
+      "name": "The Path Of Ways",
+      "artists": [
+        "Glimlip",
+        "Jazzinuf",
+        "luv pug"
+      ],
+      "album": "The Path Of Ways",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27366cc8d176104ac7b9db7d8d2",
+      "url": "https://open.spotify.com/track/2bgkUDBKIAKhh0ELunIAyq",
+      "durationMs": 180174,
+      "playedAt": "2026-08-22T20:37:03.926Z"
+    },
+    {
+      "name": "Espresso",
+      "artists": [
+        "Jazzinuf"
+      ],
+      "album": "The Harlem Barber Swing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0e772a6c737692a90fcdb0",
+      "url": "https://open.spotify.com/track/2H2MfQkBlIQ8w8TL7CPto7",
+      "durationMs": 91500,
+      "playedAt": "2026-08-22T20:34:06.759Z"
+    },
+    {
+      "name": "Mellow Minds",
       "artists": [
         "Jazzinuf",
-        "Oatmello"
+        "The Art of Doing Nothing"
+      ],
+      "album": "Mellow Minds",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737e7bdd6e317239439f2f3ddb",
+      "url": "https://open.spotify.com/track/3EtMchO6suPnMIaHj8hs8z",
+      "durationMs": 192169,
+      "playedAt": "2026-08-22T20:32:38.326Z"
+    },
+    {
+      "name": "Rhodes To Go",
+      "artists": [
+        "Enluv",
+        "Jazzinuf",
+        "Hippo Dreams",
+        "9ICK"
+      ],
+      "album": "Rhodes To Go",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a99acc4786457b15d7adf853",
+      "url": "https://open.spotify.com/track/1oVz4Kd1Vxj8mdjjkaEcYN",
+      "durationMs": 135000,
+      "playedAt": "2026-08-22T20:29:29.126Z"
+    },
+    {
+      "name": "Polaroids (Vintage)",
+      "artists": [
+        "Jazzinuf"
       ],
       "album": "Sun Dance",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739cc7887164d92d14358e3c9c",
-      "url": "https://open.spotify.com/track/0qyuaKKCafdMj8oUHKuARi",
-      "durationMs": 136615,
-      "playedAt": "2026-08-22T20:10:32.924Z"
-    },
-    {
-      "name": "Je t'aime",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Dazzle",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273269dc240e2b69fcabd82d3b7",
-      "url": "https://open.spotify.com/track/6dxl91vlQDi9EvmuX39jm4",
-      "durationMs": 143376,
-      "playedAt": "2026-08-22T20:08:19.329Z"
-    },
-    {
-      "name": "Be Mine",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "The Harlem Barber Swing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0e772a6c737692a90fcdb0",
-      "url": "https://open.spotify.com/track/4x4KcHMriD0CuU4XG1si6O",
-      "durationMs": 207250,
-      "playedAt": "2026-08-22T20:05:59.030Z"
-    },
-    {
-      "name": "Coffee and Cigarettes",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Coffee and Cigarettes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f64e23ad232b825630fdc2e",
-      "url": "https://open.spotify.com/track/6Lx02kkeK3GOfvUora5LBE",
-      "durationMs": 193384,
-      "playedAt": "2026-08-22T20:02:34.770Z"
-    },
-    {
-      "name": "Snow in My Shoe",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Snow in My Shoe",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bbcb9df7b40d1abaa4f3424f",
-      "url": "https://open.spotify.com/track/2WW3yzfcOk082LANurmdzT",
-      "durationMs": 198857,
-      "playedAt": "2026-08-22T19:59:24.403Z"
-    },
-    {
-      "name": "Bake Shop",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Dazzle",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273269dc240e2b69fcabd82d3b7",
-      "url": "https://open.spotify.com/track/2RbD6nVEvuMNmQuXTwIlU4",
-      "durationMs": 123875,
-      "playedAt": "2026-08-22T19:28:58.315Z"
-    },
-    {
-      "name": "Banana Coconut Pie",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Banana Coconut Pie",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc15dad14d596a6e42a8b5f0",
-      "url": "https://open.spotify.com/track/0wmyEg08lqajK5jMZZvcTi",
-      "durationMs": 132451,
-      "playedAt": "2026-08-22T19:26:57.415Z"
+      "url": "https://open.spotify.com/track/1Ma8QRXxHEhnr1PgBBIxkF",
+      "durationMs": 138571,
+      "playedAt": "2026-08-22T20:27:17.130Z"
     }
   ],
   "topArtists": [
