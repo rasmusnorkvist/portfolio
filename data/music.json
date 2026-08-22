@@ -1,7 +1,65 @@
 {
-  "updatedAt": "2026-08-22T18:57:26.021Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-22T19:23:41.685Z",
+  "nowPlaying": {
+    "name": "Tryon Park",
+    "artists": [
+      "Oatmello",
+      "Jazzinuf",
+      "Hippo Dreams"
+    ],
+    "album": "NYC Stories",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8eb10155bfa07867505c2c4",
+    "url": "https://open.spotify.com/track/2UdnXz7IkglUjWDVKuLKgo",
+    "durationMs": 93975,
+    "isPlaying": true,
+    "progressMs": 28390
+  },
   "recentlyPlayed": [
+    {
+      "name": "Moon and Tonic",
+      "artists": [
+        "Jazzinuf"
+      ],
+      "album": "Audio Bartending",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731f6a72c455a12e6bc885654a",
+      "url": "https://open.spotify.com/track/3yflyr0bWIMCievxoprfiV",
+      "durationMs": 121887,
+      "playedAt": "2026-08-22T19:23:17.013Z"
+    },
+    {
+      "name": "Bitter Sweet",
+      "artists": [
+        "Jazzinuf",
+        "Santosh Sharma"
+      ],
+      "album": "Harlem Barber Swing 2",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b318f7a1b8da963173139bd9",
+      "url": "https://open.spotify.com/track/0SQAjpKE8p37Tgi71rafbZ",
+      "durationMs": 95727,
+      "playedAt": "2026-08-22T19:21:18.123Z"
+    },
+    {
+      "name": "Alone Together",
+      "artists": [
+        "Jazzinuf"
+      ],
+      "album": "Alone Together",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eeb94ff25c3fa4bb8ca6cf07",
+      "url": "https://open.spotify.com/track/5AbYvUgk86Nt3EywuX6N2n",
+      "durationMs": 181395,
+      "playedAt": "2026-08-22T19:19:45.415Z"
+    },
+    {
+      "name": "Knee Socks",
+      "artists": [
+        "Jazzinuf"
+      ],
+      "album": "The Harlem Barber Swing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0e772a6c737692a90fcdb0",
+      "url": "https://open.spotify.com/track/4wjDU35F2QTiAE5h96LOHG",
+      "durationMs": 196363,
+      "playedAt": "2026-08-22T19:16:47.046Z"
+    },
     {
       "name": "Dream Dealer",
       "artists": [
@@ -70,52 +128,6 @@
       "url": "https://open.spotify.com/track/7u9DnB0ZMfRx8MfOqF2X06",
       "durationMs": 192548,
       "playedAt": "2026-08-22T05:07:20.890Z"
-    },
-    {
-      "name": "Moonstone",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Sun Dance",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739cc7887164d92d14358e3c9c",
-      "url": "https://open.spotify.com/track/7dp8RSASlAC24A0ITjdDdK",
-      "durationMs": 121378,
-      "playedAt": "2026-08-22T05:04:11.369Z"
-    },
-    {
-      "name": "Dazzle",
-      "artists": [
-        "Jazzinuf",
-        "Engelwood"
-      ],
-      "album": "Dazzle",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273269dc240e2b69fcabd82d3b7",
-      "url": "https://open.spotify.com/track/5Se5put2P3JdoMoRHIX2uq",
-      "durationMs": 103165,
-      "playedAt": "2026-08-22T05:02:12.980Z"
-    },
-    {
-      "name": "Floating",
-      "artists": [
-        "brillion.",
-        "Jazzinuf"
-      ],
-      "album": "Bedtime Stories Pt. 3",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dc675e7dbad0109dc1e6bbfb",
-      "url": "https://open.spotify.com/track/6dKzSbEQDFh2CP3Uiq6HV2",
-      "durationMs": 184320,
-      "playedAt": "2026-08-22T05:00:32.853Z"
-    },
-    {
-      "name": "Under Pressure",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "The Harlem Barber Swing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0e772a6c737692a90fcdb0",
-      "url": "https://open.spotify.com/track/3wtohP1ysNCwQ3vtzJcHqb",
-      "durationMs": 148570,
-      "playedAt": "2026-08-22T04:57:31.555Z"
     }
   ],
   "topArtists": [
