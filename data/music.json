@@ -1,18 +1,51 @@
 {
-  "updatedAt": "2026-08-23T15:17:59.820Z",
-  "nowPlaying": {
-    "name": "Girl in Collision - 12\" Version",
-    "artists": [
-      "Chris Rainbow"
-    ],
-    "album": "White Trails (Expanded)",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f96aee01fdb9a8d00db869c5",
-    "url": "https://open.spotify.com/track/1cyl16txTmOgQTWpYPOBrl",
-    "durationMs": 337266,
-    "isPlaying": true,
-    "progressMs": 97151
-  },
+  "updatedAt": "2026-08-23T15:45:54.166Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Visions - 2013 Remaster",
+      "artists": [
+        "Eagles"
+      ],
+      "album": "One of These Nights (2013 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94",
+      "url": "https://open.spotify.com/track/7dvL8p3pOPVQRDnOPIErMm",
+      "durationMs": 238662,
+      "playedAt": "2026-08-23T15:31:37.147Z"
+    },
+    {
+      "name": "Bad Sneakers",
+      "artists": [
+        "Steely Dan"
+      ],
+      "album": "Katy Lied",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d72ce442e7717e75315dd7a1",
+      "url": "https://open.spotify.com/track/4tnHUv4TXFIu5hjXjRC8JQ",
+      "durationMs": 199960,
+      "playedAt": "2026-08-23T15:27:41.345Z"
+    },
+    {
+      "name": "Thursday",
+      "artists": [
+        "Jim Croce"
+      ],
+      "album": "I Got a Name",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273683ef435ce881cebac6fd3fe",
+      "url": "https://open.spotify.com/track/5rBusu68MvkS8UAibGSj79",
+      "durationMs": 147813,
+      "playedAt": "2026-08-23T15:24:24.400Z"
+    },
+    {
+      "name": "Girl in Collision - 12\" Version",
+      "artists": [
+        "Chris Rainbow"
+      ],
+      "album": "White Trails (Expanded)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f96aee01fdb9a8d00db869c5",
+      "url": "https://open.spotify.com/track/1cyl16txTmOgQTWpYPOBrl",
+      "durationMs": 337266,
+      "playedAt": "2026-08-23T15:21:59.724Z"
+    },
     {
       "name": "Southbound Again",
       "artists": [
@@ -78,50 +111,6 @@
       "url": "https://open.spotify.com/track/5NfzVueIjM2uwu7UWTvZAU",
       "durationMs": 315507,
       "playedAt": "2026-08-23T01:48:16.403Z"
-    },
-    {
-      "name": "Nightingale - 2013 Remaster",
-      "artists": [
-        "Eagles"
-      ],
-      "album": "Eagles (2013 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c13acd642ba9f6f5f127aa1b",
-      "url": "https://open.spotify.com/track/59OUN6rPXLBK6bkhhwQkP5",
-      "durationMs": 245598,
-      "playedAt": "2026-08-23T01:43:03.906Z"
-    },
-    {
-      "name": "World In Harmony - 2013 Remaster",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Then Play On (2013 Remaster; Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737fed393cf771d20794c673ae",
-      "url": "https://open.spotify.com/track/18hoXRIPSaobpQf7J2JZG4",
-      "durationMs": 206443,
-      "playedAt": "2026-08-23T01:39:01.305Z"
-    },
-    {
-      "name": "No Future in Your Eyes",
-      "artists": [
-        "Ace"
-      ],
-      "album": "Time for Another",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736414360a64ccdc747ee6bb72",
-      "url": "https://open.spotify.com/track/75VRKS2TfdKbkbcbm1B5ep",
-      "durationMs": 208533,
-      "playedAt": "2026-08-23T01:35:37.816Z"
-    },
-    {
-      "name": "Single Handed Sailor",
-      "artists": [
-        "Dire Straits"
-      ],
-      "album": "Communiqué",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1f7f1d5898b28c1ce3f4947",
-      "url": "https://open.spotify.com/track/0lFnN31Rw1x5Mx1kojwQQY",
-      "durationMs": 282800,
-      "playedAt": "2026-08-23T01:26:46.348Z"
     }
   ],
   "topArtists": [
