@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-23T14:48:17.202Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-23T15:17:59.820Z",
+  "nowPlaying": {
+    "name": "Girl in Collision - 12\" Version",
+    "artists": [
+      "Chris Rainbow"
+    ],
+    "album": "White Trails (Expanded)",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f96aee01fdb9a8d00db869c5",
+    "url": "https://open.spotify.com/track/1cyl16txTmOgQTWpYPOBrl",
+    "durationMs": 337266,
+    "isPlaying": true,
+    "progressMs": 97151
+  },
   "recentlyPlayed": [
     {
       "name": "Southbound Again",
