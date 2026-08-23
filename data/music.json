@@ -1,18 +1,102 @@
 {
-  "updatedAt": "2026-08-23T16:19:18.137Z",
+  "updatedAt": "2026-08-23T16:50:07.377Z",
   "nowPlaying": {
-    "name": "Nothing Happens Here",
+    "name": "Solace",
     "artists": [
-      "Julian Lage"
+      "New Fossils"
     ],
-    "album": "Nothing Happens Here",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27395f4d3b0a55551ba281c6bb9",
-    "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc",
-    "durationMs": 254560,
+    "album": "II",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b9bb0c9f1f37d74d7a2298e",
+    "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp",
+    "durationMs": 171397,
     "isPlaying": true,
-    "progressMs": 76913
+    "progressMs": 93820
   },
   "recentlyPlayed": [
+    {
+      "name": "Morning",
+      "artists": [
+        "Ola W Jansson",
+        "W JAZZ TRIO"
+      ],
+      "album": "Morning",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc27ae8b885acc041d70938f",
+      "url": "https://open.spotify.com/track/0RvjKMKJgrJct18yTfL9VQ",
+      "durationMs": 180608,
+      "playedAt": "2026-08-23T16:48:37.378Z"
+    },
+    {
+      "name": "Boo's Blues",
+      "artists": [
+        "Julian Lage"
+      ],
+      "album": "Boo's Blues",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734f2ad3ab019419fdb4241db4",
+      "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr",
+      "durationMs": 205094,
+      "playedAt": "2026-08-23T16:45:39.793Z"
+    },
+    {
+      "name": "Winter",
+      "artists": [
+        "Chip Wickham"
+      ],
+      "album": "Cloud 10",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736eb78d45c030dc44ff610da1",
+      "url": "https://open.spotify.com/track/1FRaCnYzTKNG1ncxwL9bgJ",
+      "durationMs": 329000,
+      "playedAt": "2026-08-23T16:42:17.772Z"
+    },
+    {
+      "name": "It Ain’t Necessarily So",
+      "artists": [
+        "Mary Lou Williams"
+      ],
+      "album": "Mary Lou Williams Presents Black Christ of the Andes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aaf8bad59a31d778307fad0d",
+      "url": "https://open.spotify.com/track/0vwTHK0RI01avuLIrAHp8C",
+      "durationMs": 285000,
+      "playedAt": "2026-08-23T16:36:51.772Z"
+    },
+    {
+      "name": "Hopeful Morning",
+      "artists": [
+        "Matt Carmichael",
+        "Fergus McCreadie",
+        "Ali Watson",
+        "Tom Potter"
+      ],
+      "album": "Where Will The River Flow",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731f599ac06f8c671831baae80",
+      "url": "https://open.spotify.com/track/3yma71q3AQwDZ5oxlpGQ85",
+      "durationMs": 333320,
+      "playedAt": "2026-08-23T16:32:09.749Z"
+    },
+    {
+      "name": "Peaceful Paranoia",
+      "artists": [
+        "Niclas Knudsen Trio",
+        "Kresten Osgood",
+        "Niclas Knudsen",
+        "Anders Christensen"
+      ],
+      "album": "Times Revisited",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27396c0342ec48fbc44f8a96e3d",
+      "url": "https://open.spotify.com/track/1P9zMTrGMBPTDr0A4MU7cd",
+      "durationMs": 265826,
+      "playedAt": "2026-08-23T16:26:39.472Z"
+    },
+    {
+      "name": "Nothing Happens Here",
+      "artists": [
+        "Julian Lage"
+      ],
+      "album": "Nothing Happens Here",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27395f4d3b0a55551ba281c6bb9",
+      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc",
+      "durationMs": 254560,
+      "playedAt": "2026-08-23T16:22:16.629Z"
+    },
     {
       "name": "Follow The Light",
       "artists": [
@@ -45,83 +129,6 @@
       "url": "https://open.spotify.com/track/4tnHUv4TXFIu5hjXjRC8JQ",
       "durationMs": 199960,
       "playedAt": "2026-08-23T15:27:41.345Z"
-    },
-    {
-      "name": "Thursday",
-      "artists": [
-        "Jim Croce"
-      ],
-      "album": "I Got a Name",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273683ef435ce881cebac6fd3fe",
-      "url": "https://open.spotify.com/track/5rBusu68MvkS8UAibGSj79",
-      "durationMs": 147813,
-      "playedAt": "2026-08-23T15:24:24.400Z"
-    },
-    {
-      "name": "Girl in Collision - 12\" Version",
-      "artists": [
-        "Chris Rainbow"
-      ],
-      "album": "White Trails (Expanded)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f96aee01fdb9a8d00db869c5",
-      "url": "https://open.spotify.com/track/1cyl16txTmOgQTWpYPOBrl",
-      "durationMs": 337266,
-      "playedAt": "2026-08-23T15:21:59.724Z"
-    },
-    {
-      "name": "Southbound Again",
-      "artists": [
-        "Dire Straits"
-      ],
-      "album": "Dire Straits",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8",
-      "url": "https://open.spotify.com/track/1lzaRptS63unC0qgT6hm7T",
-      "durationMs": 179200,
-      "playedAt": "2026-08-23T02:44:18.731Z"
-    },
-    {
-      "name": "Jewel Eyed Judy - 2018 Remaster",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Kiln House",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733f18978d4efc39d13e411a5f",
-      "url": "https://open.spotify.com/track/57jPG8TAQGEZCxLraVWdEV",
-      "durationMs": 199373,
-      "playedAt": "2026-08-23T02:41:22.485Z"
-    },
-    {
-      "name": "Midnight on the Bay - 2016 Remaster",
-      "artists": [
-        "The Stills-Young Band"
-      ],
-      "album": "Long May You Run",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c11e9b3ed28a867ba35d6305",
-      "url": "https://open.spotify.com/track/5pTfwxnRNxDjt2HyMXUF3H",
-      "durationMs": 240133,
-      "playedAt": "2026-08-23T02:38:06.085Z"
-    },
-    {
-      "name": "My Old School",
-      "artists": [
-        "Steely Dan"
-      ],
-      "album": "Countdown To Ecstasy",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f08f479a9dcdf7db7c85e3a8",
-      "url": "https://open.spotify.com/track/3FpKXPOG2FqB3QzmfafG1H",
-      "durationMs": 339281,
-      "playedAt": "2026-08-23T01:57:01.287Z"
-    },
-    {
-      "name": "When the Morning Comes",
-      "artists": [
-        "Daryl Hall & John Oates"
-      ],
-      "album": "Abandoned Luncheonette",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f0302cabc362df3517ff7e4c",
-      "url": "https://open.spotify.com/track/75XQk1ewCddGnDuFMYg2iL",
-      "durationMs": 191493,
-      "playedAt": "2026-08-23T01:51:24.805Z"
     }
   ],
   "topArtists": [
