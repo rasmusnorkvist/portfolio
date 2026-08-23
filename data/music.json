@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-08-23T16:50:07.377Z",
-  "nowPlaying": {
-    "name": "Solace",
-    "artists": [
-      "New Fossils"
-    ],
-    "album": "II",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b9bb0c9f1f37d74d7a2298e",
-    "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp",
-    "durationMs": 171397,
-    "isPlaying": true,
-    "progressMs": 93820
-  },
+  "updatedAt": "2026-08-23T17:16:32.957Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
       "name": "Morning",
