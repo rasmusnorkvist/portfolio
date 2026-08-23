@@ -1,127 +1,127 @@
 {
-  "updatedAt": "2026-08-23T01:04:56.604Z",
+  "updatedAt": "2026-08-23T02:42:46.802Z",
   "nowPlaying": {
-    "name": "For Your Love - 2018 Remaster",
+    "name": "Southbound Again",
     "artists": [
-      "Fleetwood Mac"
+      "Dire Straits"
     ],
-    "album": "Mystery to Me",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fe5dc4f72fc5587fe59f665b",
-    "url": "https://open.spotify.com/track/2zvgGVNa691OChC3lGPY5K",
-    "durationMs": 226840,
+    "album": "Dire Straits",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8",
+    "url": "https://open.spotify.com/track/1lzaRptS63unC0qgT6hm7T",
+    "durationMs": 179200,
     "isPlaying": true,
-    "progressMs": 18341
+    "progressMs": 88257
   },
   "recentlyPlayed": [
     {
-      "name": "You've Got the Right",
+      "name": "Jewel Eyed Judy - 2018 Remaster",
       "artists": [
-        "The Jeremy Spencer Band"
+        "Fleetwood Mac"
       ],
-      "album": "Flee",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730a49794bd0a26ed45ffa9df4",
-      "url": "https://open.spotify.com/track/70eSR8YlHxe2wN0tyI798E",
-      "durationMs": 173853,
-      "playedAt": "2026-08-23T01:04:42.029Z"
+      "album": "Kiln House",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733f18978d4efc39d13e411a5f",
+      "url": "https://open.spotify.com/track/57jPG8TAQGEZCxLraVWdEV",
+      "durationMs": 199373,
+      "playedAt": "2026-08-23T02:41:22.485Z"
     },
     {
-      "name": "Dark Star",
+      "name": "Midnight on the Bay - 2016 Remaster",
       "artists": [
-        "Crosby, Stills & Nash"
+        "The Stills-Young Band"
       ],
-      "album": "CSN",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27333296dca4799f533fba9cce8",
-      "url": "https://open.spotify.com/track/40lm5PFVQopOYaIXmyWNS9",
-      "durationMs": 285706,
-      "playedAt": "2026-08-23T01:01:51.132Z"
+      "album": "Long May You Run",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c11e9b3ed28a867ba35d6305",
+      "url": "https://open.spotify.com/track/5pTfwxnRNxDjt2HyMXUF3H",
+      "durationMs": 240133,
+      "playedAt": "2026-08-23T02:38:06.085Z"
     },
     {
-      "name": "Home At Last",
+      "name": "My Old School",
       "artists": [
         "Steely Dan"
       ],
-      "album": "Aja",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6",
-      "url": "https://open.spotify.com/track/4rJMVlcWta53qxlr4b5zrF",
-      "durationMs": 335037,
-      "playedAt": "2026-08-23T00:57:08.533Z"
+      "album": "Countdown To Ecstasy",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f08f479a9dcdf7db7c85e3a8",
+      "url": "https://open.spotify.com/track/3FpKXPOG2FqB3QzmfafG1H",
+      "durationMs": 339281,
+      "playedAt": "2026-08-23T01:57:01.287Z"
     },
     {
-      "name": "Rikki Don't Lose That Number",
+      "name": "When the Morning Comes",
+      "artists": [
+        "Daryl Hall & John Oates"
+      ],
+      "album": "Abandoned Luncheonette",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f0302cabc362df3517ff7e4c",
+      "url": "https://open.spotify.com/track/75XQk1ewCddGnDuFMYg2iL",
+      "durationMs": 191493,
+      "playedAt": "2026-08-23T01:51:24.805Z"
+    },
+    {
+      "name": "Down by the Seaside - Remaster",
+      "artists": [
+        "Led Zeppelin"
+      ],
+      "album": "Physical Graffiti (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273765b0617b572bdd1dbdc7d8e",
+      "url": "https://open.spotify.com/track/5NfzVueIjM2uwu7UWTvZAU",
+      "durationMs": 315507,
+      "playedAt": "2026-08-23T01:48:16.403Z"
+    },
+    {
+      "name": "Nightingale - 2013 Remaster",
+      "artists": [
+        "Eagles"
+      ],
+      "album": "Eagles (2013 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c13acd642ba9f6f5f127aa1b",
+      "url": "https://open.spotify.com/track/59OUN6rPXLBK6bkhhwQkP5",
+      "durationMs": 245598,
+      "playedAt": "2026-08-23T01:43:03.906Z"
+    },
+    {
+      "name": "World In Harmony - 2013 Remaster",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "album": "Then Play On (2013 Remaster; Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737fed393cf771d20794c673ae",
+      "url": "https://open.spotify.com/track/18hoXRIPSaobpQf7J2JZG4",
+      "durationMs": 206443,
+      "playedAt": "2026-08-23T01:39:01.305Z"
+    },
+    {
+      "name": "No Future in Your Eyes",
+      "artists": [
+        "Ace"
+      ],
+      "album": "Time for Another",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736414360a64ccdc747ee6bb72",
+      "url": "https://open.spotify.com/track/75VRKS2TfdKbkbcbm1B5ep",
+      "durationMs": 208533,
+      "playedAt": "2026-08-23T01:35:37.816Z"
+    },
+    {
+      "name": "Single Handed Sailor",
+      "artists": [
+        "Dire Straits"
+      ],
+      "album": "Communiqué",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1f7f1d5898b28c1ce3f4947",
+      "url": "https://open.spotify.com/track/0lFnN31Rw1x5Mx1kojwQQY",
+      "durationMs": 282800,
+      "playedAt": "2026-08-23T01:26:46.348Z"
+    },
+    {
+      "name": "Midnite Cruiser",
       "artists": [
         "Steely Dan"
       ],
-      "album": "Pretzel Logic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273120746a40f65d11c2ac29647",
-      "url": "https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ",
-      "durationMs": 272946,
-      "playedAt": "2026-08-23T00:51:38.247Z"
-    },
-    {
-      "name": "Did You Ever Love Me",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Penguin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
-      "url": "https://open.spotify.com/track/5fPgEQlqlMa83hZRlrerFH",
-      "durationMs": 224400,
-      "playedAt": "2026-08-23T00:47:05.255Z"
-    },
-    {
-      "name": "Revelation",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Penguin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
-      "url": "https://open.spotify.com/track/6DvBLoaZXs4UhhjRzO1GL8",
-      "durationMs": 300626,
-      "playedAt": "2026-08-23T00:43:20.819Z"
-    },
-    {
-      "name": "The Derelict",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Penguin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
-      "url": "https://open.spotify.com/track/6lnXklx7RUNyJp1OuFOaYw",
-      "durationMs": 169840,
-      "playedAt": "2026-08-23T00:38:20.242Z"
-    },
-    {
-      "name": "(I'm A) Road Runner",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Penguin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
-      "url": "https://open.spotify.com/track/0cMlzsdIsxG3sXFI5JIFNm",
-      "durationMs": 295800,
-      "playedAt": "2026-08-23T00:35:30.341Z"
-    },
-    {
-      "name": "Dissatisfied",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Penguin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
-      "url": "https://open.spotify.com/track/5bexGtt87OTKAcd4DcsetT",
-      "durationMs": 224000,
-      "playedAt": "2026-08-23T00:27:37.429Z"
-    },
-    {
-      "name": "Bright Fire",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Penguin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
-      "url": "https://open.spotify.com/track/6rRZG3S0QfVRFnaSPsFoNH",
-      "durationMs": 273626,
-      "playedAt": "2026-08-23T00:23:53.443Z"
+      "album": "Can't Buy A Thrill",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
+      "url": "https://open.spotify.com/track/7y5nJToPWMjtJLcLEGxyGf",
+      "durationMs": 252327,
+      "playedAt": "2026-08-23T01:21:59.501Z"
     }
   ],
   "topArtists": [
