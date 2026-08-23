@@ -1,123 +1,127 @@
 {
-  "updatedAt": "2026-08-22T23:43:51.693Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-23T01:04:56.604Z",
+  "nowPlaying": {
+    "name": "For Your Love - 2018 Remaster",
+    "artists": [
+      "Fleetwood Mac"
+    ],
+    "album": "Mystery to Me",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fe5dc4f72fc5587fe59f665b",
+    "url": "https://open.spotify.com/track/2zvgGVNa691OChC3lGPY5K",
+    "durationMs": 226840,
+    "isPlaying": true,
+    "progressMs": 18341
+  },
   "recentlyPlayed": [
     {
-      "name": "Long Day",
+      "name": "You've Got the Right",
       "artists": [
-        "Guru Griff"
+        "The Jeremy Spencer Band"
       ],
-      "album": "Nature Boi",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dda0d5ccc56376a2eb05bc79",
-      "url": "https://open.spotify.com/track/708aD6BmFC9KLdeY5uou95",
-      "durationMs": 102539,
-      "playedAt": "2026-08-22T20:47:45.479Z"
+      "album": "Flee",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730a49794bd0a26ed45ffa9df4",
+      "url": "https://open.spotify.com/track/70eSR8YlHxe2wN0tyI798E",
+      "durationMs": 173853,
+      "playedAt": "2026-08-23T01:04:42.029Z"
     },
     {
-      "name": "breakfast",
+      "name": "Dark Star",
       "artists": [
-        "potsu",
-        "lando!"
+        "Crosby, Stills & Nash"
       ],
-      "album": "breakfast",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730baba7c3e7075720e95f7d26",
-      "url": "https://open.spotify.com/track/5inPJdObXRtrY0cNrUDv3b",
-      "durationMs": 131041,
-      "playedAt": "2026-08-22T20:46:05.957Z"
+      "album": "CSN",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27333296dca4799f533fba9cce8",
+      "url": "https://open.spotify.com/track/40lm5PFVQopOYaIXmyWNS9",
+      "durationMs": 285706,
+      "playedAt": "2026-08-23T01:01:51.132Z"
     },
     {
-      "name": "chet baker tribute",
+      "name": "Home At Last",
       "artists": [
-        "Bassti"
+        "Steely Dan"
       ],
-      "album": "she says it's too much",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f8ab5453cd4886cb5515636b",
-      "url": "https://open.spotify.com/track/5Dr7gCPCmc3EVA0762l78B",
-      "durationMs": 130601,
-      "playedAt": "2026-08-22T20:43:57.916Z"
+      "album": "Aja",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cf39e4261576717ff4737bb6",
+      "url": "https://open.spotify.com/track/4rJMVlcWta53qxlr4b5zrF",
+      "durationMs": 335037,
+      "playedAt": "2026-08-23T00:57:08.533Z"
     },
     {
-      "name": "City Samba",
+      "name": "Rikki Don't Lose That Number",
       "artists": [
-        "Konteks"
+        "Steely Dan"
       ],
-      "album": "Faces & Spaces",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731cd1ae29bf4e4054f3a816c9",
-      "url": "https://open.spotify.com/track/14kpqRxMt2iAvNvMEoGJws",
-      "durationMs": 180000,
-      "playedAt": "2026-08-22T20:41:50.300Z"
+      "album": "Pretzel Logic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273120746a40f65d11c2ac29647",
+      "url": "https://open.spotify.com/track/0xLrMI4R2xTwRHWV3UQCAZ",
+      "durationMs": 272946,
+      "playedAt": "2026-08-23T00:51:38.247Z"
     },
     {
-      "name": "Espresso",
+      "name": "Did You Ever Love Me",
       "artists": [
-        "Jazzinuf"
+        "Fleetwood Mac"
       ],
-      "album": "The Harlem Barber Swing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0e772a6c737692a90fcdb0",
-      "url": "https://open.spotify.com/track/2H2MfQkBlIQ8w8TL7CPto7",
-      "durationMs": 91500,
-      "playedAt": "2026-08-22T20:38:53.379Z"
+      "album": "Penguin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
+      "url": "https://open.spotify.com/track/5fPgEQlqlMa83hZRlrerFH",
+      "durationMs": 224400,
+      "playedAt": "2026-08-23T00:47:05.255Z"
     },
     {
-      "name": "Espresso",
+      "name": "Revelation",
       "artists": [
-        "Jazzinuf"
+        "Fleetwood Mac"
       ],
-      "album": "The Harlem Barber Swing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0e772a6c737692a90fcdb0",
-      "url": "https://open.spotify.com/track/2H2MfQkBlIQ8w8TL7CPto7",
-      "durationMs": 91500,
-      "playedAt": "2026-08-22T20:38:23.555Z"
+      "album": "Penguin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
+      "url": "https://open.spotify.com/track/6DvBLoaZXs4UhhjRzO1GL8",
+      "durationMs": 300626,
+      "playedAt": "2026-08-23T00:43:20.819Z"
     },
     {
-      "name": "The Path Of Ways",
+      "name": "The Derelict",
       "artists": [
-        "Glimlip",
-        "Jazzinuf",
-        "luv pug"
+        "Fleetwood Mac"
       ],
-      "album": "The Path Of Ways",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27366cc8d176104ac7b9db7d8d2",
-      "url": "https://open.spotify.com/track/2bgkUDBKIAKhh0ELunIAyq",
-      "durationMs": 180174,
-      "playedAt": "2026-08-22T20:37:03.926Z"
+      "album": "Penguin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
+      "url": "https://open.spotify.com/track/6lnXklx7RUNyJp1OuFOaYw",
+      "durationMs": 169840,
+      "playedAt": "2026-08-23T00:38:20.242Z"
     },
     {
-      "name": "Espresso",
+      "name": "(I'm A) Road Runner",
       "artists": [
-        "Jazzinuf"
+        "Fleetwood Mac"
       ],
-      "album": "The Harlem Barber Swing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0e772a6c737692a90fcdb0",
-      "url": "https://open.spotify.com/track/2H2MfQkBlIQ8w8TL7CPto7",
-      "durationMs": 91500,
-      "playedAt": "2026-08-22T20:34:06.759Z"
+      "album": "Penguin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
+      "url": "https://open.spotify.com/track/0cMlzsdIsxG3sXFI5JIFNm",
+      "durationMs": 295800,
+      "playedAt": "2026-08-23T00:35:30.341Z"
     },
     {
-      "name": "Mellow Minds",
+      "name": "Dissatisfied",
       "artists": [
-        "Jazzinuf",
-        "The Art of Doing Nothing"
+        "Fleetwood Mac"
       ],
-      "album": "Mellow Minds",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737e7bdd6e317239439f2f3ddb",
-      "url": "https://open.spotify.com/track/3EtMchO6suPnMIaHj8hs8z",
-      "durationMs": 192169,
-      "playedAt": "2026-08-22T20:32:38.326Z"
+      "album": "Penguin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
+      "url": "https://open.spotify.com/track/5bexGtt87OTKAcd4DcsetT",
+      "durationMs": 224000,
+      "playedAt": "2026-08-23T00:27:37.429Z"
     },
     {
-      "name": "Rhodes To Go",
+      "name": "Bright Fire",
       "artists": [
-        "Enluv",
-        "Jazzinuf",
-        "Hippo Dreams",
-        "9ICK"
+        "Fleetwood Mac"
       ],
-      "album": "Rhodes To Go",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a99acc4786457b15d7adf853",
-      "url": "https://open.spotify.com/track/1oVz4Kd1Vxj8mdjjkaEcYN",
-      "durationMs": 135000,
-      "playedAt": "2026-08-22T20:29:29.126Z"
+      "album": "Penguin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
+      "url": "https://open.spotify.com/track/6rRZG3S0QfVRFnaSPsFoNH",
+      "durationMs": 273626,
+      "playedAt": "2026-08-23T00:23:53.443Z"
     }
   ],
   "topArtists": [
