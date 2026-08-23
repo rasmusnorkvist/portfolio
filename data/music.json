@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-08-23T02:42:46.802Z",
-  "nowPlaying": {
-    "name": "Southbound Again",
-    "artists": [
-      "Dire Straits"
-    ],
-    "album": "Dire Straits",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8",
-    "url": "https://open.spotify.com/track/1lzaRptS63unC0qgT6hm7T",
-    "durationMs": 179200,
-    "isPlaying": true,
-    "progressMs": 88257
-  },
+  "updatedAt": "2026-08-23T03:46:58.135Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Southbound Again",
+      "artists": [
+        "Dire Straits"
+      ],
+      "album": "Dire Straits",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8",
+      "url": "https://open.spotify.com/track/1lzaRptS63unC0qgT6hm7T",
+      "durationMs": 179200,
+      "playedAt": "2026-08-23T02:44:18.731Z"
+    },
     {
       "name": "Jewel Eyed Judy - 2018 Remaster",
       "artists": [
@@ -111,17 +111,6 @@
       "url": "https://open.spotify.com/track/0lFnN31Rw1x5Mx1kojwQQY",
       "durationMs": 282800,
       "playedAt": "2026-08-23T01:26:46.348Z"
-    },
-    {
-      "name": "Midnite Cruiser",
-      "artists": [
-        "Steely Dan"
-      ],
-      "album": "Can't Buy A Thrill",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
-      "url": "https://open.spotify.com/track/7y5nJToPWMjtJLcLEGxyGf",
-      "durationMs": 252327,
-      "playedAt": "2026-08-23T01:21:59.501Z"
     }
   ],
   "topArtists": [
