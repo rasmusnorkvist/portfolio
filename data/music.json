@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-08-23T15:45:54.166Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-23T16:19:18.137Z",
+  "nowPlaying": {
+    "name": "Nothing Happens Here",
+    "artists": [
+      "Julian Lage"
+    ],
+    "album": "Nothing Happens Here",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27395f4d3b0a55551ba281c6bb9",
+    "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc",
+    "durationMs": 254560,
+    "isPlaying": true,
+    "progressMs": 76913
+  },
   "recentlyPlayed": [
+    {
+      "name": "Follow The Light",
+      "artists": [
+        "Armel Dupas Trio"
+      ],
+      "album": "Lookin' Up",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27304ca85cfc8ce9aef8d4ccf94",
+      "url": "https://open.spotify.com/track/7EY7ALYld4imSLpvLaLIjd",
+      "durationMs": 303457,
+      "playedAt": "2026-08-23T16:18:05.073Z"
+    },
     {
       "name": "Visions - 2013 Remaster",
       "artists": [
@@ -100,17 +122,6 @@
       "url": "https://open.spotify.com/track/75XQk1ewCddGnDuFMYg2iL",
       "durationMs": 191493,
       "playedAt": "2026-08-23T01:51:24.805Z"
-    },
-    {
-      "name": "Down by the Seaside - Remaster",
-      "artists": [
-        "Led Zeppelin"
-      ],
-      "album": "Physical Graffiti (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273765b0617b572bdd1dbdc7d8e",
-      "url": "https://open.spotify.com/track/5NfzVueIjM2uwu7UWTvZAU",
-      "durationMs": 315507,
-      "playedAt": "2026-08-23T01:48:16.403Z"
     }
   ],
   "topArtists": [
