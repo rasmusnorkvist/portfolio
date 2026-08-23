@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T22:46:50.164Z",
+  "updatedAt": "2026-08-23T23:16:53.408Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -129,15 +129,15 @@
       "genres": []
     },
     {
-      "name": "Jan Johansson",
-      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
-      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
-    },
-    {
       "name": "E-Type",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
       "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
+      "genres": []
+    },
+    {
+      "name": "Jan Johansson",
+      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
+      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
       "genres": []
     },
     {
@@ -159,15 +159,15 @@
       "genres": []
     },
     {
-      "name": "Rapallo",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
-      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
-      "genres": []
-    },
-    {
       "name": "Dina Ögon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
       "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
+      "genres": []
+    },
+    {
+      "name": "Mando Diao",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
+      "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
       "genres": []
     }
   ],
@@ -204,16 +204,6 @@
       "durationMs": 357041
     },
     {
-      "name": "Visa från Utanmyra",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
-      "durationMs": 273800
-    },
-    {
       "name": "This Is The Way - Radio Edit",
       "artists": [
         "E-Type"
@@ -222,6 +212,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
       "url": "https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo",
       "durationMs": 235293
+    },
+    {
+      "name": "Visa från Utanmyra",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800
     },
     {
       "name": "True Believer",
