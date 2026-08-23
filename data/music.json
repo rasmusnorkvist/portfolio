@@ -1,7 +1,41 @@
 {
-  "updatedAt": "2026-08-23T21:44:11.062Z",
+  "updatedAt": "2026-08-23T22:17:37.340Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Adagio",
+      "artists": [
+        "Σtella"
+      ],
+      "album": "Adagio",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27313d3f3903f4b7d119c398b17",
+      "url": "https://open.spotify.com/track/3Ex4tGyBZsmbxzlyZyzdsX",
+      "durationMs": 176026,
+      "playedAt": "2026-08-23T22:01:39.206Z"
+    },
+    {
+      "name": "Pictures of You",
+      "artists": [
+        "Drugdealer",
+        "Kate Bollinger"
+      ],
+      "album": "Hiding in Plain Sight",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e206a794a9ec45516eb6de6d",
+      "url": "https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT",
+      "durationMs": 189466,
+      "playedAt": "2026-08-23T21:58:45.707Z"
+    },
+    {
+      "name": "Solace",
+      "artists": [
+        "New Fossils"
+      ],
+      "album": "II",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b9bb0c9f1f37d74d7a2298e",
+      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp",
+      "durationMs": 171397,
+      "playedAt": "2026-08-23T18:10:33.842Z"
+    },
     {
       "name": "Morning",
       "artists": [
@@ -85,39 +119,6 @@
       "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc",
       "durationMs": 254560,
       "playedAt": "2026-08-23T16:22:16.629Z"
-    },
-    {
-      "name": "Follow The Light",
-      "artists": [
-        "Armel Dupas Trio"
-      ],
-      "album": "Lookin' Up",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27304ca85cfc8ce9aef8d4ccf94",
-      "url": "https://open.spotify.com/track/7EY7ALYld4imSLpvLaLIjd",
-      "durationMs": 303457,
-      "playedAt": "2026-08-23T16:18:05.073Z"
-    },
-    {
-      "name": "Visions - 2013 Remaster",
-      "artists": [
-        "Eagles"
-      ],
-      "album": "One of These Nights (2013 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94",
-      "url": "https://open.spotify.com/track/7dvL8p3pOPVQRDnOPIErMm",
-      "durationMs": 238662,
-      "playedAt": "2026-08-23T15:31:37.147Z"
-    },
-    {
-      "name": "Bad Sneakers",
-      "artists": [
-        "Steely Dan"
-      ],
-      "album": "Katy Lied",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d72ce442e7717e75315dd7a1",
-      "url": "https://open.spotify.com/track/4tnHUv4TXFIu5hjXjRC8JQ",
-      "durationMs": 199960,
-      "playedAt": "2026-08-23T15:27:41.345Z"
     }
   ],
   "topArtists": [
