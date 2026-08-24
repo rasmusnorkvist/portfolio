@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2026-08-24T22:52:33.047Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-24T23:18:55.050Z",
+  "nowPlaying": {
+    "name": "Reelin' In The Years",
+    "artists": [
+      "Steely Dan"
+    ],
+    "album": "Can't Buy A Thrill",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
+    "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs",
+    "durationMs": 277467,
+    "isPlaying": true,
+    "progressMs": 73880
+  },
   "recentlyPlayed": [
+    {
+      "name": "Just a Song Before I Go",
+      "artists": [
+        "Crosby, Stills & Nash"
+      ],
+      "album": "CSN",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27333296dca4799f533fba9cce8",
+      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN",
+      "durationMs": 133960,
+      "playedAt": "2026-08-24T23:17:45.107Z"
+    },
+    {
+      "name": "Never Going Back Again - 2004 Remaster",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "album": "Rumours (Super Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+      "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd",
+      "durationMs": 134400,
+      "playedAt": "2026-08-24T23:15:34.007Z"
+    },
+    {
+      "name": "Listen to the Music",
+      "artists": [
+        "The Doobie Brothers"
+      ],
+      "album": "Toulouse Street",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27391b51fa9b5967fb34c044498",
+      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5",
+      "durationMs": 227266,
+      "playedAt": "2026-08-24T23:13:22.508Z"
+    },
+    {
+      "name": "I Shot The Sheriff",
+      "artists": [
+        "Eric Clapton"
+      ],
+      "album": "461 Ocean Boulevard",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b367abd1c70d41d6ee4b2a6e",
+      "url": "https://open.spotify.com/track/3PbJjso7KugjaEA8nkUPfk",
+      "durationMs": 263573,
+      "playedAt": "2026-08-24T23:09:38.376Z"
+    },
+    {
+      "name": "Can't You See",
+      "artists": [
+        "The Marshall Tucker Band"
+      ],
+      "album": "The Marshall Tucker Band",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dede94a3ef0bb67eb53668b3",
+      "url": "https://open.spotify.com/track/4egy2d8QiyXn5tzVQiptTb",
+      "durationMs": 365106,
+      "playedAt": "2026-08-24T23:05:17.713Z"
+    },
     {
       "name": "Sister Golden Hair",
       "artists": [
@@ -56,61 +122,6 @@
       "url": "https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz",
       "durationMs": 248599,
       "playedAt": "2026-08-24T18:47:39.034Z"
-    },
-    {
-      "name": "Hey Nineteen",
-      "artists": [
-        "Steely Dan"
-      ],
-      "album": "Gaucho",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27353e10b63c25c7f7a3d7e0f9d",
-      "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5",
-      "durationMs": 309018,
-      "playedAt": "2026-08-24T18:43:33.528Z"
-    },
-    {
-      "name": "Summer Breeze",
-      "artists": [
-        "Seals and Crofts"
-      ],
-      "album": "Summer Breeze",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e13b56ae3e9e99abf2c2026c",
-      "url": "https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9",
-      "durationMs": 205480,
-      "playedAt": "2026-08-24T18:38:27.434Z"
-    },
-    {
-      "name": "Tess",
-      "artists": [
-        "Peter LeMarc"
-      ],
-      "album": "Bok med blanka sidor",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736224f1f20e9f1962acf81735",
-      "url": "https://open.spotify.com/track/3lLh4EHR2PBdmBFrMDIIuC",
-      "durationMs": 216520,
-      "playedAt": "2026-08-24T18:35:04.937Z"
-    },
-    {
-      "name": "Change the World",
-      "artists": [
-        "Eric Clapton"
-      ],
-      "album": "Clapton Chronicles: The Best of Eric Clapton",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27384edd1376faafd5e350bd7a9",
-      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb",
-      "durationMs": 234866,
-      "playedAt": "2026-08-24T18:28:14.837Z"
-    },
-    {
-      "name": "Long Train Runnin'",
-      "artists": [
-        "The Doobie Brothers"
-      ],
-      "album": "The Captain and Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737d419ac975423c069995c7bb",
-      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP",
-      "durationMs": 207266,
-      "playedAt": "2026-08-24T18:24:22.950Z"
     }
   ],
   "topArtists": [
