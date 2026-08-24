@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-08-24T01:02:59.348Z",
+  "updatedAt": "2026-08-24T02:43:03.379Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Dålig teve",
+      "artists": [
+        "Dina Ögon"
+      ],
+      "album": "Människobarn",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a9b2653980b2bb3c1887cc",
+      "url": "https://open.spotify.com/track/5pj5QMaH0AAIaN0ZiolYyJ",
+      "durationMs": 219357,
+      "playedAt": "2026-08-24T01:10:26.771Z"
+    },
+    {
+      "name": "People Everywhere (Still Alive)",
+      "artists": [
+        "Khruangbin"
+      ],
+      "album": "The Universe Smiles Upon You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e08ee206ad63148105336a19",
+      "url": "https://open.spotify.com/track/0jaFQzTV7zKwuys2YGLpaC",
+      "durationMs": 159013,
+      "playedAt": "2026-08-24T01:06:50.546Z"
+    },
+    {
+      "name": "People Everywhere (Still Alive)",
+      "artists": [
+        "Khruangbin"
+      ],
+      "album": "The Universe Smiles Upon You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e08ee206ad63148105336a19",
+      "url": "https://open.spotify.com/track/0jaFQzTV7zKwuys2YGLpaC",
+      "durationMs": 159013,
+      "playedAt": "2026-08-24T01:05:05.100Z"
+    },
     {
       "name": "Adagio",
       "artists": [
@@ -80,54 +113,9 @@
       "url": "https://open.spotify.com/track/0vwTHK0RI01avuLIrAHp8C",
       "durationMs": 285000,
       "playedAt": "2026-08-23T16:36:51.772Z"
-    },
-    {
-      "name": "Hopeful Morning",
-      "artists": [
-        "Matt Carmichael",
-        "Fergus McCreadie",
-        "Ali Watson",
-        "Tom Potter"
-      ],
-      "album": "Where Will The River Flow",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731f599ac06f8c671831baae80",
-      "url": "https://open.spotify.com/track/3yma71q3AQwDZ5oxlpGQ85",
-      "durationMs": 333320,
-      "playedAt": "2026-08-23T16:32:09.749Z"
-    },
-    {
-      "name": "Peaceful Paranoia",
-      "artists": [
-        "Niclas Knudsen Trio",
-        "Kresten Osgood",
-        "Niclas Knudsen",
-        "Anders Christensen"
-      ],
-      "album": "Times Revisited",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27396c0342ec48fbc44f8a96e3d",
-      "url": "https://open.spotify.com/track/1P9zMTrGMBPTDr0A4MU7cd",
-      "durationMs": 265826,
-      "playedAt": "2026-08-23T16:26:39.472Z"
-    },
-    {
-      "name": "Nothing Happens Here",
-      "artists": [
-        "Julian Lage"
-      ],
-      "album": "Nothing Happens Here",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27395f4d3b0a55551ba281c6bb9",
-      "url": "https://open.spotify.com/track/2sdeVQEoohNkfZFrVsoYkc",
-      "durationMs": 254560,
-      "playedAt": "2026-08-23T16:22:16.629Z"
     }
   ],
   "topArtists": [
-    {
-      "name": "Steely Dan",
-      "imageUrl": "https://i.scdn.co/image/9d01e4e9aac39b891d684d3d1a5b3a451d7c72bd",
-      "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE",
-      "genres": []
-    },
     {
       "name": "E-Type",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
@@ -138,6 +126,12 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
+      "genres": []
+    },
+    {
+      "name": "Steely Dan",
+      "imageUrl": "https://i.scdn.co/image/9d01e4e9aac39b891d684d3d1a5b3a451d7c72bd",
+      "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE",
       "genres": []
     },
     {
@@ -194,16 +188,6 @@
       "durationMs": 230440
     },
     {
-      "name": "Do It Again",
-      "artists": [
-        "Steely Dan"
-      ],
-      "album": "Can't Buy A Thrill",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
-      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19",
-      "durationMs": 357041
-    },
-    {
       "name": "This Is The Way - Radio Edit",
       "artists": [
         "E-Type"
@@ -252,6 +236,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
       "url": "https://open.spotify.com/track/67rBycpa8FTFJkQwP5FzP1",
       "durationMs": 224506
+    },
+    {
+      "name": "Virtual Insanity - Remastered 2006",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "Driving Songs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
+      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
+      "durationMs": 229360
     }
   ],
   "featuredPlaylists": []
