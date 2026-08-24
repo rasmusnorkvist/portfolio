@@ -1,18 +1,117 @@
 {
-  "updatedAt": "2026-08-24T13:47:23.721Z",
+  "updatedAt": "2026-08-24T14:37:23.401Z",
   "nowPlaying": {
-    "name": "Bright Fire",
+    "name": "Had I Known You Better Then",
     "artists": [
-      "Fleetwood Mac"
+      "Daryl Hall & John Oates"
     ],
-    "album": "Penguin",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
-    "url": "https://open.spotify.com/track/6rRZG3S0QfVRFnaSPsFoNH",
-    "durationMs": 273626,
+    "album": "Abandoned Luncheonette",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f0302cabc362df3517ff7e4c",
+    "url": "https://open.spotify.com/track/2aoHAxXJYM1sF71NT1cLg0",
+    "durationMs": 202093,
     "isPlaying": true,
-    "progressMs": 255116
+    "progressMs": 153193
   },
   "recentlyPlayed": [
+    {
+      "name": "King of Hollywood - 2013 Remaster",
+      "artists": [
+        "Eagles"
+      ],
+      "album": "The Long Run (2013 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736f87de026f2c70bae5ef11cc",
+      "url": "https://open.spotify.com/track/5dj5SVwwivA8ylEBCugmkD",
+      "durationMs": 387733,
+      "playedAt": "2026-08-24T14:34:54.144Z"
+    },
+    {
+      "name": "Hypnotized",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "album": "Mystery to Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fe5dc4f72fc5587fe59f665b",
+      "url": "https://open.spotify.com/track/1cHCG42MxckrXNFqyF8Uhr",
+      "durationMs": 289200,
+      "playedAt": "2026-08-24T14:27:12.626Z"
+    },
+    {
+      "name": "Caught in the Rain",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "album": "Penguin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
+      "url": "https://open.spotify.com/track/51t8PlDG1zO22NcT3PfCN4",
+      "durationMs": 168333,
+      "playedAt": "2026-08-24T14:22:26.454Z"
+    },
+    {
+      "name": "Night Watch",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "album": "Penguin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
+      "url": "https://open.spotify.com/track/7a5DDyCN2MtnNWAKBEQFMk",
+      "durationMs": 377266,
+      "playedAt": "2026-08-24T14:14:53.948Z"
+    },
+    {
+      "name": "Did You Ever Love Me",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "album": "Penguin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
+      "url": "https://open.spotify.com/track/5fPgEQlqlMa83hZRlrerFH",
+      "durationMs": 224400,
+      "playedAt": "2026-08-24T14:07:56.735Z"
+    },
+    {
+      "name": "Revelation",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "album": "Penguin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
+      "url": "https://open.spotify.com/track/6DvBLoaZXs4UhhjRzO1GL8",
+      "durationMs": 300626,
+      "playedAt": "2026-08-24T14:04:12.336Z"
+    },
+    {
+      "name": "The Derelict",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "album": "Penguin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
+      "url": "https://open.spotify.com/track/6lnXklx7RUNyJp1OuFOaYw",
+      "durationMs": 169840,
+      "playedAt": "2026-08-24T13:59:11.695Z"
+    },
+    {
+      "name": "(I'm A) Road Runner",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "album": "Penguin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
+      "url": "https://open.spotify.com/track/0cMlzsdIsxG3sXFI5JIFNm",
+      "durationMs": 295800,
+      "playedAt": "2026-08-24T13:56:21.890Z"
+    },
+    {
+      "name": "Dissatisfied",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "album": "Penguin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
+      "url": "https://open.spotify.com/track/5bexGtt87OTKAcd4DcsetT",
+      "durationMs": 224000,
+      "playedAt": "2026-08-24T13:51:26.232Z"
+    },
     {
       "name": "Bright Fire",
       "artists": [
@@ -22,108 +121,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
       "url": "https://open.spotify.com/track/6rRZG3S0QfVRFnaSPsFoNH",
       "durationMs": 273626,
-      "playedAt": "2026-08-24T05:43:19.208Z"
-    },
-    {
-      "name": "Remember Me - 2018 Remaster",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Penguin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
-      "url": "https://open.spotify.com/track/3dIJANgsuLPXCpfZ0kUYOd",
-      "durationMs": 165706,
-      "playedAt": "2026-08-24T05:02:23.863Z"
-    },
-    {
-      "name": "Dålig teve",
-      "artists": [
-        "Dina Ögon"
-      ],
-      "album": "Människobarn",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a9b2653980b2bb3c1887cc",
-      "url": "https://open.spotify.com/track/5pj5QMaH0AAIaN0ZiolYyJ",
-      "durationMs": 219357,
-      "playedAt": "2026-08-24T01:10:26.771Z"
-    },
-    {
-      "name": "People Everywhere (Still Alive)",
-      "artists": [
-        "Khruangbin"
-      ],
-      "album": "The Universe Smiles Upon You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e08ee206ad63148105336a19",
-      "url": "https://open.spotify.com/track/0jaFQzTV7zKwuys2YGLpaC",
-      "durationMs": 159013,
-      "playedAt": "2026-08-24T01:06:50.546Z"
-    },
-    {
-      "name": "People Everywhere (Still Alive)",
-      "artists": [
-        "Khruangbin"
-      ],
-      "album": "The Universe Smiles Upon You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e08ee206ad63148105336a19",
-      "url": "https://open.spotify.com/track/0jaFQzTV7zKwuys2YGLpaC",
-      "durationMs": 159013,
-      "playedAt": "2026-08-24T01:05:05.100Z"
-    },
-    {
-      "name": "Adagio",
-      "artists": [
-        "Σtella"
-      ],
-      "album": "Adagio",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27313d3f3903f4b7d119c398b17",
-      "url": "https://open.spotify.com/track/3Ex4tGyBZsmbxzlyZyzdsX",
-      "durationMs": 176026,
-      "playedAt": "2026-08-23T22:01:39.206Z"
-    },
-    {
-      "name": "Pictures of You",
-      "artists": [
-        "Drugdealer",
-        "Kate Bollinger"
-      ],
-      "album": "Hiding in Plain Sight",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e206a794a9ec45516eb6de6d",
-      "url": "https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT",
-      "durationMs": 189466,
-      "playedAt": "2026-08-23T21:58:45.707Z"
-    },
-    {
-      "name": "Solace",
-      "artists": [
-        "New Fossils"
-      ],
-      "album": "II",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b9bb0c9f1f37d74d7a2298e",
-      "url": "https://open.spotify.com/track/6O7Eyfs27MbNCaoEDwGLqp",
-      "durationMs": 171397,
-      "playedAt": "2026-08-23T18:10:33.842Z"
-    },
-    {
-      "name": "Morning",
-      "artists": [
-        "Ola W Jansson",
-        "W JAZZ TRIO"
-      ],
-      "album": "Morning",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc27ae8b885acc041d70938f",
-      "url": "https://open.spotify.com/track/0RvjKMKJgrJct18yTfL9VQ",
-      "durationMs": 180608,
-      "playedAt": "2026-08-23T16:48:37.378Z"
-    },
-    {
-      "name": "Boo's Blues",
-      "artists": [
-        "Julian Lage"
-      ],
-      "album": "Boo's Blues",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734f2ad3ab019419fdb4241db4",
-      "url": "https://open.spotify.com/track/69eOQr9N0AQm8lGJMBHyAr",
-      "durationMs": 205094,
-      "playedAt": "2026-08-23T16:45:39.793Z"
+      "playedAt": "2026-08-24T13:47:42.239Z"
     }
   ],
   "topArtists": [
