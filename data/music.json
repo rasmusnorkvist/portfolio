@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-24T04:39:56.617Z",
+  "updatedAt": "2026-08-24T05:34:26.008Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Remember Me - 2018 Remaster",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "album": "Penguin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
+      "url": "https://open.spotify.com/track/3dIJANgsuLPXCpfZ0kUYOd",
+      "durationMs": 165706,
+      "playedAt": "2026-08-24T05:02:23.863Z"
+    },
     {
       "name": "Dålig teve",
       "artists": [
@@ -102,17 +113,6 @@
       "url": "https://open.spotify.com/track/1FRaCnYzTKNG1ncxwL9bgJ",
       "durationMs": 329000,
       "playedAt": "2026-08-23T16:42:17.772Z"
-    },
-    {
-      "name": "It Ain’t Necessarily So",
-      "artists": [
-        "Mary Lou Williams"
-      ],
-      "album": "Mary Lou Williams Presents Black Christ of the Andes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aaf8bad59a31d778307fad0d",
-      "url": "https://open.spotify.com/track/0vwTHK0RI01avuLIrAHp8C",
-      "durationMs": 285000,
-      "playedAt": "2026-08-23T16:36:51.772Z"
     }
   ],
   "topArtists": [
