@@ -1,7 +1,118 @@
 {
-  "updatedAt": "2026-08-24T17:57:48.075Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-24T18:44:45.246Z",
+  "nowPlaying": {
+    "name": "Stars",
+    "artists": [
+      "Simply Red"
+    ],
+    "album": "Stars (Collector's Edition)",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730e767887e304020cdbbe25e8",
+    "url": "https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz",
+    "durationMs": 248599,
+    "isPlaying": true,
+    "progressMs": 74519
+  },
   "recentlyPlayed": [
+    {
+      "name": "Hey Nineteen",
+      "artists": [
+        "Steely Dan"
+      ],
+      "album": "Gaucho",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27353e10b63c25c7f7a3d7e0f9d",
+      "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5",
+      "durationMs": 309018,
+      "playedAt": "2026-08-24T18:43:33.528Z"
+    },
+    {
+      "name": "Summer Breeze",
+      "artists": [
+        "Seals and Crofts"
+      ],
+      "album": "Summer Breeze",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e13b56ae3e9e99abf2c2026c",
+      "url": "https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9",
+      "durationMs": 205480,
+      "playedAt": "2026-08-24T18:38:27.434Z"
+    },
+    {
+      "name": "Tess",
+      "artists": [
+        "Peter LeMarc"
+      ],
+      "album": "Bok med blanka sidor",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736224f1f20e9f1962acf81735",
+      "url": "https://open.spotify.com/track/3lLh4EHR2PBdmBFrMDIIuC",
+      "durationMs": 216520,
+      "playedAt": "2026-08-24T18:35:04.937Z"
+    },
+    {
+      "name": "Change the World",
+      "artists": [
+        "Eric Clapton"
+      ],
+      "album": "Clapton Chronicles: The Best of Eric Clapton",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27384edd1376faafd5e350bd7a9",
+      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb",
+      "durationMs": 234866,
+      "playedAt": "2026-08-24T18:28:14.837Z"
+    },
+    {
+      "name": "Long Train Runnin'",
+      "artists": [
+        "The Doobie Brothers"
+      ],
+      "album": "The Captain and Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737d419ac975423c069995c7bb",
+      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP",
+      "durationMs": 207266,
+      "playedAt": "2026-08-24T18:24:22.950Z"
+    },
+    {
+      "name": "I Got a Name - Stereo Version",
+      "artists": [
+        "Jim Croce"
+      ],
+      "album": "I Got a Name",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273683ef435ce881cebac6fd3fe",
+      "url": "https://open.spotify.com/track/4UEgKxYLP0bPG6EwD0DgYK",
+      "durationMs": 194493,
+      "playedAt": "2026-08-24T18:20:58.711Z"
+    },
+    {
+      "name": "Ventura Highway",
+      "artists": [
+        "America",
+        "George Martin"
+      ],
+      "album": "Homecoming",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e2289475a30c75dfca7d228",
+      "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW",
+      "durationMs": 211680,
+      "playedAt": "2026-08-24T18:17:47.236Z"
+    },
+    {
+      "name": "One of These Nights - 2013 Remaster",
+      "artists": [
+        "Eagles"
+      ],
+      "album": "One of These Nights (2013 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94",
+      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF",
+      "durationMs": 291685,
+      "playedAt": "2026-08-24T18:14:18.555Z"
+    },
+    {
+      "name": "Layla - Acoustic Live",
+      "artists": [
+        "Eric Clapton"
+      ],
+      "album": "Unplugged (Live)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e36eb543ce3731ac913845c",
+      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo",
+      "durationMs": 289026,
+      "playedAt": "2026-08-24T18:09:29.937Z"
+    },
     {
       "name": "Travellin'",
       "artists": [
@@ -12,105 +123,6 @@
       "url": "https://open.spotify.com/track/5AmiKHSAkkQ1xaFTFtqkk8",
       "durationMs": 206053,
       "playedAt": "2026-08-24T14:45:40.869Z"
-    },
-    {
-      "name": "Down To The Waterline",
-      "artists": [
-        "Dire Straits"
-      ],
-      "album": "Dire Straits",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8",
-      "url": "https://open.spotify.com/track/7fYKKFD0jiSlMDgG9IUs1q",
-      "durationMs": 241906,
-      "playedAt": "2026-08-24T14:42:11.963Z"
-    },
-    {
-      "name": "Had I Known You Better Then",
-      "artists": [
-        "Daryl Hall & John Oates"
-      ],
-      "album": "Abandoned Luncheonette",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f0302cabc362df3517ff7e4c",
-      "url": "https://open.spotify.com/track/2aoHAxXJYM1sF71NT1cLg0",
-      "durationMs": 202093,
-      "playedAt": "2026-08-24T14:38:13.065Z"
-    },
-    {
-      "name": "King of Hollywood - 2013 Remaster",
-      "artists": [
-        "Eagles"
-      ],
-      "album": "The Long Run (2013 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736f87de026f2c70bae5ef11cc",
-      "url": "https://open.spotify.com/track/5dj5SVwwivA8ylEBCugmkD",
-      "durationMs": 387733,
-      "playedAt": "2026-08-24T14:34:54.144Z"
-    },
-    {
-      "name": "Hypnotized",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Mystery to Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fe5dc4f72fc5587fe59f665b",
-      "url": "https://open.spotify.com/track/1cHCG42MxckrXNFqyF8Uhr",
-      "durationMs": 289200,
-      "playedAt": "2026-08-24T14:27:12.626Z"
-    },
-    {
-      "name": "Caught in the Rain",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Penguin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
-      "url": "https://open.spotify.com/track/51t8PlDG1zO22NcT3PfCN4",
-      "durationMs": 168333,
-      "playedAt": "2026-08-24T14:22:26.454Z"
-    },
-    {
-      "name": "Night Watch",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Penguin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
-      "url": "https://open.spotify.com/track/7a5DDyCN2MtnNWAKBEQFMk",
-      "durationMs": 377266,
-      "playedAt": "2026-08-24T14:14:53.948Z"
-    },
-    {
-      "name": "Did You Ever Love Me",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Penguin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
-      "url": "https://open.spotify.com/track/5fPgEQlqlMa83hZRlrerFH",
-      "durationMs": 224400,
-      "playedAt": "2026-08-24T14:07:56.735Z"
-    },
-    {
-      "name": "Revelation",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Penguin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
-      "url": "https://open.spotify.com/track/6DvBLoaZXs4UhhjRzO1GL8",
-      "durationMs": 300626,
-      "playedAt": "2026-08-24T14:04:12.336Z"
-    },
-    {
-      "name": "The Derelict",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Penguin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
-      "url": "https://open.spotify.com/track/6lnXklx7RUNyJp1OuFOaYw",
-      "durationMs": 169840,
-      "playedAt": "2026-08-24T13:59:11.695Z"
     }
   ],
   "topArtists": [
