@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-08-24T20:58:07.255Z",
+  "updatedAt": "2026-08-24T21:33:23.959Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Sister Golden Hair",
+      "artists": [
+        "America"
+      ],
+      "album": "Hearts",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273865a956fe40cf54597e97fd2",
+      "url": "https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK",
+      "durationMs": 199573,
+      "playedAt": "2026-08-24T21:23:52.589Z"
+    },
+    {
+      "name": "New Kid in Town - 2013 Remaster",
+      "artists": [
+        "Eagles"
+      ],
+      "album": "Hotel California (2013 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778",
+      "url": "https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB",
+      "durationMs": 304925,
+      "playedAt": "2026-08-24T21:20:35.989Z"
+    },
+    {
+      "name": "Stairway to Heaven - Remaster",
+      "artists": [
+        "Led Zeppelin"
+      ],
+      "album": "Led Zeppelin IV (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69",
+      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc",
+      "durationMs": 482830,
+      "playedAt": "2026-08-24T21:15:34.049Z"
+    },
     {
       "name": "Wonderful Tonight",
       "artists": [
@@ -78,40 +111,6 @@
       "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP",
       "durationMs": 207266,
       "playedAt": "2026-08-24T18:24:22.950Z"
-    },
-    {
-      "name": "I Got a Name - Stereo Version",
-      "artists": [
-        "Jim Croce"
-      ],
-      "album": "I Got a Name",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273683ef435ce881cebac6fd3fe",
-      "url": "https://open.spotify.com/track/4UEgKxYLP0bPG6EwD0DgYK",
-      "durationMs": 194493,
-      "playedAt": "2026-08-24T18:20:58.711Z"
-    },
-    {
-      "name": "Ventura Highway",
-      "artists": [
-        "America",
-        "George Martin"
-      ],
-      "album": "Homecoming",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e2289475a30c75dfca7d228",
-      "url": "https://open.spotify.com/track/4IU1RL4BKvFyXtbTwaHAvW",
-      "durationMs": 211680,
-      "playedAt": "2026-08-24T18:17:47.236Z"
-    },
-    {
-      "name": "One of These Nights - 2013 Remaster",
-      "artists": [
-        "Eagles"
-      ],
-      "album": "One of These Nights (2013 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94",
-      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF",
-      "durationMs": 291685,
-      "playedAt": "2026-08-24T18:14:18.555Z"
     }
   ],
   "topArtists": [
