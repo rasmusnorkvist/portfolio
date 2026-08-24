@@ -1,18 +1,51 @@
 {
-  "updatedAt": "2026-08-24T23:18:55.050Z",
+  "updatedAt": "2026-08-24T23:45:40.220Z",
   "nowPlaying": {
-    "name": "Reelin' In The Years",
+    "name": "Sultans Of Swing",
     "artists": [
-      "Steely Dan"
+      "Dire Straits"
     ],
-    "album": "Can't Buy A Thrill",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
-    "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs",
-    "durationMs": 277467,
+    "album": "Dire Straits",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8",
+    "url": "https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj",
+    "durationMs": 348400,
     "isPlaying": true,
-    "progressMs": 73880
+    "progressMs": 108332
   },
   "recentlyPlayed": [
+    {
+      "name": "Baker Street",
+      "artists": [
+        "Gerry Rafferty"
+      ],
+      "album": "City to City",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dc60cf9a010f86354e6735dd",
+      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP",
+      "durationMs": 365626,
+      "playedAt": "2026-08-24T23:43:54.823Z"
+    },
+    {
+      "name": "Tears in Heaven",
+      "artists": [
+        "Eric Clapton"
+      ],
+      "album": "Rush (Music from the Motion Picture Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27344cb13558d57f5a066fac381",
+      "url": "https://open.spotify.com/track/1kgdslQYmeTR4thk9whoRw",
+      "durationMs": 271760,
+      "playedAt": "2026-08-24T23:26:48.073Z"
+    },
+    {
+      "name": "Reelin' In The Years",
+      "artists": [
+        "Steely Dan"
+      ],
+      "album": "Can't Buy A Thrill",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
+      "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs",
+      "durationMs": 277467,
+      "playedAt": "2026-08-24T23:22:19.308Z"
+    },
     {
       "name": "Just a Song Before I Go",
       "artists": [
@@ -89,39 +122,6 @@
       "url": "https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB",
       "durationMs": 304925,
       "playedAt": "2026-08-24T21:20:35.989Z"
-    },
-    {
-      "name": "Stairway to Heaven - Remaster",
-      "artists": [
-        "Led Zeppelin"
-      ],
-      "album": "Led Zeppelin IV (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c8a11e48c91a982d086afc69",
-      "url": "https://open.spotify.com/track/5CQ30WqJwcep0pYcV4AMNc",
-      "durationMs": 482830,
-      "playedAt": "2026-08-24T21:15:34.049Z"
-    },
-    {
-      "name": "Wonderful Tonight",
-      "artists": [
-        "Eric Clapton"
-      ],
-      "album": "Slowhand 35th Anniversary",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e7464d9d8a25b2bf74b782a",
-      "url": "https://open.spotify.com/track/6a79Oo6RXOx8AuD9eOlCTJ",
-      "durationMs": 225026,
-      "playedAt": "2026-08-24T18:51:21.003Z"
-    },
-    {
-      "name": "Stars",
-      "artists": [
-        "Simply Red"
-      ],
-      "album": "Stars (Collector's Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730e767887e304020cdbbe25e8",
-      "url": "https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz",
-      "durationMs": 248599,
-      "playedAt": "2026-08-24T18:47:39.034Z"
     }
   ],
   "topArtists": [
