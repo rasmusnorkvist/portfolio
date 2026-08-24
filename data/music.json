@@ -1,18 +1,29 @@
 {
-  "updatedAt": "2026-08-24T18:44:45.246Z",
-  "nowPlaying": {
-    "name": "Stars",
-    "artists": [
-      "Simply Red"
-    ],
-    "album": "Stars (Collector's Edition)",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730e767887e304020cdbbe25e8",
-    "url": "https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz",
-    "durationMs": 248599,
-    "isPlaying": true,
-    "progressMs": 74519
-  },
+  "updatedAt": "2026-08-24T19:25:34.166Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Wonderful Tonight",
+      "artists": [
+        "Eric Clapton"
+      ],
+      "album": "Slowhand 35th Anniversary",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e7464d9d8a25b2bf74b782a",
+      "url": "https://open.spotify.com/track/6a79Oo6RXOx8AuD9eOlCTJ",
+      "durationMs": 225026,
+      "playedAt": "2026-08-24T18:51:21.003Z"
+    },
+    {
+      "name": "Stars",
+      "artists": [
+        "Simply Red"
+      ],
+      "album": "Stars (Collector's Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730e767887e304020cdbbe25e8",
+      "url": "https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz",
+      "durationMs": 248599,
+      "playedAt": "2026-08-24T18:47:39.034Z"
+    },
     {
       "name": "Hey Nineteen",
       "artists": [
@@ -101,28 +112,6 @@
       "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF",
       "durationMs": 291685,
       "playedAt": "2026-08-24T18:14:18.555Z"
-    },
-    {
-      "name": "Layla - Acoustic Live",
-      "artists": [
-        "Eric Clapton"
-      ],
-      "album": "Unplugged (Live)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e36eb543ce3731ac913845c",
-      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo",
-      "durationMs": 289026,
-      "playedAt": "2026-08-24T18:09:29.937Z"
-    },
-    {
-      "name": "Travellin'",
-      "artists": [
-        "The Jeremy Spencer Band"
-      ],
-      "album": "Flee",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730a49794bd0a26ed45ffa9df4",
-      "url": "https://open.spotify.com/track/5AmiKHSAkkQ1xaFTFtqkk8",
-      "durationMs": 206053,
-      "playedAt": "2026-08-24T14:45:40.869Z"
     }
   ],
   "topArtists": [
