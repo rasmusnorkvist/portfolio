@@ -1,18 +1,40 @@
 {
-  "updatedAt": "2026-08-24T14:37:23.401Z",
-  "nowPlaying": {
-    "name": "Had I Known You Better Then",
-    "artists": [
-      "Daryl Hall & John Oates"
-    ],
-    "album": "Abandoned Luncheonette",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f0302cabc362df3517ff7e4c",
-    "url": "https://open.spotify.com/track/2aoHAxXJYM1sF71NT1cLg0",
-    "durationMs": 202093,
-    "isPlaying": true,
-    "progressMs": 153193
-  },
+  "updatedAt": "2026-08-24T15:35:09.941Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Travellin'",
+      "artists": [
+        "The Jeremy Spencer Band"
+      ],
+      "album": "Flee",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730a49794bd0a26ed45ffa9df4",
+      "url": "https://open.spotify.com/track/5AmiKHSAkkQ1xaFTFtqkk8",
+      "durationMs": 206053,
+      "playedAt": "2026-08-24T14:45:40.869Z"
+    },
+    {
+      "name": "Down To The Waterline",
+      "artists": [
+        "Dire Straits"
+      ],
+      "album": "Dire Straits",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8",
+      "url": "https://open.spotify.com/track/7fYKKFD0jiSlMDgG9IUs1q",
+      "durationMs": 241906,
+      "playedAt": "2026-08-24T14:42:11.963Z"
+    },
+    {
+      "name": "Had I Known You Better Then",
+      "artists": [
+        "Daryl Hall & John Oates"
+      ],
+      "album": "Abandoned Luncheonette",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f0302cabc362df3517ff7e4c",
+      "url": "https://open.spotify.com/track/2aoHAxXJYM1sF71NT1cLg0",
+      "durationMs": 202093,
+      "playedAt": "2026-08-24T14:38:13.065Z"
+    },
     {
       "name": "King of Hollywood - 2013 Remaster",
       "artists": [
@@ -89,39 +111,6 @@
       "url": "https://open.spotify.com/track/6lnXklx7RUNyJp1OuFOaYw",
       "durationMs": 169840,
       "playedAt": "2026-08-24T13:59:11.695Z"
-    },
-    {
-      "name": "(I'm A) Road Runner",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Penguin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
-      "url": "https://open.spotify.com/track/0cMlzsdIsxG3sXFI5JIFNm",
-      "durationMs": 295800,
-      "playedAt": "2026-08-24T13:56:21.890Z"
-    },
-    {
-      "name": "Dissatisfied",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Penguin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
-      "url": "https://open.spotify.com/track/5bexGtt87OTKAcd4DcsetT",
-      "durationMs": 224000,
-      "playedAt": "2026-08-24T13:51:26.232Z"
-    },
-    {
-      "name": "Bright Fire",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Penguin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
-      "url": "https://open.spotify.com/track/6rRZG3S0QfVRFnaSPsFoNH",
-      "durationMs": 273626,
-      "playedAt": "2026-08-24T13:47:42.239Z"
     }
   ],
   "topArtists": [
@@ -150,6 +139,12 @@
       "genres": []
     },
     {
+      "name": "Fleetwood Mac",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
+      "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
+      "genres": []
+    },
+    {
       "name": "Labyrint",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8c253702a29d143fb8de5039",
       "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo",
@@ -165,12 +160,6 @@
       "name": "Dina Ögon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
       "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
-      "genres": []
-    },
-    {
-      "name": "Mando Diao",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
-      "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
       "genres": []
     }
   ],
