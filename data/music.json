@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-24T12:40:42.017Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-24T13:47:23.721Z",
+  "nowPlaying": {
+    "name": "Bright Fire",
+    "artists": [
+      "Fleetwood Mac"
+    ],
+    "album": "Penguin",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3988bbbff0d1b455e42c3fe",
+    "url": "https://open.spotify.com/track/6rRZG3S0QfVRFnaSPsFoNH",
+    "durationMs": 273626,
+    "isPlaying": true,
+    "progressMs": 255116
+  },
   "recentlyPlayed": [
     {
       "name": "Bright Fire",
