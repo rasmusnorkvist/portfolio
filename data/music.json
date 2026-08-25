@@ -1,7 +1,53 @@
 {
-  "updatedAt": "2026-08-25T14:40:42.287Z",
+  "updatedAt": "2026-08-25T15:38:15.678Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Dance with Somebody - Radio Version",
+      "artists": [
+        "Mando Diao"
+      ],
+      "album": "Dance with Somebody",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c399529600f436bcdaeb842",
+      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48",
+      "durationMs": 241000,
+      "playedAt": "2026-08-25T14:57:14.154Z"
+    },
+    {
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "artists": [
+        "Gorillaz",
+        "Tame Impala",
+        "Bootie Brown"
+      ],
+      "album": "Cracker Island",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27319707804f73dc50f7a29cd86",
+      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3",
+      "durationMs": 215149,
+      "playedAt": "2026-08-25T14:53:16.291Z"
+    },
+    {
+      "name": "La Isla Bonita",
+      "artists": [
+        "Madonna"
+      ],
+      "album": "True Blue",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ab2411303d48498dc1d8c137",
+      "url": "https://open.spotify.com/track/0NJdtoQ3RX5ckBjJlNXhlP",
+      "durationMs": 242733,
+      "playedAt": "2026-08-25T14:49:43.987Z"
+    },
+    {
+      "name": "Chunky",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "album": "24K Magic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
+      "url": "https://open.spotify.com/track/0mBKv9DkYfQHjdMcw2jdyI",
+      "durationMs": 186973,
+      "playedAt": "2026-08-25T14:45:44.300Z"
+    },
     {
       "name": "Blood on the Dance Floor",
       "artists": [
@@ -67,50 +113,6 @@
       "url": "https://open.spotify.com/track/3VjuMdlXGbo9JD8D7hYNrY",
       "durationMs": 277066,
       "playedAt": "2026-08-25T14:04:02.837Z"
-    },
-    {
-      "name": "Vaggsång kl.4",
-      "artists": [
-        "Peter LeMarc"
-      ],
-      "album": "Välkommen hem",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f2b563dc27fb585dd4e1b7f4",
-      "url": "https://open.spotify.com/track/3OkynWM8vcYnt9mkIgTtlN",
-      "durationMs": 145000,
-      "playedAt": "2026-08-25T13:59:28.837Z"
-    },
-    {
-      "name": "Little Willie John - Version",
-      "artists": [
-        "Peter LeMarc"
-      ],
-      "album": "LeMarc - Klassiker",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3593a634876c6e748fa3424",
-      "url": "https://open.spotify.com/track/7M57AuAeA5M4lnWqpUGRIR",
-      "durationMs": 330240,
-      "playedAt": "2026-08-25T13:57:06.838Z"
-    },
-    {
-      "name": "99 Problems",
-      "artists": [
-        "JAŸ-Z"
-      ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/7sLpSWxQazJzDVG6YGzlVs",
-      "durationMs": 234626,
-      "playedAt": "2026-08-25T04:02:28.618Z"
-    },
-    {
-      "name": "Moment Of Clarity",
-      "artists": [
-        "JAŸ-Z"
-      ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/5TTFD5DuFhQOrs0RJxGDbD",
-      "durationMs": 264066,
-      "playedAt": "2026-08-25T03:58:34.019Z"
     }
   ],
   "topArtists": [
