@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-25T19:27:49.388Z",
-  "nowPlaying": {
-    "name": "American Boy",
-    "artists": [
-      "Estelle",
-      "Kanye West"
-    ],
-    "album": "Shine",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27398dc3e242a818007dd67b7c5",
-    "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh",
-    "durationMs": 284733,
-    "isPlaying": true,
-    "progressMs": 213024
-  },
+  "updatedAt": "2026-08-25T19:56:06.269Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "American Boy",
+      "artists": [
+        "Estelle",
+        "Kanye West"
+      ],
+      "album": "Shine",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27398dc3e242a818007dd67b7c5",
+      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh",
+      "durationMs": 284733,
+      "playedAt": "2026-08-25T19:30:31.209Z"
+    },
     {
       "name": "Rock Your Body",
       "artists": [
@@ -116,17 +116,6 @@
       "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3",
       "durationMs": 215149,
       "playedAt": "2026-08-25T17:48:31.255Z"
-    },
-    {
-      "name": "La Isla Bonita",
-      "artists": [
-        "Madonna"
-      ],
-      "album": "True Blue",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ab2411303d48498dc1d8c137",
-      "url": "https://open.spotify.com/track/0NJdtoQ3RX5ckBjJlNXhlP",
-      "durationMs": 242733,
-      "playedAt": "2026-08-25T16:47:38.353Z"
     }
   ],
   "topArtists": [
