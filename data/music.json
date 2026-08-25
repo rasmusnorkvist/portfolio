@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2026-08-25T13:45:19.255Z",
+  "updatedAt": "2026-08-25T14:40:42.287Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Blood on the Dance Floor",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "BLOOD ON THE DANCE FLOOR/ HIStory In The Mix",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273777230e2062652ea3818f1d4",
+      "url": "https://open.spotify.com/track/11lw4bWbmxWIETHitBU0Gc",
+      "durationMs": 254226,
+      "playedAt": "2026-08-25T14:27:28.037Z"
+    },
+    {
+      "name": "Beggin'",
+      "artists": [
+        "Måneskin"
+      ],
+      "album": "Chosen",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045",
+      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
+      "durationMs": 211560,
+      "playedAt": "2026-08-25T14:23:16.836Z"
+    },
+    {
+      "name": "The Path",
+      "artists": [
+        "Lorde"
+      ],
+      "album": "Solar Power",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27336615a0a60523dd62135ab3a",
+      "url": "https://open.spotify.com/track/7JqqIi2ktnsNkYdQhKSCrz",
+      "durationMs": 221240,
+      "playedAt": "2026-08-25T14:17:08.436Z"
+    },
+    {
+      "name": "Virtual Insanity - Remastered 2006",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "Driving Songs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
+      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
+      "durationMs": 229360,
+      "playedAt": "2026-08-25T14:13:30.157Z"
+    },
+    {
+      "name": "I Don't Feel Like Dancin'",
+      "artists": [
+        "Scissor Sisters"
+      ],
+      "album": "Ta-Dah",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27381625c8c1368106d3ac464ed",
+      "url": "https://open.spotify.com/track/1q9l6c8bAzqWcvO3DM6FsR",
+      "durationMs": 288360,
+      "playedAt": "2026-08-25T14:09:43.837Z"
+    },
+    {
+      "name": "Marias kyrka",
+      "artists": [
+        "Peter LeMarc"
+      ],
+      "album": "Sjutton sånger - LeMarc sjunger LeMarc",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273feb9aad493c089e12e3e28b0",
+      "url": "https://open.spotify.com/track/3VjuMdlXGbo9JD8D7hYNrY",
+      "durationMs": 277066,
+      "playedAt": "2026-08-25T14:04:02.837Z"
+    },
+    {
+      "name": "Vaggsång kl.4",
+      "artists": [
+        "Peter LeMarc"
+      ],
+      "album": "Välkommen hem",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f2b563dc27fb585dd4e1b7f4",
+      "url": "https://open.spotify.com/track/3OkynWM8vcYnt9mkIgTtlN",
+      "durationMs": 145000,
+      "playedAt": "2026-08-25T13:59:28.837Z"
+    },
+    {
+      "name": "Little Willie John - Version",
+      "artists": [
+        "Peter LeMarc"
+      ],
+      "album": "LeMarc - Klassiker",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3593a634876c6e748fa3424",
+      "url": "https://open.spotify.com/track/7M57AuAeA5M4lnWqpUGRIR",
+      "durationMs": 330240,
+      "playedAt": "2026-08-25T13:57:06.838Z"
+    },
     {
       "name": "99 Problems",
       "artists": [
@@ -23,95 +111,6 @@
       "url": "https://open.spotify.com/track/5TTFD5DuFhQOrs0RJxGDbD",
       "durationMs": 264066,
       "playedAt": "2026-08-25T03:58:34.019Z"
-    },
-    {
-      "name": "Threat",
-      "artists": [
-        "JAŸ-Z"
-      ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/2Zl1wunKulBAythbBKmW4S",
-      "durationMs": 245626,
-      "playedAt": "2026-08-25T03:54:09.912Z"
-    },
-    {
-      "name": "Dirt Off Your Shoulder",
-      "artists": [
-        "JAŸ-Z"
-      ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm",
-      "durationMs": 245173,
-      "playedAt": "2026-08-25T03:50:04.308Z"
-    },
-    {
-      "name": "Change Clothes",
-      "artists": [
-        "JAŸ-Z"
-      ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/1xE7osYAtzz1PvLoVdOp5E",
-      "durationMs": 258426,
-      "playedAt": "2026-08-25T03:45:59.106Z"
-    },
-    {
-      "name": "Encore",
-      "artists": [
-        "JAŸ-Z"
-      ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/1GzNGrxi4NIOKu0Z4npUss",
-      "durationMs": 250973,
-      "playedAt": "2026-08-25T03:41:40.724Z"
-    },
-    {
-      "name": "What More Can I Say",
-      "artists": [
-        "JAŸ-Z"
-      ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/75JwFVMnX88ypgshWYBSYL",
-      "durationMs": 295160,
-      "playedAt": "2026-08-25T03:35:47.586Z"
-    },
-    {
-      "name": "December 4th",
-      "artists": [
-        "JAŸ-Z"
-      ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/7gVaf6eZDV1oQdGwvDYfmU",
-      "durationMs": 272360,
-      "playedAt": "2026-08-25T03:24:02.493Z"
-    },
-    {
-      "name": "Interlude",
-      "artists": [
-        "JAŸ-Z"
-      ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/2D4JZUIZVJVzZz9gpYaiO9",
-      "durationMs": 81800,
-      "playedAt": "2026-08-25T03:19:30.273Z"
-    },
-    {
-      "name": "Eye Know",
-      "artists": [
-        "De La Soul",
-        "Otis Redding"
-      ],
-      "album": "3 Feet High and Rising (35th Anniversary)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738c50213f8d252e090a5a9b71",
-      "url": "https://open.spotify.com/track/1q1AdQLArP7xxM5phOTUki",
-      "durationMs": 252671,
-      "playedAt": "2026-08-25T03:17:27.686Z"
     }
   ],
   "topArtists": [
