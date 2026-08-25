@@ -1,18 +1,118 @@
 {
-  "updatedAt": "2026-08-25T20:26:34.030Z",
+  "updatedAt": "2026-08-25T20:55:41.867Z",
   "nowPlaying": {
-    "name": "Bright Lights Bigger City",
+    "name": "Never Gonna Stop",
     "artists": [
-      "CeeLo Green"
+      "Sweet Chariots"
     ],
-    "album": "The Lady Killer",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273745ed32da5e64120925ce7b0",
-    "url": "https://open.spotify.com/track/3lOMPxZipoRwnO0IUvk6WX",
-    "durationMs": 218280,
+    "album": "Beat Based / Song Centered / Spirit Led (Extended Version 2010)",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731ea2f32c33406ec1e7e7655f",
+    "url": "https://open.spotify.com/track/33HBlY84RNhup6CpycNdgV",
+    "durationMs": 343946,
     "isPlaying": true,
-    "progressMs": 205352
+    "progressMs": 236634
   },
   "recentlyPlayed": [
+    {
+      "name": "Lovefool",
+      "artists": [
+        "The Cardigans"
+      ],
+      "album": "First Band On The Moon (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730aac8ca880151fda470e91af",
+      "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD",
+      "durationMs": 193953,
+      "playedAt": "2026-08-25T20:51:49.156Z"
+    },
+    {
+      "name": "No One Dies From Love",
+      "artists": [
+        "Tove Lo"
+      ],
+      "album": "Dirt Femme",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aeb431774ee02fb6b7a9fea3",
+      "url": "https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm",
+      "durationMs": 186018,
+      "playedAt": "2026-08-25T20:48:38.232Z"
+    },
+    {
+      "name": "10 Years",
+      "artists": [
+        "Daði Freyr"
+      ],
+      "album": "10 Years",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f34d3eea6e5c5c9218f438ef",
+      "url": "https://open.spotify.com/track/6N6HSN3zytFXva8LTUUvIL",
+      "durationMs": 166000,
+      "playedAt": "2026-08-25T20:45:35.212Z"
+    },
+    {
+      "name": "Ambitions",
+      "artists": [
+        "Donkeyboy"
+      ],
+      "album": "Caught in a Life",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e23135d458770610d7efae00",
+      "url": "https://open.spotify.com/track/0TQMrN1R7JNixCnjrNJsLd",
+      "durationMs": 187066,
+      "playedAt": "2026-08-25T20:42:52.232Z"
+    },
+    {
+      "name": "12 to 12",
+      "artists": [
+        "sombr"
+      ],
+      "album": "I Barely Know Her",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734229702de91cb3d3a4383302",
+      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W",
+      "durationMs": 242903,
+      "playedAt": "2026-08-25T20:39:48.199Z"
+    },
+    {
+      "name": "All Eyes On Me",
+      "artists": [
+        "Margaux Flavet"
+      ],
+      "album": "All Eyes On Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a03833b0efe7775375f4460f",
+      "url": "https://open.spotify.com/track/66t3qGcPbN7Hl6LMmNk6SS",
+      "durationMs": 180129,
+      "playedAt": "2026-08-25T20:35:48.292Z"
+    },
+    {
+      "name": "No Broke Boys",
+      "artists": [
+        "Disco Lines",
+        "Tinashe"
+      ],
+      "album": "No Broke Boys",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273699b0363dda94e1f1e32eef5",
+      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj",
+      "durationMs": 163994,
+      "playedAt": "2026-08-25T20:32:51.337Z"
+    },
+    {
+      "name": "My Type",
+      "artists": [
+        "Saint Motel"
+      ],
+      "album": "My Type",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734c8d86fcf617d28a7c55818b",
+      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI",
+      "durationMs": 206393,
+      "playedAt": "2026-08-25T20:30:10.215Z"
+    },
+    {
+      "name": "Bright Lights Bigger City",
+      "artists": [
+        "CeeLo Green"
+      ],
+      "album": "The Lady Killer",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273745ed32da5e64120925ce7b0",
+      "url": "https://open.spotify.com/track/3lOMPxZipoRwnO0IUvk6WX",
+      "durationMs": 218280,
+      "playedAt": "2026-08-25T20:26:46.840Z"
+    },
     {
       "name": "American Boy",
       "artists": [
@@ -24,109 +124,6 @@
       "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh",
       "durationMs": 284733,
       "playedAt": "2026-08-25T19:30:31.209Z"
-    },
-    {
-      "name": "Rock Your Body",
-      "artists": [
-        "Justin Timberlake"
-      ],
-      "album": "Justified",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee",
-      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT",
-      "durationMs": 267266,
-      "playedAt": "2026-08-25T18:17:04.430Z"
-    },
-    {
-      "name": "Stateside + Zara Larsson",
-      "artists": [
-        "PinkPantheress",
-        "Zara Larsson"
-      ],
-      "album": "Fancy Some More?",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694",
-      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt",
-      "durationMs": 184761,
-      "playedAt": "2026-08-25T18:12:40.128Z"
-    },
-    {
-      "name": "Live Tomorrow",
-      "artists": [
-        "Laleh"
-      ],
-      "album": "Laleh",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738222e77e2fbf4a3ce0c6c6b0",
-      "url": "https://open.spotify.com/track/3eOYmWvienEIgHJFAWE3ZD",
-      "durationMs": 215906,
-      "playedAt": "2026-08-25T18:09:38.282Z"
-    },
-    {
-      "name": "These Words",
-      "artists": [
-        "Natasha Bedingfield"
-      ],
-      "album": "Unwritten",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b337e1ca6629a53c66a3b0d4",
-      "url": "https://open.spotify.com/track/6MFQeWtk7kxWGydnJB2y36",
-      "durationMs": 216360,
-      "playedAt": "2026-08-25T18:06:05.386Z"
-    },
-    {
-      "name": "LDN",
-      "artists": [
-        "Lily Allen"
-      ],
-      "album": "Alright, Still (Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f44ea7ef8d5c793399bae7af",
-      "url": "https://open.spotify.com/track/5wD6de7Fz1QfxVNkv1SEy7",
-      "durationMs": 190773,
-      "playedAt": "2026-08-25T18:02:32.041Z"
-    },
-    {
-      "name": "Baby I'm Yours",
-      "artists": [
-        "Breakbot",
-        "Irfane"
-      ],
-      "album": "By Your Side",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ac2d979712c58dcc49290e0",
-      "url": "https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV",
-      "durationMs": 215506,
-      "playedAt": "2026-08-25T17:59:24.260Z"
-    },
-    {
-      "name": "Måndagsbarn",
-      "artists": [
-        "Veronica Maggio"
-      ],
-      "album": "Och vinnaren är...",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b8f600439b138e7fdceb5c93",
-      "url": "https://open.spotify.com/track/4MXHBiKcdqHBJ4PeHQJBHO",
-      "durationMs": 205546,
-      "playedAt": "2026-08-25T17:55:51.747Z"
-    },
-    {
-      "name": "Dance with Somebody - Radio Version",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Dance with Somebody",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c399529600f436bcdaeb842",
-      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48",
-      "durationMs": 241000,
-      "playedAt": "2026-08-25T17:52:29.239Z"
-    },
-    {
-      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
-      "artists": [
-        "Gorillaz",
-        "Tame Impala",
-        "Bootie Brown"
-      ],
-      "album": "Cracker Island",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27319707804f73dc50f7a29cd86",
-      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3",
-      "durationMs": 215149,
-      "playedAt": "2026-08-25T17:48:31.255Z"
     }
   ],
   "topArtists": [
