@@ -1,127 +1,132 @@
 {
-  "updatedAt": "2026-08-25T01:02:20.415Z",
+  "updatedAt": "2026-08-25T02:36:37.000Z",
   "nowPlaying": {
-    "name": "Lay Down Sally",
+    "name": "Feel so Good",
     "artists": [
-      "Eric Clapton"
+      "Mase"
     ],
-    "album": "Slowhand 35th Anniversary",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e7464d9d8a25b2bf74b782a",
-    "url": "https://open.spotify.com/track/6kSSORnF2vhzDpGftPXNWz",
-    "durationMs": 236093,
+    "album": "Harlem World",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b950e2fa6cd0f5c0767b6650",
+    "url": "https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE",
+    "durationMs": 203626,
     "isPlaying": true,
-    "progressMs": 83695
+    "progressMs": 203626
   },
   "recentlyPlayed": [
     {
-      "name": "Operator (That's Not the Way It Feels)",
+      "name": "For My People",
       "artists": [
-        "Jim Croce"
+        "SoulChef",
+        "Awon"
       ],
-      "album": "You Don't Mess Around With Jim",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735b7a6cabbcb9fe150966563c",
-      "url": "https://open.spotify.com/track/4mQtXW0vrHC3oTkA1mQsb0",
-      "durationMs": 229706,
-      "playedAt": "2026-08-25T01:01:00.501Z"
+      "album": "Good Vibes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8b3a3986451a425443c715a",
+      "url": "https://open.spotify.com/track/5AfmRnupftFdLVcGeAsLS9",
+      "durationMs": 160000,
+      "playedAt": "2026-08-25T02:31:13.741Z"
     },
     {
-      "name": "News",
+      "name": "Breakadawn",
       "artists": [
-        "Dire Straits"
+        "De La Soul"
       ],
-      "album": "Communiqué",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1f7f1d5898b28c1ce3f4947",
-      "url": "https://open.spotify.com/track/4s6p0rVzSaWqaJRsp0HBDI",
-      "durationMs": 253400,
-      "playedAt": "2026-08-25T00:57:13.796Z"
+      "album": "Buhloone Mindstate",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273425d6882cbb8165986ca7c40",
+      "url": "https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY",
+      "durationMs": 255008,
+      "playedAt": "2026-08-25T02:28:36.035Z"
     },
     {
-      "name": "It Ain't Over 'Til It's Over",
+      "name": "Stay",
       "artists": [
-        "Lenny Kravitz"
+        "The Pharcyde",
+        "Slimkid3",
+        "Fatlip",
+        "L.A. Jay"
       ],
-      "album": "Mama Said",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bfc19627a4a3a604c0a195e5",
-      "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR",
-      "durationMs": 242640,
-      "playedAt": "2026-08-25T00:48:40.919Z"
+      "album": "Love",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27390879fc370783ab3232fcba0",
+      "url": "https://open.spotify.com/track/7qBV8llDA7jwhfHzjF9KmF",
+      "durationMs": 190691,
+      "playedAt": "2026-08-25T02:24:23.839Z"
     },
     {
-      "name": "Dirty Work",
+      "name": "Big Poppa - 2005 Remaster",
       "artists": [
-        "Steely Dan"
+        "The Notorious B.I.G."
       ],
-      "album": "Can't Buy A Thrill",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
-      "url": "https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH",
-      "durationMs": 190065,
-      "playedAt": "2026-08-25T00:44:41.312Z"
+      "album": "Ready to Die (The Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830",
+      "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww",
+      "durationMs": 252746,
+      "playedAt": "2026-08-25T02:21:16.141Z"
     },
     {
-      "name": "Nobody Knows You When You're Down and Out - Acoustic Live",
+      "name": "Ambitionz Az A Ridah",
       "artists": [
-        "Eric Clapton"
+        "2Pac"
       ],
-      "album": "Unplugged (Deluxe Edition) (Live)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273195d2c01c72fc37c5bd58019",
-      "url": "https://open.spotify.com/track/7sVxm1I8G8tTznXeirDEXm",
-      "durationMs": 235426,
-      "playedAt": "2026-08-25T00:41:34.315Z"
+      "album": "All Eyez On Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596",
+      "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
+      "durationMs": 278386,
+      "playedAt": "2026-08-25T01:55:02.307Z"
     },
     {
-      "name": "Take It Easy - 2013 Remaster",
+      "name": "Bust A Move",
       "artists": [
-        "Eagles"
+        "Young MC"
       ],
-      "album": "Eagles (2013 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c13acd642ba9f6f5f127aa1b",
-      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr",
-      "durationMs": 211577,
-      "playedAt": "2026-08-25T00:37:41.839Z"
+      "album": "ドライブが楽しくなる洋楽ヒッツ！80年代 Hip Hop",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ca82caf00a35b0b034ac35d",
+      "url": "https://open.spotify.com/track/3m5L4uCetQDx1ck1mCgOro",
+      "durationMs": 263914,
+      "playedAt": "2026-08-25T01:50:03.044Z"
     },
     {
-      "name": "Interlude",
+      "name": "Can't Knock The Hustle",
       "artists": [
-        "JAŸ-Z"
+        "JAŸ-Z",
+        "Mary J. Blige"
       ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/2D4JZUIZVJVzZz9gpYaiO9",
-      "durationMs": 81800,
-      "playedAt": "2026-08-25T00:34:13.316Z"
+      "album": "Reasonable Doubt",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273730dc61a14921f999a79eb92",
+      "url": "https://open.spotify.com/track/5H4PU7wBIXL259apGjSpOr",
+      "durationMs": 317800,
+      "playedAt": "2026-08-25T01:45:41.885Z"
     },
     {
-      "name": "What a Fool Believes",
+      "name": "Cruel Summer",
       "artists": [
-        "The Doobie Brothers"
+        "Bananarama"
       ],
-      "album": "Minute by Minute",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba6340ac3b1653b6ea0e5da5",
-      "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK",
-      "durationMs": 223866,
-      "playedAt": "2026-08-25T00:27:18.808Z"
+      "album": "Bananarama (Collector's Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f030ba4bf4974bc0870a9d9",
+      "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D",
+      "durationMs": 215326,
+      "playedAt": "2026-08-25T01:38:15.087Z"
     },
     {
-      "name": "Red Rain - Remastered",
+      "name": "Heart of Gold",
       "artists": [
-        "Peter Gabriel"
+        "Neil Young"
       ],
-      "album": "So (Special Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bade4fc3596a6eee8dd3302a",
-      "url": "https://open.spotify.com/track/1DLwcAQCsEMgEvqJj9NPJ9",
-      "durationMs": 340840,
-      "playedAt": "2026-08-25T00:23:37.911Z"
+      "album": "Harvest (50th Anniversary Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dd19d44cf651a37e3532a945",
+      "url": "https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb",
+      "durationMs": 187110,
+      "playedAt": "2026-08-25T01:07:57.805Z"
     },
     {
-      "name": "Cocaine",
+      "name": "Lay Down Sally",
       "artists": [
         "Eric Clapton"
       ],
       "album": "Slowhand 35th Anniversary",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e7464d9d8a25b2bf74b782a",
-      "url": "https://open.spotify.com/track/2udGjDmpK1dH9VGyw7nrei",
-      "durationMs": 221640,
-      "playedAt": "2026-08-25T00:16:21.808Z"
+      "url": "https://open.spotify.com/track/6kSSORnF2vhzDpGftPXNWz",
+      "durationMs": 236093,
+      "playedAt": "2026-08-25T01:04:53.597Z"
     }
   ],
   "topArtists": [
