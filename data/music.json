@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-08-25T21:52:23.985Z",
-  "nowPlaying": {
-    "name": "Walkin’ Back to Georgia",
-    "artists": [
-      "Jim Croce"
-    ],
-    "album": "You Don't Mess Around With Jim",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735b7a6cabbcb9fe150966563c",
-    "url": "https://open.spotify.com/track/1y4fbtHSJLqpaQXduQw88e",
-    "durationMs": 171853,
-    "isPlaying": true,
-    "progressMs": 76463
-  },
+  "updatedAt": "2026-08-25T22:22:02.384Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
       "name": "Rich Girl",
