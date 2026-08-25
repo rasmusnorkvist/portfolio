@@ -1,18 +1,85 @@
 {
-  "updatedAt": "2026-08-25T22:54:17.592Z",
+  "updatedAt": "2026-08-25T23:21:22.793Z",
   "nowPlaying": {
-    "name": "For What It's Worth",
+    "name": "Don't Give Up",
     "artists": [
-      "Buffalo Springfield"
+      "Peter Gabriel"
     ],
-    "album": "Buffalo Springfield",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732dc5b802303ff19c62a346ab",
-    "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA",
-    "durationMs": 153693,
+    "album": "So (Remastered)",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27311bb04f55be562c76d8e8ecf",
+    "url": "https://open.spotify.com/track/2t77hjgJY4sC9DoX5uaVUD",
+    "durationMs": 394826,
     "isPlaying": true,
-    "progressMs": 7832
+    "progressMs": 244225
   },
   "recentlyPlayed": [
+    {
+      "name": "Time in a Bottle",
+      "artists": [
+        "Jim Croce"
+      ],
+      "album": "You Don't Mess Around With Jim",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735b7a6cabbcb9fe150966563c",
+      "url": "https://open.spotify.com/track/7uWFUpGuEfmxYeymkV95jn",
+      "durationMs": 148586,
+      "playedAt": "2026-08-25T23:17:22.367Z"
+    },
+    {
+      "name": "(You Make Me Feel Like) A Natural Woman",
+      "artists": [
+        "Aretha Franklin"
+      ],
+      "album": "Lady Soul (With Bonus Selections)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739e5af96086574b76499dcf70",
+      "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy",
+      "durationMs": 165333,
+      "playedAt": "2026-08-25T23:14:56.784Z"
+    },
+    {
+      "name": "Ordinary World",
+      "artists": [
+        "Duran Duran"
+      ],
+      "album": "Duran Duran",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735d11c2fe73a7d376d3b06107",
+      "url": "https://open.spotify.com/track/0wokCRaKD0zPNhMRXAgVsr",
+      "durationMs": 340200,
+      "playedAt": "2026-08-25T23:12:14.467Z"
+    },
+    {
+      "name": "Sensitive Kind",
+      "artists": [
+        "Eric Clapton",
+        "Don White"
+      ],
+      "album": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba0fc34853f791af05dea26a",
+      "url": "https://open.spotify.com/track/5P6cmAVNoSIWyqZm9gu0mQ",
+      "durationMs": 317320,
+      "playedAt": "2026-08-25T23:06:37.285Z"
+    },
+    {
+      "name": "Wild West End",
+      "artists": [
+        "Dire Straits"
+      ],
+      "album": "Dire Straits",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8",
+      "url": "https://open.spotify.com/track/6yVnpVWuT3NdhAmQe05T33",
+      "durationMs": 281706,
+      "playedAt": "2026-08-25T23:01:22.968Z"
+    },
+    {
+      "name": "For What It's Worth",
+      "artists": [
+        "Buffalo Springfield"
+      ],
+      "album": "Buffalo Springfield",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732dc5b802303ff19c62a346ab",
+      "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA",
+      "durationMs": 153693,
+      "playedAt": "2026-08-25T22:56:44.280Z"
+    },
     {
       "name": "Year of the Cat - 2001 Remaster",
       "artists": [
@@ -56,73 +123,6 @@
       "url": "https://open.spotify.com/track/7fIZpIYzxzSV9s7oc6u1IA",
       "durationMs": 264333,
       "playedAt": "2026-08-25T22:37:46.369Z"
-    },
-    {
-      "name": "Solsbury Hill",
-      "artists": [
-        "Peter Gabriel"
-      ],
-      "album": "Peter Gabriel 1: Car (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736b141e77892ab2ccb60cf3cf",
-      "url": "https://open.spotify.com/track/6vZZtivPrtpggT5SSXsYTy",
-      "durationMs": 261560,
-      "playedAt": "2026-08-25T22:33:25.068Z"
-    },
-    {
-      "name": "Walkin’ Back to Georgia",
-      "artists": [
-        "Jim Croce"
-      ],
-      "album": "You Don't Mess Around With Jim",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735b7a6cabbcb9fe150966563c",
-      "url": "https://open.spotify.com/track/1y4fbtHSJLqpaQXduQw88e",
-      "durationMs": 171853,
-      "playedAt": "2026-08-25T22:29:06.514Z"
-    },
-    {
-      "name": "Rich Girl",
-      "artists": [
-        "Daryl Hall & John Oates"
-      ],
-      "album": "Bigger Than Both Of Us",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733ebc5b9d8942069d3b920550",
-      "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX",
-      "durationMs": 142786,
-      "playedAt": "2026-08-25T21:51:11.336Z"
-    },
-    {
-      "name": "A Horse with No Name",
-      "artists": [
-        "America",
-        "George Martin"
-      ],
-      "album": "America",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
-      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt",
-      "durationMs": 252239,
-      "playedAt": "2026-08-25T21:48:51.518Z"
-    },
-    {
-      "name": "They Call Me The Breeze",
-      "artists": [
-        "Eric Clapton"
-      ],
-      "album": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba0fc34853f791af05dea26a",
-      "url": "https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5",
-      "durationMs": 186534,
-      "playedAt": "2026-08-25T21:43:17.813Z"
-    },
-    {
-      "name": "Tunnel Of Love",
-      "artists": [
-        "Dire Straits"
-      ],
-      "album": "Making Movies",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389ac804ee51f66fe370c4577",
-      "url": "https://open.spotify.com/track/4ZSDreApKOo6eQYFx9qXfD",
-      "durationMs": 489506,
-      "playedAt": "2026-08-25T21:40:14.319Z"
     }
   ],
   "topArtists": [
