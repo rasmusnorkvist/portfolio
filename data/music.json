@@ -1,132 +1,133 @@
 {
-  "updatedAt": "2026-08-25T02:36:37.000Z",
+  "updatedAt": "2026-08-25T03:44:24.417Z",
   "nowPlaying": {
-    "name": "Feel so Good",
+    "name": "Change Clothes",
     "artists": [
-      "Mase"
+      "JAŸ-Z"
     ],
-    "album": "Harlem World",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b950e2fa6cd0f5c0767b6650",
-    "url": "https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE",
-    "durationMs": 203626,
+    "album": "The Black Album",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+    "url": "https://open.spotify.com/track/1xE7osYAtzz1PvLoVdOp5E",
+    "durationMs": 258426,
     "isPlaying": true,
-    "progressMs": 203626
+    "progressMs": 164567
   },
   "recentlyPlayed": [
     {
-      "name": "For My People",
+      "name": "Encore",
       "artists": [
-        "SoulChef",
-        "Awon"
+        "JAŸ-Z"
       ],
-      "album": "Good Vibes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8b3a3986451a425443c715a",
-      "url": "https://open.spotify.com/track/5AfmRnupftFdLVcGeAsLS9",
-      "durationMs": 160000,
-      "playedAt": "2026-08-25T02:31:13.741Z"
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/1GzNGrxi4NIOKu0Z4npUss",
+      "durationMs": 250973,
+      "playedAt": "2026-08-25T03:41:40.724Z"
     },
     {
-      "name": "Breakadawn",
+      "name": "What More Can I Say",
       "artists": [
-        "De La Soul"
+        "JAŸ-Z"
       ],
-      "album": "Buhloone Mindstate",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273425d6882cbb8165986ca7c40",
-      "url": "https://open.spotify.com/track/2WyLyygONxNBVtXCRLMjFY",
-      "durationMs": 255008,
-      "playedAt": "2026-08-25T02:28:36.035Z"
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/75JwFVMnX88ypgshWYBSYL",
+      "durationMs": 295160,
+      "playedAt": "2026-08-25T03:35:47.586Z"
     },
     {
-      "name": "Stay",
+      "name": "December 4th",
       "artists": [
-        "The Pharcyde",
-        "Slimkid3",
-        "Fatlip",
-        "L.A. Jay"
+        "JAŸ-Z"
       ],
-      "album": "Love",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27390879fc370783ab3232fcba0",
-      "url": "https://open.spotify.com/track/7qBV8llDA7jwhfHzjF9KmF",
-      "durationMs": 190691,
-      "playedAt": "2026-08-25T02:24:23.839Z"
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/7gVaf6eZDV1oQdGwvDYfmU",
+      "durationMs": 272360,
+      "playedAt": "2026-08-25T03:24:02.493Z"
     },
     {
-      "name": "Big Poppa - 2005 Remaster",
+      "name": "Interlude",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/2D4JZUIZVJVzZz9gpYaiO9",
+      "durationMs": 81800,
+      "playedAt": "2026-08-25T03:19:30.273Z"
+    },
+    {
+      "name": "Eye Know",
+      "artists": [
+        "De La Soul",
+        "Otis Redding"
+      ],
+      "album": "3 Feet High and Rising (35th Anniversary)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738c50213f8d252e090a5a9b71",
+      "url": "https://open.spotify.com/track/1q1AdQLArP7xxM5phOTUki",
+      "durationMs": 252671,
+      "playedAt": "2026-08-25T03:17:27.686Z"
+    },
+    {
+      "name": "Hip Hop Hooray - Remastered",
+      "artists": [
+        "Naughty By Nature"
+      ],
+      "album": "19NaughtyIII (30th Anniversary)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273973eb797cf38aadefbbf81fa",
+      "url": "https://open.spotify.com/track/3RlU693N2frGYxedETQHI8",
+      "durationMs": 267266,
+      "playedAt": "2026-08-25T02:52:17.626Z"
+    },
+    {
+      "name": "Juicy - 2005 Remaster",
       "artists": [
         "The Notorious B.I.G."
       ],
       "album": "Ready to Die (The Remaster)",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830",
-      "url": "https://open.spotify.com/track/2g8HN35AnVGIk7B8yMucww",
-      "durationMs": 252746,
-      "playedAt": "2026-08-25T02:21:16.141Z"
+      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX",
+      "durationMs": 302760,
+      "playedAt": "2026-08-25T02:47:53.363Z"
     },
     {
-      "name": "Ambitionz Az A Ridah",
+      "name": "California Love - Original Version",
       "artists": [
-        "2Pac"
+        "2Pac",
+        "Roger",
+        "Dr. Dre"
       ],
-      "album": "All Eyez On Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596",
-      "url": "https://open.spotify.com/track/5g9lS8deSIxItFBmZRC4vN",
-      "durationMs": 278386,
-      "playedAt": "2026-08-25T01:55:02.307Z"
+      "album": "Greatest Hits",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec",
+      "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
+      "durationMs": 284906,
+      "playedAt": "2026-08-25T02:42:53.664Z"
     },
     {
-      "name": "Bust A Move",
+      "name": "Bluebird",
       "artists": [
-        "Young MC"
+        "One Self",
+        "DJ Vadim",
+        "Yarah Bravo",
+        "Blu Rum 13"
       ],
-      "album": "ドライブが楽しくなる洋楽ヒッツ！80年代 Hip Hop",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ca82caf00a35b0b034ac35d",
-      "url": "https://open.spotify.com/track/3m5L4uCetQDx1ck1mCgOro",
-      "durationMs": 263914,
-      "playedAt": "2026-08-25T01:50:03.044Z"
+      "album": "Children of Possibility",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731093e0657d84495518e6fa3c",
+      "url": "https://open.spotify.com/track/1MvH3FdvO17S2eQ4IeNRCo",
+      "durationMs": 220412,
+      "playedAt": "2026-08-25T02:38:11.741Z"
     },
     {
-      "name": "Can't Knock The Hustle",
+      "name": "Feel so Good",
       "artists": [
-        "JAŸ-Z",
-        "Mary J. Blige"
+        "Mase"
       ],
-      "album": "Reasonable Doubt",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273730dc61a14921f999a79eb92",
-      "url": "https://open.spotify.com/track/5H4PU7wBIXL259apGjSpOr",
-      "durationMs": 317800,
-      "playedAt": "2026-08-25T01:45:41.885Z"
-    },
-    {
-      "name": "Cruel Summer",
-      "artists": [
-        "Bananarama"
-      ],
-      "album": "Bananarama (Collector's Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f030ba4bf4974bc0870a9d9",
-      "url": "https://open.spotify.com/track/2EGaDf0cPX789H3LNeB03D",
-      "durationMs": 215326,
-      "playedAt": "2026-08-25T01:38:15.087Z"
-    },
-    {
-      "name": "Heart of Gold",
-      "artists": [
-        "Neil Young"
-      ],
-      "album": "Harvest (50th Anniversary Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dd19d44cf651a37e3532a945",
-      "url": "https://open.spotify.com/track/26QKxvjlCo2fSd3T4c8Zpb",
-      "durationMs": 187110,
-      "playedAt": "2026-08-25T01:07:57.805Z"
-    },
-    {
-      "name": "Lay Down Sally",
-      "artists": [
-        "Eric Clapton"
-      ],
-      "album": "Slowhand 35th Anniversary",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e7464d9d8a25b2bf74b782a",
-      "url": "https://open.spotify.com/track/6kSSORnF2vhzDpGftPXNWz",
-      "durationMs": 236093,
-      "playedAt": "2026-08-25T01:04:53.597Z"
+      "album": "Harlem World",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b950e2fa6cd0f5c0767b6650",
+      "url": "https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE",
+      "durationMs": 203626,
+      "playedAt": "2026-08-25T02:34:34.341Z"
     }
   ],
   "topArtists": [
@@ -146,6 +147,12 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
+      "genres": []
+    },
+    {
+      "name": "JAŸ-Z",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
+      "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
       "genres": []
     },
     {
@@ -170,12 +177,6 @@
       "name": "Dina Ögon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
       "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
-      "genres": []
-    },
-    {
-      "name": "Mando Diao",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
-      "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
       "genres": []
     }
   ],
@@ -210,6 +211,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
       "url": "https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo",
       "durationMs": 235293
+    },
+    {
+      "name": "Interlude",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/2D4JZUIZVJVzZz9gpYaiO9",
+      "durationMs": 81800
     },
     {
       "name": "True Believer",
@@ -250,16 +261,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
       "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
       "durationMs": 229360
-    },
-    {
-      "name": "Campione 2000 - Radio Version",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Euro IV Ever",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c89626b8b2a51e1383a86efd",
-      "url": "https://open.spotify.com/track/78UcxP3Xm0EOXneQUDsStA",
-      "durationMs": 213413
     }
   ],
   "featuredPlaylists": []
