@@ -1,7 +1,54 @@
 {
-  "updatedAt": "2026-08-25T17:27:50.127Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-25T17:57:13.853Z",
+  "nowPlaying": {
+    "name": "Baby I'm Yours",
+    "artists": [
+      "Breakbot",
+      "Irfane"
+    ],
+    "album": "By Your Side",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ac2d979712c58dcc49290e0",
+    "url": "https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV",
+    "durationMs": 215506,
+    "isPlaying": true,
+    "progressMs": 85818
+  },
   "recentlyPlayed": [
+    {
+      "name": "Måndagsbarn",
+      "artists": [
+        "Veronica Maggio"
+      ],
+      "album": "Och vinnaren är...",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b8f600439b138e7fdceb5c93",
+      "url": "https://open.spotify.com/track/4MXHBiKcdqHBJ4PeHQJBHO",
+      "durationMs": 205546,
+      "playedAt": "2026-08-25T17:55:51.747Z"
+    },
+    {
+      "name": "Dance with Somebody - Radio Version",
+      "artists": [
+        "Mando Diao"
+      ],
+      "album": "Dance with Somebody",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c399529600f436bcdaeb842",
+      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48",
+      "durationMs": 241000,
+      "playedAt": "2026-08-25T17:52:29.239Z"
+    },
+    {
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "artists": [
+        "Gorillaz",
+        "Tame Impala",
+        "Bootie Brown"
+      ],
+      "album": "Cracker Island",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27319707804f73dc50f7a29cd86",
+      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3",
+      "durationMs": 215149,
+      "playedAt": "2026-08-25T17:48:31.255Z"
+    },
     {
       "name": "La Isla Bonita",
       "artists": [
@@ -78,41 +125,6 @@
       "url": "https://open.spotify.com/track/1q9l6c8bAzqWcvO3DM6FsR",
       "durationMs": 288360,
       "playedAt": "2026-08-25T16:21:43.437Z"
-    },
-    {
-      "name": "Dance with Somebody - Radio Version",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Dance with Somebody",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c399529600f436bcdaeb842",
-      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48",
-      "durationMs": 241000,
-      "playedAt": "2026-08-25T14:57:14.154Z"
-    },
-    {
-      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
-      "artists": [
-        "Gorillaz",
-        "Tame Impala",
-        "Bootie Brown"
-      ],
-      "album": "Cracker Island",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27319707804f73dc50f7a29cd86",
-      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3",
-      "durationMs": 215149,
-      "playedAt": "2026-08-25T14:53:16.291Z"
-    },
-    {
-      "name": "La Isla Bonita",
-      "artists": [
-        "Madonna"
-      ],
-      "album": "True Blue",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ab2411303d48498dc1d8c137",
-      "url": "https://open.spotify.com/track/0NJdtoQ3RX5ckBjJlNXhlP",
-      "durationMs": 242733,
-      "playedAt": "2026-08-25T14:49:43.987Z"
     }
   ],
   "topArtists": [
