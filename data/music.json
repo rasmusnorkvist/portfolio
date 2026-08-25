@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-08-25T18:40:48.398Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-25T19:27:49.388Z",
+  "nowPlaying": {
+    "name": "American Boy",
+    "artists": [
+      "Estelle",
+      "Kanye West"
+    ],
+    "album": "Shine",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27398dc3e242a818007dd67b7c5",
+    "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh",
+    "durationMs": 284733,
+    "isPlaying": true,
+    "progressMs": 213024
+  },
   "recentlyPlayed": [
     {
       "name": "Rock Your Body",
