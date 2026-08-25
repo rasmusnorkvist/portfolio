@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-08-25T19:56:06.269Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-25T20:26:34.030Z",
+  "nowPlaying": {
+    "name": "Bright Lights Bigger City",
+    "artists": [
+      "CeeLo Green"
+    ],
+    "album": "The Lady Killer",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273745ed32da5e64120925ce7b0",
+    "url": "https://open.spotify.com/track/3lOMPxZipoRwnO0IUvk6WX",
+    "durationMs": 218280,
+    "isPlaying": true,
+    "progressMs": 205352
+  },
   "recentlyPlayed": [
     {
       "name": "American Boy",
