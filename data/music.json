@@ -1,7 +1,84 @@
 {
-  "updatedAt": "2026-08-25T22:22:02.384Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-25T22:54:17.592Z",
+  "nowPlaying": {
+    "name": "For What It's Worth",
+    "artists": [
+      "Buffalo Springfield"
+    ],
+    "album": "Buffalo Springfield",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732dc5b802303ff19c62a346ab",
+    "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA",
+    "durationMs": 153693,
+    "isPlaying": true,
+    "progressMs": 7832
+  },
   "recentlyPlayed": [
+    {
+      "name": "Year of the Cat - 2001 Remaster",
+      "artists": [
+        "Al Stewart"
+      ],
+      "album": "Year of the Cat",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d1556d406a19cf829e6e0b8",
+      "url": "https://open.spotify.com/track/5jYYumalS1qELrcChOCZrK",
+      "durationMs": 401400,
+      "playedAt": "2026-08-25T22:54:13.666Z"
+    },
+    {
+      "name": "Harvest Moon",
+      "artists": [
+        "Neil Young"
+      ],
+      "album": "Harvest Moon",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27349b5b0e43ad82f8b6d0379e4",
+      "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk",
+      "durationMs": 303213,
+      "playedAt": "2026-08-25T22:47:35.266Z"
+    },
+    {
+      "name": "One of These Nights - 2013 Remaster",
+      "artists": [
+        "Eagles"
+      ],
+      "album": "One of These Nights (2013 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94",
+      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF",
+      "durationMs": 291685,
+      "playedAt": "2026-08-25T22:42:35.068Z"
+    },
+    {
+      "name": "Knockin' On Heaven's Door",
+      "artists": [
+        "Eric Clapton"
+      ],
+      "album": "The Cream Of Clapton",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ceac5a7a4847838b8d7b6e9e",
+      "url": "https://open.spotify.com/track/7fIZpIYzxzSV9s7oc6u1IA",
+      "durationMs": 264333,
+      "playedAt": "2026-08-25T22:37:46.369Z"
+    },
+    {
+      "name": "Solsbury Hill",
+      "artists": [
+        "Peter Gabriel"
+      ],
+      "album": "Peter Gabriel 1: Car (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736b141e77892ab2ccb60cf3cf",
+      "url": "https://open.spotify.com/track/6vZZtivPrtpggT5SSXsYTy",
+      "durationMs": 261560,
+      "playedAt": "2026-08-25T22:33:25.068Z"
+    },
+    {
+      "name": "Walkin’ Back to Georgia",
+      "artists": [
+        "Jim Croce"
+      ],
+      "album": "You Don't Mess Around With Jim",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735b7a6cabbcb9fe150966563c",
+      "url": "https://open.spotify.com/track/1y4fbtHSJLqpaQXduQw88e",
+      "durationMs": 171853,
+      "playedAt": "2026-08-25T22:29:06.514Z"
+    },
     {
       "name": "Rich Girl",
       "artists": [
@@ -46,72 +123,6 @@
       "url": "https://open.spotify.com/track/4ZSDreApKOo6eQYFx9qXfD",
       "durationMs": 489506,
       "playedAt": "2026-08-25T21:40:14.319Z"
-    },
-    {
-      "name": "Right Down the Line",
-      "artists": [
-        "Gerry Rafferty"
-      ],
-      "album": "City to City",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dc60cf9a010f86354e6735dd",
-      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5",
-      "durationMs": 267773,
-      "playedAt": "2026-08-25T21:32:07.811Z"
-    },
-    {
-      "name": "Do It Again",
-      "artists": [
-        "Steely Dan"
-      ],
-      "album": "Can't Buy A Thrill",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
-      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19",
-      "durationMs": 357041,
-      "playedAt": "2026-08-25T21:27:42.958Z"
-    },
-    {
-      "name": "Old Man",
-      "artists": [
-        "Neil Young"
-      ],
-      "album": "Harvest (50th Anniversary Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dd19d44cf651a37e3532a945",
-      "url": "https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8",
-      "durationMs": 204779,
-      "playedAt": "2026-08-25T21:21:49.017Z"
-    },
-    {
-      "name": "Layla - Acoustic Live",
-      "artists": [
-        "Eric Clapton"
-      ],
-      "album": "Unplugged (Live)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e36eb543ce3731ac913845c",
-      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo",
-      "durationMs": 289026,
-      "playedAt": "2026-08-25T21:18:27.221Z"
-    },
-    {
-      "name": "Good Song",
-      "artists": [
-        "Salem Al Fakir"
-      ],
-      "album": "This Is Who I Am",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732087d03cff5d912942e5c50d",
-      "url": "https://open.spotify.com/track/4m9KmD3nxPBKsFWwZRmH9E",
-      "durationMs": 254626,
-      "playedAt": "2026-08-25T21:01:41.343Z"
-    },
-    {
-      "name": "Never Gonna Stop",
-      "artists": [
-        "Sweet Chariots"
-      ],
-      "album": "Beat Based / Song Centered / Spirit Led (Extended Version 2010)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731ea2f32c33406ec1e7e7655f",
-      "url": "https://open.spotify.com/track/33HBlY84RNhup6CpycNdgV",
-      "durationMs": 343946,
-      "playedAt": "2026-08-25T20:57:30.103Z"
     }
   ],
   "topArtists": [
