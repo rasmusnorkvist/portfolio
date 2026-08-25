@@ -1,19 +1,75 @@
 {
-  "updatedAt": "2026-08-25T17:57:13.853Z",
-  "nowPlaying": {
-    "name": "Baby I'm Yours",
-    "artists": [
-      "Breakbot",
-      "Irfane"
-    ],
-    "album": "By Your Side",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ac2d979712c58dcc49290e0",
-    "url": "https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV",
-    "durationMs": 215506,
-    "isPlaying": true,
-    "progressMs": 85818
-  },
+  "updatedAt": "2026-08-25T18:40:48.398Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Rock Your Body",
+      "artists": [
+        "Justin Timberlake"
+      ],
+      "album": "Justified",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346a5742374ab4cf9ed32dee",
+      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT",
+      "durationMs": 267266,
+      "playedAt": "2026-08-25T18:17:04.430Z"
+    },
+    {
+      "name": "Stateside + Zara Larsson",
+      "artists": [
+        "PinkPantheress",
+        "Zara Larsson"
+      ],
+      "album": "Fancy Some More?",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt",
+      "durationMs": 184761,
+      "playedAt": "2026-08-25T18:12:40.128Z"
+    },
+    {
+      "name": "Live Tomorrow",
+      "artists": [
+        "Laleh"
+      ],
+      "album": "Laleh",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738222e77e2fbf4a3ce0c6c6b0",
+      "url": "https://open.spotify.com/track/3eOYmWvienEIgHJFAWE3ZD",
+      "durationMs": 215906,
+      "playedAt": "2026-08-25T18:09:38.282Z"
+    },
+    {
+      "name": "These Words",
+      "artists": [
+        "Natasha Bedingfield"
+      ],
+      "album": "Unwritten",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b337e1ca6629a53c66a3b0d4",
+      "url": "https://open.spotify.com/track/6MFQeWtk7kxWGydnJB2y36",
+      "durationMs": 216360,
+      "playedAt": "2026-08-25T18:06:05.386Z"
+    },
+    {
+      "name": "LDN",
+      "artists": [
+        "Lily Allen"
+      ],
+      "album": "Alright, Still (Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f44ea7ef8d5c793399bae7af",
+      "url": "https://open.spotify.com/track/5wD6de7Fz1QfxVNkv1SEy7",
+      "durationMs": 190773,
+      "playedAt": "2026-08-25T18:02:32.041Z"
+    },
+    {
+      "name": "Baby I'm Yours",
+      "artists": [
+        "Breakbot",
+        "Irfane"
+      ],
+      "album": "By Your Side",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ac2d979712c58dcc49290e0",
+      "url": "https://open.spotify.com/track/0tZkVZ9DeAa0MNK2gY5NtV",
+      "durationMs": 215506,
+      "playedAt": "2026-08-25T17:59:24.260Z"
+    },
     {
       "name": "Måndagsbarn",
       "artists": [
@@ -59,72 +115,6 @@
       "url": "https://open.spotify.com/track/0NJdtoQ3RX5ckBjJlNXhlP",
       "durationMs": 242733,
       "playedAt": "2026-08-25T16:47:38.353Z"
-    },
-    {
-      "name": "Chunky",
-      "artists": [
-        "Bruno Mars"
-      ],
-      "album": "24K Magic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
-      "url": "https://open.spotify.com/track/0mBKv9DkYfQHjdMcw2jdyI",
-      "durationMs": 186973,
-      "playedAt": "2026-08-25T16:43:38.611Z"
-    },
-    {
-      "name": "Blood on the Dance Floor",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "BLOOD ON THE DANCE FLOOR/ HIStory In The Mix",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273777230e2062652ea3818f1d4",
-      "url": "https://open.spotify.com/track/11lw4bWbmxWIETHitBU0Gc",
-      "durationMs": 254226,
-      "playedAt": "2026-08-25T16:40:34.661Z"
-    },
-    {
-      "name": "Beggin'",
-      "artists": [
-        "Måneskin"
-      ],
-      "album": "Chosen",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
-      "durationMs": 211560,
-      "playedAt": "2026-08-25T16:36:16.426Z"
-    },
-    {
-      "name": "The Path",
-      "artists": [
-        "Lorde"
-      ],
-      "album": "Solar Power",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27336615a0a60523dd62135ab3a",
-      "url": "https://open.spotify.com/track/7JqqIi2ktnsNkYdQhKSCrz",
-      "durationMs": 221240,
-      "playedAt": "2026-08-25T16:29:11.437Z"
-    },
-    {
-      "name": "Virtual Insanity - Remastered 2006",
-      "artists": [
-        "Jamiroquai"
-      ],
-      "album": "Driving Songs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
-      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
-      "durationMs": 229360,
-      "playedAt": "2026-08-25T16:25:33.162Z"
-    },
-    {
-      "name": "I Don't Feel Like Dancin'",
-      "artists": [
-        "Scissor Sisters"
-      ],
-      "album": "Ta-Dah",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27381625c8c1368106d3ac464ed",
-      "url": "https://open.spotify.com/track/1q9l6c8bAzqWcvO3DM6FsR",
-      "durationMs": 288360,
-      "playedAt": "2026-08-25T16:21:43.437Z"
     }
   ],
   "topArtists": [
