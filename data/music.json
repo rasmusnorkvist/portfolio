@@ -1,127 +1,127 @@
 {
-  "updatedAt": "2026-08-24T23:45:40.220Z",
+  "updatedAt": "2026-08-25T01:02:20.415Z",
   "nowPlaying": {
-    "name": "Sultans Of Swing",
+    "name": "Lay Down Sally",
     "artists": [
-      "Dire Straits"
+      "Eric Clapton"
     ],
-    "album": "Dire Straits",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8",
-    "url": "https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj",
-    "durationMs": 348400,
+    "album": "Slowhand 35th Anniversary",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e7464d9d8a25b2bf74b782a",
+    "url": "https://open.spotify.com/track/6kSSORnF2vhzDpGftPXNWz",
+    "durationMs": 236093,
     "isPlaying": true,
-    "progressMs": 108332
+    "progressMs": 83695
   },
   "recentlyPlayed": [
     {
-      "name": "Baker Street",
+      "name": "Operator (That's Not the Way It Feels)",
       "artists": [
-        "Gerry Rafferty"
+        "Jim Croce"
       ],
-      "album": "City to City",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dc60cf9a010f86354e6735dd",
-      "url": "https://open.spotify.com/track/5gOd6zDC8vhlYjqbQdJVWP",
-      "durationMs": 365626,
-      "playedAt": "2026-08-24T23:43:54.823Z"
+      "album": "You Don't Mess Around With Jim",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735b7a6cabbcb9fe150966563c",
+      "url": "https://open.spotify.com/track/4mQtXW0vrHC3oTkA1mQsb0",
+      "durationMs": 229706,
+      "playedAt": "2026-08-25T01:01:00.501Z"
     },
     {
-      "name": "Tears in Heaven",
+      "name": "News",
       "artists": [
-        "Eric Clapton"
+        "Dire Straits"
       ],
-      "album": "Rush (Music from the Motion Picture Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27344cb13558d57f5a066fac381",
-      "url": "https://open.spotify.com/track/1kgdslQYmeTR4thk9whoRw",
-      "durationMs": 271760,
-      "playedAt": "2026-08-24T23:26:48.073Z"
+      "album": "Communiqué",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1f7f1d5898b28c1ce3f4947",
+      "url": "https://open.spotify.com/track/4s6p0rVzSaWqaJRsp0HBDI",
+      "durationMs": 253400,
+      "playedAt": "2026-08-25T00:57:13.796Z"
     },
     {
-      "name": "Reelin' In The Years",
+      "name": "It Ain't Over 'Til It's Over",
+      "artists": [
+        "Lenny Kravitz"
+      ],
+      "album": "Mama Said",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bfc19627a4a3a604c0a195e5",
+      "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR",
+      "durationMs": 242640,
+      "playedAt": "2026-08-25T00:48:40.919Z"
+    },
+    {
+      "name": "Dirty Work",
       "artists": [
         "Steely Dan"
       ],
       "album": "Can't Buy A Thrill",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
-      "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs",
-      "durationMs": 277467,
-      "playedAt": "2026-08-24T23:22:19.308Z"
+      "url": "https://open.spotify.com/track/3IvTwPCCjfZczCN2k4qPiH",
+      "durationMs": 190065,
+      "playedAt": "2026-08-25T00:44:41.312Z"
     },
     {
-      "name": "Just a Song Before I Go",
-      "artists": [
-        "Crosby, Stills & Nash"
-      ],
-      "album": "CSN",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27333296dca4799f533fba9cce8",
-      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN",
-      "durationMs": 133960,
-      "playedAt": "2026-08-24T23:17:45.107Z"
-    },
-    {
-      "name": "Never Going Back Again - 2004 Remaster",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Rumours (Super Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
-      "url": "https://open.spotify.com/track/19Shlms2uTnOjIUg50TXzd",
-      "durationMs": 134400,
-      "playedAt": "2026-08-24T23:15:34.007Z"
-    },
-    {
-      "name": "Listen to the Music",
-      "artists": [
-        "The Doobie Brothers"
-      ],
-      "album": "Toulouse Street",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27391b51fa9b5967fb34c044498",
-      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5",
-      "durationMs": 227266,
-      "playedAt": "2026-08-24T23:13:22.508Z"
-    },
-    {
-      "name": "I Shot The Sheriff",
+      "name": "Nobody Knows You When You're Down and Out - Acoustic Live",
       "artists": [
         "Eric Clapton"
       ],
-      "album": "461 Ocean Boulevard",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b367abd1c70d41d6ee4b2a6e",
-      "url": "https://open.spotify.com/track/3PbJjso7KugjaEA8nkUPfk",
-      "durationMs": 263573,
-      "playedAt": "2026-08-24T23:09:38.376Z"
+      "album": "Unplugged (Deluxe Edition) (Live)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273195d2c01c72fc37c5bd58019",
+      "url": "https://open.spotify.com/track/7sVxm1I8G8tTznXeirDEXm",
+      "durationMs": 235426,
+      "playedAt": "2026-08-25T00:41:34.315Z"
     },
     {
-      "name": "Can't You See",
-      "artists": [
-        "The Marshall Tucker Band"
-      ],
-      "album": "The Marshall Tucker Band",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dede94a3ef0bb67eb53668b3",
-      "url": "https://open.spotify.com/track/4egy2d8QiyXn5tzVQiptTb",
-      "durationMs": 365106,
-      "playedAt": "2026-08-24T23:05:17.713Z"
-    },
-    {
-      "name": "Sister Golden Hair",
-      "artists": [
-        "America"
-      ],
-      "album": "Hearts",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273865a956fe40cf54597e97fd2",
-      "url": "https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK",
-      "durationMs": 199573,
-      "playedAt": "2026-08-24T21:23:52.589Z"
-    },
-    {
-      "name": "New Kid in Town - 2013 Remaster",
+      "name": "Take It Easy - 2013 Remaster",
       "artists": [
         "Eagles"
       ],
-      "album": "Hotel California (2013 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734637341b9f507521afa9a778",
-      "url": "https://open.spotify.com/track/6Zyz8lsnMFpIrCTuvGurCB",
-      "durationMs": 304925,
-      "playedAt": "2026-08-24T21:20:35.989Z"
+      "album": "Eagles (2013 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c13acd642ba9f6f5f127aa1b",
+      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr",
+      "durationMs": 211577,
+      "playedAt": "2026-08-25T00:37:41.839Z"
+    },
+    {
+      "name": "Interlude",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/2D4JZUIZVJVzZz9gpYaiO9",
+      "durationMs": 81800,
+      "playedAt": "2026-08-25T00:34:13.316Z"
+    },
+    {
+      "name": "What a Fool Believes",
+      "artists": [
+        "The Doobie Brothers"
+      ],
+      "album": "Minute by Minute",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba6340ac3b1653b6ea0e5da5",
+      "url": "https://open.spotify.com/track/2yBVeksU2EtrPJbTu4ZslK",
+      "durationMs": 223866,
+      "playedAt": "2026-08-25T00:27:18.808Z"
+    },
+    {
+      "name": "Red Rain - Remastered",
+      "artists": [
+        "Peter Gabriel"
+      ],
+      "album": "So (Special Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bade4fc3596a6eee8dd3302a",
+      "url": "https://open.spotify.com/track/1DLwcAQCsEMgEvqJj9NPJ9",
+      "durationMs": 340840,
+      "playedAt": "2026-08-25T00:23:37.911Z"
+    },
+    {
+      "name": "Cocaine",
+      "artists": [
+        "Eric Clapton"
+      ],
+      "album": "Slowhand 35th Anniversary",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e7464d9d8a25b2bf74b782a",
+      "url": "https://open.spotify.com/track/2udGjDmpK1dH9VGyw7nrei",
+      "durationMs": 221640,
+      "playedAt": "2026-08-25T00:16:21.808Z"
     }
   ],
   "topArtists": [
@@ -141,12 +141,6 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
-    },
-    {
-      "name": "Steely Dan",
-      "imageUrl": "https://i.scdn.co/image/9d01e4e9aac39b891d684d3d1a5b3a451d7c72bd",
-      "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE",
       "genres": []
     },
     {
@@ -171,6 +165,12 @@
       "name": "Dina Ögon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
       "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
+      "genres": []
+    },
+    {
+      "name": "Mando Diao",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
+      "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
       "genres": []
     }
   ],
