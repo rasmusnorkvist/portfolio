@@ -1,18 +1,62 @@
 {
-  "updatedAt": "2026-08-25T20:55:41.867Z",
+  "updatedAt": "2026-08-25T21:25:06.229Z",
   "nowPlaying": {
-    "name": "Never Gonna Stop",
+    "name": "Do It Again",
     "artists": [
-      "Sweet Chariots"
+      "Steely Dan"
     ],
-    "album": "Beat Based / Song Centered / Spirit Led (Extended Version 2010)",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731ea2f32c33406ec1e7e7655f",
-    "url": "https://open.spotify.com/track/33HBlY84RNhup6CpycNdgV",
-    "durationMs": 343946,
+    "album": "Can't Buy A Thrill",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
+    "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19",
+    "durationMs": 357041,
     "isPlaying": true,
-    "progressMs": 236634
+    "progressMs": 200943
   },
   "recentlyPlayed": [
+    {
+      "name": "Old Man",
+      "artists": [
+        "Neil Young"
+      ],
+      "album": "Harvest (50th Anniversary Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dd19d44cf651a37e3532a945",
+      "url": "https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8",
+      "durationMs": 204779,
+      "playedAt": "2026-08-25T21:21:49.017Z"
+    },
+    {
+      "name": "Layla - Acoustic Live",
+      "artists": [
+        "Eric Clapton"
+      ],
+      "album": "Unplugged (Live)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e36eb543ce3731ac913845c",
+      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo",
+      "durationMs": 289026,
+      "playedAt": "2026-08-25T21:18:27.221Z"
+    },
+    {
+      "name": "Good Song",
+      "artists": [
+        "Salem Al Fakir"
+      ],
+      "album": "This Is Who I Am",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732087d03cff5d912942e5c50d",
+      "url": "https://open.spotify.com/track/4m9KmD3nxPBKsFWwZRmH9E",
+      "durationMs": 254626,
+      "playedAt": "2026-08-25T21:01:41.343Z"
+    },
+    {
+      "name": "Never Gonna Stop",
+      "artists": [
+        "Sweet Chariots"
+      ],
+      "album": "Beat Based / Song Centered / Spirit Led (Extended Version 2010)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731ea2f32c33406ec1e7e7655f",
+      "url": "https://open.spotify.com/track/33HBlY84RNhup6CpycNdgV",
+      "durationMs": 343946,
+      "playedAt": "2026-08-25T20:57:30.103Z"
+    },
     {
       "name": "Lovefool",
       "artists": [
@@ -78,52 +122,6 @@
       "url": "https://open.spotify.com/track/66t3qGcPbN7Hl6LMmNk6SS",
       "durationMs": 180129,
       "playedAt": "2026-08-25T20:35:48.292Z"
-    },
-    {
-      "name": "No Broke Boys",
-      "artists": [
-        "Disco Lines",
-        "Tinashe"
-      ],
-      "album": "No Broke Boys",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273699b0363dda94e1f1e32eef5",
-      "url": "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj",
-      "durationMs": 163994,
-      "playedAt": "2026-08-25T20:32:51.337Z"
-    },
-    {
-      "name": "My Type",
-      "artists": [
-        "Saint Motel"
-      ],
-      "album": "My Type",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734c8d86fcf617d28a7c55818b",
-      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI",
-      "durationMs": 206393,
-      "playedAt": "2026-08-25T20:30:10.215Z"
-    },
-    {
-      "name": "Bright Lights Bigger City",
-      "artists": [
-        "CeeLo Green"
-      ],
-      "album": "The Lady Killer",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273745ed32da5e64120925ce7b0",
-      "url": "https://open.spotify.com/track/3lOMPxZipoRwnO0IUvk6WX",
-      "durationMs": 218280,
-      "playedAt": "2026-08-25T20:26:46.840Z"
-    },
-    {
-      "name": "American Boy",
-      "artists": [
-        "Estelle",
-        "Kanye West"
-      ],
-      "album": "Shine",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27398dc3e242a818007dd67b7c5",
-      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh",
-      "durationMs": 284733,
-      "playedAt": "2026-08-25T19:30:31.209Z"
     }
   ],
   "topArtists": [
