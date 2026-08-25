@@ -1,18 +1,85 @@
 {
-  "updatedAt": "2026-08-25T21:25:06.229Z",
+  "updatedAt": "2026-08-25T21:52:23.985Z",
   "nowPlaying": {
-    "name": "Do It Again",
+    "name": "Walkin’ Back to Georgia",
     "artists": [
-      "Steely Dan"
+      "Jim Croce"
     ],
-    "album": "Can't Buy A Thrill",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
-    "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19",
-    "durationMs": 357041,
+    "album": "You Don't Mess Around With Jim",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735b7a6cabbcb9fe150966563c",
+    "url": "https://open.spotify.com/track/1y4fbtHSJLqpaQXduQw88e",
+    "durationMs": 171853,
     "isPlaying": true,
-    "progressMs": 200943
+    "progressMs": 76463
   },
   "recentlyPlayed": [
+    {
+      "name": "Rich Girl",
+      "artists": [
+        "Daryl Hall & John Oates"
+      ],
+      "album": "Bigger Than Both Of Us",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733ebc5b9d8942069d3b920550",
+      "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX",
+      "durationMs": 142786,
+      "playedAt": "2026-08-25T21:51:11.336Z"
+    },
+    {
+      "name": "A Horse with No Name",
+      "artists": [
+        "America",
+        "George Martin"
+      ],
+      "album": "America",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
+      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt",
+      "durationMs": 252239,
+      "playedAt": "2026-08-25T21:48:51.518Z"
+    },
+    {
+      "name": "They Call Me The Breeze",
+      "artists": [
+        "Eric Clapton"
+      ],
+      "album": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba0fc34853f791af05dea26a",
+      "url": "https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5",
+      "durationMs": 186534,
+      "playedAt": "2026-08-25T21:43:17.813Z"
+    },
+    {
+      "name": "Tunnel Of Love",
+      "artists": [
+        "Dire Straits"
+      ],
+      "album": "Making Movies",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389ac804ee51f66fe370c4577",
+      "url": "https://open.spotify.com/track/4ZSDreApKOo6eQYFx9qXfD",
+      "durationMs": 489506,
+      "playedAt": "2026-08-25T21:40:14.319Z"
+    },
+    {
+      "name": "Right Down the Line",
+      "artists": [
+        "Gerry Rafferty"
+      ],
+      "album": "City to City",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dc60cf9a010f86354e6735dd",
+      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5",
+      "durationMs": 267773,
+      "playedAt": "2026-08-25T21:32:07.811Z"
+    },
+    {
+      "name": "Do It Again",
+      "artists": [
+        "Steely Dan"
+      ],
+      "album": "Can't Buy A Thrill",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
+      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19",
+      "durationMs": 357041,
+      "playedAt": "2026-08-25T21:27:42.958Z"
+    },
     {
       "name": "Old Man",
       "artists": [
@@ -56,72 +123,6 @@
       "url": "https://open.spotify.com/track/33HBlY84RNhup6CpycNdgV",
       "durationMs": 343946,
       "playedAt": "2026-08-25T20:57:30.103Z"
-    },
-    {
-      "name": "Lovefool",
-      "artists": [
-        "The Cardigans"
-      ],
-      "album": "First Band On The Moon (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730aac8ca880151fda470e91af",
-      "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD",
-      "durationMs": 193953,
-      "playedAt": "2026-08-25T20:51:49.156Z"
-    },
-    {
-      "name": "No One Dies From Love",
-      "artists": [
-        "Tove Lo"
-      ],
-      "album": "Dirt Femme",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aeb431774ee02fb6b7a9fea3",
-      "url": "https://open.spotify.com/track/51DXwluqCo7bx4QAFuGoEm",
-      "durationMs": 186018,
-      "playedAt": "2026-08-25T20:48:38.232Z"
-    },
-    {
-      "name": "10 Years",
-      "artists": [
-        "Daði Freyr"
-      ],
-      "album": "10 Years",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f34d3eea6e5c5c9218f438ef",
-      "url": "https://open.spotify.com/track/6N6HSN3zytFXva8LTUUvIL",
-      "durationMs": 166000,
-      "playedAt": "2026-08-25T20:45:35.212Z"
-    },
-    {
-      "name": "Ambitions",
-      "artists": [
-        "Donkeyboy"
-      ],
-      "album": "Caught in a Life",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e23135d458770610d7efae00",
-      "url": "https://open.spotify.com/track/0TQMrN1R7JNixCnjrNJsLd",
-      "durationMs": 187066,
-      "playedAt": "2026-08-25T20:42:52.232Z"
-    },
-    {
-      "name": "12 to 12",
-      "artists": [
-        "sombr"
-      ],
-      "album": "I Barely Know Her",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734229702de91cb3d3a4383302",
-      "url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W",
-      "durationMs": 242903,
-      "playedAt": "2026-08-25T20:39:48.199Z"
-    },
-    {
-      "name": "All Eyes On Me",
-      "artists": [
-        "Margaux Flavet"
-      ],
-      "album": "All Eyes On Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a03833b0efe7775375f4460f",
-      "url": "https://open.spotify.com/track/66t3qGcPbN7Hl6LMmNk6SS",
-      "durationMs": 180129,
-      "playedAt": "2026-08-25T20:35:48.292Z"
     }
   ],
   "topArtists": [
