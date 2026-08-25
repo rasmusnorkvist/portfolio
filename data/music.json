@@ -1,18 +1,62 @@
 {
-  "updatedAt": "2026-08-25T03:44:24.417Z",
-  "nowPlaying": {
-    "name": "Change Clothes",
-    "artists": [
-      "JAŸ-Z"
-    ],
-    "album": "The Black Album",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-    "url": "https://open.spotify.com/track/1xE7osYAtzz1PvLoVdOp5E",
-    "durationMs": 258426,
-    "isPlaying": true,
-    "progressMs": 164567
-  },
+  "updatedAt": "2026-08-25T04:34:36.570Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "99 Problems",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/7sLpSWxQazJzDVG6YGzlVs",
+      "durationMs": 234626,
+      "playedAt": "2026-08-25T04:02:28.618Z"
+    },
+    {
+      "name": "Moment Of Clarity",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/5TTFD5DuFhQOrs0RJxGDbD",
+      "durationMs": 264066,
+      "playedAt": "2026-08-25T03:58:34.019Z"
+    },
+    {
+      "name": "Threat",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/2Zl1wunKulBAythbBKmW4S",
+      "durationMs": 245626,
+      "playedAt": "2026-08-25T03:54:09.912Z"
+    },
+    {
+      "name": "Dirt Off Your Shoulder",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/3IrkbGQCoEPAkzJ0Tkv8nm",
+      "durationMs": 245173,
+      "playedAt": "2026-08-25T03:50:04.308Z"
+    },
+    {
+      "name": "Change Clothes",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/1xE7osYAtzz1PvLoVdOp5E",
+      "durationMs": 258426,
+      "playedAt": "2026-08-25T03:45:59.106Z"
+    },
     {
       "name": "Encore",
       "artists": [
@@ -68,66 +112,6 @@
       "url": "https://open.spotify.com/track/1q1AdQLArP7xxM5phOTUki",
       "durationMs": 252671,
       "playedAt": "2026-08-25T03:17:27.686Z"
-    },
-    {
-      "name": "Hip Hop Hooray - Remastered",
-      "artists": [
-        "Naughty By Nature"
-      ],
-      "album": "19NaughtyIII (30th Anniversary)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273973eb797cf38aadefbbf81fa",
-      "url": "https://open.spotify.com/track/3RlU693N2frGYxedETQHI8",
-      "durationMs": 267266,
-      "playedAt": "2026-08-25T02:52:17.626Z"
-    },
-    {
-      "name": "Juicy - 2005 Remaster",
-      "artists": [
-        "The Notorious B.I.G."
-      ],
-      "album": "Ready to Die (The Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f51e29700232d57fe8a0830",
-      "url": "https://open.spotify.com/track/5ByAIlEEnxYdvpnezg7HTX",
-      "durationMs": 302760,
-      "playedAt": "2026-08-25T02:47:53.363Z"
-    },
-    {
-      "name": "California Love - Original Version",
-      "artists": [
-        "2Pac",
-        "Roger",
-        "Dr. Dre"
-      ],
-      "album": "Greatest Hits",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec",
-      "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
-      "durationMs": 284906,
-      "playedAt": "2026-08-25T02:42:53.664Z"
-    },
-    {
-      "name": "Bluebird",
-      "artists": [
-        "One Self",
-        "DJ Vadim",
-        "Yarah Bravo",
-        "Blu Rum 13"
-      ],
-      "album": "Children of Possibility",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731093e0657d84495518e6fa3c",
-      "url": "https://open.spotify.com/track/1MvH3FdvO17S2eQ4IeNRCo",
-      "durationMs": 220412,
-      "playedAt": "2026-08-25T02:38:11.741Z"
-    },
-    {
-      "name": "Feel so Good",
-      "artists": [
-        "Mase"
-      ],
-      "album": "Harlem World",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b950e2fa6cd0f5c0767b6650",
-      "url": "https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE",
-      "durationMs": 203626,
-      "playedAt": "2026-08-25T02:34:34.341Z"
     }
   ],
   "topArtists": [
