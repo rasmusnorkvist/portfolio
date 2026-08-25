@@ -1,18 +1,51 @@
 {
-  "updatedAt": "2026-08-25T23:21:22.793Z",
-  "nowPlaying": {
-    "name": "Don't Give Up",
-    "artists": [
-      "Peter Gabriel"
-    ],
-    "album": "So (Remastered)",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27311bb04f55be562c76d8e8ecf",
-    "url": "https://open.spotify.com/track/2t77hjgJY4sC9DoX5uaVUD",
-    "durationMs": 394826,
-    "isPlaying": true,
-    "progressMs": 244225
-  },
+  "updatedAt": "2026-08-25T23:48:04.225Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Sweet Home Chicago",
+      "artists": [
+        "The Blues Brothers"
+      ],
+      "album": "The Blues Brothers Original Motion Picture Soundtrack",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e3b96d2a92646f2f85e081a0",
+      "url": "https://open.spotify.com/track/1OJO3vsGqwbIQuLPGeY2Sb",
+      "durationMs": 473000,
+      "playedAt": "2026-08-25T23:40:40.478Z"
+    },
+    {
+      "name": "Helplessly Hoping - 2005 Remaster",
+      "artists": [
+        "Crosby, Stills & Nash"
+      ],
+      "album": "Crosby, Stills & Nash",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a32339b8818323380682a889",
+      "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe",
+      "durationMs": 157893,
+      "playedAt": "2026-08-25T23:32:50.567Z"
+    },
+    {
+      "name": "Old Love",
+      "artists": [
+        "Eric Clapton"
+      ],
+      "album": "Journeyman",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f1e4230a291bd8d1c8e25ca1",
+      "url": "https://open.spotify.com/track/1EWyFFUCC3UgaliycAiKDR",
+      "durationMs": 384466,
+      "playedAt": "2026-08-25T23:30:15.640Z"
+    },
+    {
+      "name": "Don't Give Up",
+      "artists": [
+        "Peter Gabriel"
+      ],
+      "album": "So (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27311bb04f55be562c76d8e8ecf",
+      "url": "https://open.spotify.com/track/2t77hjgJY4sC9DoX5uaVUD",
+      "durationMs": 394826,
+      "playedAt": "2026-08-25T23:23:54.167Z"
+    },
     {
       "name": "Time in a Bottle",
       "artists": [
@@ -79,50 +112,6 @@
       "url": "https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA",
       "durationMs": 153693,
       "playedAt": "2026-08-25T22:56:44.280Z"
-    },
-    {
-      "name": "Year of the Cat - 2001 Remaster",
-      "artists": [
-        "Al Stewart"
-      ],
-      "album": "Year of the Cat",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d1556d406a19cf829e6e0b8",
-      "url": "https://open.spotify.com/track/5jYYumalS1qELrcChOCZrK",
-      "durationMs": 401400,
-      "playedAt": "2026-08-25T22:54:13.666Z"
-    },
-    {
-      "name": "Harvest Moon",
-      "artists": [
-        "Neil Young"
-      ],
-      "album": "Harvest Moon",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27349b5b0e43ad82f8b6d0379e4",
-      "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk",
-      "durationMs": 303213,
-      "playedAt": "2026-08-25T22:47:35.266Z"
-    },
-    {
-      "name": "One of These Nights - 2013 Remaster",
-      "artists": [
-        "Eagles"
-      ],
-      "album": "One of These Nights (2013 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735d0a8e54aba5181c79593b94",
-      "url": "https://open.spotify.com/track/608xszaAxVh4m7NcKJiAbF",
-      "durationMs": 291685,
-      "playedAt": "2026-08-25T22:42:35.068Z"
-    },
-    {
-      "name": "Knockin' On Heaven's Door",
-      "artists": [
-        "Eric Clapton"
-      ],
-      "album": "The Cream Of Clapton",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ceac5a7a4847838b8d7b6e9e",
-      "url": "https://open.spotify.com/track/7fIZpIYzxzSV9s7oc6u1IA",
-      "durationMs": 264333,
-      "playedAt": "2026-08-25T22:37:46.369Z"
     }
   ],
   "topArtists": [
@@ -157,12 +146,6 @@
       "genres": []
     },
     {
-      "name": "Labyrint",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8c253702a29d143fb8de5039",
-      "url": "https://open.spotify.com/artist/5s77Nldm0GrOQkMIElogdo",
-      "genres": []
-    },
-    {
       "name": "Paul Simon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
       "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
@@ -172,6 +155,12 @@
       "name": "Dina Ögon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
       "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
+      "genres": []
+    },
+    {
+      "name": "Mando Diao",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
+      "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
       "genres": []
     }
   ],
