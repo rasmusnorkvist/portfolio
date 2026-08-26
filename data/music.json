@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-08-26T18:13:01.332Z",
+  "updatedAt": "2026-08-26T20:30:32.172Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Blame It on the Boogie",
+      "artists": [
+        "The Jacksons"
+      ],
+      "album": "Destiny",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739daf7b461a827acbbb0e4971",
+      "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS",
+      "durationMs": 215319,
+      "playedAt": "2026-08-26T18:43:47.680Z"
+    },
+    {
+      "name": "Canned Heat",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "Synkronized",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ccb64f022a53d3e8ec84a20",
+      "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ",
+      "durationMs": 331760,
+      "playedAt": "2026-08-26T18:37:50.893Z"
+    },
+    {
+      "name": "Here I Go Again",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "Last Man Standing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
+      "url": "https://open.spotify.com/track/3BCEmscmbx9dhPH76Ipc7R",
+      "durationMs": 233666,
+      "playedAt": "2026-08-26T18:32:35.494Z"
+    },
+    {
+      "name": "The Alkalite",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/4AlEDesuRd6npBdFHVkfPT",
+      "durationMs": 248568,
+      "playedAt": "2026-08-26T18:27:26.433Z"
+    },
     {
       "name": "Lightenup",
       "artists": [
@@ -67,50 +111,6 @@
       "url": "https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV",
       "durationMs": 195666,
       "playedAt": "2026-08-26T01:09:30.906Z"
-    },
-    {
-      "name": "Sunny",
-      "artists": [
-        "Boney M."
-      ],
-      "album": "Take The Heat Off Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dafd1cd6e9537ec8463ea691",
-      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt",
-      "durationMs": 242240,
-      "playedAt": "2026-08-26T01:06:18.207Z"
-    },
-    {
-      "name": "Hotel California - Live On MTV, 1994",
-      "artists": [
-        "Eagles"
-      ],
-      "album": "Hell Freezes Over (Remaster 2018)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27396d28597a5ae44ab66552183",
-      "url": "https://open.spotify.com/track/2GpBrAoCwt48fxjgjlzMd4",
-      "durationMs": 432040,
-      "playedAt": "2026-08-26T01:01:41.407Z"
-    },
-    {
-      "name": "The Things We Do For Love",
-      "artists": [
-        "10cc"
-      ],
-      "album": "Deceptive Bends",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f93159d78849714fcf118bb3",
-      "url": "https://open.spotify.com/track/6KEWtSOGKpIXGw6l1uJgsR",
-      "durationMs": 207573,
-      "playedAt": "2026-08-26T00:54:32.404Z"
-    },
-    {
-      "name": "Don't Dream It's Over",
-      "artists": [
-        "Crowded House"
-      ],
-      "album": "Crowded House (Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737cef65b561af10a25acbc2df",
-      "url": "https://open.spotify.com/track/56GbZVwxMdf1DENCluYS8A",
-      "durationMs": 238173,
-      "playedAt": "2026-08-26T00:51:07.735Z"
     }
   ],
   "topArtists": [
@@ -118,72 +118,49 @@
       "name": "E-Type",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
       "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
-      "genres": [
-        "eurodance",
-        "europop"
-      ]
+      "genres": []
     },
     {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": [
-        "lo-fi",
-        "lo-fi beats",
-        "jazz beats"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": [
-        "yacht rock",
-        "classic rock",
-        "soft rock"
-      ]
+      "genres": []
     },
     {
       "name": "JAŸ-Z",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
       "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
-      "genres": [
-        "hip hop",
-        "east coast hip hop",
-        "rap"
-      ]
+      "genres": []
     },
     {
       "name": "Paul Simon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
       "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
-      "genres": [
-        "singer-songwriter"
-      ]
+      "genres": []
     },
     {
       "name": "Dina Ögon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
       "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     }
   ],
   "topTracks": [
