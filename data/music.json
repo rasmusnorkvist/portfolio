@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-26T13:51:44.657Z",
+  "updatedAt": "2026-08-26T14:39:38.899Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Lightenup",
+      "artists": [
+        "Parcels"
+      ],
+      "album": "Parcels",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d26bc8655d6132c9e243f82e",
+      "url": "https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki",
+      "durationMs": 237227,
+      "playedAt": "2026-08-26T14:06:51.875Z"
+    },
     {
       "name": "Beggin'",
       "artists": [
@@ -100,17 +111,6 @@
       "url": "https://open.spotify.com/track/56GbZVwxMdf1DENCluYS8A",
       "durationMs": 238173,
       "playedAt": "2026-08-26T00:51:07.735Z"
-    },
-    {
-      "name": "Change the World",
-      "artists": [
-        "Eric Clapton"
-      ],
-      "album": "Clapton Chronicles: The Best of Eric Clapton",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27384edd1376faafd5e350bd7a9",
-      "url": "https://open.spotify.com/track/5Ds0VGkTSQ1jf4KzLUpZPb",
-      "durationMs": 234866,
-      "playedAt": "2026-08-26T00:47:12.606Z"
     }
   ],
   "topArtists": [
