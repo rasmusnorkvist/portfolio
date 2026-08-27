@@ -1,116 +1,132 @@
 {
-  "updatedAt": "2026-08-26T20:30:32.172Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-27T00:24:30.076Z",
+  "nowPlaying": {
+    "name": "Someone New",
+    "artists": [
+      "Kakkmaddafakka"
+    ],
+    "album": "Six Months Is a Long Time",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d82dfe272628f423962bbe3f",
+    "url": "https://open.spotify.com/track/2h5e8vGUKU1b7jD3GKV7IB",
+    "durationMs": 182239,
+    "isPlaying": true,
+    "progressMs": 76255
+  },
   "recentlyPlayed": [
     {
-      "name": "Blame It on the Boogie",
+      "name": "Finesse",
       "artists": [
-        "The Jacksons"
+        "Bruno Mars"
       ],
-      "album": "Destiny",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739daf7b461a827acbbb0e4971",
-      "url": "https://open.spotify.com/track/3qI94hINNNeb4S7xQi18lS",
-      "durationMs": 215319,
-      "playedAt": "2026-08-26T18:43:47.680Z"
+      "album": "24K Magic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
+      "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK",
+      "durationMs": 191000,
+      "playedAt": "2026-08-27T00:23:16.689Z"
     },
     {
-      "name": "Canned Heat",
+      "name": "Cold Cold Man",
       "artists": [
-        "Jamiroquai"
+        "Saint Motel"
       ],
-      "album": "Synkronized",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ccb64f022a53d3e8ec84a20",
-      "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ",
-      "durationMs": 331760,
-      "playedAt": "2026-08-26T18:37:50.893Z"
+      "album": "My Type EP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273500a95f36178e1c86a835077",
+      "url": "https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F",
+      "durationMs": 230773,
+      "playedAt": "2026-08-27T00:20:08.486Z"
     },
     {
-      "name": "Here I Go Again",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Last Man Standing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
-      "url": "https://open.spotify.com/track/3BCEmscmbx9dhPH76Ipc7R",
-      "durationMs": 233666,
-      "playedAt": "2026-08-26T18:32:35.494Z"
-    },
-    {
-      "name": "The Alkalite",
-      "artists": [
-        "Rapallo"
-      ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/4AlEDesuRd6npBdFHVkfPT",
-      "durationMs": 248568,
-      "playedAt": "2026-08-26T18:27:26.433Z"
-    },
-    {
-      "name": "Lightenup",
+      "name": "Tieduprightnow",
       "artists": [
         "Parcels"
       ],
-      "album": "Parcels",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d26bc8655d6132c9e243f82e",
-      "url": "https://open.spotify.com/track/1qtiESAzfGMw3YqJvI97ki",
-      "durationMs": 237227,
-      "playedAt": "2026-08-26T14:06:51.875Z"
+      "album": "Tieduprightnow",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735293681f1d72c22430e382e0",
+      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB",
+      "durationMs": 249956,
+      "playedAt": "2026-08-27T00:16:20.686Z"
     },
     {
-      "name": "Beggin'",
+      "name": "Rather Be (feat. Jess Glynne)",
+      "artists": [
+        "Clean Bandit",
+        "Jess Glynne"
+      ],
+      "album": "New Eyes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735ef315d54fd701725176292e",
+      "url": "https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM",
+      "durationMs": 227833,
+      "playedAt": "2026-08-27T00:12:13.897Z"
+    },
+    {
+      "name": "SUPERMODEL",
       "artists": [
         "Måneskin"
       ],
-      "album": "Chosen",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
-      "durationMs": 211560,
-      "playedAt": "2026-08-26T02:40:21.671Z"
+      "album": "RUSH!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346e72dff16a10e1b5062fdf7",
+      "url": "https://open.spotify.com/track/0eJmsdfbAOM1KD0w50EhlD",
+      "durationMs": 148064,
+      "playedAt": "2026-08-27T00:08:28.987Z"
     },
     {
-      "name": "28 Butts",
+      "name": "Can't Get You out of My Head",
       "artists": [
-        "Little Jackie"
+        "Kylie Minogue"
       ],
-      "album": "The Stoop",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cf2ce7da6482174eea91dc7d",
-      "url": "https://open.spotify.com/track/3VzXczteOCdWEGboYhmQ3W",
-      "durationMs": 188813,
-      "playedAt": "2026-08-26T02:36:53.370Z"
+      "album": "Fever",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735d6121285c42ea4535e59048",
+      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7",
+      "durationMs": 230640,
+      "playedAt": "2026-08-26T23:16:23.871Z"
     },
     {
-      "name": "Sunshine",
+      "name": "Ooh Wee (feat. Ghostface Killah, Nate Dogg, Trife & Saigon)",
       "artists": [
-        "Jungle"
+        "Mark Ronson",
+        "Ghostface Killah",
+        "Nate Dogg",
+        "Trife",
+        "Saigon"
       ],
-      "album": "Sunshine",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273775f28b18db542ae81fafee3",
-      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8",
-      "durationMs": 191003,
-      "playedAt": "2026-08-26T02:33:47.327Z"
+      "album": "Here Comes The Fuzz",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e58775d8015f2ea0b85dc57d",
+      "url": "https://open.spotify.com/track/4WimB4Ei0LU3MotHhL3kBL",
+      "durationMs": 209626,
+      "playedAt": "2026-08-26T23:12:54.183Z"
     },
     {
-      "name": "Little L",
+      "name": "Last Train to London",
       "artists": [
-        "Jamiroquai"
+        "Electric Light Orchestra"
       ],
-      "album": "A Funk Odyssey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273909ebb0c355f14d0ee7f9974",
-      "url": "https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc",
-      "durationMs": 295400,
-      "playedAt": "2026-08-26T01:14:23.407Z"
+      "album": "Discovery",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f",
+      "url": "https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz",
+      "durationMs": 272649,
+      "playedAt": "2026-08-26T22:49:46.179Z"
     },
     {
-      "name": "Jerk It Out",
+      "name": "Last Train to London",
       "artists": [
-        "Caesars"
+        "Electric Light Orchestra"
       ],
-      "album": "Love For The Streets",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346ed4ae9343359e5965baf7b",
-      "url": "https://open.spotify.com/track/5XMjXjwCkJVmk0AHm7z8IV",
-      "durationMs": 195666,
-      "playedAt": "2026-08-26T01:09:30.906Z"
+      "album": "Discovery",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f",
+      "url": "https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz",
+      "durationMs": 272649,
+      "playedAt": "2026-08-26T22:48:25.229Z"
+    },
+    {
+      "name": "Eyes Without A Face",
+      "artists": [
+        "Billy Idol"
+      ],
+      "album": "Rebel Yell",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
+      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS",
+      "durationMs": 299240,
+      "playedAt": "2026-08-26T21:27:02.963Z"
     }
   ],
   "topArtists": [
