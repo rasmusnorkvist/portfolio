@@ -1,132 +1,116 @@
 {
-  "updatedAt": "2026-08-27T00:24:30.076Z",
-  "nowPlaying": {
-    "name": "Someone New",
-    "artists": [
-      "Kakkmaddafakka"
-    ],
-    "album": "Six Months Is a Long Time",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d82dfe272628f423962bbe3f",
-    "url": "https://open.spotify.com/track/2h5e8vGUKU1b7jD3GKV7IB",
-    "durationMs": 182239,
-    "isPlaying": true,
-    "progressMs": 76255
-  },
+  "updatedAt": "2026-08-27T10:05:43.070Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Finesse",
+      "name": "Praise You",
       "artists": [
-        "Bruno Mars"
+        "Fatboy Slim"
       ],
-      "album": "24K Magic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
-      "url": "https://open.spotify.com/track/5XMkENs3GfeRza8MfVAhjK",
-      "durationMs": 191000,
-      "playedAt": "2026-08-27T00:23:16.689Z"
+      "album": "You've Come a Long Way Baby",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a67f5b073aa23dd4155b556b",
+      "url": "https://open.spotify.com/track/1FS21kclHQ2vVi3U1ZxETc",
+      "durationMs": 324240,
+      "playedAt": "2026-08-27T05:07:41.462Z"
     },
     {
-      "name": "Cold Cold Man",
+      "name": "Adventure of a Lifetime",
       "artists": [
-        "Saint Motel"
+        "Coldplay"
       ],
-      "album": "My Type EP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273500a95f36178e1c86a835077",
-      "url": "https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F",
-      "durationMs": 230773,
-      "playedAt": "2026-08-27T00:20:08.486Z"
+      "album": "A Head Full of Dreams",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738ff7c3580d429c8212b9a3b6",
+      "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M",
+      "durationMs": 263786,
+      "playedAt": "2026-08-27T04:35:13.643Z"
     },
     {
-      "name": "Tieduprightnow",
+      "name": "Virtual Insanity - Remastered 2006",
       "artists": [
-        "Parcels"
+        "Jamiroquai"
       ],
-      "album": "Tieduprightnow",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735293681f1d72c22430e382e0",
-      "url": "https://open.spotify.com/track/66tkDkPsznE5zIHNt4QkXB",
-      "durationMs": 249956,
-      "playedAt": "2026-08-27T00:16:20.686Z"
+      "album": "Driving Songs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
+      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
+      "durationMs": 229360,
+      "playedAt": "2026-08-27T04:30:52.843Z"
     },
     {
-      "name": "Rather Be (feat. Jess Glynne)",
+      "name": "Restless",
       "artists": [
-        "Clean Bandit",
-        "Jess Glynne"
+        "Kakkmaddafakka"
       ],
-      "album": "New Eyes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735ef315d54fd701725176292e",
-      "url": "https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM",
-      "durationMs": 227833,
-      "playedAt": "2026-08-27T00:12:13.897Z"
+      "album": "Hest",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330cc0db57c1550e87e22a1ca",
+      "url": "https://open.spotify.com/track/5QBVRETMnR1sKyrQAMypDu",
+      "durationMs": 177746,
+      "playedAt": "2026-08-27T04:27:06.344Z"
     },
     {
-      "name": "SUPERMODEL",
+      "name": "Passion",
+      "artists": [
+        "Milky Chance"
+      ],
+      "album": "Trip Tape III",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a72273429c9b6e9f7aa8c10c",
+      "url": "https://open.spotify.com/track/3kA4NbdN8rA2lDzILYHsci",
+      "durationMs": 187009,
+      "playedAt": "2026-08-27T04:24:11.572Z"
+    },
+    {
+      "name": "This Head I Hold",
+      "artists": [
+        "Electric Guest"
+      ],
+      "album": "Mondo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736466e833eb9b18310fab4de4",
+      "url": "https://open.spotify.com/track/0LVaveDmmoMEKhBGhVhfoI",
+      "durationMs": 175773,
+      "playedAt": "2026-08-27T04:21:07.647Z"
+    },
+    {
+      "name": "Pata Pata - Stereo Version",
+      "artists": [
+        "Miriam Makeba"
+      ],
+      "album": "Pata Pata",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d46caefb22d460eb8ca14db0",
+      "url": "https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA",
+      "durationMs": 180174,
+      "playedAt": "2026-08-27T04:18:14.848Z"
+    },
+    {
+      "name": "The Sign",
+      "artists": [
+        "Ace of Base"
+      ],
+      "album": "The Sign",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE",
+      "durationMs": 191240,
+      "playedAt": "2026-08-27T04:15:17.647Z"
+    },
+    {
+      "name": "L'altra dimensione",
       "artists": [
         "Måneskin"
       ],
-      "album": "RUSH!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346e72dff16a10e1b5062fdf7",
-      "url": "https://open.spotify.com/track/0eJmsdfbAOM1KD0w50EhlD",
-      "durationMs": 148064,
-      "playedAt": "2026-08-27T00:08:28.987Z"
+      "album": "Il ballo della vita",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dbc892b8194e35ca3524e767",
+      "url": "https://open.spotify.com/track/36ONZ2CvV8KsLPapNPGTqa",
+      "durationMs": 126706,
+      "playedAt": "2026-08-27T02:48:57.460Z"
     },
     {
-      "name": "Can't Get You out of My Head",
+      "name": "What Is Life - 2014 Remaster",
       "artists": [
-        "Kylie Minogue"
+        "George Harrison"
       ],
-      "album": "Fever",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735d6121285c42ea4535e59048",
-      "url": "https://open.spotify.com/track/3E7ZwUMJFqpsDOJzEkBrQ7",
-      "durationMs": 230640,
-      "playedAt": "2026-08-26T23:16:23.871Z"
-    },
-    {
-      "name": "Ooh Wee (feat. Ghostface Killah, Nate Dogg, Trife & Saigon)",
-      "artists": [
-        "Mark Ronson",
-        "Ghostface Killah",
-        "Nate Dogg",
-        "Trife",
-        "Saigon"
-      ],
-      "album": "Here Comes The Fuzz",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e58775d8015f2ea0b85dc57d",
-      "url": "https://open.spotify.com/track/4WimB4Ei0LU3MotHhL3kBL",
-      "durationMs": 209626,
-      "playedAt": "2026-08-26T23:12:54.183Z"
-    },
-    {
-      "name": "Last Train to London",
-      "artists": [
-        "Electric Light Orchestra"
-      ],
-      "album": "Discovery",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f",
-      "url": "https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz",
-      "durationMs": 272649,
-      "playedAt": "2026-08-26T22:49:46.179Z"
-    },
-    {
-      "name": "Last Train to London",
-      "artists": [
-        "Electric Light Orchestra"
-      ],
-      "album": "Discovery",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27337e78b6638f7737adee73d6f",
-      "url": "https://open.spotify.com/track/6xE6ZWzK1YDDSYzqOCoQlz",
-      "durationMs": 272649,
-      "playedAt": "2026-08-26T22:48:25.229Z"
-    },
-    {
-      "name": "Eyes Without A Face",
-      "artists": [
-        "Billy Idol"
-      ],
-      "album": "Rebel Yell",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
-      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS",
-      "durationMs": 299240,
-      "playedAt": "2026-08-26T21:27:02.963Z"
+      "album": "All Things Must Pass (2014 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c6610322fc60bfb41481273",
+      "url": "https://open.spotify.com/track/0Nux6Q8aJZ1i4vUpPDBvlX",
+      "durationMs": 264405,
+      "playedAt": "2026-08-27T02:46:53.761Z"
     }
   ],
   "topArtists": [
@@ -134,49 +118,72 @@
       "name": "E-Type",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
       "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
-      "genres": []
+      "genres": [
+        "eurodance",
+        "europop"
+      ]
     },
     {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
+      "genres": [
+        "lo-fi",
+        "lo-fi beats",
+        "jazz beats"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": []
+      "genres": [
+        "yacht rock",
+        "classic rock",
+        "soft rock"
+      ]
     },
     {
       "name": "JAŸ-Z",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
       "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
-      "genres": []
+      "genres": [
+        "hip hop",
+        "east coast hip hop",
+        "rap"
+      ]
     },
     {
       "name": "Paul Simon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
       "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
-      "genres": []
+      "genres": [
+        "singer-songwriter"
+      ]
     },
     {
       "name": "Dina Ögon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
       "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     }
   ],
   "topTracks": [
