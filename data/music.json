@@ -1,116 +1,122 @@
 {
-  "updatedAt": "2026-08-27T10:05:43.070Z",
+  "updatedAt": "2026-08-27T20:39:10.324Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Praise You",
+      "name": "Let's Groove",
       "artists": [
-        "Fatboy Slim"
+        "Earth, Wind & Fire"
       ],
-      "album": "You've Come a Long Way Baby",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a67f5b073aa23dd4155b556b",
-      "url": "https://open.spotify.com/track/1FS21kclHQ2vVi3U1ZxETc",
-      "durationMs": 324240,
-      "playedAt": "2026-08-27T05:07:41.462Z"
+      "album": "Raise!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e691caf11b86a3729899a304",
+      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8",
+      "durationMs": 339018,
+      "playedAt": "2026-08-27T15:35:31.205Z"
     },
     {
-      "name": "Adventure of a Lifetime",
+      "name": "Cry No More Tears",
       "artists": [
-        "Coldplay"
+        "Sweet Chariots"
       ],
-      "album": "A Head Full of Dreams",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738ff7c3580d429c8212b9a3b6",
-      "url": "https://open.spotify.com/track/69uxyAqqPIsUyTO8txoP2M",
-      "durationMs": 263786,
-      "playedAt": "2026-08-27T04:35:13.643Z"
+      "album": "Beat Based / Song Centered / Spirit Led (Extended Version 2010)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731ea2f32c33406ec1e7e7655f",
+      "url": "https://open.spotify.com/track/3bzrsHxyKD3ymYxdytzeUD",
+      "durationMs": 251986,
+      "playedAt": "2026-08-27T15:17:13.534Z"
     },
     {
-      "name": "Virtual Insanity - Remastered 2006",
+      "name": "Groove Is in the Heart",
       "artists": [
-        "Jamiroquai"
+        "Deee-Lite"
       ],
-      "album": "Driving Songs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
-      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
-      "durationMs": 229360,
-      "playedAt": "2026-08-27T04:30:52.843Z"
+      "album": "World Clique",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cbcb5083c56df2a557625bca",
+      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb",
+      "durationMs": 231786,
+      "playedAt": "2026-08-27T15:13:04.536Z"
     },
     {
-      "name": "Restless",
-      "artists": [
-        "Kakkmaddafakka"
-      ],
-      "album": "Hest",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330cc0db57c1550e87e22a1ca",
-      "url": "https://open.spotify.com/track/5QBVRETMnR1sKyrQAMypDu",
-      "durationMs": 177746,
-      "playedAt": "2026-08-27T04:27:06.344Z"
-    },
-    {
-      "name": "Passion",
-      "artists": [
-        "Milky Chance"
-      ],
-      "album": "Trip Tape III",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a72273429c9b6e9f7aa8c10c",
-      "url": "https://open.spotify.com/track/3kA4NbdN8rA2lDzILYHsci",
-      "durationMs": 187009,
-      "playedAt": "2026-08-27T04:24:11.572Z"
-    },
-    {
-      "name": "This Head I Hold",
-      "artists": [
-        "Electric Guest"
-      ],
-      "album": "Mondo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736466e833eb9b18310fab4de4",
-      "url": "https://open.spotify.com/track/0LVaveDmmoMEKhBGhVhfoI",
-      "durationMs": 175773,
-      "playedAt": "2026-08-27T04:21:07.647Z"
-    },
-    {
-      "name": "Pata Pata - Stereo Version",
+      "name": "Pata Pata - Mono Version",
       "artists": [
         "Miriam Makeba"
       ],
       "album": "Pata Pata",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d46caefb22d460eb8ca14db0",
-      "url": "https://open.spotify.com/track/1BLXxFPDL2BT37nHKD7KrA",
-      "durationMs": 180174,
-      "playedAt": "2026-08-27T04:18:14.848Z"
+      "url": "https://open.spotify.com/track/2H6qEsJZ3r5SUq07VJBnpR",
+      "durationMs": 179858,
+      "playedAt": "2026-08-27T15:09:15.732Z"
     },
     {
-      "name": "The Sign",
+      "name": "Destination Calabria - Radio Edit",
+      "artists": [
+        "Alex Gaudino",
+        "Crystal Waters"
+      ],
+      "album": "Destination Calabria",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739ddec2a9c771fcd96ca3fe1d",
+      "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h",
+      "durationMs": 223111,
+      "playedAt": "2026-08-27T15:06:18.887Z"
+    },
+    {
+      "name": "Sweet Talk",
+      "artists": [
+        "Saint Motel"
+      ],
+      "album": "saintmotelevision",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27325dd1a3969c0912291b6fc7b",
+      "url": "https://open.spotify.com/track/6kcHg7XL6SKyPNd78daRBL",
+      "durationMs": 192040,
+      "playedAt": "2026-08-27T15:02:38.712Z"
+    },
+    {
+      "name": "Joy.",
+      "artists": [
+        "RAYE",
+        "Amma",
+        "Absolutely"
+      ],
+      "album": "THIS MUSIC MAY CONTAIN HOPE.",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
+      "url": "https://open.spotify.com/track/5CKbUv7zkOdf8X2602qgei",
+      "durationMs": 263933,
+      "playedAt": "2026-08-27T14:59:29.736Z"
+    },
+    {
+      "name": "Barbra Streisand - Radio Edit",
+      "artists": [
+        "Duck Sauce",
+        "A-Trak",
+        "Armand Van Helden"
+      ],
+      "album": "Barbra Streisand",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cba37a0344dc3ec8052b42c1",
+      "url": "https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7",
+      "durationMs": 193052,
+      "playedAt": "2026-08-27T14:55:08.836Z"
+    },
+    {
+      "name": "More Than A Woman - SG's Paradise Edit",
+      "artists": [
+        "Bee Gees",
+        "SG Lewis"
+      ],
+      "album": "More Than A Woman (SG's Paradise Edit)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bd8e2af160f4664d666c4132",
+      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J",
+      "durationMs": 357936,
+      "playedAt": "2026-08-27T14:51:58.737Z"
+    },
+    {
+      "name": "All That She Wants",
       "artists": [
         "Ace of Base"
       ],
       "album": "The Sign",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE",
-      "durationMs": 191240,
-      "playedAt": "2026-08-27T04:15:17.647Z"
-    },
-    {
-      "name": "L'altra dimensione",
-      "artists": [
-        "Måneskin"
-      ],
-      "album": "Il ballo della vita",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dbc892b8194e35ca3524e767",
-      "url": "https://open.spotify.com/track/36ONZ2CvV8KsLPapNPGTqa",
-      "durationMs": 126706,
-      "playedAt": "2026-08-27T02:48:57.460Z"
-    },
-    {
-      "name": "What Is Life - 2014 Remaster",
-      "artists": [
-        "George Harrison"
-      ],
-      "album": "All Things Must Pass (2014 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c6610322fc60bfb41481273",
-      "url": "https://open.spotify.com/track/0Nux6Q8aJZ1i4vUpPDBvlX",
-      "durationMs": 264405,
-      "playedAt": "2026-08-27T02:46:53.761Z"
+      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9",
+      "durationMs": 211213,
+      "playedAt": "2026-08-27T14:46:03.787Z"
     }
   ],
   "topArtists": [
@@ -118,72 +124,49 @@
       "name": "E-Type",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
       "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
-      "genres": [
-        "eurodance",
-        "europop"
-      ]
+      "genres": []
     },
     {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": [
-        "lo-fi",
-        "lo-fi beats",
-        "jazz beats"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": [
-        "yacht rock",
-        "classic rock",
-        "soft rock"
-      ]
+      "genres": []
     },
     {
       "name": "JAŸ-Z",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
       "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
-      "genres": [
-        "hip hop",
-        "east coast hip hop",
-        "rap"
-      ]
+      "genres": []
     },
     {
       "name": "Paul Simon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
       "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
-      "genres": [
-        "singer-songwriter"
-      ]
+      "genres": []
     },
     {
       "name": "Dina Ögon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
       "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     }
   ],
   "topTracks": [
