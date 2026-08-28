@@ -1,100 +1,7 @@
 {
-  "updatedAt": "2026-08-27T20:39:10.324Z",
+  "updatedAt": "2026-08-28T05:04:26.596Z",
   "nowPlaying": null,
   "recentlyPlayed": [
-    {
-      "name": "Let's Groove",
-      "artists": [
-        "Earth, Wind & Fire"
-      ],
-      "album": "Raise!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e691caf11b86a3729899a304",
-      "url": "https://open.spotify.com/track/3koCCeSaVUyrRo3N2gHrd8",
-      "durationMs": 339018,
-      "playedAt": "2026-08-27T15:35:31.205Z"
-    },
-    {
-      "name": "Cry No More Tears",
-      "artists": [
-        "Sweet Chariots"
-      ],
-      "album": "Beat Based / Song Centered / Spirit Led (Extended Version 2010)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731ea2f32c33406ec1e7e7655f",
-      "url": "https://open.spotify.com/track/3bzrsHxyKD3ymYxdytzeUD",
-      "durationMs": 251986,
-      "playedAt": "2026-08-27T15:17:13.534Z"
-    },
-    {
-      "name": "Groove Is in the Heart",
-      "artists": [
-        "Deee-Lite"
-      ],
-      "album": "World Clique",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cbcb5083c56df2a557625bca",
-      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb",
-      "durationMs": 231786,
-      "playedAt": "2026-08-27T15:13:04.536Z"
-    },
-    {
-      "name": "Pata Pata - Mono Version",
-      "artists": [
-        "Miriam Makeba"
-      ],
-      "album": "Pata Pata",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d46caefb22d460eb8ca14db0",
-      "url": "https://open.spotify.com/track/2H6qEsJZ3r5SUq07VJBnpR",
-      "durationMs": 179858,
-      "playedAt": "2026-08-27T15:09:15.732Z"
-    },
-    {
-      "name": "Destination Calabria - Radio Edit",
-      "artists": [
-        "Alex Gaudino",
-        "Crystal Waters"
-      ],
-      "album": "Destination Calabria",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739ddec2a9c771fcd96ca3fe1d",
-      "url": "https://open.spotify.com/track/5TmFTHZp7HjBXjjsFvCY6h",
-      "durationMs": 223111,
-      "playedAt": "2026-08-27T15:06:18.887Z"
-    },
-    {
-      "name": "Sweet Talk",
-      "artists": [
-        "Saint Motel"
-      ],
-      "album": "saintmotelevision",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27325dd1a3969c0912291b6fc7b",
-      "url": "https://open.spotify.com/track/6kcHg7XL6SKyPNd78daRBL",
-      "durationMs": 192040,
-      "playedAt": "2026-08-27T15:02:38.712Z"
-    },
-    {
-      "name": "Joy.",
-      "artists": [
-        "RAYE",
-        "Amma",
-        "Absolutely"
-      ],
-      "album": "THIS MUSIC MAY CONTAIN HOPE.",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27397c0928704e5a2bd8d4c5b90",
-      "url": "https://open.spotify.com/track/5CKbUv7zkOdf8X2602qgei",
-      "durationMs": 263933,
-      "playedAt": "2026-08-27T14:59:29.736Z"
-    },
-    {
-      "name": "Barbra Streisand - Radio Edit",
-      "artists": [
-        "Duck Sauce",
-        "A-Trak",
-        "Armand Van Helden"
-      ],
-      "album": "Barbra Streisand",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cba37a0344dc3ec8052b42c1",
-      "url": "https://open.spotify.com/track/782lNGn2rEHVn8JomdtRA7",
-      "durationMs": 193052,
-      "playedAt": "2026-08-27T14:55:08.836Z"
-    },
     {
       "name": "More Than A Woman - SG's Paradise Edit",
       "artists": [
@@ -105,18 +12,107 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bd8e2af160f4664d666c4132",
       "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J",
       "durationMs": 357936,
-      "playedAt": "2026-08-27T14:51:58.737Z"
+      "playedAt": "2026-08-28T02:43:45.964Z"
     },
     {
-      "name": "All That She Wants",
+      "name": "Sunshine",
       "artists": [
-        "Ace of Base"
+        "Jungle"
       ],
-      "album": "The Sign",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fda5556cb6981c3113df6175",
-      "url": "https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9",
-      "durationMs": 211213,
-      "playedAt": "2026-08-27T14:46:03.787Z"
+      "album": "Sunshine",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273775f28b18db542ae81fafee3",
+      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8",
+      "durationMs": 191003,
+      "playedAt": "2026-08-28T01:38:31.375Z"
+    },
+    {
+      "name": "Don't Stop 'Til You Get Enough",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Off the Wall",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
+      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ",
+      "durationMs": 364441,
+      "playedAt": "2026-08-28T01:35:23.375Z"
+    },
+    {
+      "name": "Everywhere - 2017 Remaster",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "album": "Tango In the Night (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aaba065944cd82a6f15c86b6",
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq",
+      "durationMs": 226653,
+      "playedAt": "2026-08-28T01:26:14.782Z"
+    },
+    {
+      "name": "I Just Might",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "album": "The Romantic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395",
+      "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN",
+      "durationMs": 212973,
+      "playedAt": "2026-08-28T01:22:31.130Z"
+    },
+    {
+      "name": "Hard Times",
+      "artists": [
+        "Paramore"
+      ],
+      "album": "After Laughter",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dbd83e179619408e5d05cc99",
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh",
+      "durationMs": 182693,
+      "playedAt": "2026-08-28T01:19:01.183Z"
+    },
+    {
+      "name": "Better Than Ever",
+      "artists": [
+        "Video Age"
+      ],
+      "album": "Away From The Castle",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731ad860620284a842e9f92df0",
+      "url": "https://open.spotify.com/track/5fUKZY3f9BGGRbW22toY19",
+      "durationMs": 236188,
+      "playedAt": "2026-08-28T01:16:01.507Z"
+    },
+    {
+      "name": "Be My Lover",
+      "artists": [
+        "La Bouche"
+      ],
+      "album": "Sweet Dreams",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d4c3788166b9c4de0921f6b0",
+      "url": "https://open.spotify.com/track/3YB6nCSuFqNiqOvPtAPK9X",
+      "durationMs": 241133,
+      "playedAt": "2026-08-28T01:12:08.346Z"
+    },
+    {
+      "name": "Last Train to London",
+      "artists": [
+        "Rikas"
+      ],
+      "album": "Last Train to London",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731a61a0637f0d90538a950303",
+      "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq",
+      "durationMs": 179000,
+      "playedAt": "2026-08-28T01:08:10.204Z"
+    },
+    {
+      "name": "Havana (feat. Young Thug)",
+      "artists": [
+        "Camila Cabello",
+        "Young Thug"
+      ],
+      "album": "Camila",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273652c9f55dfbf3cfe1800daea",
+      "url": "https://open.spotify.com/track/1rfofaqEpACxVEHIZBJe6W",
+      "durationMs": 217308,
+      "playedAt": "2026-08-28T01:05:14.210Z"
     }
   ],
   "topArtists": [
