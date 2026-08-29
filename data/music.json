@@ -1,130 +1,125 @@
 {
-  "updatedAt": "2026-08-28T17:34:19.631Z",
+  "updatedAt": "2026-08-29T01:25:20.081Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Banana Pancakes",
+      "name": "Only Love (feat. Pa Salieu)",
       "artists": [
-        "Jack Johnson"
+        "Ezra Collective",
+        "Pa Salieu"
       ],
-      "album": "In Between Dreams",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273628dba01c669d89586967dc5",
-      "url": "https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM",
-      "durationMs": 191906,
-      "playedAt": "2026-08-28T16:49:45.956Z"
+      "album": "Only Love (feat. Pa Salieu)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ab257f642f9b731a38105dde",
+      "url": "https://open.spotify.com/track/3IDekoiX1w61kjN0iWKciq",
+      "durationMs": 202545,
+      "playedAt": "2026-08-29T00:04:42.501Z"
     },
     {
-      "name": "More Than A Woman - SG's Paradise Edit",
+      "name": "Well Organised (feat. Lila Iké)",
       "artists": [
-        "Bee Gees",
-        "SG Lewis"
+        "Ezra Collective",
+        "Lila Iké"
       ],
-      "album": "More Than A Woman (SG's Paradise Edit)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bd8e2af160f4664d666c4132",
-      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J",
-      "durationMs": 357936,
-      "playedAt": "2026-08-28T16:46:37.061Z"
+      "album": "Well Organised (feat. Lila Iké)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738ebbc69f826258536dced809",
+      "url": "https://open.spotify.com/track/6bYQZWdJMKimn0VTXhMwd6",
+      "durationMs": 212289,
+      "playedAt": "2026-08-29T00:01:23.001Z"
     },
     {
-      "name": "More Than A Woman - SG's Paradise Edit",
+      "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
       "artists": [
-        "Bee Gees",
-        "SG Lewis"
+        "Ezra Collective",
+        "Yazmin Lacey"
       ],
-      "album": "More Than A Woman (SG's Paradise Edit)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bd8e2af160f4664d666c4132",
-      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J",
-      "durationMs": 357936,
-      "playedAt": "2026-08-28T02:43:45.964Z"
+      "album": "Dance, No One's Watching",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8e913bf1a4776a5fe27ce28",
+      "url": "https://open.spotify.com/track/2mxQ3VWWk47YCo9RB2fkOk",
+      "durationMs": 239306,
+      "playedAt": "2026-08-28T23:57:53.701Z"
     },
     {
-      "name": "Sunshine",
+      "name": "No One's Watching Me (feat. Olivia Dean)",
       "artists": [
-        "Jungle"
+        "Ezra Collective",
+        "Olivia Dean"
       ],
-      "album": "Sunshine",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273775f28b18db542ae81fafee3",
-      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8",
-      "durationMs": 191003,
-      "playedAt": "2026-08-28T01:38:31.375Z"
+      "album": "Dance, No One's Watching",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8e913bf1a4776a5fe27ce28",
+      "url": "https://open.spotify.com/track/70VTTe96UJ9QUyFYbsnW5V",
+      "durationMs": 262306,
+      "playedAt": "2026-08-28T23:25:31.710Z"
     },
     {
-      "name": "Don't Stop 'Til You Get Enough",
+      "name": "No One's Watching Me (feat. Olivia Dean)",
       "artists": [
-        "Michael Jackson"
+        "Ezra Collective",
+        "Olivia Dean"
       ],
-      "album": "Off the Wall",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
-      "url": "https://open.spotify.com/track/46eu3SBuFCXWsPT39Yg3tJ",
-      "durationMs": 364441,
-      "playedAt": "2026-08-28T01:35:23.375Z"
+      "album": "Dance, No One's Watching",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8e913bf1a4776a5fe27ce28",
+      "url": "https://open.spotify.com/track/70VTTe96UJ9QUyFYbsnW5V",
+      "durationMs": 262306,
+      "playedAt": "2026-08-28T22:31:12.720Z"
     },
     {
-      "name": "Everywhere - 2017 Remaster",
+      "name": "Lose Yourself to Dance (feat. Pharrell Williams)",
       "artists": [
-        "Fleetwood Mac"
+        "Daft Punk",
+        "Pharrell Williams"
       ],
-      "album": "Tango In the Night (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aaba065944cd82a6f15c86b6",
-      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq",
-      "durationMs": 226653,
-      "playedAt": "2026-08-28T01:26:14.782Z"
+      "album": "Random Access Memories",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d22198f946d9b32f25fc263",
+      "url": "https://open.spotify.com/track/7tvz58QxYKRLDpGn53i8TG",
+      "durationMs": 353867,
+      "playedAt": "2026-08-28T22:26:53.306Z"
     },
     {
-      "name": "I Just Might",
+      "name": "Beggin - Original Version",
       "artists": [
-        "Bruno Mars"
+        "Madcon"
       ],
-      "album": "The Romantic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395",
-      "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN",
-      "durationMs": 212973,
-      "playedAt": "2026-08-28T01:22:31.130Z"
+      "album": "Beggin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273065650b72a110b1c120f355d",
+      "url": "https://open.spotify.com/track/7eXrGBrl1mBKhxlWX0IoOQ",
+      "durationMs": 218706,
+      "playedAt": "2026-08-28T22:21:02.592Z"
     },
     {
-      "name": "Hard Times",
+      "name": "Just Wanna Chill",
       "artists": [
-        "Paramore"
+        "Dominant"
       ],
-      "album": "After Laughter",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dbd83e179619408e5d05cc99",
-      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh",
-      "durationMs": 182693,
-      "playedAt": "2026-08-28T01:19:01.183Z"
+      "album": "Warm Reminiscence",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea4c39d194eae2b3ff32ea99",
+      "url": "https://open.spotify.com/track/1kkJBPf6QR5s5MZNLFGEcd",
+      "durationMs": 231698,
+      "playedAt": "2026-08-28T21:12:29.341Z"
     },
     {
-      "name": "Better Than Ever",
+      "name": "East Healey Street",
       "artists": [
-        "Video Age"
+        "Matt Quentin"
       ],
-      "album": "Away From The Castle",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731ad860620284a842e9f92df0",
-      "url": "https://open.spotify.com/track/5fUKZY3f9BGGRbW22toY19",
-      "durationMs": 236188,
-      "playedAt": "2026-08-28T01:16:01.507Z"
+      "album": "East Healey Street",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737e408d7ae598ef021ba9854a",
+      "url": "https://open.spotify.com/track/5rhK2aI1xZQWQ8sMocI6y2",
+      "durationMs": 163635,
+      "playedAt": "2026-08-28T21:08:40.742Z"
     },
     {
-      "name": "Be My Lover",
+      "name": "Night Shift",
       "artists": [
-        "La Bouche"
+        "Noflik"
       ],
-      "album": "Sweet Dreams",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d4c3788166b9c4de0921f6b0",
-      "url": "https://open.spotify.com/track/3YB6nCSuFqNiqOvPtAPK9X",
-      "durationMs": 241133,
-      "playedAt": "2026-08-28T01:12:08.346Z"
+      "album": "Night Shift",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733b02233e2fde6f47ceb7de90",
+      "url": "https://open.spotify.com/track/6VdE9gYhKxz8Gct9mochHs",
+      "durationMs": 100949,
+      "playedAt": "2026-08-28T21:06:00.043Z"
     }
   ],
   "topArtists": [
-    {
-      "name": "E-Type",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
-      "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
-      "genres": [
-        "eurodance",
-        "europop"
-      ]
-    },
     {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
@@ -133,6 +128,15 @@
         "lo-fi",
         "lo-fi beats",
         "jazz beats"
+      ]
+    },
+    {
+      "name": "E-Type",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
+      "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
+      "genres": [
+        "eurodance",
+        "europop"
       ]
     },
     {
