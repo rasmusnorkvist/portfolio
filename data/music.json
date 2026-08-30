@@ -1,121 +1,117 @@
 {
-  "updatedAt": "2026-08-30T16:53:35.612Z",
+  "updatedAt": "2026-08-30T19:37:17.505Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Your Latest Trick - Remastered 1996",
+      "name": "På andra sidan bron",
       "artists": [
-        "Dire Straits"
+        "Peter LeMarc"
       ],
-      "album": "Brothers In Arms (Remastered 1996)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27358c4e9c84ece7d31f51636f3",
-      "url": "https://open.spotify.com/track/2oKOGvdJ5BQEiguaSQJJpc",
-      "durationMs": 389666,
-      "playedAt": "2026-08-30T00:08:42.105Z"
+      "album": "Det finns inget bättre",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733ec130c06ae2a96540e237b9",
+      "url": "https://open.spotify.com/track/46V3D6MIwEaE5s3JiKY0vo",
+      "durationMs": 227173,
+      "playedAt": "2026-08-30T19:15:32.201Z"
     },
     {
-      "name": "Kiss from a Rose",
+      "name": "(Jag ska) Gå hel ur det här",
       "artists": [
-        "Seal"
+        "Peter LeMarc"
       ],
-      "album": "Seal",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27333d4866ed921300e8ef50808",
-      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh",
-      "durationMs": 288426,
-      "playedAt": "2026-08-30T00:01:49.874Z"
+      "album": "Peter LeMarc",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273476cd04baf56b0a60791a2ce",
+      "url": "https://open.spotify.com/track/2FCKGQUrC6UlULhMpyur0M",
+      "durationMs": 309893,
+      "playedAt": "2026-08-30T19:11:48.002Z"
     },
     {
-      "name": "Give Me One Reason",
+      "name": "Lita aldrig på en man",
       "artists": [
-        "Tracy Chapman"
+        "Svante Thuresson",
+        "Peter LeMarc"
       ],
-      "album": "New Beginning",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736b38571f15487588ed53032f",
-      "url": "https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY",
-      "durationMs": 268333,
-      "playedAt": "2026-08-29T23:57:04.528Z"
+      "album": "En Salig Man",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a110c9a1773f9f5da65fd523",
+      "url": "https://open.spotify.com/track/0K8Sy2Ej9KuCcwc3mAdRpx",
+      "durationMs": 162880,
+      "playedAt": "2026-08-30T19:06:41.102Z"
     },
     {
-      "name": "Ain't No Sunshine",
+      "name": "Handens fem fingrar",
       "artists": [
-        "Bill Withers"
+        "Peter LeMarc"
       ],
-      "album": "Just As I Am",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f64b9ea8a8a409c6af86134f",
-      "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt",
-      "durationMs": 126458,
-      "playedAt": "2026-08-29T23:51:50.443Z"
+      "album": "Sjutton sånger - LeMarc sjunger LeMarc",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273feb9aad493c089e12e3e28b0",
+      "url": "https://open.spotify.com/track/4migrLu6mRQqQLHp4f7iYo",
+      "durationMs": 247933,
+      "playedAt": "2026-08-30T19:04:01.216Z"
     },
     {
-      "name": "Stop Draggin' My Heart Around (with Tom Petty and The Heartbreakers) - 2016 Remaster",
+      "name": "Evelina",
       "artists": [
-        "Stevie Nicks",
-        "Tom Petty and the Heartbreakers"
+        "Peter LeMarc"
       ],
-      "album": "Bella Donna (2016 Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273af14d74d5e308ce2f3ec22f8",
-      "url": "https://open.spotify.com/track/66LhCsc06aTa2Ig7iYPDSP",
-      "durationMs": 244440,
-      "playedAt": "2026-08-29T23:49:47.016Z"
+      "album": "Sjutton sånger - LeMarc sjunger LeMarc",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273feb9aad493c089e12e3e28b0",
+      "url": "https://open.spotify.com/track/7nitoDrAI6EnYaLBFtIGko",
+      "durationMs": 259226,
+      "playedAt": "2026-08-30T18:59:56.301Z"
     },
     {
-      "name": "Lady Writer",
+      "name": "Nio broars väg",
       "artists": [
-        "Dire Straits"
+        "Peter LeMarc"
       ],
-      "album": "Communiqué",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1f7f1d5898b28c1ce3f4947",
-      "url": "https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt",
-      "durationMs": 224666,
-      "playedAt": "2026-08-29T23:45:45.543Z"
+      "album": "Nio broars väg",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d51a4584e42b8f789ad63ab9",
+      "url": "https://open.spotify.com/track/0ovxGNTN9vWivxI8pPf8WP",
+      "durationMs": 280133,
+      "playedAt": "2026-08-30T18:49:59.922Z"
     },
     {
-      "name": "Water Of Love",
+      "name": "Ett av dom sätt",
       "artists": [
-        "Dire Straits"
+        "Peter LeMarc"
       ],
-      "album": "Dire Straits",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8",
-      "url": "https://open.spotify.com/track/62JvDbmEtwIU3m4LhiG6Ah",
-      "durationMs": 325133,
-      "playedAt": "2026-08-29T23:42:03.912Z"
+      "album": "Sången dom spelar när filmen är slut",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f3257119f34c96ac9eb01ec",
+      "url": "https://open.spotify.com/track/16xd1M5MtH2a3PsMusOyM1",
+      "durationMs": 156040,
+      "playedAt": "2026-08-30T18:45:22.708Z"
     },
     {
-      "name": "Layla - Acoustic Live",
+      "name": "Little Willie John - Version",
       "artists": [
-        "Eric Clapton"
+        "Peter LeMarc"
       ],
-      "album": "Unplugged (Live)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e36eb543ce3731ac913845c",
-      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo",
-      "durationMs": 289026,
-      "playedAt": "2026-08-29T23:36:41.780Z"
+      "album": "LeMarc - Klassiker",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3593a634876c6e748fa3424",
+      "url": "https://open.spotify.com/track/7M57AuAeA5M4lnWqpUGRIR",
+      "durationMs": 330240,
+      "playedAt": "2026-08-30T18:42:49.719Z"
     },
     {
-      "name": "Children Of The Internet - Ezra Collective Remix",
+      "name": "Weather With You",
       "artists": [
-        "Future Utopia",
-        "Ezra Collective",
-        "Dave",
-        "Es Devlin"
+        "Crowded House"
       ],
-      "album": "Children Of The Internet (Remixes)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352b047b3959d8a80fb52ad5c",
-      "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X",
-      "durationMs": 353346,
-      "playedAt": "2026-08-29T23:31:45.934Z"
+      "album": "Woodface",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735f9e9291ab85c1e8fa88143f",
+      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r",
+      "durationMs": 224466,
+      "playedAt": "2026-08-30T18:36:30.417Z"
     },
     {
-      "name": "Only Love (feat. Pa Salieu)",
+      "name": "You're Gonna Look Good in Blues",
       "artists": [
-        "Ezra Collective",
-        "Pa Salieu"
+        "Tony Joe White"
       ],
-      "album": "Only Love (feat. Pa Salieu)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ab257f642f9b731a38105dde",
-      "url": "https://open.spotify.com/track/3IDekoiX1w61kjN0iWKciq",
-      "durationMs": 202545,
-      "playedAt": "2026-08-29T00:04:42.501Z"
+      "album": "Closer to the Truth",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273caa30e33bc578ddd1bb7bc37",
+      "url": "https://open.spotify.com/track/5U0D0HkU0AoGTLRkUTOVV5",
+      "durationMs": 316360,
+      "playedAt": "2026-08-30T18:32:37.900Z"
     }
   ],
   "topArtists": [
@@ -150,12 +146,6 @@
       "genres": []
     },
     {
-      "name": "Paul Simon",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebddc148cfa465c2065846c636",
-      "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI",
-      "genres": []
-    },
-    {
       "name": "Dina Ögon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
       "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
@@ -165,6 +155,12 @@
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
+      "genres": []
+    },
+    {
+      "name": "Peter LeMarc",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
+      "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
       "genres": []
     }
   ],
