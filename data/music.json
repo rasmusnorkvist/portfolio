@@ -1,7 +1,110 @@
 {
-  "updatedAt": "2026-08-29T22:28:01.055Z",
+  "updatedAt": "2026-08-30T00:34:52.753Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Your Latest Trick - Remastered 1996",
+      "artists": [
+        "Dire Straits"
+      ],
+      "album": "Brothers In Arms (Remastered 1996)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27358c4e9c84ece7d31f51636f3",
+      "url": "https://open.spotify.com/track/2oKOGvdJ5BQEiguaSQJJpc",
+      "durationMs": 389666,
+      "playedAt": "2026-08-30T00:08:42.105Z"
+    },
+    {
+      "name": "Kiss from a Rose",
+      "artists": [
+        "Seal"
+      ],
+      "album": "Seal",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27333d4866ed921300e8ef50808",
+      "url": "https://open.spotify.com/track/3YKptz29AsOlm7WAVnztBh",
+      "durationMs": 288426,
+      "playedAt": "2026-08-30T00:01:49.874Z"
+    },
+    {
+      "name": "Give Me One Reason",
+      "artists": [
+        "Tracy Chapman"
+      ],
+      "album": "New Beginning",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736b38571f15487588ed53032f",
+      "url": "https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY",
+      "durationMs": 268333,
+      "playedAt": "2026-08-29T23:57:04.528Z"
+    },
+    {
+      "name": "Ain't No Sunshine",
+      "artists": [
+        "Bill Withers"
+      ],
+      "album": "Just As I Am",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f64b9ea8a8a409c6af86134f",
+      "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt",
+      "durationMs": 126458,
+      "playedAt": "2026-08-29T23:51:50.443Z"
+    },
+    {
+      "name": "Stop Draggin' My Heart Around (with Tom Petty and The Heartbreakers) - 2016 Remaster",
+      "artists": [
+        "Stevie Nicks",
+        "Tom Petty and the Heartbreakers"
+      ],
+      "album": "Bella Donna (2016 Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273af14d74d5e308ce2f3ec22f8",
+      "url": "https://open.spotify.com/track/66LhCsc06aTa2Ig7iYPDSP",
+      "durationMs": 244440,
+      "playedAt": "2026-08-29T23:49:47.016Z"
+    },
+    {
+      "name": "Lady Writer",
+      "artists": [
+        "Dire Straits"
+      ],
+      "album": "Communiqué",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1f7f1d5898b28c1ce3f4947",
+      "url": "https://open.spotify.com/track/2RBcYkonAofm0rYycVrCGt",
+      "durationMs": 224666,
+      "playedAt": "2026-08-29T23:45:45.543Z"
+    },
+    {
+      "name": "Water Of Love",
+      "artists": [
+        "Dire Straits"
+      ],
+      "album": "Dire Straits",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8",
+      "url": "https://open.spotify.com/track/62JvDbmEtwIU3m4LhiG6Ah",
+      "durationMs": 325133,
+      "playedAt": "2026-08-29T23:42:03.912Z"
+    },
+    {
+      "name": "Layla - Acoustic Live",
+      "artists": [
+        "Eric Clapton"
+      ],
+      "album": "Unplugged (Live)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e36eb543ce3731ac913845c",
+      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo",
+      "durationMs": 289026,
+      "playedAt": "2026-08-29T23:36:41.780Z"
+    },
+    {
+      "name": "Children Of The Internet - Ezra Collective Remix",
+      "artists": [
+        "Future Utopia",
+        "Ezra Collective",
+        "Dave",
+        "Es Devlin"
+      ],
+      "album": "Children Of The Internet (Remixes)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352b047b3959d8a80fb52ad5c",
+      "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X",
+      "durationMs": 353346,
+      "playedAt": "2026-08-29T23:31:45.934Z"
+    },
     {
       "name": "Only Love (feat. Pa Salieu)",
       "artists": [
@@ -13,110 +116,6 @@
       "url": "https://open.spotify.com/track/3IDekoiX1w61kjN0iWKciq",
       "durationMs": 202545,
       "playedAt": "2026-08-29T00:04:42.501Z"
-    },
-    {
-      "name": "Well Organised (feat. Lila Iké)",
-      "artists": [
-        "Ezra Collective",
-        "Lila Iké"
-      ],
-      "album": "Well Organised (feat. Lila Iké)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738ebbc69f826258536dced809",
-      "url": "https://open.spotify.com/track/6bYQZWdJMKimn0VTXhMwd6",
-      "durationMs": 212289,
-      "playedAt": "2026-08-29T00:01:23.001Z"
-    },
-    {
-      "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
-      "artists": [
-        "Ezra Collective",
-        "Yazmin Lacey"
-      ],
-      "album": "Dance, No One's Watching",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8e913bf1a4776a5fe27ce28",
-      "url": "https://open.spotify.com/track/2mxQ3VWWk47YCo9RB2fkOk",
-      "durationMs": 239306,
-      "playedAt": "2026-08-28T23:57:53.701Z"
-    },
-    {
-      "name": "No One's Watching Me (feat. Olivia Dean)",
-      "artists": [
-        "Ezra Collective",
-        "Olivia Dean"
-      ],
-      "album": "Dance, No One's Watching",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8e913bf1a4776a5fe27ce28",
-      "url": "https://open.spotify.com/track/70VTTe96UJ9QUyFYbsnW5V",
-      "durationMs": 262306,
-      "playedAt": "2026-08-28T23:25:31.710Z"
-    },
-    {
-      "name": "No One's Watching Me (feat. Olivia Dean)",
-      "artists": [
-        "Ezra Collective",
-        "Olivia Dean"
-      ],
-      "album": "Dance, No One's Watching",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8e913bf1a4776a5fe27ce28",
-      "url": "https://open.spotify.com/track/70VTTe96UJ9QUyFYbsnW5V",
-      "durationMs": 262306,
-      "playedAt": "2026-08-28T22:31:12.720Z"
-    },
-    {
-      "name": "Lose Yourself to Dance (feat. Pharrell Williams)",
-      "artists": [
-        "Daft Punk",
-        "Pharrell Williams"
-      ],
-      "album": "Random Access Memories",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d22198f946d9b32f25fc263",
-      "url": "https://open.spotify.com/track/7tvz58QxYKRLDpGn53i8TG",
-      "durationMs": 353867,
-      "playedAt": "2026-08-28T22:26:53.306Z"
-    },
-    {
-      "name": "Beggin - Original Version",
-      "artists": [
-        "Madcon"
-      ],
-      "album": "Beggin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273065650b72a110b1c120f355d",
-      "url": "https://open.spotify.com/track/7eXrGBrl1mBKhxlWX0IoOQ",
-      "durationMs": 218706,
-      "playedAt": "2026-08-28T22:21:02.592Z"
-    },
-    {
-      "name": "Just Wanna Chill",
-      "artists": [
-        "Dominant"
-      ],
-      "album": "Warm Reminiscence",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea4c39d194eae2b3ff32ea99",
-      "url": "https://open.spotify.com/track/1kkJBPf6QR5s5MZNLFGEcd",
-      "durationMs": 231698,
-      "playedAt": "2026-08-28T21:12:29.341Z"
-    },
-    {
-      "name": "East Healey Street",
-      "artists": [
-        "Matt Quentin"
-      ],
-      "album": "East Healey Street",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737e408d7ae598ef021ba9854a",
-      "url": "https://open.spotify.com/track/5rhK2aI1xZQWQ8sMocI6y2",
-      "durationMs": 163635,
-      "playedAt": "2026-08-28T21:08:40.742Z"
-    },
-    {
-      "name": "Night Shift",
-      "artists": [
-        "Noflik"
-      ],
-      "album": "Night Shift",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733b02233e2fde6f47ceb7de90",
-      "url": "https://open.spotify.com/track/6VdE9gYhKxz8Gct9mochHs",
-      "durationMs": 100949,
-      "playedAt": "2026-08-28T21:06:00.043Z"
     }
   ],
   "topArtists": [
