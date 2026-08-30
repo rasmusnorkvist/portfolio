@@ -1,7 +1,59 @@
 {
-  "updatedAt": "2026-08-30T19:37:17.505Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-30T22:21:04.133Z",
+  "nowPlaying": {
+    "name": "Piano Concerto No. 2 in F Major, Op. 102: II. Andante",
+    "artists": [
+      "Dmitri Shostakovich",
+      "Dmitri Shostakovich Jr.",
+      "Maxim Shostakovich",
+      "I Musici de Montréal"
+    ],
+    "album": "An Introduction to Dimitri Shostakovich",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734a655a16d06c23a0c8c12453",
+    "url": "https://open.spotify.com/track/4TbChby1lqtDCUjOtUVPqT",
+    "durationMs": 361813,
+    "isPlaying": true,
+    "progressMs": 3513
+  },
   "recentlyPlayed": [
+    {
+      "name": "The Second Waltz, Op. 99a",
+      "artists": [
+        "Dmitri Shostakovich",
+        "André Rieu",
+        "Johann Strauss Orchestra"
+      ],
+      "album": "Strauss & Co.",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731e0db5b97c5ca3a9201e6ff7",
+      "url": "https://open.spotify.com/track/57KhrRvwNqwXNDdxfU3nqG",
+      "durationMs": 222586,
+      "playedAt": "2026-08-30T22:17:53.049Z"
+    },
+    {
+      "name": "Jazz Suite No. 2: VI. Waltz 2",
+      "artists": [
+        "Dmitri Shostakovich",
+        "Russian State Symphony Orchestra",
+        "Dmitry Yablonsky"
+      ],
+      "album": "Shostakovich: Orchestral Works",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27368365e89718e8695d1e0aee3",
+      "url": "https://open.spotify.com/track/0ijdPzomz42NxNGHxcrha1",
+      "durationMs": 193600,
+      "playedAt": "2026-08-30T22:14:13.451Z"
+    },
+    {
+      "name": "Han har dig - Live i Uppsala 1994",
+      "artists": [
+        "Eldkvarn",
+        "Peter LeMarc"
+      ],
+      "album": "Tempel av alkohol",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737dc78ca656393d8788cd38cb",
+      "url": "https://open.spotify.com/track/42DHBf9bGhGlcwY0PWXkTa",
+      "durationMs": 173160,
+      "playedAt": "2026-08-30T22:06:25.581Z"
+    },
     {
       "name": "På andra sidan bron",
       "artists": [
@@ -79,39 +131,6 @@
       "url": "https://open.spotify.com/track/16xd1M5MtH2a3PsMusOyM1",
       "durationMs": 156040,
       "playedAt": "2026-08-30T18:45:22.708Z"
-    },
-    {
-      "name": "Little Willie John - Version",
-      "artists": [
-        "Peter LeMarc"
-      ],
-      "album": "LeMarc - Klassiker",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3593a634876c6e748fa3424",
-      "url": "https://open.spotify.com/track/7M57AuAeA5M4lnWqpUGRIR",
-      "durationMs": 330240,
-      "playedAt": "2026-08-30T18:42:49.719Z"
-    },
-    {
-      "name": "Weather With You",
-      "artists": [
-        "Crowded House"
-      ],
-      "album": "Woodface",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735f9e9291ab85c1e8fa88143f",
-      "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r",
-      "durationMs": 224466,
-      "playedAt": "2026-08-30T18:36:30.417Z"
-    },
-    {
-      "name": "You're Gonna Look Good in Blues",
-      "artists": [
-        "Tony Joe White"
-      ],
-      "album": "Closer to the Truth",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273caa30e33bc578ddd1bb7bc37",
-      "url": "https://open.spotify.com/track/5U0D0HkU0AoGTLRkUTOVV5",
-      "durationMs": 316360,
-      "playedAt": "2026-08-30T18:32:37.900Z"
     }
   ],
   "topArtists": [
