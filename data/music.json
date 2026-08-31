@@ -1,134 +1,127 @@
 {
-  "updatedAt": "2026-08-31T06:36:56.575Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-08-31T14:47:48.108Z",
+  "nowPlaying": {
+    "name": "Ända till september",
+    "artists": [
+      "Peter LeMarc"
+    ],
+    "album": "Det finns inget bättre",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733ec130c06ae2a96540e237b9",
+    "url": "https://open.spotify.com/track/57ZejRI9n2GOJXfXAplEsv",
+    "durationMs": 311080,
+    "isPlaying": true,
+    "progressMs": 76290
+  },
   "recentlyPlayed": [
     {
-      "name": "String Quartet No. 9 in E-Flat Major, Op. 117: II. Adagio",
+      "name": "Små simpla ting",
       "artists": [
-        "Dmitri Shostakovich",
-        "Carducci String Quartet"
+        "Peter LeMarc"
       ],
-      "album": "Shostakovich Quartets 9 & 15",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736ad77f609878a3ad526a2d0a",
-      "url": "https://open.spotify.com/track/3U7fKJgWx9uV7CZNvwrpBi",
-      "durationMs": 247666,
-      "playedAt": "2026-08-31T04:08:29.515Z"
+      "album": "Nio broars väg",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d51a4584e42b8f789ad63ab9",
+      "url": "https://open.spotify.com/track/7vdBGRycbARfgX7MLZrGu8",
+      "durationMs": 211106,
+      "playedAt": "2026-08-31T14:46:35.515Z"
     },
     {
-      "name": "String Quartet No. 9 in E-Flat Major, Op. 117: I. Moderato con moto",
+      "name": "Det finns inget bättre - Version",
       "artists": [
-        "Dmitri Shostakovich",
-        "Carducci String Quartet"
+        "Peter LeMarc"
       ],
-      "album": "Shostakovich Quartets 9 & 15",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736ad77f609878a3ad526a2d0a",
-      "url": "https://open.spotify.com/track/43FQZEkqgQJZ6HgBweDYiM",
-      "durationMs": 262333,
-      "playedAt": "2026-08-31T04:04:21.904Z"
+      "album": "LeMarc - Klassiker",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3593a634876c6e748fa3424",
+      "url": "https://open.spotify.com/track/1WlaAhd0uuu9By6aYzi3ni",
+      "durationMs": 216893,
+      "playedAt": "2026-08-31T14:43:07.406Z"
     },
     {
-      "name": "Poulenc: Promenades, FP 24: IV. En bateau",
+      "name": "Sången dom spelar när filmen är slut - Version",
       "artists": [
-        "Francis Poulenc",
-        "Gabriel Tacchino"
+        "Peter LeMarc"
       ],
-      "album": "Ocean Breezes - Music for an Offshore Voyage",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273664c3f37d1860a4d7fb6e9c1",
-      "url": "https://open.spotify.com/track/3CgLe85bLisJGSW8mIqeHH",
-      "durationMs": 56893,
-      "playedAt": "2026-08-31T03:58:28.914Z"
+      "album": "LeMarc - Klassiker",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3593a634876c6e748fa3424",
+      "url": "https://open.spotify.com/track/1IQEuk3ZLGfCkyeIeXR1V6",
+      "durationMs": 291466,
+      "playedAt": "2026-08-31T14:39:33.353Z"
     },
     {
-      "name": "Berners: Suite from The Triumph of Neptune: VII. Hornpipe. Allegro molto",
+      "name": "Håll om mej!",
       "artists": [
-        "Lord Berners",
-        "Royal Liverpool Philharmonic Orchestra",
-        "Barry Wordsworth"
+        "Peter LeMarc"
       ],
-      "album": "Ocean Breezes - Music for an Offshore Voyage",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273664c3f37d1860a4d7fb6e9c1",
-      "url": "https://open.spotify.com/track/1giyYss0WdlfCz9illG6Zh",
-      "durationMs": 98973,
-      "playedAt": "2026-08-31T03:32:10.137Z"
+      "album": "Peter LeMarc",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273476cd04baf56b0a60791a2ce",
+      "url": "https://open.spotify.com/track/2KqY5Bvi0l2wNyWYpzzrDr",
+      "durationMs": 232946,
+      "playedAt": "2026-08-31T14:19:50.401Z"
     },
     {
-      "name": "Walton: Façade: III. Mariner Man",
+      "name": "Starkare än ord",
       "artists": [
-        "William Walton",
-        "Sir Neville Marriner",
-        "Academy of St. Martin in the Fields",
-        "Michael Flanders"
+        "Peter LeMarc"
       ],
-      "album": "Ocean Breezes - Music for an Offshore Voyage",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273664c3f37d1860a4d7fb6e9c1",
-      "url": "https://open.spotify.com/track/60rSfjdmjTysH2opNip2wg",
-      "durationMs": 42506,
-      "playedAt": "2026-08-31T03:30:26.093Z"
+      "album": "LeMarc - Klassiker",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3593a634876c6e748fa3424",
+      "url": "https://open.spotify.com/track/1mxfonIMABwtNxmseLa87z",
+      "durationMs": 205480,
+      "playedAt": "2026-08-31T14:16:00.484Z"
     },
     {
-      "name": "Traditional: Vem kan segla förutan vind (Who Can Sail in a Dead Calm) [Choral Arr. Agnestig]",
+      "name": "Evelina",
       "artists": [
-        "Traditional",
-        "Tapiola Choir",
-        "Katariina Viinikainen",
-        "Erkki Pohjola"
+        "Peter LeMarc"
       ],
-      "album": "Ocean Breezes - Music for an Offshore Voyage",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273664c3f37d1860a4d7fb6e9c1",
-      "url": "https://open.spotify.com/track/3OuAarWAV6UZHQAq4BVtkw",
-      "durationMs": 89800,
-      "playedAt": "2026-08-31T03:29:43.590Z"
+      "album": "Sjutton sånger - LeMarc sjunger LeMarc",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273feb9aad493c089e12e3e28b0",
+      "url": "https://open.spotify.com/track/7nitoDrAI6EnYaLBFtIGko",
+      "durationMs": 259226,
+      "playedAt": "2026-08-31T14:12:38.236Z"
     },
     {
-      "name": "Adam & Drigo: Le corsaire: Pas de deux: Variation II. Allegro",
+      "name": "Marias kyrka",
       "artists": [
-        "Adolphe Adam",
-        "Riccardo Drigo",
-        "London Festival Ballet Orchestra",
-        "Terence Kern"
+        "Peter LeMarc"
       ],
-      "album": "Ocean Breezes - Music for an Offshore Voyage",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273664c3f37d1860a4d7fb6e9c1",
-      "url": "https://open.spotify.com/track/38wVcu17dsJPS4uvB93XEn",
-      "durationMs": 71760,
-      "playedAt": "2026-08-31T02:15:48.736Z"
+      "album": "Sjutton sånger - LeMarc sjunger LeMarc",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273feb9aad493c089e12e3e28b0",
+      "url": "https://open.spotify.com/track/3VjuMdlXGbo9JD8D7hYNrY",
+      "durationMs": 277066,
+      "playedAt": "2026-08-31T14:08:21.807Z"
     },
     {
-      "name": "Bartók: Mikrokosmos, Sz. 107, Book V: No. 125, Boating",
+      "name": "Älskad från första stund",
       "artists": [
-        "Béla Bartók",
-        "Dezsö Ranki"
+        "Peter LeMarc"
       ],
-      "album": "Ocean Breezes - Music for an Offshore Voyage",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273664c3f37d1860a4d7fb6e9c1",
-      "url": "https://open.spotify.com/track/6CiijH1BtIneO3wnD6he0y",
-      "durationMs": 86840,
-      "playedAt": "2026-08-31T02:14:36.831Z"
+      "album": "Sjutton sånger - LeMarc sjunger LeMarc",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273feb9aad493c089e12e3e28b0",
+      "url": "https://open.spotify.com/track/7tzxRtOfYbzPIKll2jGrmX",
+      "durationMs": 314866,
+      "playedAt": "2026-08-31T14:03:47.606Z"
     },
     {
-      "name": "Barber: Hermit Songs, Op. 29: No. 6, Sea-Snatch",
+      "name": "Senast jag såg änglarna",
       "artists": [
-        "Samuel Barber",
-        "Sanford Sylvan",
-        "David Breitman"
+        "Peter LeMarc"
       ],
-      "album": "Ocean Breezes - Music for an Offshore Voyage",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273664c3f37d1860a4d7fb6e9c1",
-      "url": "https://open.spotify.com/track/4riMPwUFvL1gLaY4TKHRIX",
-      "durationMs": 41800,
-      "playedAt": "2026-08-31T02:13:09.831Z"
+      "album": "Det finns inget bättre",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733ec130c06ae2a96540e237b9",
+      "url": "https://open.spotify.com/track/4UndKMqH7nOBHB17cOQq9b",
+      "durationMs": 370720,
+      "playedAt": "2026-08-31T13:58:35.736Z"
     },
     {
-      "name": "Satie: Sports et divertissements: No. 9, Le bain de mer",
+      "name": "Vaggsång kl.4",
       "artists": [
-        "Erik Satie",
-        "Anne Queffélec"
+        "Peter LeMarc"
       ],
-      "album": "Ocean Breezes - Music for an Offshore Voyage",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273664c3f37d1860a4d7fb6e9c1",
-      "url": "https://open.spotify.com/track/2sKfYoMLzwplu9JnggBx5Z",
-      "durationMs": 32333,
-      "playedAt": "2026-08-31T02:12:28.334Z"
+      "album": "Välkommen hem",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f2b563dc27fb585dd4e1b7f4",
+      "url": "https://open.spotify.com/track/3OkynWM8vcYnt9mkIgTtlN",
+      "durationMs": 145000,
+      "playedAt": "2026-08-31T13:52:28.058Z"
     }
   ],
   "topArtists": [
@@ -163,6 +156,12 @@
       "genres": []
     },
     {
+      "name": "Peter LeMarc",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
+      "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
+      "genres": []
+    },
+    {
       "name": "Dina Ögon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
       "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
@@ -172,12 +171,6 @@
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": []
-    },
-    {
-      "name": "Peter LeMarc",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
-      "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
       "genres": []
     }
   ],
