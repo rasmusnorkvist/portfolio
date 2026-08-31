@@ -1,21 +1,46 @@
 {
-  "updatedAt": "2026-08-30T22:21:04.133Z",
-  "nowPlaying": {
-    "name": "Piano Concerto No. 2 in F Major, Op. 102: II. Andante",
-    "artists": [
-      "Dmitri Shostakovich",
-      "Dmitri Shostakovich Jr.",
-      "Maxim Shostakovich",
-      "I Musici de Montréal"
-    ],
-    "album": "An Introduction to Dimitri Shostakovich",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734a655a16d06c23a0c8c12453",
-    "url": "https://open.spotify.com/track/4TbChby1lqtDCUjOtUVPqT",
-    "durationMs": 361813,
-    "isPlaying": true,
-    "progressMs": 3513
-  },
+  "updatedAt": "2026-08-31T00:44:04.273Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
+      "artists": [
+        "Wolfgang Amadeus Mozart",
+        "Lang Lang"
+      ],
+      "album": "Mozart: Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\"",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739221a5273e515aa555e3fddf",
+      "url": "https://open.spotify.com/track/0iGDZom5WctL4eSQogMhMp",
+      "durationMs": 291666,
+      "playedAt": "2026-08-30T22:33:30.324Z"
+    },
+    {
+      "name": "Piano Concerto No. 2 in F Major, Op. 102: II. Andante",
+      "artists": [
+        "Dmitri Shostakovich",
+        "Dmitri Shostakovich Jr.",
+        "Maxim Shostakovich",
+        "I Musici de Montréal"
+      ],
+      "album": "An Introduction to Dimitri Shostakovich",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734a655a16d06c23a0c8c12453",
+      "url": "https://open.spotify.com/track/4TbChby1lqtDCUjOtUVPqT",
+      "durationMs": 361813,
+      "playedAt": "2026-08-30T22:27:03.146Z"
+    },
+    {
+      "name": "Shostakovich / Arr. Atovmyan: Suite from the Gadfly, Op. 97a: VIII. Romance",
+      "artists": [
+        "Dmitri Shostakovich",
+        "Tasmin Little",
+        "Piers Lane"
+      ],
+      "album": "Virtuoso Violin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27316904029c31ca50916e3116a",
+      "url": "https://open.spotify.com/track/7c8EKQLv5ld1uWm1BdGqds",
+      "durationMs": 194266,
+      "playedAt": "2026-08-30T22:21:04.349Z"
+    },
     {
       "name": "The Second Waltz, Op. 99a",
       "artists": [
@@ -98,39 +123,6 @@
       "url": "https://open.spotify.com/track/4migrLu6mRQqQLHp4f7iYo",
       "durationMs": 247933,
       "playedAt": "2026-08-30T19:04:01.216Z"
-    },
-    {
-      "name": "Evelina",
-      "artists": [
-        "Peter LeMarc"
-      ],
-      "album": "Sjutton sånger - LeMarc sjunger LeMarc",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273feb9aad493c089e12e3e28b0",
-      "url": "https://open.spotify.com/track/7nitoDrAI6EnYaLBFtIGko",
-      "durationMs": 259226,
-      "playedAt": "2026-08-30T18:59:56.301Z"
-    },
-    {
-      "name": "Nio broars väg",
-      "artists": [
-        "Peter LeMarc"
-      ],
-      "album": "Nio broars väg",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d51a4584e42b8f789ad63ab9",
-      "url": "https://open.spotify.com/track/0ovxGNTN9vWivxI8pPf8WP",
-      "durationMs": 280133,
-      "playedAt": "2026-08-30T18:49:59.922Z"
-    },
-    {
-      "name": "Ett av dom sätt",
-      "artists": [
-        "Peter LeMarc"
-      ],
-      "album": "Sången dom spelar när filmen är slut",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f3257119f34c96ac9eb01ec",
-      "url": "https://open.spotify.com/track/16xd1M5MtH2a3PsMusOyM1",
-      "durationMs": 156040,
-      "playedAt": "2026-08-30T18:45:22.708Z"
     }
   ],
   "topArtists": [
