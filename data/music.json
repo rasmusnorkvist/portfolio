@@ -1,127 +1,117 @@
 {
-  "updatedAt": "2026-08-31T14:47:48.108Z",
-  "nowPlaying": {
-    "name": "Ända till september",
-    "artists": [
-      "Peter LeMarc"
-    ],
-    "album": "Det finns inget bättre",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733ec130c06ae2a96540e237b9",
-    "url": "https://open.spotify.com/track/57ZejRI9n2GOJXfXAplEsv",
-    "durationMs": 311080,
-    "isPlaying": true,
-    "progressMs": 76290
-  },
+  "updatedAt": "2026-08-31T20:37:09.360Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Små simpla ting",
+      "name": "Let Me In",
       "artists": [
-        "Peter LeMarc"
+        "Telula"
       ],
-      "album": "Nio broars väg",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d51a4584e42b8f789ad63ab9",
-      "url": "https://open.spotify.com/track/7vdBGRycbARfgX7MLZrGu8",
-      "durationMs": 211106,
-      "playedAt": "2026-08-31T14:46:35.515Z"
+      "album": "3 3 3",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27315d15ea19fd5021813f8527f",
+      "url": "https://open.spotify.com/track/38erTxXbmhWJ2S8TJGo1p3",
+      "durationMs": 275375,
+      "playedAt": "2026-08-31T20:15:01.777Z"
     },
     {
-      "name": "Det finns inget bättre - Version",
+      "name": "E'NUF",
       "artists": [
-        "Peter LeMarc"
+        "Royce Fisherman",
+        "Kelsea Armstrong"
       ],
-      "album": "LeMarc - Klassiker",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3593a634876c6e748fa3424",
-      "url": "https://open.spotify.com/track/1WlaAhd0uuu9By6aYzi3ni",
-      "durationMs": 216893,
-      "playedAt": "2026-08-31T14:43:07.406Z"
+      "album": "fish out of water",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734cfc7c25f85e5c73f541ca00",
+      "url": "https://open.spotify.com/track/5eVEMI8whEnx61gnyLKThb",
+      "durationMs": 158200,
+      "playedAt": "2026-08-31T20:10:29.380Z"
     },
     {
-      "name": "Sången dom spelar när filmen är slut - Version",
+      "name": "Winter Love",
       "artists": [
-        "Peter LeMarc"
+        "The Rah Band"
       ],
-      "album": "LeMarc - Klassiker",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3593a634876c6e748fa3424",
-      "url": "https://open.spotify.com/track/1IQEuk3ZLGfCkyeIeXR1V6",
-      "durationMs": 291466,
-      "playedAt": "2026-08-31T14:39:33.353Z"
+      "album": "Going Up",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273777be0adc315d87130c1e211",
+      "url": "https://open.spotify.com/track/4KgvbsV7L9xUeKT87AgOPh",
+      "durationMs": 328066,
+      "playedAt": "2026-08-31T20:07:54.261Z"
     },
     {
-      "name": "Håll om mej!",
+      "name": "Don't You Forget",
       "artists": [
-        "Peter LeMarc"
+        "Starwolf"
       ],
-      "album": "Peter LeMarc",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273476cd04baf56b0a60791a2ce",
-      "url": "https://open.spotify.com/track/2KqY5Bvi0l2wNyWYpzzrDr",
-      "durationMs": 232946,
-      "playedAt": "2026-08-31T14:19:50.401Z"
+      "album": "Tropical Disco",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730280cb714a47bcacf6433d67",
+      "url": "https://open.spotify.com/track/2LvyYVUQUrmA4MzEFeqUzb",
+      "durationMs": 217533,
+      "playedAt": "2026-08-31T20:02:29.180Z"
     },
     {
-      "name": "Starkare än ord",
+      "name": "The Dove",
       "artists": [
-        "Peter LeMarc"
+        "EchoWave"
       ],
-      "album": "LeMarc - Klassiker",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3593a634876c6e748fa3424",
-      "url": "https://open.spotify.com/track/1mxfonIMABwtNxmseLa87z",
-      "durationMs": 205480,
-      "playedAt": "2026-08-31T14:16:00.484Z"
+      "album": "Makeup!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27337cc1a882ac829c59e0dae80",
+      "url": "https://open.spotify.com/track/6Do1HDbhLohaYK5yQ7YlGF",
+      "durationMs": 325375,
+      "playedAt": "2026-08-31T19:58:54.680Z"
     },
     {
-      "name": "Evelina",
+      "name": "Fine Living",
       "artists": [
-        "Peter LeMarc"
+        "Rapallo"
       ],
-      "album": "Sjutton sånger - LeMarc sjunger LeMarc",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273feb9aad493c089e12e3e28b0",
-      "url": "https://open.spotify.com/track/7nitoDrAI6EnYaLBFtIGko",
-      "durationMs": 259226,
-      "playedAt": "2026-08-31T14:12:38.236Z"
+      "album": "Fine Living",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e082d8d2e978e30fd262a8c2",
+      "url": "https://open.spotify.com/track/0BzJtqgA6ARE8BpNwrByYn",
+      "durationMs": 163061,
+      "playedAt": "2026-08-31T19:15:29.164Z"
     },
     {
-      "name": "Marias kyrka",
+      "name": "Never Enough",
       "artists": [
-        "Peter LeMarc"
+        "Telula"
       ],
-      "album": "Sjutton sånger - LeMarc sjunger LeMarc",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273feb9aad493c089e12e3e28b0",
-      "url": "https://open.spotify.com/track/3VjuMdlXGbo9JD8D7hYNrY",
-      "durationMs": 277066,
-      "playedAt": "2026-08-31T14:08:21.807Z"
+      "album": "Telula",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ddf0b25f677d63c53615f7e4",
+      "url": "https://open.spotify.com/track/5fOkMiiBZzn3bCOmBcbHxh",
+      "durationMs": 196527,
+      "playedAt": "2026-08-31T19:12:49.084Z"
     },
     {
-      "name": "Älskad från första stund",
+      "name": "Music of the Earth",
       "artists": [
-        "Peter LeMarc"
+        "Patrice Rushen"
       ],
-      "album": "Sjutton sånger - LeMarc sjunger LeMarc",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273feb9aad493c089e12e3e28b0",
-      "url": "https://open.spotify.com/track/7tzxRtOfYbzPIKll2jGrmX",
-      "durationMs": 314866,
-      "playedAt": "2026-08-31T14:03:47.606Z"
+      "album": "Patrice (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273368228368a69822bdf9d66e2",
+      "url": "https://open.spotify.com/track/2FMRihC1szTQtsiPIjonMh",
+      "durationMs": 237186,
+      "playedAt": "2026-08-31T19:09:35.684Z"
     },
     {
-      "name": "Senast jag såg änglarna",
+      "name": "(Your Cat) Don’t Stand a Chance",
       "artists": [
-        "Peter LeMarc"
+        "Mustard Service"
       ],
-      "album": "Det finns inget bättre",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733ec130c06ae2a96540e237b9",
-      "url": "https://open.spotify.com/track/4UndKMqH7nOBHB17cOQq9b",
-      "durationMs": 370720,
-      "playedAt": "2026-08-31T13:58:35.736Z"
+      "album": "Variety Pack",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732efa3d76184f85079487c6f3",
+      "url": "https://open.spotify.com/track/2TBzNN9Sw3wEITrybN1IrS",
+      "durationMs": 170023,
+      "playedAt": "2026-08-31T19:05:10.493Z"
     },
     {
-      "name": "Vaggsång kl.4",
+      "name": "Get Down Tonight",
       "artists": [
-        "Peter LeMarc"
+        "Starwolf"
       ],
-      "album": "Välkommen hem",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f2b563dc27fb585dd4e1b7f4",
-      "url": "https://open.spotify.com/track/3OkynWM8vcYnt9mkIgTtlN",
-      "durationMs": 145000,
-      "playedAt": "2026-08-31T13:52:28.058Z"
+      "album": "Tropical Disco",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730280cb714a47bcacf6433d67",
+      "url": "https://open.spotify.com/track/0NYsD6fsdx5uoghZwnaLkX",
+      "durationMs": 202746,
+      "playedAt": "2026-08-31T19:02:23.496Z"
     }
   ],
   "topArtists": [
@@ -162,15 +152,15 @@
       "genres": []
     },
     {
-      "name": "Dina Ögon",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
-      "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
+      "name": "Rapallo",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
+      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
       "genres": []
     },
     {
-      "name": "Mando Diao",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
-      "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
+      "name": "Dina Ögon",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
+      "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
       "genres": []
     }
   ],
