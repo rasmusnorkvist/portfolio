@@ -1,117 +1,129 @@
 {
-  "updatedAt": "2026-08-31T20:37:09.360Z",
+  "updatedAt": "2026-09-01T00:21:09.788Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Let Me In",
+      "name": "Girl's Best Friend - Radio Edit",
       "artists": [
-        "Telula"
+        "JAŸ-Z"
       ],
-      "album": "3 3 3",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27315d15ea19fd5021813f8527f",
-      "url": "https://open.spotify.com/track/38erTxXbmhWJ2S8TJGo1p3",
-      "durationMs": 275375,
-      "playedAt": "2026-08-31T20:15:01.777Z"
+      "album": "Girl's Best Friend",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273415a85140a36649b39050baf",
+      "url": "https://open.spotify.com/track/0JtyvqODYwBUHtUErkqnjs",
+      "durationMs": 239785,
+      "playedAt": "2026-08-31T23:29:50.039Z"
     },
     {
-      "name": "E'NUF",
+      "name": "Big Pimpin'",
       "artists": [
-        "Royce Fisherman",
-        "Kelsea Armstrong"
+        "JAŸ-Z",
+        "UGK"
       ],
-      "album": "fish out of water",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734cfc7c25f85e5c73f541ca00",
-      "url": "https://open.spotify.com/track/5eVEMI8whEnx61gnyLKThb",
-      "durationMs": 158200,
-      "playedAt": "2026-08-31T20:10:29.380Z"
+      "album": "Vol. 3... Life And Times Of S. Carter",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273391385a114ab8ba962c59a36",
+      "url": "https://open.spotify.com/track/22uZ8sPzkovoQG4Cu39Pqe",
+      "durationMs": 284640,
+      "playedAt": "2026-08-31T22:58:07.327Z"
     },
     {
-      "name": "Winter Love",
+      "name": "Gotta Have It",
       "artists": [
-        "The Rah Band"
+        "JAŸ-Z",
+        "Kanye West"
       ],
-      "album": "Going Up",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273777be0adc315d87130c1e211",
-      "url": "https://open.spotify.com/track/4KgvbsV7L9xUeKT87AgOPh",
-      "durationMs": 328066,
-      "playedAt": "2026-08-31T20:07:54.261Z"
+      "album": "Watch The Throne",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30",
+      "url": "https://open.spotify.com/track/2aqe2NgAwmMlPgtf1MnGoy",
+      "durationMs": 140746,
+      "playedAt": "2026-08-31T22:53:26.023Z"
     },
     {
-      "name": "Don't You Forget",
+      "name": "Otis",
       "artists": [
-        "Starwolf"
+        "JAŸ-Z",
+        "Kanye West",
+        "Otis Redding"
       ],
-      "album": "Tropical Disco",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730280cb714a47bcacf6433d67",
-      "url": "https://open.spotify.com/track/2LvyYVUQUrmA4MzEFeqUzb",
-      "durationMs": 217533,
-      "playedAt": "2026-08-31T20:02:29.180Z"
+      "album": "Watch The Throne",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30",
+      "url": "https://open.spotify.com/track/14I61w6cyYUHiV2n28IYdP",
+      "durationMs": 178213,
+      "playedAt": "2026-08-31T22:51:05.312Z"
     },
     {
-      "name": "The Dove",
+      "name": "Holy Grail",
       "artists": [
-        "EchoWave"
+        "JAŸ-Z",
+        "Justin Timberlake"
       ],
-      "album": "Makeup!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27337cc1a882ac829c59e0dae80",
-      "url": "https://open.spotify.com/track/6Do1HDbhLohaYK5yQ7YlGF",
-      "durationMs": 325375,
-      "playedAt": "2026-08-31T19:58:54.680Z"
+      "album": "Magna Carta... Holy Grail",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734af3be606885e7f5559f4031",
+      "url": "https://open.spotify.com/track/1q9bLSeIlGf2xBvbOkp2Wr",
+      "durationMs": 338413,
+      "playedAt": "2026-08-31T22:48:10.128Z"
     },
     {
-      "name": "Fine Living",
+      "name": "03' Bonnie & Clyde",
       "artists": [
-        "Rapallo"
+        "JAŸ-Z",
+        "Beyoncé"
       ],
-      "album": "Fine Living",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e082d8d2e978e30fd262a8c2",
-      "url": "https://open.spotify.com/track/0BzJtqgA6ARE8BpNwrByYn",
-      "durationMs": 163061,
-      "playedAt": "2026-08-31T19:15:29.164Z"
+      "album": "The Blueprint 2: The Gift & The Curse",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b7c45af95aaf599cee3acf08",
+      "url": "https://open.spotify.com/track/5ljCWsDlSyJ41kwqym2ORw",
+      "durationMs": 205560,
+      "playedAt": "2026-08-31T22:42:34.915Z"
     },
     {
-      "name": "Never Enough",
+      "name": "No Church In The Wild",
       "artists": [
-        "Telula"
+        "JAŸ-Z",
+        "Kanye West",
+        "Frank Ocean",
+        "THE-DREAM"
       ],
-      "album": "Telula",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ddf0b25f677d63c53615f7e4",
-      "url": "https://open.spotify.com/track/5fOkMiiBZzn3bCOmBcbHxh",
-      "durationMs": 196527,
-      "playedAt": "2026-08-31T19:12:49.084Z"
+      "album": "Watch The Throne",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30",
+      "url": "https://open.spotify.com/track/7r6PigmGzlB3YPB7wvBBbi",
+      "durationMs": 272506,
+      "playedAt": "2026-08-31T22:39:12.325Z"
     },
     {
-      "name": "Music of the Earth",
+      "name": "Run This Town",
       "artists": [
-        "Patrice Rushen"
+        "JAŸ-Z",
+        "Rihanna",
+        "Kanye West"
       ],
-      "album": "Patrice (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273368228368a69822bdf9d66e2",
-      "url": "https://open.spotify.com/track/2FMRihC1szTQtsiPIjonMh",
-      "durationMs": 237186,
-      "playedAt": "2026-08-31T19:09:35.684Z"
+      "album": "The Blueprint 3",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10",
+      "url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
+      "durationMs": 267520,
+      "playedAt": "2026-08-31T22:34:42.783Z"
     },
     {
-      "name": "(Your Cat) Don’t Stand a Chance",
+      "name": "Numb / Encore",
       "artists": [
-        "Mustard Service"
+        "JAŸ-Z",
+        "Linkin Park"
       ],
-      "album": "Variety Pack",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732efa3d76184f85079487c6f3",
-      "url": "https://open.spotify.com/track/2TBzNN9Sw3wEITrybN1IrS",
-      "durationMs": 170023,
-      "playedAt": "2026-08-31T19:05:10.493Z"
+      "album": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516",
+      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn",
+      "durationMs": 205733,
+      "playedAt": "2026-08-31T22:30:18.342Z"
     },
     {
-      "name": "Get Down Tonight",
+      "name": "Ni**as In Paris",
       "artists": [
-        "Starwolf"
+        "JAŸ-Z",
+        "Kanye West"
       ],
-      "album": "Tropical Disco",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730280cb714a47bcacf6433d67",
-      "url": "https://open.spotify.com/track/0NYsD6fsdx5uoghZwnaLkX",
-      "durationMs": 202746,
-      "playedAt": "2026-08-31T19:02:23.496Z"
+      "album": "Watch The Throne",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30",
+      "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um",
+      "durationMs": 219333,
+      "playedAt": "2026-08-31T22:24:42.318Z"
     }
   ],
   "topArtists": [
@@ -128,6 +140,12 @@
       "genres": []
     },
     {
+      "name": "JAŸ-Z",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
+      "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
+      "genres": []
+    },
+    {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
@@ -137,12 +155,6 @@
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": []
-    },
-    {
-      "name": "JAŸ-Z",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
-      "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
       "genres": []
     },
     {
