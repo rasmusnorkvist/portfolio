@@ -1,129 +1,116 @@
 {
-  "updatedAt": "2026-09-02T02:40:28.315Z",
+  "updatedAt": "2026-09-02T07:34:38.801Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Can't Knock The Hustle - Radio Edit",
+      "name": "Questo amore è un motore",
       "artists": [
-        "JAŸ-Z",
-        "Mary J. Blige"
+        "Pino D'Angiò"
       ],
-      "album": "Can't Knock The Hustle",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27391aa294db8b146e1ea140020",
-      "url": "https://open.spotify.com/track/2FWIqBH2YBX59xGbfNHuFw",
-      "durationMs": 269653,
-      "playedAt": "2026-09-01T04:51:15.535Z"
+      "album": "Italian Classics: Pino D'Angiò Collection, Vol. 2",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379f449b2c45f6ef0d0cc3cef",
+      "url": "https://open.spotify.com/track/6hob5XGGteZCcJZQoK06Fr",
+      "durationMs": 222271,
+      "playedAt": "2026-09-02T05:24:14.101Z"
     },
     {
-      "name": "Girl's Best Friend - Radio Edit",
+      "name": "Bright Lights Bigger City",
       "artists": [
-        "JAŸ-Z"
+        "CeeLo Green"
       ],
-      "album": "Girl's Best Friend",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273415a85140a36649b39050baf",
-      "url": "https://open.spotify.com/track/0JtyvqODYwBUHtUErkqnjs",
-      "durationMs": 239785,
-      "playedAt": "2026-08-31T23:29:50.039Z"
+      "album": "The Lady Killer",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273745ed32da5e64120925ce7b0",
+      "url": "https://open.spotify.com/track/3lOMPxZipoRwnO0IUvk6WX",
+      "durationMs": 218280,
+      "playedAt": "2026-09-02T05:16:59.582Z"
     },
     {
-      "name": "Big Pimpin'",
+      "name": "Summer Girl",
       "artists": [
-        "JAŸ-Z",
-        "UGK"
+        "Jamiroquai"
       ],
-      "album": "Vol. 3... Life And Times Of S. Carter",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273391385a114ab8ba962c59a36",
-      "url": "https://open.spotify.com/track/22uZ8sPzkovoQG4Cu39Pqe",
-      "durationMs": 284640,
-      "playedAt": "2026-08-31T22:58:07.327Z"
+      "album": "Automaton",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736402119159b968bdb926ea0f",
+      "url": "https://open.spotify.com/track/1FEIfJgaGwiLKr4L8W5Iqj",
+      "durationMs": 331800,
+      "playedAt": "2026-09-02T05:13:43.581Z"
     },
     {
-      "name": "Gotta Have It",
+      "name": "Innerbloom - Radio Edit",
       "artists": [
-        "JAŸ-Z",
-        "Kanye West"
+        "RÜFÜS DU SOL"
       ],
-      "album": "Watch The Throne",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30",
-      "url": "https://open.spotify.com/track/2aqe2NgAwmMlPgtf1MnGoy",
-      "durationMs": 140746,
-      "playedAt": "2026-08-31T22:53:26.023Z"
+      "album": "Innerbloom (Radio Edit)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27375d5d9084ef075899f0285a6",
+      "url": "https://open.spotify.com/track/233AL29SR6QWnD7hu7ylbf",
+      "durationMs": 238067,
+      "playedAt": "2026-09-02T05:08:32.012Z"
     },
     {
-      "name": "Otis",
+      "name": "One Night in Bangkok",
       "artists": [
-        "JAŸ-Z",
-        "Kanye West",
-        "Otis Redding"
+        "Murray Head"
       ],
-      "album": "Watch The Throne",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30",
-      "url": "https://open.spotify.com/track/14I61w6cyYUHiV2n28IYdP",
-      "durationMs": 178213,
-      "playedAt": "2026-08-31T22:51:05.312Z"
+      "album": "Emotions (My Favourite Songs)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4e8d06c95deb67f0340cbd5",
+      "url": "https://open.spotify.com/track/6erBowZaW6Ur3vNOWhS2zM",
+      "durationMs": 236066,
+      "playedAt": "2026-09-02T05:05:03.249Z"
     },
     {
-      "name": "Holy Grail",
+      "name": "Layla - Acoustic Live",
       "artists": [
-        "JAŸ-Z",
-        "Justin Timberlake"
+        "Eric Clapton"
       ],
-      "album": "Magna Carta... Holy Grail",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734af3be606885e7f5559f4031",
-      "url": "https://open.spotify.com/track/1q9bLSeIlGf2xBvbOkp2Wr",
-      "durationMs": 338413,
-      "playedAt": "2026-08-31T22:48:10.128Z"
+      "album": "Unplugged (Live)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e36eb543ce3731ac913845c",
+      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo",
+      "durationMs": 289026,
+      "playedAt": "2026-09-02T05:01:47.291Z"
     },
     {
-      "name": "03' Bonnie & Clyde",
+      "name": "Sunshine",
       "artists": [
-        "JAŸ-Z",
-        "Beyoncé"
+        "Jungle"
       ],
-      "album": "The Blueprint 2: The Gift & The Curse",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b7c45af95aaf599cee3acf08",
-      "url": "https://open.spotify.com/track/5ljCWsDlSyJ41kwqym2ORw",
-      "durationMs": 205560,
-      "playedAt": "2026-08-31T22:42:34.915Z"
+      "album": "Sunshine",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273775f28b18db542ae81fafee3",
+      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8",
+      "durationMs": 191003,
+      "playedAt": "2026-09-02T04:56:58.321Z"
     },
     {
-      "name": "No Church In The Wild",
+      "name": "Last Train to London",
       "artists": [
-        "JAŸ-Z",
-        "Kanye West",
-        "Frank Ocean",
-        "THE-DREAM"
+        "Rikas"
       ],
-      "album": "Watch The Throne",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30",
-      "url": "https://open.spotify.com/track/7r6PigmGzlB3YPB7wvBBbi",
-      "durationMs": 272506,
-      "playedAt": "2026-08-31T22:39:12.325Z"
+      "album": "Last Train to London",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731a61a0637f0d90538a950303",
+      "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq",
+      "durationMs": 179000,
+      "playedAt": "2026-09-02T04:53:50.321Z"
     },
     {
-      "name": "Run This Town",
+      "name": "Eyes Without A Face",
       "artists": [
-        "JAŸ-Z",
-        "Rihanna",
-        "Kanye West"
+        "Billy Idol"
       ],
-      "album": "The Blueprint 3",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10",
-      "url": "https://open.spotify.com/track/7LR85XLWw2yXqKBSI5brbG",
-      "durationMs": 267520,
-      "playedAt": "2026-08-31T22:34:42.783Z"
+      "album": "Rebel Yell",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
+      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS",
+      "durationMs": 299240,
+      "playedAt": "2026-09-02T04:50:55.421Z"
     },
     {
-      "name": "Numb / Encore",
+      "name": "I.G.Y.",
       "artists": [
-        "JAŸ-Z",
-        "Linkin Park"
+        "Donald Fagen"
       ],
-      "album": "Numb / Encore: MTV Ultimate Mash-Ups Presents Collision Course",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737282412ad025c14f7039f516",
-      "url": "https://open.spotify.com/track/5sNESr6pQfIhL3krM8CtZn",
-      "durationMs": 205733,
-      "playedAt": "2026-08-31T22:30:18.342Z"
+      "album": "The Nightfly",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
+      "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3",
+      "durationMs": 363413,
+      "playedAt": "2026-09-02T04:46:10.621Z"
     }
   ],
   "topArtists": [
@@ -131,37 +118,56 @@
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
+      "genres": [
+        "lo-fi",
+        "lo-fi beats",
+        "jazz beats"
+      ]
     },
     {
       "name": "E-Type",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
       "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
-      "genres": []
+      "genres": [
+        "eurodance",
+        "europop"
+      ]
     },
     {
       "name": "JAŸ-Z",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
       "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
-      "genres": []
+      "genres": [
+        "hip hop",
+        "east coast hip hop",
+        "rap"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": []
+      "genres": [
+        "yacht rock",
+        "classic rock",
+        "soft rock"
+      ]
     },
     {
       "name": "Peter LeMarc",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
       "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Rapallo",
@@ -173,7 +179,9 @@
       "name": "Dina Ögon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
       "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     }
   ],
   "topTracks": [
@@ -249,14 +257,14 @@
       "durationMs": 224506
     },
     {
-      "name": "Virtual Insanity - Remastered 2006",
+      "name": "Campione 2000 - Radio Version",
       "artists": [
-        "Jamiroquai"
+        "E-Type"
       ],
-      "album": "Driving Songs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
-      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
-      "durationMs": 229360
+      "album": "Euro IV Ever",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c89626b8b2a51e1383a86efd",
+      "url": "https://open.spotify.com/track/78UcxP3Xm0EOXneQUDsStA",
+      "durationMs": 213413
     }
   ],
   "featuredPlaylists": []
