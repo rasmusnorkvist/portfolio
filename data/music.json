@@ -1,116 +1,125 @@
 {
-  "updatedAt": "2026-09-02T12:29:43.161Z",
+  "updatedAt": "2026-09-02T16:48:59.913Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Questo amore è un motore",
+      "name": "Hard Times",
       "artists": [
-        "Pino D'Angiò"
+        "Paramore"
       ],
-      "album": "Italian Classics: Pino D'Angiò Collection, Vol. 2",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379f449b2c45f6ef0d0cc3cef",
-      "url": "https://open.spotify.com/track/6hob5XGGteZCcJZQoK06Fr",
-      "durationMs": 222271,
-      "playedAt": "2026-09-02T05:24:14.101Z"
+      "album": "After Laughter",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dbd83e179619408e5d05cc99",
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh",
+      "durationMs": 182693,
+      "playedAt": "2026-09-02T16:14:28.854Z"
     },
     {
-      "name": "Bright Lights Bigger City",
+      "name": "Graceland",
       "artists": [
-        "CeeLo Green"
+        "Paul Simon"
       ],
-      "album": "The Lady Killer",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273745ed32da5e64120925ce7b0",
-      "url": "https://open.spotify.com/track/3lOMPxZipoRwnO0IUvk6WX",
-      "durationMs": 218280,
-      "playedAt": "2026-09-02T05:16:59.582Z"
+      "album": "Graceland (25th Anniversary Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
+      "url": "https://open.spotify.com/track/51KKQAgYFoJHgVIuJWHdHb",
+      "durationMs": 291200,
+      "playedAt": "2026-09-02T16:11:23.084Z"
     },
     {
-      "name": "Summer Girl",
+      "name": "Is It True",
       "artists": [
-        "Jamiroquai"
+        "Tame Impala"
       ],
-      "album": "Automaton",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736402119159b968bdb926ea0f",
-      "url": "https://open.spotify.com/track/1FEIfJgaGwiLKr4L8W5Iqj",
-      "durationMs": 331800,
-      "playedAt": "2026-09-02T05:13:43.581Z"
+      "album": "The Slow Rush",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
+      "url": "https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d",
+      "durationMs": 239266,
+      "playedAt": "2026-09-02T16:06:52.281Z"
     },
     {
-      "name": "Innerbloom - Radio Edit",
+      "name": "Baby Be Mine",
       "artists": [
-        "RÜFÜS DU SOL"
+        "Michael Jackson"
       ],
-      "album": "Innerbloom (Radio Edit)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27375d5d9084ef075899f0285a6",
-      "url": "https://open.spotify.com/track/233AL29SR6QWnD7hu7ylbf",
-      "durationMs": 238067,
-      "playedAt": "2026-09-02T05:08:32.012Z"
+      "album": "Thriller",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+      "url": "https://open.spotify.com/track/6XYbMGvtl6tlPoGWaiH7EY",
+      "durationMs": 260368,
+      "playedAt": "2026-09-02T16:03:04.553Z"
     },
     {
-      "name": "One Night in Bangkok",
+      "name": "SpottieOttieDopaliscious",
       "artists": [
-        "Murray Head"
+        "Outkast"
       ],
-      "album": "Emotions (My Favourite Songs)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4e8d06c95deb67f0340cbd5",
-      "url": "https://open.spotify.com/track/6erBowZaW6Ur3vNOWhS2zM",
-      "durationMs": 236066,
-      "playedAt": "2026-09-02T05:05:03.249Z"
+      "album": "Aquemini",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e2352cc20602d45e9a0e7617",
+      "url": "https://open.spotify.com/track/4GdB5M7GbwLZLouktYocFC",
+      "durationMs": 426859,
+      "playedAt": "2026-09-02T15:58:55.144Z"
     },
     {
-      "name": "Layla - Acoustic Live",
+      "name": "SpottieOttieDopaliscious",
       "artists": [
-        "Eric Clapton"
+        "Outkast"
       ],
-      "album": "Unplugged (Live)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e36eb543ce3731ac913845c",
-      "url": "https://open.spotify.com/track/0zxj7dVhYZq5ACyaDx5XIo",
-      "durationMs": 289026,
-      "playedAt": "2026-09-02T05:01:47.291Z"
+      "album": "Aquemini",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e2352cc20602d45e9a0e7617",
+      "url": "https://open.spotify.com/track/4GdB5M7GbwLZLouktYocFC",
+      "durationMs": 426859,
+      "playedAt": "2026-09-02T15:50:03.654Z"
     },
     {
-      "name": "Sunshine",
+      "name": "On The Grind",
       "artists": [
-        "Jungle"
+        "Supersci",
+        "Chords"
       ],
-      "album": "Sunshine",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273775f28b18db542ae81fafee3",
-      "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8",
-      "durationMs": 191003,
-      "playedAt": "2026-09-02T04:56:58.321Z"
+      "album": "Pinetrees On The Pavement",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8729fbc083cd2b468a0702c",
+      "url": "https://open.spotify.com/track/1LZ56yhDe3Jf1WJ75mzjGv",
+      "durationMs": 305720,
+      "playedAt": "2026-09-02T15:29:48.871Z"
     },
     {
-      "name": "Last Train to London",
+      "name": "Get Down Saturday Night",
       "artists": [
-        "Rikas"
+        "Oliver Cheatham"
       ],
-      "album": "Last Train to London",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731a61a0637f0d90538a950303",
-      "url": "https://open.spotify.com/track/5fewYZz1bCsj72vjSwSxzq",
-      "durationMs": 179000,
-      "playedAt": "2026-09-02T04:53:50.321Z"
+      "album": "Saturday Night (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330a57e2d9be973cedab286f0",
+      "url": "https://open.spotify.com/track/4kTS0Ioxdm6uSGmFNvhnGQ",
+      "durationMs": 388573,
+      "playedAt": "2026-09-02T15:21:18.197Z"
     },
     {
-      "name": "Eyes Without A Face",
+      "name": "Hey Nineteen",
       "artists": [
-        "Billy Idol"
+        "Steely Dan"
       ],
-      "album": "Rebel Yell",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
-      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS",
-      "durationMs": 299240,
-      "playedAt": "2026-09-02T04:50:55.421Z"
+      "album": "Gaucho",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27353e10b63c25c7f7a3d7e0f9d",
+      "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5",
+      "durationMs": 309018,
+      "playedAt": "2026-09-02T15:15:06.863Z"
     },
     {
-      "name": "I.G.Y.",
+      "name": "Ortens favoriter - Remix",
       "artists": [
-        "Donald Fagen"
+        "Labyrint",
+        "Black Ghost",
+        "STOR",
+        "Aleks",
+        "Allyawan",
+        "Påse",
+        "Dani M",
+        "Alladin",
+        "Jaqe"
       ],
-      "album": "The Nightfly",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
-      "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3",
-      "durationMs": 363413,
-      "playedAt": "2026-09-02T04:46:10.621Z"
+      "album": "Ortens favoriter",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eafa6e5e617f20387d27de1b",
+      "url": "https://open.spotify.com/track/3K7UdFfEr3EWURDOOYvuwq",
+      "durationMs": 346093,
+      "playedAt": "2026-09-02T15:11:08.941Z"
     }
   ],
   "topArtists": [
