@@ -1,125 +1,117 @@
 {
-  "updatedAt": "2026-09-02T16:48:59.913Z",
+  "updatedAt": "2026-09-02T19:37:02.784Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Hard Times",
+      "name": "Freaky Feedback Blues",
       "artists": [
-        "Paramore"
+        "Benji Hughes"
       ],
-      "album": "After Laughter",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dbd83e179619408e5d05cc99",
-      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh",
-      "durationMs": 182693,
-      "playedAt": "2026-09-02T16:14:28.854Z"
+      "album": "Songs in the Key of Animals",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27353f152500d53698a52b30226",
+      "url": "https://open.spotify.com/track/0p9nBZR2zzWkeQ7Y1OBzh6",
+      "durationMs": 224160,
+      "playedAt": "2026-09-02T18:40:24.892Z"
     },
     {
-      "name": "Graceland",
+      "name": "For the Love of It",
       "artists": [
-        "Paul Simon"
+        "Dele Sosimi",
+        "The Estuary 21"
       ],
-      "album": "Graceland (25th Anniversary Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
-      "url": "https://open.spotify.com/track/51KKQAgYFoJHgVIuJWHdHb",
-      "durationMs": 291200,
-      "playedAt": "2026-09-02T16:11:23.084Z"
+      "album": "The Confluence LP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
+      "url": "https://open.spotify.com/track/7kiUmKt8i4ygomR7US8caq",
+      "durationMs": 289360,
+      "playedAt": "2026-09-02T18:24:20.495Z"
     },
     {
-      "name": "Is It True",
+      "name": "Give Me A Smile",
       "artists": [
-        "Tame Impala"
+        "Thandii"
       ],
-      "album": "The Slow Rush",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27358267bd34420a00d5cf83a49",
-      "url": "https://open.spotify.com/track/6RZmhpvukfyeSURhf4kZ0d",
-      "durationMs": 239266,
-      "playedAt": "2026-09-02T16:06:52.281Z"
+      "album": "A Beat To Make It Better",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739b5d7e8ceb5963cd57b81bb8",
+      "url": "https://open.spotify.com/track/1FI4hSxJNgCmnrITIK0vZE",
+      "durationMs": 207466,
+      "playedAt": "2026-09-02T18:19:41.782Z"
     },
     {
-      "name": "Baby Be Mine",
+      "name": "Semester",
       "artists": [
-        "Michael Jackson"
+        "Bo Kaspers Orkester"
       ],
-      "album": "Thriller",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-      "url": "https://open.spotify.com/track/6XYbMGvtl6tlPoGWaiH7EY",
-      "durationMs": 260368,
-      "playedAt": "2026-09-02T16:03:04.553Z"
+      "album": "I centrum",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346e406a32597436e120b450",
+      "url": "https://open.spotify.com/track/160hD5JOJTqyQGcZPKNLBJ",
+      "durationMs": 218746,
+      "playedAt": "2026-09-02T18:16:28.697Z"
     },
     {
-      "name": "SpottieOttieDopaliscious",
+      "name": "Ma quale idea",
       "artists": [
-        "Outkast"
+        "Pino D'Angiò"
       ],
-      "album": "Aquemini",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e2352cc20602d45e9a0e7617",
-      "url": "https://open.spotify.com/track/4GdB5M7GbwLZLouktYocFC",
-      "durationMs": 426859,
-      "playedAt": "2026-09-02T15:58:55.144Z"
+      "album": "...Balla!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ef8601480405c3eeb7351780",
+      "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD",
+      "durationMs": 262456,
+      "playedAt": "2026-09-02T18:13:14.399Z"
     },
     {
-      "name": "SpottieOttieDopaliscious",
+      "name": "Tukka Yoot's Riddim",
       "artists": [
-        "Outkast"
+        "Us3"
       ],
-      "album": "Aquemini",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e2352cc20602d45e9a0e7617",
-      "url": "https://open.spotify.com/track/4GdB5M7GbwLZLouktYocFC",
-      "durationMs": 426859,
-      "playedAt": "2026-09-02T15:50:03.654Z"
+      "album": "Hand On The Torch",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343652f722c146ccaf19e2019",
+      "url": "https://open.spotify.com/track/3NxeHBqjKnVWUVRv6F5sEf",
+      "durationMs": 341426,
+      "playedAt": "2026-09-02T18:08:55.821Z"
     },
     {
-      "name": "On The Grind",
+      "name": "The Big Guns",
       "artists": [
-        "Supersci",
-        "Chords"
+        "Heatwave"
       ],
-      "album": "Pinetrees On The Pavement",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8729fbc083cd2b468a0702c",
-      "url": "https://open.spotify.com/track/1LZ56yhDe3Jf1WJ75mzjGv",
-      "durationMs": 305720,
-      "playedAt": "2026-09-02T15:29:48.871Z"
+      "album": "Heatwave's Greatest Hits",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733c4e0cca10d7fdce51358455",
+      "url": "https://open.spotify.com/track/6llsijC0v6TNtTxTHgOtTy",
+      "durationMs": 245466,
+      "playedAt": "2026-09-02T18:03:22.995Z"
     },
     {
-      "name": "Get Down Saturday Night",
+      "name": "Take It to the Limit",
       "artists": [
-        "Oliver Cheatham"
+        "Norman Connors"
       ],
-      "album": "Saturday Night (Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330a57e2d9be973cedab286f0",
-      "url": "https://open.spotify.com/track/4kTS0Ioxdm6uSGmFNvhnGQ",
-      "durationMs": 388573,
-      "playedAt": "2026-09-02T15:21:18.197Z"
+      "album": "Take It To The Limit (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731c1c4ec307f8e3a5fca212f0",
+      "url": "https://open.spotify.com/track/5wiJgpZlYBLAFATDUcMvrw",
+      "durationMs": 231630,
+      "playedAt": "2026-09-02T17:59:28.799Z"
     },
     {
-      "name": "Hey Nineteen",
+      "name": "A Lover's Holiday - Single Version",
       "artists": [
-        "Steely Dan"
+        "Change"
       ],
-      "album": "Gaucho",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27353e10b63c25c7f7a3d7e0f9d",
-      "url": "https://open.spotify.com/track/6wP0zUocK5kGLaBYhLbzt5",
-      "durationMs": 309018,
-      "playedAt": "2026-09-02T15:15:06.863Z"
+      "album": "The Glow of Love (Original Album and Rare Tracks)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273787279160a62de850ebdb7b3",
+      "url": "https://open.spotify.com/track/4TG6Mu9c0229TzjPr83X9o",
+      "durationMs": 253053,
+      "playedAt": "2026-09-02T17:55:58.555Z"
     },
     {
-      "name": "Ortens favoriter - Remix",
+      "name": "Can't Let Go",
       "artists": [
-        "Labyrint",
-        "Black Ghost",
-        "STOR",
-        "Aleks",
-        "Allyawan",
-        "Påse",
-        "Dani M",
-        "Alladin",
-        "Jaqe"
+        "Earth, Wind & Fire"
       ],
-      "album": "Ortens favoriter",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eafa6e5e617f20387d27de1b",
-      "url": "https://open.spotify.com/track/3K7UdFfEr3EWURDOOYvuwq",
-      "durationMs": 346093,
-      "playedAt": "2026-09-02T15:11:08.941Z"
+      "album": "I Am",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738b2238ebc2b233ba73b8c4ca",
+      "url": "https://open.spotify.com/track/6a44RET0b0enJMb5PVQlr8",
+      "durationMs": 208408,
+      "playedAt": "2026-09-02T17:52:09.703Z"
     }
   ],
   "topArtists": [
