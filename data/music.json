@@ -1,117 +1,121 @@
 {
-  "updatedAt": "2026-09-02T19:37:02.784Z",
+  "updatedAt": "2026-09-02T22:18:35.699Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Freaky Feedback Blues",
+      "name": "Playa Playa",
       "artists": [
-        "Benji Hughes"
+        "D'Angelo"
       ],
-      "album": "Songs in the Key of Animals",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27353f152500d53698a52b30226",
-      "url": "https://open.spotify.com/track/0p9nBZR2zzWkeQ7Y1OBzh6",
-      "durationMs": 224160,
-      "playedAt": "2026-09-02T18:40:24.892Z"
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/6j0FBH06L1YlVkxBvE972P",
+      "durationMs": 426760,
+      "playedAt": "2026-09-02T22:12:45.850Z"
     },
     {
-      "name": "For the Love of It",
+      "name": "Play to Lose",
       "artists": [
-        "Dele Sosimi",
-        "The Estuary 21"
+        "Rapallo"
       ],
-      "album": "The Confluence LP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
-      "url": "https://open.spotify.com/track/7kiUmKt8i4ygomR7US8caq",
-      "durationMs": 289360,
-      "playedAt": "2026-09-02T18:24:20.495Z"
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/6omojoKV4GqJT5CexQnfGM",
+      "durationMs": 203364,
+      "playedAt": "2026-09-02T21:58:21.519Z"
     },
     {
-      "name": "Give Me A Smile",
+      "name": "The Hop",
       "artists": [
-        "Thandii"
+        "A Tribe Called Quest"
       ],
-      "album": "A Beat To Make It Better",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739b5d7e8ceb5963cd57b81bb8",
-      "url": "https://open.spotify.com/track/1FI4hSxJNgCmnrITIK0vZE",
+      "album": "Beats, Rhymes & Life",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e3b93c08d98f92dc3ab0146a",
+      "url": "https://open.spotify.com/track/7f1UEGMBMuXfLBP5XANfrW",
       "durationMs": 207466,
-      "playedAt": "2026-09-02T18:19:41.782Z"
+      "playedAt": "2026-09-02T21:54:55.591Z"
     },
     {
-      "name": "Semester",
+      "name": "READ YOUR DIARY",
+      "artists": [
+        "Måneskin"
+      ],
+      "album": "RUSH!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346e72dff16a10e1b5062fdf7",
+      "url": "https://open.spotify.com/track/16HsEMkim07LboMyhR81eu",
+      "durationMs": 150695,
+      "playedAt": "2026-09-02T21:42:50.154Z"
+    },
+    {
+      "name": "Allt ljus på mej",
       "artists": [
         "Bo Kaspers Orkester"
       ],
       "album": "I centrum",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346e406a32597436e120b450",
-      "url": "https://open.spotify.com/track/160hD5JOJTqyQGcZPKNLBJ",
-      "durationMs": 218746,
-      "playedAt": "2026-09-02T18:16:28.697Z"
+      "url": "https://open.spotify.com/track/5CyxEqz7n4hRM7UIA5wIr8",
+      "durationMs": 253440,
+      "playedAt": "2026-09-02T21:40:28.258Z"
     },
     {
-      "name": "Ma quale idea",
+      "name": "Actual Proof",
       "artists": [
-        "Pino D'Angiò"
+        "Awon",
+        "Phoniks"
       ],
-      "album": "...Balla!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ef8601480405c3eeb7351780",
-      "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD",
-      "durationMs": 262456,
-      "playedAt": "2026-09-02T18:13:14.399Z"
+      "album": "The Actual Proof",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aef4500f9920f7a2464cc883",
+      "url": "https://open.spotify.com/track/7l4zu1bOOhIgxdsIEC80MH",
+      "durationMs": 182724,
+      "playedAt": "2026-09-02T21:36:44.757Z"
     },
     {
-      "name": "Tukka Yoot's Riddim",
+      "name": "Topp Doggz",
       "artists": [
-        "Us3"
+        "Petter",
+        "Looptroop Rockers"
       ],
-      "album": "Hand On The Torch",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343652f722c146ccaf19e2019",
-      "url": "https://open.spotify.com/track/3NxeHBqjKnVWUVRv6F5sEf",
-      "durationMs": 341426,
-      "playedAt": "2026-09-02T18:08:55.821Z"
+      "album": "Den Svenska Underjorden",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b37ee66023d9f54c2942252a",
+      "url": "https://open.spotify.com/track/1ArnPmsv5NWRNUJNRIYc5K",
+      "durationMs": 252626,
+      "playedAt": "2026-09-02T21:34:02.748Z"
     },
     {
-      "name": "The Big Guns",
+      "name": "Guns Are Drawn",
       "artists": [
-        "Heatwave"
+        "The Roots",
+        "Son Little"
       ],
-      "album": "Heatwave's Greatest Hits",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733c4e0cca10d7fdce51358455",
-      "url": "https://open.spotify.com/track/6llsijC0v6TNtTxTHgOtTy",
-      "durationMs": 245466,
-      "playedAt": "2026-09-02T18:03:22.995Z"
+      "album": "The Tipping Point",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738b49e8cdfda2e629a5ca2717",
+      "url": "https://open.spotify.com/track/76tWml55YabjLsNPRwUfEF",
+      "durationMs": 315786,
+      "playedAt": "2026-09-02T21:30:12.343Z"
     },
     {
-      "name": "Take It to the Limit",
+      "name": "All Eyez On Me (ft. Big Syke)",
       "artists": [
-        "Norman Connors"
+        "2Pac",
+        "Big Syke"
       ],
-      "album": "Take It To The Limit (Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731c1c4ec307f8e3a5fca212f0",
-      "url": "https://open.spotify.com/track/5wiJgpZlYBLAFATDUcMvrw",
-      "durationMs": 231630,
-      "playedAt": "2026-09-02T17:59:28.799Z"
+      "album": "All Eyez On Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596",
+      "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
+      "durationMs": 307773,
+      "playedAt": "2026-09-02T21:24:58.097Z"
     },
     {
-      "name": "A Lover's Holiday - Single Version",
+      "name": "Doomsday",
       "artists": [
-        "Change"
+        "MF DOOM",
+        "Pebbles The Invisible Girl"
       ],
-      "album": "The Glow of Love (Original Album and Rare Tracks)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273787279160a62de850ebdb7b3",
-      "url": "https://open.spotify.com/track/4TG6Mu9c0229TzjPr83X9o",
-      "durationMs": 253053,
-      "playedAt": "2026-09-02T17:55:58.555Z"
-    },
-    {
-      "name": "Can't Let Go",
-      "artists": [
-        "Earth, Wind & Fire"
-      ],
-      "album": "I Am",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738b2238ebc2b233ba73b8c4ca",
-      "url": "https://open.spotify.com/track/6a44RET0b0enJMb5PVQlr8",
-      "durationMs": 208408,
-      "playedAt": "2026-09-02T17:52:09.703Z"
+      "album": "Operation: Doomsday (Complete)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736ce90ec627a0198a8efd127f",
+      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA",
+      "durationMs": 298053,
+      "playedAt": "2026-09-02T21:19:52.561Z"
     }
   ],
   "topArtists": [
