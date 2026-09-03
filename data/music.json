@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-09-03T20:04:41.063Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-03T22:42:35.338Z",
+  "nowPlaying": {
+    "name": "Virtual Insanity - Remastered 2006",
+    "artists": [
+      "Jamiroquai"
+    ],
+    "album": "Driving Songs",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
+    "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
+    "durationMs": 229360,
+    "isPlaying": true,
+    "progressMs": 195500
+  },
   "recentlyPlayed": [
+    {
+      "name": "Set The World On Fire - 7\" Version",
+      "artists": [
+        "E-Type"
+      ],
+      "album": "Made In Sweden",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
+      "url": "https://open.spotify.com/track/67rBycpa8FTFJkQwP5FzP1",
+      "durationMs": 224506,
+      "playedAt": "2026-09-03T22:39:29.370Z"
+    },
     {
       "name": "Reelin' In The Years",
       "artists": [
@@ -100,17 +122,6 @@
       "url": "https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8",
       "durationMs": 204779,
       "playedAt": "2026-09-03T00:54:05.727Z"
-    },
-    {
-      "name": "Summer Breeze",
-      "artists": [
-        "Seals and Crofts"
-      ],
-      "album": "Summer Breeze",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e13b56ae3e9e99abf2c2026c",
-      "url": "https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9",
-      "durationMs": 205480,
-      "playedAt": "2026-09-03T00:50:43.924Z"
     }
   ],
   "topArtists": [
@@ -118,56 +129,37 @@
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": [
-        "lo-fi",
-        "lo-fi beats",
-        "jazz beats"
-      ]
+      "genres": []
     },
     {
       "name": "E-Type",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
       "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
-      "genres": [
-        "eurodance",
-        "europop"
-      ]
+      "genres": []
     },
     {
       "name": "JAŸ-Z",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
       "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
-      "genres": [
-        "hip hop",
-        "east coast hip hop",
-        "rap"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": [
-        "yacht rock",
-        "classic rock",
-        "soft rock"
-      ]
+      "genres": []
     },
     {
       "name": "Peter LeMarc",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
       "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "Rapallo",
@@ -179,9 +171,7 @@
       "name": "D'Angelo",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c265e70cde8652918e1ac32bc",
       "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd",
-      "genres": [
-        "neo soul"
-      ]
+      "genres": []
     }
   ],
   "topTracks": [
