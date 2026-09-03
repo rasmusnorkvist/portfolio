@@ -1,116 +1,116 @@
 {
-  "updatedAt": "2026-09-03T00:28:40.271Z",
+  "updatedAt": "2026-09-03T04:53:59.273Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Long Train Runnin'",
+      "name": "Reelin' In The Years",
       "artists": [
-        "The Doobie Brothers"
+        "Steely Dan"
       ],
-      "album": "The Captain and Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737d419ac975423c069995c7bb",
-      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP",
-      "durationMs": 207266,
-      "playedAt": "2026-09-03T00:26:32.172Z"
+      "album": "Can't Buy A Thrill",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
+      "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs",
+      "durationMs": 277467,
+      "playedAt": "2026-09-03T02:52:19.414Z"
     },
     {
-      "name": "Cocaine",
+      "name": "Sister Golden Hair",
+      "artists": [
+        "America"
+      ],
+      "album": "Hearts",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273865a956fe40cf54597e97fd2",
+      "url": "https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK",
+      "durationMs": 199573,
+      "playedAt": "2026-09-03T02:47:27.930Z"
+    },
+    {
+      "name": "Give Me One Reason",
+      "artists": [
+        "Tracy Chapman"
+      ],
+      "album": "New Beginning",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736b38571f15487588ed53032f",
+      "url": "https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY",
+      "durationMs": 268333,
+      "playedAt": "2026-09-03T02:39:56.408Z"
+    },
+    {
+      "name": "Stars",
+      "artists": [
+        "Simply Red"
+      ],
+      "album": "Stars (Collector's Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730e767887e304020cdbbe25e8",
+      "url": "https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz",
+      "durationMs": 248599,
+      "playedAt": "2026-09-03T02:35:31.241Z"
+    },
+    {
+      "name": "Eye In The Sky",
+      "artists": [
+        "The Alan Parsons Project"
+      ],
+      "album": "Eye In The Sky",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738c5a6302666a7f69a8ded468",
+      "url": "https://open.spotify.com/track/2sIbHjfJ3nbMXNz4w03fWv",
+      "durationMs": 284826,
+      "playedAt": "2026-09-03T01:10:17.532Z"
+    },
+    {
+      "name": "They Call Me The Breeze",
+      "artists": [
+        "Eric Clapton"
+      ],
+      "album": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba0fc34853f791af05dea26a",
+      "url": "https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5",
+      "durationMs": 186534,
+      "playedAt": "2026-09-03T01:05:27.028Z"
+    },
+    {
+      "name": "Lay Down Sally",
       "artists": [
         "Eric Clapton"
       ],
       "album": "Slowhand 35th Anniversary",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e7464d9d8a25b2bf74b782a",
-      "url": "https://open.spotify.com/track/2udGjDmpK1dH9VGyw7nrei",
-      "durationMs": 221640,
-      "playedAt": "2026-09-03T00:23:07.674Z"
+      "url": "https://open.spotify.com/track/6kSSORnF2vhzDpGftPXNWz",
+      "durationMs": 236093,
+      "playedAt": "2026-09-03T01:02:23.527Z"
     },
     {
-      "name": "Untitled (How Does It Feel)",
+      "name": "Right Down the Line",
       "artists": [
-        "D'Angelo"
+        "Gerry Rafferty"
       ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966",
-      "durationMs": 430800,
-      "playedAt": "2026-09-03T00:19:10.074Z"
+      "album": "City to City",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dc60cf9a010f86354e6735dd",
+      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5",
+      "durationMs": 267773,
+      "playedAt": "2026-09-03T00:58:30.440Z"
     },
     {
-      "name": "Greatdayndamornin'/Booty",
+      "name": "Old Man",
       "artists": [
-        "D'Angelo"
+        "Neil Young"
       ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/50k4cklYBbHthI5UDG24KU",
-      "durationMs": 455066,
-      "playedAt": "2026-09-03T00:11:53.364Z"
+      "album": "Harvest (50th Anniversary Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dd19d44cf651a37e3532a945",
+      "url": "https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8",
+      "durationMs": 204779,
+      "playedAt": "2026-09-03T00:54:05.727Z"
     },
     {
-      "name": "Feel Like Makin' Love",
+      "name": "Summer Breeze",
       "artists": [
-        "D'Angelo"
+        "Seals and Crofts"
       ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z",
-      "durationMs": 382333,
-      "playedAt": "2026-09-02T23:11:22.776Z"
-    },
-    {
-      "name": "Spanish Joint",
-      "artists": [
-        "D'Angelo"
-      ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE",
-      "durationMs": 344493,
-      "playedAt": "2026-09-02T23:05:00.490Z"
-    },
-    {
-      "name": "The Root",
-      "artists": [
-        "D'Angelo"
-      ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/2Qmkg3JVW6e0w55HQudjSW",
-      "durationMs": 393106,
-      "playedAt": "2026-09-02T22:59:15.979Z"
-    },
-    {
-      "name": "One Mo'Gin",
-      "artists": [
-        "D'Angelo"
-      ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/4KdHmcUVArJeN7XPjp6Czx",
-      "durationMs": 373026,
-      "playedAt": "2026-09-02T22:52:42.865Z"
-    },
-    {
-      "name": "Chicken Grease",
-      "artists": [
-        "D'Angelo"
-      ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/42uCM9saw5B3bCjEFLROlE",
-      "durationMs": 278573,
-      "playedAt": "2026-09-02T22:46:29.798Z"
-    },
-    {
-      "name": "Send It On",
-      "artists": [
-        "D'Angelo"
-      ],
-      "album": "Voodoo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J",
-      "durationMs": 356493,
-      "playedAt": "2026-09-02T22:41:51.395Z"
+      "album": "Summer Breeze",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e13b56ae3e9e99abf2c2026c",
+      "url": "https://open.spotify.com/track/3B0ms7Xlxl16tRztKHpcu9",
+      "durationMs": 205480,
+      "playedAt": "2026-09-03T00:50:43.924Z"
     }
   ],
   "topArtists": [
@@ -118,37 +118,56 @@
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
+      "genres": [
+        "lo-fi",
+        "lo-fi beats",
+        "jazz beats"
+      ]
     },
     {
       "name": "E-Type",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
       "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
-      "genres": []
+      "genres": [
+        "eurodance",
+        "europop"
+      ]
     },
     {
       "name": "JAŸ-Z",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
       "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
-      "genres": []
+      "genres": [
+        "hip hop",
+        "east coast hip hop",
+        "rap"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": []
+      "genres": [
+        "yacht rock",
+        "classic rock",
+        "soft rock"
+      ]
     },
     {
       "name": "Peter LeMarc",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
       "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Rapallo",
@@ -160,7 +179,9 @@
       "name": "D'Angelo",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c265e70cde8652918e1ac32bc",
       "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd",
-      "genres": []
+      "genres": [
+        "neo soul"
+      ]
     }
   ],
   "topTracks": [
