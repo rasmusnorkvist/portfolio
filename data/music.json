@@ -1,121 +1,116 @@
 {
-  "updatedAt": "2026-09-02T22:18:35.699Z",
+  "updatedAt": "2026-09-03T00:28:40.271Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Playa Playa",
+      "name": "Long Train Runnin'",
+      "artists": [
+        "The Doobie Brothers"
+      ],
+      "album": "The Captain and Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737d419ac975423c069995c7bb",
+      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP",
+      "durationMs": 207266,
+      "playedAt": "2026-09-03T00:26:32.172Z"
+    },
+    {
+      "name": "Cocaine",
+      "artists": [
+        "Eric Clapton"
+      ],
+      "album": "Slowhand 35th Anniversary",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e7464d9d8a25b2bf74b782a",
+      "url": "https://open.spotify.com/track/2udGjDmpK1dH9VGyw7nrei",
+      "durationMs": 221640,
+      "playedAt": "2026-09-03T00:23:07.674Z"
+    },
+    {
+      "name": "Untitled (How Does It Feel)",
       "artists": [
         "D'Angelo"
       ],
       "album": "Voodoo",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
-      "url": "https://open.spotify.com/track/6j0FBH06L1YlVkxBvE972P",
-      "durationMs": 426760,
-      "playedAt": "2026-09-02T22:12:45.850Z"
+      "url": "https://open.spotify.com/track/4oPNN7syJYSjzDhRerF966",
+      "durationMs": 430800,
+      "playedAt": "2026-09-03T00:19:10.074Z"
     },
     {
-      "name": "Play to Lose",
+      "name": "Greatdayndamornin'/Booty",
       "artists": [
-        "Rapallo"
+        "D'Angelo"
       ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/6omojoKV4GqJT5CexQnfGM",
-      "durationMs": 203364,
-      "playedAt": "2026-09-02T21:58:21.519Z"
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/50k4cklYBbHthI5UDG24KU",
+      "durationMs": 455066,
+      "playedAt": "2026-09-03T00:11:53.364Z"
     },
     {
-      "name": "The Hop",
+      "name": "Feel Like Makin' Love",
       "artists": [
-        "A Tribe Called Quest"
+        "D'Angelo"
       ],
-      "album": "Beats, Rhymes & Life",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e3b93c08d98f92dc3ab0146a",
-      "url": "https://open.spotify.com/track/7f1UEGMBMuXfLBP5XANfrW",
-      "durationMs": 207466,
-      "playedAt": "2026-09-02T21:54:55.591Z"
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/7hzgk557YLr0722EFkmp9Z",
+      "durationMs": 382333,
+      "playedAt": "2026-09-02T23:11:22.776Z"
     },
     {
-      "name": "READ YOUR DIARY",
+      "name": "Spanish Joint",
       "artists": [
-        "Måneskin"
+        "D'Angelo"
       ],
-      "album": "RUSH!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27346e72dff16a10e1b5062fdf7",
-      "url": "https://open.spotify.com/track/16HsEMkim07LboMyhR81eu",
-      "durationMs": 150695,
-      "playedAt": "2026-09-02T21:42:50.154Z"
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/4euxFlxLWVGmZZLyYARTyE",
+      "durationMs": 344493,
+      "playedAt": "2026-09-02T23:05:00.490Z"
     },
     {
-      "name": "Allt ljus på mej",
+      "name": "The Root",
       "artists": [
-        "Bo Kaspers Orkester"
+        "D'Angelo"
       ],
-      "album": "I centrum",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346e406a32597436e120b450",
-      "url": "https://open.spotify.com/track/5CyxEqz7n4hRM7UIA5wIr8",
-      "durationMs": 253440,
-      "playedAt": "2026-09-02T21:40:28.258Z"
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/2Qmkg3JVW6e0w55HQudjSW",
+      "durationMs": 393106,
+      "playedAt": "2026-09-02T22:59:15.979Z"
     },
     {
-      "name": "Actual Proof",
+      "name": "One Mo'Gin",
       "artists": [
-        "Awon",
-        "Phoniks"
+        "D'Angelo"
       ],
-      "album": "The Actual Proof",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aef4500f9920f7a2464cc883",
-      "url": "https://open.spotify.com/track/7l4zu1bOOhIgxdsIEC80MH",
-      "durationMs": 182724,
-      "playedAt": "2026-09-02T21:36:44.757Z"
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/4KdHmcUVArJeN7XPjp6Czx",
+      "durationMs": 373026,
+      "playedAt": "2026-09-02T22:52:42.865Z"
     },
     {
-      "name": "Topp Doggz",
+      "name": "Chicken Grease",
       "artists": [
-        "Petter",
-        "Looptroop Rockers"
+        "D'Angelo"
       ],
-      "album": "Den Svenska Underjorden",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b37ee66023d9f54c2942252a",
-      "url": "https://open.spotify.com/track/1ArnPmsv5NWRNUJNRIYc5K",
-      "durationMs": 252626,
-      "playedAt": "2026-09-02T21:34:02.748Z"
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/42uCM9saw5B3bCjEFLROlE",
+      "durationMs": 278573,
+      "playedAt": "2026-09-02T22:46:29.798Z"
     },
     {
-      "name": "Guns Are Drawn",
+      "name": "Send It On",
       "artists": [
-        "The Roots",
-        "Son Little"
+        "D'Angelo"
       ],
-      "album": "The Tipping Point",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738b49e8cdfda2e629a5ca2717",
-      "url": "https://open.spotify.com/track/76tWml55YabjLsNPRwUfEF",
-      "durationMs": 315786,
-      "playedAt": "2026-09-02T21:30:12.343Z"
-    },
-    {
-      "name": "All Eyez On Me (ft. Big Syke)",
-      "artists": [
-        "2Pac",
-        "Big Syke"
-      ],
-      "album": "All Eyez On Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596",
-      "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
-      "durationMs": 307773,
-      "playedAt": "2026-09-02T21:24:58.097Z"
-    },
-    {
-      "name": "Doomsday",
-      "artists": [
-        "MF DOOM",
-        "Pebbles The Invisible Girl"
-      ],
-      "album": "Operation: Doomsday (Complete)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736ce90ec627a0198a8efd127f",
-      "url": "https://open.spotify.com/track/7EQvdUJqZ2i7SWvSB2VqGA",
-      "durationMs": 298053,
-      "playedAt": "2026-09-02T21:19:52.561Z"
+      "album": "Voodoo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b3dc336a7a69293c25d9ade",
+      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J",
+      "durationMs": 356493,
+      "playedAt": "2026-09-02T22:41:51.395Z"
     }
   ],
   "topArtists": [
@@ -162,9 +157,9 @@
       "genres": []
     },
     {
-      "name": "Dina Ögon",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
-      "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
+      "name": "D'Angelo",
+      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c265e70cde8652918e1ac32bc",
+      "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd",
       "genres": []
     }
   ],
@@ -211,6 +206,16 @@
       "durationMs": 81800
     },
     {
+      "name": "Play to Lose",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/6omojoKV4GqJT5CexQnfGM",
+      "durationMs": 203364
+    },
+    {
       "name": "True Believer",
       "artists": [
         "E-Type"
@@ -239,16 +244,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
       "url": "https://open.spotify.com/track/67rBycpa8FTFJkQwP5FzP1",
       "durationMs": 224506
-    },
-    {
-      "name": "Campione 2000 - Radio Version",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Euro IV Ever",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c89626b8b2a51e1383a86efd",
-      "url": "https://open.spotify.com/track/78UcxP3Xm0EOXneQUDsStA",
-      "durationMs": 213413
     }
   ],
   "featuredPlaylists": []
