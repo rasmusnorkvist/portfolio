@@ -1,127 +1,117 @@
 {
-  "updatedAt": "2026-09-03T22:42:35.338Z",
-  "nowPlaying": {
-    "name": "Virtual Insanity - Remastered 2006",
-    "artists": [
-      "Jamiroquai"
-    ],
-    "album": "Driving Songs",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
-    "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
-    "durationMs": 229360,
-    "isPlaying": true,
-    "progressMs": 195500
-  },
+  "updatedAt": "2026-09-04T00:42:04.253Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Set The World On Fire - 7\" Version",
+      "name": "Jubilee Feeling",
       "artists": [
-        "E-Type"
+        "Ezra Collective"
       ],
-      "album": "Made In Sweden",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
-      "url": "https://open.spotify.com/track/67rBycpa8FTFJkQwP5FzP1",
-      "durationMs": 224506,
-      "playedAt": "2026-09-03T22:39:29.370Z"
+      "album": "Jubilee Feeling",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f4048d4716982e9c4e4a3bdc",
+      "url": "https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN",
+      "durationMs": 255227,
+      "playedAt": "2026-09-04T00:26:12.755Z"
     },
     {
-      "name": "Reelin' In The Years",
+      "name": "Stand on the Word - Studio Version",
       "artists": [
-        "Steely Dan"
+        "The Joubert Singers"
       ],
-      "album": "Can't Buy A Thrill",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
-      "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs",
-      "durationMs": 277467,
-      "playedAt": "2026-09-03T02:52:19.414Z"
+      "album": "Stand on the Word",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3d05ff1e31b8a7936d6fe18",
+      "url": "https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR",
+      "durationMs": 303692,
+      "playedAt": "2026-09-04T00:21:48.252Z"
     },
     {
-      "name": "Sister Golden Hair",
+      "name": "Big Wheel",
       "artists": [
-        "America"
+        "Saun & Starr"
       ],
-      "album": "Hearts",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273865a956fe40cf54597e97fd2",
-      "url": "https://open.spotify.com/track/5VSAonaAPhhGn0G7hMYwWK",
-      "durationMs": 199573,
-      "playedAt": "2026-09-03T02:47:27.930Z"
+      "album": "Look Closer",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394a30a193afcd228a72e3e4c",
+      "url": "https://open.spotify.com/track/5oBoE6JosX9WMvMU9xsn4C",
+      "durationMs": 198666,
+      "playedAt": "2026-09-04T00:17:11.354Z"
     },
     {
-      "name": "Give Me One Reason",
+      "name": "I Need You Tonight",
       "artists": [
-        "Tracy Chapman"
+        "Punkin Machine"
       ],
-      "album": "New Beginning",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736b38571f15487588ed53032f",
-      "url": "https://open.spotify.com/track/4vDBJeeQCbhP9FaPPMsYkY",
-      "durationMs": 268333,
-      "playedAt": "2026-09-03T02:39:56.408Z"
+      "album": "I Need You Tonite / Tonight",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c7eb080420db0ec5d4876580",
+      "url": "https://open.spotify.com/track/12SY1IDzol5dg1yBTUoKYx",
+      "durationMs": 338844,
+      "playedAt": "2026-09-04T00:14:18.908Z"
     },
     {
-      "name": "Stars",
+      "name": "Funkin' On the One",
       "artists": [
-        "Simply Red"
+        "The Reddings"
       ],
-      "album": "Stars (Collector's Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730e767887e304020cdbbe25e8",
-      "url": "https://open.spotify.com/track/75CgD6l7K4qMzZrn4CbZqz",
-      "durationMs": 248599,
-      "playedAt": "2026-09-03T02:35:31.241Z"
+      "album": "The Awakening",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273689717874566d832ac61fb72",
+      "url": "https://open.spotify.com/track/0hDFf2UiiYnmF3qadlqvWZ",
+      "durationMs": 217426,
+      "playedAt": "2026-09-04T00:08:57.253Z"
     },
     {
-      "name": "Eye In The Sky",
+      "name": "Sweet Baby",
       "artists": [
-        "The Alan Parsons Project"
+        "Dabeull"
       ],
-      "album": "Eye In The Sky",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738c5a6302666a7f69a8ded468",
-      "url": "https://open.spotify.com/track/2sIbHjfJ3nbMXNz4w03fWv",
-      "durationMs": 284826,
-      "playedAt": "2026-09-03T01:10:17.532Z"
+      "album": "Analog Love",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f0d28c5f9be9cf12b9c50c3",
+      "url": "https://open.spotify.com/track/6YTzAt6WTfpw7AtSm1hsap",
+      "durationMs": 255853,
+      "playedAt": "2026-09-04T00:05:38.511Z"
     },
     {
-      "name": "They Call Me The Breeze",
+      "name": "Down To The Waterline",
       "artists": [
-        "Eric Clapton"
+        "Dire Straits"
       ],
-      "album": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba0fc34853f791af05dea26a",
-      "url": "https://open.spotify.com/track/5zX6E4brIhshX7MPWQiiO5",
-      "durationMs": 186534,
-      "playedAt": "2026-09-03T01:05:27.028Z"
+      "album": "Dire Straits",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8",
+      "url": "https://open.spotify.com/track/7fYKKFD0jiSlMDgG9IUs1q",
+      "durationMs": 241906,
+      "playedAt": "2026-09-04T00:01:36.887Z"
     },
     {
-      "name": "Lay Down Sally",
+      "name": "Don't Dream It's Over",
       "artists": [
-        "Eric Clapton"
+        "Crowded House"
       ],
-      "album": "Slowhand 35th Anniversary",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e7464d9d8a25b2bf74b782a",
-      "url": "https://open.spotify.com/track/6kSSORnF2vhzDpGftPXNWz",
-      "durationMs": 236093,
-      "playedAt": "2026-09-03T01:02:23.527Z"
+      "album": "Crowded House (Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737cef65b561af10a25acbc2df",
+      "url": "https://open.spotify.com/track/56GbZVwxMdf1DENCluYS8A",
+      "durationMs": 238173,
+      "playedAt": "2026-09-03T23:58:29.539Z"
     },
     {
-      "name": "Right Down the Line",
+      "name": "P.Y.T. (Pretty Young Thing)",
       "artists": [
-        "Gerry Rafferty"
+        "Michael Jackson"
       ],
-      "album": "City to City",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dc60cf9a010f86354e6735dd",
-      "url": "https://open.spotify.com/track/2Xb6wJYGi0QXwURw5WWvI5",
-      "durationMs": 267773,
-      "playedAt": "2026-09-03T00:58:30.440Z"
+      "album": "Thriller",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+      "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k",
+      "durationMs": 238333,
+      "playedAt": "2026-09-03T23:54:45.858Z"
     },
     {
-      "name": "Old Man",
+      "name": "Texas Sun",
       "artists": [
-        "Neil Young"
+        "Khruangbin",
+        "Leon Bridges"
       ],
-      "album": "Harvest (50th Anniversary Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dd19d44cf651a37e3532a945",
-      "url": "https://open.spotify.com/track/6grFWYpLQul3nAHjzzPKT8",
-      "durationMs": 204779,
-      "playedAt": "2026-09-03T00:54:05.727Z"
+      "album": "Texas Sun",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ff26bd277274b27f249cc638",
+      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY",
+      "durationMs": 252811,
+      "playedAt": "2026-09-03T23:27:45.607Z"
     }
   ],
   "topArtists": [
