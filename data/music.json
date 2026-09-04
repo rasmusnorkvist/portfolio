@@ -1,117 +1,116 @@
 {
-  "updatedAt": "2026-09-04T00:42:04.253Z",
+  "updatedAt": "2026-09-04T05:25:45.798Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Jubilee Feeling",
+      "name": "My Father's Eyes",
       "artists": [
-        "Ezra Collective"
+        "Eric Clapton"
       ],
-      "album": "Jubilee Feeling",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f4048d4716982e9c4e4a3bdc",
-      "url": "https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN",
-      "durationMs": 255227,
-      "playedAt": "2026-09-04T00:26:12.755Z"
+      "album": "Pilgrim",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273152b92fd79f5e3dbf2c122ca",
+      "url": "https://open.spotify.com/track/2GGskYwS4j8LDMSDUJ8vrl",
+      "durationMs": 323440,
+      "playedAt": "2026-09-04T05:07:23.101Z"
     },
     {
-      "name": "Stand on the Word - Studio Version",
-      "artists": [
-        "The Joubert Singers"
-      ],
-      "album": "Stand on the Word",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3d05ff1e31b8a7936d6fe18",
-      "url": "https://open.spotify.com/track/5vENdsWnbqEBK54OowpBlR",
-      "durationMs": 303692,
-      "playedAt": "2026-09-04T00:21:48.252Z"
-    },
-    {
-      "name": "Big Wheel",
-      "artists": [
-        "Saun & Starr"
-      ],
-      "album": "Look Closer",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394a30a193afcd228a72e3e4c",
-      "url": "https://open.spotify.com/track/5oBoE6JosX9WMvMU9xsn4C",
-      "durationMs": 198666,
-      "playedAt": "2026-09-04T00:17:11.354Z"
-    },
-    {
-      "name": "I Need You Tonight",
-      "artists": [
-        "Punkin Machine"
-      ],
-      "album": "I Need You Tonite / Tonight",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c7eb080420db0ec5d4876580",
-      "url": "https://open.spotify.com/track/12SY1IDzol5dg1yBTUoKYx",
-      "durationMs": 338844,
-      "playedAt": "2026-09-04T00:14:18.908Z"
-    },
-    {
-      "name": "Funkin' On the One",
-      "artists": [
-        "The Reddings"
-      ],
-      "album": "The Awakening",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273689717874566d832ac61fb72",
-      "url": "https://open.spotify.com/track/0hDFf2UiiYnmF3qadlqvWZ",
-      "durationMs": 217426,
-      "playedAt": "2026-09-04T00:08:57.253Z"
-    },
-    {
-      "name": "Sweet Baby",
-      "artists": [
-        "Dabeull"
-      ],
-      "album": "Analog Love",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f0d28c5f9be9cf12b9c50c3",
-      "url": "https://open.spotify.com/track/6YTzAt6WTfpw7AtSm1hsap",
-      "durationMs": 255853,
-      "playedAt": "2026-09-04T00:05:38.511Z"
-    },
-    {
-      "name": "Down To The Waterline",
+      "name": "Once Upon A Time In The West",
       "artists": [
         "Dire Straits"
       ],
-      "album": "Dire Straits",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8",
-      "url": "https://open.spotify.com/track/7fYKKFD0jiSlMDgG9IUs1q",
-      "durationMs": 241906,
-      "playedAt": "2026-09-04T00:01:36.887Z"
+      "album": "Communiqué",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1f7f1d5898b28c1ce3f4947",
+      "url": "https://open.spotify.com/track/0vlCOzte4bru0gK74lfUIJ",
+      "durationMs": 324200,
+      "playedAt": "2026-09-04T05:02:02.658Z"
     },
     {
-      "name": "Don't Dream It's Over",
+      "name": "King Of Pain",
       "artists": [
-        "Crowded House"
+        "The Police"
       ],
-      "album": "Crowded House (Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737cef65b561af10a25acbc2df",
-      "url": "https://open.spotify.com/track/56GbZVwxMdf1DENCluYS8A",
-      "durationMs": 238173,
-      "playedAt": "2026-09-03T23:58:29.539Z"
+      "album": "Synchronicity (Remastered 2003)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
+      "url": "https://open.spotify.com/track/1V15l05snHYHYVxerjMFGo",
+      "durationMs": 299040,
+      "playedAt": "2026-09-04T04:56:41.500Z"
     },
     {
-      "name": "P.Y.T. (Pretty Young Thing)",
+      "name": "Losing My Religion",
       "artists": [
-        "Michael Jackson"
+        "R.E.M."
       ],
-      "album": "Thriller",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-      "url": "https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k",
-      "durationMs": 238333,
-      "playedAt": "2026-09-03T23:54:45.858Z"
+      "album": "Out Of Time (25th Anniversary Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd",
+      "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx",
+      "durationMs": 268426,
+      "playedAt": "2026-09-04T04:51:45.458Z"
     },
     {
-      "name": "Texas Sun",
+      "name": "Old Love",
       "artists": [
-        "Khruangbin",
-        "Leon Bridges"
+        "Eric Clapton"
       ],
-      "album": "Texas Sun",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ff26bd277274b27f249cc638",
-      "url": "https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY",
-      "durationMs": 252811,
-      "playedAt": "2026-09-03T23:27:45.607Z"
+      "album": "Journeyman",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f1e4230a291bd8d1c8e25ca1",
+      "url": "https://open.spotify.com/track/1EWyFFUCC3UgaliycAiKDR",
+      "durationMs": 384466,
+      "playedAt": "2026-09-04T04:47:20.027Z"
+    },
+    {
+      "name": "Stuck In The Middle With You",
+      "artists": [
+        "Stealers Wheel"
+      ],
+      "album": "Stealers Wheel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a5ce236c22035a02cf87d4de",
+      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT",
+      "durationMs": 208946,
+      "playedAt": "2026-09-04T04:40:58.585Z"
+    },
+    {
+      "name": "Forever Man - 1999 Remaster",
+      "artists": [
+        "Eric Clapton"
+      ],
+      "album": "Behind the Sun",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e9522fabc16bfaf9b44bfa7",
+      "url": "https://open.spotify.com/track/6x7jcl21wMqyt5R2bAxPyP",
+      "durationMs": 191560,
+      "playedAt": "2026-09-04T04:29:50.990Z"
+    },
+    {
+      "name": "Before You Accuse Me",
+      "artists": [
+        "Eric Clapton"
+      ],
+      "album": "Journeyman",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f1e4230a291bd8d1c8e25ca1",
+      "url": "https://open.spotify.com/track/2AF4VO2D3wOT4ik18tSXX4",
+      "durationMs": 238600,
+      "playedAt": "2026-09-04T04:26:42.510Z"
+    },
+    {
+      "name": "How Long",
+      "artists": [
+        "Ace"
+      ],
+      "album": "Five-A-Side",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739fef97cc8a71410656b60358",
+      "url": "https://open.spotify.com/track/6Wgst4P9SOnc6WGLtfTb1z",
+      "durationMs": 204226,
+      "playedAt": "2026-09-04T04:22:46.874Z"
+    },
+    {
+      "name": "A Horse With No Name",
+      "artists": [
+        "America"
+      ],
+      "album": "Halcyon Days",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a43abd0e1f673e6b60b822b2",
+      "url": "https://open.spotify.com/track/3t45ugNKvUQW6W2BwdXhC8",
+      "durationMs": 224447,
+      "playedAt": "2026-09-04T04:19:25.614Z"
     }
   ],
   "topArtists": [
