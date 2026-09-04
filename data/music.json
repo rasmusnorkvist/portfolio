@@ -1,116 +1,128 @@
 {
-  "updatedAt": "2026-09-04T19:47:45.240Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-04T22:03:48.893Z",
+  "nowPlaying": {
+    "name": "Mittelmeer",
+    "artists": [
+      "Pashanim"
+    ],
+    "album": "Mittelmeer",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731357848abff6fa28ef931b24",
+    "url": "https://open.spotify.com/track/4gxAezF8MafmWSZ0KCsRGj",
+    "durationMs": 179106,
+    "isPlaying": true,
+    "progressMs": 110057
+  },
   "recentlyPlayed": [
     {
-      "name": "My Father's Eyes",
+      "name": "Der letzte Tanz",
       "artists": [
-        "Eric Clapton"
+        "Bosse"
       ],
-      "album": "Pilgrim",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273152b92fd79f5e3dbf2c122ca",
-      "url": "https://open.spotify.com/track/2GGskYwS4j8LDMSDUJ8vrl",
-      "durationMs": 323440,
-      "playedAt": "2026-09-04T05:07:23.101Z"
+      "album": "Der letzte Tanz",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738ccbc00dc1cdcdb567c6bd04",
+      "url": "https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM",
+      "durationMs": 200100,
+      "playedAt": "2026-09-04T22:02:02.557Z"
     },
     {
-      "name": "Once Upon A Time In The West",
+      "name": "If I Lose Myself",
       "artists": [
-        "Dire Straits"
+        "OneRepublic"
       ],
-      "album": "Communiqué",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1f7f1d5898b28c1ce3f4947",
-      "url": "https://open.spotify.com/track/0vlCOzte4bru0gK74lfUIJ",
-      "durationMs": 324200,
-      "playedAt": "2026-09-04T05:02:02.658Z"
+      "album": "Native",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739e2f95ae77cf436017ada9cb",
+      "url": "https://open.spotify.com/track/5xS9R5yNeVsB9shSR60eX3",
+      "durationMs": 241653,
+      "playedAt": "2026-09-04T21:58:45.481Z"
     },
     {
-      "name": "King Of Pain",
+      "name": "Whistle",
       "artists": [
-        "The Police"
+        "Flo Rida"
       ],
-      "album": "Synchronicity (Remastered 2003)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c8e97cafeb2acb85b21a777e",
-      "url": "https://open.spotify.com/track/1V15l05snHYHYVxerjMFGo",
-      "durationMs": 299040,
-      "playedAt": "2026-09-04T04:56:41.500Z"
+      "album": "Wild Ones",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27315785fa4f22f8c50902b3a42",
+      "url": "https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF",
+      "durationMs": 224653,
+      "playedAt": "2026-09-04T21:54:46.882Z"
     },
     {
-      "name": "Losing My Religion",
+      "name": "Don't Worry",
       "artists": [
-        "R.E.M."
+        "Constantin Ray"
       ],
-      "album": "Out Of Time (25th Anniversary Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e2dd4e821bcc3f70dc0c8ffd",
-      "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx",
-      "durationMs": 268426,
-      "playedAt": "2026-09-04T04:51:45.458Z"
+      "album": "Don't Worry",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273615dfa5494fdc56fc1ea16f4",
+      "url": "https://open.spotify.com/track/6q9En7jGURQO2AZVqmFFNB",
+      "durationMs": 215365,
+      "playedAt": "2026-09-04T21:51:05.190Z"
     },
     {
-      "name": "Old Love",
+      "name": "Ho Hey",
       "artists": [
-        "Eric Clapton"
+        "The Lumineers"
       ],
-      "album": "Journeyman",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f1e4230a291bd8d1c8e25ca1",
-      "url": "https://open.spotify.com/track/1EWyFFUCC3UgaliycAiKDR",
-      "durationMs": 384466,
-      "playedAt": "2026-09-04T04:47:20.027Z"
+      "album": "The Lumineers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f350c13195ce048876b5fea4",
+      "url": "https://open.spotify.com/track/0DwClY2t9YAWHBROMIgrXb",
+      "durationMs": 163133,
+      "playedAt": "2026-09-04T21:47:32.828Z"
     },
     {
-      "name": "Stuck In The Middle With You",
+      "name": "Tränen aus Kajal",
       "artists": [
-        "Stealers Wheel"
+        "CÉLINE"
       ],
-      "album": "Stealers Wheel",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a5ce236c22035a02cf87d4de",
-      "url": "https://open.spotify.com/track/3Vby4nGmtbDo7HDJamOWkT",
-      "durationMs": 208946,
-      "playedAt": "2026-09-04T04:40:58.585Z"
+      "album": "Instinkt",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c41cb8ee952003d2e5223715",
+      "url": "https://open.spotify.com/track/21ejNiqWaIe99otCtD9unS",
+      "durationMs": 154126,
+      "playedAt": "2026-09-04T21:44:39.492Z"
     },
     {
-      "name": "Forever Man - 1999 Remaster",
+      "name": "Rude",
       "artists": [
-        "Eric Clapton"
+        "MAGIC!"
       ],
-      "album": "Behind the Sun",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e9522fabc16bfaf9b44bfa7",
-      "url": "https://open.spotify.com/track/6x7jcl21wMqyt5R2bAxPyP",
-      "durationMs": 191560,
-      "playedAt": "2026-09-04T04:29:50.990Z"
+      "album": "Don't Kill the Magic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1c2609c8b258ad621d4057b",
+      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp",
+      "durationMs": 224849,
+      "playedAt": "2026-09-04T21:42:08.417Z"
     },
     {
-      "name": "Before You Accuse Me",
+      "name": "Heat Waves",
       "artists": [
-        "Eric Clapton"
+        "Glass Animals"
       ],
-      "album": "Journeyman",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f1e4230a291bd8d1c8e25ca1",
-      "url": "https://open.spotify.com/track/2AF4VO2D3wOT4ik18tSXX4",
-      "durationMs": 238600,
-      "playedAt": "2026-09-04T04:26:42.510Z"
+      "album": "Dreamland",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464",
+      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp",
+      "durationMs": 238805,
+      "playedAt": "2026-09-04T21:38:26.591Z"
     },
     {
-      "name": "How Long",
+      "name": "My House",
       "artists": [
-        "Ace"
+        "Flo Rida"
       ],
-      "album": "Five-A-Side",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739fef97cc8a71410656b60358",
-      "url": "https://open.spotify.com/track/6Wgst4P9SOnc6WGLtfTb1z",
-      "durationMs": 204226,
-      "playedAt": "2026-09-04T04:22:46.874Z"
+      "album": "My House",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736ba3d11e51c7df825292307f",
+      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1",
+      "durationMs": 192190,
+      "playedAt": "2026-09-04T21:34:30.785Z"
     },
     {
-      "name": "A Horse With No Name",
+      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
       "artists": [
-        "America"
+        "Maroon 5",
+        "Christina Aguilera"
       ],
-      "album": "Halcyon Days",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a43abd0e1f673e6b60b822b2",
-      "url": "https://open.spotify.com/track/3t45ugNKvUQW6W2BwdXhC8",
-      "durationMs": 224447,
-      "playedAt": "2026-09-04T04:19:25.614Z"
+      "album": "Hands All Over (Revised International Standard version)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739585ff55fff75c5c07a619cb",
+      "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI",
+      "durationMs": 201493,
+      "playedAt": "2026-09-04T21:31:21.590Z"
     }
   ],
   "topArtists": [
@@ -145,15 +157,15 @@
       "genres": []
     },
     {
-      "name": "Peter LeMarc",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
-      "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": []
-    },
-    {
       "name": "Rapallo",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
       "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
+      "genres": []
+    },
+    {
+      "name": "Peter LeMarc",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
+      "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
       "genres": []
     },
     {
@@ -174,6 +186,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c89626b8b2a51e1383a86efd",
       "url": "https://open.spotify.com/track/41Ef0PikCCRBcIM8O0t5HK",
       "durationMs": 222040
+    },
+    {
+      "name": "Play to Lose",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/6omojoKV4GqJT5CexQnfGM",
+      "durationMs": 203364
     },
     {
       "name": "Angels Crying",
@@ -204,16 +226,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
       "url": "https://open.spotify.com/track/2D4JZUIZVJVzZz9gpYaiO9",
       "durationMs": 81800
-    },
-    {
-      "name": "Play to Lose",
-      "artists": [
-        "Rapallo"
-      ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/6omojoKV4GqJT5CexQnfGM",
-      "durationMs": 203364
     },
     {
       "name": "True Believer",
