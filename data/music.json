@@ -1,132 +1,128 @@
 {
-  "updatedAt": "2026-09-05T00:15:05.873Z",
-  "nowPlaying": {
-    "name": "Scars To Your Beautiful",
-    "artists": [
-      "Alessia Cara"
-    ],
-    "album": "Know-It-All",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d7ef1ffbd2a5821152f35ce1",
-    "url": "https://open.spotify.com/track/0wI7QkCcs8FUQE1OkXUIqd",
-    "durationMs": 230240,
-    "isPlaying": true,
-    "progressMs": 181533
-  },
+  "updatedAt": "2026-09-05T04:46:36.215Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Shut Up and Dance",
+      "name": "Chapter 7 (feat. Ty)",
       "artists": [
-        "WALK THE MOON"
+        "Ezra Collective",
+        "Ty"
       ],
-      "album": "TALKING IS HARD",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fc39eb9eb3f3824a58f338dc",
-      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA",
-      "durationMs": 199080,
-      "playedAt": "2026-09-05T00:12:07.939Z"
+      "album": "Chapter 7 (10th Anniversary Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273abec28e9b9de9749b515e6e5",
+      "url": "https://open.spotify.com/track/2FtBcwmmqJIc9m5eMzheP4",
+      "durationMs": 287307,
+      "playedAt": "2026-09-05T03:53:19.112Z"
     },
     {
-      "name": "Chasing Cars",
+      "name": "Body Language (feat. Sasha Keable)",
       "artists": [
-        "Snow Patrol"
+        "Ezra Collective",
+        "Sasha Keable"
       ],
-      "album": "Eyes Open",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f",
-      "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6",
-      "durationMs": 267960,
-      "playedAt": "2026-09-05T00:08:51.843Z"
+      "album": "Body Language (feat. Sasha Keable)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d679905a092b966eac110fb3",
+      "url": "https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG",
+      "durationMs": 242530,
+      "playedAt": "2026-09-05T03:48:34.801Z"
     },
     {
-      "name": "Summer Paradise (feat. MKTO) - Single Version",
+      "name": "⁠Beto’s Horns - Ezra Collective remix",
       "artists": [
-        "Simple Plan",
-        "MKTO"
+        "Fred again..",
+        "CA7RIEL & Paco Amoroso",
+        "Ezra Collective"
       ],
-      "album": "Summer Paradise (feat. MKTO)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732ca4b19368b5685180eba2cc",
-      "url": "https://open.spotify.com/track/56fljzsnWxuCp70LBsMuPD",
-      "durationMs": 233578,
-      "playedAt": "2026-09-05T00:04:26.949Z"
+      "album": "⁠Beto’s Horns (Ezra Collective remix)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c973bb322768e709517dcc63",
+      "url": "https://open.spotify.com/track/39QDO1CMwXHDPdw8cjJpTi",
+      "durationMs": 289927,
+      "playedAt": "2026-09-05T03:43:27.282Z"
     },
     {
-      "name": "Geronimo",
+      "name": "What Am I to Do?",
       "artists": [
-        "Sheppard"
+        "Ezra Collective",
+        "Loyle Carner"
       ],
-      "album": "Bombs Away (Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27333095078d87b94765d8024af",
-      "url": "https://open.spotify.com/track/2RfM3MKoo4BHWTAQsfXRSo",
-      "durationMs": 218227,
-      "playedAt": "2026-09-05T00:00:36.394Z"
+      "album": "You Can't Steal My Joy",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734c6cdbbeac774afd5b9014ef",
+      "url": "https://open.spotify.com/track/7CLzqUggnD6KW5q8GG95ja",
+      "durationMs": 244733,
+      "playedAt": "2026-09-05T03:38:40.374Z"
     },
     {
-      "name": "Story of My Life",
+      "name": "Jubilee Feeling",
       "artists": [
-        "One Direction"
+        "Ezra Collective"
       ],
-      "album": "Midnight Memories (Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733cf0191cca87a4bc7e34bc4a",
-      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg",
-      "durationMs": 245490,
-      "playedAt": "2026-09-04T23:57:01.193Z"
+      "album": "Jubilee Feeling",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f4048d4716982e9c4e4a3bdc",
+      "url": "https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN",
+      "durationMs": 255227,
+      "playedAt": "2026-09-05T03:34:38.685Z"
     },
     {
-      "name": "More Than You Know",
+      "name": "Children Of The Internet - Ezra Collective Remix",
       "artists": [
-        "Axwell /\\ Ingrosso",
-        "Axwell",
-        "Sebastian Ingrosso"
+        "Future Utopia",
+        "Ezra Collective",
+        "Dave",
+        "Es Devlin"
       ],
-      "album": "More Than You Know",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ae37147b85589c58582ee681",
-      "url": "https://open.spotify.com/track/6C09ToLEI6k4HOaXBRW49m",
-      "durationMs": 203000,
-      "playedAt": "2026-09-04T23:52:58.696Z"
+      "album": "Children Of The Internet (Remixes)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352b047b3959d8a80fb52ad5c",
+      "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X",
+      "durationMs": 353346,
+      "playedAt": "2026-09-05T03:30:26.448Z"
     },
     {
-      "name": "Fight Song",
+      "name": "Well Organised (feat. Lila Iké)",
       "artists": [
-        "Rachel Platten"
+        "Ezra Collective",
+        "Lila Iké"
       ],
-      "album": "Wildfire",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a9e4d7fae5dfcc8f9cc96bc9",
-      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr",
-      "durationMs": 204013,
-      "playedAt": "2026-09-04T23:49:38.798Z"
+      "album": "Well Organised (feat. Lila Iké)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738ebbc69f826258536dced809",
+      "url": "https://open.spotify.com/track/6bYQZWdJMKimn0VTXhMwd6",
+      "durationMs": 212289,
+      "playedAt": "2026-09-05T03:24:36.083Z"
     },
     {
-      "name": "Mama",
+      "name": "Only Love (feat. Pa Salieu)",
       "artists": [
-        "Jonas Blue",
-        "William Singe"
+        "Ezra Collective",
+        "Pa Salieu"
       ],
-      "album": "Blue",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735b6bcc59c3562a6f362344c6",
-      "url": "https://open.spotify.com/track/7jEyX4bqaCSdMN4D4JNnVj",
-      "durationMs": 184133,
-      "playedAt": "2026-09-04T23:45:57.100Z"
+      "album": "Only Love (feat. Pa Salieu)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ab257f642f9b731a38105dde",
+      "url": "https://open.spotify.com/track/3IDekoiX1w61kjN0iWKciq",
+      "durationMs": 202545,
+      "playedAt": "2026-09-05T03:21:06.782Z"
     },
     {
-      "name": "Summer Paradise (feat. Sean Paul) - Single Version",
+      "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
       "artists": [
-        "Simple Plan",
-        "Sean Paul"
+        "Ezra Collective",
+        "Yazmin Lacey"
       ],
-      "album": "Get Your Heart On!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f1a7e98c66e32bf63d0ac2dc",
-      "url": "https://open.spotify.com/track/7sziTn5nHwrWf4K7gISaaU",
-      "durationMs": 234786,
-      "playedAt": "2026-09-04T23:42:55.898Z"
+      "album": "Dance, No One's Watching",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8e913bf1a4776a5fe27ce28",
+      "url": "https://open.spotify.com/track/2mxQ3VWWk47YCo9RB2fkOk",
+      "durationMs": 239306,
+      "playedAt": "2026-09-05T03:17:47.283Z"
     },
     {
-      "name": "Country Roads",
+      "name": "No One's Watching Me (feat. Olivia Dean)",
       "artists": [
-        "Hermes House Band"
+        "Ezra Collective",
+        "Olivia Dean"
       ],
-      "album": "The Album (Christmas Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c972cdcb86075bbf64a8c98",
-      "url": "https://open.spotify.com/track/52Y0F8dNBFeF9ZXHG25eUE",
-      "durationMs": 201426,
-      "playedAt": "2026-09-04T23:39:04.199Z"
+      "album": "Dance, No One's Watching",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8e913bf1a4776a5fe27ce28",
+      "url": "https://open.spotify.com/track/70VTTe96UJ9QUyFYbsnW5V",
+      "durationMs": 262306,
+      "playedAt": "2026-09-05T03:13:50.984Z"
     }
   ],
   "topArtists": [
@@ -134,48 +130,31 @@
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": [
-        "lo-fi",
-        "lo-fi beats",
-        "jazz beats"
-      ]
+      "genres": []
     },
     {
       "name": "E-Type",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
       "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
-      "genres": [
-        "eurodance",
-        "europop"
-      ]
+      "genres": []
     },
     {
       "name": "JAŸ-Z",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
       "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
-      "genres": [
-        "hip hop",
-        "east coast hip hop",
-        "rap"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": [
-        "yacht rock",
-        "classic rock",
-        "soft rock"
-      ]
+      "genres": []
     },
     {
       "name": "Rapallo",
@@ -187,17 +166,13 @@
       "name": "Peter LeMarc",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
       "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "D'Angelo",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c265e70cde8652918e1ac32bc",
       "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd",
-      "genres": [
-        "neo soul"
-      ]
+      "genres": []
     }
   ],
   "topTracks": [
