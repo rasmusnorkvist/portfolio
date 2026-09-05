@@ -1,121 +1,118 @@
 {
-  "updatedAt": "2026-09-05T15:24:53.130Z",
+  "updatedAt": "2026-09-05T17:27:00.693Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Hungry Heart",
+      "name": "Rosie's Lullaby",
       "artists": [
-        "Bruce Springsteen"
+        "Norah Jones"
       ],
-      "album": "The River",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739ebb7aaf3e19a51782ba1d27",
-      "url": "https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT",
-      "durationMs": 199452,
-      "playedAt": "2026-09-05T06:19:05.205Z"
+      "album": "Not Too Late",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273df3bee99d02e42d71d3a5a4a",
+      "url": "https://open.spotify.com/track/10hBcbQsH77movlSQHZ4lb",
+      "durationMs": 236773,
+      "playedAt": "2026-09-05T17:19:31.176Z"
     },
     {
-      "name": "Promises",
+      "name": "Really Real (ft. Norah Jones)",
       "artists": [
-        "Eric Clapton"
+        "Allison Russell",
+        "Norah Jones"
       ],
-      "album": "Backless",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732322f8dd87a4ca6cd3a70ba9",
-      "url": "https://open.spotify.com/track/1oar8gdDX5yHWzVstAHDav",
-      "durationMs": 181226,
-      "playedAt": "2026-09-05T06:15:48.756Z"
+      "album": "In the Hour of Chaos",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273484006dc742a9b43b1cab3d1",
+      "url": "https://open.spotify.com/track/0dRAyCqoS3OhFXqdMiQz2f",
+      "durationMs": 205213,
+      "playedAt": "2026-09-05T17:15:37.481Z"
     },
     {
-      "name": "A Horse with No Name",
+      "name": "Not Too Late",
       "artists": [
-        "America",
-        "George Martin"
+        "Norah Jones"
       ],
-      "album": "America",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
-      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt",
-      "durationMs": 252239,
-      "playedAt": "2026-09-05T06:12:50.540Z"
+      "album": "Not Too Late",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273df3bee99d02e42d71d3a5a4a",
+      "url": "https://open.spotify.com/track/0KNbGtYQmQo8XjVqJMWF3Y",
+      "durationMs": 211466,
+      "playedAt": "2026-09-05T17:12:15.281Z"
     },
     {
-      "name": "Year of the Cat - 2001 Remaster",
+      "name": "Thinking About You",
       "artists": [
-        "Al Stewart"
+        "Norah Jones"
       ],
-      "album": "Year of the Cat",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d1556d406a19cf829e6e0b8",
-      "url": "https://open.spotify.com/track/5jYYumalS1qELrcChOCZrK",
-      "durationMs": 401400,
-      "playedAt": "2026-09-05T06:08:41.341Z"
+      "album": "Not Too Late",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273df3bee99d02e42d71d3a5a4a",
+      "url": "https://open.spotify.com/track/0suRVpl5fIZVm7PuROSRsQ",
+      "durationMs": 197280,
+      "playedAt": "2026-09-05T17:08:46.758Z"
     },
     {
-      "name": "Use Me",
+      "name": "Come Away With Me - Alternate Version",
       "artists": [
-        "Bill Withers"
+        "Norah Jones"
       ],
-      "album": "Still Bill",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27372641ed682401fc46c18ac12",
-      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN",
-      "durationMs": 228326,
-      "playedAt": "2026-09-05T06:02:02.940Z"
+      "album": "Come Away With Me (Super Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
+      "url": "https://open.spotify.com/track/4yaoi2yin0n9WHaGFPcszQ",
+      "durationMs": 207000,
+      "playedAt": "2026-09-05T17:05:32.524Z"
     },
     {
-      "name": "It Ain't Over 'Til It's Over",
+      "name": "Were You Watching?",
       "artists": [
-        "Lenny Kravitz"
+        "Norah Jones"
       ],
-      "album": "Mama Said",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bfc19627a4a3a604c0a195e5",
-      "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR",
-      "durationMs": 242640,
-      "playedAt": "2026-09-05T05:58:17.640Z"
+      "album": "Were You Watching?",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27399eccec2ab0228debdc7bbfd",
+      "url": "https://open.spotify.com/track/3JDOa1mC1h2UJW9bGcZsVN",
+      "durationMs": 316853,
+      "playedAt": "2026-09-05T17:02:08.526Z"
     },
     {
-      "name": "Pretending",
+      "name": "Unchained Melody",
       "artists": [
-        "Eric Clapton"
+        "Norah Jones"
       ],
-      "album": "Journeyman",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f1e4230a291bd8d1c8e25ca1",
-      "url": "https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks",
-      "durationMs": 283280,
-      "playedAt": "2026-09-05T05:54:17.969Z"
+      "album": "Resistance Radio: The Man in the High Castle Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f7d201cb0c6bc015ef6ecd37",
+      "url": "https://open.spotify.com/track/2S7AhLiZxFa1S8i2pI4AJD",
+      "durationMs": 170160,
+      "playedAt": "2026-09-05T16:56:54.681Z"
     },
     {
-      "name": "Chapter 7 (feat. Ty)",
+      "name": "Here We Go Again",
       "artists": [
-        "Ezra Collective",
-        "Ty"
+        "Ray Charles",
+        "Norah Jones"
       ],
-      "album": "Chapter 7 (10th Anniversary Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273abec28e9b9de9749b515e6e5",
-      "url": "https://open.spotify.com/track/2FtBcwmmqJIc9m5eMzheP4",
-      "durationMs": 287307,
-      "playedAt": "2026-09-05T03:53:19.112Z"
+      "album": "Genius Loves Company",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c2f661a9c283bf33a991dd1",
+      "url": "https://open.spotify.com/track/5PgeYGt6XuIbgGnGBl8fFU",
+      "durationMs": 238750,
+      "playedAt": "2026-09-05T16:54:07.580Z"
     },
     {
-      "name": "Body Language (feat. Sasha Keable)",
+      "name": "The Nearness Of You",
       "artists": [
-        "Ezra Collective",
-        "Sasha Keable"
+        "Norah Jones"
       ],
-      "album": "Body Language (feat. Sasha Keable)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d679905a092b966eac110fb3",
-      "url": "https://open.spotify.com/track/5EUh2m1rTsojG22W7XrCBG",
-      "durationMs": 242530,
-      "playedAt": "2026-09-05T03:48:34.801Z"
+      "album": "Come Away With Me (Super Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
+      "url": "https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2",
+      "durationMs": 187769,
+      "playedAt": "2026-09-05T16:50:11.790Z"
     },
     {
-      "name": "⁠Beto’s Horns - Ezra Collective remix",
+      "name": "Carry On",
       "artists": [
-        "Fred again..",
-        "CA7RIEL & Paco Amoroso",
-        "Ezra Collective"
+        "Norah Jones"
       ],
-      "album": "⁠Beto’s Horns (Ezra Collective remix)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c973bb322768e709517dcc63",
-      "url": "https://open.spotify.com/track/39QDO1CMwXHDPdw8cjJpTi",
-      "durationMs": 289927,
-      "playedAt": "2026-09-05T03:43:27.282Z"
+      "album": "Day Breaks",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735843cb50b0751124f3e34e6e",
+      "url": "https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl",
+      "durationMs": 168106,
+      "playedAt": "2026-09-05T16:45:36.674Z"
     }
   ],
   "topArtists": [
