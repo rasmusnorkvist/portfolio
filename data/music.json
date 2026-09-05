@@ -1,7 +1,85 @@
 {
-  "updatedAt": "2026-09-05T04:46:36.215Z",
+  "updatedAt": "2026-09-05T08:46:55.070Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Hungry Heart",
+      "artists": [
+        "Bruce Springsteen"
+      ],
+      "album": "The River",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739ebb7aaf3e19a51782ba1d27",
+      "url": "https://open.spotify.com/track/1KsI8NEeAna8ZIdojI3FiT",
+      "durationMs": 199452,
+      "playedAt": "2026-09-05T06:19:05.205Z"
+    },
+    {
+      "name": "Promises",
+      "artists": [
+        "Eric Clapton"
+      ],
+      "album": "Backless",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732322f8dd87a4ca6cd3a70ba9",
+      "url": "https://open.spotify.com/track/1oar8gdDX5yHWzVstAHDav",
+      "durationMs": 181226,
+      "playedAt": "2026-09-05T06:15:48.756Z"
+    },
+    {
+      "name": "A Horse with No Name",
+      "artists": [
+        "America",
+        "George Martin"
+      ],
+      "album": "America",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
+      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt",
+      "durationMs": 252239,
+      "playedAt": "2026-09-05T06:12:50.540Z"
+    },
+    {
+      "name": "Year of the Cat - 2001 Remaster",
+      "artists": [
+        "Al Stewart"
+      ],
+      "album": "Year of the Cat",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d1556d406a19cf829e6e0b8",
+      "url": "https://open.spotify.com/track/5jYYumalS1qELrcChOCZrK",
+      "durationMs": 401400,
+      "playedAt": "2026-09-05T06:08:41.341Z"
+    },
+    {
+      "name": "Use Me",
+      "artists": [
+        "Bill Withers"
+      ],
+      "album": "Still Bill",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27372641ed682401fc46c18ac12",
+      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN",
+      "durationMs": 228326,
+      "playedAt": "2026-09-05T06:02:02.940Z"
+    },
+    {
+      "name": "It Ain't Over 'Til It's Over",
+      "artists": [
+        "Lenny Kravitz"
+      ],
+      "album": "Mama Said",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bfc19627a4a3a604c0a195e5",
+      "url": "https://open.spotify.com/track/6VnpKLtfNH4Dk09YSGPSyR",
+      "durationMs": 242640,
+      "playedAt": "2026-09-05T05:58:17.640Z"
+    },
+    {
+      "name": "Pretending",
+      "artists": [
+        "Eric Clapton"
+      ],
+      "album": "Journeyman",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f1e4230a291bd8d1c8e25ca1",
+      "url": "https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks",
+      "durationMs": 283280,
+      "playedAt": "2026-09-05T05:54:17.969Z"
+    },
     {
       "name": "Chapter 7 (feat. Ty)",
       "artists": [
@@ -38,91 +116,6 @@
       "url": "https://open.spotify.com/track/39QDO1CMwXHDPdw8cjJpTi",
       "durationMs": 289927,
       "playedAt": "2026-09-05T03:43:27.282Z"
-    },
-    {
-      "name": "What Am I to Do?",
-      "artists": [
-        "Ezra Collective",
-        "Loyle Carner"
-      ],
-      "album": "You Can't Steal My Joy",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734c6cdbbeac774afd5b9014ef",
-      "url": "https://open.spotify.com/track/7CLzqUggnD6KW5q8GG95ja",
-      "durationMs": 244733,
-      "playedAt": "2026-09-05T03:38:40.374Z"
-    },
-    {
-      "name": "Jubilee Feeling",
-      "artists": [
-        "Ezra Collective"
-      ],
-      "album": "Jubilee Feeling",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f4048d4716982e9c4e4a3bdc",
-      "url": "https://open.spotify.com/track/20oKIhNJOY7QemUmqydhDN",
-      "durationMs": 255227,
-      "playedAt": "2026-09-05T03:34:38.685Z"
-    },
-    {
-      "name": "Children Of The Internet - Ezra Collective Remix",
-      "artists": [
-        "Future Utopia",
-        "Ezra Collective",
-        "Dave",
-        "Es Devlin"
-      ],
-      "album": "Children Of The Internet (Remixes)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352b047b3959d8a80fb52ad5c",
-      "url": "https://open.spotify.com/track/0gSLaX91J2Cs9cWXqsRc4X",
-      "durationMs": 353346,
-      "playedAt": "2026-09-05T03:30:26.448Z"
-    },
-    {
-      "name": "Well Organised (feat. Lila Iké)",
-      "artists": [
-        "Ezra Collective",
-        "Lila Iké"
-      ],
-      "album": "Well Organised (feat. Lila Iké)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738ebbc69f826258536dced809",
-      "url": "https://open.spotify.com/track/6bYQZWdJMKimn0VTXhMwd6",
-      "durationMs": 212289,
-      "playedAt": "2026-09-05T03:24:36.083Z"
-    },
-    {
-      "name": "Only Love (feat. Pa Salieu)",
-      "artists": [
-        "Ezra Collective",
-        "Pa Salieu"
-      ],
-      "album": "Only Love (feat. Pa Salieu)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ab257f642f9b731a38105dde",
-      "url": "https://open.spotify.com/track/3IDekoiX1w61kjN0iWKciq",
-      "durationMs": 202545,
-      "playedAt": "2026-09-05T03:21:06.782Z"
-    },
-    {
-      "name": "God Gave Me Feet For Dancing (feat. Yazmin Lacey)",
-      "artists": [
-        "Ezra Collective",
-        "Yazmin Lacey"
-      ],
-      "album": "Dance, No One's Watching",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8e913bf1a4776a5fe27ce28",
-      "url": "https://open.spotify.com/track/2mxQ3VWWk47YCo9RB2fkOk",
-      "durationMs": 239306,
-      "playedAt": "2026-09-05T03:17:47.283Z"
-    },
-    {
-      "name": "No One's Watching Me (feat. Olivia Dean)",
-      "artists": [
-        "Ezra Collective",
-        "Olivia Dean"
-      ],
-      "album": "Dance, No One's Watching",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8e913bf1a4776a5fe27ce28",
-      "url": "https://open.spotify.com/track/70VTTe96UJ9QUyFYbsnW5V",
-      "durationMs": 262306,
-      "playedAt": "2026-09-05T03:13:50.984Z"
     }
   ],
   "topArtists": [
