@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-09-05T19:17:31.418Z",
+  "updatedAt": "2026-09-05T21:28:03.626Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Dance Me To The End Of Love - Live",
+      "artists": [
+        "Leonard Cohen"
+      ],
+      "album": "From The Silence (Live 1993)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5f0469079ad1753a1e2a63d",
+      "url": "https://open.spotify.com/track/5y06djHxw3HVPSppXnVd10",
+      "durationMs": 366960,
+      "playedAt": "2026-09-05T20:01:23.366Z"
+    },
+    {
+      "name": "Coming Back To You - Live",
+      "artists": [
+        "Leonard Cohen"
+      ],
+      "album": "From The Silence (Live 1993)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5f0469079ad1753a1e2a63d",
+      "url": "https://open.spotify.com/track/73Led8ICsKOVuDgAUmdKex",
+      "durationMs": 276927,
+      "playedAt": "2026-09-05T19:55:16.365Z"
+    },
+    {
+      "name": "Ain't No Cure For Love - Live",
+      "artists": [
+        "Leonard Cohen"
+      ],
+      "album": "From The Silence (Live 1993)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5f0469079ad1753a1e2a63d",
+      "url": "https://open.spotify.com/track/6wgA1x7KZTW2M5yUVQ9uml",
+      "durationMs": 311464,
+      "playedAt": "2026-09-05T19:50:39.444Z"
+    },
+    {
+      "name": "First We Take Manhattan - Live",
+      "artists": [
+        "Leonard Cohen"
+      ],
+      "album": "From The Silence (Live 1993)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5f0469079ad1753a1e2a63d",
+      "url": "https://open.spotify.com/track/1jCF5QPgxPVqxiPVO8m9zP",
+      "durationMs": 358517,
+      "playedAt": "2026-09-05T19:45:27.963Z"
+    },
+    {
+      "name": "Tragedy",
+      "artists": [
+        "Norah Jones"
+      ],
+      "album": "Day Breaks",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735843cb50b0751124f3e34e6e",
+      "url": "https://open.spotify.com/track/4zc1kHI3oidx5AhMgqtOeV",
+      "durationMs": 254840,
+      "playedAt": "2026-09-05T19:39:06.310Z"
+    },
     {
       "name": "Rosie's Lullaby",
       "artists": [
@@ -57,62 +112,6 @@
       "url": "https://open.spotify.com/track/4yaoi2yin0n9WHaGFPcszQ",
       "durationMs": 207000,
       "playedAt": "2026-09-05T17:05:32.524Z"
-    },
-    {
-      "name": "Were You Watching?",
-      "artists": [
-        "Norah Jones"
-      ],
-      "album": "Were You Watching?",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27399eccec2ab0228debdc7bbfd",
-      "url": "https://open.spotify.com/track/3JDOa1mC1h2UJW9bGcZsVN",
-      "durationMs": 316853,
-      "playedAt": "2026-09-05T17:02:08.526Z"
-    },
-    {
-      "name": "Unchained Melody",
-      "artists": [
-        "Norah Jones"
-      ],
-      "album": "Resistance Radio: The Man in the High Castle Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f7d201cb0c6bc015ef6ecd37",
-      "url": "https://open.spotify.com/track/2S7AhLiZxFa1S8i2pI4AJD",
-      "durationMs": 170160,
-      "playedAt": "2026-09-05T16:56:54.681Z"
-    },
-    {
-      "name": "Here We Go Again",
-      "artists": [
-        "Ray Charles",
-        "Norah Jones"
-      ],
-      "album": "Genius Loves Company",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c2f661a9c283bf33a991dd1",
-      "url": "https://open.spotify.com/track/5PgeYGt6XuIbgGnGBl8fFU",
-      "durationMs": 238750,
-      "playedAt": "2026-09-05T16:54:07.580Z"
-    },
-    {
-      "name": "The Nearness Of You",
-      "artists": [
-        "Norah Jones"
-      ],
-      "album": "Come Away With Me (Super Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
-      "url": "https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2",
-      "durationMs": 187769,
-      "playedAt": "2026-09-05T16:50:11.790Z"
-    },
-    {
-      "name": "Carry On",
-      "artists": [
-        "Norah Jones"
-      ],
-      "album": "Day Breaks",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735843cb50b0751124f3e34e6e",
-      "url": "https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl",
-      "durationMs": 168106,
-      "playedAt": "2026-09-05T16:45:36.674Z"
     }
   ],
   "topArtists": [
@@ -159,9 +158,9 @@
       "genres": []
     },
     {
-      "name": "D'Angelo",
-      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c265e70cde8652918e1ac32bc",
-      "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd",
+      "name": "Dina Ögon",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
+      "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
       "genres": []
     }
   ],
