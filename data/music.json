@@ -1,128 +1,132 @@
 {
-  "updatedAt": "2026-09-04T22:03:48.893Z",
+  "updatedAt": "2026-09-05T00:15:05.873Z",
   "nowPlaying": {
-    "name": "Mittelmeer",
+    "name": "Scars To Your Beautiful",
     "artists": [
-      "Pashanim"
+      "Alessia Cara"
     ],
-    "album": "Mittelmeer",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731357848abff6fa28ef931b24",
-    "url": "https://open.spotify.com/track/4gxAezF8MafmWSZ0KCsRGj",
-    "durationMs": 179106,
+    "album": "Know-It-All",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d7ef1ffbd2a5821152f35ce1",
+    "url": "https://open.spotify.com/track/0wI7QkCcs8FUQE1OkXUIqd",
+    "durationMs": 230240,
     "isPlaying": true,
-    "progressMs": 110057
+    "progressMs": 181533
   },
   "recentlyPlayed": [
     {
-      "name": "Der letzte Tanz",
+      "name": "Shut Up and Dance",
       "artists": [
-        "Bosse"
+        "WALK THE MOON"
       ],
-      "album": "Der letzte Tanz",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738ccbc00dc1cdcdb567c6bd04",
-      "url": "https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM",
-      "durationMs": 200100,
-      "playedAt": "2026-09-04T22:02:02.557Z"
+      "album": "TALKING IS HARD",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fc39eb9eb3f3824a58f338dc",
+      "url": "https://open.spotify.com/track/4kbj5MwxO1bq9wjT5g9HaA",
+      "durationMs": 199080,
+      "playedAt": "2026-09-05T00:12:07.939Z"
     },
     {
-      "name": "If I Lose Myself",
+      "name": "Chasing Cars",
       "artists": [
-        "OneRepublic"
+        "Snow Patrol"
       ],
-      "album": "Native",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739e2f95ae77cf436017ada9cb",
-      "url": "https://open.spotify.com/track/5xS9R5yNeVsB9shSR60eX3",
-      "durationMs": 241653,
-      "playedAt": "2026-09-04T21:58:45.481Z"
+      "album": "Eyes Open",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735da2756220da9b6f17924f8f",
+      "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6",
+      "durationMs": 267960,
+      "playedAt": "2026-09-05T00:08:51.843Z"
     },
     {
-      "name": "Whistle",
+      "name": "Summer Paradise (feat. MKTO) - Single Version",
       "artists": [
-        "Flo Rida"
+        "Simple Plan",
+        "MKTO"
       ],
-      "album": "Wild Ones",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27315785fa4f22f8c50902b3a42",
-      "url": "https://open.spotify.com/track/3bC1ahPIYt1btJzSSEyyrF",
-      "durationMs": 224653,
-      "playedAt": "2026-09-04T21:54:46.882Z"
+      "album": "Summer Paradise (feat. MKTO)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732ca4b19368b5685180eba2cc",
+      "url": "https://open.spotify.com/track/56fljzsnWxuCp70LBsMuPD",
+      "durationMs": 233578,
+      "playedAt": "2026-09-05T00:04:26.949Z"
     },
     {
-      "name": "Don't Worry",
+      "name": "Geronimo",
       "artists": [
-        "Constantin Ray"
+        "Sheppard"
       ],
-      "album": "Don't Worry",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273615dfa5494fdc56fc1ea16f4",
-      "url": "https://open.spotify.com/track/6q9En7jGURQO2AZVqmFFNB",
-      "durationMs": 215365,
-      "playedAt": "2026-09-04T21:51:05.190Z"
+      "album": "Bombs Away (Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27333095078d87b94765d8024af",
+      "url": "https://open.spotify.com/track/2RfM3MKoo4BHWTAQsfXRSo",
+      "durationMs": 218227,
+      "playedAt": "2026-09-05T00:00:36.394Z"
     },
     {
-      "name": "Ho Hey",
+      "name": "Story of My Life",
       "artists": [
-        "The Lumineers"
+        "One Direction"
       ],
-      "album": "The Lumineers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f350c13195ce048876b5fea4",
-      "url": "https://open.spotify.com/track/0DwClY2t9YAWHBROMIgrXb",
-      "durationMs": 163133,
-      "playedAt": "2026-09-04T21:47:32.828Z"
+      "album": "Midnight Memories (Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733cf0191cca87a4bc7e34bc4a",
+      "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg",
+      "durationMs": 245490,
+      "playedAt": "2026-09-04T23:57:01.193Z"
     },
     {
-      "name": "Tränen aus Kajal",
+      "name": "More Than You Know",
       "artists": [
-        "CÉLINE"
+        "Axwell /\\ Ingrosso",
+        "Axwell",
+        "Sebastian Ingrosso"
       ],
-      "album": "Instinkt",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c41cb8ee952003d2e5223715",
-      "url": "https://open.spotify.com/track/21ejNiqWaIe99otCtD9unS",
-      "durationMs": 154126,
-      "playedAt": "2026-09-04T21:44:39.492Z"
+      "album": "More Than You Know",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ae37147b85589c58582ee681",
+      "url": "https://open.spotify.com/track/6C09ToLEI6k4HOaXBRW49m",
+      "durationMs": 203000,
+      "playedAt": "2026-09-04T23:52:58.696Z"
     },
     {
-      "name": "Rude",
+      "name": "Fight Song",
       "artists": [
-        "MAGIC!"
+        "Rachel Platten"
       ],
-      "album": "Don't Kill the Magic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1c2609c8b258ad621d4057b",
-      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp",
-      "durationMs": 224849,
-      "playedAt": "2026-09-04T21:42:08.417Z"
+      "album": "Wildfire",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a9e4d7fae5dfcc8f9cc96bc9",
+      "url": "https://open.spotify.com/track/37f4ITSlgPX81ad2EvmVQr",
+      "durationMs": 204013,
+      "playedAt": "2026-09-04T23:49:38.798Z"
     },
     {
-      "name": "Heat Waves",
+      "name": "Mama",
       "artists": [
-        "Glass Animals"
+        "Jonas Blue",
+        "William Singe"
       ],
-      "album": "Dreamland",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273712701c5e263efc8726b1464",
-      "url": "https://open.spotify.com/track/3USxtqRwSYz57Ewm6wWRMp",
-      "durationMs": 238805,
-      "playedAt": "2026-09-04T21:38:26.591Z"
+      "album": "Blue",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735b6bcc59c3562a6f362344c6",
+      "url": "https://open.spotify.com/track/7jEyX4bqaCSdMN4D4JNnVj",
+      "durationMs": 184133,
+      "playedAt": "2026-09-04T23:45:57.100Z"
     },
     {
-      "name": "My House",
+      "name": "Summer Paradise (feat. Sean Paul) - Single Version",
       "artists": [
-        "Flo Rida"
+        "Simple Plan",
+        "Sean Paul"
       ],
-      "album": "My House",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736ba3d11e51c7df825292307f",
-      "url": "https://open.spotify.com/track/6Knv6wdA0luoMUuuoYi2i1",
-      "durationMs": 192190,
-      "playedAt": "2026-09-04T21:34:30.785Z"
+      "album": "Get Your Heart On!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f1a7e98c66e32bf63d0ac2dc",
+      "url": "https://open.spotify.com/track/7sziTn5nHwrWf4K7gISaaU",
+      "durationMs": 234786,
+      "playedAt": "2026-09-04T23:42:55.898Z"
     },
     {
-      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "name": "Country Roads",
       "artists": [
-        "Maroon 5",
-        "Christina Aguilera"
+        "Hermes House Band"
       ],
-      "album": "Hands All Over (Revised International Standard version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739585ff55fff75c5c07a619cb",
-      "url": "https://open.spotify.com/track/7pYfyrMNPn3wtoCyqcTVoI",
-      "durationMs": 201493,
-      "playedAt": "2026-09-04T21:31:21.590Z"
+      "album": "The Album (Christmas Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c972cdcb86075bbf64a8c98",
+      "url": "https://open.spotify.com/track/52Y0F8dNBFeF9ZXHG25eUE",
+      "durationMs": 201426,
+      "playedAt": "2026-09-04T23:39:04.199Z"
     }
   ],
   "topArtists": [
@@ -130,31 +134,48 @@
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
+      "genres": [
+        "lo-fi",
+        "lo-fi beats",
+        "jazz beats"
+      ]
     },
     {
       "name": "E-Type",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
       "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
-      "genres": []
+      "genres": [
+        "eurodance",
+        "europop"
+      ]
     },
     {
       "name": "JAŸ-Z",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
       "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
-      "genres": []
+      "genres": [
+        "hip hop",
+        "east coast hip hop",
+        "rap"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": []
+      "genres": [
+        "yacht rock",
+        "classic rock",
+        "soft rock"
+      ]
     },
     {
       "name": "Rapallo",
@@ -166,13 +187,17 @@
       "name": "Peter LeMarc",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
       "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "D'Angelo",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c265e70cde8652918e1ac32bc",
       "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd",
-      "genres": []
+      "genres": [
+        "neo soul"
+      ]
     }
   ],
   "topTracks": [
