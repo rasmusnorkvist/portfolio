@@ -1,7 +1,31 @@
 {
-  "updatedAt": "2026-09-06T19:22:45.334Z",
+  "updatedAt": "2026-09-06T21:31:33.180Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Int'l Players Anthem (I Choose You) (feat. Outkast)",
+      "artists": [
+        "UGK",
+        "Outkast"
+      ],
+      "album": "UGK (Underground Kingz)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ecd0dec7edf87dab40d19b7",
+      "url": "https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD",
+      "durationMs": 259040,
+      "playedAt": "2026-09-06T21:17:30.614Z"
+    },
+    {
+      "name": "Ni**as In Paris",
+      "artists": [
+        "JAŸ-Z",
+        "Kanye West"
+      ],
+      "album": "Watch The Throne",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30",
+      "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um",
+      "durationMs": 219333,
+      "playedAt": "2026-09-06T21:13:14.597Z"
+    },
     {
       "name": "Don't Let Me Be Misunderstood",
       "artists": [
@@ -90,28 +114,6 @@
       "url": "https://open.spotify.com/track/4oTR05VVXSgVEFmN374D61",
       "durationMs": 241348,
       "playedAt": "2026-09-06T17:29:31.793Z"
-    },
-    {
-      "name": "Loving Him (aka You Can't Be Loving Him)",
-      "artists": [
-        "The Delfonics"
-      ],
-      "album": "The Very Best Of",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27338c72ef83fe47f29c5cfb886",
-      "url": "https://open.spotify.com/track/1kzRVJJTAkCoNUOF8HGdKo",
-      "durationMs": 123706,
-      "playedAt": "2026-09-06T17:25:33.389Z"
-    },
-    {
-      "name": "Everytime I See My Baby - Remastered",
-      "artists": [
-        "The Delfonics"
-      ],
-      "album": "The Sound Of Sexy Soul",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f699570966e5711c62693af3",
-      "url": "https://open.spotify.com/track/3uXHU3yclU5zb26TsooqBy",
-      "durationMs": 161560,
-      "playedAt": "2026-09-06T17:23:32.689Z"
     }
   ],
   "topArtists": [
