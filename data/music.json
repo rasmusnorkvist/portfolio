@@ -1,119 +1,125 @@
 {
-  "updatedAt": "2026-09-06T21:31:33.180Z",
+  "updatedAt": "2026-09-06T23:26:44.737Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Int'l Players Anthem (I Choose You) (feat. Outkast)",
+      "name": "Touch It",
       "artists": [
-        "UGK",
+        "Busta Rhymes"
+      ],
+      "album": "The Big Bang",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cb985820fdad1b2ff5402141",
+      "url": "https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao",
+      "durationMs": 214960,
+      "playedAt": "2026-09-06T22:32:05.092Z"
+    },
+    {
+      "name": "Beautiful",
+      "artists": [
+        "Snoop Dogg",
+        "Pharrell Williams",
+        "Uncle Charlie Wilson"
+      ],
+      "album": "Hip Hop 2000",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27324858c881eb141ea70f5b48d",
+      "url": "https://open.spotify.com/track/7mD9W97gjwxfFR9abW5ycI",
+      "durationMs": 298612,
+      "playedAt": "2026-09-06T22:28:33.287Z"
+    },
+    {
+      "name": "We Gonna Make It",
+      "artists": [
+        "Jadakiss",
+        "Styles P"
+      ],
+      "album": "Kiss Tha Game Goodbye",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27328ebc6b4c1430b776a6e419e",
+      "url": "https://open.spotify.com/track/3FYSNSTUCqAZGfwEd8ui4l",
+      "durationMs": 213826,
+      "playedAt": "2026-09-06T22:23:37.549Z"
+    },
+    {
+      "name": "Daydreamin' (feat. Jill Scott)",
+      "artists": [
+        "Lupe Fiasco",
+        "Jill Scott"
+      ],
+      "album": "Lupe Fiasco's Food & Liquor",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273605429da30da392395c34c00",
+      "url": "https://open.spotify.com/track/50M2QjfSM82wkJ1d0iV4mh",
+      "durationMs": 234306,
+      "playedAt": "2026-09-06T22:20:06.725Z"
+    },
+    {
+      "name": "Fast Lane",
+      "artists": [
+        "Bad Meets Evil"
+      ],
+      "album": "Hell: The Sequel (Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27359a1132f3cab22f80b2d2777",
+      "url": "https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig",
+      "durationMs": 249560,
+      "playedAt": "2026-09-06T22:15:58.145Z"
+    },
+    {
+      "name": "Why You Always Hatin?",
+      "artists": [
+        "YG",
+        "Drake",
+        "Kamaiyah"
+      ],
+      "album": "Still Brazy (Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f731c8017e36b13e252bd2c6",
+      "url": "https://open.spotify.com/track/4ezAjoV01phDz1SqO6SzEU",
+      "durationMs": 196586,
+      "playedAt": "2026-09-06T22:05:31.968Z"
+    },
+    {
+      "name": "It's Goin' Down (feat. Nitti)",
+      "artists": [
+        "Yung Joc",
+        "NITTI"
+      ],
+      "album": "New Joc City",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d5acd56d860b2481e9cbd3e1",
+      "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX",
+      "durationMs": 241840,
+      "playedAt": "2026-09-06T22:02:18.377Z"
+    },
+    {
+      "name": "U and Dat (feat. T. Pain & Kandi Girl)",
+      "artists": [
+        "E-40",
+        "T-Pain",
+        "Kandi Girl"
+      ],
+      "album": "My Ghetto Report Card",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273323ddf04bbf79029f3142087",
+      "url": "https://open.spotify.com/track/7g7M96UGiA7OR79H86gV4m",
+      "durationMs": 202720,
+      "playedAt": "2026-09-06T21:58:19.570Z"
+    },
+    {
+      "name": "Raise Up",
+      "artists": [
+        "Petey Pablo"
+      ],
+      "album": "Diary of a Sinner: 1st Entry",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733de78dfd7cec1b1b78963813",
+      "url": "https://open.spotify.com/track/02GwPAncasVL82yC7y2hmN",
+      "durationMs": 286426,
+      "playedAt": "2026-09-06T21:54:59.866Z"
+    },
+    {
+      "name": "Jazzy Belle",
+      "artists": [
         "Outkast"
       ],
-      "album": "UGK (Underground Kingz)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ecd0dec7edf87dab40d19b7",
-      "url": "https://open.spotify.com/track/4ns1XFP3W5JPyzvnAjMdHD",
-      "durationMs": 259040,
-      "playedAt": "2026-09-06T21:17:30.614Z"
-    },
-    {
-      "name": "Ni**as In Paris",
-      "artists": [
-        "JAŸ-Z",
-        "Kanye West"
-      ],
-      "album": "Watch The Throne",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352e61456aa4995ba48d94e30",
-      "url": "https://open.spotify.com/track/1auxYwYrFRqZP7t3s7w4um",
-      "durationMs": 219333,
-      "playedAt": "2026-09-06T21:13:14.597Z"
-    },
-    {
-      "name": "Don't Let Me Be Misunderstood",
-      "artists": [
-        "Nina Simone"
-      ],
-      "album": "Broadway-Blues-Ballads",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731bc47b0dbddd7142c9a2ebf0",
-      "url": "https://open.spotify.com/track/7M9pPyt8Gr41THLhbz4NSB",
-      "durationMs": 166200,
-      "playedAt": "2026-09-06T19:17:40.334Z"
-    },
-    {
-      "name": "Sinnerman",
-      "artists": [
-        "Nina Simone"
-      ],
-      "album": "Pastel Blues",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273df49506f74db624312118ca2",
-      "url": "https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx",
-      "durationMs": 622000,
-      "playedAt": "2026-09-06T19:14:57.170Z"
-    },
-    {
-      "name": "Sinnerman - Sofi Tukker Remix",
-      "artists": [
-        "Nina Simone",
-        "SOFI TUKKER"
-      ],
-      "album": "Sinnerman (Sofi Tukker Remix)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380080197c0c2680476a57e6f",
-      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL",
-      "durationMs": 232632,
-      "playedAt": "2026-09-06T19:04:38.173Z"
-    },
-    {
-      "name": "I Put A Spell On You",
-      "artists": [
-        "Nina Simone"
-      ],
-      "album": "I Put A Spell On You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273892abb1ade35b4863b29e051",
-      "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq",
-      "durationMs": 155026,
-      "playedAt": "2026-09-06T19:00:48.561Z"
-    },
-    {
-      "name": "My Baby Just Cares for Me (2013 - Remaster)",
-      "artists": [
-        "Nina Simone"
-      ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534",
-      "durationMs": 215746,
-      "playedAt": "2026-09-06T18:58:16.560Z"
-    },
-    {
-      "name": "Feeling Good",
-      "artists": [
-        "Nina Simone"
-      ],
-      "album": "I Put A Spell On You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273892abb1ade35b4863b29e051",
-      "url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e",
-      "durationMs": 174000,
-      "playedAt": "2026-09-06T18:54:43.792Z"
-    },
-    {
-      "name": "Didn't I Blow Your Mind This Time - Re-Recorded In Stereo",
-      "artists": [
-        "The Delfonics"
-      ],
-      "album": "Best Of Delfonics",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a017466f62d22b213215e00",
-      "url": "https://open.spotify.com/track/64GIGEeP5U4F6A43oX3aek",
-      "durationMs": 204000,
-      "playedAt": "2026-09-06T18:51:48.207Z"
-    },
-    {
-      "name": "Lying To Myself",
-      "artists": [
-        "The Delfonics"
-      ],
-      "album": "Alive & Kicking",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a9a6c80c9712820c6e2e25fe",
-      "url": "https://open.spotify.com/track/4oTR05VVXSgVEFmN374D61",
-      "durationMs": 241348,
-      "playedAt": "2026-09-06T17:29:31.793Z"
+      "album": "ATLiens",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27384be563c5931d7ef35706148",
+      "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89",
+      "durationMs": 251666,
+      "playedAt": "2026-09-06T21:50:16.467Z"
     }
   ],
   "topArtists": [
