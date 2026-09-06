@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-09-06T01:10:58.393Z",
-  "nowPlaying": {
-    "name": "Walk on By",
-    "artists": [
-      "Dionne Warwick"
-    ],
-    "album": "Make Way for Dionne Warwick",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27396ac1a606d66e405563ccebd",
-    "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm",
-    "durationMs": 178333,
-    "isPlaying": true,
-    "progressMs": 76420
-  },
+  "updatedAt": "2026-09-06T06:15:20.214Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Walk on By",
+      "artists": [
+        "Dionne Warwick"
+      ],
+      "album": "Make Way for Dionne Warwick",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27396ac1a606d66e405563ccebd",
+      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm",
+      "durationMs": 178333,
+      "playedAt": "2026-09-06T01:12:41.111Z"
+    },
     {
       "name": "I Keep Forgettin' (Every Time You're Near)",
       "artists": [
@@ -111,17 +111,6 @@
       "url": "https://open.spotify.com/track/6uW18nimLYstTB2TZBz5jb",
       "durationMs": 214935,
       "playedAt": "2026-09-06T00:33:17.595Z"
-    },
-    {
-      "name": "Feel Like Makin' Love - Live",
-      "artists": [
-        "Roberta Flack"
-      ],
-      "album": "Endless Skies (Live Chicago '81)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273567aa0890e533d524aedf12b",
-      "url": "https://open.spotify.com/track/2R5qLfbGYng3pcQEugBvuX",
-      "durationMs": 311327,
-      "playedAt": "2026-09-06T00:29:42.583Z"
     }
   ],
   "topArtists": [
