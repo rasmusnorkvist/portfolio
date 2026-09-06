@@ -1,117 +1,127 @@
 {
-  "updatedAt": "2026-09-05T23:09:41.424Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-06T01:10:58.393Z",
+  "nowPlaying": {
+    "name": "Walk on By",
+    "artists": [
+      "Dionne Warwick"
+    ],
+    "album": "Make Way for Dionne Warwick",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27396ac1a606d66e405563ccebd",
+    "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm",
+    "durationMs": 178333,
+    "isPlaying": true,
+    "progressMs": 76420
+  },
   "recentlyPlayed": [
     {
-      "name": "Dance Me To The End Of Love - Live",
+      "name": "I Keep Forgettin' (Every Time You're Near)",
       "artists": [
-        "Leonard Cohen"
+        "Michael McDonald"
       ],
-      "album": "From The Silence (Live 1993)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5f0469079ad1753a1e2a63d",
-      "url": "https://open.spotify.com/track/5y06djHxw3HVPSppXnVd10",
-      "durationMs": 366960,
-      "playedAt": "2026-09-05T20:01:23.366Z"
+      "album": "If That's What It Takes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c17415a134732f752b36922",
+      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M",
+      "durationMs": 222280,
+      "playedAt": "2026-09-06T01:09:45.800Z"
     },
     {
-      "name": "Coming Back To You - Live",
+      "name": "So in Love",
       "artists": [
-        "Leonard Cohen"
+        "Curtis Mayfield"
       ],
-      "album": "From The Silence (Live 1993)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5f0469079ad1753a1e2a63d",
-      "url": "https://open.spotify.com/track/73Led8ICsKOVuDgAUmdKex",
-      "durationMs": 276927,
-      "playedAt": "2026-09-05T19:55:16.365Z"
+      "album": "There's No Place Like America Today",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b5938a2da18fbb6184daf6e2",
+      "url": "https://open.spotify.com/track/7gmB6hVMsv0XbjfiTgpATI",
+      "durationMs": 314226,
+      "playedAt": "2026-09-06T01:06:06.519Z"
     },
     {
-      "name": "Ain't No Cure For Love - Live",
+      "name": "Sara Smile",
       "artists": [
-        "Leonard Cohen"
+        "Daryl Hall & John Oates"
       ],
-      "album": "From The Silence (Live 1993)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5f0469079ad1753a1e2a63d",
-      "url": "https://open.spotify.com/track/6wgA1x7KZTW2M5yUVQ9uml",
-      "durationMs": 311464,
-      "playedAt": "2026-09-05T19:50:39.444Z"
+      "album": "Daryl Hall & John Oates (The Silver Album)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737e0dea0c3a0bf7c6820306c9",
+      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ",
+      "durationMs": 185293,
+      "playedAt": "2026-09-06T01:00:55.329Z"
     },
     {
-      "name": "First We Take Manhattan - Live",
+      "name": "Killing Me Softly With His Song",
       "artists": [
-        "Leonard Cohen"
+        "Roberta Flack"
       ],
-      "album": "From The Silence (Live 1993)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5f0469079ad1753a1e2a63d",
-      "url": "https://open.spotify.com/track/1jCF5QPgxPVqxiPVO8m9zP",
-      "durationMs": 358517,
-      "playedAt": "2026-09-05T19:45:27.963Z"
+      "album": "Killing Me Softly",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc161bb58763f72fc71a3a01",
+      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob",
+      "durationMs": 286920,
+      "playedAt": "2026-09-06T00:57:53.103Z"
     },
     {
-      "name": "Tragedy",
+      "name": "By Your Side",
       "artists": [
-        "Norah Jones"
+        "Sade"
       ],
-      "album": "Day Breaks",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735843cb50b0751124f3e34e6e",
-      "url": "https://open.spotify.com/track/4zc1kHI3oidx5AhMgqtOeV",
-      "durationMs": 254840,
-      "playedAt": "2026-09-05T19:39:06.310Z"
+      "album": "Lovers Rock",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27320fc6951e4d293707de2434c",
+      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k",
+      "durationMs": 274933,
+      "playedAt": "2026-09-06T00:53:09.128Z"
     },
     {
-      "name": "Rosie's Lullaby",
+      "name": "The First Time Ever I Saw Your Face - Live",
       "artists": [
-        "Norah Jones"
+        "Roberta Flack"
       ],
-      "album": "Not Too Late",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273df3bee99d02e42d71d3a5a4a",
-      "url": "https://open.spotify.com/track/10hBcbQsH77movlSQHZ4lb",
-      "durationMs": 236773,
-      "playedAt": "2026-09-05T17:19:31.176Z"
+      "album": "Endless Skies (Live Chicago '81)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273567aa0890e533d524aedf12b",
+      "url": "https://open.spotify.com/track/1hGeDsQQLMdrC4BLerOJu3",
+      "durationMs": 256467,
+      "playedAt": "2026-09-06T00:48:37.226Z"
     },
     {
-      "name": "Really Real (ft. Norah Jones)",
+      "name": "Reverend Lee - Live",
       "artists": [
-        "Allison Russell",
-        "Norah Jones"
+        "Roberta Flack"
       ],
-      "album": "In the Hour of Chaos",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273484006dc742a9b43b1cab3d1",
-      "url": "https://open.spotify.com/track/0dRAyCqoS3OhFXqdMiQz2f",
-      "durationMs": 205213,
-      "playedAt": "2026-09-05T17:15:37.481Z"
+      "album": "Endless Skies (Live Chicago '81)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273567aa0890e533d524aedf12b",
+      "url": "https://open.spotify.com/track/22XAHgZJWOgeJ7x4OxfUIF",
+      "durationMs": 505766,
+      "playedAt": "2026-09-06T00:44:20.790Z"
     },
     {
-      "name": "Not Too Late",
+      "name": "Disguises - Live",
       "artists": [
-        "Norah Jones"
+        "Roberta Flack"
       ],
-      "album": "Not Too Late",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273df3bee99d02e42d71d3a5a4a",
-      "url": "https://open.spotify.com/track/0KNbGtYQmQo8XjVqJMWF3Y",
-      "durationMs": 211466,
-      "playedAt": "2026-09-05T17:12:15.281Z"
+      "album": "Endless Skies (Live Chicago '81)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273567aa0890e533d524aedf12b",
+      "url": "https://open.spotify.com/track/1ePymYlIOijmIQl5TzgRm1",
+      "durationMs": 157461,
+      "playedAt": "2026-09-06T00:35:55Z"
     },
     {
-      "name": "Thinking About You",
+      "name": "You Are My Heaven - Live",
       "artists": [
-        "Norah Jones"
+        "Roberta Flack"
       ],
-      "album": "Not Too Late",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273df3bee99d02e42d71d3a5a4a",
-      "url": "https://open.spotify.com/track/0suRVpl5fIZVm7PuROSRsQ",
-      "durationMs": 197280,
-      "playedAt": "2026-09-05T17:08:46.758Z"
+      "album": "Endless Skies (Live Chicago '81)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273567aa0890e533d524aedf12b",
+      "url": "https://open.spotify.com/track/6uW18nimLYstTB2TZBz5jb",
+      "durationMs": 214935,
+      "playedAt": "2026-09-06T00:33:17.595Z"
     },
     {
-      "name": "Come Away With Me - Alternate Version",
+      "name": "Feel Like Makin' Love - Live",
       "artists": [
-        "Norah Jones"
+        "Roberta Flack"
       ],
-      "album": "Come Away With Me (Super Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
-      "url": "https://open.spotify.com/track/4yaoi2yin0n9WHaGFPcszQ",
-      "durationMs": 207000,
-      "playedAt": "2026-09-05T17:05:32.524Z"
+      "album": "Endless Skies (Live Chicago '81)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273567aa0890e533d524aedf12b",
+      "url": "https://open.spotify.com/track/2R5qLfbGYng3pcQEugBvuX",
+      "durationMs": 311327,
+      "playedAt": "2026-09-06T00:29:42.583Z"
     }
   ],
   "topArtists": [
