@@ -1,116 +1,128 @@
 {
-  "updatedAt": "2026-09-06T14:18:21.298Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-06T17:13:19.538Z",
+  "nowPlaying": {
+    "name": "Start All Over Again",
+    "artists": [
+      "The Delfonics"
+    ],
+    "album": "Alive & Kicking",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a9a6c80c9712820c6e2e25fe",
+    "url": "https://open.spotify.com/track/4LqQ3ag9ltTwpq6XwM5I4u",
+    "durationMs": 260295,
+    "isPlaying": true,
+    "progressMs": 4819
+  },
   "recentlyPlayed": [
     {
-      "name": "Walk on By",
+      "name": "I Don't Want To Make You Wait - Digitally Remastered 1997",
       "artists": [
-        "Dionne Warwick"
+        "The Delfonics"
       ],
-      "album": "Make Way for Dionne Warwick",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27396ac1a606d66e405563ccebd",
-      "url": "https://open.spotify.com/track/3xsOtNxtBW0oTI1OWKAzTm",
-      "durationMs": 178333,
-      "playedAt": "2026-09-06T01:12:41.111Z"
+      "album": "La-La Means I Love You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738f94e3897d30ea450e10558f",
+      "url": "https://open.spotify.com/track/4rkaHrn9km42iXvanYA0nm",
+      "durationMs": 196573,
+      "playedAt": "2026-09-06T17:10:14.025Z"
     },
     {
-      "name": "I Keep Forgettin' (Every Time You're Near)",
+      "name": "The Look of Love",
       "artists": [
-        "Michael McDonald"
+        "The Delfonics"
       ],
-      "album": "If That's What It Takes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c17415a134732f752b36922",
-      "url": "https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M",
-      "durationMs": 222280,
-      "playedAt": "2026-09-06T01:09:45.800Z"
+      "album": "La La Means I Love You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b5c51b7a4ddf6ccfe5a9d9eb",
+      "url": "https://open.spotify.com/track/24qtnTXiPpfcaK3BFGWBi9",
+      "durationMs": 199324,
+      "playedAt": "2026-09-06T17:07:00.490Z"
     },
     {
-      "name": "So in Love",
+      "name": "Think It Over",
       "artists": [
-        "Curtis Mayfield"
+        "The Delfonics"
       ],
-      "album": "There's No Place Like America Today",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b5938a2da18fbb6184daf6e2",
-      "url": "https://open.spotify.com/track/7gmB6hVMsv0XbjfiTgpATI",
-      "durationMs": 314226,
-      "playedAt": "2026-09-06T01:06:06.519Z"
+      "album": "Alive & Kicking",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a9a6c80c9712820c6e2e25fe",
+      "url": "https://open.spotify.com/track/797UL4Ow6fsk5sEvwxwjZw",
+      "durationMs": 277780,
+      "playedAt": "2026-09-06T17:03:44.200Z"
     },
     {
-      "name": "Sara Smile",
+      "name": "Over and Over",
       "artists": [
-        "Daryl Hall & John Oates"
+        "The Delfonics"
       ],
-      "album": "Daryl Hall & John Oates (The Silver Album)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737e0dea0c3a0bf7c6820306c9",
-      "url": "https://open.spotify.com/track/1qjrYozGqc7upUgfN776lZ",
-      "durationMs": 185293,
-      "playedAt": "2026-09-06T01:00:55.329Z"
+      "album": "The Delfonics",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f606a66ae319776c0dc86ce8",
+      "url": "https://open.spotify.com/track/5AXQomuNhUW0iLVkzvyVJ5",
+      "durationMs": 186466,
+      "playedAt": "2026-09-06T16:59:09.393Z"
     },
     {
-      "name": "Killing Me Softly With His Song",
+      "name": "You've Got Yours And I'll Get Mine - Digitally Remastered 1997",
       "artists": [
-        "Roberta Flack"
+        "The Delfonics"
       ],
-      "album": "Killing Me Softly",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bc161bb58763f72fc71a3a01",
-      "url": "https://open.spotify.com/track/3gsCAGsWr6pUm1Vy7CPPob",
-      "durationMs": 286920,
-      "playedAt": "2026-09-06T00:57:53.103Z"
+      "album": "The Very Best Of",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27338c72ef83fe47f29c5cfb886",
+      "url": "https://open.spotify.com/track/6MZfXzTL12sm7dqFn1m1jl",
+      "durationMs": 196106,
+      "playedAt": "2026-09-06T16:56:05.926Z"
     },
     {
-      "name": "By Your Side",
+      "name": "Walk Right Up to the Sun",
       "artists": [
-        "Sade"
+        "The Delfonics"
       ],
-      "album": "Lovers Rock",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27320fc6951e4d293707de2434c",
-      "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k",
-      "durationMs": 274933,
-      "playedAt": "2026-09-06T00:53:09.128Z"
+      "album": "Tell Me This Is a Dream (Expanded Version)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273efb6406966cd010942867387",
+      "url": "https://open.spotify.com/track/0YkyLCW2dNHZFRjNbrrwkK",
+      "durationMs": 182280,
+      "playedAt": "2026-09-06T16:52:52.901Z"
     },
     {
-      "name": "The First Time Ever I Saw Your Face - Live",
+      "name": "Stop and Look (And You Have Found Love)",
       "artists": [
-        "Roberta Flack"
+        "The Delfonics",
+        "Adrian Younge"
       ],
-      "album": "Endless Skies (Live Chicago '81)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273567aa0890e533d524aedf12b",
-      "url": "https://open.spotify.com/track/1hGeDsQQLMdrC4BLerOJu3",
-      "durationMs": 256467,
-      "playedAt": "2026-09-06T00:48:37.226Z"
+      "album": "Adrian Younge Presents: The Delfonics",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730dccca24c2862abdfd375b6e",
+      "url": "https://open.spotify.com/track/62O22vUP112FgIibBffSNw",
+      "durationMs": 166693,
+      "playedAt": "2026-09-06T16:49:53.597Z"
     },
     {
-      "name": "Reverend Lee - Live",
+      "name": "When You Get Right Down to It",
       "artists": [
-        "Roberta Flack"
+        "The Delfonics"
       ],
-      "album": "Endless Skies (Live Chicago '81)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273567aa0890e533d524aedf12b",
-      "url": "https://open.spotify.com/track/22XAHgZJWOgeJ7x4OxfUIF",
-      "durationMs": 505766,
-      "playedAt": "2026-09-06T00:44:20.790Z"
+      "album": "The Delfonics",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f606a66ae319776c0dc86ce8",
+      "url": "https://open.spotify.com/track/3JpDpIUafzYIM1fXRPCjWX",
+      "durationMs": 168600,
+      "playedAt": "2026-09-06T16:47:09.896Z"
     },
     {
-      "name": "Disguises - Live",
+      "name": "Can You Remember",
       "artists": [
-        "Roberta Flack"
+        "The Delfonics"
       ],
-      "album": "Endless Skies (Live Chicago '81)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273567aa0890e533d524aedf12b",
-      "url": "https://open.spotify.com/track/1ePymYlIOijmIQl5TzgRm1",
-      "durationMs": 157461,
-      "playedAt": "2026-09-06T00:35:55Z"
+      "album": "La La Means I Love You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b5c51b7a4ddf6ccfe5a9d9eb",
+      "url": "https://open.spotify.com/track/4clRZa3BGHOFS52liFzwxK",
+      "durationMs": 183517,
+      "playedAt": "2026-09-06T16:44:24.333Z"
     },
     {
-      "name": "You Are My Heaven - Live",
+      "name": "Going Out of My Head - Remastered",
       "artists": [
-        "Roberta Flack"
+        "The Delfonics"
       ],
-      "album": "Endless Skies (Live Chicago '81)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273567aa0890e533d524aedf12b",
-      "url": "https://open.spotify.com/track/6uW18nimLYstTB2TZBz5jb",
-      "durationMs": 214935,
-      "playedAt": "2026-09-06T00:33:17.595Z"
+      "album": "The Essential Delfonics",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27316bcc9d8f788dd02394f697e",
+      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh",
+      "durationMs": 125386,
+      "playedAt": "2026-09-06T16:41:23.847Z"
     }
   ],
   "topArtists": [
