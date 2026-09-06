@@ -1,128 +1,117 @@
 {
-  "updatedAt": "2026-09-06T17:13:19.538Z",
-  "nowPlaying": {
-    "name": "Start All Over Again",
-    "artists": [
-      "The Delfonics"
-    ],
-    "album": "Alive & Kicking",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a9a6c80c9712820c6e2e25fe",
-    "url": "https://open.spotify.com/track/4LqQ3ag9ltTwpq6XwM5I4u",
-    "durationMs": 260295,
-    "isPlaying": true,
-    "progressMs": 4819
-  },
+  "updatedAt": "2026-09-06T19:22:45.334Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "I Don't Want To Make You Wait - Digitally Remastered 1997",
+      "name": "Don't Let Me Be Misunderstood",
+      "artists": [
+        "Nina Simone"
+      ],
+      "album": "Broadway-Blues-Ballads",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731bc47b0dbddd7142c9a2ebf0",
+      "url": "https://open.spotify.com/track/7M9pPyt8Gr41THLhbz4NSB",
+      "durationMs": 166200,
+      "playedAt": "2026-09-06T19:17:40.334Z"
+    },
+    {
+      "name": "Sinnerman",
+      "artists": [
+        "Nina Simone"
+      ],
+      "album": "Pastel Blues",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273df49506f74db624312118ca2",
+      "url": "https://open.spotify.com/track/5xRP5iyVdGglqlY4Vcjhkx",
+      "durationMs": 622000,
+      "playedAt": "2026-09-06T19:14:57.170Z"
+    },
+    {
+      "name": "Sinnerman - Sofi Tukker Remix",
+      "artists": [
+        "Nina Simone",
+        "SOFI TUKKER"
+      ],
+      "album": "Sinnerman (Sofi Tukker Remix)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380080197c0c2680476a57e6f",
+      "url": "https://open.spotify.com/track/6Au1l0egQFYxbnCZxakoOL",
+      "durationMs": 232632,
+      "playedAt": "2026-09-06T19:04:38.173Z"
+    },
+    {
+      "name": "I Put A Spell On You",
+      "artists": [
+        "Nina Simone"
+      ],
+      "album": "I Put A Spell On You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273892abb1ade35b4863b29e051",
+      "url": "https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq",
+      "durationMs": 155026,
+      "playedAt": "2026-09-06T19:00:48.561Z"
+    },
+    {
+      "name": "My Baby Just Cares for Me (2013 - Remaster)",
+      "artists": [
+        "Nina Simone"
+      ],
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534",
+      "durationMs": 215746,
+      "playedAt": "2026-09-06T18:58:16.560Z"
+    },
+    {
+      "name": "Feeling Good",
+      "artists": [
+        "Nina Simone"
+      ],
+      "album": "I Put A Spell On You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273892abb1ade35b4863b29e051",
+      "url": "https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e",
+      "durationMs": 174000,
+      "playedAt": "2026-09-06T18:54:43.792Z"
+    },
+    {
+      "name": "Didn't I Blow Your Mind This Time - Re-Recorded In Stereo",
       "artists": [
         "The Delfonics"
       ],
-      "album": "La-La Means I Love You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738f94e3897d30ea450e10558f",
-      "url": "https://open.spotify.com/track/4rkaHrn9km42iXvanYA0nm",
-      "durationMs": 196573,
-      "playedAt": "2026-09-06T17:10:14.025Z"
+      "album": "Best Of Delfonics",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a017466f62d22b213215e00",
+      "url": "https://open.spotify.com/track/64GIGEeP5U4F6A43oX3aek",
+      "durationMs": 204000,
+      "playedAt": "2026-09-06T18:51:48.207Z"
     },
     {
-      "name": "The Look of Love",
-      "artists": [
-        "The Delfonics"
-      ],
-      "album": "La La Means I Love You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b5c51b7a4ddf6ccfe5a9d9eb",
-      "url": "https://open.spotify.com/track/24qtnTXiPpfcaK3BFGWBi9",
-      "durationMs": 199324,
-      "playedAt": "2026-09-06T17:07:00.490Z"
-    },
-    {
-      "name": "Think It Over",
+      "name": "Lying To Myself",
       "artists": [
         "The Delfonics"
       ],
       "album": "Alive & Kicking",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a9a6c80c9712820c6e2e25fe",
-      "url": "https://open.spotify.com/track/797UL4Ow6fsk5sEvwxwjZw",
-      "durationMs": 277780,
-      "playedAt": "2026-09-06T17:03:44.200Z"
+      "url": "https://open.spotify.com/track/4oTR05VVXSgVEFmN374D61",
+      "durationMs": 241348,
+      "playedAt": "2026-09-06T17:29:31.793Z"
     },
     {
-      "name": "Over and Over",
-      "artists": [
-        "The Delfonics"
-      ],
-      "album": "The Delfonics",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f606a66ae319776c0dc86ce8",
-      "url": "https://open.spotify.com/track/5AXQomuNhUW0iLVkzvyVJ5",
-      "durationMs": 186466,
-      "playedAt": "2026-09-06T16:59:09.393Z"
-    },
-    {
-      "name": "You've Got Yours And I'll Get Mine - Digitally Remastered 1997",
+      "name": "Loving Him (aka You Can't Be Loving Him)",
       "artists": [
         "The Delfonics"
       ],
       "album": "The Very Best Of",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27338c72ef83fe47f29c5cfb886",
-      "url": "https://open.spotify.com/track/6MZfXzTL12sm7dqFn1m1jl",
-      "durationMs": 196106,
-      "playedAt": "2026-09-06T16:56:05.926Z"
+      "url": "https://open.spotify.com/track/1kzRVJJTAkCoNUOF8HGdKo",
+      "durationMs": 123706,
+      "playedAt": "2026-09-06T17:25:33.389Z"
     },
     {
-      "name": "Walk Right Up to the Sun",
+      "name": "Everytime I See My Baby - Remastered",
       "artists": [
         "The Delfonics"
       ],
-      "album": "Tell Me This Is a Dream (Expanded Version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273efb6406966cd010942867387",
-      "url": "https://open.spotify.com/track/0YkyLCW2dNHZFRjNbrrwkK",
-      "durationMs": 182280,
-      "playedAt": "2026-09-06T16:52:52.901Z"
-    },
-    {
-      "name": "Stop and Look (And You Have Found Love)",
-      "artists": [
-        "The Delfonics",
-        "Adrian Younge"
-      ],
-      "album": "Adrian Younge Presents: The Delfonics",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730dccca24c2862abdfd375b6e",
-      "url": "https://open.spotify.com/track/62O22vUP112FgIibBffSNw",
-      "durationMs": 166693,
-      "playedAt": "2026-09-06T16:49:53.597Z"
-    },
-    {
-      "name": "When You Get Right Down to It",
-      "artists": [
-        "The Delfonics"
-      ],
-      "album": "The Delfonics",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f606a66ae319776c0dc86ce8",
-      "url": "https://open.spotify.com/track/3JpDpIUafzYIM1fXRPCjWX",
-      "durationMs": 168600,
-      "playedAt": "2026-09-06T16:47:09.896Z"
-    },
-    {
-      "name": "Can You Remember",
-      "artists": [
-        "The Delfonics"
-      ],
-      "album": "La La Means I Love You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b5c51b7a4ddf6ccfe5a9d9eb",
-      "url": "https://open.spotify.com/track/4clRZa3BGHOFS52liFzwxK",
-      "durationMs": 183517,
-      "playedAt": "2026-09-06T16:44:24.333Z"
-    },
-    {
-      "name": "Going Out of My Head - Remastered",
-      "artists": [
-        "The Delfonics"
-      ],
-      "album": "The Essential Delfonics",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27316bcc9d8f788dd02394f697e",
-      "url": "https://open.spotify.com/track/4KNR8w9Y16CoJh7ZEbiMAh",
-      "durationMs": 125386,
-      "playedAt": "2026-09-06T16:41:23.847Z"
+      "album": "The Sound Of Sexy Soul",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f699570966e5711c62693af3",
+      "url": "https://open.spotify.com/track/3uXHU3yclU5zb26TsooqBy",
+      "durationMs": 161560,
+      "playedAt": "2026-09-06T17:23:32.689Z"
     }
   ],
   "topArtists": [
@@ -169,9 +158,9 @@
       "genres": []
     },
     {
-      "name": "Dina Ögon",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebfd6275a2840a9cd34a3862a6",
-      "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI",
+      "name": "The Delfonics",
+      "imageUrl": "https://i.scdn.co/image/c923d6436c698e5847c2ef79af5b2cbdfab8aaf8",
+      "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4",
       "genres": []
     }
   ],
