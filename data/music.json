@@ -1,119 +1,116 @@
 {
-  "updatedAt": "2026-09-07T12:53:26.519Z",
+  "updatedAt": "2026-09-07T18:04:09.915Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Orgullecida",
+      "name": "Gammal bröllopsmarsch",
       "artists": [
-        "Buena Vista Social Club"
+        "Jan Johansson"
       ],
-      "album": "Buena Vista Social Club",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dc784c3f0767e576a0848b81",
-      "url": "https://open.spotify.com/track/0esTuuMln8aSK0x24T9fnF",
-      "durationMs": 199306,
-      "playedAt": "2026-09-07T04:35:43.274Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/16kCArgUGGLrbGDxy1T3uF",
+      "durationMs": 225013,
+      "playedAt": "2026-09-07T15:33:11.629Z"
     },
     {
-      "name": "Ensayo",
+      "name": "Leksands skänklåt",
       "artists": [
-        "Buena Vista Social Club"
+        "Jan Johansson"
       ],
-      "album": "Buena Vista Social Club (25th Anniversary Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738e89058d9c0906371d401844",
-      "url": "https://open.spotify.com/track/5rY9EbPtbsVR5QkqNdrJVI",
-      "durationMs": 81369,
-      "playedAt": "2026-09-07T04:32:26.896Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/6xz1YWi4Fvld47xYDRoh3F",
+      "durationMs": 180813,
+      "playedAt": "2026-09-07T15:29:05.928Z"
     },
     {
-      "name": "El Carretero (Alternate Take)",
+      "name": "Berg-Kirstis polska",
       "artists": [
-        "Buena Vista Social Club"
+        "Jan Johansson"
       ],
-      "album": "Buena Vista Social Club (25th Anniversary Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738e89058d9c0906371d401844",
-      "url": "https://open.spotify.com/track/1HpuiFeRumWGPlLenxWNxR",
-      "durationMs": 201678,
-      "playedAt": "2026-09-07T04:31:05.554Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/6mNQG5XYpwSnnnfJDe3CFj",
+      "durationMs": 213986,
+      "playedAt": "2026-09-07T15:26:05.136Z"
     },
     {
-      "name": "A Tus Pies",
+      "name": "Emigrantvisa",
       "artists": [
-        "Buena Vista Social Club"
+        "Jan Johansson"
       ],
-      "album": "Buena Vista Social Club (25th Anniversary Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738e89058d9c0906371d401844",
-      "url": "https://open.spotify.com/track/2FDEhCTWbgJy4tAyi3Sghp",
-      "durationMs": 325527,
-      "playedAt": "2026-09-07T04:27:43.855Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/5kjFu1dBCCqm0RPpjdgRQt",
+      "durationMs": 207733,
+      "playedAt": "2026-09-07T15:22:31.115Z"
     },
     {
-      "name": "Tiene Sabor (feat. Omara Portuondo)",
+      "name": "Vallåt från Jämtland",
       "artists": [
-        "Buena Vista Social Club",
-        "Omara Portuondo"
+        "Jan Johansson"
       ],
-      "album": "Lost and Found",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273773f95f94a6981365257d9f0",
-      "url": "https://open.spotify.com/track/4DFbRXlTdH9JdqCBeX6NOG",
-      "durationMs": 197888,
-      "playedAt": "2026-09-07T04:22:21.374Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/3sJI7yMJz2RwLtS31z3Dgc",
+      "durationMs": 114693,
+      "playedAt": "2026-09-07T15:19:03.334Z"
     },
     {
-      "name": "Perfume de Gardenias",
+      "name": "Brudmarsch efter Larshöga Jonke",
       "artists": [
-        "Ibrahim Ferrer"
+        "Jan Johansson"
       ],
-      "album": "Buenos Hermanos",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736d4ef79d855969674f5fab3a",
-      "url": "https://open.spotify.com/track/612FxkyJOdYe2nlGiVCZ0S",
-      "durationMs": 284080,
-      "playedAt": "2026-09-07T04:19:06.473Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/4Ejyw9gZeAWW7QzjtVWRdw",
+      "durationMs": 124120,
+      "playedAt": "2026-09-07T15:17:08.732Z"
     },
     {
-      "name": "Veinte Años",
+      "name": "Visa från Rättvik",
       "artists": [
-        "Original Broadway Cast of Buena Vista Social Club",
-        "Julio Monge",
-        "Natalie Venetia Belcon"
+        "Jan Johansson"
       ],
-      "album": "Buena Vista Social Club (Original Broadway Cast Recording)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e82204f43f3c89e316593779",
-      "url": "https://open.spotify.com/track/6PSrTwwK3JKakPZo0tO5qY",
-      "durationMs": 143400,
-      "playedAt": "2026-09-07T04:14:25.406Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/5OfX2H74dOwUjr4Aw6HEiE",
+      "durationMs": 202986,
+      "playedAt": "2026-09-07T15:15:04.539Z"
     },
     {
-      "name": "Siboney",
+      "name": "Polska från Medelpad",
       "artists": [
-        "Buena Vista Social Club"
+        "Jan Johansson"
       ],
-      "album": "Buena Vista Social Club (25th Anniversary Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738e89058d9c0906371d401844",
-      "url": "https://open.spotify.com/track/0ZMPSWbmJNApMN8CgddbIV",
-      "durationMs": 128899,
-      "playedAt": "2026-09-07T04:12:05.074Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/35tgywQgB4oOOtB8gp29CM",
+      "durationMs": 150786,
+      "playedAt": "2026-09-07T15:11:41.631Z"
     },
     {
-      "name": "Se Soltó un León",
+      "name": "Gånglek från Älvdalen",
       "artists": [
-        "Eliades Ochoa"
+        "Jan Johansson"
       ],
-      "album": "Guajiro",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351321f21102e46b80b931ef5",
-      "url": "https://open.spotify.com/track/5ytujzBdWI45E696nzaLuU",
-      "durationMs": 280106,
-      "playedAt": "2026-09-07T04:09:59.163Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/5xFJjgYxqi2utu8m4yftYY",
+      "durationMs": 118466,
+      "playedAt": "2026-09-07T15:09:10.835Z"
     },
     {
-      "name": "No Me Llores Más",
+      "name": "Visa från Utanmyra",
       "artists": [
-        "Omara Portuondo"
+        "Jan Johansson"
       ],
-      "album": "Omara Portuondo (Buena Vista Social Club Presents)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27324427a33313836d81def7335",
-      "url": "https://open.spotify.com/track/5N5falAiNCgF0itFRzoEzw",
-      "durationMs": 299520,
-      "playedAt": "2026-09-07T04:05:22.043Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800,
+      "playedAt": "2026-09-07T15:07:12.333Z"
     }
   ],
   "topArtists": [
@@ -209,6 +206,16 @@
       "durationMs": 235293
     },
     {
+      "name": "Visa från Utanmyra",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800
+    },
+    {
       "name": "Interlude",
       "artists": [
         "JAŸ-Z"
@@ -237,16 +244,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
       "url": "https://open.spotify.com/track/3BCEmscmbx9dhPH76Ipc7R",
       "durationMs": 233666
-    },
-    {
-      "name": "Set The World On Fire - 7\" Version",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Made In Sweden",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
-      "url": "https://open.spotify.com/track/67rBycpa8FTFJkQwP5FzP1",
-      "durationMs": 224506
     }
   ],
   "featuredPlaylists": []
