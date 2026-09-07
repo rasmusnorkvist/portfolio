@@ -1,130 +1,119 @@
 {
-  "updatedAt": "2026-09-07T01:12:29.056Z",
-  "nowPlaying": {
-    "name": "We Built This City",
-    "artists": [
-      "Starship"
-    ],
-    "album": "Knee Deep In The Hoopla",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ef5c0c8bde36f7dcf246248e",
-    "url": "https://open.spotify.com/track/7aHRctaQ7vjxVTVmY8OhAA",
-    "durationMs": 296080,
-    "isPlaying": true,
-    "progressMs": 193892
-  },
+  "updatedAt": "2026-09-07T06:23:38.467Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Pump Up The Jam - Edit",
+      "name": "Orgullecida",
       "artists": [
-        "Technotronic",
-        "Felly"
+        "Buena Vista Social Club"
       ],
-      "album": "Best Of",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f1291485a66e5cbd0d9c878d",
-      "url": "https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf",
-      "durationMs": 215040,
-      "playedAt": "2026-09-07T01:09:19.008Z"
+      "album": "Buena Vista Social Club",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dc784c3f0767e576a0848b81",
+      "url": "https://open.spotify.com/track/0esTuuMln8aSK0x24T9fnF",
+      "durationMs": 199306,
+      "playedAt": "2026-09-07T04:35:43.274Z"
     },
     {
-      "name": "Hungry Like the Wolf - 2009 Remaster",
+      "name": "Ensayo",
       "artists": [
-        "Duran Duran"
+        "Buena Vista Social Club"
       ],
-      "album": "Rio (Collector's Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27316c75e2dd2654d7d03f2c556",
-      "url": "https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL",
-      "durationMs": 220626,
-      "playedAt": "2026-09-07T01:05:46.957Z"
+      "album": "Buena Vista Social Club (25th Anniversary Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738e89058d9c0906371d401844",
+      "url": "https://open.spotify.com/track/5rY9EbPtbsVR5QkqNdrJVI",
+      "durationMs": 81369,
+      "playedAt": "2026-09-07T04:32:26.896Z"
     },
     {
-      "name": "What I Like About You",
+      "name": "El Carretero (Alternate Take)",
       "artists": [
-        "The Romantics"
+        "Buena Vista Social Club"
       ],
-      "album": "The Romantics",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734b502623ce2ab3d27798876a",
-      "url": "https://open.spotify.com/track/4ebcE2SmkG7nplvzFAWRu7",
-      "durationMs": 175266,
-      "playedAt": "2026-09-07T01:02:09.331Z"
+      "album": "Buena Vista Social Club (25th Anniversary Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738e89058d9c0906371d401844",
+      "url": "https://open.spotify.com/track/1HpuiFeRumWGPlLenxWNxR",
+      "durationMs": 201678,
+      "playedAt": "2026-09-07T04:31:05.554Z"
     },
     {
-      "name": "Groove Is in the Heart",
+      "name": "A Tus Pies",
       "artists": [
-        "Deee-Lite"
+        "Buena Vista Social Club"
       ],
-      "album": "World Clique",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cbcb5083c56df2a557625bca",
-      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb",
-      "durationMs": 231786,
-      "playedAt": "2026-09-07T00:59:17.079Z"
+      "album": "Buena Vista Social Club (25th Anniversary Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738e89058d9c0906371d401844",
+      "url": "https://open.spotify.com/track/2FDEhCTWbgJy4tAyi3Sghp",
+      "durationMs": 325527,
+      "playedAt": "2026-09-07T04:27:43.855Z"
     },
     {
-      "name": "I Ran (So Far Away) - Single Edit",
+      "name": "Tiene Sabor (feat. Omara Portuondo)",
       "artists": [
-        "A Flock Of Seagulls"
+        "Buena Vista Social Club",
+        "Omara Portuondo"
       ],
-      "album": "A Flock of Seagulls (Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e2f236d0ad512e0bb63108e1",
-      "url": "https://open.spotify.com/track/4E7wtL5Jg55SNXc0sGD1Hs",
-      "durationMs": 221798,
-      "playedAt": "2026-09-07T00:55:28.303Z"
+      "album": "Lost and Found",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273773f95f94a6981365257d9f0",
+      "url": "https://open.spotify.com/track/4DFbRXlTdH9JdqCBeX6NOG",
+      "durationMs": 197888,
+      "playedAt": "2026-09-07T04:22:21.374Z"
     },
     {
-      "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
+      "name": "Perfume de Gardenias",
       "artists": [
-        "Eurythmics",
-        "Annie Lennox",
-        "Dave Stewart"
+        "Ibrahim Ferrer"
       ],
-      "album": "Sweet Dreams (Are Made Of This)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b3994c94dfb241923664bb4d",
-      "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS",
-      "durationMs": 216933,
-      "playedAt": "2026-09-07T00:51:49.506Z"
+      "album": "Buenos Hermanos",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736d4ef79d855969674f5fab3a",
+      "url": "https://open.spotify.com/track/612FxkyJOdYe2nlGiVCZ0S",
+      "durationMs": 284080,
+      "playedAt": "2026-09-07T04:19:06.473Z"
     },
     {
-      "name": "Dancing with Myself",
+      "name": "Veinte Años",
       "artists": [
-        "Generation X"
+        "Original Broadway Cast of Buena Vista Social Club",
+        "Julio Monge",
+        "Natalie Venetia Belcon"
       ],
-      "album": "Kiss Me Deadly",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d64245eb18975869fb139a3",
-      "url": "https://open.spotify.com/track/1lEhKudlkpBsh6S7JyvvHs",
-      "durationMs": 228080,
-      "playedAt": "2026-09-07T00:48:15.606Z"
+      "album": "Buena Vista Social Club (Original Broadway Cast Recording)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e82204f43f3c89e316593779",
+      "url": "https://open.spotify.com/track/6PSrTwwK3JKakPZo0tO5qY",
+      "durationMs": 143400,
+      "playedAt": "2026-09-07T04:14:25.406Z"
     },
     {
-      "name": "Into the Groove",
+      "name": "Siboney",
       "artists": [
-        "Madonna"
+        "Buena Vista Social Club"
       ],
-      "album": "Angel",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f1d95f4dbd086792e3ea5aa3",
-      "url": "https://open.spotify.com/track/3y2Y3Bc6GDxAWAMIpbW7RU",
-      "durationMs": 283848,
-      "playedAt": "2026-09-07T00:44:30.537Z"
+      "album": "Buena Vista Social Club (25th Anniversary Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738e89058d9c0906371d401844",
+      "url": "https://open.spotify.com/track/0ZMPSWbmJNApMN8CgddbIV",
+      "durationMs": 128899,
+      "playedAt": "2026-09-07T04:12:05.074Z"
     },
     {
-      "name": "Walk Like an Egyptian",
+      "name": "Se Soltó un León",
       "artists": [
-        "The Bangles"
+        "Eliades Ochoa"
       ],
-      "album": "Different Light (Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734aaad3bb593721bcaa6827d6",
-      "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF",
-      "durationMs": 203226,
-      "playedAt": "2026-09-07T00:39:49.707Z"
+      "album": "Guajiro",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351321f21102e46b80b931ef5",
+      "url": "https://open.spotify.com/track/5ytujzBdWI45E696nzaLuU",
+      "durationMs": 280106,
+      "playedAt": "2026-09-07T04:09:59.163Z"
     },
     {
-      "name": "Jump (For My Love)",
+      "name": "No Me Llores Más",
       "artists": [
-        "The Pointer Sisters"
+        "Omara Portuondo"
       ],
-      "album": "Break Out",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273892a6e0085d9d47cc796c545",
-      "url": "https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF",
-      "durationMs": 267226,
-      "playedAt": "2026-09-07T00:36:29.507Z"
+      "album": "Omara Portuondo (Buena Vista Social Club Presents)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27324427a33313836d81def7335",
+      "url": "https://open.spotify.com/track/5N5falAiNCgF0itFRzoEzw",
+      "durationMs": 299520,
+      "playedAt": "2026-09-07T04:05:22.043Z"
     }
   ],
   "topArtists": [
