@@ -1,125 +1,130 @@
 {
-  "updatedAt": "2026-09-06T23:26:44.737Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-07T01:12:29.056Z",
+  "nowPlaying": {
+    "name": "We Built This City",
+    "artists": [
+      "Starship"
+    ],
+    "album": "Knee Deep In The Hoopla",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ef5c0c8bde36f7dcf246248e",
+    "url": "https://open.spotify.com/track/7aHRctaQ7vjxVTVmY8OhAA",
+    "durationMs": 296080,
+    "isPlaying": true,
+    "progressMs": 193892
+  },
   "recentlyPlayed": [
     {
-      "name": "Touch It",
+      "name": "Pump Up The Jam - Edit",
       "artists": [
-        "Busta Rhymes"
+        "Technotronic",
+        "Felly"
       ],
-      "album": "The Big Bang",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cb985820fdad1b2ff5402141",
-      "url": "https://open.spotify.com/track/3HVJbdz0V402U5YggQK4Ao",
-      "durationMs": 214960,
-      "playedAt": "2026-09-06T22:32:05.092Z"
+      "album": "Best Of",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f1291485a66e5cbd0d9c878d",
+      "url": "https://open.spotify.com/track/0UAEHlFR79k9CJvknSGUNf",
+      "durationMs": 215040,
+      "playedAt": "2026-09-07T01:09:19.008Z"
     },
     {
-      "name": "Beautiful",
+      "name": "Hungry Like the Wolf - 2009 Remaster",
       "artists": [
-        "Snoop Dogg",
-        "Pharrell Williams",
-        "Uncle Charlie Wilson"
+        "Duran Duran"
       ],
-      "album": "Hip Hop 2000",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27324858c881eb141ea70f5b48d",
-      "url": "https://open.spotify.com/track/7mD9W97gjwxfFR9abW5ycI",
-      "durationMs": 298612,
-      "playedAt": "2026-09-06T22:28:33.287Z"
+      "album": "Rio (Collector's Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27316c75e2dd2654d7d03f2c556",
+      "url": "https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL",
+      "durationMs": 220626,
+      "playedAt": "2026-09-07T01:05:46.957Z"
     },
     {
-      "name": "We Gonna Make It",
+      "name": "What I Like About You",
       "artists": [
-        "Jadakiss",
-        "Styles P"
+        "The Romantics"
       ],
-      "album": "Kiss Tha Game Goodbye",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27328ebc6b4c1430b776a6e419e",
-      "url": "https://open.spotify.com/track/3FYSNSTUCqAZGfwEd8ui4l",
-      "durationMs": 213826,
-      "playedAt": "2026-09-06T22:23:37.549Z"
+      "album": "The Romantics",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734b502623ce2ab3d27798876a",
+      "url": "https://open.spotify.com/track/4ebcE2SmkG7nplvzFAWRu7",
+      "durationMs": 175266,
+      "playedAt": "2026-09-07T01:02:09.331Z"
     },
     {
-      "name": "Daydreamin' (feat. Jill Scott)",
+      "name": "Groove Is in the Heart",
       "artists": [
-        "Lupe Fiasco",
-        "Jill Scott"
+        "Deee-Lite"
       ],
-      "album": "Lupe Fiasco's Food & Liquor",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273605429da30da392395c34c00",
-      "url": "https://open.spotify.com/track/50M2QjfSM82wkJ1d0iV4mh",
-      "durationMs": 234306,
-      "playedAt": "2026-09-06T22:20:06.725Z"
+      "album": "World Clique",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cbcb5083c56df2a557625bca",
+      "url": "https://open.spotify.com/track/2He3NOyqtLNE3RQPpeDdSb",
+      "durationMs": 231786,
+      "playedAt": "2026-09-07T00:59:17.079Z"
     },
     {
-      "name": "Fast Lane",
+      "name": "I Ran (So Far Away) - Single Edit",
       "artists": [
-        "Bad Meets Evil"
+        "A Flock Of Seagulls"
       ],
-      "album": "Hell: The Sequel (Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27359a1132f3cab22f80b2d2777",
-      "url": "https://open.spotify.com/track/2c5Isyd07hWsl7AQia2Dig",
-      "durationMs": 249560,
-      "playedAt": "2026-09-06T22:15:58.145Z"
+      "album": "A Flock of Seagulls (Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e2f236d0ad512e0bb63108e1",
+      "url": "https://open.spotify.com/track/4E7wtL5Jg55SNXc0sGD1Hs",
+      "durationMs": 221798,
+      "playedAt": "2026-09-07T00:55:28.303Z"
     },
     {
-      "name": "Why You Always Hatin?",
+      "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
       "artists": [
-        "YG",
-        "Drake",
-        "Kamaiyah"
+        "Eurythmics",
+        "Annie Lennox",
+        "Dave Stewart"
       ],
-      "album": "Still Brazy (Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f731c8017e36b13e252bd2c6",
-      "url": "https://open.spotify.com/track/4ezAjoV01phDz1SqO6SzEU",
-      "durationMs": 196586,
-      "playedAt": "2026-09-06T22:05:31.968Z"
+      "album": "Sweet Dreams (Are Made Of This)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b3994c94dfb241923664bb4d",
+      "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS",
+      "durationMs": 216933,
+      "playedAt": "2026-09-07T00:51:49.506Z"
     },
     {
-      "name": "It's Goin' Down (feat. Nitti)",
+      "name": "Dancing with Myself",
       "artists": [
-        "Yung Joc",
-        "NITTI"
+        "Generation X"
       ],
-      "album": "New Joc City",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d5acd56d860b2481e9cbd3e1",
-      "url": "https://open.spotify.com/track/05Sgj1Hx03ZXc57gsV1kfX",
-      "durationMs": 241840,
-      "playedAt": "2026-09-06T22:02:18.377Z"
+      "album": "Kiss Me Deadly",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d64245eb18975869fb139a3",
+      "url": "https://open.spotify.com/track/1lEhKudlkpBsh6S7JyvvHs",
+      "durationMs": 228080,
+      "playedAt": "2026-09-07T00:48:15.606Z"
     },
     {
-      "name": "U and Dat (feat. T. Pain & Kandi Girl)",
+      "name": "Into the Groove",
       "artists": [
-        "E-40",
-        "T-Pain",
-        "Kandi Girl"
+        "Madonna"
       ],
-      "album": "My Ghetto Report Card",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273323ddf04bbf79029f3142087",
-      "url": "https://open.spotify.com/track/7g7M96UGiA7OR79H86gV4m",
-      "durationMs": 202720,
-      "playedAt": "2026-09-06T21:58:19.570Z"
+      "album": "Angel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f1d95f4dbd086792e3ea5aa3",
+      "url": "https://open.spotify.com/track/3y2Y3Bc6GDxAWAMIpbW7RU",
+      "durationMs": 283848,
+      "playedAt": "2026-09-07T00:44:30.537Z"
     },
     {
-      "name": "Raise Up",
+      "name": "Walk Like an Egyptian",
       "artists": [
-        "Petey Pablo"
+        "The Bangles"
       ],
-      "album": "Diary of a Sinner: 1st Entry",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733de78dfd7cec1b1b78963813",
-      "url": "https://open.spotify.com/track/02GwPAncasVL82yC7y2hmN",
-      "durationMs": 286426,
-      "playedAt": "2026-09-06T21:54:59.866Z"
+      "album": "Different Light (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734aaad3bb593721bcaa6827d6",
+      "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF",
+      "durationMs": 203226,
+      "playedAt": "2026-09-07T00:39:49.707Z"
     },
     {
-      "name": "Jazzy Belle",
+      "name": "Jump (For My Love)",
       "artists": [
-        "Outkast"
+        "The Pointer Sisters"
       ],
-      "album": "ATLiens",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27384be563c5931d7ef35706148",
-      "url": "https://open.spotify.com/track/6w4MlvpuxtbjGdL9YeTx89",
-      "durationMs": 251666,
-      "playedAt": "2026-09-06T21:50:16.467Z"
+      "album": "Break Out",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273892a6e0085d9d47cc796c545",
+      "url": "https://open.spotify.com/track/3L9ClO1W5KmebIXTrlKShF",
+      "durationMs": 267226,
+      "playedAt": "2026-09-07T00:36:29.507Z"
     }
   ],
   "topArtists": [
