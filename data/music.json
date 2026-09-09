@@ -1,7 +1,86 @@
 {
-  "updatedAt": "2026-09-08T22:51:43.198Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-09T01:00:40.744Z",
+  "nowPlaying": {
+    "name": "Fly As Me",
+    "artists": [
+      "Bruno Mars",
+      "Anderson .Paak",
+      "Silk Sonic"
+    ],
+    "album": "An Evening With Silk Sonic",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731756c2022529aacfa98d2eb8",
+    "url": "https://open.spotify.com/track/3a6FcTyvSf0ED3VXeH3PJ5",
+    "durationMs": 219389,
+    "isPlaying": true,
+    "progressMs": 54314
+  },
   "recentlyPlayed": [
+    {
+      "name": "Axel F",
+      "artists": [
+        "Harold Faltermeyer"
+      ],
+      "album": "Harold F",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b4b6bc2c1a5e08b502770871",
+      "url": "https://open.spotify.com/track/2kgqupahrJpYB4r1poTXEY",
+      "durationMs": 180866,
+      "playedAt": "2026-09-09T00:59:45.213Z"
+    },
+    {
+      "name": "You Get What You Give",
+      "artists": [
+        "New Radicals"
+      ],
+      "album": "Maybe You've Been Brainwashed Too",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dfdedd4553b40bbaab342dae",
+      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF",
+      "durationMs": 300773,
+      "playedAt": "2026-09-09T00:56:41.779Z"
+    },
+    {
+      "name": "Hidden Spaces",
+      "artists": [
+        "EchoWave"
+      ],
+      "album": "Makeup!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27337cc1a882ac829c59e0dae80",
+      "url": "https://open.spotify.com/track/2exvSui73t76NVaKKRmDRO",
+      "durationMs": 248861,
+      "playedAt": "2026-09-09T00:51:43.980Z"
+    },
+    {
+      "name": "Surrender To Me",
+      "artists": [
+        "FireCityFunk"
+      ],
+      "album": "Surrender To Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732dfe4ab511e02a476e8623e8",
+      "url": "https://open.spotify.com/track/34sIEdi9tN5Fi2rNaSHVTQ",
+      "durationMs": 214727,
+      "playedAt": "2026-09-09T00:47:38.192Z"
+    },
+    {
+      "name": "Smile",
+      "artists": [
+        "Lily Allen"
+      ],
+      "album": "Alright, Still (Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f44ea7ef8d5c793399bae7af",
+      "url": "https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0",
+      "durationMs": 196893,
+      "playedAt": "2026-09-09T00:39:40.150Z"
+    },
+    {
+      "name": "Du tappa dä",
+      "artists": [
+        "Dina Ögon"
+      ],
+      "album": "Människobarn",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a9b2653980b2bb3c1887cc",
+      "url": "https://open.spotify.com/track/2i7HYPaJBVefvd6OwQ2rD2",
+      "durationMs": 191132,
+      "playedAt": "2026-09-09T00:31:38.386Z"
+    },
     {
       "name": "Tylö Sun - B-Side 'Sommartider' Single",
       "artists": [
@@ -45,72 +124,6 @@
       "url": "https://open.spotify.com/track/0pjjh1qWnHUSZ2hRDxI5AR",
       "durationMs": 231066,
       "playedAt": "2026-09-08T15:26:53.748Z"
-    },
-    {
-      "name": "(Kom så ska vi) Leva livet",
-      "artists": [
-        "Gyllene Tider"
-      ],
-      "album": "Moderna Tider",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739ac2b55bb9a1d3ec1a350cd5",
-      "url": "https://open.spotify.com/track/3WdLb11xMR9caAdCvqeLzC",
-      "durationMs": 213093,
-      "playedAt": "2026-09-08T15:23:05.672Z"
-    },
-    {
-      "name": "Billy",
-      "artists": [
-        "Gyllene Tider"
-      ],
-      "album": "Gyllene Tider",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733d3042cb357eebb2a082c929",
-      "url": "https://open.spotify.com/track/2xAyr92heKfuPBlKbMCMUE",
-      "durationMs": 325400,
-      "playedAt": "2026-09-08T15:07:35.324Z"
-    },
-    {
-      "name": "Kung av sand",
-      "artists": [
-        "Gyllene Tider"
-      ],
-      "album": "Konstpaus",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27391790de559a322c1c37283dd",
-      "url": "https://open.spotify.com/track/2pIpooJWX5q8DIctvrdQP2",
-      "durationMs": 279333,
-      "playedAt": "2026-09-08T15:02:12.917Z"
-    },
-    {
-      "name": "Ljudet av ett annat hjärta - 7\" Single",
-      "artists": [
-        "Gyllene Tider"
-      ],
-      "album": "Tidiga Tider: Bonuslåtar och alternativa versioner 79-81",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738a5d48e9a4aae22034a734a1",
-      "url": "https://open.spotify.com/track/1RYcpR7MhKbV3NSv787Su6",
-      "durationMs": 231480,
-      "playedAt": "2026-09-08T14:57:36.619Z"
-    },
-    {
-      "name": "Gå & fiska!",
-      "artists": [
-        "Gyllene Tider"
-      ],
-      "album": "Konstpaus",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27391790de559a322c1c37283dd",
-      "url": "https://open.spotify.com/track/0qOaBijMN2tDbSDogOmhYC",
-      "durationMs": 237533,
-      "playedAt": "2026-09-08T14:53:48.113Z"
-    },
-    {
-      "name": "Du tappa dä",
-      "artists": [
-        "Dina Ögon"
-      ],
-      "album": "Människobarn",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a9b2653980b2bb3c1887cc",
-      "url": "https://open.spotify.com/track/2i7HYPaJBVefvd6OwQ2rD2",
-      "durationMs": 191132,
-      "playedAt": "2026-09-08T14:49:53.613Z"
     }
   ],
   "topArtists": [
