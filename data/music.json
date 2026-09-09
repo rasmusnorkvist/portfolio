@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T15:51:01.700Z",
+  "updatedAt": "2026-09-09T19:02:01.686Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -128,25 +128,47 @@
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
+      "genres": [
+        "lo-fi",
+        "lo-fi beats",
+        "jazz beats"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "JAŸ-Z",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
       "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
-      "genres": []
+      "genres": [
+        "hip hop",
+        "east coast hip hop",
+        "rap"
+      ]
     },
     {
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": []
+      "genres": [
+        "yacht rock",
+        "classic rock",
+        "soft rock"
+      ]
+    },
+    {
+      "name": "Peter LeMarc",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
+      "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Rapallo",
@@ -155,22 +177,24 @@
       "genres": []
     },
     {
-      "name": "Peter LeMarc",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
-      "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": []
-    },
-    {
       "name": "The Delfonics",
       "imageUrl": "https://i.scdn.co/image/c923d6436c698e5847c2ef79af5b2cbdfab8aaf8",
       "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4",
-      "genres": []
+      "genres": [
+        "philly soul",
+        "classic soul",
+        "motown"
+      ]
     },
     {
       "name": "Ezra Collective",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb74f17b856692fa4d1ed38a06",
       "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W",
-      "genres": []
+      "genres": [
+        "jazz rap",
+        "indie soul",
+        "nu jazz"
+      ]
     }
   ],
   "topTracks": [
@@ -226,16 +250,6 @@
       "durationMs": 340840
     },
     {
-      "name": "LGCY",
-      "artists": [
-        "Rapallo"
-      ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/3e1oWT8W1S1OI4eEtpwSj4",
-      "durationMs": 196206
-    },
-    {
       "name": "Remember Me",
       "artists": [
         "Fleetwood Mac"
@@ -255,6 +269,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736d61a0286817cd75d35eb67e",
       "url": "https://open.spotify.com/track/7pFRhCj70NUNZG4xMDEQj8",
       "durationMs": 96343
+    },
+    {
+      "name": "V.I.P.",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/1Hs65Rzndy9ijGBA9JQltu",
+      "durationMs": 155587
     }
   ],
   "featuredPlaylists": []
