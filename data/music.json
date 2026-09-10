@@ -1,7 +1,100 @@
 {
-  "updatedAt": "2026-09-10T02:53:56.975Z",
+  "updatedAt": "2026-09-10T07:50:18.138Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Apocalypse (feat. Refugee All Stars)",
+      "artists": [
+        "Wyclef Jean",
+        "Refugee All Stars"
+      ],
+      "album": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
+      "url": "https://open.spotify.com/track/5y5aFlTMuKQCzhGsGdATap",
+      "durationMs": 229266,
+      "playedAt": "2026-09-10T04:25:59.416Z"
+    },
+    {
+      "name": "Cashen dom tas",
+      "artists": [
+        "The Latin Kings"
+      ],
+      "album": "Cashen dom tas",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732bff445b58be18b9c053bed6",
+      "url": "https://open.spotify.com/track/06Gdd6zfAHBy7B5DxaBugm",
+      "durationMs": 287893,
+      "playedAt": "2026-09-10T04:13:38.616Z"
+    },
+    {
+      "name": "Ride out the Storm",
+      "artists": [
+        "Dele Sosimi",
+        "The Estuary 21",
+        "Get Cape. Wear Cape. Fly"
+      ],
+      "album": "The Confluence LP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
+      "url": "https://open.spotify.com/track/1Hx4BfEyycVEn6diIa2LLS",
+      "durationMs": 171000,
+      "playedAt": "2026-09-10T04:09:52.259Z"
+    },
+    {
+      "name": "Do It Again",
+      "artists": [
+        "Steely Dan"
+      ],
+      "album": "Can't Buy A Thrill",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
+      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19",
+      "durationMs": 357041,
+      "playedAt": "2026-09-10T04:07:02.147Z"
+    },
+    {
+      "name": "On The Grind",
+      "artists": [
+        "Supersci",
+        "Chords"
+      ],
+      "album": "Pinetrees On The Pavement",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8729fbc083cd2b468a0702c",
+      "url": "https://open.spotify.com/track/1LZ56yhDe3Jf1WJ75mzjGv",
+      "durationMs": 305720,
+      "playedAt": "2026-09-10T04:01:20.106Z"
+    },
+    {
+      "name": "Berget",
+      "artists": [
+        "Dina Ögon"
+      ],
+      "album": "Oas",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27347f29db19cce35a81aa12888",
+      "url": "https://open.spotify.com/track/7gdRvpMZATkoCadNtNDZyH",
+      "durationMs": 198828,
+      "playedAt": "2026-09-10T03:57:05.807Z"
+    },
+    {
+      "name": "Play to Lose",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/6omojoKV4GqJT5CexQnfGM",
+      "durationMs": 203364,
+      "playedAt": "2026-09-10T03:53:59.615Z"
+    },
+    {
+      "name": "Life",
+      "artists": [
+        "E-Type",
+        "Nana Hedin"
+      ],
+      "album": "Euro IV Ever",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c89626b8b2a51e1383a86efd",
+      "url": "https://open.spotify.com/track/41Ef0PikCCRBcIM8O0t5HK",
+      "durationMs": 222040,
+      "playedAt": "2026-09-10T03:50:42.662Z"
+    },
     {
       "name": "Tiene Sabor (feat. Omara Portuondo)",
       "artists": [
@@ -24,103 +117,6 @@
       "url": "https://open.spotify.com/track/612FxkyJOdYe2nlGiVCZ0S",
       "durationMs": 284080,
       "playedAt": "2026-09-09T04:49:47.716Z"
-    },
-    {
-      "name": "Veinte Años",
-      "artists": [
-        "Original Broadway Cast of Buena Vista Social Club",
-        "Julio Monge",
-        "Natalie Venetia Belcon"
-      ],
-      "album": "Buena Vista Social Club (Original Broadway Cast Recording)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e82204f43f3c89e316593779",
-      "url": "https://open.spotify.com/track/6PSrTwwK3JKakPZo0tO5qY",
-      "durationMs": 143400,
-      "playedAt": "2026-09-09T04:45:06.621Z"
-    },
-    {
-      "name": "Siboney",
-      "artists": [
-        "Buena Vista Social Club"
-      ],
-      "album": "Buena Vista Social Club (25th Anniversary Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738e89058d9c0906371d401844",
-      "url": "https://open.spotify.com/track/0ZMPSWbmJNApMN8CgddbIV",
-      "durationMs": 128899,
-      "playedAt": "2026-09-09T04:42:46.239Z"
-    },
-    {
-      "name": "Se Soltó un León",
-      "artists": [
-        "Eliades Ochoa"
-      ],
-      "album": "Guajiro",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351321f21102e46b80b931ef5",
-      "url": "https://open.spotify.com/track/5ytujzBdWI45E696nzaLuU",
-      "durationMs": 280106,
-      "playedAt": "2026-09-09T04:40:40.412Z"
-    },
-    {
-      "name": "No Me Llores Más",
-      "artists": [
-        "Omara Portuondo"
-      ],
-      "album": "Omara Portuondo (Buena Vista Social Club Presents)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27324427a33313836d81def7335",
-      "url": "https://open.spotify.com/track/5N5falAiNCgF0itFRzoEzw",
-      "durationMs": 299520,
-      "playedAt": "2026-09-09T04:36:03.312Z"
-    },
-    {
-      "name": "De Camino a la Vereda",
-      "artists": [
-        "Original Broadway Cast of Buena Vista Social Club",
-        "Renesito Avich",
-        "Julio Monge",
-        "Buena Vista Social Club Original Broadway Band"
-      ],
-      "album": "Buena Vista Social Club (Original Broadway Cast Recording)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e82204f43f3c89e316593779",
-      "url": "https://open.spotify.com/track/7n53166Bqza1EF4vMjMU4x",
-      "durationMs": 90537,
-      "playedAt": "2026-09-09T04:31:06.748Z"
-    },
-    {
-      "name": "Mandinga",
-      "artists": [
-        "Buena Vista Social Club"
-      ],
-      "album": "Buena Vista Social Club (25th Anniversary Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738e89058d9c0906371d401844",
-      "url": "https://open.spotify.com/track/1aoG4Fbhd4DlSoSNoLhZh5",
-      "durationMs": 146350,
-      "playedAt": "2026-09-09T04:29:39.226Z"
-    },
-    {
-      "name": "Qué Bueno Baila Usted",
-      "artists": [
-        "Original Broadway Cast of Buena Vista Social Club",
-        "Renesito Avich",
-        "Da'Von T. Moody",
-        "David Oquendo",
-        "Buena Vista Social Club Original Broadway Band"
-      ],
-      "album": "Buena Vista Social Club (Original Broadway Cast Recording)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e82204f43f3c89e316593779",
-      "url": "https://open.spotify.com/track/5BquOusMamGg7QoUhvpKLd",
-      "durationMs": 229399,
-      "playedAt": "2026-09-09T04:27:15.911Z"
-    },
-    {
-      "name": "La Bayamesa",
-      "artists": [
-        "Buena Vista Social Club"
-      ],
-      "album": "Buena Vista Social Club",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dc784c3f0767e576a0848b81",
-      "url": "https://open.spotify.com/track/0dnW7K54ioUwXsCre9q1Nq",
-      "durationMs": 174293,
-      "playedAt": "2026-09-09T04:23:29.511Z"
     }
   ],
   "topArtists": [
@@ -128,31 +124,47 @@
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
+      "genres": [
+        "lo-fi",
+        "lo-fi beats",
+        "jazz beats"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "JAŸ-Z",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
       "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
-      "genres": []
+      "genres": [
+        "hip hop",
+        "east coast hip hop",
+        "rap"
+      ]
     },
     {
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": []
+      "genres": [
+        "yacht rock",
+        "classic rock",
+        "soft rock"
+      ]
     },
     {
       "name": "Peter LeMarc",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
       "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Rapallo",
@@ -164,13 +176,21 @@
       "name": "The Delfonics",
       "imageUrl": "https://i.scdn.co/image/c923d6436c698e5847c2ef79af5b2cbdfab8aaf8",
       "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4",
-      "genres": []
+      "genres": [
+        "philly soul",
+        "classic soul",
+        "motown"
+      ]
     },
     {
       "name": "Ezra Collective",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb74f17b856692fa4d1ed38a06",
       "url": "https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W",
-      "genres": []
+      "genres": [
+        "jazz rap",
+        "indie soul",
+        "nu jazz"
+      ]
     }
   ],
   "topTracks": [
@@ -185,16 +205,6 @@
       "durationMs": 203364
     },
     {
-      "name": "Visa från Utanmyra",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
-      "durationMs": 273800
-    },
-    {
       "name": "Interlude",
       "artists": [
         "JAŸ-Z"
@@ -203,6 +213,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
       "url": "https://open.spotify.com/track/2D4JZUIZVJVzZz9gpYaiO9",
       "durationMs": 81800
+    },
+    {
+      "name": "Visa från Utanmyra",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800
     },
     {
       "name": "No One's Watching Me (feat. Olivia Dean)",
