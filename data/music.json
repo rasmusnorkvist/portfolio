@@ -1,7 +1,96 @@
 {
-  "updatedAt": "2026-09-10T19:26:51.555Z",
+  "updatedAt": "2026-09-10T21:45:19.877Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Pilot Jones",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/2ohegz9maxzroKBu9YhcCM",
+      "durationMs": 184080,
+      "playedAt": "2026-09-10T21:13:03.975Z"
+    },
+    {
+      "name": "Super Rich Kids",
+      "artists": [
+        "Frank Ocean",
+        "Earl Sweatshirt"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb",
+      "durationMs": 304760,
+      "playedAt": "2026-09-10T21:09:59.874Z"
+    },
+    {
+      "name": "Not Just Money",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/3iW3y326xuRpNVXzOMBZy5",
+      "durationMs": 59760,
+      "playedAt": "2026-09-10T21:04:55.154Z"
+    },
+    {
+      "name": "Sweet Life",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2",
+      "durationMs": 262680,
+      "playedAt": "2026-09-10T21:03:55.371Z"
+    },
+    {
+      "name": "Sierra Leone",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/1HwbgJAU9PZ7YbzKgVgoIF",
+      "durationMs": 148760,
+      "playedAt": "2026-09-10T20:59:24.474Z"
+    },
+    {
+      "name": "Fertilizer",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/6jypaMkKsoc5npsVzxhksl",
+      "durationMs": 39640,
+      "playedAt": "2026-09-10T20:56:55.678Z"
+    },
+    {
+      "name": "Thinkin Bout You",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau",
+      "durationMs": 200746,
+      "playedAt": "2026-09-10T20:56:16.058Z"
+    },
+    {
+      "name": "Start",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
+      "durationMs": 45640,
+      "playedAt": "2026-09-10T20:52:55.285Z"
+    },
     {
       "name": "Can We Pretend",
       "artists": [
@@ -23,96 +112,6 @@
       "url": "https://open.spotify.com/track/1KywyxekfDEp3Ym7YP7S25",
       "durationMs": 194427,
       "playedAt": "2026-09-10T16:12:35.889Z"
-    },
-    {
-      "name": "Grandma's Hands",
-      "artists": [
-        "Bill Withers"
-      ],
-      "album": "Just As I Am",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f64b9ea8a8a409c6af86134f",
-      "url": "https://open.spotify.com/track/1qfDfZAvrkSAFrAR2FTQDv",
-      "durationMs": 122534,
-      "playedAt": "2026-09-10T16:09:24.457Z"
-    },
-    {
-      "name": "Use Me",
-      "artists": [
-        "Bill Withers"
-      ],
-      "album": "Still Bill",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27372641ed682401fc46c18ac12",
-      "url": "https://open.spotify.com/track/4gRA0i5sxx3jAhHaVjPnUN",
-      "durationMs": 228326,
-      "playedAt": "2026-09-10T16:07:24.933Z"
-    },
-    {
-      "name": "Lean on Me",
-      "artists": [
-        "Bill Withers"
-      ],
-      "album": "Still Bill",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27372641ed682401fc46c18ac12",
-      "url": "https://open.spotify.com/track/3M8FzayQWtkvOhqMn2V4T2",
-      "durationMs": 258834,
-      "playedAt": "2026-09-10T16:03:39.697Z"
-    },
-    {
-      "name": "Just the Two of Us",
-      "artists": [
-        "Grover Washington, Jr.",
-        "Bill Withers"
-      ],
-      "album": "Winelight",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d8e0e065037b496212e554b7",
-      "url": "https://open.spotify.com/track/5fdNHVZHbWB1AaXk4RBGVD",
-      "durationMs": 443773,
-      "playedAt": "2026-09-10T15:59:23.862Z"
-    },
-    {
-      "name": "Lovely Day",
-      "artists": [
-        "Bill Withers"
-      ],
-      "album": "Menagerie",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27367c1113f55ab816ef61d3993",
-      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh",
-      "durationMs": 257157,
-      "playedAt": "2026-09-10T15:52:03.087Z"
-    },
-    {
-      "name": "Ain't No Sunshine",
-      "artists": [
-        "Bill Withers"
-      ],
-      "album": "Just As I Am",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f64b9ea8a8a409c6af86134f",
-      "url": "https://open.spotify.com/track/1k1Bqnv2R0uJXQN4u6LKYt",
-      "durationMs": 126458,
-      "playedAt": "2026-09-10T15:47:48.891Z"
-    },
-    {
-      "name": "Apocalypse (feat. Refugee All Stars)",
-      "artists": [
-        "Wyclef Jean",
-        "Refugee All Stars"
-      ],
-      "album": "Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730e14aa8361fbf8b5648fc3b7",
-      "url": "https://open.spotify.com/track/5y5aFlTMuKQCzhGsGdATap",
-      "durationMs": 229266,
-      "playedAt": "2026-09-10T04:25:59.416Z"
-    },
-    {
-      "name": "Cashen dom tas",
-      "artists": [
-        "The Latin Kings"
-      ],
-      "album": "Cashen dom tas",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732bff445b58be18b9c053bed6",
-      "url": "https://open.spotify.com/track/06Gdd6zfAHBy7B5DxaBugm",
-      "durationMs": 287893,
-      "playedAt": "2026-09-10T04:13:38.616Z"
     }
   ],
   "topArtists": [
