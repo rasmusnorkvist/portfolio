@@ -1,117 +1,127 @@
 {
-  "updatedAt": "2026-09-11T16:52:42.048Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-11T19:24:57.948Z",
+  "nowPlaying": {
+    "name": "Godlight",
+    "artists": [
+      "Noah Kahan"
+    ],
+    "album": "I Was / I Am",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735282d57c8563f28262bf0905",
+    "url": "https://open.spotify.com/track/3cgf3PmzUZKLCRulrKrzZG",
+    "durationMs": 247050,
+    "isPlaying": true,
+    "progressMs": 51673
+  },
   "recentlyPlayed": [
     {
-      "name": "Visa från Utanmyra",
+      "name": "Deny Deny Deny",
       "artists": [
-        "Jan Johansson"
+        "Noah Kahan"
       ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
-      "durationMs": 273800,
-      "playedAt": "2026-09-11T16:51:37.694Z"
+      "album": "The Great Divide: The Last Of The Bugs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c39789e2dbdad5af5736e07a",
+      "url": "https://open.spotify.com/track/0vUfWOoligPco5oHkFUjIz",
+      "durationMs": 230689,
+      "playedAt": "2026-09-11T19:24:09.935Z"
     },
     {
-      "name": "Hon steg på finlandsbåten",
+      "name": "American Cars",
       "artists": [
-        "Alf Robertson"
+        "Noah Kahan"
       ],
-      "album": "I väntan på Dolly",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e9395daf89b190c9b14fc68c",
-      "url": "https://open.spotify.com/track/4Q6TtkKqdr7nh4epkRLWoH",
-      "durationMs": 179066,
-      "playedAt": "2026-09-11T16:46:06.101Z"
+      "album": "The Great Divide: The Last Of The Bugs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c39789e2dbdad5af5736e07a",
+      "url": "https://open.spotify.com/track/5eZT30V5rwLbsal1MMkOxD",
+      "durationMs": 272084,
+      "playedAt": "2026-09-11T19:20:22.212Z"
     },
     {
-      "name": "Balladen om Nisse Karlsson (Coward of the County)",
+      "name": "Young Blood",
       "artists": [
-        "Alf Robertson"
+        "Noah Kahan"
       ],
-      "album": "Emily's foto",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ddcdaba0e7baeef7e26ddae2",
-      "url": "https://open.spotify.com/track/2UIxiw5s1cw4eRVqff2teT",
-      "durationMs": 272106,
-      "playedAt": "2026-09-11T16:43:10.098Z"
+      "album": "Busyhead",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a82b6363eb1895f2e9aae530",
+      "url": "https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5",
+      "durationMs": 208533,
+      "playedAt": "2026-09-11T19:15:53.220Z"
     },
     {
-      "name": "The Nearness Of You",
+      "name": "Willing and Able",
       "artists": [
-        "Norah Jones"
+        "Noah Kahan"
       ],
-      "album": "Come Away With Me (Super Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
-      "url": "https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2",
-      "durationMs": 187769,
-      "playedAt": "2026-09-11T16:33:07.796Z"
+      "album": "The Great Divide",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d879855b819250d3d00a1a38",
+      "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs",
+      "durationMs": 297262,
+      "playedAt": "2026-09-11T19:12:27.675Z"
     },
     {
-      "name": "Carry On",
+      "name": "Doors",
       "artists": [
-        "Norah Jones"
+        "Noah Kahan"
       ],
-      "album": "Day Breaks",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735843cb50b0751124f3e34e6e",
-      "url": "https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl",
-      "durationMs": 168106,
-      "playedAt": "2026-09-11T16:30:02.997Z"
+      "album": "The Great Divide",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d879855b819250d3d00a1a38",
+      "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si",
+      "durationMs": 231086,
+      "playedAt": "2026-09-11T19:07:33.447Z"
     },
     {
-      "name": "Creepin' In",
+      "name": "Porch Light",
       "artists": [
-        "Norah Jones",
-        "Dolly Parton"
+        "Noah Kahan"
       ],
-      "album": "Feels Like Home",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27364026be0e09c1beda2f67c32",
-      "url": "https://open.spotify.com/track/4yzFhsULEg65lbA7wjKaAQ",
-      "durationMs": 183840,
-      "playedAt": "2026-09-11T16:27:17.993Z"
+      "album": "The Great Divide",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d879855b819250d3d00a1a38",
+      "url": "https://open.spotify.com/track/7N3d1hsZZpmmnovfAtnVFU",
+      "durationMs": 262726,
+      "playedAt": "2026-09-11T19:03:45.430Z"
     },
     {
-      "name": "What Am I To You?",
+      "name": "The View Between Villages",
       "artists": [
-        "Norah Jones"
+        "Noah Kahan"
       ],
-      "album": "Feels Like Home",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27364026be0e09c1beda2f67c32",
-      "url": "https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH",
-      "durationMs": 210000,
-      "playedAt": "2026-09-11T16:24:17.105Z"
+      "album": "Stick Season",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918",
+      "url": "https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx",
+      "durationMs": 215341,
+      "playedAt": "2026-09-11T18:59:25.660Z"
     },
     {
-      "name": "Those Sweet Words",
+      "name": "Downfall",
       "artists": [
-        "Norah Jones"
+        "Noah Kahan"
       ],
-      "album": "Feels Like Home",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27364026be0e09c1beda2f67c32",
-      "url": "https://open.spotify.com/track/2MKLbFPQ3QDXpQ0KnS06Kl",
-      "durationMs": 202640,
-      "playedAt": "2026-09-11T16:20:50.123Z"
+      "album": "The Great Divide: The Last Of The Bugs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c39789e2dbdad5af5736e07a",
+      "url": "https://open.spotify.com/track/0cvrMGzr2LhZAG5SP8KDUB",
+      "durationMs": 255521,
+      "playedAt": "2026-09-11T18:55:53.337Z"
     },
     {
-      "name": "Turn Me On",
+      "name": "End of August",
       "artists": [
-        "Norah Jones"
+        "Noah Kahan"
       ],
-      "album": "Come Away With Me (Super Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
-      "url": "https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj",
-      "durationMs": 154800,
-      "playedAt": "2026-09-11T16:17:30.503Z"
+      "album": "The Great Divide",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d879855b819250d3d00a1a38",
+      "url": "https://open.spotify.com/track/4fEUmNN8KK5sNqvKjBstKg",
+      "durationMs": 317232,
+      "playedAt": "2026-09-11T18:51:40.818Z"
     },
     {
-      "name": "Come Away With Me",
+      "name": "Staying Still",
       "artists": [
-        "Norah Jones"
+        "Noah Kahan"
       ],
-      "album": "Come Away With Me (Super Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
-      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI",
-      "durationMs": 198226,
-      "playedAt": "2026-09-11T16:14:58.716Z"
+      "album": "The Great Divide: The Last Of The Bugs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c39789e2dbdad5af5736e07a",
+      "url": "https://open.spotify.com/track/35po0dhj4pRkbVDeooNVBW",
+      "durationMs": 268822,
+      "playedAt": "2026-09-11T18:46:26.651Z"
     }
   ],
   "topArtists": [
@@ -146,21 +156,21 @@
       "genres": []
     },
     {
-      "name": "Jan Johansson",
-      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
-      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
-    },
-    {
       "name": "Norah Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
       "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
       "genres": []
     },
     {
-      "name": "The Delfonics",
-      "imageUrl": "https://i.scdn.co/image/c923d6436c698e5847c2ef79af5b2cbdfab8aaf8",
-      "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4",
+      "name": "Jan Johansson",
+      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
+      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
+      "genres": []
+    },
+    {
+      "name": "Frank Ocean",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
+      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
       "genres": []
     }
   ],
@@ -176,16 +186,6 @@
       "durationMs": 203364
     },
     {
-      "name": "Interlude",
-      "artists": [
-        "JAŸ-Z"
-      ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/2D4JZUIZVJVzZz9gpYaiO9",
-      "durationMs": 81800
-    },
-    {
       "name": "Visa från Utanmyra",
       "artists": [
         "Jan Johansson"
@@ -194,6 +194,26 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
       "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
       "durationMs": 273800
+    },
+    {
+      "name": "Start",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
+      "durationMs": 45640
+    },
+    {
+      "name": "Interlude",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/2D4JZUIZVJVzZz9gpYaiO9",
+      "durationMs": 81800
     },
     {
       "name": "Don't Know Why",
@@ -215,16 +235,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8e913bf1a4776a5fe27ce28",
       "url": "https://open.spotify.com/track/70VTTe96UJ9QUyFYbsnW5V",
       "durationMs": 262306
-    },
-    {
-      "name": "Start",
-      "artists": [
-        "Frank Ocean"
-      ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
-      "durationMs": 45640
     },
     {
       "name": "Red Rain - Remastered",
