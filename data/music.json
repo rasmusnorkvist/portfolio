@@ -1,18 +1,97 @@
 {
-  "updatedAt": "2026-09-11T19:24:57.948Z",
-  "nowPlaying": {
-    "name": "Godlight",
-    "artists": [
-      "Noah Kahan"
-    ],
-    "album": "I Was / I Am",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735282d57c8563f28262bf0905",
-    "url": "https://open.spotify.com/track/3cgf3PmzUZKLCRulrKrzZG",
-    "durationMs": 247050,
-    "isPlaying": true,
-    "progressMs": 51673
-  },
+  "updatedAt": "2026-09-11T21:49:49.408Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "No Complaints",
+      "artists": [
+        "Noah Kahan"
+      ],
+      "album": "Stick Season (We'll All Be Here Forever)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27365a472d8326d4571bf725422",
+      "url": "https://open.spotify.com/track/52DudaVZObvmBgEX6IObHX",
+      "durationMs": 205432,
+      "playedAt": "2026-09-11T19:59:09.841Z"
+    },
+    {
+      "name": "Maine",
+      "artists": [
+        "Noah Kahan"
+      ],
+      "album": "Cape Elizabeth",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739bdf7ddd51003bc6b491ce73",
+      "url": "https://open.spotify.com/track/3Z2anmIVG8b1GelyeFQdnP",
+      "durationMs": 232618,
+      "playedAt": "2026-09-11T19:55:47.453Z"
+    },
+    {
+      "name": "New Perspective",
+      "artists": [
+        "Noah Kahan"
+      ],
+      "album": "Stick Season",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918",
+      "url": "https://open.spotify.com/track/1M39ETXmej4g9EMSeXPUgj",
+      "durationMs": 256871,
+      "playedAt": "2026-09-11T19:51:57.803Z"
+    },
+    {
+      "name": "Sarah's Place (feat. Noah Kahan)",
+      "artists": [
+        "Zach Bryan",
+        "Noah Kahan"
+      ],
+      "album": "Sarah's Place (feat. Noah Kahan)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c6d167bd2bdcd881104af1fb",
+      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB",
+      "durationMs": 214056,
+      "playedAt": "2026-09-11T19:47:43.968Z"
+    },
+    {
+      "name": "False Confidence",
+      "artists": [
+        "Noah Kahan"
+      ],
+      "album": "Busyhead",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a82b6363eb1895f2e9aae530",
+      "url": "https://open.spotify.com/track/7nDFTHHwfe32a8qdp9XqPy",
+      "durationMs": 223400,
+      "playedAt": "2026-09-11T19:41:58.471Z"
+    },
+    {
+      "name": "Dial Drunk (with Post Malone)",
+      "artists": [
+        "Noah Kahan",
+        "Post Malone"
+      ],
+      "album": "Dial Drunk (with Post Malone)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f519f148d88bf65074b4a3a9",
+      "url": "https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK",
+      "durationMs": 213817,
+      "playedAt": "2026-09-11T19:36:38.863Z"
+    },
+    {
+      "name": "Orange Juice",
+      "artists": [
+        "Noah Kahan"
+      ],
+      "album": "Stick Season",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918",
+      "url": "https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl",
+      "durationMs": 297103,
+      "playedAt": "2026-09-11T19:33:07.997Z"
+    },
+    {
+      "name": "Godlight",
+      "artists": [
+        "Noah Kahan"
+      ],
+      "album": "I Was / I Am",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735282d57c8563f28262bf0905",
+      "url": "https://open.spotify.com/track/3cgf3PmzUZKLCRulrKrzZG",
+      "durationMs": 247050,
+      "playedAt": "2026-09-11T19:28:13.966Z"
+    },
     {
       "name": "Deny Deny Deny",
       "artists": [
@@ -34,94 +113,6 @@
       "url": "https://open.spotify.com/track/5eZT30V5rwLbsal1MMkOxD",
       "durationMs": 272084,
       "playedAt": "2026-09-11T19:20:22.212Z"
-    },
-    {
-      "name": "Young Blood",
-      "artists": [
-        "Noah Kahan"
-      ],
-      "album": "Busyhead",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a82b6363eb1895f2e9aae530",
-      "url": "https://open.spotify.com/track/5ngcqrs4Xq915GUqNtNNr5",
-      "durationMs": 208533,
-      "playedAt": "2026-09-11T19:15:53.220Z"
-    },
-    {
-      "name": "Willing and Able",
-      "artists": [
-        "Noah Kahan"
-      ],
-      "album": "The Great Divide",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d879855b819250d3d00a1a38",
-      "url": "https://open.spotify.com/track/6pk6E0SZxILzfaAGFngxEs",
-      "durationMs": 297262,
-      "playedAt": "2026-09-11T19:12:27.675Z"
-    },
-    {
-      "name": "Doors",
-      "artists": [
-        "Noah Kahan"
-      ],
-      "album": "The Great Divide",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d879855b819250d3d00a1a38",
-      "url": "https://open.spotify.com/track/3iU2qsthCTo5EeTE03l3Si",
-      "durationMs": 231086,
-      "playedAt": "2026-09-11T19:07:33.447Z"
-    },
-    {
-      "name": "Porch Light",
-      "artists": [
-        "Noah Kahan"
-      ],
-      "album": "The Great Divide",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d879855b819250d3d00a1a38",
-      "url": "https://open.spotify.com/track/7N3d1hsZZpmmnovfAtnVFU",
-      "durationMs": 262726,
-      "playedAt": "2026-09-11T19:03:45.430Z"
-    },
-    {
-      "name": "The View Between Villages",
-      "artists": [
-        "Noah Kahan"
-      ],
-      "album": "Stick Season",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918",
-      "url": "https://open.spotify.com/track/6PdWPdgPoVCT9WLFMVnhxx",
-      "durationMs": 215341,
-      "playedAt": "2026-09-11T18:59:25.660Z"
-    },
-    {
-      "name": "Downfall",
-      "artists": [
-        "Noah Kahan"
-      ],
-      "album": "The Great Divide: The Last Of The Bugs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c39789e2dbdad5af5736e07a",
-      "url": "https://open.spotify.com/track/0cvrMGzr2LhZAG5SP8KDUB",
-      "durationMs": 255521,
-      "playedAt": "2026-09-11T18:55:53.337Z"
-    },
-    {
-      "name": "End of August",
-      "artists": [
-        "Noah Kahan"
-      ],
-      "album": "The Great Divide",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d879855b819250d3d00a1a38",
-      "url": "https://open.spotify.com/track/4fEUmNN8KK5sNqvKjBstKg",
-      "durationMs": 317232,
-      "playedAt": "2026-09-11T18:51:40.818Z"
-    },
-    {
-      "name": "Staying Still",
-      "artists": [
-        "Noah Kahan"
-      ],
-      "album": "The Great Divide: The Last Of The Bugs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c39789e2dbdad5af5736e07a",
-      "url": "https://open.spotify.com/track/35po0dhj4pRkbVDeooNVBW",
-      "durationMs": 268822,
-      "playedAt": "2026-09-11T18:46:26.651Z"
     }
   ],
   "topArtists": [
@@ -129,25 +120,39 @@
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
+      "genres": [
+        "lo-fi",
+        "lo-fi beats",
+        "jazz beats"
+      ]
     },
     {
       "name": "JAŸ-Z",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
       "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
-      "genres": []
+      "genres": [
+        "hip hop",
+        "east coast hip hop",
+        "rap"
+      ]
     },
     {
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": []
+      "genres": [
+        "yacht rock",
+        "classic rock",
+        "soft rock"
+      ]
     },
     {
       "name": "Peter LeMarc",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
       "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Rapallo",
@@ -159,13 +164,17 @@
       "name": "Norah Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
       "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-      "genres": []
+      "genres": [
+        "jazz pop"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Frank Ocean",
