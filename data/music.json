@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-11T12:33:15.180Z",
+  "updatedAt": "2026-09-11T16:52:42.048Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Pilot Jones",
+      "name": "Visa från Utanmyra",
       "artists": [
-        "Frank Ocean"
+        "Jan Johansson"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/2ohegz9maxzroKBu9YhcCM",
-      "durationMs": 184080,
-      "playedAt": "2026-09-11T04:24:36.878Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800,
+      "playedAt": "2026-09-11T16:51:37.694Z"
     },
     {
-      "name": "Super Rich Kids",
+      "name": "Hon steg på finlandsbåten",
       "artists": [
-        "Frank Ocean",
-        "Earl Sweatshirt"
+        "Alf Robertson"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb",
-      "durationMs": 304760,
-      "playedAt": "2026-09-11T04:21:32.796Z"
+      "album": "I väntan på Dolly",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e9395daf89b190c9b14fc68c",
+      "url": "https://open.spotify.com/track/4Q6TtkKqdr7nh4epkRLWoH",
+      "durationMs": 179066,
+      "playedAt": "2026-09-11T16:46:06.101Z"
     },
     {
-      "name": "Not Just Money",
+      "name": "Balladen om Nisse Karlsson (Coward of the County)",
       "artists": [
-        "Frank Ocean"
+        "Alf Robertson"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/3iW3y326xuRpNVXzOMBZy5",
-      "durationMs": 59760,
-      "playedAt": "2026-09-11T04:16:28.083Z"
+      "album": "Emily's foto",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ddcdaba0e7baeef7e26ddae2",
+      "url": "https://open.spotify.com/track/2UIxiw5s1cw4eRVqff2teT",
+      "durationMs": 272106,
+      "playedAt": "2026-09-11T16:43:10.098Z"
     },
     {
-      "name": "Sweet Life",
+      "name": "The Nearness Of You",
       "artists": [
-        "Frank Ocean"
+        "Norah Jones"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2",
-      "durationMs": 262680,
-      "playedAt": "2026-09-11T04:15:28.273Z"
+      "album": "Come Away With Me (Super Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
+      "url": "https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2",
+      "durationMs": 187769,
+      "playedAt": "2026-09-11T16:33:07.796Z"
     },
     {
-      "name": "Sierra Leone",
+      "name": "Carry On",
       "artists": [
-        "Frank Ocean"
+        "Norah Jones"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/1HwbgJAU9PZ7YbzKgVgoIF",
-      "durationMs": 148760,
-      "playedAt": "2026-09-11T04:11:05.583Z"
+      "album": "Day Breaks",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735843cb50b0751124f3e34e6e",
+      "url": "https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl",
+      "durationMs": 168106,
+      "playedAt": "2026-09-11T16:30:02.997Z"
     },
     {
-      "name": "Fertilizer",
+      "name": "Creepin' In",
       "artists": [
-        "Frank Ocean"
+        "Norah Jones",
+        "Dolly Parton"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/6jypaMkKsoc5npsVzxhksl",
-      "durationMs": 39640,
-      "playedAt": "2026-09-11T04:08:36.791Z"
+      "album": "Feels Like Home",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27364026be0e09c1beda2f67c32",
+      "url": "https://open.spotify.com/track/4yzFhsULEg65lbA7wjKaAQ",
+      "durationMs": 183840,
+      "playedAt": "2026-09-11T16:27:17.993Z"
     },
     {
-      "name": "Thinkin Bout You",
+      "name": "What Am I To You?",
       "artists": [
-        "Frank Ocean"
+        "Norah Jones"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau",
-      "durationMs": 200746,
-      "playedAt": "2026-09-11T04:07:57.200Z"
+      "album": "Feels Like Home",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27364026be0e09c1beda2f67c32",
+      "url": "https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH",
+      "durationMs": 210000,
+      "playedAt": "2026-09-11T16:24:17.105Z"
     },
     {
-      "name": "Start",
+      "name": "Those Sweet Words",
       "artists": [
-        "Frank Ocean"
+        "Norah Jones"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
-      "durationMs": 45640,
-      "playedAt": "2026-09-11T04:04:36.496Z"
+      "album": "Feels Like Home",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27364026be0e09c1beda2f67c32",
+      "url": "https://open.spotify.com/track/2MKLbFPQ3QDXpQ0KnS06Kl",
+      "durationMs": 202640,
+      "playedAt": "2026-09-11T16:20:50.123Z"
     },
     {
-      "name": "Crack Rock",
+      "name": "Turn Me On",
       "artists": [
-        "Frank Ocean"
+        "Norah Jones"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/5lcyIeEfwZTs8Ajw3kdF7P",
-      "durationMs": 224146,
-      "playedAt": "2026-09-11T04:03:24.693Z"
+      "album": "Come Away With Me (Super Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
+      "url": "https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj",
+      "durationMs": 154800,
+      "playedAt": "2026-09-11T16:17:30.503Z"
     },
     {
-      "name": "Pilot Jones",
+      "name": "Come Away With Me",
       "artists": [
-        "Frank Ocean"
+        "Norah Jones"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/2ohegz9maxzroKBu9YhcCM",
-      "durationMs": 184080,
-      "playedAt": "2026-09-10T21:13:03.975Z"
+      "album": "Come Away With Me (Super Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
+      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI",
+      "durationMs": 198226,
+      "playedAt": "2026-09-11T16:14:58.716Z"
     }
   ],
   "topArtists": [
@@ -119,12 +119,6 @@
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
-    },
-    {
-      "name": "Jan Johansson",
-      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
-      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
       "genres": []
     },
     {
@@ -152,15 +146,21 @@
       "genres": []
     },
     {
-      "name": "The Delfonics",
-      "imageUrl": "https://i.scdn.co/image/c923d6436c698e5847c2ef79af5b2cbdfab8aaf8",
-      "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4",
+      "name": "Jan Johansson",
+      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
+      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
       "genres": []
     },
     {
-      "name": "Frank Ocean",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
-      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
+      "name": "Norah Jones",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
+      "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
+      "genres": []
+    },
+    {
+      "name": "The Delfonics",
+      "imageUrl": "https://i.scdn.co/image/c923d6436c698e5847c2ef79af5b2cbdfab8aaf8",
+      "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4",
       "genres": []
     }
   ],
@@ -194,6 +194,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
       "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
       "durationMs": 273800
+    },
+    {
+      "name": "Don't Know Why",
+      "artists": [
+        "Norah Jones"
+      ],
+      "album": "Come Away With Me (Super Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
+      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
+      "durationMs": 186251
     },
     {
       "name": "No One's Watching Me (feat. Olivia Dean)",
@@ -235,17 +245,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27318be1bddc20c5ced4ec380b1",
       "url": "https://open.spotify.com/track/6FLePSijfx0YuQwWlLepLR",
       "durationMs": 165664
-    },
-    {
-      "name": "Soul Mates",
-      "artists": [
-        "Jazzinuf",
-        "Etymology Records"
-      ],
-      "album": "Soul Mates",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736d61a0286817cd75d35eb67e",
-      "url": "https://open.spotify.com/track/7pFRhCj70NUNZG4xMDEQj8",
-      "durationMs": 96343
     }
   ],
   "featuredPlaylists": []
