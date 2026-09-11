@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-09-11T21:49:49.408Z",
+  "updatedAt": "2026-09-11T23:50:56.553Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Zoom",
+      "artists": [
+        "Fat Larry's Band"
+      ],
+      "album": "Breakin' Out",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e88a017e11d2dc06ff391761",
+      "url": "https://open.spotify.com/track/6HuugFQZzdTYrHluRMUkzH",
+      "durationMs": 323866,
+      "playedAt": "2026-09-11T22:20:26.264Z"
+    },
+    {
+      "name": "You to Me Are Everything",
+      "artists": [
+        "The Real Thing"
+      ],
+      "album": "Real Thing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273874698f8742583e90e88a6d6",
+      "url": "https://open.spotify.com/track/65kKvpTuhJAVxyFPlKuOAd",
+      "durationMs": 208840,
+      "playedAt": "2026-09-11T22:15:05.430Z"
+    },
+    {
+      "name": "I Don't Wanna Dance",
+      "artists": [
+        "Eddy Grant"
+      ],
+      "album": "Killer On The Rampage",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27311541f506b9c9b7b086ce332",
+      "url": "https://open.spotify.com/track/4xbmyXThps1PkyigFLXVjj",
+      "durationMs": 219533,
+      "playedAt": "2026-09-11T22:11:38.376Z"
+    },
+    {
+      "name": "Little Green Apples",
+      "artists": [
+        "Boris Gardiner"
+      ],
+      "album": "It's Nice to Be with You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c0c65afb0ccbda784bf60dca",
+      "url": "https://open.spotify.com/track/0oAuHMdjJBruuqta4iz7ba",
+      "durationMs": 224600,
+      "playedAt": "2026-09-11T22:08:01.846Z"
+    },
+    {
+      "name": "Fattig bonddräng",
+      "artists": [
+        "Tommy Körberg"
+      ],
+      "album": "Gränslös - Det bästa med Tommy Körberg (2012 version)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f972c947ea7261f5465a1db6",
+      "url": "https://open.spotify.com/track/7oDhs8wtgIlbncVNDDaYs6",
+      "durationMs": 182160,
+      "playedAt": "2026-09-11T22:02:26.454Z"
+    },
     {
       "name": "No Complaints",
       "artists": [
@@ -57,62 +112,6 @@
       "url": "https://open.spotify.com/track/7nDFTHHwfe32a8qdp9XqPy",
       "durationMs": 223400,
       "playedAt": "2026-09-11T19:41:58.471Z"
-    },
-    {
-      "name": "Dial Drunk (with Post Malone)",
-      "artists": [
-        "Noah Kahan",
-        "Post Malone"
-      ],
-      "album": "Dial Drunk (with Post Malone)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f519f148d88bf65074b4a3a9",
-      "url": "https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK",
-      "durationMs": 213817,
-      "playedAt": "2026-09-11T19:36:38.863Z"
-    },
-    {
-      "name": "Orange Juice",
-      "artists": [
-        "Noah Kahan"
-      ],
-      "album": "Stick Season",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918",
-      "url": "https://open.spotify.com/track/07UFnnK3uPIuKv5Rs9TmXl",
-      "durationMs": 297103,
-      "playedAt": "2026-09-11T19:33:07.997Z"
-    },
-    {
-      "name": "Godlight",
-      "artists": [
-        "Noah Kahan"
-      ],
-      "album": "I Was / I Am",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735282d57c8563f28262bf0905",
-      "url": "https://open.spotify.com/track/3cgf3PmzUZKLCRulrKrzZG",
-      "durationMs": 247050,
-      "playedAt": "2026-09-11T19:28:13.966Z"
-    },
-    {
-      "name": "Deny Deny Deny",
-      "artists": [
-        "Noah Kahan"
-      ],
-      "album": "The Great Divide: The Last Of The Bugs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c39789e2dbdad5af5736e07a",
-      "url": "https://open.spotify.com/track/0vUfWOoligPco5oHkFUjIz",
-      "durationMs": 230689,
-      "playedAt": "2026-09-11T19:24:09.935Z"
-    },
-    {
-      "name": "American Cars",
-      "artists": [
-        "Noah Kahan"
-      ],
-      "album": "The Great Divide: The Last Of The Bugs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c39789e2dbdad5af5736e07a",
-      "url": "https://open.spotify.com/track/5eZT30V5rwLbsal1MMkOxD",
-      "durationMs": 272084,
-      "playedAt": "2026-09-11T19:20:22.212Z"
     }
   ],
   "topArtists": [
@@ -120,39 +119,25 @@
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": [
-        "lo-fi",
-        "lo-fi beats",
-        "jazz beats"
-      ]
+      "genres": []
     },
     {
       "name": "JAŸ-Z",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
       "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
-      "genres": [
-        "hip hop",
-        "east coast hip hop",
-        "rap"
-      ]
+      "genres": []
     },
     {
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": [
-        "yacht rock",
-        "classic rock",
-        "soft rock"
-      ]
+      "genres": []
     },
     {
       "name": "Peter LeMarc",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
       "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "Rapallo",
@@ -164,17 +149,13 @@
       "name": "Norah Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
       "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-      "genres": [
-        "jazz pop"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Frank Ocean",
