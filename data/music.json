@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T02:48:28.930Z",
+  "updatedAt": "2026-09-11T07:44:37.105Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -11,7 +11,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
       "url": "https://open.spotify.com/track/2ohegz9maxzroKBu9YhcCM",
       "durationMs": 184080,
-      "playedAt": "2026-09-10T21:13:03.975Z"
+      "playedAt": "2026-09-11T04:24:36.878Z"
     },
     {
       "name": "Super Rich Kids",
@@ -23,7 +23,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
       "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb",
       "durationMs": 304760,
-      "playedAt": "2026-09-10T21:09:59.874Z"
+      "playedAt": "2026-09-11T04:21:32.796Z"
     },
     {
       "name": "Not Just Money",
@@ -34,7 +34,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
       "url": "https://open.spotify.com/track/3iW3y326xuRpNVXzOMBZy5",
       "durationMs": 59760,
-      "playedAt": "2026-09-10T21:04:55.154Z"
+      "playedAt": "2026-09-11T04:16:28.083Z"
     },
     {
       "name": "Sweet Life",
@@ -45,7 +45,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
       "url": "https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2",
       "durationMs": 262680,
-      "playedAt": "2026-09-10T21:03:55.371Z"
+      "playedAt": "2026-09-11T04:15:28.273Z"
     },
     {
       "name": "Sierra Leone",
@@ -56,7 +56,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
       "url": "https://open.spotify.com/track/1HwbgJAU9PZ7YbzKgVgoIF",
       "durationMs": 148760,
-      "playedAt": "2026-09-10T20:59:24.474Z"
+      "playedAt": "2026-09-11T04:11:05.583Z"
     },
     {
       "name": "Fertilizer",
@@ -67,7 +67,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
       "url": "https://open.spotify.com/track/6jypaMkKsoc5npsVzxhksl",
       "durationMs": 39640,
-      "playedAt": "2026-09-10T20:56:55.678Z"
+      "playedAt": "2026-09-11T04:08:36.791Z"
     },
     {
       "name": "Thinkin Bout You",
@@ -78,7 +78,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
       "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau",
       "durationMs": 200746,
-      "playedAt": "2026-09-10T20:56:16.058Z"
+      "playedAt": "2026-09-11T04:07:57.200Z"
     },
     {
       "name": "Start",
@@ -89,29 +89,29 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
       "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
       "durationMs": 45640,
-      "playedAt": "2026-09-10T20:52:55.285Z"
+      "playedAt": "2026-09-11T04:04:36.496Z"
     },
     {
-      "name": "Can We Pretend",
+      "name": "Crack Rock",
       "artists": [
-        "Bill Withers"
+        "Frank Ocean"
       ],
-      "album": "'Justments",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334c5960e310bf44ef1f8cf41",
-      "url": "https://open.spotify.com/track/0S5ZoKKZD3bllkvhEoPimZ",
-      "durationMs": 229849,
-      "playedAt": "2026-09-10T16:16:22.692Z"
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/5lcyIeEfwZTs8Ajw3kdF7P",
+      "durationMs": 224146,
+      "playedAt": "2026-09-11T04:03:24.693Z"
     },
     {
-      "name": "Who Is He (And What Is He to You)?",
+      "name": "Pilot Jones",
       "artists": [
-        "Bill Withers"
+        "Frank Ocean"
       ],
-      "album": "Still Bill",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27372641ed682401fc46c18ac12",
-      "url": "https://open.spotify.com/track/1KywyxekfDEp3Ym7YP7S25",
-      "durationMs": 194427,
-      "playedAt": "2026-09-10T16:12:35.889Z"
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/2ohegz9maxzroKBu9YhcCM",
+      "durationMs": 184080,
+      "playedAt": "2026-09-10T21:13:03.975Z"
     }
   ],
   "topArtists": [
@@ -158,9 +158,9 @@
       "genres": []
     },
     {
-      "name": "E-Type",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2987f8c435d49a4bf4249289",
-      "url": "https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD",
+      "name": "Frank Ocean",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
+      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
       "genres": []
     }
   ],
@@ -207,6 +207,16 @@
       "durationMs": 262306
     },
     {
+      "name": "Start",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
+      "durationMs": 45640
+    },
+    {
       "name": "Red Rain - Remastered",
       "artists": [
         "Peter Gabriel"
@@ -236,16 +246,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736d61a0286817cd75d35eb67e",
       "url": "https://open.spotify.com/track/7pFRhCj70NUNZG4xMDEQj8",
       "durationMs": 96343
-    },
-    {
-      "name": "V.I.P.",
-      "artists": [
-        "Rapallo"
-      ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/1Hs65Rzndy9ijGBA9JQltu",
-      "durationMs": 155587
     }
   ],
   "featuredPlaylists": []
