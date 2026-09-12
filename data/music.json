@@ -1,127 +1,116 @@
 {
-  "updatedAt": "2026-09-12T17:46:39.264Z",
-  "nowPlaying": {
-    "name": "Banana Pancakes",
-    "artists": [
-      "Jack Johnson"
-    ],
-    "album": "In Between Dreams",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273628dba01c669d89586967dc5",
-    "url": "https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM",
-    "durationMs": 191906,
-    "isPlaying": true,
-    "progressMs": 57083
-  },
+  "updatedAt": "2026-09-12T20:07:53.891Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Better Together",
+      "name": "I'm Just a Prisoner (Of Your Good Lovin')",
       "artists": [
-        "Jack Johnson"
+        "Candi Staton"
       ],
-      "album": "In Between Dreams",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273628dba01c669d89586967dc5",
-      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX",
-      "durationMs": 207680,
-      "playedAt": "2026-09-12T17:45:46.029Z"
+      "album": "I'm Just A Prisoner",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c778adf324fde58375d9d93",
+      "url": "https://open.spotify.com/track/3SueL574p4NOD333VudM0D",
+      "durationMs": 192840,
+      "playedAt": "2026-09-12T19:17:52.728Z"
     },
     {
-      "name": "Upside Down",
+      "name": "You're a Melody",
       "artists": [
-        "Jack Johnson"
+        "Aged In Harmony"
       ],
-      "album": "Sing-A-Longs & Lullabies For The Film Curious George",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f89364988f55d7154f015ffd",
-      "url": "https://open.spotify.com/track/3YOigAKOgFTQuLjF9MBmd3",
-      "durationMs": 208653,
-      "playedAt": "2026-09-12T17:42:13.198Z"
+      "album": "You're a Melody",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8477996bfa0ec32976aa001",
+      "url": "https://open.spotify.com/track/6vlpzGFvvf9ydb1D7QMSk7",
+      "durationMs": 187970,
+      "playedAt": "2026-09-12T19:14:42.921Z"
     },
     {
-      "name": "You Get What You Give",
+      "name": "Pass Me By",
       "artists": [
-        "New Radicals"
+        "Sharon Jones & The Dap-Kings"
       ],
-      "album": "Maybe You've Been Brainwashed Too",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dfdedd4553b40bbaab342dae",
-      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF",
-      "durationMs": 300773,
-      "playedAt": "2026-09-12T02:52:21.424Z"
+      "album": "Soul of a Woman",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e934e34550506789bc119a46",
+      "url": "https://open.spotify.com/track/0RNRRdxkgkMdUYWwOcRoIs",
+      "durationMs": 200120,
+      "playedAt": "2026-09-12T19:11:37.929Z"
     },
     {
-      "name": "Hidden Spaces",
+      "name": "Momma Forgot To Tell Me",
       "artists": [
-        "EchoWave"
+        "Little Beaver"
       ],
-      "album": "Makeup!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27337cc1a882ac829c59e0dae80",
-      "url": "https://open.spotify.com/track/2exvSui73t76NVaKKRmDRO",
-      "durationMs": 248861,
-      "playedAt": "2026-09-12T02:47:17.380Z"
+      "album": "Katie Pearl",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735aa9c2e5d9c71fbe12caec67",
+      "url": "https://open.spotify.com/track/2KGyMxMLcI5S90ZOfqUDot",
+      "durationMs": 149866,
+      "playedAt": "2026-09-12T19:08:20.837Z"
     },
     {
-      "name": "Surrender To Me",
+      "name": "Keep It Up",
       "artists": [
-        "FireCityFunk"
+        "Milton Wright"
       ],
-      "album": "Surrender To Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732dfe4ab511e02a476e8623e8",
-      "url": "https://open.spotify.com/track/34sIEdi9tN5Fi2rNaSHVTQ",
-      "durationMs": 214727,
-      "playedAt": "2026-09-12T02:43:11.573Z"
+      "album": "Friends and Buddies",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731e0c82e62ffb1e646f332173",
+      "url": "https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz",
+      "durationMs": 252026,
+      "playedAt": "2026-09-12T19:05:54.040Z"
     },
     {
-      "name": "Smile",
+      "name": "I Can't Move No Mountains",
       "artists": [
-        "Lily Allen"
+        "Margie Joseph"
       ],
-      "album": "Alright, Still (Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f44ea7ef8d5c793399bae7af",
-      "url": "https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0",
-      "durationMs": 196893,
-      "playedAt": "2026-09-12T02:39:39.860Z"
+      "album": "Margie",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343415f5a8b90d9bb124a0767",
+      "url": "https://open.spotify.com/track/5z7zmkoWoP5GkY2YHtwb2S",
+      "durationMs": 166786,
+      "playedAt": "2026-09-12T19:01:44.996Z"
     },
     {
-      "name": "Du tappa dä",
+      "name": "Out to Get'cha",
       "artists": [
-        "Dina Ögon"
+        "Latimore"
       ],
-      "album": "Människobarn",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a9b2653980b2bb3c1887cc",
-      "url": "https://open.spotify.com/track/2i7HYPaJBVefvd6OwQ2rD2",
-      "durationMs": 191132,
-      "playedAt": "2026-09-12T02:29:48.797Z"
+      "album": "Dig a Little Deeper",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736b06d56b40043cd1bc77c076",
+      "url": "https://open.spotify.com/track/1QoKxsyxZSdOyep7vYYe2y",
+      "durationMs": 320229,
+      "playedAt": "2026-09-12T18:59:01.198Z"
     },
     {
-      "name": "Pojkar Som Män",
+      "name": "Can't Live Without You (2019 Remaster)",
       "artists": [
-        "Christer Sandelin"
+        "Connie Laverne"
       ],
-      "album": "Pojkar Som Män",
-      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b70627b36fd6614db2e6c3ec84",
-      "url": "https://open.spotify.com/track/3R9bllB03WhvyU7Z5KjxHM",
-      "durationMs": 228053,
-      "playedAt": "2026-09-12T02:26:37.411Z"
+      "album": "Can't Live Without You (2019 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea168a75d5d977dc6b90cdc9",
+      "url": "https://open.spotify.com/track/4U70lxlWlRCR6VQw6VSG6p",
+      "durationMs": 161322,
+      "playedAt": "2026-09-12T18:53:44.049Z"
     },
     {
-      "name": "Flickorna på TV2",
+      "name": "Let's Straighten It Out",
       "artists": [
-        "Gyllene Tider"
+        "O.V. Wright"
       ],
-      "album": "Gyllene Tider",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733d3042cb357eebb2a082c929",
-      "url": "https://open.spotify.com/track/0j9aigyo7QgCMitnZUuMnS",
-      "durationMs": 234826,
-      "playedAt": "2026-09-12T02:24:06.520Z"
+      "album": "The Bottom Line",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273430508514505f0e6b27c5512",
+      "url": "https://open.spotify.com/track/12n47FuVsiUGug0xkiGkSc",
+      "durationMs": 232093,
+      "playedAt": "2026-09-12T18:51:05.753Z"
     },
     {
-      "name": "En röd liten stuga",
+      "name": "Party Down - Pt. 1",
       "artists": [
-        "The Delta Rhythm Boys"
+        "Little Beaver"
       ],
-      "album": "20 Suosikkia / Raunchy Ropey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273efbcbdea1682e8061069332a",
-      "url": "https://open.spotify.com/track/5JJ6LTM9rX8X597nUQSltH",
-      "durationMs": 182106,
-      "playedAt": "2026-09-12T02:20:14.650Z"
+      "album": "Party Down",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a241c794cc2088ebdb2483ab",
+      "url": "https://open.spotify.com/track/2VxBaSKDmZlUoOg0lnpt2f",
+      "durationMs": 196200,
+      "playedAt": "2026-09-12T18:47:16.612Z"
     }
   ],
   "topArtists": [
@@ -247,14 +236,14 @@
       "durationMs": 340840
     },
     {
-      "name": "Remember Me",
+      "name": "Here I Go Again",
       "artists": [
-        "Fleetwood Mac"
+        "Jean Plum"
       ],
-      "album": "Penguin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27318be1bddc20c5ced4ec380b1",
-      "url": "https://open.spotify.com/track/6FLePSijfx0YuQwWlLepLR",
-      "durationMs": 165664
+      "album": "Jean Plum: The Hi Recordings",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f1829d8cf3efbd0500eaa58",
+      "url": "https://open.spotify.com/track/5Xsq9miBRyrcgqtrpcIna3",
+      "durationMs": 148560
     }
   ],
   "featuredPlaylists": []
