@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-09-12T02:56:37.611Z",
-  "nowPlaying": {
-    "name": "Havanna Mamma",
-    "artists": [
-      "Veronica Maggio"
-    ],
-    "album": "Vatten och bröd",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5475c2d11b2d4309d5191ea",
-    "url": "https://open.spotify.com/track/7gybDAR6f9GVls39O1aYT2",
-    "durationMs": 232546,
-    "isPlaying": false,
-    "progressMs": 111677
-  },
+  "updatedAt": "2026-09-12T07:42:55.244Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
       "name": "You Get What You Give",
