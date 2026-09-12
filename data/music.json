@@ -1,117 +1,127 @@
 {
-  "updatedAt": "2026-09-11T23:50:56.553Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-12T02:56:37.611Z",
+  "nowPlaying": {
+    "name": "Havanna Mamma",
+    "artists": [
+      "Veronica Maggio"
+    ],
+    "album": "Vatten och bröd",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5475c2d11b2d4309d5191ea",
+    "url": "https://open.spotify.com/track/7gybDAR6f9GVls39O1aYT2",
+    "durationMs": 232546,
+    "isPlaying": false,
+    "progressMs": 111677
+  },
   "recentlyPlayed": [
     {
-      "name": "Zoom",
+      "name": "You Get What You Give",
       "artists": [
-        "Fat Larry's Band"
+        "New Radicals"
       ],
-      "album": "Breakin' Out",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e88a017e11d2dc06ff391761",
-      "url": "https://open.spotify.com/track/6HuugFQZzdTYrHluRMUkzH",
-      "durationMs": 323866,
-      "playedAt": "2026-09-11T22:20:26.264Z"
+      "album": "Maybe You've Been Brainwashed Too",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dfdedd4553b40bbaab342dae",
+      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF",
+      "durationMs": 300773,
+      "playedAt": "2026-09-12T02:52:21.424Z"
     },
     {
-      "name": "You to Me Are Everything",
+      "name": "Hidden Spaces",
       "artists": [
-        "The Real Thing"
+        "EchoWave"
       ],
-      "album": "Real Thing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273874698f8742583e90e88a6d6",
-      "url": "https://open.spotify.com/track/65kKvpTuhJAVxyFPlKuOAd",
-      "durationMs": 208840,
-      "playedAt": "2026-09-11T22:15:05.430Z"
+      "album": "Makeup!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27337cc1a882ac829c59e0dae80",
+      "url": "https://open.spotify.com/track/2exvSui73t76NVaKKRmDRO",
+      "durationMs": 248861,
+      "playedAt": "2026-09-12T02:47:17.380Z"
     },
     {
-      "name": "I Don't Wanna Dance",
+      "name": "Surrender To Me",
       "artists": [
-        "Eddy Grant"
+        "FireCityFunk"
       ],
-      "album": "Killer On The Rampage",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27311541f506b9c9b7b086ce332",
-      "url": "https://open.spotify.com/track/4xbmyXThps1PkyigFLXVjj",
-      "durationMs": 219533,
-      "playedAt": "2026-09-11T22:11:38.376Z"
+      "album": "Surrender To Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732dfe4ab511e02a476e8623e8",
+      "url": "https://open.spotify.com/track/34sIEdi9tN5Fi2rNaSHVTQ",
+      "durationMs": 214727,
+      "playedAt": "2026-09-12T02:43:11.573Z"
     },
     {
-      "name": "Little Green Apples",
+      "name": "Smile",
       "artists": [
-        "Boris Gardiner"
+        "Lily Allen"
       ],
-      "album": "It's Nice to Be with You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c0c65afb0ccbda784bf60dca",
-      "url": "https://open.spotify.com/track/0oAuHMdjJBruuqta4iz7ba",
-      "durationMs": 224600,
-      "playedAt": "2026-09-11T22:08:01.846Z"
+      "album": "Alright, Still (Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f44ea7ef8d5c793399bae7af",
+      "url": "https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0",
+      "durationMs": 196893,
+      "playedAt": "2026-09-12T02:39:39.860Z"
     },
     {
-      "name": "Fattig bonddräng",
+      "name": "Du tappa dä",
       "artists": [
-        "Tommy Körberg"
+        "Dina Ögon"
       ],
-      "album": "Gränslös - Det bästa med Tommy Körberg (2012 version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f972c947ea7261f5465a1db6",
-      "url": "https://open.spotify.com/track/7oDhs8wtgIlbncVNDDaYs6",
-      "durationMs": 182160,
-      "playedAt": "2026-09-11T22:02:26.454Z"
+      "album": "Människobarn",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a9b2653980b2bb3c1887cc",
+      "url": "https://open.spotify.com/track/2i7HYPaJBVefvd6OwQ2rD2",
+      "durationMs": 191132,
+      "playedAt": "2026-09-12T02:29:48.797Z"
     },
     {
-      "name": "No Complaints",
+      "name": "Pojkar Som Män",
       "artists": [
-        "Noah Kahan"
+        "Christer Sandelin"
       ],
-      "album": "Stick Season (We'll All Be Here Forever)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27365a472d8326d4571bf725422",
-      "url": "https://open.spotify.com/track/52DudaVZObvmBgEX6IObHX",
-      "durationMs": 205432,
-      "playedAt": "2026-09-11T19:59:09.841Z"
+      "album": "Pojkar Som Män",
+      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b70627b36fd6614db2e6c3ec84",
+      "url": "https://open.spotify.com/track/3R9bllB03WhvyU7Z5KjxHM",
+      "durationMs": 228053,
+      "playedAt": "2026-09-12T02:26:37.411Z"
     },
     {
-      "name": "Maine",
+      "name": "Flickorna på TV2",
       "artists": [
-        "Noah Kahan"
+        "Gyllene Tider"
       ],
-      "album": "Cape Elizabeth",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739bdf7ddd51003bc6b491ce73",
-      "url": "https://open.spotify.com/track/3Z2anmIVG8b1GelyeFQdnP",
-      "durationMs": 232618,
-      "playedAt": "2026-09-11T19:55:47.453Z"
+      "album": "Gyllene Tider",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733d3042cb357eebb2a082c929",
+      "url": "https://open.spotify.com/track/0j9aigyo7QgCMitnZUuMnS",
+      "durationMs": 234826,
+      "playedAt": "2026-09-12T02:24:06.520Z"
     },
     {
-      "name": "New Perspective",
+      "name": "En röd liten stuga",
       "artists": [
-        "Noah Kahan"
+        "The Delta Rhythm Boys"
       ],
-      "album": "Stick Season",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736ee35072df1af802cca09918",
-      "url": "https://open.spotify.com/track/1M39ETXmej4g9EMSeXPUgj",
-      "durationMs": 256871,
-      "playedAt": "2026-09-11T19:51:57.803Z"
+      "album": "20 Suosikkia / Raunchy Ropey",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273efbcbdea1682e8061069332a",
+      "url": "https://open.spotify.com/track/5JJ6LTM9rX8X597nUQSltH",
+      "durationMs": 182106,
+      "playedAt": "2026-09-12T02:20:14.650Z"
     },
     {
-      "name": "Sarah's Place (feat. Noah Kahan)",
+      "name": "Alberta - Acoustic Live",
       "artists": [
-        "Zach Bryan",
-        "Noah Kahan"
+        "Eric Clapton"
       ],
-      "album": "Sarah's Place (feat. Noah Kahan)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c6d167bd2bdcd881104af1fb",
-      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB",
-      "durationMs": 214056,
-      "playedAt": "2026-09-11T19:47:43.968Z"
+      "album": "Unplugged (Live)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e36eb543ce3731ac913845c",
+      "url": "https://open.spotify.com/track/2MnoSsjlnaxJqGbT2HapKk",
+      "durationMs": 218373,
+      "playedAt": "2026-09-12T02:11:33.367Z"
     },
     {
-      "name": "False Confidence",
+      "name": "Walkin' Blues - Acoustic Live",
       "artists": [
-        "Noah Kahan"
+        "Eric Clapton"
       ],
-      "album": "Busyhead",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a82b6363eb1895f2e9aae530",
-      "url": "https://open.spotify.com/track/7nDFTHHwfe32a8qdp9XqPy",
-      "durationMs": 223400,
-      "playedAt": "2026-09-11T19:41:58.471Z"
+      "album": "Unplugged (Live)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e36eb543ce3731ac913845c",
+      "url": "https://open.spotify.com/track/0PXGnxTmdBfOJWTdlYubno",
+      "durationMs": 216800,
+      "playedAt": "2026-09-12T02:07:54.966Z"
     }
   ],
   "topArtists": [
@@ -146,6 +156,12 @@
       "genres": []
     },
     {
+      "name": "Eric Clapton",
+      "imageUrl": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
+      "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
+      "genres": []
+    },
+    {
       "name": "Norah Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
       "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
@@ -155,12 +171,6 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
-    },
-    {
-      "name": "Frank Ocean",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
-      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
       "genres": []
     }
   ],
