@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-12T15:05:51.226Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-12T17:46:39.264Z",
+  "nowPlaying": {
+    "name": "Banana Pancakes",
+    "artists": [
+      "Jack Johnson"
+    ],
+    "album": "In Between Dreams",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273628dba01c669d89586967dc5",
+    "url": "https://open.spotify.com/track/0BgbobvykXxEvxo2HhCuvM",
+    "durationMs": 191906,
+    "isPlaying": true,
+    "progressMs": 57083
+  },
   "recentlyPlayed": [
+    {
+      "name": "Better Together",
+      "artists": [
+        "Jack Johnson"
+      ],
+      "album": "In Between Dreams",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273628dba01c669d89586967dc5",
+      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX",
+      "durationMs": 207680,
+      "playedAt": "2026-09-12T17:45:46.029Z"
+    },
+    {
+      "name": "Upside Down",
+      "artists": [
+        "Jack Johnson"
+      ],
+      "album": "Sing-A-Longs & Lullabies For The Film Curious George",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f89364988f55d7154f015ffd",
+      "url": "https://open.spotify.com/track/3YOigAKOgFTQuLjF9MBmd3",
+      "durationMs": 208653,
+      "playedAt": "2026-09-12T17:42:13.198Z"
+    },
     {
       "name": "You Get What You Give",
       "artists": [
@@ -89,28 +122,6 @@
       "url": "https://open.spotify.com/track/5JJ6LTM9rX8X597nUQSltH",
       "durationMs": 182106,
       "playedAt": "2026-09-12T02:20:14.650Z"
-    },
-    {
-      "name": "Alberta - Acoustic Live",
-      "artists": [
-        "Eric Clapton"
-      ],
-      "album": "Unplugged (Live)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e36eb543ce3731ac913845c",
-      "url": "https://open.spotify.com/track/2MnoSsjlnaxJqGbT2HapKk",
-      "durationMs": 218373,
-      "playedAt": "2026-09-12T02:11:33.367Z"
-    },
-    {
-      "name": "Walkin' Blues - Acoustic Live",
-      "artists": [
-        "Eric Clapton"
-      ],
-      "album": "Unplugged (Live)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e36eb543ce3731ac913845c",
-      "url": "https://open.spotify.com/track/0PXGnxTmdBfOJWTdlYubno",
-      "durationMs": 216800,
-      "playedAt": "2026-09-12T02:07:54.966Z"
     }
   ],
   "topArtists": [
