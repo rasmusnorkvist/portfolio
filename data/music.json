@@ -1,116 +1,129 @@
 {
-  "updatedAt": "2026-09-13T14:34:44.949Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-13T17:53:50.953Z",
+  "nowPlaying": {
+    "name": "Keep On Lovin' You (feat. Teddy Pendergrass)",
+    "artists": [
+      "Harold Melvin & The Blue Notes",
+      "Teddy Pendergrass"
+    ],
+    "album": "Wake Up Everybody (feat. Teddy Pendergrass)",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332140dac935b95f7e4628a7b",
+    "url": "https://open.spotify.com/track/06Q3gDXE7c259KhYu77RJX",
+    "durationMs": 220933,
+    "isPlaying": true,
+    "progressMs": 31278
+  },
   "recentlyPlayed": [
     {
-      "name": "I'm Just a Prisoner (Of Your Good Lovin')",
+      "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
       "artists": [
-        "Candi Staton"
+        "Harold Melvin & The Blue Notes",
+        "Teddy Pendergrass"
       ],
-      "album": "I'm Just A Prisoner",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c778adf324fde58375d9d93",
-      "url": "https://open.spotify.com/track/3SueL574p4NOD333VudM0D",
-      "durationMs": 192840,
-      "playedAt": "2026-09-12T19:17:52.728Z"
+      "album": "Wake Up Everybody (feat. Teddy Pendergrass)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332140dac935b95f7e4628a7b",
+      "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S",
+      "durationMs": 452773,
+      "playedAt": "2026-09-13T17:53:20.558Z"
     },
     {
-      "name": "You're a Melody",
+      "name": "Leksands skänklåt",
       "artists": [
-        "Aged In Harmony"
+        "Jan Johansson"
       ],
-      "album": "You're a Melody",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8477996bfa0ec32976aa001",
-      "url": "https://open.spotify.com/track/6vlpzGFvvf9ydb1D7QMSk7",
-      "durationMs": 187970,
-      "playedAt": "2026-09-12T19:14:42.921Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/6xz1YWi4Fvld47xYDRoh3F",
+      "durationMs": 180813,
+      "playedAt": "2026-09-13T17:45:25.156Z"
     },
     {
-      "name": "Pass Me By",
+      "name": "Visa från Rättvik",
       "artists": [
-        "Sharon Jones & The Dap-Kings"
+        "Jan Johansson"
       ],
-      "album": "Soul of a Woman",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e934e34550506789bc119a46",
-      "url": "https://open.spotify.com/track/0RNRRdxkgkMdUYWwOcRoIs",
-      "durationMs": 200120,
-      "playedAt": "2026-09-12T19:11:37.929Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/5OfX2H74dOwUjr4Aw6HEiE",
+      "durationMs": 202986,
+      "playedAt": "2026-09-13T17:42:27.345Z"
     },
     {
-      "name": "Momma Forgot To Tell Me",
+      "name": "Berg-Kirstis polska",
       "artists": [
-        "Little Beaver"
+        "Jan Johansson"
       ],
-      "album": "Katie Pearl",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735aa9c2e5d9c71fbe12caec67",
-      "url": "https://open.spotify.com/track/2KGyMxMLcI5S90ZOfqUDot",
-      "durationMs": 149866,
-      "playedAt": "2026-09-12T19:08:20.837Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/6mNQG5XYpwSnnnfJDe3CFj",
+      "durationMs": 213986,
+      "playedAt": "2026-09-13T17:39:07.349Z"
     },
     {
-      "name": "Keep It Up",
+      "name": "Polska efter Höök Olle",
       "artists": [
-        "Milton Wright"
+        "Jan Johansson"
       ],
-      "album": "Friends and Buddies",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731e0c82e62ffb1e646f332173",
-      "url": "https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz",
-      "durationMs": 252026,
-      "playedAt": "2026-09-12T19:05:54.040Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/6QasXgYSJVxXt5tkn0nKvb",
+      "durationMs": 150826,
+      "playedAt": "2026-09-13T17:32:12.527Z"
     },
     {
-      "name": "I Can't Move No Mountains",
+      "name": "Je Ne Pourrai Jamais Vivre Sans Toi",
       "artists": [
-        "Margie Joseph"
+        "Eugene Lambert"
       ],
-      "album": "Margie",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343415f5a8b90d9bb124a0767",
-      "url": "https://open.spotify.com/track/5z7zmkoWoP5GkY2YHtwb2S",
-      "durationMs": 166786,
-      "playedAt": "2026-09-12T19:01:44.996Z"
+      "album": "Je Ne Pourrai Jamais Vivre Sans Toi",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733a8d2f3fa3ff2ee0d50f7fc6",
+      "url": "https://open.spotify.com/track/48ex83EaL03ai9Hx6oburv",
+      "durationMs": 184895,
+      "playedAt": "2026-09-13T17:10:17.537Z"
     },
     {
-      "name": "Out to Get'cha",
+      "name": "Dans Tes Bras",
       "artists": [
-        "Latimore"
+        "Nordic Quartet"
       ],
-      "album": "Dig a Little Deeper",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736b06d56b40043cd1bc77c076",
-      "url": "https://open.spotify.com/track/1QoKxsyxZSdOyep7vYYe2y",
-      "durationMs": 320229,
-      "playedAt": "2026-09-12T18:59:01.198Z"
+      "album": "Dans Tes Bras",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737ebad882ccfc1d966988c01c",
+      "url": "https://open.spotify.com/track/3GPWB4M3Y720w8R1mHBXUF",
+      "durationMs": 165000,
+      "playedAt": "2026-09-13T17:07:15.676Z"
     },
     {
-      "name": "Can't Live Without You (2019 Remaster)",
+      "name": "L'indifférence",
       "artists": [
-        "Connie Laverne"
+        "Les Sales Gosses"
       ],
-      "album": "Can't Live Without You (2019 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea168a75d5d977dc6b90cdc9",
-      "url": "https://open.spotify.com/track/4U70lxlWlRCR6VQw6VSG6p",
-      "durationMs": 161322,
-      "playedAt": "2026-09-12T18:53:44.049Z"
+      "album": "La Vie En Rose",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739d36099d3723a22ea6085972",
+      "url": "https://open.spotify.com/track/0pkL7GfHF6iyAdyQujyRnK",
+      "durationMs": 150836,
+      "playedAt": "2026-09-13T17:04:33.674Z"
     },
     {
-      "name": "Let's Straighten It Out",
+      "name": "Je t'aime",
       "artists": [
-        "O.V. Wright"
+        "Le Quintette Bleu"
       ],
-      "album": "The Bottom Line",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273430508514505f0e6b27c5512",
-      "url": "https://open.spotify.com/track/12n47FuVsiUGug0xkiGkSc",
-      "durationMs": 232093,
-      "playedAt": "2026-09-12T18:51:05.753Z"
+      "album": "Je t'aime",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27363c99eba31ca1d0cfeb2899d",
+      "url": "https://open.spotify.com/track/18eFw8Zuta9fc2Z3wr2VJZ",
+      "durationMs": 219205,
+      "playedAt": "2026-09-13T17:02:05.842Z"
     },
     {
-      "name": "Party Down - Pt. 1",
+      "name": "Ne partez pas",
       "artists": [
-        "Little Beaver"
+        "George Laffitte"
       ],
-      "album": "Party Down",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a241c794cc2088ebdb2483ab",
-      "url": "https://open.spotify.com/track/2VxBaSKDmZlUoOg0lnpt2f",
-      "durationMs": 196200,
-      "playedAt": "2026-09-12T18:47:16.612Z"
+      "album": "Ne partez pas",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27354f5964100666bf7162d2979",
+      "url": "https://open.spotify.com/track/0m2uXUpiOId5jnchCg7g9h",
+      "durationMs": 157529,
+      "playedAt": "2026-09-13T16:58:29.664Z"
     }
   ],
   "topArtists": [
@@ -124,6 +137,12 @@
       "name": "JAŸ-Z",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
       "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
+      "genres": []
+    },
+    {
+      "name": "Jan Johansson",
+      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
+      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
       "genres": []
     },
     {
@@ -154,12 +173,6 @@
       "name": "Norah Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
       "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-      "genres": []
-    },
-    {
-      "name": "Jan Johansson",
-      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
-      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
       "genres": []
     }
   ],
