@@ -1,132 +1,118 @@
 {
-  "updatedAt": "2026-09-13T20:14:45.631Z",
-  "nowPlaying": {
-    "name": "On The Grind",
-    "artists": [
-      "Supersci",
-      "Chords"
-    ],
-    "album": "Pinetrees On The Pavement",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8729fbc083cd2b468a0702c",
-    "url": "https://open.spotify.com/track/1LZ56yhDe3Jf1WJ75mzjGv",
-    "durationMs": 305720,
-    "isPlaying": true,
-    "progressMs": 47680
-  },
+  "updatedAt": "2026-09-13T22:32:06.599Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Cashen dom tas",
+      "name": "Here We Go Again",
       "artists": [
-        "The Latin Kings"
+        "Ray Charles",
+        "Norah Jones"
       ],
-      "album": "Cashen dom tas",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732bff445b58be18b9c053bed6",
-      "url": "https://open.spotify.com/track/06Gdd6zfAHBy7B5DxaBugm",
-      "durationMs": 287893,
-      "playedAt": "2026-09-13T20:14:01.793Z"
+      "album": "Genius Loves Company",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c2f661a9c283bf33a991dd1",
+      "url": "https://open.spotify.com/track/5PgeYGt6XuIbgGnGBl8fFU",
+      "durationMs": 238750,
+      "playedAt": "2026-09-13T21:51:32.039Z"
     },
     {
-      "name": "Itsuka Sonotokiga",
+      "name": "The Nearness Of You",
       "artists": [
-        "KAGAMI",
-        "Natsu Summer",
-        "Benjamin Herman"
+        "Norah Jones"
       ],
-      "album": "TIME MACHINE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273acdf5feb3d56b66085a865cb",
-      "url": "https://open.spotify.com/track/0Pggk9JcJUpUjo3HOjw2li",
-      "durationMs": 177902,
-      "playedAt": "2026-09-13T20:03:47.751Z"
+      "album": "Come Away With Me (Super Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
+      "url": "https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2",
+      "durationMs": 187769,
+      "playedAt": "2026-09-13T21:47:36.373Z"
     },
     {
-      "name": "Let The Cool Come Off",
+      "name": "Carry On",
       "artists": [
-        "T.J. Wilkins"
+        "Norah Jones"
       ],
-      "album": "Yesterday, Today, Forever",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ed822d1332870b5c5fb9c9de",
-      "url": "https://open.spotify.com/track/7LubpUgxRl2qIVi0ohQyFa",
-      "durationMs": 185626,
-      "playedAt": "2026-09-13T20:00:52.864Z"
+      "album": "Day Breaks",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735843cb50b0751124f3e34e6e",
+      "url": "https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl",
+      "durationMs": 168106,
+      "playedAt": "2026-09-13T21:44:31.582Z"
     },
     {
-      "name": "Don't You Forget",
+      "name": "Creepin' In",
       "artists": [
-        "Starwolf"
+        "Norah Jones",
+        "Dolly Parton"
       ],
-      "album": "Tropical Disco",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730280cb714a47bcacf6433d67",
-      "url": "https://open.spotify.com/track/2LvyYVUQUrmA4MzEFeqUzb",
-      "durationMs": 217533,
-      "playedAt": "2026-09-13T19:57:50.251Z"
+      "album": "Feels Like Home",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27364026be0e09c1beda2f67c32",
+      "url": "https://open.spotify.com/track/4yzFhsULEg65lbA7wjKaAQ",
+      "durationMs": 183840,
+      "playedAt": "2026-09-13T21:41:46.496Z"
     },
     {
-      "name": "Keepin' It to Myself",
+      "name": "What Am I To You?",
       "artists": [
-        "Jaye P. Morgan"
+        "Norah Jones"
       ],
-      "album": "Jaye P. Morgan",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27371017c2265f16e61538840bb",
-      "url": "https://open.spotify.com/track/7pdv2SGp7owHta3yHuIuBP",
-      "durationMs": 206840,
-      "playedAt": "2026-09-13T19:54:15.753Z"
+      "album": "Feels Like Home",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27364026be0e09c1beda2f67c32",
+      "url": "https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH",
+      "durationMs": 210000,
+      "playedAt": "2026-09-13T21:38:45.694Z"
     },
     {
-      "name": "GIRL'S IN LOVE WITH ME - 2022 Remaster",
+      "name": "Those Sweet Words",
       "artists": [
-        "芳野藤丸"
+        "Norah Jones"
       ],
-      "album": "YOSHINO FUJIMAL (2022 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c23a9a17df46aa858f09cd53",
-      "url": "https://open.spotify.com/track/6FOK81ozKqX1LVfeLaCG6X",
-      "durationMs": 324660,
-      "playedAt": "2026-09-13T19:50:51.855Z"
+      "album": "Feels Like Home",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27364026be0e09c1beda2f67c32",
+      "url": "https://open.spotify.com/track/2MKLbFPQ3QDXpQ0KnS06Kl",
+      "durationMs": 202640,
+      "playedAt": "2026-09-13T21:35:18.692Z"
     },
     {
-      "name": "Better Than Ever",
+      "name": "Turn Me On",
       "artists": [
-        "Video Age"
+        "Norah Jones"
       ],
-      "album": "Away From The Castle",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731ad860620284a842e9f92df0",
-      "url": "https://open.spotify.com/track/5fUKZY3f9BGGRbW22toY19",
-      "durationMs": 236188,
-      "playedAt": "2026-09-13T19:45:30.269Z"
+      "album": "Come Away With Me (Super Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
+      "url": "https://open.spotify.com/track/1qzHqfvKrZWo6dVHM1dXrj",
+      "durationMs": 154800,
+      "playedAt": "2026-09-13T21:31:59.089Z"
     },
     {
-      "name": "Fine Living",
+      "name": "Come Away With Me",
       "artists": [
-        "Rapallo"
+        "Norah Jones"
       ],
-      "album": "Fine Living",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e082d8d2e978e30fd262a8c2",
-      "url": "https://open.spotify.com/track/0BzJtqgA6ARE8BpNwrByYn",
-      "durationMs": 163061,
-      "playedAt": "2026-09-13T19:41:37.069Z"
+      "album": "Come Away With Me (Super Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
+      "url": "https://open.spotify.com/track/6jGnykaS6TkWp15utXSAeI",
+      "durationMs": 198226,
+      "playedAt": "2026-09-13T21:29:27.226Z"
     },
     {
-      "name": "New Way",
+      "name": "Sunrise",
       "artists": [
-        "Jafunk",
-        "Triple H Horns",
-        "Yogi"
+        "Norah Jones"
       ],
-      "album": "New Way",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733b8d616b9945f3bce8e56568",
-      "url": "https://open.spotify.com/track/0R6BHLMUfkni1qZyfTjYp5",
-      "durationMs": 181500,
-      "playedAt": "2026-09-13T19:38:57.069Z"
+      "album": "Feels Like Home",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27364026be0e09c1beda2f67c32",
+      "url": "https://open.spotify.com/track/7zkLpY72g6lKQbiHDqri1S",
+      "durationMs": 200626,
+      "playedAt": "2026-09-13T21:26:12.087Z"
     },
     {
-      "name": "Piña Colada",
+      "name": "Don't Know Why",
       "artists": [
-        "Starwolf"
+        "Norah Jones"
       ],
-      "album": "Tropical Disco",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730280cb714a47bcacf6433d67",
-      "url": "https://open.spotify.com/track/2jIHVOlXk39l3bxK6XiezJ",
-      "durationMs": 247480,
-      "playedAt": "2026-09-13T19:35:58.568Z"
+      "album": "Come Away With Me (Super Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
+      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
+      "durationMs": 186251,
+      "playedAt": "2026-09-13T21:22:44.188Z"
     }
   ],
   "topArtists": [
@@ -140,6 +126,12 @@
       "name": "JAŸ-Z",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
       "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
+      "genres": []
+    },
+    {
+      "name": "Norah Jones",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
+      "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
       "genres": []
     },
     {
@@ -171,12 +163,6 @@
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
       "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
       "genres": []
-    },
-    {
-      "name": "Norah Jones",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
-      "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-      "genres": []
     }
   ],
   "topTracks": [
@@ -199,6 +185,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
       "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
       "durationMs": 273800
+    },
+    {
+      "name": "Don't Know Why",
+      "artists": [
+        "Norah Jones"
+      ],
+      "album": "Come Away With Me (Super Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
+      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
+      "durationMs": 186251
     },
     {
       "name": "Start",
@@ -239,16 +235,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
       "url": "https://open.spotify.com/track/4AlEDesuRd6npBdFHVkfPT",
       "durationMs": 248568
-    },
-    {
-      "name": "Don't Know Why",
-      "artists": [
-        "Norah Jones"
-      ],
-      "album": "Come Away With Me (Super Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
-      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
-      "durationMs": 186251
     },
     {
       "name": "No One's Watching Me (feat. Olivia Dean)",
