@@ -1,129 +1,132 @@
 {
-  "updatedAt": "2026-09-13T17:53:50.953Z",
+  "updatedAt": "2026-09-13T20:14:45.631Z",
   "nowPlaying": {
-    "name": "Keep On Lovin' You (feat. Teddy Pendergrass)",
+    "name": "On The Grind",
     "artists": [
-      "Harold Melvin & The Blue Notes",
-      "Teddy Pendergrass"
+      "Supersci",
+      "Chords"
     ],
-    "album": "Wake Up Everybody (feat. Teddy Pendergrass)",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332140dac935b95f7e4628a7b",
-    "url": "https://open.spotify.com/track/06Q3gDXE7c259KhYu77RJX",
-    "durationMs": 220933,
+    "album": "Pinetrees On The Pavement",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8729fbc083cd2b468a0702c",
+    "url": "https://open.spotify.com/track/1LZ56yhDe3Jf1WJ75mzjGv",
+    "durationMs": 305720,
     "isPlaying": true,
-    "progressMs": 31278
+    "progressMs": 47680
   },
   "recentlyPlayed": [
     {
-      "name": "Wake Up Everybody (feat. Teddy Pendergrass)",
+      "name": "Cashen dom tas",
       "artists": [
-        "Harold Melvin & The Blue Notes",
-        "Teddy Pendergrass"
+        "The Latin Kings"
       ],
-      "album": "Wake Up Everybody (feat. Teddy Pendergrass)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332140dac935b95f7e4628a7b",
-      "url": "https://open.spotify.com/track/5kQ2ZEav7TgUoLSLrm7h8S",
-      "durationMs": 452773,
-      "playedAt": "2026-09-13T17:53:20.558Z"
+      "album": "Cashen dom tas",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732bff445b58be18b9c053bed6",
+      "url": "https://open.spotify.com/track/06Gdd6zfAHBy7B5DxaBugm",
+      "durationMs": 287893,
+      "playedAt": "2026-09-13T20:14:01.793Z"
     },
     {
-      "name": "Leksands skänklåt",
+      "name": "Itsuka Sonotokiga",
       "artists": [
-        "Jan Johansson"
+        "KAGAMI",
+        "Natsu Summer",
+        "Benjamin Herman"
       ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/6xz1YWi4Fvld47xYDRoh3F",
-      "durationMs": 180813,
-      "playedAt": "2026-09-13T17:45:25.156Z"
+      "album": "TIME MACHINE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273acdf5feb3d56b66085a865cb",
+      "url": "https://open.spotify.com/track/0Pggk9JcJUpUjo3HOjw2li",
+      "durationMs": 177902,
+      "playedAt": "2026-09-13T20:03:47.751Z"
     },
     {
-      "name": "Visa från Rättvik",
+      "name": "Let The Cool Come Off",
       "artists": [
-        "Jan Johansson"
+        "T.J. Wilkins"
       ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/5OfX2H74dOwUjr4Aw6HEiE",
-      "durationMs": 202986,
-      "playedAt": "2026-09-13T17:42:27.345Z"
+      "album": "Yesterday, Today, Forever",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ed822d1332870b5c5fb9c9de",
+      "url": "https://open.spotify.com/track/7LubpUgxRl2qIVi0ohQyFa",
+      "durationMs": 185626,
+      "playedAt": "2026-09-13T20:00:52.864Z"
     },
     {
-      "name": "Berg-Kirstis polska",
+      "name": "Don't You Forget",
       "artists": [
-        "Jan Johansson"
+        "Starwolf"
       ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/6mNQG5XYpwSnnnfJDe3CFj",
-      "durationMs": 213986,
-      "playedAt": "2026-09-13T17:39:07.349Z"
+      "album": "Tropical Disco",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730280cb714a47bcacf6433d67",
+      "url": "https://open.spotify.com/track/2LvyYVUQUrmA4MzEFeqUzb",
+      "durationMs": 217533,
+      "playedAt": "2026-09-13T19:57:50.251Z"
     },
     {
-      "name": "Polska efter Höök Olle",
+      "name": "Keepin' It to Myself",
       "artists": [
-        "Jan Johansson"
+        "Jaye P. Morgan"
       ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/6QasXgYSJVxXt5tkn0nKvb",
-      "durationMs": 150826,
-      "playedAt": "2026-09-13T17:32:12.527Z"
+      "album": "Jaye P. Morgan",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27371017c2265f16e61538840bb",
+      "url": "https://open.spotify.com/track/7pdv2SGp7owHta3yHuIuBP",
+      "durationMs": 206840,
+      "playedAt": "2026-09-13T19:54:15.753Z"
     },
     {
-      "name": "Je Ne Pourrai Jamais Vivre Sans Toi",
+      "name": "GIRL'S IN LOVE WITH ME - 2022 Remaster",
       "artists": [
-        "Eugene Lambert"
+        "芳野藤丸"
       ],
-      "album": "Je Ne Pourrai Jamais Vivre Sans Toi",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733a8d2f3fa3ff2ee0d50f7fc6",
-      "url": "https://open.spotify.com/track/48ex83EaL03ai9Hx6oburv",
-      "durationMs": 184895,
-      "playedAt": "2026-09-13T17:10:17.537Z"
+      "album": "YOSHINO FUJIMAL (2022 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c23a9a17df46aa858f09cd53",
+      "url": "https://open.spotify.com/track/6FOK81ozKqX1LVfeLaCG6X",
+      "durationMs": 324660,
+      "playedAt": "2026-09-13T19:50:51.855Z"
     },
     {
-      "name": "Dans Tes Bras",
+      "name": "Better Than Ever",
       "artists": [
-        "Nordic Quartet"
+        "Video Age"
       ],
-      "album": "Dans Tes Bras",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737ebad882ccfc1d966988c01c",
-      "url": "https://open.spotify.com/track/3GPWB4M3Y720w8R1mHBXUF",
-      "durationMs": 165000,
-      "playedAt": "2026-09-13T17:07:15.676Z"
+      "album": "Away From The Castle",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731ad860620284a842e9f92df0",
+      "url": "https://open.spotify.com/track/5fUKZY3f9BGGRbW22toY19",
+      "durationMs": 236188,
+      "playedAt": "2026-09-13T19:45:30.269Z"
     },
     {
-      "name": "L'indifférence",
+      "name": "Fine Living",
       "artists": [
-        "Les Sales Gosses"
+        "Rapallo"
       ],
-      "album": "La Vie En Rose",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739d36099d3723a22ea6085972",
-      "url": "https://open.spotify.com/track/0pkL7GfHF6iyAdyQujyRnK",
-      "durationMs": 150836,
-      "playedAt": "2026-09-13T17:04:33.674Z"
+      "album": "Fine Living",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e082d8d2e978e30fd262a8c2",
+      "url": "https://open.spotify.com/track/0BzJtqgA6ARE8BpNwrByYn",
+      "durationMs": 163061,
+      "playedAt": "2026-09-13T19:41:37.069Z"
     },
     {
-      "name": "Je t'aime",
+      "name": "New Way",
       "artists": [
-        "Le Quintette Bleu"
+        "Jafunk",
+        "Triple H Horns",
+        "Yogi"
       ],
-      "album": "Je t'aime",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27363c99eba31ca1d0cfeb2899d",
-      "url": "https://open.spotify.com/track/18eFw8Zuta9fc2Z3wr2VJZ",
-      "durationMs": 219205,
-      "playedAt": "2026-09-13T17:02:05.842Z"
+      "album": "New Way",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733b8d616b9945f3bce8e56568",
+      "url": "https://open.spotify.com/track/0R6BHLMUfkni1qZyfTjYp5",
+      "durationMs": 181500,
+      "playedAt": "2026-09-13T19:38:57.069Z"
     },
     {
-      "name": "Ne partez pas",
+      "name": "Piña Colada",
       "artists": [
-        "George Laffitte"
+        "Starwolf"
       ],
-      "album": "Ne partez pas",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27354f5964100666bf7162d2979",
-      "url": "https://open.spotify.com/track/0m2uXUpiOId5jnchCg7g9h",
-      "durationMs": 157529,
-      "playedAt": "2026-09-13T16:58:29.664Z"
+      "album": "Tropical Disco",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730280cb714a47bcacf6433d67",
+      "url": "https://open.spotify.com/track/2jIHVOlXk39l3bxK6XiezJ",
+      "durationMs": 247480,
+      "playedAt": "2026-09-13T19:35:58.568Z"
     }
   ],
   "topArtists": [
@@ -146,6 +149,12 @@
       "genres": []
     },
     {
+      "name": "Rapallo",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
+      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
+      "genres": []
+    },
+    {
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
@@ -155,12 +164,6 @@
       "name": "Peter LeMarc",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
       "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": []
-    },
-    {
-      "name": "Rapallo",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
-      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
       "genres": []
     },
     {
@@ -218,6 +221,26 @@
       "durationMs": 81800
     },
     {
+      "name": "V.I.P.",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/1Hs65Rzndy9ijGBA9JQltu",
+      "durationMs": 155587
+    },
+    {
+      "name": "The Alkalite",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/4AlEDesuRd6npBdFHVkfPT",
+      "durationMs": 248568
+    },
+    {
       "name": "Don't Know Why",
       "artists": [
         "Norah Jones"
@@ -237,26 +260,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8e913bf1a4776a5fe27ce28",
       "url": "https://open.spotify.com/track/70VTTe96UJ9QUyFYbsnW5V",
       "durationMs": 262306
-    },
-    {
-      "name": "Red Rain - Remastered",
-      "artists": [
-        "Peter Gabriel"
-      ],
-      "album": "So (Special Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bade4fc3596a6eee8dd3302a",
-      "url": "https://open.spotify.com/track/1DLwcAQCsEMgEvqJj9NPJ9",
-      "durationMs": 340840
-    },
-    {
-      "name": "Here I Go Again",
-      "artists": [
-        "Jean Plum"
-      ],
-      "album": "Jean Plum: The Hi Recordings",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f1829d8cf3efbd0500eaa58",
-      "url": "https://open.spotify.com/track/5Xsq9miBRyrcgqtrpcIna3",
-      "durationMs": 148560
     }
   ],
   "featuredPlaylists": []
