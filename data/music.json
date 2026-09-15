@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2026-09-15T18:21:17.390Z",
+  "updatedAt": "2026-09-15T21:35:49.204Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Ströva Omkring",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/4X2tKZdL8KnIQKQLQa4JlO",
+      "durationMs": 48293,
+      "playedAt": "2026-09-15T20:02:31.038Z"
+    },
+    {
+      "name": "Längs Floden",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/7FlCjauwi2MoKTa2KaqmXY",
+      "durationMs": 124346,
+      "playedAt": "2026-09-15T20:01:42.733Z"
+    },
+    {
+      "name": "Bandura",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/6W4y5g1d1lXiixBeYZgcBj",
+      "durationMs": 144706,
+      "playedAt": "2026-09-15T19:59:38.376Z"
+    },
+    {
+      "name": "Nära Hemmet",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/6e4v7QGtfTrt82LTuF4AmF",
+      "durationMs": 137706,
+      "playedAt": "2026-09-15T19:57:13.952Z"
+    },
+    {
+      "name": "På Ängen Stod En Björk",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/6tPXJoX2kTprkrmjbtCbRm",
+      "durationMs": 169413,
+      "playedAt": "2026-09-15T19:54:55.952Z"
+    },
+    {
+      "name": "Pråmdragarnas Sång Vid Volga",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/2yxEF9qOdLwvuZA4GKPzSn",
+      "durationMs": 222026,
+      "playedAt": "2026-09-15T19:52:06.542Z"
+    },
+    {
+      "name": "Mellan Branta Stränder",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/3Pa8VMJ7BiYJ0QasEkYhWC",
+      "durationMs": 160480,
+      "playedAt": "2026-09-15T19:48:24.656Z"
+    },
+    {
+      "name": "Stepp, Min Stepp",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/0J2TlYvl70fQFJsQUe8jbK",
+      "durationMs": 224306,
+      "playedAt": "2026-09-15T19:45:44.175Z"
+    },
     {
       "name": "Bonus: Entonigt Klingar Den Lilla Klockan",
       "artists": [
@@ -23,94 +111,6 @@
       "url": "https://open.spotify.com/track/39iIs6RIx68E1vQWr2dI9G",
       "durationMs": 146706,
       "playedAt": "2026-09-15T01:01:57.283Z"
-    },
-    {
-      "name": "Bonus: Pråmdragarnas Sång Vid Volga",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz På Ryska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
-      "url": "https://open.spotify.com/track/76PAA4Aze730HHJxUxPfMy",
-      "durationMs": 218160,
-      "playedAt": "2026-09-15T00:57:56.901Z"
-    },
-    {
-      "name": "Jag Broderade Till Gryningen",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz På Ryska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
-      "url": "https://open.spotify.com/track/18HGizG4XlKQyVnlSOk02o",
-      "durationMs": 115186,
-      "playedAt": "2026-09-15T00:54:18.722Z"
-    },
-    {
-      "name": "Kvällar I Moskvas Förstäder",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz På Ryska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
-      "url": "https://open.spotify.com/track/5EEnDSzAhdqqi9uv7ebUOa",
-      "durationMs": 257306,
-      "playedAt": "2026-09-15T00:52:23.602Z"
-    },
-    {
-      "name": "Det Går En Kosack",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz På Ryska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
-      "url": "https://open.spotify.com/track/3757qwBW4Og9ANKgTiZibA",
-      "durationMs": 81213,
-      "playedAt": "2026-09-15T00:48:06.308Z"
-    },
-    {
-      "name": "Entonigt Klingar Den Lilla Klockan",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz På Ryska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
-      "url": "https://open.spotify.com/track/1QrV00aDm6T3tvtNZqVX9s",
-      "durationMs": 113800,
-      "playedAt": "2026-09-15T00:46:45.009Z"
-    },
-    {
-      "name": "Ströva Omkring",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz På Ryska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
-      "url": "https://open.spotify.com/track/4X2tKZdL8KnIQKQLQa4JlO",
-      "durationMs": 48293,
-      "playedAt": "2026-09-15T00:44:51.219Z"
-    },
-    {
-      "name": "Längs Floden",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz På Ryska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
-      "url": "https://open.spotify.com/track/7FlCjauwi2MoKTa2KaqmXY",
-      "durationMs": 124346,
-      "playedAt": "2026-09-15T00:44:02.919Z"
-    },
-    {
-      "name": "Bandura",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz På Ryska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
-      "url": "https://open.spotify.com/track/6W4y5g1d1lXiixBeYZgcBj",
-      "durationMs": 144706,
-      "playedAt": "2026-09-15T00:41:58.600Z"
     }
   ],
   "topArtists": [
