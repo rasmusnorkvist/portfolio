@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-09-15T21:35:49.204Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-15T23:56:03.891Z",
+  "nowPlaying": {
+    "name": "Kvällar I Moskvas Förstäder",
+    "artists": [
+      "Jan Johansson"
+    ],
+    "album": "Jazz På Ryska",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+    "url": "https://open.spotify.com/track/5EEnDSzAhdqqi9uv7ebUOa",
+    "durationMs": 257306,
+    "isPlaying": true,
+    "progressMs": 84028
+  },
   "recentlyPlayed": [
+    {
+      "name": "Det Går En Kosack",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/3757qwBW4Og9ANKgTiZibA",
+      "durationMs": 81213,
+      "playedAt": "2026-09-15T23:54:39.899Z"
+    },
+    {
+      "name": "Entonigt Klingar Den Lilla Klockan",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/1QrV00aDm6T3tvtNZqVX9s",
+      "durationMs": 113800,
+      "playedAt": "2026-09-15T23:53:18.702Z"
+    },
     {
       "name": "Ströva Omkring",
       "artists": [
@@ -89,28 +122,6 @@
       "url": "https://open.spotify.com/track/0J2TlYvl70fQFJsQUe8jbK",
       "durationMs": 224306,
       "playedAt": "2026-09-15T19:45:44.175Z"
-    },
-    {
-      "name": "Bonus: Entonigt Klingar Den Lilla Klockan",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz På Ryska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
-      "url": "https://open.spotify.com/track/1D4Iwe42GwFzD2Zq5ZL6Ag",
-      "durationMs": 100373,
-      "playedAt": "2026-09-15T14:52:13.462Z"
-    },
-    {
-      "name": "Bonus: Längs Floden",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz På Ryska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
-      "url": "https://open.spotify.com/track/39iIs6RIx68E1vQWr2dI9G",
-      "durationMs": 146706,
-      "playedAt": "2026-09-15T01:01:57.283Z"
     }
   ],
   "topArtists": [
