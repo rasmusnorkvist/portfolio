@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T08:54:56.571Z",
+  "updatedAt": "2026-09-15T14:08:07.701Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -118,25 +118,37 @@
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
+      "genres": [
+        "lo-fi",
+        "lo-fi beats",
+        "jazz beats"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "JAŸ-Z",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
       "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
-      "genres": []
+      "genres": [
+        "hip hop",
+        "east coast hip hop",
+        "rap"
+      ]
     },
     {
       "name": "Norah Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
       "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-      "genres": []
+      "genres": [
+        "jazz pop"
+      ]
     },
     {
       "name": "Rapallo",
@@ -148,19 +160,28 @@
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": []
+      "genres": [
+        "yacht rock",
+        "classic rock",
+        "soft rock"
+      ]
     },
     {
       "name": "Peter LeMarc",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
       "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Eric Clapton",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
       "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
-      "genres": []
+      "genres": [
+        "blues rock",
+        "classic rock"
+      ]
     }
   ],
   "topTracks": [
