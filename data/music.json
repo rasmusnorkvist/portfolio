@@ -1,121 +1,116 @@
 {
-  "updatedAt": "2026-09-14T23:55:58.399Z",
+  "updatedAt": "2026-09-15T03:28:39.832Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Once Upon A Summertime",
+      "name": "Bonus: Längs Floden",
       "artists": [
-        "Monica Zetterlund",
-        "Bill Evans"
+        "Jan Johansson"
       ],
-      "album": "Waltz For Debby",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a4e6d8633c7f37f127d66f8e",
-      "url": "https://open.spotify.com/track/1QnLbfLk02EXAJ01pTUsvs",
-      "durationMs": 183733,
-      "playedAt": "2026-09-14T23:48:53.028Z"
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/39iIs6RIx68E1vQWr2dI9G",
+      "durationMs": 146706,
+      "playedAt": "2026-09-15T01:01:57.283Z"
     },
     {
-      "name": "Jag Vet En Dejlig Rosa",
+      "name": "Bonus: Pråmdragarnas Sång Vid Volga",
       "artists": [
-        "Monica Zetterlund",
-        "Bill Evans"
+        "Jan Johansson"
       ],
-      "album": "Waltz For Debby",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a4e6d8633c7f37f127d66f8e",
-      "url": "https://open.spotify.com/track/3TJ2oIxwr4PydFlJTnTo2c",
-      "durationMs": 173893,
-      "playedAt": "2026-09-14T23:45:49.340Z"
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/76PAA4Aze730HHJxUxPfMy",
+      "durationMs": 218160,
+      "playedAt": "2026-09-15T00:57:56.901Z"
     },
     {
-      "name": "Come Rain Or Come Shine",
+      "name": "Jag Broderade Till Gryningen",
       "artists": [
-        "Monica Zetterlund",
-        "Bill Evans"
+        "Jan Johansson"
       ],
-      "album": "Waltz For Debby",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a4e6d8633c7f37f127d66f8e",
-      "url": "https://open.spotify.com/track/05R8G0ebcKASAsy91e56LC",
-      "durationMs": 282533,
-      "playedAt": "2026-09-14T23:36:49.578Z"
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/18HGizG4XlKQyVnlSOk02o",
+      "durationMs": 115186,
+      "playedAt": "2026-09-15T00:54:18.722Z"
     },
     {
-      "name": "Repa skivan (feat. AFC)",
+      "name": "Kvällar I Moskvas Förstäder",
       "artists": [
-        "Petter",
-        "AFC"
+        "Jan Johansson"
       ],
-      "album": "Ronin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739fcf1f80b58c2dc32682a7fb",
-      "url": "https://open.spotify.com/track/62K8Xt3yTATChthdDnlneY",
-      "durationMs": 213240,
-      "playedAt": "2026-09-14T22:40:12.706Z"
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/5EEnDSzAhdqqi9uv7ebUOa",
+      "durationMs": 257306,
+      "playedAt": "2026-09-15T00:52:23.602Z"
     },
     {
-      "name": "Luckiest Man Alive",
+      "name": "Det Går En Kosack",
       "artists": [
-        "Chords"
+        "Jan Johansson"
       ],
-      "album": "Things We Do For Things",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735fa49a51cf6f62d6b7373241",
-      "url": "https://open.spotify.com/track/2MI8dKeWvmWc4WXWTJkKdZ",
-      "durationMs": 268573,
-      "playedAt": "2026-09-14T22:36:51.136Z"
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/3757qwBW4Og9ANKgTiZibA",
+      "durationMs": 81213,
+      "playedAt": "2026-09-15T00:48:06.308Z"
     },
     {
-      "name": "Unchained Melody",
+      "name": "Entonigt Klingar Den Lilla Klockan",
       "artists": [
-        "Norah Jones"
+        "Jan Johansson"
       ],
-      "album": "Resistance Radio: The Man in the High Castle Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f7d201cb0c6bc015ef6ecd37",
-      "url": "https://open.spotify.com/track/2S7AhLiZxFa1S8i2pI4AJD",
-      "durationMs": 170160,
-      "playedAt": "2026-09-14T14:36:40.272Z"
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/1QrV00aDm6T3tvtNZqVX9s",
+      "durationMs": 113800,
+      "playedAt": "2026-09-15T00:46:45.009Z"
     },
     {
-      "name": "Unchained Melody",
+      "name": "Ströva Omkring",
       "artists": [
-        "Norah Jones"
+        "Jan Johansson"
       ],
-      "album": "Resistance Radio: The Man in the High Castle Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f7d201cb0c6bc015ef6ecd37",
-      "url": "https://open.spotify.com/track/2S7AhLiZxFa1S8i2pI4AJD",
-      "durationMs": 170160,
-      "playedAt": "2026-09-14T14:34:54.632Z"
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/4X2tKZdL8KnIQKQLQa4JlO",
+      "durationMs": 48293,
+      "playedAt": "2026-09-15T00:44:51.219Z"
     },
     {
-      "name": "Here We Go Again",
+      "name": "Längs Floden",
       "artists": [
-        "Ray Charles",
-        "Norah Jones"
+        "Jan Johansson"
       ],
-      "album": "Genius Loves Company",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c2f661a9c283bf33a991dd1",
-      "url": "https://open.spotify.com/track/5PgeYGt6XuIbgGnGBl8fFU",
-      "durationMs": 238750,
-      "playedAt": "2026-09-13T21:51:32.039Z"
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/7FlCjauwi2MoKTa2KaqmXY",
+      "durationMs": 124346,
+      "playedAt": "2026-09-15T00:44:02.919Z"
     },
     {
-      "name": "The Nearness Of You",
+      "name": "Bandura",
       "artists": [
-        "Norah Jones"
+        "Jan Johansson"
       ],
-      "album": "Come Away With Me (Super Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
-      "url": "https://open.spotify.com/track/3HuLpW8NmFFO5GKY8andY2",
-      "durationMs": 187769,
-      "playedAt": "2026-09-13T21:47:36.373Z"
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/6W4y5g1d1lXiixBeYZgcBj",
+      "durationMs": 144706,
+      "playedAt": "2026-09-15T00:41:58.600Z"
     },
     {
-      "name": "Carry On",
+      "name": "Nära Hemmet",
       "artists": [
-        "Norah Jones"
+        "Jan Johansson"
       ],
-      "album": "Day Breaks",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735843cb50b0751124f3e34e6e",
-      "url": "https://open.spotify.com/track/4ZFhVVawR0xMJ5dJFNxFRl",
-      "durationMs": 168106,
-      "playedAt": "2026-09-13T21:44:31.582Z"
+      "album": "Jazz På Ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
+      "url": "https://open.spotify.com/track/6e4v7QGtfTrt82LTuF4AmF",
+      "durationMs": 137706,
+      "playedAt": "2026-09-15T00:39:33.886Z"
     }
   ],
   "topArtists": [
@@ -123,25 +118,37 @@
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
-    },
-    {
-      "name": "JAŸ-Z",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
-      "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
-      "genres": []
-    },
-    {
-      "name": "Norah Jones",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
-      "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-      "genres": []
+      "genres": [
+        "lo-fi",
+        "lo-fi beats",
+        "jazz beats"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
+    },
+    {
+      "name": "JAŸ-Z",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
+      "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
+      "genres": [
+        "hip hop",
+        "east coast hip hop",
+        "rap"
+      ]
+    },
+    {
+      "name": "Norah Jones",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
+      "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
+      "genres": [
+        "jazz pop"
+      ]
     },
     {
       "name": "Rapallo",
@@ -153,19 +160,28 @@
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": []
+      "genres": [
+        "yacht rock",
+        "classic rock",
+        "soft rock"
+      ]
     },
     {
       "name": "Peter LeMarc",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
       "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Eric Clapton",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
       "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
-      "genres": []
+      "genres": [
+        "blues rock",
+        "classic rock"
+      ]
     }
   ],
   "topTracks": [
