@@ -1,124 +1,126 @@
 {
-  "updatedAt": "2026-09-16T14:00:19.985Z",
+  "updatedAt": "2026-09-16T18:17:35.641Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Virtual Insanity - Remastered 2006",
+      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "artists": [
-        "Jamiroquai"
+        "Gorillaz",
+        "Tame Impala",
+        "Bootie Brown"
       ],
-      "album": "Driving Songs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343a58a3269fa18d1e4f8b5ca",
-      "url": "https://open.spotify.com/track/4UQDZlZhGUDoYMohwrY28v",
-      "durationMs": 229360,
-      "playedAt": "2026-09-16T00:45:07.551Z"
+      "album": "Cracker Island",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27319707804f73dc50f7a29cd86",
+      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3",
+      "durationMs": 215149,
+      "playedAt": "2026-09-16T16:05:11.043Z"
     },
     {
-      "name": "Beggin'",
+      "name": "Ooh Wee (feat. Ghostface Killah, Nate Dogg, Trife & Saigon)",
       "artists": [
-        "Måneskin"
+        "Mark Ronson",
+        "Ghostface Killah",
+        "Nate Dogg",
+        "Trife",
+        "Saigon"
       ],
-      "album": "Chosen",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa0ab3a28b5c52d8a5f97045",
-      "url": "https://open.spotify.com/track/3Wrjm47oTz2sjIgck11l5e",
-      "durationMs": 211560,
-      "playedAt": "2026-09-16T00:41:49.290Z"
+      "album": "Here Comes The Fuzz",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e58775d8015f2ea0b85dc57d",
+      "url": "https://open.spotify.com/track/4WimB4Ei0LU3MotHhL3kBL",
+      "durationMs": 209626,
+      "playedAt": "2026-09-16T15:57:30.081Z"
     },
     {
-      "name": "Do It Again",
+      "name": "Runnin'",
       "artists": [
-        "Steely Dan"
+        "The Pharcyde"
       ],
-      "album": "Can't Buy A Thrill",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
-      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19",
-      "durationMs": 357041,
-      "playedAt": "2026-09-16T00:38:19.288Z"
+      "album": "Labcabincalifornia (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738248914bbbcdcba2d154c8de",
+      "url": "https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5",
+      "durationMs": 296266,
+      "playedAt": "2026-09-16T15:54:02.721Z"
     },
     {
-      "name": "Soup for One",
+      "name": "All Eyez On Me (ft. Big Syke)",
       "artists": [
-        "CHIC"
+        "2Pac",
+        "Big Syke"
       ],
-      "album": "Dance, Dance, Dance: The Best of Chic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273966507d369a0de6da093d5f1",
-      "url": "https://open.spotify.com/track/2Rr4ZOnKXUrzjhMPkmkRjK",
-      "durationMs": 335066,
-      "playedAt": "2026-09-16T00:32:37.290Z"
+      "album": "All Eyez On Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596",
+      "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
+      "durationMs": 307773,
+      "playedAt": "2026-09-16T15:49:27.217Z"
     },
     {
-      "name": "Boogie Oogie Oogie",
+      "name": "Rapp Snitch Knishes",
       "artists": [
-        "A Taste Of Honey"
+        "MF DOOM",
+        "Mr. Fantastik"
       ],
-      "album": "A Taste Of Honey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731da1b4064fc8eb0d2a65dc97",
-      "url": "https://open.spotify.com/track/1Rl9GHgsflyIVqBRyO45Zo",
-      "durationMs": 245173,
-      "playedAt": "2026-09-16T00:27:13.890Z"
+      "album": "MM..FOOD",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352f194d02c39909d1b284799",
+      "url": "https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI",
+      "durationMs": 172893,
+      "playedAt": "2026-09-16T15:44:06.692Z"
     },
     {
-      "name": "Ortens favoriter - Remix",
+      "name": "28 Butts",
+      "artists": [
+        "Little Jackie"
+      ],
+      "album": "The Stoop",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cf2ce7da6482174eea91dc7d",
+      "url": "https://open.spotify.com/track/3VzXczteOCdWEGboYhmQ3W",
+      "durationMs": 188813,
+      "playedAt": "2026-09-16T15:41:12.020Z"
+    },
+    {
+      "name": "Bright Lights Bigger City",
+      "artists": [
+        "CeeLo Green"
+      ],
+      "album": "The Lady Killer",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273745ed32da5e64120925ce7b0",
+      "url": "https://open.spotify.com/track/3lOMPxZipoRwnO0IUvk6WX",
+      "durationMs": 218280,
+      "playedAt": "2026-09-16T15:38:05.321Z"
+    },
+    {
+      "name": "Chilla lide",
       "artists": [
         "Labyrint",
-        "Black Ghost",
-        "STOR",
-        "Aleks",
-        "Allyawan",
-        "Påse",
-        "Dani M",
-        "Alladin",
-        "Jaqe"
+        "Amsie Brown"
       ],
-      "album": "Ortens favoriter",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eafa6e5e617f20387d27de1b",
-      "url": "https://open.spotify.com/track/3K7UdFfEr3EWURDOOYvuwq",
-      "durationMs": 346093,
-      "playedAt": "2026-09-16T00:24:00.091Z"
+      "album": "Garalaowit",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27345759f6c3ac17968201c04b9",
+      "url": "https://open.spotify.com/track/33UnthIRhXbB4gmkjl4H19",
+      "durationMs": 258680,
+      "playedAt": "2026-09-16T15:34:01.775Z"
     },
     {
-      "name": "Bonus: Kvällar I Moskvas Förstäder",
+      "name": "This Head I Hold",
       "artists": [
-        "Jan Johansson"
+        "Electric Guest"
       ],
-      "album": "Jazz På Ryska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
-      "url": "https://open.spotify.com/track/4DRWAUqOUOaQkgoVTdER8K",
-      "durationMs": 210600,
-      "playedAt": "2026-09-16T00:15:04.585Z"
+      "album": "Mondo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736466e833eb9b18310fab4de4",
+      "url": "https://open.spotify.com/track/0LVaveDmmoMEKhBGhVhfoI",
+      "durationMs": 175773,
+      "playedAt": "2026-09-16T15:29:54.968Z"
     },
     {
-      "name": "Bonus: På Ängen Stod En Björk",
+      "name": "Tiene Sabor (feat. Omara Portuondo)",
       "artists": [
-        "Jan Johansson"
+        "Buena Vista Social Club",
+        "Omara Portuondo"
       ],
-      "album": "Jazz På Ryska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
-      "url": "https://open.spotify.com/track/0dlkZrqyf8J8XEHJbGu3Ru",
-      "durationMs": 165906,
-      "playedAt": "2026-09-16T00:11:33.969Z"
-    },
-    {
-      "name": "Bonus: Entonigt Klingar Den Lilla Klockan",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz På Ryska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
-      "url": "https://open.spotify.com/track/1D4Iwe42GwFzD2Zq5ZL6Ag",
-      "durationMs": 100373,
-      "playedAt": "2026-09-16T00:08:48.191Z"
-    },
-    {
-      "name": "Bonus: Längs Floden",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz På Ryska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273538eef26d8864e96b9ef5be6",
-      "url": "https://open.spotify.com/track/39iIs6RIx68E1vQWr2dI9G",
-      "durationMs": 146706,
-      "playedAt": "2026-09-16T00:07:07.692Z"
+      "album": "Lost and Found",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273773f95f94a6981365257d9f0",
+      "url": "https://open.spotify.com/track/4DFbRXlTdH9JdqCBeX6NOG",
+      "durationMs": 197888,
+      "playedAt": "2026-09-16T15:27:14.971Z"
     }
   ],
   "topArtists": [
