@@ -1,18 +1,73 @@
 {
-  "updatedAt": "2026-09-17T00:02:30.825Z",
-  "nowPlaying": {
-    "name": "Boogie Oogie Oogie",
-    "artists": [
-      "A Taste Of Honey"
-    ],
-    "album": "A Taste Of Honey",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731da1b4064fc8eb0d2a65dc97",
-    "url": "https://open.spotify.com/track/1Rl9GHgsflyIVqBRyO45Zo",
-    "durationMs": 245173,
-    "isPlaying": true,
-    "progressMs": 156975
-  },
+  "updatedAt": "2026-09-17T05:05:54.539Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "The Adults Are Talking",
+      "artists": [
+        "The Strokes"
+      ],
+      "album": "The New Abnormal",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
+      "durationMs": 309053,
+      "playedAt": "2026-09-17T00:43:25.912Z"
+    },
+    {
+      "name": "Get Down Saturday Night",
+      "artists": [
+        "Oliver Cheatham"
+      ],
+      "album": "Saturday Night (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330a57e2d9be973cedab286f0",
+      "url": "https://open.spotify.com/track/4kTS0Ioxdm6uSGmFNvhnGQ",
+      "durationMs": 388573,
+      "playedAt": "2026-09-17T00:38:05.385Z"
+    },
+    {
+      "name": "Get Down Saturday Night - Extended Club Version - Remastered",
+      "artists": [
+        "Oliver Cheatham"
+      ],
+      "album": "Get Down Saturday Night - Maxi Single",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273783eb46bdf3d16a8afb3c514",
+      "url": "https://open.spotify.com/track/5e72cWzSwrJtUmoghqz6nO",
+      "durationMs": 452226,
+      "playedAt": "2026-09-17T00:25:14.768Z"
+    },
+    {
+      "name": "Don't Stop The Music",
+      "artists": [
+        "Yarbrough & Peoples"
+      ],
+      "album": "The Two Of Us",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d793dc26ab1fc3c3048219ad",
+      "url": "https://open.spotify.com/track/5qJToa1YuuzOWbIQYRFHA0",
+      "durationMs": 471613,
+      "playedAt": "2026-09-17T00:15:33.324Z"
+    },
+    {
+      "name": "Electric Avenue",
+      "artists": [
+        "Eddy Grant"
+      ],
+      "album": "Killer On The Rampage",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27311541f506b9c9b7b086ce332",
+      "url": "https://open.spotify.com/track/5WeuqW7eiIj27OiB1hV2BF",
+      "durationMs": 227933,
+      "playedAt": "2026-09-17T00:07:44.725Z"
+    },
+    {
+      "name": "Boogie Oogie Oogie",
+      "artists": [
+        "A Taste Of Honey"
+      ],
+      "album": "A Taste Of Honey",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731da1b4064fc8eb0d2a65dc97",
+      "url": "https://open.spotify.com/track/1Rl9GHgsflyIVqBRyO45Zo",
+      "durationMs": 245173,
+      "playedAt": "2026-09-17T00:03:59.724Z"
+    },
     {
       "name": "It's Only Love Doing Its Thing",
       "artists": [
@@ -56,75 +111,6 @@
       "url": "https://open.spotify.com/track/1AlezQ0d2NhbECTZR4tveV",
       "durationMs": 162294,
       "playedAt": "2026-09-16T23:47:27.523Z"
-    },
-    {
-      "name": "Let's Play",
-      "artists": [
-        "Dabeull",
-        "HolyBrune",
-        "Dezzy Hollow"
-      ],
-      "album": "Analog Love",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f0d28c5f9be9cf12b9c50c3",
-      "url": "https://open.spotify.com/track/5KQ6jVizgxjd2XBn8qKKCh",
-      "durationMs": 244146,
-      "playedAt": "2026-09-16T23:44:48.223Z"
-    },
-    {
-      "name": "I Shot the Sheriff",
-      "artists": [
-        "Light Of The World"
-      ],
-      "album": "The Best of the Light of the World",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736eb280ef0f08e07ba2341897",
-      "url": "https://open.spotify.com/track/79cnUAXvns6kczfldrrIpc",
-      "durationMs": 238666,
-      "playedAt": "2026-09-16T23:40:47.325Z"
-    },
-    {
-      "name": "Estrelar",
-      "artists": [
-        "Marcos Valle"
-      ],
-      "album": "Marcos Valle",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273580d01637ff3bb5f27206d41",
-      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT",
-      "durationMs": 313493,
-      "playedAt": "2026-09-16T23:15:00.352Z"
-    },
-    {
-      "name": "Seagull",
-      "artists": [
-        "Donkeychote",
-        "Awon"
-      ],
-      "album": "Seagull",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273289581560e6fb4e5f3182d75",
-      "url": "https://open.spotify.com/track/2W1C4pmzbyClNct8d1nI2a",
-      "durationMs": 112000,
-      "playedAt": "2026-09-16T23:09:49.851Z"
-    },
-    {
-      "name": "Brandy (You're a Fine Girl)",
-      "artists": [
-        "Looking Glass"
-      ],
-      "album": "Looking Glass",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737d12d6d8dcffd1594123b3bd",
-      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA",
-      "durationMs": 189044,
-      "playedAt": "2026-09-16T23:08:00.859Z"
-    },
-    {
-      "name": "I Am Beginning to See the Light",
-      "artists": [
-        "Barbara Morrison"
-      ],
-      "album": "Doing All Right",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733ce9e3e5075e631512f9f152",
-      "url": "https://open.spotify.com/track/0ioW0mpuW7Dqgk51r8Y84J",
-      "durationMs": 133000,
-      "playedAt": "2026-09-16T22:35:03.055Z"
     }
   ],
   "topArtists": [
@@ -171,9 +157,9 @@
       "genres": []
     },
     {
-      "name": "JAŸ-Z",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
-      "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
+      "name": "Frank Ocean",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
+      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
       "genres": []
     }
   ],
