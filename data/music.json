@@ -1,126 +1,130 @@
 {
-  "updatedAt": "2026-09-16T21:30:46.555Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-17T00:02:30.825Z",
+  "nowPlaying": {
+    "name": "Boogie Oogie Oogie",
+    "artists": [
+      "A Taste Of Honey"
+    ],
+    "album": "A Taste Of Honey",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731da1b4064fc8eb0d2a65dc97",
+    "url": "https://open.spotify.com/track/1Rl9GHgsflyIVqBRyO45Zo",
+    "durationMs": 245173,
+    "isPlaying": true,
+    "progressMs": 156975
+  },
   "recentlyPlayed": [
     {
-      "name": "New Gold (feat. Tame Impala and Bootie Brown)",
+      "name": "It's Only Love Doing Its Thing",
       "artists": [
-        "Gorillaz",
-        "Tame Impala",
-        "Bootie Brown"
+        "Barry White"
       ],
-      "album": "Cracker Island",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27319707804f73dc50f7a29cd86",
-      "url": "https://open.spotify.com/track/60SvhHtwefT0e2G7i7kOH3",
-      "durationMs": 215149,
-      "playedAt": "2026-09-16T16:05:11.043Z"
+      "album": "The Man",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733dfe92addd56d8e701f3315e",
+      "url": "https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h",
+      "durationMs": 237426,
+      "playedAt": "2026-09-16T23:59:57.580Z"
     },
     {
-      "name": "Ooh Wee (feat. Ghostface Killah, Nate Dogg, Trife & Saigon)",
+      "name": "You Stepped Into My Life",
       "artists": [
-        "Mark Ronson",
-        "Ghostface Killah",
-        "Nate Dogg",
-        "Trife",
-        "Saigon"
+        "Bee Gees"
       ],
-      "album": "Here Comes The Fuzz",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e58775d8015f2ea0b85dc57d",
-      "url": "https://open.spotify.com/track/4WimB4Ei0LU3MotHhL3kBL",
-      "durationMs": 209626,
-      "playedAt": "2026-09-16T15:57:30.081Z"
+      "album": "Children Of The World",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27345b4e9481e0846c16553a048",
+      "url": "https://open.spotify.com/track/51VbUJoYc1TX1e7GPcLhFQ",
+      "durationMs": 206160,
+      "playedAt": "2026-09-16T23:56:03.132Z"
     },
     {
-      "name": "Runnin'",
+      "name": "Real Love",
       "artists": [
-        "The Pharcyde"
+        "Drizabone"
       ],
-      "album": "Labcabincalifornia (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738248914bbbcdcba2d154c8de",
-      "url": "https://open.spotify.com/track/0XgpiStoxq1IJncYlPrvZ5",
-      "durationMs": 296266,
-      "playedAt": "2026-09-16T15:54:02.721Z"
+      "album": "Conspiracy",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dde3b4245cffcfe26a53b2a9",
+      "url": "https://open.spotify.com/track/639cc3IeyJVop1Wxm57FP3",
+      "durationMs": 315466,
+      "playedAt": "2026-09-16T23:52:39.995Z"
     },
     {
-      "name": "All Eyez On Me (ft. Big Syke)",
+      "name": "Sweet Connection",
       "artists": [
-        "2Pac",
-        "Big Syke"
+        "Ferdi"
       ],
-      "album": "All Eyez On Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596",
-      "url": "https://open.spotify.com/track/4VQNCzfZ3MdHEwwErNXpBo",
-      "durationMs": 307773,
-      "playedAt": "2026-09-16T15:49:27.217Z"
+      "album": "Romance",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732fdb06f0acd1fd95708e322d",
+      "url": "https://open.spotify.com/track/1AlezQ0d2NhbECTZR4tveV",
+      "durationMs": 162294,
+      "playedAt": "2026-09-16T23:47:27.523Z"
     },
     {
-      "name": "Rapp Snitch Knishes",
+      "name": "Let's Play",
       "artists": [
-        "MF DOOM",
-        "Mr. Fantastik"
+        "Dabeull",
+        "HolyBrune",
+        "Dezzy Hollow"
       ],
-      "album": "MM..FOOD",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352f194d02c39909d1b284799",
-      "url": "https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI",
-      "durationMs": 172893,
-      "playedAt": "2026-09-16T15:44:06.692Z"
+      "album": "Analog Love",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f0d28c5f9be9cf12b9c50c3",
+      "url": "https://open.spotify.com/track/5KQ6jVizgxjd2XBn8qKKCh",
+      "durationMs": 244146,
+      "playedAt": "2026-09-16T23:44:48.223Z"
     },
     {
-      "name": "28 Butts",
+      "name": "I Shot the Sheriff",
       "artists": [
-        "Little Jackie"
+        "Light Of The World"
       ],
-      "album": "The Stoop",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cf2ce7da6482174eea91dc7d",
-      "url": "https://open.spotify.com/track/3VzXczteOCdWEGboYhmQ3W",
-      "durationMs": 188813,
-      "playedAt": "2026-09-16T15:41:12.020Z"
+      "album": "The Best of the Light of the World",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736eb280ef0f08e07ba2341897",
+      "url": "https://open.spotify.com/track/79cnUAXvns6kczfldrrIpc",
+      "durationMs": 238666,
+      "playedAt": "2026-09-16T23:40:47.325Z"
     },
     {
-      "name": "Bright Lights Bigger City",
+      "name": "Estrelar",
       "artists": [
-        "CeeLo Green"
+        "Marcos Valle"
       ],
-      "album": "The Lady Killer",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273745ed32da5e64120925ce7b0",
-      "url": "https://open.spotify.com/track/3lOMPxZipoRwnO0IUvk6WX",
-      "durationMs": 218280,
-      "playedAt": "2026-09-16T15:38:05.321Z"
+      "album": "Marcos Valle",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273580d01637ff3bb5f27206d41",
+      "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT",
+      "durationMs": 313493,
+      "playedAt": "2026-09-16T23:15:00.352Z"
     },
     {
-      "name": "Chilla lide",
+      "name": "Seagull",
       "artists": [
-        "Labyrint",
-        "Amsie Brown"
+        "Donkeychote",
+        "Awon"
       ],
-      "album": "Garalaowit",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27345759f6c3ac17968201c04b9",
-      "url": "https://open.spotify.com/track/33UnthIRhXbB4gmkjl4H19",
-      "durationMs": 258680,
-      "playedAt": "2026-09-16T15:34:01.775Z"
+      "album": "Seagull",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273289581560e6fb4e5f3182d75",
+      "url": "https://open.spotify.com/track/2W1C4pmzbyClNct8d1nI2a",
+      "durationMs": 112000,
+      "playedAt": "2026-09-16T23:09:49.851Z"
     },
     {
-      "name": "This Head I Hold",
+      "name": "Brandy (You're a Fine Girl)",
       "artists": [
-        "Electric Guest"
+        "Looking Glass"
       ],
-      "album": "Mondo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736466e833eb9b18310fab4de4",
-      "url": "https://open.spotify.com/track/0LVaveDmmoMEKhBGhVhfoI",
-      "durationMs": 175773,
-      "playedAt": "2026-09-16T15:29:54.968Z"
+      "album": "Looking Glass",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737d12d6d8dcffd1594123b3bd",
+      "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA",
+      "durationMs": 189044,
+      "playedAt": "2026-09-16T23:08:00.859Z"
     },
     {
-      "name": "Tiene Sabor (feat. Omara Portuondo)",
+      "name": "I Am Beginning to See the Light",
       "artists": [
-        "Buena Vista Social Club",
-        "Omara Portuondo"
+        "Barbara Morrison"
       ],
-      "album": "Lost and Found",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273773f95f94a6981365257d9f0",
-      "url": "https://open.spotify.com/track/4DFbRXlTdH9JdqCBeX6NOG",
-      "durationMs": 197888,
-      "playedAt": "2026-09-16T15:27:14.971Z"
+      "album": "Doing All Right",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733ce9e3e5075e631512f9f152",
+      "url": "https://open.spotify.com/track/0ioW0mpuW7Dqgk51r8Y84J",
+      "durationMs": 133000,
+      "playedAt": "2026-09-16T22:35:03.055Z"
     }
   ],
   "topArtists": [
@@ -134,12 +138,6 @@
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
-    },
-    {
-      "name": "JAŸ-Z",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
-      "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
       "genres": []
     },
     {
@@ -170,6 +168,12 @@
       "name": "Eric Clapton",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
       "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
+      "genres": []
+    },
+    {
+      "name": "JAŸ-Z",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759",
+      "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB",
       "genres": []
     }
   ],
@@ -203,16 +207,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
       "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
       "durationMs": 45640
-    },
-    {
-      "name": "Interlude",
-      "artists": [
-        "JAŸ-Z"
-      ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/2D4JZUIZVJVzZz9gpYaiO9",
-      "durationMs": 81800
     },
     {
       "name": "Visa från Utanmyra",
@@ -254,6 +248,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8e913bf1a4776a5fe27ce28",
       "url": "https://open.spotify.com/track/70VTTe96UJ9QUyFYbsnW5V",
       "durationMs": 262306
+    },
+    {
+      "name": "Breathing Underwater",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/0qNtsooW1RMtApSfkMTfiX",
+      "durationMs": 290054
     }
   ],
   "featuredPlaylists": []
