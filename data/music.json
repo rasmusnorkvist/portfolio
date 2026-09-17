@@ -1,7 +1,78 @@
 {
-  "updatedAt": "2026-09-17T19:09:17.701Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-17T22:19:28.524Z",
+  "nowPlaying": {
+    "name": "Fear Not Of Man",
+    "artists": [
+      "Mos Def"
+    ],
+    "album": "Black On Both Sides",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+    "url": "https://open.spotify.com/track/0hR9z6ZW4syDhPvtZJXmcv",
+    "durationMs": 268666,
+    "isPlaying": true,
+    "progressMs": 81950
+  },
   "recentlyPlayed": [
+    {
+      "name": "Soul Mates",
+      "artists": [
+        "Jazzinuf",
+        "Etymology Records"
+      ],
+      "album": "Soul Mates",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736d61a0286817cd75d35eb67e",
+      "url": "https://open.spotify.com/track/7pFRhCj70NUNZG4xMDEQj8",
+      "durationMs": 96343,
+      "playedAt": "2026-09-17T22:17:43.189Z"
+    },
+    {
+      "name": "The Truth",
+      "artists": [
+        "Handsome Boy Modeling School",
+        "Dan The Automator",
+        "Prince Paul",
+        "Róisín Murphy",
+        "J-Live"
+      ],
+      "album": "So...How's Your Girl?",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273952f4da94c8d41b100570f49",
+      "url": "https://open.spotify.com/track/5l7icgnicl7JToRxPkSXyy",
+      "durationMs": 337200,
+      "playedAt": "2026-09-17T22:16:26.213Z"
+    },
+    {
+      "name": "The Alkalite",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/4AlEDesuRd6npBdFHVkfPT",
+      "durationMs": 248568,
+      "playedAt": "2026-09-17T22:11:09.610Z"
+    },
+    {
+      "name": "You Get What You Give",
+      "artists": [
+        "New Radicals"
+      ],
+      "album": "Maybe You've Been Brainwashed Too",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dfdedd4553b40bbaab342dae",
+      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF",
+      "durationMs": 300773,
+      "playedAt": "2026-09-17T22:04:27.264Z"
+    },
+    {
+      "name": "Visa från Utanmyra",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800,
+      "playedAt": "2026-09-17T21:32:08.873Z"
+    },
     {
       "name": "Canned Heat",
       "artists": [
@@ -57,61 +128,6 @@
       "url": "https://open.spotify.com/track/5e72cWzSwrJtUmoghqz6nO",
       "durationMs": 452226,
       "playedAt": "2026-09-17T00:25:14.768Z"
-    },
-    {
-      "name": "Don't Stop The Music",
-      "artists": [
-        "Yarbrough & Peoples"
-      ],
-      "album": "The Two Of Us",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d793dc26ab1fc3c3048219ad",
-      "url": "https://open.spotify.com/track/5qJToa1YuuzOWbIQYRFHA0",
-      "durationMs": 471613,
-      "playedAt": "2026-09-17T00:15:33.324Z"
-    },
-    {
-      "name": "Electric Avenue",
-      "artists": [
-        "Eddy Grant"
-      ],
-      "album": "Killer On The Rampage",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27311541f506b9c9b7b086ce332",
-      "url": "https://open.spotify.com/track/5WeuqW7eiIj27OiB1hV2BF",
-      "durationMs": 227933,
-      "playedAt": "2026-09-17T00:07:44.725Z"
-    },
-    {
-      "name": "Boogie Oogie Oogie",
-      "artists": [
-        "A Taste Of Honey"
-      ],
-      "album": "A Taste Of Honey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731da1b4064fc8eb0d2a65dc97",
-      "url": "https://open.spotify.com/track/1Rl9GHgsflyIVqBRyO45Zo",
-      "durationMs": 245173,
-      "playedAt": "2026-09-17T00:03:59.724Z"
-    },
-    {
-      "name": "It's Only Love Doing Its Thing",
-      "artists": [
-        "Barry White"
-      ],
-      "album": "The Man",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733dfe92addd56d8e701f3315e",
-      "url": "https://open.spotify.com/track/7huxHHCXiJDDizWoVw2o8h",
-      "durationMs": 237426,
-      "playedAt": "2026-09-16T23:59:57.580Z"
-    },
-    {
-      "name": "You Stepped Into My Life",
-      "artists": [
-        "Bee Gees"
-      ],
-      "album": "Children Of The World",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27345b4e9481e0846c16553a048",
-      "url": "https://open.spotify.com/track/51VbUJoYc1TX1e7GPcLhFQ",
-      "durationMs": 206160,
-      "playedAt": "2026-09-16T23:56:03.132Z"
     }
   ],
   "topArtists": [
