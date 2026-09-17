@@ -1,7 +1,30 @@
 {
-  "updatedAt": "2026-09-17T15:08:55.023Z",
+  "updatedAt": "2026-09-17T19:09:17.701Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Canned Heat",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "Synkronized",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ccb64f022a53d3e8ec84a20",
+      "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ",
+      "durationMs": 331760,
+      "playedAt": "2026-09-17T16:52:27.556Z"
+    },
+    {
+      "name": "Flowers",
+      "artists": [
+        "Gotts Street Park",
+        "Pip Millett"
+      ],
+      "album": "Flowers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d801e923bd6fb543c96da937",
+      "url": "https://open.spotify.com/track/3rpwbUJ68uCIYVCJ0g8YnT",
+      "durationMs": 205720,
+      "playedAt": "2026-09-17T16:05:23.654Z"
+    },
     {
       "name": "The Adults Are Talking",
       "artists": [
@@ -89,28 +112,6 @@
       "url": "https://open.spotify.com/track/51VbUJoYc1TX1e7GPcLhFQ",
       "durationMs": 206160,
       "playedAt": "2026-09-16T23:56:03.132Z"
-    },
-    {
-      "name": "Real Love",
-      "artists": [
-        "Drizabone"
-      ],
-      "album": "Conspiracy",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dde3b4245cffcfe26a53b2a9",
-      "url": "https://open.spotify.com/track/639cc3IeyJVop1Wxm57FP3",
-      "durationMs": 315466,
-      "playedAt": "2026-09-16T23:52:39.995Z"
-    },
-    {
-      "name": "Sweet Connection",
-      "artists": [
-        "Ferdi"
-      ],
-      "album": "Romance",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732fdb06f0acd1fd95708e322d",
-      "url": "https://open.spotify.com/track/1AlezQ0d2NhbECTZR4tveV",
-      "durationMs": 162294,
-      "playedAt": "2026-09-16T23:47:27.523Z"
     }
   ],
   "topArtists": [
