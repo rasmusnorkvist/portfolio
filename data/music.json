@@ -1,117 +1,122 @@
 {
-  "updatedAt": "2026-09-18T00:35:08.325Z",
+  "updatedAt": "2026-09-18T05:30:41.372Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Not Likely",
+      "name": "Prima Vera",
       "artists": [
-        "Alana Markel"
+        "Lars Gullin"
       ],
-      "album": "Not Likely",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5e2f8b86be6f88510ef9203",
-      "url": "https://open.spotify.com/track/1eJ2ADk4tZPXpS4cVXoY2k",
-      "durationMs": 154090,
-      "playedAt": "2026-09-18T00:28:38.874Z"
+      "album": "Fäbodjazz",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a280edfad1aa753895e3177",
+      "url": "https://open.spotify.com/track/0ap1mPvboaQNHin5nDK69f",
+      "durationMs": 255973,
+      "playedAt": "2026-09-18T04:55:07.402Z"
     },
     {
-      "name": "Everything in the shade",
+      "name": "One for My Baby",
       "artists": [
-        "Fine"
+        "Jan Johansson"
       ],
-      "album": "Everything in the shade",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733e432510c62fb20870cdd410",
-      "url": "https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF",
-      "durationMs": 216750,
-      "playedAt": "2026-09-18T00:26:07.841Z"
+      "album": "Spelar musik på sitt eget vis",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f255608edf8f835594ddac33",
+      "url": "https://open.spotify.com/track/2iIOBSssCpt6PPQTdSI4qw",
+      "durationMs": 255706,
+      "playedAt": "2026-09-18T04:50:54.434Z"
     },
     {
-      "name": "Big Spender",
+      "name": "Sicilyan Dream (D’après Siciliano, BWV. 1031 de Johann Sebastian Bach)",
       "artists": [
-        "Yvonnes"
+        "Enrico Pieranunzi",
+        "André Ceccarelli",
+        "Diego Imbert"
       ],
-      "album": "Big Spender",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c02d14b672b603cf0b1355f",
-      "url": "https://open.spotify.com/track/5HyoH4bna6iOoKG8NogVwm",
-      "durationMs": 187173,
-      "playedAt": "2026-09-18T00:22:34.124Z"
+      "album": "Ménage à trois",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e133e472c39e2b887d074b3e",
+      "url": "https://open.spotify.com/track/22DgAcWnb50oKlv0F8eziW",
+      "durationMs": 277693,
+      "playedAt": "2026-09-18T04:46:41.780Z"
     },
     {
-      "name": "Got",
+      "name": "Att angöra en brygga",
       "artists": [
-        "Mos Def"
+        "Monica Zetterlund"
       ],
-      "album": "Black On Both Sides",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
-      "url": "https://open.spotify.com/track/40JSjO17ltHsFWUlo2Y7Sc",
-      "durationMs": 207600,
-      "playedAt": "2026-09-18T00:19:16.790Z"
+      "album": "O vad en liten gumma kan gno",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a31f8511326313f56a0dbdba",
+      "url": "https://open.spotify.com/track/62gZY6joWPt97hbsbIdd4t",
+      "durationMs": 153826,
+      "playedAt": "2026-09-18T04:42:07.114Z"
     },
     {
-      "name": "Do It Now",
+      "name": "Viso di donna",
       "artists": [
-        "Mos Def",
-        "Busta Rhymes"
+        "Henri Texier",
+        "Aldo Romano",
+        "Louis Sclavis"
       ],
-      "album": "Black On Both Sides",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
-      "url": "https://open.spotify.com/track/0G08twG9Snacd3TgJ2IC6r",
-      "durationMs": 229546,
-      "playedAt": "2026-09-17T22:42:04.198Z"
+      "album": "African Flashback",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733040591b3822d67bc6a46257",
+      "url": "https://open.spotify.com/track/2u1pxzzrUg1Sgce0TxD9fB",
+      "durationMs": 219346,
+      "playedAt": "2026-09-18T04:32:47.625Z"
     },
     {
-      "name": "Speed Law",
+      "name": "The Midnight Sun Never Sets",
       "artists": [
-        "Mos Def"
+        "Quincy Jones",
+        "Harry Arnold",
+        "The Swedish Radio Studio Orchestra"
       ],
-      "album": "Black On Both Sides",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
-      "url": "https://open.spotify.com/track/5WwGFUPLWz6t7jROXn6j4M",
-      "durationMs": 256453,
-      "playedAt": "2026-09-17T22:38:14.610Z"
+      "album": "Quincy's Home Again",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273049748611f8cb1c945bd20dd",
+      "url": "https://open.spotify.com/track/2DM509sry0RXPjqn3AxPMJ",
+      "durationMs": 245200,
+      "playedAt": "2026-09-18T04:29:11.244Z"
     },
     {
-      "name": "Ms. Fat Booty",
+      "name": "Ma",
       "artists": [
-        "Mos Def"
+        "Lars Gullin"
       ],
-      "album": "Black On Both Sides",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
-      "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU",
-      "durationMs": 223546,
-      "playedAt": "2026-09-17T22:33:58.188Z"
+      "album": "Fäbodjazz",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a280edfad1aa753895e3177",
+      "url": "https://open.spotify.com/track/5gKTtGBur3s7n5FBePUYZn",
+      "durationMs": 347040,
+      "playedAt": "2026-09-18T04:25:09.111Z"
     },
     {
-      "name": "Love",
+      "name": "Emigrantvisa",
       "artists": [
-        "Mos Def"
+        "Jan Johansson"
       ],
-      "album": "Black On Both Sides",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
-      "url": "https://open.spotify.com/track/1L6YNFDSQa8UjX7vzPXXD4",
-      "durationMs": 263200,
-      "playedAt": "2026-09-17T22:30:14.611Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/5kjFu1dBCCqm0RPpjdgRQt",
+      "durationMs": 207733,
+      "playedAt": "2026-09-18T04:19:25.037Z"
     },
     {
-      "name": "Hip Hop",
+      "name": "Gamla allén",
       "artists": [
-        "Mos Def"
+        "Axel Mårdsjö"
       ],
-      "album": "Black On Both Sides",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
-      "url": "https://open.spotify.com/track/4gQdwwPXSXnDkUh4jYqLoC",
-      "durationMs": 196440,
-      "playedAt": "2026-09-17T22:25:51.350Z"
+      "album": "Ett göteborgsporträtt",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273958d006a3ea5e8ef454a35e5",
+      "url": "https://open.spotify.com/track/0GNiqw6ODg9AsXt8nk73KJ",
+      "durationMs": 230786,
+      "playedAt": "2026-09-18T04:16:00.323Z"
     },
     {
-      "name": "Fear Not Of Man",
+      "name": "Havsmelodi - Radio Edit",
       "artists": [
-        "Mos Def"
+        "Amanda Ginsburg"
       ],
-      "album": "Black On Both Sides",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
-      "url": "https://open.spotify.com/track/0hR9z6ZW4syDhPvtZJXmcv",
-      "durationMs": 268666,
-      "playedAt": "2026-09-17T22:22:34.913Z"
+      "album": "Havsmelodi (Radio Edit)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733199ca89f2f4ef89d388178e",
+      "url": "https://open.spotify.com/track/2pb0rmnMLS9PebZLntyJ9C",
+      "durationMs": 221880,
+      "playedAt": "2026-09-18T04:12:12.542Z"
     }
   ],
   "topArtists": [
@@ -134,15 +139,15 @@
       "genres": []
     },
     {
-      "name": "Rapallo",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
-      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
-      "genres": []
-    },
-    {
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
+      "genres": []
+    },
+    {
+      "name": "Rapallo",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
+      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
       "genres": []
     },
     {
@@ -206,24 +211,14 @@
       "durationMs": 273800
     },
     {
-      "name": "V.I.P.",
+      "name": "Stepp, min stepp",
       "artists": [
-        "Rapallo"
+        "Jan Johansson"
       ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/1Hs65Rzndy9ijGBA9JQltu",
-      "durationMs": 155587
-    },
-    {
-      "name": "The Alkalite",
-      "artists": [
-        "Rapallo"
-      ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/4AlEDesuRd6npBdFHVkfPT",
-      "durationMs": 248568
+      "album": "Jazz på ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273059e1cfa2e6a0b934e63ce79",
+      "url": "https://open.spotify.com/track/4kDOfYVSGIYvOgIS4Lb82H",
+      "durationMs": 224306
     },
     {
       "name": "No One's Watching Me (feat. Olivia Dean)",
@@ -246,6 +241,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736d61a0286817cd75d35eb67e",
       "url": "https://open.spotify.com/track/7pFRhCj70NUNZG4xMDEQj8",
       "durationMs": 96343
+    },
+    {
+      "name": "Interlude",
+      "artists": [
+        "JAŸ-Z"
+      ],
+      "album": "The Black Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
+      "url": "https://open.spotify.com/track/2D4JZUIZVJVzZz9gpYaiO9",
+      "durationMs": 81800
     }
   ],
   "featuredPlaylists": []
