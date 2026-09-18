@@ -1,133 +1,117 @@
 {
-  "updatedAt": "2026-09-17T22:19:28.524Z",
-  "nowPlaying": {
-    "name": "Fear Not Of Man",
-    "artists": [
-      "Mos Def"
-    ],
-    "album": "Black On Both Sides",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
-    "url": "https://open.spotify.com/track/0hR9z6ZW4syDhPvtZJXmcv",
-    "durationMs": 268666,
-    "isPlaying": true,
-    "progressMs": 81950
-  },
+  "updatedAt": "2026-09-18T00:35:08.325Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Soul Mates",
+      "name": "Not Likely",
       "artists": [
-        "Jazzinuf",
-        "Etymology Records"
+        "Alana Markel"
       ],
-      "album": "Soul Mates",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736d61a0286817cd75d35eb67e",
-      "url": "https://open.spotify.com/track/7pFRhCj70NUNZG4xMDEQj8",
-      "durationMs": 96343,
-      "playedAt": "2026-09-17T22:17:43.189Z"
+      "album": "Not Likely",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f5e2f8b86be6f88510ef9203",
+      "url": "https://open.spotify.com/track/1eJ2ADk4tZPXpS4cVXoY2k",
+      "durationMs": 154090,
+      "playedAt": "2026-09-18T00:28:38.874Z"
     },
     {
-      "name": "The Truth",
+      "name": "Everything in the shade",
       "artists": [
-        "Handsome Boy Modeling School",
-        "Dan The Automator",
-        "Prince Paul",
-        "Róisín Murphy",
-        "J-Live"
+        "Fine"
       ],
-      "album": "So...How's Your Girl?",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273952f4da94c8d41b100570f49",
-      "url": "https://open.spotify.com/track/5l7icgnicl7JToRxPkSXyy",
-      "durationMs": 337200,
-      "playedAt": "2026-09-17T22:16:26.213Z"
+      "album": "Everything in the shade",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733e432510c62fb20870cdd410",
+      "url": "https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF",
+      "durationMs": 216750,
+      "playedAt": "2026-09-18T00:26:07.841Z"
     },
     {
-      "name": "The Alkalite",
+      "name": "Big Spender",
       "artists": [
-        "Rapallo"
+        "Yvonnes"
       ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/4AlEDesuRd6npBdFHVkfPT",
-      "durationMs": 248568,
-      "playedAt": "2026-09-17T22:11:09.610Z"
+      "album": "Big Spender",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c02d14b672b603cf0b1355f",
+      "url": "https://open.spotify.com/track/5HyoH4bna6iOoKG8NogVwm",
+      "durationMs": 187173,
+      "playedAt": "2026-09-18T00:22:34.124Z"
     },
     {
-      "name": "You Get What You Give",
+      "name": "Got",
       "artists": [
-        "New Radicals"
+        "Mos Def"
       ],
-      "album": "Maybe You've Been Brainwashed Too",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dfdedd4553b40bbaab342dae",
-      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF",
-      "durationMs": 300773,
-      "playedAt": "2026-09-17T22:04:27.264Z"
+      "album": "Black On Both Sides",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+      "url": "https://open.spotify.com/track/40JSjO17ltHsFWUlo2Y7Sc",
+      "durationMs": 207600,
+      "playedAt": "2026-09-18T00:19:16.790Z"
     },
     {
-      "name": "Visa från Utanmyra",
+      "name": "Do It Now",
       "artists": [
-        "Jan Johansson"
+        "Mos Def",
+        "Busta Rhymes"
       ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
-      "durationMs": 273800,
-      "playedAt": "2026-09-17T21:32:08.873Z"
+      "album": "Black On Both Sides",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+      "url": "https://open.spotify.com/track/0G08twG9Snacd3TgJ2IC6r",
+      "durationMs": 229546,
+      "playedAt": "2026-09-17T22:42:04.198Z"
     },
     {
-      "name": "Canned Heat",
+      "name": "Speed Law",
       "artists": [
-        "Jamiroquai"
+        "Mos Def"
       ],
-      "album": "Synkronized",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ccb64f022a53d3e8ec84a20",
-      "url": "https://open.spotify.com/track/47oS7xB31QQUyPCgHpM3VZ",
-      "durationMs": 331760,
-      "playedAt": "2026-09-17T16:52:27.556Z"
+      "album": "Black On Both Sides",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+      "url": "https://open.spotify.com/track/5WwGFUPLWz6t7jROXn6j4M",
+      "durationMs": 256453,
+      "playedAt": "2026-09-17T22:38:14.610Z"
     },
     {
-      "name": "Flowers",
+      "name": "Ms. Fat Booty",
       "artists": [
-        "Gotts Street Park",
-        "Pip Millett"
+        "Mos Def"
       ],
-      "album": "Flowers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d801e923bd6fb543c96da937",
-      "url": "https://open.spotify.com/track/3rpwbUJ68uCIYVCJ0g8YnT",
-      "durationMs": 205720,
-      "playedAt": "2026-09-17T16:05:23.654Z"
+      "album": "Black On Both Sides",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+      "url": "https://open.spotify.com/track/0IVAlb0cFCH1cQ974iR1TU",
+      "durationMs": 223546,
+      "playedAt": "2026-09-17T22:33:58.188Z"
     },
     {
-      "name": "The Adults Are Talking",
+      "name": "Love",
       "artists": [
-        "The Strokes"
+        "Mos Def"
       ],
-      "album": "The New Abnormal",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
-      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
-      "durationMs": 309053,
-      "playedAt": "2026-09-17T00:43:25.912Z"
+      "album": "Black On Both Sides",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+      "url": "https://open.spotify.com/track/1L6YNFDSQa8UjX7vzPXXD4",
+      "durationMs": 263200,
+      "playedAt": "2026-09-17T22:30:14.611Z"
     },
     {
-      "name": "Get Down Saturday Night",
+      "name": "Hip Hop",
       "artists": [
-        "Oliver Cheatham"
+        "Mos Def"
       ],
-      "album": "Saturday Night (Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330a57e2d9be973cedab286f0",
-      "url": "https://open.spotify.com/track/4kTS0Ioxdm6uSGmFNvhnGQ",
-      "durationMs": 388573,
-      "playedAt": "2026-09-17T00:38:05.385Z"
+      "album": "Black On Both Sides",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+      "url": "https://open.spotify.com/track/4gQdwwPXSXnDkUh4jYqLoC",
+      "durationMs": 196440,
+      "playedAt": "2026-09-17T22:25:51.350Z"
     },
     {
-      "name": "Get Down Saturday Night - Extended Club Version - Remastered",
+      "name": "Fear Not Of Man",
       "artists": [
-        "Oliver Cheatham"
+        "Mos Def"
       ],
-      "album": "Get Down Saturday Night - Maxi Single",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273783eb46bdf3d16a8afb3c514",
-      "url": "https://open.spotify.com/track/5e72cWzSwrJtUmoghqz6nO",
-      "durationMs": 452226,
-      "playedAt": "2026-09-17T00:25:14.768Z"
+      "album": "Black On Both Sides",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27389b56f56323925d57b38944d",
+      "url": "https://open.spotify.com/track/0hR9z6ZW4syDhPvtZJXmcv",
+      "durationMs": 268666,
+      "playedAt": "2026-09-17T22:22:34.913Z"
     }
   ],
   "topArtists": [
@@ -253,14 +237,15 @@
       "durationMs": 262306
     },
     {
-      "name": "Breathing Underwater",
+      "name": "Soul Mates",
       "artists": [
-        "Rapallo"
+        "Jazzinuf",
+        "Etymology Records"
       ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/0qNtsooW1RMtApSfkMTfiX",
-      "durationMs": 290054
+      "album": "Soul Mates",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736d61a0286817cd75d35eb67e",
+      "url": "https://open.spotify.com/track/7pFRhCj70NUNZG4xMDEQj8",
+      "durationMs": 96343
     }
   ],
   "featuredPlaylists": []
