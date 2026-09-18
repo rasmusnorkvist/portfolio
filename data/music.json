@@ -1,127 +1,125 @@
 {
-  "updatedAt": "2026-09-18T21:05:36.027Z",
-  "nowPlaying": {
-    "name": "Rhythm in Your Mind",
-    "artists": [
-      "STR4TA"
-    ],
-    "album": "Aspects",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735cd8364a1feaf6877e16e2a2",
-    "url": "https://open.spotify.com/track/2nskES9cszH048HnOsjYEb",
-    "durationMs": 225106,
-    "isPlaying": true,
-    "progressMs": 138626
-  },
+  "updatedAt": "2026-09-18T23:27:11.200Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Rock Me Down to Rio",
+      "name": "Ẹ Si M'ẹ̀dọ̀",
       "artists": [
-        "The Rah Band"
+        "Dele Sosimi",
+        "The Estuary 21",
+        "Lizzy Dosunmu"
       ],
-      "album": "Going Up",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273777be0adc315d87130c1e211",
-      "url": "https://open.spotify.com/track/6QkWcaOHLrIBDBGp3sAnd3",
-      "durationMs": 411440,
-      "playedAt": "2026-09-18T21:01:26.025Z"
+      "album": "The Confluence LP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
+      "url": "https://open.spotify.com/track/1oDGJr9sB0krMrTgx36V0T",
+      "durationMs": 181333,
+      "playedAt": "2026-09-18T22:50:32.611Z"
     },
     {
-      "name": "Don’t You Wanna Make Love",
+      "name": "You Don't Have To",
       "artists": [
-        "Carl Carlton"
+        "Dele Sosimi",
+        "The Estuary 21"
       ],
-      "album": "Carl Carlton (Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d33cf0f26efdf538bfd6864e",
-      "url": "https://open.spotify.com/track/07G0J1Z8SPfZeIAZWx1QXS",
-      "durationMs": 242693,
-      "playedAt": "2026-09-18T20:54:37.594Z"
+      "album": "The Confluence LP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
+      "url": "https://open.spotify.com/track/4YG1fa0VYbxLDn4hHhjlA5",
+      "durationMs": 255466,
+      "playedAt": "2026-09-18T22:47:31.306Z"
     },
     {
-      "name": "Lion's Share",
+      "name": "Orí Mi",
+      "artists": [
+        "Dele Sosimi",
+        "The Estuary 21"
+      ],
+      "album": "The Confluence LP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
+      "url": "https://open.spotify.com/track/0xkqDInGXHwe7j77lymxiR",
+      "durationMs": 218053,
+      "playedAt": "2026-09-18T22:43:15.810Z"
+    },
+    {
+      "name": "For the Love of It",
+      "artists": [
+        "Dele Sosimi",
+        "The Estuary 21"
+      ],
+      "album": "The Confluence LP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
+      "url": "https://open.spotify.com/track/7kiUmKt8i4ygomR7US8caq",
+      "durationMs": 289360,
+      "playedAt": "2026-09-18T22:39:37.444Z"
+    },
+    {
+      "name": "Mo Se B'ólá tán",
+      "artists": [
+        "Dele Sosimi",
+        "The Estuary 21",
+        "Get Cape. Wear Cape. Fly"
+      ],
+      "album": "The Confluence LP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
+      "url": "https://open.spotify.com/track/3FOchc8aXJPCYc1ybT2EK2",
+      "durationMs": 209626,
+      "playedAt": "2026-09-18T22:34:48.123Z"
+    },
+    {
+      "name": "Ride out the Storm",
+      "artists": [
+        "Dele Sosimi",
+        "The Estuary 21",
+        "Get Cape. Wear Cape. Fly"
+      ],
+      "album": "The Confluence LP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
+      "url": "https://open.spotify.com/track/1Hx4BfEyycVEn6diIa2LLS",
+      "durationMs": 171000,
+      "playedAt": "2026-09-18T22:31:18.535Z"
+    },
+    {
+      "name": "Chunky",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "album": "24K Magic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
+      "url": "https://open.spotify.com/track/0mBKv9DkYfQHjdMcw2jdyI",
+      "durationMs": 186973,
+      "playedAt": "2026-09-18T21:49:57.481Z"
+    },
+    {
+      "name": "For Once In My Life",
+      "artists": [
+        "Stevie Wonder"
+      ],
+      "album": "For Once In My Life",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734629fe1633a7d9460fe1e28b",
+      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK",
+      "durationMs": 169800,
+      "playedAt": "2026-09-18T21:46:53.576Z"
+    },
+    {
+      "name": "You Make My Dreams (Come True)",
+      "artists": [
+        "Daryl Hall & John Oates"
+      ],
+      "album": "Voices",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fe1a9aa59e3c6189a09ae37a",
+      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk",
+      "durationMs": 190626,
+      "playedAt": "2026-09-18T21:44:06.735Z"
+    },
+    {
+      "name": "Nothing You Can Do",
       "artists": [
         "Rapallo"
       ],
       "album": "Merger",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/6Vkq1ef084Z7ss13G8fzlp",
-      "durationMs": 185582,
-      "playedAt": "2026-09-18T20:50:37.932Z"
-    },
-    {
-      "name": "I'm so Dangerous",
-      "artists": [
-        "Starwolf"
-      ],
-      "album": "I'm so Dangerous",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa434241ef314f888d3af15d",
-      "url": "https://open.spotify.com/track/1QZ5DYdM2Hr3CxvwpDPl1x",
-      "durationMs": 171679,
-      "playedAt": "2026-09-18T20:47:35.357Z"
-    },
-    {
-      "name": "What's Your Name",
-      "artists": [
-        "Leon Ware"
-      ],
-      "album": "Inside Is Love",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394c47225da33023a6a014989",
-      "url": "https://open.spotify.com/track/47kE1b7qC6iZP0nk3qm15a",
-      "durationMs": 241850,
-      "playedAt": "2026-09-18T20:44:44.952Z"
-    },
-    {
-      "name": "Café Pacific",
-      "artists": [
-        "TOAST CLUB"
-      ],
-      "album": "Lift",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273462794b7dbf4c3d38b48d315",
-      "url": "https://open.spotify.com/track/4YhKHvmfW9pLp0Whek0I6u",
-      "durationMs": 244848,
-      "playedAt": "2026-09-18T20:40:46.164Z"
-    },
-    {
-      "name": "Perfect Wave",
-      "artists": [
-        "KAGAMI"
-      ],
-      "album": "Perfect Wave",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273753edf37f701963aa52c42a1",
-      "url": "https://open.spotify.com/track/5TxcAlGoqL6064Sw9izIYA",
-      "durationMs": 236178,
-      "playedAt": "2026-09-18T20:36:44.364Z"
-    },
-    {
-      "name": "Just Think",
-      "artists": [
-        "Video Age"
-      ],
-      "album": "Away From The Castle",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731ad860620284a842e9f92df0",
-      "url": "https://open.spotify.com/track/2QQ8rtFCnIlQgO4gIS3ZIc",
-      "durationMs": 214925,
-      "playedAt": "2026-09-18T20:32:51.128Z"
-    },
-    {
-      "name": "CBB",
-      "artists": [
-        "Bobbing"
-      ],
-      "album": "CBB",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273785694d9fe95b0e7039afd2d",
-      "url": "https://open.spotify.com/track/6SdfznBX9Ec8P3StAPHQ5J",
-      "durationMs": 191248,
-      "playedAt": "2026-09-18T20:29:19.252Z"
-    },
-    {
-      "name": "Let's Do It Today",
-      "artists": [
-        "T-Connection"
-      ],
-      "album": "Totally Connected",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27301aad7348ed3032ef6a636b1",
-      "url": "https://open.spotify.com/track/3FpSToAu6CJRn8pkXbT7fJ",
-      "durationMs": 234513,
-      "playedAt": "2026-09-18T20:26:10.972Z"
+      "url": "https://open.spotify.com/track/6PZyuI35ZZrbAW3bo9RAgG",
+      "durationMs": 222591,
+      "playedAt": "2026-09-18T21:19:51.975Z"
     }
   ],
   "topArtists": [
