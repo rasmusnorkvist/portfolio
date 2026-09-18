@@ -1,123 +1,127 @@
 {
-  "updatedAt": "2026-09-18T18:02:13.160Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-18T21:05:36.027Z",
+  "nowPlaying": {
+    "name": "Rhythm in Your Mind",
+    "artists": [
+      "STR4TA"
+    ],
+    "album": "Aspects",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735cd8364a1feaf6877e16e2a2",
+    "url": "https://open.spotify.com/track/2nskES9cszH048HnOsjYEb",
+    "durationMs": 225106,
+    "isPlaying": true,
+    "progressMs": 138626
+  },
   "recentlyPlayed": [
     {
-      "name": "The Balance",
+      "name": "Rock Me Down to Rio",
       "artists": [
-        "Abdullah Ibrahim",
-        "Ekaya"
+        "The Rah Band"
       ],
-      "album": "The Balance",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4cfc82cd9577997e28b2916",
-      "url": "https://open.spotify.com/track/4aUiD4DFLORzavaiu4q1px",
-      "durationMs": 184360,
-      "playedAt": "2026-09-18T17:15:34.278Z"
+      "album": "Going Up",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273777be0adc315d87130c1e211",
+      "url": "https://open.spotify.com/track/6QkWcaOHLrIBDBGp3sAnd3",
+      "durationMs": 411440,
+      "playedAt": "2026-09-18T21:01:26.025Z"
     },
     {
-      "name": "Prima Vera",
+      "name": "Don’t You Wanna Make Love",
       "artists": [
-        "Lars Gullin"
+        "Carl Carlton"
       ],
-      "album": "Fäbodjazz",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a280edfad1aa753895e3177",
-      "url": "https://open.spotify.com/track/0ap1mPvboaQNHin5nDK69f",
-      "durationMs": 255973,
-      "playedAt": "2026-09-18T04:55:07.402Z"
+      "album": "Carl Carlton (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d33cf0f26efdf538bfd6864e",
+      "url": "https://open.spotify.com/track/07G0J1Z8SPfZeIAZWx1QXS",
+      "durationMs": 242693,
+      "playedAt": "2026-09-18T20:54:37.594Z"
     },
     {
-      "name": "One for My Baby",
+      "name": "Lion's Share",
       "artists": [
-        "Jan Johansson"
+        "Rapallo"
       ],
-      "album": "Spelar musik på sitt eget vis",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f255608edf8f835594ddac33",
-      "url": "https://open.spotify.com/track/2iIOBSssCpt6PPQTdSI4qw",
-      "durationMs": 255706,
-      "playedAt": "2026-09-18T04:50:54.434Z"
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/6Vkq1ef084Z7ss13G8fzlp",
+      "durationMs": 185582,
+      "playedAt": "2026-09-18T20:50:37.932Z"
     },
     {
-      "name": "Sicilyan Dream (D’après Siciliano, BWV. 1031 de Johann Sebastian Bach)",
+      "name": "I'm so Dangerous",
       "artists": [
-        "Enrico Pieranunzi",
-        "André Ceccarelli",
-        "Diego Imbert"
+        "Starwolf"
       ],
-      "album": "Ménage à trois",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e133e472c39e2b887d074b3e",
-      "url": "https://open.spotify.com/track/22DgAcWnb50oKlv0F8eziW",
-      "durationMs": 277693,
-      "playedAt": "2026-09-18T04:46:41.780Z"
+      "album": "I'm so Dangerous",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa434241ef314f888d3af15d",
+      "url": "https://open.spotify.com/track/1QZ5DYdM2Hr3CxvwpDPl1x",
+      "durationMs": 171679,
+      "playedAt": "2026-09-18T20:47:35.357Z"
     },
     {
-      "name": "Att angöra en brygga",
+      "name": "What's Your Name",
       "artists": [
-        "Monica Zetterlund"
+        "Leon Ware"
       ],
-      "album": "O vad en liten gumma kan gno",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a31f8511326313f56a0dbdba",
-      "url": "https://open.spotify.com/track/62gZY6joWPt97hbsbIdd4t",
-      "durationMs": 153826,
-      "playedAt": "2026-09-18T04:42:07.114Z"
+      "album": "Inside Is Love",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394c47225da33023a6a014989",
+      "url": "https://open.spotify.com/track/47kE1b7qC6iZP0nk3qm15a",
+      "durationMs": 241850,
+      "playedAt": "2026-09-18T20:44:44.952Z"
     },
     {
-      "name": "Viso di donna",
+      "name": "Café Pacific",
       "artists": [
-        "Henri Texier",
-        "Aldo Romano",
-        "Louis Sclavis"
+        "TOAST CLUB"
       ],
-      "album": "African Flashback",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733040591b3822d67bc6a46257",
-      "url": "https://open.spotify.com/track/2u1pxzzrUg1Sgce0TxD9fB",
-      "durationMs": 219346,
-      "playedAt": "2026-09-18T04:32:47.625Z"
+      "album": "Lift",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273462794b7dbf4c3d38b48d315",
+      "url": "https://open.spotify.com/track/4YhKHvmfW9pLp0Whek0I6u",
+      "durationMs": 244848,
+      "playedAt": "2026-09-18T20:40:46.164Z"
     },
     {
-      "name": "The Midnight Sun Never Sets",
+      "name": "Perfect Wave",
       "artists": [
-        "Quincy Jones",
-        "Harry Arnold",
-        "The Swedish Radio Studio Orchestra"
+        "KAGAMI"
       ],
-      "album": "Quincy's Home Again",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273049748611f8cb1c945bd20dd",
-      "url": "https://open.spotify.com/track/2DM509sry0RXPjqn3AxPMJ",
-      "durationMs": 245200,
-      "playedAt": "2026-09-18T04:29:11.244Z"
+      "album": "Perfect Wave",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273753edf37f701963aa52c42a1",
+      "url": "https://open.spotify.com/track/5TxcAlGoqL6064Sw9izIYA",
+      "durationMs": 236178,
+      "playedAt": "2026-09-18T20:36:44.364Z"
     },
     {
-      "name": "Ma",
+      "name": "Just Think",
       "artists": [
-        "Lars Gullin"
+        "Video Age"
       ],
-      "album": "Fäbodjazz",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737a280edfad1aa753895e3177",
-      "url": "https://open.spotify.com/track/5gKTtGBur3s7n5FBePUYZn",
-      "durationMs": 347040,
-      "playedAt": "2026-09-18T04:25:09.111Z"
+      "album": "Away From The Castle",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731ad860620284a842e9f92df0",
+      "url": "https://open.spotify.com/track/2QQ8rtFCnIlQgO4gIS3ZIc",
+      "durationMs": 214925,
+      "playedAt": "2026-09-18T20:32:51.128Z"
     },
     {
-      "name": "Emigrantvisa",
+      "name": "CBB",
       "artists": [
-        "Jan Johansson"
+        "Bobbing"
       ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/5kjFu1dBCCqm0RPpjdgRQt",
-      "durationMs": 207733,
-      "playedAt": "2026-09-18T04:19:25.037Z"
+      "album": "CBB",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273785694d9fe95b0e7039afd2d",
+      "url": "https://open.spotify.com/track/6SdfznBX9Ec8P3StAPHQ5J",
+      "durationMs": 191248,
+      "playedAt": "2026-09-18T20:29:19.252Z"
     },
     {
-      "name": "Gamla allén",
+      "name": "Let's Do It Today",
       "artists": [
-        "Axel Mårdsjö"
+        "T-Connection"
       ],
-      "album": "Ett göteborgsporträtt",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273958d006a3ea5e8ef454a35e5",
-      "url": "https://open.spotify.com/track/0GNiqw6ODg9AsXt8nk73KJ",
-      "durationMs": 230786,
-      "playedAt": "2026-09-18T04:16:00.323Z"
+      "album": "Totally Connected",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27301aad7348ed3032ef6a636b1",
+      "url": "https://open.spotify.com/track/3FpSToAu6CJRn8pkXbT7fJ",
+      "durationMs": 234513,
+      "playedAt": "2026-09-18T20:26:10.972Z"
     }
   ],
   "topArtists": [
@@ -125,37 +129,19 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": [
-        "lo-fi",
-        "lo-fi beats",
-        "jazz beats"
-      ]
+      "genres": []
     },
     {
       "name": "Norah Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
       "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-      "genres": [
-        "jazz pop"
-      ]
-    },
-    {
-      "name": "Fleetwood Mac",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
-      "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": [
-        "yacht rock",
-        "classic rock",
-        "soft rock"
-      ]
+      "genres": []
     },
     {
       "name": "Rapallo",
@@ -164,21 +150,22 @@
       "genres": []
     },
     {
+      "name": "Fleetwood Mac",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
+      "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
+      "genres": []
+    },
+    {
       "name": "Peter LeMarc",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
       "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "Eric Clapton",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
       "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
-      "genres": [
-        "blues rock",
-        "classic rock"
-      ]
+      "genres": []
     },
     {
       "name": "Frank Ocean",
