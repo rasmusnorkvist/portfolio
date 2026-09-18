@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-09-18T14:36:39.487Z",
+  "updatedAt": "2026-09-18T18:02:13.160Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "The Balance",
+      "artists": [
+        "Abdullah Ibrahim",
+        "Ekaya"
+      ],
+      "album": "The Balance",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4cfc82cd9577997e28b2916",
+      "url": "https://open.spotify.com/track/4aUiD4DFLORzavaiu4q1px",
+      "durationMs": 184360,
+      "playedAt": "2026-09-18T17:15:34.278Z"
+    },
     {
       "name": "Prima Vera",
       "artists": [
@@ -106,17 +118,6 @@
       "url": "https://open.spotify.com/track/0GNiqw6ODg9AsXt8nk73KJ",
       "durationMs": 230786,
       "playedAt": "2026-09-18T04:16:00.323Z"
-    },
-    {
-      "name": "Havsmelodi - Radio Edit",
-      "artists": [
-        "Amanda Ginsburg"
-      ],
-      "album": "Havsmelodi (Radio Edit)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733199ca89f2f4ef89d388178e",
-      "url": "https://open.spotify.com/track/2pb0rmnMLS9PebZLntyJ9C",
-      "durationMs": 221880,
-      "playedAt": "2026-09-18T04:12:12.542Z"
     }
   ],
   "topArtists": [
@@ -124,25 +125,37 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
+      "genres": [
+        "lo-fi",
+        "lo-fi beats",
+        "jazz beats"
+      ]
     },
     {
       "name": "Norah Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
       "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-      "genres": []
+      "genres": [
+        "jazz pop"
+      ]
     },
     {
       "name": "Fleetwood Mac",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
       "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
-      "genres": []
+      "genres": [
+        "yacht rock",
+        "classic rock",
+        "soft rock"
+      ]
     },
     {
       "name": "Rapallo",
@@ -154,13 +167,18 @@
       "name": "Peter LeMarc",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
       "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Eric Clapton",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
       "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
-      "genres": []
+      "genres": [
+        "blues rock",
+        "classic rock"
+      ]
     },
     {
       "name": "Frank Ocean",
