@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2026-09-18T23:27:11.200Z",
+  "updatedAt": "2026-09-19T01:25:49.754Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Love and Death",
+      "artists": [
+        "Ebo Taylor"
+      ],
+      "album": "Love & Death",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273644a2026e6721e7ff3efcb27",
+      "url": "https://open.spotify.com/track/2EdcEOJf2V8xMOTO7q2gCN",
+      "durationMs": 415090,
+      "playedAt": "2026-09-19T00:51:36.454Z"
+    },
+    {
+      "name": "Stories",
+      "artists": [
+        "Dele Sosimi",
+        "The Estuary 21",
+        "Get Cape. Wear Cape. Fly"
+      ],
+      "album": "The Confluence LP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
+      "url": "https://open.spotify.com/track/7tE2oZezePnRN9MKvMk1bu",
+      "durationMs": 218986,
+      "playedAt": "2026-09-19T00:44:44.353Z"
+    },
+    {
+      "name": "Alágbára Má Mè Rò",
+      "artists": [
+        "Dele Sosimi",
+        "The Estuary 21"
+      ],
+      "album": "The Confluence LP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
+      "url": "https://open.spotify.com/track/15YIYfo2rLlVZpOPCIjjUV",
+      "durationMs": 229840,
+      "playedAt": "2026-09-19T00:41:05.367Z"
+    },
+    {
+      "name": "The Rumblings",
+      "artists": [
+        "Dele Sosimi",
+        "The Estuary 21"
+      ],
+      "album": "The Confluence LP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
+      "url": "https://open.spotify.com/track/0kqb4cWJIQfytWeiFbHWft",
+      "durationMs": 214933,
+      "playedAt": "2026-09-19T00:37:15.557Z"
+    },
+    {
+      "name": "Òtító Ti Jáde",
+      "artists": [
+        "Dele Sosimi",
+        "The Estuary 21"
+      ],
+      "album": "The Confluence LP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
+      "url": "https://open.spotify.com/track/4AlC1oRpBkjbfTYmCk84Y1",
+      "durationMs": 214173,
+      "playedAt": "2026-09-19T00:33:40.626Z"
+    },
+    {
+      "name": "Open Up",
+      "artists": [
+        "Dele Sosimi",
+        "The Estuary 21",
+        "Snowboy",
+        "Sam Eagle"
+      ],
+      "album": "The Confluence LP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
+      "url": "https://open.spotify.com/track/5FK5uqYnTZqROlT25VkUtN",
+      "durationMs": 251106,
+      "playedAt": "2026-09-19T00:30:06.460Z"
+    },
+    {
+      "name": "Open Up",
+      "artists": [
+        "Dele Sosimi",
+        "The Estuary 21",
+        "Snowboy",
+        "Sam Eagle"
+      ],
+      "album": "The Confluence LP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
+      "url": "https://open.spotify.com/track/5FK5uqYnTZqROlT25VkUtN",
+      "durationMs": 251106,
+      "playedAt": "2026-09-18T22:51:18.895Z"
+    },
     {
       "name": "Ẹ Si M'ẹ̀dọ̀",
       "artists": [
@@ -38,88 +126,6 @@
       "url": "https://open.spotify.com/track/0xkqDInGXHwe7j77lymxiR",
       "durationMs": 218053,
       "playedAt": "2026-09-18T22:43:15.810Z"
-    },
-    {
-      "name": "For the Love of It",
-      "artists": [
-        "Dele Sosimi",
-        "The Estuary 21"
-      ],
-      "album": "The Confluence LP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
-      "url": "https://open.spotify.com/track/7kiUmKt8i4ygomR7US8caq",
-      "durationMs": 289360,
-      "playedAt": "2026-09-18T22:39:37.444Z"
-    },
-    {
-      "name": "Mo Se B'ólá tán",
-      "artists": [
-        "Dele Sosimi",
-        "The Estuary 21",
-        "Get Cape. Wear Cape. Fly"
-      ],
-      "album": "The Confluence LP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
-      "url": "https://open.spotify.com/track/3FOchc8aXJPCYc1ybT2EK2",
-      "durationMs": 209626,
-      "playedAt": "2026-09-18T22:34:48.123Z"
-    },
-    {
-      "name": "Ride out the Storm",
-      "artists": [
-        "Dele Sosimi",
-        "The Estuary 21",
-        "Get Cape. Wear Cape. Fly"
-      ],
-      "album": "The Confluence LP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
-      "url": "https://open.spotify.com/track/1Hx4BfEyycVEn6diIa2LLS",
-      "durationMs": 171000,
-      "playedAt": "2026-09-18T22:31:18.535Z"
-    },
-    {
-      "name": "Chunky",
-      "artists": [
-        "Bruno Mars"
-      ],
-      "album": "24K Magic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273232711f7d66a1e19e89e28c5",
-      "url": "https://open.spotify.com/track/0mBKv9DkYfQHjdMcw2jdyI",
-      "durationMs": 186973,
-      "playedAt": "2026-09-18T21:49:57.481Z"
-    },
-    {
-      "name": "For Once In My Life",
-      "artists": [
-        "Stevie Wonder"
-      ],
-      "album": "For Once In My Life",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734629fe1633a7d9460fe1e28b",
-      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK",
-      "durationMs": 169800,
-      "playedAt": "2026-09-18T21:46:53.576Z"
-    },
-    {
-      "name": "You Make My Dreams (Come True)",
-      "artists": [
-        "Daryl Hall & John Oates"
-      ],
-      "album": "Voices",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fe1a9aa59e3c6189a09ae37a",
-      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk",
-      "durationMs": 190626,
-      "playedAt": "2026-09-18T21:44:06.735Z"
-    },
-    {
-      "name": "Nothing You Can Do",
-      "artists": [
-        "Rapallo"
-      ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/6PZyuI35ZZrbAW3bo9RAgG",
-      "durationMs": 222591,
-      "playedAt": "2026-09-18T21:19:51.975Z"
     }
   ],
   "topArtists": [
