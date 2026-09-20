@@ -1,127 +1,127 @@
 {
-  "updatedAt": "2026-09-20T13:57:35.394Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-20T17:20:13.123Z",
+  "nowPlaying": {
+    "name": "Tammie",
+    "artists": [
+      "Richard Coombs"
+    ],
+    "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
+    "url": "https://open.spotify.com/track/5iPa0vO1TQES4eTlvaP7Pj",
+    "durationMs": 156628,
+    "isPlaying": true,
+    "progressMs": 86249
+  },
   "recentlyPlayed": [
     {
-      "name": "Solen i maj (feat. Lisa Nilsson)",
+      "name": "I can Deal with that",
       "artists": [
-        "Svante Thuresson",
-        "Lisa Nilsson"
+        "Dee Edwards"
       ],
-      "album": "Svante Thuresson & Vänner",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739523e8f0cf6815182d972e58",
-      "url": "https://open.spotify.com/track/0IzOW3ADcXc9ZYiO2YF0Nl",
-      "durationMs": 218760,
-      "playedAt": "2026-09-20T04:20:54.852Z"
+      "album": "Rare Sweet & Soul 29",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273105b2b4692227fc2b8d63b5d",
+      "url": "https://open.spotify.com/track/6cKUIkcIgZMk75ytjVBhV1",
+      "durationMs": 197786,
+      "playedAt": "2026-09-20T17:18:50.428Z"
     },
     {
-      "name": "Rossignol",
+      "name": "Tobacco Road",
       "artists": [
-        "Bjarke Falgren"
+        "Tommy Youngblood"
       ],
-      "album": "Turkis",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fad3cd2f0e46a025971acb8f",
-      "url": "https://open.spotify.com/track/5c9ukFiRWjZ9QSb6d8Rbey",
-      "durationMs": 275366,
-      "playedAt": "2026-09-20T04:17:19.058Z"
+      "album": "Pounds of Soul",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a69c3fb0d77e5cc74c44fd56",
+      "url": "https://open.spotify.com/track/3gGakpMSFq7bISyeaq4cti",
+      "durationMs": 160746,
+      "playedAt": "2026-09-20T17:15:16.069Z"
     },
     {
-      "name": "Ska vi leva loppan",
+      "name": "How Can You Say It",
       "artists": [
-        "Amanda Ginsburg",
-        "Filip Ekestubbe",
-        "Snorre Kirk",
-        "Anders Fjeldsted"
+        "Gloria Ann Taylor"
       ],
-      "album": "Tur att jag kan skratta",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ce4e0e88881e14490296a156",
-      "url": "https://open.spotify.com/track/5qVC7Cg4UUpJFYkXv1KXGd",
-      "durationMs": 190840,
-      "playedAt": "2026-09-20T04:12:46.770Z"
+      "album": "Love is a Hurtin' Thing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732723cee10ab339f95340d870",
+      "url": "https://open.spotify.com/track/3u3ICebOfnF9P5mkViZOOX",
+      "durationMs": 172973,
+      "playedAt": "2026-09-20T17:12:38.368Z"
     },
     {
-      "name": "Jag har också haft en mor",
+      "name": "I Cry",
       "artists": [
-        "Jan Johansson",
-        "Svend Asmussen"
+        "Millie Jackson"
       ],
-      "album": "Jazz på ungerska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27305edb25151d65ed777053bfc",
-      "url": "https://open.spotify.com/track/4fSH0Zm4qmTmeosvuYe6wg",
-      "durationMs": 157306,
-      "playedAt": "2026-09-20T04:09:38.864Z"
+      "album": "It Hurts so Good",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379adfff935fa0a3a09e560e9",
+      "url": "https://open.spotify.com/track/2bnouulS681Qyh562IroF4",
+      "durationMs": 255293,
+      "playedAt": "2026-09-20T17:09:47.279Z"
     },
     {
-      "name": "God afton allesammans",
+      "name": "Away With You",
       "artists": [
-        "Jan Johansson",
-        "Svend Asmussen"
+        "Carolynn Porter"
       ],
-      "album": "Jazz på ungerska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27305edb25151d65ed777053bfc",
-      "url": "https://open.spotify.com/track/01lhzshoOcQgStZVQNq0b5",
-      "durationMs": 294760,
-      "playedAt": "2026-09-20T04:07:01.555Z"
+      "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
+      "url": "https://open.spotify.com/track/5IVHPZ1nhVGNgnULaTEQkq",
+      "durationMs": 171698,
+      "playedAt": "2026-09-20T17:05:34.969Z"
     },
     {
-      "name": "Den gamla kyrkklockan",
+      "name": "Misdemeanor",
       "artists": [
-        "Jan Johansson",
-        "Svend Asmussen"
+        "Foster Sylvers"
       ],
-      "album": "Jazz på ungerska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27305edb25151d65ed777053bfc",
-      "url": "https://open.spotify.com/track/6LBJbVSB5Jt0oET2G90VqH",
-      "durationMs": 230973,
-      "playedAt": "2026-09-20T04:02:06.801Z"
+      "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
+      "url": "https://open.spotify.com/track/3ybK9y0AMkf7LSR3TZYLNT",
+      "durationMs": 150993,
+      "playedAt": "2026-09-20T17:02:43.373Z"
     },
     {
-      "name": "Bara en flicka",
+      "name": "Sounds Ridiculous",
       "artists": [
-        "Jan Johansson",
-        "Svend Asmussen"
+        "Alice Taylor"
       ],
-      "album": "Jazz på ungerska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27305edb25151d65ed777053bfc",
-      "url": "https://open.spotify.com/track/5UcXobCBNPto8m6qPEmdvR",
-      "durationMs": 191493,
-      "playedAt": "2026-09-20T03:58:15.845Z"
+      "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
+      "url": "https://open.spotify.com/track/0a1It8PTOxCvyyOnBCJeAK",
+      "durationMs": 218080,
+      "playedAt": "2026-09-20T17:00:11.412Z"
     },
     {
-      "name": "Det vore synd att dö än",
+      "name": "I Love the Way You Love",
       "artists": [
-        "Jan Johansson",
-        "Svend Asmussen"
+        "Little Beaver"
       ],
-      "album": "Jazz på ungerska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27305edb25151d65ed777053bfc",
-      "url": "https://open.spotify.com/track/2oyi4uEsKg2Fn101SJQIfo",
-      "durationMs": 312573,
-      "playedAt": "2026-09-20T03:55:04.352Z"
+      "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
+      "url": "https://open.spotify.com/track/6JxFtbkLLDa277TR240f0B",
+      "durationMs": 190530,
+      "playedAt": "2026-09-20T16:56:33.406Z"
     },
     {
-      "name": "På Balatons vågor",
+      "name": "A Fool Can't See the Light",
       "artists": [
-        "Jan Johansson",
-        "Svend Asmussen"
+        "O.V. Wright"
       ],
-      "album": "Jazz på ungerska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27305edb25151d65ed777053bfc",
-      "url": "https://open.spotify.com/track/3DTueiVphp7fAKuateg4NR",
-      "durationMs": 464893,
-      "playedAt": "2026-09-20T03:49:51.768Z"
+      "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
+      "url": "https://open.spotify.com/track/15ru9r8GfAHkiPixK9mIBu",
+      "durationMs": 164417,
+      "playedAt": "2026-09-20T16:53:22.811Z"
     },
     {
-      "name": "Liten brunett",
+      "name": "Casanova 70",
       "artists": [
-        "Jan Johansson",
-        "Svend Asmussen"
+        "Ruby Andrews"
       ],
-      "album": "Jazz på ungerska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27305edb25151d65ed777053bfc",
-      "url": "https://open.spotify.com/track/4Ziqr68U9DppntYShYt4Fi",
-      "durationMs": 392666,
-      "playedAt": "2026-09-20T03:42:06.906Z"
+      "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
+      "url": "https://open.spotify.com/track/65rArfntJfe7yA9cf9k5VS",
+      "durationMs": 313334,
+      "playedAt": "2026-09-20T16:50:38.406Z"
     }
   ],
   "topArtists": [
@@ -206,6 +206,16 @@
       "durationMs": 45640
     },
     {
+      "name": "Here I Go Again",
+      "artists": [
+        "Jean Plum"
+      ],
+      "album": "Jean Plum: The Hi Recordings",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f1829d8cf3efbd0500eaa58",
+      "url": "https://open.spotify.com/track/5Xsq9miBRyrcgqtrpcIna3",
+      "durationMs": 148560
+    },
+    {
       "name": "Stepp, min stepp",
       "artists": [
         "Jan Johansson"
@@ -235,16 +245,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
       "url": "https://open.spotify.com/track/2D4JZUIZVJVzZz9gpYaiO9",
       "durationMs": 81800
-    },
-    {
-      "name": "Here I Go Again",
-      "artists": [
-        "Jean Plum"
-      ],
-      "album": "Jean Plum: The Hi Recordings",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f1829d8cf3efbd0500eaa58",
-      "url": "https://open.spotify.com/track/5Xsq9miBRyrcgqtrpcIna3",
-      "durationMs": 148560
     },
     {
       "name": "Visa från Utanmyra",
