@@ -1,131 +1,127 @@
 {
-  "updatedAt": "2026-09-20T00:13:38.910Z",
+  "updatedAt": "2026-09-20T05:09:50.976Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Love and Death",
+      "name": "Solen i maj (feat. Lisa Nilsson)",
       "artists": [
-        "Ebo Taylor"
+        "Svante Thuresson",
+        "Lisa Nilsson"
       ],
-      "album": "Love & Death",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273644a2026e6721e7ff3efcb27",
-      "url": "https://open.spotify.com/track/2EdcEOJf2V8xMOTO7q2gCN",
-      "durationMs": 415090,
-      "playedAt": "2026-09-19T00:51:36.454Z"
+      "album": "Svante Thuresson & Vänner",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739523e8f0cf6815182d972e58",
+      "url": "https://open.spotify.com/track/0IzOW3ADcXc9ZYiO2YF0Nl",
+      "durationMs": 218760,
+      "playedAt": "2026-09-20T04:20:54.852Z"
     },
     {
-      "name": "Stories",
+      "name": "Rossignol",
       "artists": [
-        "Dele Sosimi",
-        "The Estuary 21",
-        "Get Cape. Wear Cape. Fly"
+        "Bjarke Falgren"
       ],
-      "album": "The Confluence LP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
-      "url": "https://open.spotify.com/track/7tE2oZezePnRN9MKvMk1bu",
-      "durationMs": 218986,
-      "playedAt": "2026-09-19T00:44:44.353Z"
+      "album": "Turkis",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fad3cd2f0e46a025971acb8f",
+      "url": "https://open.spotify.com/track/5c9ukFiRWjZ9QSb6d8Rbey",
+      "durationMs": 275366,
+      "playedAt": "2026-09-20T04:17:19.058Z"
     },
     {
-      "name": "Alágbára Má Mè Rò",
+      "name": "Ska vi leva loppan",
       "artists": [
-        "Dele Sosimi",
-        "The Estuary 21"
+        "Amanda Ginsburg",
+        "Filip Ekestubbe",
+        "Snorre Kirk",
+        "Anders Fjeldsted"
       ],
-      "album": "The Confluence LP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
-      "url": "https://open.spotify.com/track/15YIYfo2rLlVZpOPCIjjUV",
-      "durationMs": 229840,
-      "playedAt": "2026-09-19T00:41:05.367Z"
+      "album": "Tur att jag kan skratta",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ce4e0e88881e14490296a156",
+      "url": "https://open.spotify.com/track/5qVC7Cg4UUpJFYkXv1KXGd",
+      "durationMs": 190840,
+      "playedAt": "2026-09-20T04:12:46.770Z"
     },
     {
-      "name": "The Rumblings",
+      "name": "Jag har också haft en mor",
       "artists": [
-        "Dele Sosimi",
-        "The Estuary 21"
+        "Jan Johansson",
+        "Svend Asmussen"
       ],
-      "album": "The Confluence LP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
-      "url": "https://open.spotify.com/track/0kqb4cWJIQfytWeiFbHWft",
-      "durationMs": 214933,
-      "playedAt": "2026-09-19T00:37:15.557Z"
+      "album": "Jazz på ungerska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27305edb25151d65ed777053bfc",
+      "url": "https://open.spotify.com/track/4fSH0Zm4qmTmeosvuYe6wg",
+      "durationMs": 157306,
+      "playedAt": "2026-09-20T04:09:38.864Z"
     },
     {
-      "name": "Òtító Ti Jáde",
+      "name": "God afton allesammans",
       "artists": [
-        "Dele Sosimi",
-        "The Estuary 21"
+        "Jan Johansson",
+        "Svend Asmussen"
       ],
-      "album": "The Confluence LP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
-      "url": "https://open.spotify.com/track/4AlC1oRpBkjbfTYmCk84Y1",
-      "durationMs": 214173,
-      "playedAt": "2026-09-19T00:33:40.626Z"
+      "album": "Jazz på ungerska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27305edb25151d65ed777053bfc",
+      "url": "https://open.spotify.com/track/01lhzshoOcQgStZVQNq0b5",
+      "durationMs": 294760,
+      "playedAt": "2026-09-20T04:07:01.555Z"
     },
     {
-      "name": "Open Up",
+      "name": "Den gamla kyrkklockan",
       "artists": [
-        "Dele Sosimi",
-        "The Estuary 21",
-        "Snowboy",
-        "Sam Eagle"
+        "Jan Johansson",
+        "Svend Asmussen"
       ],
-      "album": "The Confluence LP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
-      "url": "https://open.spotify.com/track/5FK5uqYnTZqROlT25VkUtN",
-      "durationMs": 251106,
-      "playedAt": "2026-09-19T00:30:06.460Z"
+      "album": "Jazz på ungerska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27305edb25151d65ed777053bfc",
+      "url": "https://open.spotify.com/track/6LBJbVSB5Jt0oET2G90VqH",
+      "durationMs": 230973,
+      "playedAt": "2026-09-20T04:02:06.801Z"
     },
     {
-      "name": "Open Up",
+      "name": "Bara en flicka",
       "artists": [
-        "Dele Sosimi",
-        "The Estuary 21",
-        "Snowboy",
-        "Sam Eagle"
+        "Jan Johansson",
+        "Svend Asmussen"
       ],
-      "album": "The Confluence LP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
-      "url": "https://open.spotify.com/track/5FK5uqYnTZqROlT25VkUtN",
-      "durationMs": 251106,
-      "playedAt": "2026-09-18T22:51:18.895Z"
+      "album": "Jazz på ungerska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27305edb25151d65ed777053bfc",
+      "url": "https://open.spotify.com/track/5UcXobCBNPto8m6qPEmdvR",
+      "durationMs": 191493,
+      "playedAt": "2026-09-20T03:58:15.845Z"
     },
     {
-      "name": "Ẹ Si M'ẹ̀dọ̀",
+      "name": "Det vore synd att dö än",
       "artists": [
-        "Dele Sosimi",
-        "The Estuary 21",
-        "Lizzy Dosunmu"
+        "Jan Johansson",
+        "Svend Asmussen"
       ],
-      "album": "The Confluence LP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
-      "url": "https://open.spotify.com/track/1oDGJr9sB0krMrTgx36V0T",
-      "durationMs": 181333,
-      "playedAt": "2026-09-18T22:50:32.611Z"
+      "album": "Jazz på ungerska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27305edb25151d65ed777053bfc",
+      "url": "https://open.spotify.com/track/2oyi4uEsKg2Fn101SJQIfo",
+      "durationMs": 312573,
+      "playedAt": "2026-09-20T03:55:04.352Z"
     },
     {
-      "name": "You Don't Have To",
+      "name": "På Balatons vågor",
       "artists": [
-        "Dele Sosimi",
-        "The Estuary 21"
+        "Jan Johansson",
+        "Svend Asmussen"
       ],
-      "album": "The Confluence LP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
-      "url": "https://open.spotify.com/track/4YG1fa0VYbxLDn4hHhjlA5",
-      "durationMs": 255466,
-      "playedAt": "2026-09-18T22:47:31.306Z"
+      "album": "Jazz på ungerska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27305edb25151d65ed777053bfc",
+      "url": "https://open.spotify.com/track/3DTueiVphp7fAKuateg4NR",
+      "durationMs": 464893,
+      "playedAt": "2026-09-20T03:49:51.768Z"
     },
     {
-      "name": "Orí Mi",
+      "name": "Liten brunett",
       "artists": [
-        "Dele Sosimi",
-        "The Estuary 21"
+        "Jan Johansson",
+        "Svend Asmussen"
       ],
-      "album": "The Confluence LP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736adc9e80297e408f6e9c14a3",
-      "url": "https://open.spotify.com/track/0xkqDInGXHwe7j77lymxiR",
-      "durationMs": 218053,
-      "playedAt": "2026-09-18T22:43:15.810Z"
+      "album": "Jazz på ungerska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27305edb25151d65ed777053bfc",
+      "url": "https://open.spotify.com/track/4Ziqr68U9DppntYShYt4Fi",
+      "durationMs": 392666,
+      "playedAt": "2026-09-20T03:42:06.906Z"
     }
   ],
   "topArtists": [
@@ -136,27 +132,21 @@
       "genres": []
     },
     {
-      "name": "Jazzinuf",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
-      "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
-    },
-    {
       "name": "Norah Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
       "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
       "genres": []
     },
     {
-      "name": "Rapallo",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
-      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
+      "name": "Jazzinuf",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
+      "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
       "genres": []
     },
     {
-      "name": "Fleetwood Mac",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebc8752dd511cda8c31e9daee8",
-      "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X",
+      "name": "Rapallo",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
+      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
       "genres": []
     },
     {
@@ -175,6 +165,12 @@
       "name": "Frank Ocean",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
       "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
+      "genres": []
+    },
+    {
+      "name": "The Delfonics",
+      "imageUrl": "https://i.scdn.co/image/c923d6436c698e5847c2ef79af5b2cbdfab8aaf8",
+      "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4",
       "genres": []
     }
   ],
@@ -210,16 +206,6 @@
       "durationMs": 45640
     },
     {
-      "name": "Visa från Utanmyra",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
-      "durationMs": 273800
-    },
-    {
       "name": "Stepp, min stepp",
       "artists": [
         "Jan Johansson"
@@ -241,17 +227,6 @@
       "durationMs": 262306
     },
     {
-      "name": "Soul Mates",
-      "artists": [
-        "Jazzinuf",
-        "Etymology Records"
-      ],
-      "album": "Soul Mates",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736d61a0286817cd75d35eb67e",
-      "url": "https://open.spotify.com/track/7pFRhCj70NUNZG4xMDEQj8",
-      "durationMs": 96343
-    },
-    {
       "name": "Interlude",
       "artists": [
         "JAŸ-Z"
@@ -260,6 +235,26 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
       "url": "https://open.spotify.com/track/2D4JZUIZVJVzZz9gpYaiO9",
       "durationMs": 81800
+    },
+    {
+      "name": "Here I Go Again",
+      "artists": [
+        "Jean Plum"
+      ],
+      "album": "Jean Plum: The Hi Recordings",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f1829d8cf3efbd0500eaa58",
+      "url": "https://open.spotify.com/track/5Xsq9miBRyrcgqtrpcIna3",
+      "durationMs": 148560
+    },
+    {
+      "name": "Visa från Utanmyra",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800
     }
   ],
   "featuredPlaylists": []
