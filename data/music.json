@@ -1,127 +1,116 @@
 {
-  "updatedAt": "2026-09-20T17:20:13.123Z",
-  "nowPlaying": {
-    "name": "Tammie",
-    "artists": [
-      "Richard Coombs"
-    ],
-    "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
-    "url": "https://open.spotify.com/track/5iPa0vO1TQES4eTlvaP7Pj",
-    "durationMs": 156628,
-    "isPlaying": true,
-    "progressMs": 86249
-  },
+  "updatedAt": "2026-09-20T19:37:06.099Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "I can Deal with that",
+      "name": "Get With the Program",
       "artists": [
-        "Dee Edwards"
+        "Doug Shorts"
       ],
-      "album": "Rare Sweet & Soul 29",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273105b2b4692227fc2b8d63b5d",
-      "url": "https://open.spotify.com/track/6cKUIkcIgZMk75ytjVBhV1",
-      "durationMs": 197786,
-      "playedAt": "2026-09-20T17:18:50.428Z"
+      "album": "Casual Encounter",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27382d50a92a2ec597d352c9954",
+      "url": "https://open.spotify.com/track/5cBxucOGjpLyQkjsZaiBaY",
+      "durationMs": 245280,
+      "playedAt": "2026-09-20T18:25:18.202Z"
     },
     {
-      "name": "Tobacco Road",
+      "name": "Blind Alley",
       "artists": [
-        "Tommy Youngblood"
+        "The Emotions"
       ],
-      "album": "Pounds of Soul",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a69c3fb0d77e5cc74c44fd56",
-      "url": "https://open.spotify.com/track/3gGakpMSFq7bISyeaq4cti",
-      "durationMs": 160746,
-      "playedAt": "2026-09-20T17:15:16.069Z"
+      "album": "So I Can Love You / Untouched",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27354905e62641f8c8f4c80d1ec",
+      "url": "https://open.spotify.com/track/5Gq3FcDnESp5UWmnATqEX1",
+      "durationMs": 184133,
+      "playedAt": "2026-09-20T18:20:41.756Z"
     },
     {
-      "name": "How Can You Say It",
-      "artists": [
-        "Gloria Ann Taylor"
-      ],
-      "album": "Love is a Hurtin' Thing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732723cee10ab339f95340d870",
-      "url": "https://open.spotify.com/track/3u3ICebOfnF9P5mkViZOOX",
-      "durationMs": 172973,
-      "playedAt": "2026-09-20T17:12:38.368Z"
-    },
-    {
-      "name": "I Cry",
-      "artists": [
-        "Millie Jackson"
-      ],
-      "album": "It Hurts so Good",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379adfff935fa0a3a09e560e9",
-      "url": "https://open.spotify.com/track/2bnouulS681Qyh562IroF4",
-      "durationMs": 255293,
-      "playedAt": "2026-09-20T17:09:47.279Z"
-    },
-    {
-      "name": "Away With You",
-      "artists": [
-        "Carolynn Porter"
-      ],
-      "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
-      "url": "https://open.spotify.com/track/5IVHPZ1nhVGNgnULaTEQkq",
-      "durationMs": 171698,
-      "playedAt": "2026-09-20T17:05:34.969Z"
-    },
-    {
-      "name": "Misdemeanor",
-      "artists": [
-        "Foster Sylvers"
-      ],
-      "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
-      "url": "https://open.spotify.com/track/3ybK9y0AMkf7LSR3TZYLNT",
-      "durationMs": 150993,
-      "playedAt": "2026-09-20T17:02:43.373Z"
-    },
-    {
-      "name": "Sounds Ridiculous",
-      "artists": [
-        "Alice Taylor"
-      ],
-      "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
-      "url": "https://open.spotify.com/track/0a1It8PTOxCvyyOnBCJeAK",
-      "durationMs": 218080,
-      "playedAt": "2026-09-20T17:00:11.412Z"
-    },
-    {
-      "name": "I Love the Way You Love",
+      "name": "Groove On",
       "artists": [
         "Little Beaver"
       ],
-      "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
-      "url": "https://open.spotify.com/track/6JxFtbkLLDa277TR240f0B",
-      "durationMs": 190530,
-      "playedAt": "2026-09-20T16:56:33.406Z"
+      "album": "The Very Best Of Little Beaver",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27362b030931de4f0b088fd3983",
+      "url": "https://open.spotify.com/track/6YtNPG8oFTTFcMP0urQ8tw",
+      "durationMs": 460453,
+      "playedAt": "2026-09-20T18:17:40.657Z"
     },
     {
-      "name": "A Fool Can't See the Light",
+      "name": "Can't Live Without You (2019 Remaster)",
+      "artists": [
+        "Connie Laverne"
+      ],
+      "album": "Can't Live Without You (2019 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea168a75d5d977dc6b90cdc9",
+      "url": "https://open.spotify.com/track/4U70lxlWlRCR6VQw6VSG6p",
+      "durationMs": 161322,
+      "playedAt": "2026-09-20T18:10:02.655Z"
+    },
+    {
+      "name": "Try Love Again",
+      "artists": [
+        "The Natural Four"
+      ],
+      "album": "The Natural Four",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a6dfdb2184938b9bc5e1eb97",
+      "url": "https://open.spotify.com/track/2tDQsXQCvipwjrsJMf4ZDf",
+      "durationMs": 265040,
+      "playedAt": "2026-09-20T18:07:24.352Z"
+    },
+    {
+      "name": "Let's Straighten It Out",
       "artists": [
         "O.V. Wright"
       ],
-      "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
-      "url": "https://open.spotify.com/track/15ru9r8GfAHkiPixK9mIBu",
-      "durationMs": 164417,
-      "playedAt": "2026-09-20T16:53:22.811Z"
+      "album": "The Bottom Line",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273430508514505f0e6b27c5512",
+      "url": "https://open.spotify.com/track/12n47FuVsiUGug0xkiGkSc",
+      "durationMs": 232093,
+      "playedAt": "2026-09-20T18:03:02.362Z"
     },
     {
-      "name": "Casanova 70",
+      "name": "I'm So In Love With You",
       "artists": [
-        "Ruby Andrews"
+        "Wizdom"
       ],
-      "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
-      "url": "https://open.spotify.com/track/65rArfntJfe7yA9cf9k5VS",
-      "durationMs": 313334,
-      "playedAt": "2026-09-20T16:50:38.406Z"
+      "album": "Miami Funk, Vol. 4",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394d850c983d06c490d922c6c",
+      "url": "https://open.spotify.com/track/3h8yvoKcRHIriwhekJYz1j",
+      "durationMs": 202885,
+      "playedAt": "2026-09-20T17:59:13.255Z"
+    },
+    {
+      "name": "Mysterious Vibes",
+      "artists": [
+        "The Blackbyrds"
+      ],
+      "album": "Action",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738fecbb709e781bb8fafc09ed",
+      "url": "https://open.spotify.com/track/6lqYjlQyDzNWE0MGc78b4c",
+      "durationMs": 290066,
+      "playedAt": "2026-09-20T17:55:53.403Z"
+    },
+    {
+      "name": "I'm Losin' the Feelin",
+      "artists": [
+        "Little Beaver"
+      ],
+      "album": "Joey",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738ed3301d4e07ec13eca3df2b",
+      "url": "https://open.spotify.com/track/3erQDhmQPAjtmf7FsfZlQJ",
+      "durationMs": 198819,
+      "playedAt": "2026-09-20T17:51:06.377Z"
+    },
+    {
+      "name": "Sunshine (You're Blowin' My Cool)",
+      "artists": [
+        "Saun & Starr"
+      ],
+      "album": "Look Closer",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394a30a193afcd228a72e3e4c",
+      "url": "https://open.spotify.com/track/4GHBxyO17mbsqF2VChpIeC",
+      "durationMs": 242906,
+      "playedAt": "2026-09-20T17:47:50.582Z"
     }
   ],
   "topArtists": [
