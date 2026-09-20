@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-20T19:37:06.099Z",
+  "updatedAt": "2026-09-20T22:09:08.227Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Out to Get'cha",
+      "artists": [
+        "Latimore"
+      ],
+      "album": "Dig a Little Deeper",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736b06d56b40043cd1bc77c076",
+      "url": "https://open.spotify.com/track/1QoKxsyxZSdOyep7vYYe2y",
+      "durationMs": 320229,
+      "playedAt": "2026-09-20T21:18:52.682Z"
+    },
     {
       "name": "Get With the Program",
       "artists": [
@@ -100,17 +111,6 @@
       "url": "https://open.spotify.com/track/3erQDhmQPAjtmf7FsfZlQJ",
       "durationMs": 198819,
       "playedAt": "2026-09-20T17:51:06.377Z"
-    },
-    {
-      "name": "Sunshine (You're Blowin' My Cool)",
-      "artists": [
-        "Saun & Starr"
-      ],
-      "album": "Look Closer",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394a30a193afcd228a72e3e4c",
-      "url": "https://open.spotify.com/track/4GHBxyO17mbsqF2VChpIeC",
-      "durationMs": 242906,
-      "playedAt": "2026-09-20T17:47:50.582Z"
     }
   ],
   "topArtists": [
