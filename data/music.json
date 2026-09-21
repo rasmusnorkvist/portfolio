@@ -1,117 +1,117 @@
 {
-  "updatedAt": "2026-09-21T00:23:05.348Z",
+  "updatedAt": "2026-09-21T05:14:46.214Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Set The World On Fire - 7\" Version",
+      "name": "Never Too Late",
       "artists": [
-        "E-Type"
+        "Nat Turner Rebellion"
       ],
-      "album": "Made In Sweden",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
-      "url": "https://open.spotify.com/track/67rBycpa8FTFJkQwP5FzP1",
-      "durationMs": 224506,
-      "playedAt": "2026-09-20T22:44:01.690Z"
+      "album": "Laugh To Keep From Crying",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735356ff110f7af9fd8a2ac0f6",
+      "url": "https://open.spotify.com/track/6UmyFEmXBEFxrrpoz8rIM1",
+      "durationMs": 208190,
+      "playedAt": "2026-09-21T02:22:43.696Z"
     },
     {
-      "name": "Here I Go Again",
+      "name": "Strung Out Over You",
       "artists": [
-        "E-Type"
+        "Mavis Staples",
+        "William Bell"
       ],
-      "album": "Last Man Standing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
-      "url": "https://open.spotify.com/track/3BCEmscmbx9dhPH76Ipc7R",
-      "durationMs": 233666,
-      "playedAt": "2026-09-20T22:40:20.187Z"
+      "album": "Boy Meets Girl: Classic Stax Duets",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cd715a424034f1abb73d5a10",
+      "url": "https://open.spotify.com/track/12zVxZVOmlS2rwCnHdRtxz",
+      "durationMs": 190893,
+      "playedAt": "2026-09-21T02:19:18.549Z"
     },
     {
-      "name": "True Believer",
+      "name": "For Your Love",
       "artists": [
-        "E-Type"
+        "Gwen McCrae"
       ],
-      "album": "Eurotopia",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27300c05bac4b1bf65b7fbf42d7",
-      "url": "https://open.spotify.com/track/1nThB5NAb6HgmmtxB1ANel",
-      "durationMs": 220960,
-      "playedAt": "2026-09-20T22:36:29.580Z"
+      "album": "For Your Love",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cf06b1f06243c9384d1babba",
+      "url": "https://open.spotify.com/track/1zhpvDoP6unU2PmMfMK3wC",
+      "durationMs": 170945,
+      "playedAt": "2026-09-21T02:16:10.649Z"
     },
     {
-      "name": "This Is The Way - Radio Edit",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Made In Sweden",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330202dfe915d64ee1dab94b6",
-      "url": "https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo",
-      "durationMs": 235293,
-      "playedAt": "2026-09-20T22:32:51.579Z"
-    },
-    {
-      "name": "Angels Crying",
-      "artists": [
-        "E-Type"
-      ],
-      "album": "Last Man Standing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373de40b8fd07669e5d6930cb",
-      "url": "https://open.spotify.com/track/5E5iD6wpxcBw6J9VemdWGd",
-      "durationMs": 230440,
-      "playedAt": "2026-09-20T22:28:59.279Z"
-    },
-    {
-      "name": "Life",
-      "artists": [
-        "E-Type",
-        "Nana Hedin"
-      ],
-      "album": "Euro IV Ever",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c89626b8b2a51e1383a86efd",
-      "url": "https://open.spotify.com/track/41Ef0PikCCRBcIM8O0t5HK",
-      "durationMs": 222040,
-      "playedAt": "2026-09-20T22:25:11.884Z"
-    },
-    {
-      "name": "Out to Get'cha",
-      "artists": [
-        "Latimore"
-      ],
-      "album": "Dig a Little Deeper",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736b06d56b40043cd1bc77c076",
-      "url": "https://open.spotify.com/track/1QoKxsyxZSdOyep7vYYe2y",
-      "durationMs": 320229,
-      "playedAt": "2026-09-20T21:18:52.682Z"
-    },
-    {
-      "name": "Get With the Program",
-      "artists": [
-        "Doug Shorts"
-      ],
-      "album": "Casual Encounter",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27382d50a92a2ec597d352c9954",
-      "url": "https://open.spotify.com/track/5cBxucOGjpLyQkjsZaiBaY",
-      "durationMs": 245280,
-      "playedAt": "2026-09-20T18:25:18.202Z"
-    },
-    {
-      "name": "Blind Alley",
-      "artists": [
-        "The Emotions"
-      ],
-      "album": "So I Can Love You / Untouched",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27354905e62641f8c8f4c80d1ec",
-      "url": "https://open.spotify.com/track/5Gq3FcDnESp5UWmnATqEX1",
-      "durationMs": 184133,
-      "playedAt": "2026-09-20T18:20:41.756Z"
-    },
-    {
-      "name": "Groove On",
+      "name": "I Can Dig It Baby",
       "artists": [
         "Little Beaver"
       ],
-      "album": "The Very Best Of Little Beaver",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27362b030931de4f0b088fd3983",
-      "url": "https://open.spotify.com/track/6YtNPG8oFTTFcMP0urQ8tw",
-      "durationMs": 460453,
-      "playedAt": "2026-09-20T18:17:40.657Z"
+      "album": "Party Down",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a241c794cc2088ebdb2483ab",
+      "url": "https://open.spotify.com/track/0GPDPJ5vqAV9aowOt82hng",
+      "durationMs": 353200,
+      "playedAt": "2026-09-21T02:13:22.749Z"
+    },
+    {
+      "name": "I've Been Searching",
+      "artists": [
+        "O.V. Wright"
+      ],
+      "album": "Memphis Unlimited",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737b12715c9215912c0b7d40da",
+      "url": "https://open.spotify.com/track/7tXig7INhCzYHXJuT8VLiw",
+      "durationMs": 159040,
+      "playedAt": "2026-09-21T02:07:32.553Z"
+    },
+    {
+      "name": "I Forgot To Be Your Lover",
+      "artists": [
+        "William Bell"
+      ],
+      "album": "The Best Of William Bell",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27353fbbaa939812aaa4466fda4",
+      "url": "https://open.spotify.com/track/3PLKsooF2oGUBdGzblvOlI",
+      "durationMs": 138960,
+      "playedAt": "2026-09-21T02:04:56.550Z"
+    },
+    {
+      "name": "I Hear the Love Chimes",
+      "artists": [
+        "Syl Johnson"
+      ],
+      "album": "Diamond in the Rough",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0d79bac0ce07d20ad2ad0a",
+      "url": "https://open.spotify.com/track/2k5Boo1pEuIiMA88NxGA8V",
+      "durationMs": 164333,
+      "playedAt": "2026-09-21T02:02:40.548Z"
+    },
+    {
+      "name": "You're so Good to Me",
+      "artists": [
+        "Curtis Mayfield"
+      ],
+      "album": "Heartbeat",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27315c4319f560eba50413ce90f",
+      "url": "https://open.spotify.com/track/6Kp8JhZVCmL20H8Wd7Rs2E",
+      "durationMs": 414826,
+      "playedAt": "2026-09-21T01:59:59.227Z"
+    },
+    {
+      "name": "I Can Only Think of You",
+      "artists": [
+        "Gwen McCrae"
+      ],
+      "album": "Melody of Life",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4801bb9402e834553ddc60f",
+      "url": "https://open.spotify.com/track/59mNzQb5nXO0TP4op7rXid",
+      "durationMs": 318692,
+      "playedAt": "2026-09-21T01:53:07.447Z"
+    },
+    {
+      "name": "Do Right Man",
+      "artists": [
+        "Little Beaver"
+      ],
+      "album": "Katie Pearl",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735aa9c2e5d9c71fbe12caec67",
+      "url": "https://open.spotify.com/track/5F0Qp8qxtvkuXjB9LZSonu",
+      "durationMs": 174866,
+      "playedAt": "2026-09-21T01:47:51.746Z"
     }
   ],
   "topArtists": [
@@ -176,6 +176,16 @@
       "durationMs": 203364
     },
     {
+      "name": "Here I Go Again",
+      "artists": [
+        "Jean Plum"
+      ],
+      "album": "Jean Plum: The Hi Recordings",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f1829d8cf3efbd0500eaa58",
+      "url": "https://open.spotify.com/track/5Xsq9miBRyrcgqtrpcIna3",
+      "durationMs": 148560
+    },
+    {
       "name": "Don't Know Why",
       "artists": [
         "Norah Jones"
@@ -194,16 +204,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
       "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
       "durationMs": 45640
-    },
-    {
-      "name": "Here I Go Again",
-      "artists": [
-        "Jean Plum"
-      ],
-      "album": "Jean Plum: The Hi Recordings",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f1829d8cf3efbd0500eaa58",
-      "url": "https://open.spotify.com/track/5Xsq9miBRyrcgqtrpcIna3",
-      "durationMs": 148560
     },
     {
       "name": "Stepp, min stepp",
@@ -227,24 +227,24 @@
       "durationMs": 262306
     },
     {
-      "name": "Interlude",
+      "name": "Misdemeanor",
       "artists": [
-        "JAŸ-Z"
+        "Foster Sylvers"
       ],
-      "album": "The Black Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c528802c308a1e0e4d9945dd",
-      "url": "https://open.spotify.com/track/2D4JZUIZVJVzZz9gpYaiO9",
-      "durationMs": 81800
+      "album": "Foster Sylvers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a33024af69e0bcf087d3e20a",
+      "url": "https://open.spotify.com/track/0ApFfTbtX1775WkrzZSx4y",
+      "durationMs": 153346
     },
     {
-      "name": "Visa från Utanmyra",
+      "name": "Ridin' High (Vinyl Mix)",
       "artists": [
-        "Jan Johansson"
+        "The New Establishment"
       ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
-      "durationMs": 273800
+      "album": "The Other Day",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fd2cd76d5ae41e46962bc4d3",
+      "url": "https://open.spotify.com/track/1IIPFz5QG8wChKV4m7FVz9",
+      "durationMs": 186749
     }
   ],
   "featuredPlaylists": []
