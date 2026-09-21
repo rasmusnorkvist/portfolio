@@ -1,7 +1,109 @@
 {
-  "updatedAt": "2026-09-21T10:56:33.774Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-21T16:48:18.359Z",
+  "nowPlaying": {
+    "name": "7 Seconds (feat. Neneh Cherry)",
+    "artists": [
+      "Youssou N'Dour",
+      "Neneh Cherry"
+    ],
+    "album": "The Guide (Wommat)",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a2c9d286243eb9609d2fe565",
+    "url": "https://open.spotify.com/track/4sv1iemiMkkZVTUbV16C8L",
+    "durationMs": 306226,
+    "isPlaying": true,
+    "progressMs": 241400
+  },
   "recentlyPlayed": [
+    {
+      "name": "The Passenger",
+      "artists": [
+        "Iggy Pop"
+      ],
+      "album": "Lust For Life",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734aa5f679427e35409a06f225",
+      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd",
+      "durationMs": 283360,
+      "playedAt": "2026-09-21T16:44:20.777Z"
+    },
+    {
+      "name": "Heaven or Las Vegas",
+      "artists": [
+        "Cocteau Twins"
+      ],
+      "album": "Heaven or Las Vegas",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fe6211303e796f3d5b7a0e02",
+      "url": "https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok",
+      "durationMs": 298400,
+      "playedAt": "2026-09-21T16:39:40.390Z"
+    },
+    {
+      "name": "My Lovin' (You're Never Gonna Get It)",
+      "artists": [
+        "En Vogue"
+      ],
+      "album": "Funky Divas",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735a10dfac1d622b4a34632b99",
+      "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet",
+      "durationMs": 281613,
+      "playedAt": "2026-09-21T16:34:45.077Z"
+    },
+    {
+      "name": "Lose My Cool - Franc Moody Remix",
+      "artists": [
+        "Amber Mark",
+        "Franc Moody"
+      ],
+      "album": "Lose My Cool (Remixes)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e80099fa0e033e5dcaf17c8a",
+      "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ",
+      "durationMs": 257301,
+      "playedAt": "2026-09-21T16:30:06.390Z"
+    },
+    {
+      "name": "This Girl (feat. Kylie Auldist)",
+      "artists": [
+        "Cookin' On 3 Burners",
+        "Kylie Auldist"
+      ],
+      "album": "Soul Messin'",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730575ffe0d29322db358d60ee",
+      "url": "https://open.spotify.com/track/3Utv8pkPRjsIaVWt16WCZr",
+      "durationMs": 224000,
+      "playedAt": "2026-09-21T16:25:52.007Z"
+    },
+    {
+      "name": "So Cold",
+      "artists": [
+        "Balu Brigada"
+      ],
+      "album": "Portal",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731fc8017bbf246da18b953789",
+      "url": "https://open.spotify.com/track/2SGyf0hCuB81F85cHXuRjl",
+      "durationMs": 201133,
+      "playedAt": "2026-09-21T16:22:11.087Z"
+    },
+    {
+      "name": "Ace Of Spades",
+      "artists": [
+        "O.V. Wright"
+      ],
+      "album": "A Nickel And A Nail And Ace Of Spades",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731a78bfd58be455016242c998",
+      "url": "https://open.spotify.com/track/0xReSyPY2NLLQmhIPSvmfD",
+      "durationMs": 133506,
+      "playedAt": "2026-09-21T16:15:24.580Z"
+    },
+    {
+      "name": "Dreaming About You",
+      "artists": [
+        "The Blackbyrds"
+      ],
+      "album": "Action",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738fecbb709e781bb8fafc09ed",
+      "url": "https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4",
+      "durationMs": 352400,
+      "playedAt": "2026-09-21T14:23:27.544Z"
+    },
     {
       "name": "Never Too Late",
       "artists": [
@@ -24,94 +126,6 @@
       "url": "https://open.spotify.com/track/12zVxZVOmlS2rwCnHdRtxz",
       "durationMs": 190893,
       "playedAt": "2026-09-21T02:19:18.549Z"
-    },
-    {
-      "name": "For Your Love",
-      "artists": [
-        "Gwen McCrae"
-      ],
-      "album": "For Your Love",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cf06b1f06243c9384d1babba",
-      "url": "https://open.spotify.com/track/1zhpvDoP6unU2PmMfMK3wC",
-      "durationMs": 170945,
-      "playedAt": "2026-09-21T02:16:10.649Z"
-    },
-    {
-      "name": "I Can Dig It Baby",
-      "artists": [
-        "Little Beaver"
-      ],
-      "album": "Party Down",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a241c794cc2088ebdb2483ab",
-      "url": "https://open.spotify.com/track/0GPDPJ5vqAV9aowOt82hng",
-      "durationMs": 353200,
-      "playedAt": "2026-09-21T02:13:22.749Z"
-    },
-    {
-      "name": "I've Been Searching",
-      "artists": [
-        "O.V. Wright"
-      ],
-      "album": "Memphis Unlimited",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737b12715c9215912c0b7d40da",
-      "url": "https://open.spotify.com/track/7tXig7INhCzYHXJuT8VLiw",
-      "durationMs": 159040,
-      "playedAt": "2026-09-21T02:07:32.553Z"
-    },
-    {
-      "name": "I Forgot To Be Your Lover",
-      "artists": [
-        "William Bell"
-      ],
-      "album": "The Best Of William Bell",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27353fbbaa939812aaa4466fda4",
-      "url": "https://open.spotify.com/track/3PLKsooF2oGUBdGzblvOlI",
-      "durationMs": 138960,
-      "playedAt": "2026-09-21T02:04:56.550Z"
-    },
-    {
-      "name": "I Hear the Love Chimes",
-      "artists": [
-        "Syl Johnson"
-      ],
-      "album": "Diamond in the Rough",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0d79bac0ce07d20ad2ad0a",
-      "url": "https://open.spotify.com/track/2k5Boo1pEuIiMA88NxGA8V",
-      "durationMs": 164333,
-      "playedAt": "2026-09-21T02:02:40.548Z"
-    },
-    {
-      "name": "You're so Good to Me",
-      "artists": [
-        "Curtis Mayfield"
-      ],
-      "album": "Heartbeat",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27315c4319f560eba50413ce90f",
-      "url": "https://open.spotify.com/track/6Kp8JhZVCmL20H8Wd7Rs2E",
-      "durationMs": 414826,
-      "playedAt": "2026-09-21T01:59:59.227Z"
-    },
-    {
-      "name": "I Can Only Think of You",
-      "artists": [
-        "Gwen McCrae"
-      ],
-      "album": "Melody of Life",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4801bb9402e834553ddc60f",
-      "url": "https://open.spotify.com/track/59mNzQb5nXO0TP4op7rXid",
-      "durationMs": 318692,
-      "playedAt": "2026-09-21T01:53:07.447Z"
-    },
-    {
-      "name": "Do Right Man",
-      "artists": [
-        "Little Beaver"
-      ],
-      "album": "Katie Pearl",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735aa9c2e5d9c71fbe12caec67",
-      "url": "https://open.spotify.com/track/5F0Qp8qxtvkuXjB9LZSonu",
-      "durationMs": 174866,
-      "playedAt": "2026-09-21T01:47:51.746Z"
     }
   ],
   "topArtists": [
