@@ -1,131 +1,132 @@
 {
-  "updatedAt": "2026-09-21T16:48:18.359Z",
-  "nowPlaying": {
-    "name": "7 Seconds (feat. Neneh Cherry)",
-    "artists": [
-      "Youssou N'Dour",
-      "Neneh Cherry"
-    ],
-    "album": "The Guide (Wommat)",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a2c9d286243eb9609d2fe565",
-    "url": "https://open.spotify.com/track/4sv1iemiMkkZVTUbV16C8L",
-    "durationMs": 306226,
-    "isPlaying": true,
-    "progressMs": 241400
-  },
+  "updatedAt": "2026-09-21T20:45:41.289Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "The Passenger",
+      "name": "Natural High",
       "artists": [
-        "Iggy Pop"
+        "Awon"
       ],
-      "album": "Lust For Life",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734aa5f679427e35409a06f225",
-      "url": "https://open.spotify.com/track/15BQ7vEDv2LJuh8TxWIhtd",
-      "durationMs": 283360,
-      "playedAt": "2026-09-21T16:44:20.777Z"
+      "album": "Matte Black Soul",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736e0a46dd0440a9ba5e2d9fd4",
+      "url": "https://open.spotify.com/track/1T7GPnQqQBYvRFS0qy8uvs",
+      "durationMs": 208695,
+      "playedAt": "2026-09-21T18:54:59.506Z"
     },
     {
-      "name": "Heaven or Las Vegas",
+      "name": "Soul Flower",
       "artists": [
-        "Cocteau Twins"
+        "Mojo Flows",
+        "Awon"
       ],
-      "album": "Heaven or Las Vegas",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fe6211303e796f3d5b7a0e02",
-      "url": "https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok",
-      "durationMs": 298400,
-      "playedAt": "2026-09-21T16:39:40.390Z"
+      "album": "Soul Flower",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738a8bafe1e013710f6f7b8859",
+      "url": "https://open.spotify.com/track/7yhFEiJYlJwC0nAgpZvLPe",
+      "durationMs": 173278,
+      "playedAt": "2026-09-21T18:51:33.805Z"
     },
     {
-      "name": "My Lovin' (You're Never Gonna Get It)",
+      "name": "Holy Gospel",
       "artists": [
-        "En Vogue"
+        "Awon",
+        "Confidence",
+        "J Ferra"
       ],
-      "album": "Funky Divas",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735a10dfac1d622b4a34632b99",
-      "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet",
-      "durationMs": 281613,
-      "playedAt": "2026-09-21T16:34:45.077Z"
+      "album": "Holy Gospel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27392daef8a8e9ddc284c0b7e9a",
+      "url": "https://open.spotify.com/track/1g6JlMR4ZKna57jWFpnySJ",
+      "durationMs": 195666,
+      "playedAt": "2026-09-21T18:48:43.603Z"
     },
     {
-      "name": "Lose My Cool - Franc Moody Remix",
+      "name": "Chains",
       "artists": [
-        "Amber Mark",
-        "Franc Moody"
+        "Awon",
+        "Confidence",
+        "J Ferra"
       ],
-      "album": "Lose My Cool (Remixes)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e80099fa0e033e5dcaf17c8a",
-      "url": "https://open.spotify.com/track/4gdQamULpFs7WeyFGfmTCZ",
-      "durationMs": 257301,
-      "playedAt": "2026-09-21T16:30:06.390Z"
+      "album": "Chains",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b9f124719610fb153d3cd427",
+      "url": "https://open.spotify.com/track/4J2FEWJzGDV9qYTGfAbiNq",
+      "durationMs": 152282,
+      "playedAt": "2026-09-21T18:45:30.903Z"
     },
     {
-      "name": "This Girl (feat. Kylie Auldist)",
+      "name": "Bubblin'",
       "artists": [
-        "Cookin' On 3 Burners",
-        "Kylie Auldist"
+        "Awon",
+        "Beneficence",
+        "Doodlebug",
+        "Jazz Spastiks"
       ],
-      "album": "Soul Messin'",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730575ffe0d29322db358d60ee",
-      "url": "https://open.spotify.com/track/3Utv8pkPRjsIaVWt16WCZr",
-      "durationMs": 224000,
-      "playedAt": "2026-09-21T16:25:52.007Z"
+      "album": "Bubblin'",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739552095feceeee297e91840e",
+      "url": "https://open.spotify.com/track/0q8j09HfDJYmz0spYFrRHY",
+      "durationMs": 230261,
+      "playedAt": "2026-09-21T18:43:01.702Z"
     },
     {
-      "name": "So Cold",
+      "name": "Reflections (feat. Rodney the Soul Singer)",
       "artists": [
-        "Balu Brigada"
+        "Awon",
+        "Phoniks",
+        "Rodney The Soul Singer"
       ],
-      "album": "Portal",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731fc8017bbf246da18b953789",
-      "url": "https://open.spotify.com/track/2SGyf0hCuB81F85cHXuRjl",
-      "durationMs": 201133,
-      "playedAt": "2026-09-21T16:22:11.087Z"
+      "album": "Knowledge of Self",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735d3fc3b21ff9c46cc29ae9f9",
+      "url": "https://open.spotify.com/track/39RNQbYeeCnogyc2UC00WL",
+      "durationMs": 242727,
+      "playedAt": "2026-09-21T18:32:18.119Z"
     },
     {
-      "name": "Ace Of Spades",
+      "name": "Escaping Youth",
       "artists": [
-        "O.V. Wright"
+        "Awon"
       ],
-      "album": "A Nickel And A Nail And Ace Of Spades",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731a78bfd58be455016242c998",
-      "url": "https://open.spotify.com/track/0xReSyPY2NLLQmhIPSvmfD",
-      "durationMs": 133506,
-      "playedAt": "2026-09-21T16:15:24.580Z"
+      "album": "Matte Black Soul",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736e0a46dd0440a9ba5e2d9fd4",
+      "url": "https://open.spotify.com/track/33UusuP8H9JhnTfUD4JeKf",
+      "durationMs": 207925,
+      "playedAt": "2026-09-21T18:28:18.377Z"
     },
     {
-      "name": "Dreaming About You",
+      "name": "Ruthless",
       "artists": [
-        "The Blackbyrds"
+        "Peebs The Prophet",
+        "BluntOne",
+        "Awon"
       ],
-      "album": "Action",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738fecbb709e781bb8fafc09ed",
-      "url": "https://open.spotify.com/track/5voWjUklIhjnNQU5aZCIm4",
-      "durationMs": 352400,
-      "playedAt": "2026-09-21T14:23:27.544Z"
+      "album": "Ills of the Earth",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273885e60ff60b3b007ea08210d",
+      "url": "https://open.spotify.com/track/2zi1eMcR1P3EUZVCgpmpTN",
+      "durationMs": 231933,
+      "playedAt": "2026-09-21T18:24:53.404Z"
     },
     {
-      "name": "Never Too Late",
+      "name": "How I Feel",
       "artists": [
-        "Nat Turner Rebellion"
+        "Awon",
+        "Phoniks",
+        "DJ Fellbaum"
       ],
-      "album": "Laugh To Keep From Crying",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735356ff110f7af9fd8a2ac0f6",
-      "url": "https://open.spotify.com/track/6UmyFEmXBEFxrrpoz8rIM1",
-      "durationMs": 208190,
-      "playedAt": "2026-09-21T02:22:43.696Z"
+      "album": "The Actual Proof",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aef4500f9920f7a2464cc883",
+      "url": "https://open.spotify.com/track/62fddSET1hhC3mYbLLYi5T",
+      "durationMs": 170232,
+      "playedAt": "2026-09-21T18:21:04.523Z"
     },
     {
-      "name": "Strung Out Over You",
+      "name": "Real Hip Hop",
       "artists": [
-        "Mavis Staples",
-        "William Bell"
+        "Awon",
+        "Dephlow",
+        "Phoniks"
       ],
-      "album": "Boy Meets Girl: Classic Stax Duets",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cd715a424034f1abb73d5a10",
-      "url": "https://open.spotify.com/track/12zVxZVOmlS2rwCnHdRtxz",
-      "durationMs": 190893,
-      "playedAt": "2026-09-21T02:19:18.549Z"
+      "album": "Dephacation",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27398aa45591dd629227d03e5dd",
+      "url": "https://open.spotify.com/track/78Ilqx8SWo2lDgR7wINCzS",
+      "durationMs": 242637,
+      "playedAt": "2026-09-21T18:18:17.338Z"
     }
   ],
   "topArtists": [
@@ -154,15 +155,15 @@
       "genres": []
     },
     {
-      "name": "Peter LeMarc",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
-      "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": []
-    },
-    {
       "name": "Eric Clapton",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
       "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
+      "genres": []
+    },
+    {
+      "name": "Peter LeMarc",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
+      "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
       "genres": []
     },
     {
