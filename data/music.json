@@ -1,7 +1,44 @@
 {
-  "updatedAt": "2026-09-21T20:45:41.289Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-21T23:47:46.382Z",
+  "nowPlaying": {
+    "name": "As Live As It Gets",
+    "artists": [
+      "Awon",
+      "Phoniks",
+      "Dephlow"
+    ],
+    "album": "As Live As It Gets",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733ceb6e49d55cb0219e3dbd57",
+    "url": "https://open.spotify.com/track/6BViSvY3B6cUm8da5rI85R",
+    "durationMs": 191339,
+    "isPlaying": true,
+    "progressMs": 112484
+  },
   "recentlyPlayed": [
+    {
+      "name": "Get Yours",
+      "artists": [
+        "Awon",
+        "Phoniks"
+      ],
+      "album": "Return to the Golden Era",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27304e116ac97a554bd90ca8665",
+      "url": "https://open.spotify.com/track/0R5OWeKNFfHND2D4dUTP9Q",
+      "durationMs": 183829,
+      "playedAt": "2026-09-21T23:45:57.772Z"
+    },
+    {
+      "name": "Get Yours",
+      "artists": [
+        "Awon",
+        "Phoniks"
+      ],
+      "album": "Return to the Golden Era",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27304e116ac97a554bd90ca8665",
+      "url": "https://open.spotify.com/track/0R5OWeKNFfHND2D4dUTP9Q",
+      "durationMs": 183829,
+      "playedAt": "2026-09-21T21:43:57.542Z"
+    },
     {
       "name": "Natural High",
       "artists": [
@@ -101,32 +138,6 @@
       "url": "https://open.spotify.com/track/2zi1eMcR1P3EUZVCgpmpTN",
       "durationMs": 231933,
       "playedAt": "2026-09-21T18:24:53.404Z"
-    },
-    {
-      "name": "How I Feel",
-      "artists": [
-        "Awon",
-        "Phoniks",
-        "DJ Fellbaum"
-      ],
-      "album": "The Actual Proof",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aef4500f9920f7a2464cc883",
-      "url": "https://open.spotify.com/track/62fddSET1hhC3mYbLLYi5T",
-      "durationMs": 170232,
-      "playedAt": "2026-09-21T18:21:04.523Z"
-    },
-    {
-      "name": "Real Hip Hop",
-      "artists": [
-        "Awon",
-        "Dephlow",
-        "Phoniks"
-      ],
-      "album": "Dephacation",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27398aa45591dd629227d03e5dd",
-      "url": "https://open.spotify.com/track/78Ilqx8SWo2lDgR7wINCzS",
-      "durationMs": 242637,
-      "playedAt": "2026-09-21T18:18:17.338Z"
     }
   ],
   "topArtists": [
