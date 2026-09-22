@@ -1,7 +1,75 @@
 {
-  "updatedAt": "2026-09-22T20:49:45.461Z",
+  "updatedAt": "2026-09-22T23:27:19.692Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Let's Dance - 2018 Remaster",
+      "artists": [
+        "David Bowie"
+      ],
+      "album": "Let's Dance (2018 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273db0917ddd4139153bc1d1a1a",
+      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ",
+      "durationMs": 457675,
+      "playedAt": "2026-09-22T22:35:29.801Z"
+    },
+    {
+      "name": "Maneater",
+      "artists": [
+        "Daryl Hall & John Oates"
+      ],
+      "album": "H2O",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cfe4163cbb6d12f3ec15898e",
+      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY",
+      "durationMs": 273173,
+      "playedAt": "2026-09-22T22:27:55.303Z"
+    },
+    {
+      "name": "Venus",
+      "artists": [
+        "Bananarama"
+      ],
+      "album": "True Confessions (Collector's Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730978395d5800c9e7b6f6ffbd",
+      "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae",
+      "durationMs": 229164,
+      "playedAt": "2026-09-22T22:23:24.998Z"
+    },
+    {
+      "name": "The Kid Is Hot Tonite",
+      "artists": [
+        "Loverboy"
+      ],
+      "album": "Loverboy",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734a7fc04bfaabc732f80443f4",
+      "url": "https://open.spotify.com/track/4jpgCVx1q0uNUa0Azy73wk",
+      "durationMs": 267960,
+      "playedAt": "2026-09-22T22:17:43.401Z"
+    },
+    {
+      "name": "Dancing with Myself - 2001 Remaster",
+      "artists": [
+        "Billy Idol",
+        "Generation X"
+      ],
+      "album": "Anthology",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f10cb55d9e3699daf8719a80",
+      "url": "https://open.spotify.com/track/3rQfYDjgpRy5LFlClpPQW9",
+      "durationMs": 227400,
+      "playedAt": "2026-09-22T22:09:48.772Z"
+    },
+    {
+      "name": "Dancing with Myself - 2001 Remaster",
+      "artists": [
+        "Billy Idol",
+        "Generation X"
+      ],
+      "album": "Anthology",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f10cb55d9e3699daf8719a80",
+      "url": "https://open.spotify.com/track/3rQfYDjgpRy5LFlClpPQW9",
+      "durationMs": 227400,
+      "playedAt": "2026-09-22T22:04:47.493Z"
+    },
     {
       "name": "White Wedding - Pt.1",
       "artists": [
@@ -45,73 +113,6 @@
       "url": "https://open.spotify.com/track/6EDfLLCyMDujRA57djS4Ea",
       "durationMs": 201038,
       "playedAt": "2026-09-22T14:12:32.959Z"
-    },
-    {
-      "name": "Dreaming About You",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Coffee and Cigarettes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f64e23ad232b825630fdc2e",
-      "url": "https://open.spotify.com/track/7u9DnB0ZMfRx8MfOqF2X06",
-      "durationMs": 192548,
-      "playedAt": "2026-09-22T02:56:41.534Z"
-    },
-    {
-      "name": "Coffee and Cigarettes",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Coffee and Cigarettes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f64e23ad232b825630fdc2e",
-      "url": "https://open.spotify.com/track/6Lx02kkeK3GOfvUora5LBE",
-      "durationMs": 193384,
-      "playedAt": "2026-09-22T02:53:28.958Z"
-    },
-    {
-      "name": "Floating",
-      "artists": [
-        "brillion.",
-        "Jazzinuf"
-      ],
-      "album": "Bedtime Stories Pt. 3",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa93330127e2ae4e5c48d532",
-      "url": "https://open.spotify.com/track/6dKzSbEQDFh2CP3Uiq6HV2",
-      "durationMs": 184320,
-      "playedAt": "2026-09-22T02:48:52.065Z"
-    },
-    {
-      "name": "Letters That Never Reached You",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Sun Dance",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739cc7887164d92d14358e3c9c",
-      "url": "https://open.spotify.com/track/6XdqDZtNcr2wm0BLiXln95",
-      "durationMs": 157500,
-      "playedAt": "2026-09-22T02:45:50.731Z"
-    },
-    {
-      "name": "Caffè Mocha",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Dazzle",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273269dc240e2b69fcabd82d3b7",
-      "url": "https://open.spotify.com/track/1On4Zw5nSEJKpGIGSK8QYd",
-      "durationMs": 89361,
-      "playedAt": "2026-09-22T02:43:16.230Z"
-    },
-    {
-      "name": "Magic Hoodie",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Dazzle",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273269dc240e2b69fcabd82d3b7",
-      "url": "https://open.spotify.com/track/3Q5uu90ueSV1hk1bIKYBKu",
-      "durationMs": 118355,
-      "playedAt": "2026-09-22T02:41:46.872Z"
     }
   ],
   "topArtists": [
