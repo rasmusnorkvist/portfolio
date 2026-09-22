@@ -1,143 +1,119 @@
 {
-  "updatedAt": "2026-09-21T23:47:46.382Z",
-  "nowPlaying": {
-    "name": "As Live As It Gets",
-    "artists": [
-      "Awon",
-      "Phoniks",
-      "Dephlow"
-    ],
-    "album": "As Live As It Gets",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733ceb6e49d55cb0219e3dbd57",
-    "url": "https://open.spotify.com/track/6BViSvY3B6cUm8da5rI85R",
-    "durationMs": 191339,
-    "isPlaying": true,
-    "progressMs": 112484
-  },
+  "updatedAt": "2026-09-22T03:06:51.865Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Get Yours",
+      "name": "Dreaming About You",
       "artists": [
-        "Awon",
-        "Phoniks"
+        "Jazzinuf"
       ],
-      "album": "Return to the Golden Era",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27304e116ac97a554bd90ca8665",
-      "url": "https://open.spotify.com/track/0R5OWeKNFfHND2D4dUTP9Q",
-      "durationMs": 183829,
-      "playedAt": "2026-09-21T23:45:57.772Z"
+      "album": "Coffee and Cigarettes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f64e23ad232b825630fdc2e",
+      "url": "https://open.spotify.com/track/7u9DnB0ZMfRx8MfOqF2X06",
+      "durationMs": 192548,
+      "playedAt": "2026-09-22T02:56:41.534Z"
     },
     {
-      "name": "Get Yours",
+      "name": "Coffee and Cigarettes",
       "artists": [
-        "Awon",
-        "Phoniks"
+        "Jazzinuf"
       ],
-      "album": "Return to the Golden Era",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27304e116ac97a554bd90ca8665",
-      "url": "https://open.spotify.com/track/0R5OWeKNFfHND2D4dUTP9Q",
-      "durationMs": 183829,
-      "playedAt": "2026-09-21T21:43:57.542Z"
+      "album": "Coffee and Cigarettes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f64e23ad232b825630fdc2e",
+      "url": "https://open.spotify.com/track/6Lx02kkeK3GOfvUora5LBE",
+      "durationMs": 193384,
+      "playedAt": "2026-09-22T02:53:28.958Z"
     },
     {
-      "name": "Natural High",
+      "name": "Floating",
       "artists": [
-        "Awon"
+        "brillion.",
+        "Jazzinuf"
       ],
-      "album": "Matte Black Soul",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736e0a46dd0440a9ba5e2d9fd4",
-      "url": "https://open.spotify.com/track/1T7GPnQqQBYvRFS0qy8uvs",
-      "durationMs": 208695,
-      "playedAt": "2026-09-21T18:54:59.506Z"
+      "album": "Bedtime Stories Pt. 3",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa93330127e2ae4e5c48d532",
+      "url": "https://open.spotify.com/track/6dKzSbEQDFh2CP3Uiq6HV2",
+      "durationMs": 184320,
+      "playedAt": "2026-09-22T02:48:52.065Z"
     },
     {
-      "name": "Soul Flower",
+      "name": "Letters That Never Reached You",
       "artists": [
-        "Mojo Flows",
-        "Awon"
+        "Jazzinuf"
       ],
-      "album": "Soul Flower",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738a8bafe1e013710f6f7b8859",
-      "url": "https://open.spotify.com/track/7yhFEiJYlJwC0nAgpZvLPe",
-      "durationMs": 173278,
-      "playedAt": "2026-09-21T18:51:33.805Z"
+      "album": "Sun Dance",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739cc7887164d92d14358e3c9c",
+      "url": "https://open.spotify.com/track/6XdqDZtNcr2wm0BLiXln95",
+      "durationMs": 157500,
+      "playedAt": "2026-09-22T02:45:50.731Z"
     },
     {
-      "name": "Holy Gospel",
+      "name": "Caffè Mocha",
       "artists": [
-        "Awon",
-        "Confidence",
-        "J Ferra"
+        "Jazzinuf"
       ],
-      "album": "Holy Gospel",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27392daef8a8e9ddc284c0b7e9a",
-      "url": "https://open.spotify.com/track/1g6JlMR4ZKna57jWFpnySJ",
-      "durationMs": 195666,
-      "playedAt": "2026-09-21T18:48:43.603Z"
+      "album": "Dazzle",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273269dc240e2b69fcabd82d3b7",
+      "url": "https://open.spotify.com/track/1On4Zw5nSEJKpGIGSK8QYd",
+      "durationMs": 89361,
+      "playedAt": "2026-09-22T02:43:16.230Z"
     },
     {
-      "name": "Chains",
+      "name": "Magic Hoodie",
       "artists": [
-        "Awon",
-        "Confidence",
-        "J Ferra"
+        "Jazzinuf"
       ],
-      "album": "Chains",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b9f124719610fb153d3cd427",
-      "url": "https://open.spotify.com/track/4J2FEWJzGDV9qYTGfAbiNq",
-      "durationMs": 152282,
-      "playedAt": "2026-09-21T18:45:30.903Z"
+      "album": "Dazzle",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273269dc240e2b69fcabd82d3b7",
+      "url": "https://open.spotify.com/track/3Q5uu90ueSV1hk1bIKYBKu",
+      "durationMs": 118355,
+      "playedAt": "2026-09-22T02:41:46.872Z"
     },
     {
-      "name": "Bubblin'",
+      "name": "good daze",
       "artists": [
-        "Awon",
-        "Beneficence",
-        "Doodlebug",
-        "Jazz Spastiks"
+        "Jazzinuf",
+        "Shanin Blake",
+        "Etymology Records"
       ],
-      "album": "Bubblin'",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739552095feceeee297e91840e",
-      "url": "https://open.spotify.com/track/0q8j09HfDJYmz0spYFrRHY",
-      "durationMs": 230261,
-      "playedAt": "2026-09-21T18:43:01.702Z"
+      "album": "good daze",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273db58ac652c623d751e0bb065",
+      "url": "https://open.spotify.com/track/2sAPkJ75cAkG1ZPREsdnob",
+      "durationMs": 153780,
+      "playedAt": "2026-09-22T02:39:51.578Z"
     },
     {
-      "name": "Reflections (feat. Rodney the Soul Singer)",
+      "name": "Arabica",
       "artists": [
-        "Awon",
-        "Phoniks",
-        "Rodney The Soul Singer"
+        "Jazzinuf"
       ],
-      "album": "Knowledge of Self",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735d3fc3b21ff9c46cc29ae9f9",
-      "url": "https://open.spotify.com/track/39RNQbYeeCnogyc2UC00WL",
-      "durationMs": 242727,
-      "playedAt": "2026-09-21T18:32:18.119Z"
+      "album": "Arabica",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e30554c63789c9f278beed80",
+      "url": "https://open.spotify.com/track/38PSMqHWGOMcysKHRXM16x",
+      "durationMs": 128869,
+      "playedAt": "2026-09-22T02:37:20.784Z"
     },
     {
-      "name": "Escaping Youth",
+      "name": "Sunflower Samurai",
       "artists": [
-        "Awon"
+        "Jazzinuf"
       ],
-      "album": "Matte Black Soul",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736e0a46dd0440a9ba5e2d9fd4",
-      "url": "https://open.spotify.com/track/33UusuP8H9JhnTfUD4JeKf",
-      "durationMs": 207925,
-      "playedAt": "2026-09-21T18:28:18.377Z"
+      "album": "Kick This",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730090bcb964db0c479e14f70b",
+      "url": "https://open.spotify.com/track/47zTgyJ3YIWWGdo6FREfMp",
+      "durationMs": 262000,
+      "playedAt": "2026-09-22T02:35:14.940Z"
     },
     {
-      "name": "Ruthless",
+      "name": "Jazzy's Joint",
       "artists": [
-        "Peebs The Prophet",
-        "BluntOne",
-        "Awon"
+        "Jazzinuf"
       ],
-      "album": "Ills of the Earth",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273885e60ff60b3b007ea08210d",
-      "url": "https://open.spotify.com/track/2zi1eMcR1P3EUZVCgpmpTN",
-      "durationMs": 231933,
-      "playedAt": "2026-09-21T18:24:53.404Z"
+      "album": "The Magic Carpet",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa98d442f75b1d35f761995a",
+      "url": "https://open.spotify.com/track/3MonuiYoIeN3cYQ5WRuf5V",
+      "durationMs": 151317,
+      "playedAt": "2026-09-22T02:30:55.987Z"
     }
   ],
   "topArtists": [
@@ -148,27 +124,27 @@
       "genres": []
     },
     {
-      "name": "Norah Jones",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
-      "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-      "genres": []
-    },
-    {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
       "genres": []
     },
     {
-      "name": "Rapallo",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
-      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
+      "name": "Awon",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
+      "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
       "genres": []
     },
     {
-      "name": "Eric Clapton",
-      "imageUrl": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
-      "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
+      "name": "Norah Jones",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
+      "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
+      "genres": []
+    },
+    {
+      "name": "Rapallo",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
+      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
       "genres": []
     },
     {
@@ -184,9 +160,9 @@
       "genres": []
     },
     {
-      "name": "The Delfonics",
-      "imageUrl": "https://i.scdn.co/image/c923d6436c698e5847c2ef79af5b2cbdfab8aaf8",
-      "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4",
+      "name": "Eric Clapton",
+      "imageUrl": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
+      "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
       "genres": []
     }
   ],
@@ -253,6 +229,17 @@
       "durationMs": 262306
     },
     {
+      "name": "Soul Mates",
+      "artists": [
+        "Jazzinuf",
+        "Etymology Records"
+      ],
+      "album": "Soul Mates",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736d61a0286817cd75d35eb67e",
+      "url": "https://open.spotify.com/track/7pFRhCj70NUNZG4xMDEQj8",
+      "durationMs": 96343
+    },
+    {
       "name": "Misdemeanor",
       "artists": [
         "Foster Sylvers"
@@ -261,16 +248,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a33024af69e0bcf087d3e20a",
       "url": "https://open.spotify.com/track/0ApFfTbtX1775WkrzZSx4y",
       "durationMs": 153346
-    },
-    {
-      "name": "Ridin' High (Vinyl Mix)",
-      "artists": [
-        "The New Establishment"
-      ],
-      "album": "The Other Day",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fd2cd76d5ae41e46962bc4d3",
-      "url": "https://open.spotify.com/track/1IIPFz5QG8wChKV4m7FVz9",
-      "durationMs": 186749
     }
   ],
   "featuredPlaylists": []
