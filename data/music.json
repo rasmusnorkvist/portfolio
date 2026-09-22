@@ -1,18 +1,29 @@
 {
-  "updatedAt": "2026-09-22T17:54:01.453Z",
-  "nowPlaying": {
-    "name": "Rebel Yell",
-    "artists": [
-      "Billy Idol"
-    ],
-    "album": "Rebel Yell",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
-    "url": "https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc",
-    "durationMs": 288533,
-    "isPlaying": true,
-    "progressMs": 275731
-  },
+  "updatedAt": "2026-09-22T20:49:45.461Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "White Wedding - Pt.1",
+      "artists": [
+        "Billy Idol"
+      ],
+      "album": "Billy Idol (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730d1330fc182333046270bbe6",
+      "url": "https://open.spotify.com/track/24kNjskAjp7GBtP0MPEiC6",
+      "durationMs": 252133,
+      "playedAt": "2026-09-22T19:00:17.644Z"
+    },
+    {
+      "name": "Rebel Yell",
+      "artists": [
+        "Billy Idol"
+      ],
+      "album": "Rebel Yell",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
+      "url": "https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc",
+      "durationMs": 288533,
+      "playedAt": "2026-09-22T17:54:14.999Z"
+    },
     {
       "name": "Eyes Without A Face",
       "artists": [
@@ -101,30 +112,6 @@
       "url": "https://open.spotify.com/track/3Q5uu90ueSV1hk1bIKYBKu",
       "durationMs": 118355,
       "playedAt": "2026-09-22T02:41:46.872Z"
-    },
-    {
-      "name": "good daze",
-      "artists": [
-        "Jazzinuf",
-        "Shanin Blake",
-        "Etymology Records"
-      ],
-      "album": "good daze",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273db58ac652c623d751e0bb065",
-      "url": "https://open.spotify.com/track/2sAPkJ75cAkG1ZPREsdnob",
-      "durationMs": 153780,
-      "playedAt": "2026-09-22T02:39:51.578Z"
-    },
-    {
-      "name": "Arabica",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Arabica",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e30554c63789c9f278beed80",
-      "url": "https://open.spotify.com/track/38PSMqHWGOMcysKHRXM16x",
-      "durationMs": 128869,
-      "playedAt": "2026-09-22T02:37:20.784Z"
     }
   ],
   "topArtists": [
