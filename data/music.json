@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2026-09-23T17:40:32.462Z",
+  "updatedAt": "2026-09-23T21:01:15.449Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Footloose",
+      "artists": [
+        "Kenny Loggins"
+      ],
+      "album": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27319db9ac54c80a898a179f0f1",
+      "url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO",
+      "durationMs": 220706,
+      "playedAt": "2026-09-23T18:34:58.844Z"
+    },
+    {
+      "name": "Dancing with Myself",
+      "artists": [
+        "Generation X"
+      ],
+      "album": "Kiss Me Deadly",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d64245eb18975869fb139a3",
+      "url": "https://open.spotify.com/track/1lEhKudlkpBsh6S7JyvvHs",
+      "durationMs": 228080,
+      "playedAt": "2026-09-23T18:31:21.113Z"
+    },
+    {
+      "name": "Everybody Wants To Rule The World",
+      "artists": [
+        "Tears For Fears"
+      ],
+      "album": "Songs From The Big Chair",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e12c35cb4c848a927ef4b69",
+      "url": "https://open.spotify.com/track/2YiCMmONQcoMPX2bV1LxE0",
+      "durationMs": 251480,
+      "playedAt": "2026-09-23T18:27:36.043Z"
+    },
+    {
+      "name": "Don't You Want Me",
+      "artists": [
+        "The Human League"
+      ],
+      "album": "Don't You Want Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738521e6b66726ca03b2b73172",
+      "url": "https://open.spotify.com/track/3AIEEEIDJFnqv8rozNVCRZ",
+      "durationMs": 238000,
+      "playedAt": "2026-09-23T18:23:27.726Z"
+    },
+    {
+      "name": "We Got The Beat",
+      "artists": [
+        "The Go-Go's"
+      ],
+      "album": "Beauty And The Beat",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738a25755534e84d8a604e6b38",
+      "url": "https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF",
+      "durationMs": 153133,
+      "playedAt": "2026-09-23T18:19:32.795Z"
+    },
+    {
+      "name": "Need You Tonight",
+      "artists": [
+        "INXS"
+      ],
+      "album": "Kick (Remastered 2011)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dac4efc0ebdfd9d92f127129",
+      "url": "https://open.spotify.com/track/3h04eZTnmFLRMjZajbrp2R",
+      "durationMs": 181106,
+      "playedAt": "2026-09-23T18:17:02.689Z"
+    },
+    {
+      "name": "Maniac",
+      "artists": [
+        "Michael Sembello"
+      ],
+      "album": "Flashdance (Original Soundtrack From The Motion Picture)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737b436d31c5ae44b334736619",
+      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe",
+      "durationMs": 244706,
+      "playedAt": "2026-09-23T18:14:04.589Z"
+    },
+    {
+      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
+      "artists": [
+        "Kenny Loggins"
+      ],
+      "album": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27319db9ac54c80a898a179f0f1",
+      "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige",
+      "durationMs": 215133,
+      "playedAt": "2026-09-23T18:10:02.892Z"
+    },
     {
       "name": "Take on Me",
       "artists": [
@@ -23,96 +111,6 @@
       "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5",
       "durationMs": 293826,
       "playedAt": "2026-09-23T16:04:36.608Z"
-    },
-    {
-      "name": "Don't You (Forget About Me)",
-      "artists": [
-        "Simple Minds"
-      ],
-      "album": "Once Upon A Time (Super Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735695a657aef0e81bde0c6001",
-      "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9",
-      "durationMs": 263040,
-      "playedAt": "2026-09-23T15:59:45.783Z"
-    },
-    {
-      "name": "Right Back Where We Started From",
-      "artists": [
-        "Maxine Nightingale"
-      ],
-      "album": "Right Back Where We Started From",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cfa6a3679b1471b340e15c4c",
-      "url": "https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6",
-      "durationMs": 192266,
-      "playedAt": "2026-09-23T15:36:58.606Z"
-    },
-    {
-      "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
-      "artists": [
-        "Eurythmics",
-        "Annie Lennox",
-        "Dave Stewart"
-      ],
-      "album": "Sweet Dreams (Are Made Of This)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b3994c94dfb241923664bb4d",
-      "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS",
-      "durationMs": 216933,
-      "playedAt": "2026-09-23T15:12:43.608Z"
-    },
-    {
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "artists": [
-        "Whitney Houston"
-      ],
-      "album": "Whitney",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a520a167a62d5548cdb53101",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
-      "durationMs": 292875,
-      "playedAt": "2026-09-23T14:58:00.178Z"
-    },
-    {
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
-      "artists": [
-        "Whitney Houston"
-      ],
-      "album": "Whitney",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a520a167a62d5548cdb53101",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
-      "durationMs": 292875,
-      "playedAt": "2026-09-23T14:53:42.563Z"
-    },
-    {
-      "name": "Let's Dance - 2018 Remaster",
-      "artists": [
-        "David Bowie"
-      ],
-      "album": "Let's Dance (2018 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273db0917ddd4139153bc1d1a1a",
-      "url": "https://open.spotify.com/track/3ix6K4wZY29bCujrSznwFZ",
-      "durationMs": 457675,
-      "playedAt": "2026-09-22T22:35:29.801Z"
-    },
-    {
-      "name": "Maneater",
-      "artists": [
-        "Daryl Hall & John Oates"
-      ],
-      "album": "H2O",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cfe4163cbb6d12f3ec15898e",
-      "url": "https://open.spotify.com/track/7j74lucZ59vqN67Ipe2ZcY",
-      "durationMs": 273173,
-      "playedAt": "2026-09-22T22:27:55.303Z"
-    },
-    {
-      "name": "Venus",
-      "artists": [
-        "Bananarama"
-      ],
-      "album": "True Confessions (Collector's Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730978395d5800c9e7b6f6ffbd",
-      "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae",
-      "durationMs": 229164,
-      "playedAt": "2026-09-22T22:23:24.998Z"
     }
   ],
   "topArtists": [
