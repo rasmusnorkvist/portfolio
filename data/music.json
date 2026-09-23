@@ -1,7 +1,86 @@
 {
-  "updatedAt": "2026-09-23T12:52:37.753Z",
+  "updatedAt": "2026-09-23T17:40:32.462Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Take on Me",
+      "artists": [
+        "a-ha"
+      ],
+      "album": "Hunting High and Low",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53",
+      "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L",
+      "durationMs": 225280,
+      "playedAt": "2026-09-23T16:27:25.727Z"
+    },
+    {
+      "name": "Billie Jean",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Thriller 25 Super Deluxe Edition",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be",
+      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5",
+      "durationMs": 293826,
+      "playedAt": "2026-09-23T16:04:36.608Z"
+    },
+    {
+      "name": "Don't You (Forget About Me)",
+      "artists": [
+        "Simple Minds"
+      ],
+      "album": "Once Upon A Time (Super Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735695a657aef0e81bde0c6001",
+      "url": "https://open.spotify.com/track/3fH4KjXFYMmljxrcGrbPj9",
+      "durationMs": 263040,
+      "playedAt": "2026-09-23T15:59:45.783Z"
+    },
+    {
+      "name": "Right Back Where We Started From",
+      "artists": [
+        "Maxine Nightingale"
+      ],
+      "album": "Right Back Where We Started From",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cfa6a3679b1471b340e15c4c",
+      "url": "https://open.spotify.com/track/6208B8Utmd2fTqgGMjeNr6",
+      "durationMs": 192266,
+      "playedAt": "2026-09-23T15:36:58.606Z"
+    },
+    {
+      "name": "Sweet Dreams (Are Made of This) - 2005 Remaster",
+      "artists": [
+        "Eurythmics",
+        "Annie Lennox",
+        "Dave Stewart"
+      ],
+      "album": "Sweet Dreams (Are Made Of This)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b3994c94dfb241923664bb4d",
+      "url": "https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS",
+      "durationMs": 216933,
+      "playedAt": "2026-09-23T15:12:43.608Z"
+    },
+    {
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "artists": [
+        "Whitney Houston"
+      ],
+      "album": "Whitney",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a520a167a62d5548cdb53101",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
+      "durationMs": 292875,
+      "playedAt": "2026-09-23T14:58:00.178Z"
+    },
+    {
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "artists": [
+        "Whitney Houston"
+      ],
+      "album": "Whitney",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a520a167a62d5548cdb53101",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
+      "durationMs": 292875,
+      "playedAt": "2026-09-23T14:53:42.563Z"
+    },
     {
       "name": "Let's Dance - 2018 Remaster",
       "artists": [
@@ -34,85 +113,6 @@
       "url": "https://open.spotify.com/track/4XX1pFUkQOZTYp6Hb6a6Ae",
       "durationMs": 229164,
       "playedAt": "2026-09-22T22:23:24.998Z"
-    },
-    {
-      "name": "The Kid Is Hot Tonite",
-      "artists": [
-        "Loverboy"
-      ],
-      "album": "Loverboy",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734a7fc04bfaabc732f80443f4",
-      "url": "https://open.spotify.com/track/4jpgCVx1q0uNUa0Azy73wk",
-      "durationMs": 267960,
-      "playedAt": "2026-09-22T22:17:43.401Z"
-    },
-    {
-      "name": "Dancing with Myself - 2001 Remaster",
-      "artists": [
-        "Billy Idol",
-        "Generation X"
-      ],
-      "album": "Anthology",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f10cb55d9e3699daf8719a80",
-      "url": "https://open.spotify.com/track/3rQfYDjgpRy5LFlClpPQW9",
-      "durationMs": 227400,
-      "playedAt": "2026-09-22T22:09:48.772Z"
-    },
-    {
-      "name": "Dancing with Myself - 2001 Remaster",
-      "artists": [
-        "Billy Idol",
-        "Generation X"
-      ],
-      "album": "Anthology",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f10cb55d9e3699daf8719a80",
-      "url": "https://open.spotify.com/track/3rQfYDjgpRy5LFlClpPQW9",
-      "durationMs": 227400,
-      "playedAt": "2026-09-22T22:04:47.493Z"
-    },
-    {
-      "name": "White Wedding - Pt.1",
-      "artists": [
-        "Billy Idol"
-      ],
-      "album": "Billy Idol (Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730d1330fc182333046270bbe6",
-      "url": "https://open.spotify.com/track/24kNjskAjp7GBtP0MPEiC6",
-      "durationMs": 252133,
-      "playedAt": "2026-09-22T19:00:17.644Z"
-    },
-    {
-      "name": "Rebel Yell",
-      "artists": [
-        "Billy Idol"
-      ],
-      "album": "Rebel Yell",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
-      "url": "https://open.spotify.com/track/4TIJ7zSBNejpoIPaWpWRKc",
-      "durationMs": 288533,
-      "playedAt": "2026-09-22T17:54:14.999Z"
-    },
-    {
-      "name": "Eyes Without A Face",
-      "artists": [
-        "Billy Idol"
-      ],
-      "album": "Rebel Yell",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
-      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS",
-      "durationMs": 299240,
-      "playedAt": "2026-09-22T17:49:29.497Z"
-    },
-    {
-      "name": "Milky Bowl of Shooting Stars",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Coffee and Cigarettes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f64e23ad232b825630fdc2e",
-      "url": "https://open.spotify.com/track/6EDfLLCyMDujRA57djS4Ea",
-      "durationMs": 201038,
-      "playedAt": "2026-09-22T14:12:32.959Z"
     }
   ],
   "topArtists": [
