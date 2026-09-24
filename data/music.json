@@ -1,142 +1,150 @@
 {
-  "updatedAt": "2026-09-24T18:07:36.557Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-24T21:39:35.469Z",
+  "nowPlaying": {
+    "name": "Sugar Cane",
+    "artists": [
+      "Awon",
+      "Confidence",
+      "J Ferra",
+      "Solomon"
+    ],
+    "album": "The Process",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bbcfb36220e14ce1ad57dc0f",
+    "url": "https://open.spotify.com/track/1JLvpUqYeKhJE2dynTUdG7",
+    "durationMs": 235000,
+    "isPlaying": true,
+    "progressMs": 121801
+  },
   "recentlyPlayed": [
     {
-      "name": "Honor To Us All",
+      "name": "Problems",
       "artists": [
-        "Lea Salonga",
-        "Beth Fowler",
-        "Marni Nixon",
-        "Chorus - Mulan",
-        "Disney"
+        "Awon",
+        "Confidence",
+        "J Ferra",
+        "Ishmael Nehemiah"
       ],
-      "album": "Mulan (Original Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc",
-      "url": "https://open.spotify.com/track/78EMhiyAcalWWtnpk20Eoo",
-      "durationMs": 183200,
-      "playedAt": "2026-09-24T14:56:34.422Z"
+      "album": "Problems",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737ad7f6cb94ef5f8b3aa1aff7",
+      "url": "https://open.spotify.com/track/6fDJqTvFx2blYPaa731GIL",
+      "durationMs": 197166,
+      "playedAt": "2026-09-24T21:37:37.408Z"
     },
     {
-      "name": "Almost There - From \"The Princess and the Frog\" / Soundtrack Version",
+      "name": "Now You Know",
       "artists": [
-        "Anika Noni Rose"
+        "Awon",
+        "Confidence",
+        "J Ferra"
       ],
-      "album": "Disney Summer Songs , Vol. 2",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c56ef0b0c3126d96867dea49",
-      "url": "https://open.spotify.com/track/7GBAXK535UBq8ftRh86FXq",
-      "durationMs": 144426,
-      "playedAt": "2026-09-24T02:23:22.970Z"
+      "album": "Now You Know",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d431dab593b66efa943cca90",
+      "url": "https://open.spotify.com/track/3K9sAibXlVZ6gtPfehWiAS",
+      "durationMs": 151648,
+      "playedAt": "2026-09-24T21:34:23.270Z"
     },
     {
-      "name": "Les Poissons",
+      "name": "Chains",
       "artists": [
-        "Alan Menken",
-        "Howard Ashman",
-        "Rene Auberjonois",
-        "Disney",
-        "J.A.C. Redford"
+        "Awon",
+        "Confidence",
+        "J Ferra"
       ],
-      "album": "The Little Mermaid Special Edition",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27396029fe9e2624ccf9ff08ba8",
-      "url": "https://open.spotify.com/track/04LkB4linu702YDzlrQNDi",
-      "durationMs": 95706,
-      "playedAt": "2026-09-24T02:21:01.538Z"
+      "album": "Chains",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b9f124719610fb153d3cd427",
+      "url": "https://open.spotify.com/track/4J2FEWJzGDV9qYTGfAbiNq",
+      "durationMs": 152282,
+      "playedAt": "2026-09-24T21:31:54.620Z"
     },
     {
-      "name": "Don't You Worry 'Bout A Thing",
+      "name": "Holy Gospel",
       "artists": [
-        "Tori Kelly"
+        "Awon",
+        "Confidence",
+        "J Ferra"
       ],
-      "album": "Don't You Worry 'Bout A Thing (From \"Sing\" Original Motion Picture Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273289bc1e586b22ad2bb50edd8",
-      "url": "https://open.spotify.com/track/3PLyl3Ir75VkGgX0KEehqh",
-      "durationMs": 241386,
-      "playedAt": "2026-09-24T02:19:28.813Z"
+      "album": "Holy Gospel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27392daef8a8e9ddc284c0b7e9a",
+      "url": "https://open.spotify.com/track/1g6JlMR4ZKna57jWFpnySJ",
+      "durationMs": 195666,
+      "playedAt": "2026-09-24T21:29:25.313Z"
     },
     {
-      "name": "You're Welcome - From \"Moana\"/Soundtrack Version",
+      "name": "Props Over Here",
       "artists": [
-        "Dwayne Johnson",
-        "Disney"
+        "Awon",
+        "Confidence",
+        "J Ferra"
       ],
-      "album": "Disney Summer Songs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734a5227191541ed9e1853d092",
-      "url": "https://open.spotify.com/track/2ldoyUu1SRf96pQ6G5n3gY",
-      "durationMs": 164866,
-      "playedAt": "2026-09-24T02:15:30.436Z"
+      "album": "Another Day",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a1cec8d099c30e22ce938563",
+      "url": "https://open.spotify.com/track/32qDoktKVtd53hPGnepp3v",
+      "durationMs": 102197,
+      "playedAt": "2026-09-24T21:26:12.701Z"
     },
     {
-      "name": "Zero To Hero",
+      "name": "Problem Solver (feat. Adad)",
       "artists": [
-        "Chorus - Hercules",
-        "Lillias White",
-        "Cheryl Freeman",
-        "LaChanze",
-        "Roz Ryan",
-        "Vaneese Thomas",
-        "Tawatha Agee",
-        "Disney"
+        "Awon",
+        "Phoniks",
+        "Adad"
       ],
-      "album": "Hercules (Original Motion Picture Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f6a713be4f418307ab7ffaf4",
-      "url": "https://open.spotify.com/track/4zDfgax6Ihb0UWdour1ZEs",
-      "durationMs": 140573,
-      "playedAt": "2026-09-24T02:12:48.630Z"
+      "album": "Knowledge of Self",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735d3fc3b21ff9c46cc29ae9f9",
+      "url": "https://open.spotify.com/track/4aA9Zj6nzrdBjjuY8lQDxL",
+      "durationMs": 240505,
+      "playedAt": "2026-09-24T21:23:03.728Z"
     },
     {
-      "name": "Prince Ali",
+      "name": "Soul Flower",
       "artists": [
-        "Robin Williams",
-        "Disney"
+        "Mojo Flows",
+        "Awon"
       ],
-      "album": "Aladdin Special Edition",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c",
-      "url": "https://open.spotify.com/track/2n2ikq6Y21aFrootCsdsf3",
-      "durationMs": 171760,
-      "playedAt": "2026-09-24T02:10:31.038Z"
+      "album": "Soul Flower",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738a8bafe1e013710f6f7b8859",
+      "url": "https://open.spotify.com/track/7yhFEiJYlJwC0nAgpZvLPe",
+      "durationMs": 173278,
+      "playedAt": "2026-09-24T21:03:10.580Z"
     },
     {
-      "name": "I'll Make a Man Out of You",
+      "name": "Street Jazz",
       "artists": [
-        "Donny Osmond",
-        "Chorus - Mulan",
-        "Disney"
+        "Awon",
+        "Dephlow",
+        "Phoniks"
       ],
-      "album": "Mulan (Original Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc",
-      "url": "https://open.spotify.com/track/28UMEtwyUUy5u0UWOVHwiI",
-      "durationMs": 201680,
-      "playedAt": "2026-09-24T02:07:42.354Z"
+      "album": "Sleep Is the Cousin of Death",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738f52c6ef7196c7b1b5c7a3f6",
+      "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z",
+      "durationMs": 154837,
+      "playedAt": "2026-09-24T20:53:12.798Z"
     },
     {
-      "name": "Part of Your World",
+      "name": "The Rain",
       "artists": [
-        "Alan Menken",
-        "Howard Ashman",
-        "Jodi Benson",
-        "Disney",
-        "J.A.C. Redford"
+        "Awon",
+        "Phoniks",
+        "Tiff the Gift"
       ],
-      "album": "The Little Mermaid Special Edition",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27396029fe9e2624ccf9ff08ba8",
-      "url": "https://open.spotify.com/track/7tUSJY4nsDBJTjd1UXKRsT",
-      "durationMs": 195493,
-      "playedAt": "2026-09-24T02:04:23.630Z"
+      "album": "The Actual Proof",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aef4500f9920f7a2464cc883",
+      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew",
+      "durationMs": 163636,
+      "playedAt": "2026-09-24T20:50:41.003Z"
     },
     {
-      "name": "Under the Sea",
+      "name": "I'm Not Sure",
       "artists": [
-        "Alan Menken",
-        "Howard Ashman",
-        "Samuel E. Wright",
-        "Disney"
+        "Rory Sturgeon",
+        "Sarah Kang",
+        "Awon"
       ],
-      "album": "The Little Mermaid Special Edition",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27396029fe9e2624ccf9ff08ba8",
-      "url": "https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7",
-      "durationMs": 195146,
-      "playedAt": "2026-09-24T02:01:11.134Z"
+      "album": "I'm Not Sure",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27308fae6894f01a64adab6b710",
+      "url": "https://open.spotify.com/track/46vXPWnj7uY8jYS3boKCno",
+      "durationMs": 185187,
+      "playedAt": "2026-09-24T20:02:04.179Z"
     }
   ],
   "topArtists": [
@@ -144,25 +152,35 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
+      "genres": [
+        "lo-fi",
+        "lo-fi beats",
+        "jazz beats"
+      ]
     },
     {
       "name": "Awon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
       "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": []
+      "genres": [
+        "jazz rap"
+      ]
     },
     {
       "name": "Norah Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
       "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-      "genres": []
+      "genres": [
+        "jazz pop"
+      ]
     },
     {
       "name": "Rapallo",
@@ -174,7 +192,9 @@
       "name": "Peter LeMarc",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
       "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Frank Ocean",
@@ -186,7 +206,10 @@
       "name": "Eric Clapton",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
       "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
-      "genres": []
+      "genres": [
+        "blues rock",
+        "classic rock"
+      ]
     }
   ],
   "topTracks": [
