@@ -1,116 +1,138 @@
 {
-  "updatedAt": "2026-09-23T23:50:07.413Z",
+  "updatedAt": "2026-09-24T02:57:49.809Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Footloose",
+      "name": "Almost There - From \"The Princess and the Frog\" / Soundtrack Version",
       "artists": [
-        "Kenny Loggins"
+        "Anika Noni Rose"
       ],
-      "album": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27319db9ac54c80a898a179f0f1",
-      "url": "https://open.spotify.com/track/6W2VbtvMrDXm5vYeB7amkO",
-      "durationMs": 220706,
-      "playedAt": "2026-09-23T18:34:58.844Z"
+      "album": "Disney Summer Songs , Vol. 2",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c56ef0b0c3126d96867dea49",
+      "url": "https://open.spotify.com/track/7GBAXK535UBq8ftRh86FXq",
+      "durationMs": 144426,
+      "playedAt": "2026-09-24T02:23:22.970Z"
     },
     {
-      "name": "Dancing with Myself",
+      "name": "Les Poissons",
       "artists": [
-        "Generation X"
+        "Alan Menken",
+        "Howard Ashman",
+        "Rene Auberjonois",
+        "Disney",
+        "J.A.C. Redford"
       ],
-      "album": "Kiss Me Deadly",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d64245eb18975869fb139a3",
-      "url": "https://open.spotify.com/track/1lEhKudlkpBsh6S7JyvvHs",
-      "durationMs": 228080,
-      "playedAt": "2026-09-23T18:31:21.113Z"
+      "album": "The Little Mermaid Special Edition",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27396029fe9e2624ccf9ff08ba8",
+      "url": "https://open.spotify.com/track/04LkB4linu702YDzlrQNDi",
+      "durationMs": 95706,
+      "playedAt": "2026-09-24T02:21:01.538Z"
     },
     {
-      "name": "Everybody Wants To Rule The World",
+      "name": "Don't You Worry 'Bout A Thing",
       "artists": [
-        "Tears For Fears"
+        "Tori Kelly"
       ],
-      "album": "Songs From The Big Chair",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e12c35cb4c848a927ef4b69",
-      "url": "https://open.spotify.com/track/2YiCMmONQcoMPX2bV1LxE0",
-      "durationMs": 251480,
-      "playedAt": "2026-09-23T18:27:36.043Z"
+      "album": "Don't You Worry 'Bout A Thing (From \"Sing\" Original Motion Picture Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273289bc1e586b22ad2bb50edd8",
+      "url": "https://open.spotify.com/track/3PLyl3Ir75VkGgX0KEehqh",
+      "durationMs": 241386,
+      "playedAt": "2026-09-24T02:19:28.813Z"
     },
     {
-      "name": "Don't You Want Me",
+      "name": "You're Welcome - From \"Moana\"/Soundtrack Version",
       "artists": [
-        "The Human League"
+        "Dwayne Johnson",
+        "Disney"
       ],
-      "album": "Don't You Want Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738521e6b66726ca03b2b73172",
-      "url": "https://open.spotify.com/track/3AIEEEIDJFnqv8rozNVCRZ",
-      "durationMs": 238000,
-      "playedAt": "2026-09-23T18:23:27.726Z"
+      "album": "Disney Summer Songs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734a5227191541ed9e1853d092",
+      "url": "https://open.spotify.com/track/2ldoyUu1SRf96pQ6G5n3gY",
+      "durationMs": 164866,
+      "playedAt": "2026-09-24T02:15:30.436Z"
     },
     {
-      "name": "We Got The Beat",
+      "name": "Zero To Hero",
       "artists": [
-        "The Go-Go's"
+        "Chorus - Hercules",
+        "Lillias White",
+        "Cheryl Freeman",
+        "LaChanze",
+        "Roz Ryan",
+        "Vaneese Thomas",
+        "Tawatha Agee",
+        "Disney"
       ],
-      "album": "Beauty And The Beat",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738a25755534e84d8a604e6b38",
-      "url": "https://open.spotify.com/track/5kz9GDBTX846OXwqWoyKzF",
-      "durationMs": 153133,
-      "playedAt": "2026-09-23T18:19:32.795Z"
+      "album": "Hercules (Original Motion Picture Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f6a713be4f418307ab7ffaf4",
+      "url": "https://open.spotify.com/track/4zDfgax6Ihb0UWdour1ZEs",
+      "durationMs": 140573,
+      "playedAt": "2026-09-24T02:12:48.630Z"
     },
     {
-      "name": "Need You Tonight",
+      "name": "Prince Ali",
       "artists": [
-        "INXS"
+        "Robin Williams",
+        "Disney"
       ],
-      "album": "Kick (Remastered 2011)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dac4efc0ebdfd9d92f127129",
-      "url": "https://open.spotify.com/track/3h04eZTnmFLRMjZajbrp2R",
-      "durationMs": 181106,
-      "playedAt": "2026-09-23T18:17:02.689Z"
+      "album": "Aladdin Special Edition",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734a4b92dcf7a5c51cc4f7424c",
+      "url": "https://open.spotify.com/track/2n2ikq6Y21aFrootCsdsf3",
+      "durationMs": 171760,
+      "playedAt": "2026-09-24T02:10:31.038Z"
     },
     {
-      "name": "Maniac",
+      "name": "I'll Make a Man Out of You",
       "artists": [
-        "Michael Sembello"
+        "Donny Osmond",
+        "Chorus - Mulan",
+        "Disney"
       ],
-      "album": "Flashdance (Original Soundtrack From The Motion Picture)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737b436d31c5ae44b334736619",
-      "url": "https://open.spotify.com/track/0QKfiqpEU4h9ycPSzIFwYe",
-      "durationMs": 244706,
-      "playedAt": "2026-09-23T18:14:04.589Z"
+      "album": "Mulan (Original Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc",
+      "url": "https://open.spotify.com/track/28UMEtwyUUy5u0UWOVHwiI",
+      "durationMs": 201680,
+      "playedAt": "2026-09-24T02:07:42.354Z"
     },
     {
-      "name": "Danger Zone - From \"Top Gun\" Original Soundtrack",
+      "name": "Part of Your World",
       "artists": [
-        "Kenny Loggins"
+        "Alan Menken",
+        "Howard Ashman",
+        "Jodi Benson",
+        "Disney",
+        "J.A.C. Redford"
       ],
-      "album": "Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27319db9ac54c80a898a179f0f1",
-      "url": "https://open.spotify.com/track/34x6hEJgGAOQvmlMql5Ige",
-      "durationMs": 215133,
-      "playedAt": "2026-09-23T18:10:02.892Z"
+      "album": "The Little Mermaid Special Edition",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27396029fe9e2624ccf9ff08ba8",
+      "url": "https://open.spotify.com/track/7tUSJY4nsDBJTjd1UXKRsT",
+      "durationMs": 195493,
+      "playedAt": "2026-09-24T02:04:23.630Z"
     },
     {
-      "name": "Take on Me",
+      "name": "Under the Sea",
       "artists": [
-        "a-ha"
+        "Alan Menken",
+        "Howard Ashman",
+        "Samuel E. Wright",
+        "Disney"
       ],
-      "album": "Hunting High and Low",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53",
-      "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L",
-      "durationMs": 225280,
-      "playedAt": "2026-09-23T16:27:25.727Z"
+      "album": "The Little Mermaid Special Edition",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27396029fe9e2624ccf9ff08ba8",
+      "url": "https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7",
+      "durationMs": 195146,
+      "playedAt": "2026-09-24T02:01:11.134Z"
     },
     {
-      "name": "Billie Jean",
+      "name": "Walk Like an Egyptian",
       "artists": [
-        "Michael Jackson"
+        "The Bangles"
       ],
-      "album": "Thriller 25 Super Deluxe Edition",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734121faee8df82c526cbab2be",
-      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5",
-      "durationMs": 293826,
-      "playedAt": "2026-09-23T16:04:36.608Z"
+      "album": "Different Light (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734aaad3bb593721bcaa6827d6",
+      "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF",
+      "durationMs": 203226,
+      "playedAt": "2026-09-24T01:04:46.676Z"
     }
   ],
   "topArtists": [
