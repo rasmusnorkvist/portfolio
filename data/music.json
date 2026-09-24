@@ -1,7 +1,22 @@
 {
-  "updatedAt": "2026-09-24T13:40:51.599Z",
+  "updatedAt": "2026-09-24T18:07:36.557Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Honor To Us All",
+      "artists": [
+        "Lea Salonga",
+        "Beth Fowler",
+        "Marni Nixon",
+        "Chorus - Mulan",
+        "Disney"
+      ],
+      "album": "Mulan (Original Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27388781d268ea3b5a35518eecc",
+      "url": "https://open.spotify.com/track/78EMhiyAcalWWtnpk20Eoo",
+      "durationMs": 183200,
+      "playedAt": "2026-09-24T14:56:34.422Z"
+    },
     {
       "name": "Almost There - From \"The Princess and the Frog\" / Soundtrack Version",
       "artists": [
@@ -122,17 +137,6 @@
       "url": "https://open.spotify.com/track/6oYkwjI1TKP9D0Y9II1GT7",
       "durationMs": 195146,
       "playedAt": "2026-09-24T02:01:11.134Z"
-    },
-    {
-      "name": "Walk Like an Egyptian",
-      "artists": [
-        "The Bangles"
-      ],
-      "album": "Different Light (Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734aaad3bb593721bcaa6827d6",
-      "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF",
-      "durationMs": 203226,
-      "playedAt": "2026-09-24T01:04:46.676Z"
     }
   ],
   "topArtists": [
