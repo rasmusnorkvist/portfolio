@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-09-25T00:14:28.009Z",
-  "nowPlaying": {
-    "name": "The Embrace",
-    "artists": [
-      "Awon",
-      "The Other Guys"
-    ],
-    "album": "Solidified",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351fc534b66739a4c7a7f0113",
-    "url": "https://open.spotify.com/track/299YgNrq2sY0lopbqRiTWa",
-    "durationMs": 167740,
-    "isPlaying": true,
-    "progressMs": 162640
-  },
+  "updatedAt": "2026-09-25T05:11:02.144Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "The Embrace",
+      "artists": [
+        "Awon",
+        "The Other Guys"
+      ],
+      "album": "Solidified",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351fc534b66739a4c7a7f0113",
+      "url": "https://open.spotify.com/track/299YgNrq2sY0lopbqRiTWa",
+      "durationMs": 167740,
+      "playedAt": "2026-09-25T00:14:33.987Z"
+    },
     {
       "name": "Gotta Get Away (feat. Damu the Fudgemunk & A.G.)",
       "artists": [
@@ -122,18 +122,6 @@
       "url": "https://open.spotify.com/track/37NJtv7Cbkb9potgl3pArj",
       "durationMs": 147617,
       "playedAt": "2026-09-24T23:47:32.577Z"
-    },
-    {
-      "name": "Bonzai Interlude",
-      "artists": [
-        "Mr Boss",
-        "Jakaboski"
-      ],
-      "album": "The Landing, Pt. 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27333b597932badf42f8e1b8d5e",
-      "url": "https://open.spotify.com/track/12qZIwHZwaSL7qE6lYlvuJ",
-      "durationMs": 96000,
-      "playedAt": "2026-09-24T23:45:08.100Z"
     }
   ],
   "topArtists": [
