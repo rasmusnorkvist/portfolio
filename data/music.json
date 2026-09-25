@@ -1,150 +1,139 @@
 {
-  "updatedAt": "2026-09-24T21:39:35.469Z",
+  "updatedAt": "2026-09-25T00:14:28.009Z",
   "nowPlaying": {
-    "name": "Sugar Cane",
+    "name": "The Embrace",
     "artists": [
       "Awon",
-      "Confidence",
-      "J Ferra",
-      "Solomon"
+      "The Other Guys"
     ],
-    "album": "The Process",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bbcfb36220e14ce1ad57dc0f",
-    "url": "https://open.spotify.com/track/1JLvpUqYeKhJE2dynTUdG7",
-    "durationMs": 235000,
+    "album": "Solidified",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351fc534b66739a4c7a7f0113",
+    "url": "https://open.spotify.com/track/299YgNrq2sY0lopbqRiTWa",
+    "durationMs": 167740,
     "isPlaying": true,
-    "progressMs": 121801
+    "progressMs": 162640
   },
   "recentlyPlayed": [
     {
-      "name": "Problems",
+      "name": "Gotta Get Away (feat. Damu the Fudgemunk & A.G.)",
       "artists": [
-        "Awon",
-        "Confidence",
-        "J Ferra",
-        "Ishmael Nehemiah"
+        "K-DEF",
+        "A.G.",
+        "Damu The Fudgemunk"
       ],
-      "album": "Problems",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737ad7f6cb94ef5f8b3aa1aff7",
-      "url": "https://open.spotify.com/track/6fDJqTvFx2blYPaa731GIL",
-      "durationMs": 197166,
-      "playedAt": "2026-09-24T21:37:37.408Z"
+      "album": "The Unpredictable Gemini",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f921479e550b7c773fefaab6",
+      "url": "https://open.spotify.com/track/0h60RTj4PwHB4gDVGtztV5",
+      "durationMs": 179349,
+      "playedAt": "2026-09-25T00:11:49.154Z"
     },
     {
-      "name": "Now You Know",
+      "name": "So Many Styles",
       "artists": [
-        "Awon",
-        "Confidence",
-        "J Ferra"
+        "Glad2Mecha",
+        "Ill Treats",
+        "Psycho Les"
       ],
-      "album": "Now You Know",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d431dab593b66efa943cca90",
-      "url": "https://open.spotify.com/track/3K9sAibXlVZ6gtPfehWiAS",
-      "durationMs": 151648,
-      "playedAt": "2026-09-24T21:34:23.270Z"
+      "album": "The Return (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c2a407daca51c898ced95a3",
+      "url": "https://open.spotify.com/track/31Mindcd68eJ2Jyk7ocbiO",
+      "durationMs": 176451,
+      "playedAt": "2026-09-25T00:08:52.999Z"
     },
     {
-      "name": "Chains",
+      "name": "Keep It Stepping",
       "artists": [
-        "Awon",
-        "Confidence",
-        "J Ferra"
+        "Koralle",
+        "Turt"
       ],
-      "album": "Chains",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b9f124719610fb153d3cd427",
-      "url": "https://open.spotify.com/track/4J2FEWJzGDV9qYTGfAbiNq",
-      "durationMs": 152282,
-      "playedAt": "2026-09-24T21:31:54.620Z"
+      "album": "Fonografie",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27381c332d9a6c51e7475a59a5f",
+      "url": "https://open.spotify.com/track/7uTVU4m5rPXACcAICvDv2R",
+      "durationMs": 180026,
+      "playedAt": "2026-09-25T00:05:59.283Z"
     },
     {
-      "name": "Holy Gospel",
+      "name": "It's Alright",
       "artists": [
+        "SoulChef",
         "Awon",
-        "Confidence",
-        "J Ferra"
+        "Dephlow"
       ],
-      "album": "Holy Gospel",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27392daef8a8e9ddc284c0b7e9a",
-      "url": "https://open.spotify.com/track/1g6JlMR4ZKna57jWFpnySJ",
-      "durationMs": 195666,
-      "playedAt": "2026-09-24T21:29:25.313Z"
+      "album": "Foreign Affairs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fd0ff0856b7bb9b09bec980d",
+      "url": "https://open.spotify.com/track/2UuI51zJBwi5y4sefCKysS",
+      "durationMs": 176010,
+      "playedAt": "2026-09-25T00:03:02.289Z"
     },
     {
-      "name": "Props Over Here",
+      "name": "Take a Moment",
       "artists": [
-        "Awon",
-        "Confidence",
-        "J Ferra"
+        "Peebs The Prophet"
       ],
-      "album": "Another Day",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a1cec8d099c30e22ce938563",
-      "url": "https://open.spotify.com/track/32qDoktKVtd53hPGnepp3v",
-      "durationMs": 102197,
-      "playedAt": "2026-09-24T21:26:12.701Z"
+      "album": "Ills of the Earth",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27350c9104f823d9de8c3897156",
+      "url": "https://open.spotify.com/track/5rSZ4ioUjfgFHZleHG1vQc",
+      "durationMs": 219130,
+      "playedAt": "2026-09-25T00:00:09.387Z"
     },
     {
-      "name": "Problem Solver (feat. Adad)",
+      "name": "Natural High",
       "artists": [
-        "Awon",
-        "Phoniks",
-        "Adad"
-      ],
-      "album": "Knowledge of Self",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735d3fc3b21ff9c46cc29ae9f9",
-      "url": "https://open.spotify.com/track/4aA9Zj6nzrdBjjuY8lQDxL",
-      "durationMs": 240505,
-      "playedAt": "2026-09-24T21:23:03.728Z"
-    },
-    {
-      "name": "Soul Flower",
-      "artists": [
-        "Mojo Flows",
         "Awon"
       ],
-      "album": "Soul Flower",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738a8bafe1e013710f6f7b8859",
-      "url": "https://open.spotify.com/track/7yhFEiJYlJwC0nAgpZvLPe",
-      "durationMs": 173278,
-      "playedAt": "2026-09-24T21:03:10.580Z"
+      "album": "Matte Black Soul",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736e0a46dd0440a9ba5e2d9fd4",
+      "url": "https://open.spotify.com/track/1T7GPnQqQBYvRFS0qy8uvs",
+      "durationMs": 208695,
+      "playedAt": "2026-09-24T23:56:33.187Z"
     },
     {
-      "name": "Street Jazz",
+      "name": "Steady",
       "artists": [
-        "Awon",
-        "Dephlow",
-        "Phoniks"
+        "CYNE"
       ],
-      "album": "Sleep Is the Cousin of Death",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738f52c6ef7196c7b1b5c7a3f6",
-      "url": "https://open.spotify.com/track/18Qp2oQlUvoG09Xh5vlp4Z",
-      "durationMs": 154837,
-      "playedAt": "2026-09-24T20:53:12.798Z"
+      "album": "Time Being (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a1d5a4f7a04c507ba9b86bbb",
+      "url": "https://open.spotify.com/track/4xgMOh65Hy9v5ulfEhL8bi",
+      "durationMs": 180000,
+      "playedAt": "2026-09-24T23:53:07.488Z"
     },
     {
-      "name": "The Rain",
+      "name": "No Pity Party",
       "artists": [
-        "Awon",
-        "Phoniks",
-        "Tiff the Gift"
+        "DJ Nu-Mark",
+        "Slimkid3"
       ],
-      "album": "The Actual Proof",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aef4500f9920f7a2464cc883",
-      "url": "https://open.spotify.com/track/1aI71C2hn6RGLhNPpD2Gew",
-      "durationMs": 163636,
-      "playedAt": "2026-09-24T20:50:41.003Z"
+      "album": "Slimkid3 & DJ Nu-Mark",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27319b57532081c9343b3384136",
+      "url": "https://open.spotify.com/track/7yRYqKq2hOAT4aKQHUz2R9",
+      "durationMs": 160888,
+      "playedAt": "2026-09-24T23:50:10.600Z"
     },
     {
-      "name": "I'm Not Sure",
+      "name": "Make It Happen",
       "artists": [
-        "Rory Sturgeon",
-        "Sarah Kang",
-        "Awon"
+        "Glad2Mecha",
+        "Ill Treats",
+        "Grand Puba"
       ],
-      "album": "I'm Not Sure",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27308fae6894f01a64adab6b710",
-      "url": "https://open.spotify.com/track/46vXPWnj7uY8jYS3boKCno",
-      "durationMs": 185187,
-      "playedAt": "2026-09-24T20:02:04.179Z"
+      "album": "The Return (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c2a407daca51c898ced95a3",
+      "url": "https://open.spotify.com/track/37NJtv7Cbkb9potgl3pArj",
+      "durationMs": 147617,
+      "playedAt": "2026-09-24T23:47:32.577Z"
+    },
+    {
+      "name": "Bonzai Interlude",
+      "artists": [
+        "Mr Boss",
+        "Jakaboski"
+      ],
+      "album": "The Landing, Pt. 1",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27333b597932badf42f8e1b8d5e",
+      "url": "https://open.spotify.com/track/12qZIwHZwaSL7qE6lYlvuJ",
+      "durationMs": 96000,
+      "playedAt": "2026-09-24T23:45:08.100Z"
     }
   ],
   "topArtists": [
@@ -152,35 +141,25 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": [
-        "lo-fi",
-        "lo-fi beats",
-        "jazz beats"
-      ]
+      "genres": []
     },
     {
       "name": "Awon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
       "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": [
-        "jazz rap"
-      ]
+      "genres": []
     },
     {
       "name": "Norah Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
       "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-      "genres": [
-        "jazz pop"
-      ]
+      "genres": []
     },
     {
       "name": "Rapallo",
@@ -192,9 +171,7 @@
       "name": "Peter LeMarc",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
       "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "Frank Ocean",
@@ -206,10 +183,7 @@
       "name": "Eric Clapton",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
       "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
-      "genres": [
-        "blues rock",
-        "classic rock"
-      ]
+      "genres": []
     }
   ],
   "topTracks": [
@@ -254,6 +228,18 @@
       "durationMs": 45640
     },
     {
+      "name": "Holy Gospel",
+      "artists": [
+        "Awon",
+        "Confidence",
+        "J Ferra"
+      ],
+      "album": "Holy Gospel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27392daef8a8e9ddc284c0b7e9a",
+      "url": "https://open.spotify.com/track/1g6JlMR4ZKna57jWFpnySJ",
+      "durationMs": 195666
+    },
+    {
       "name": "Stepp, min stepp",
       "artists": [
         "Jan Johansson"
@@ -284,16 +270,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736d61a0286817cd75d35eb67e",
       "url": "https://open.spotify.com/track/7pFRhCj70NUNZG4xMDEQj8",
       "durationMs": 96343
-    },
-    {
-      "name": "Misdemeanor",
-      "artists": [
-        "Foster Sylvers"
-      ],
-      "album": "Foster Sylvers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a33024af69e0bcf087d3e20a",
-      "url": "https://open.spotify.com/track/0ApFfTbtX1775WkrzZSx4y",
-      "durationMs": 153346
     }
   ],
   "featuredPlaylists": []
