@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-09-25T19:24:06.340Z",
+  "updatedAt": "2026-09-25T22:37:14.057Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Juicy Grub",
+      "artists": [
+        "Lady Paradox",
+        "Pat D",
+        "Yousif"
+      ],
+      "album": "Soulscapes & Jazz Breaks",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27358e071c0b921349029ad6f2f",
+      "url": "https://open.spotify.com/track/0ZSGpKXn2d5jjo395iNuhm",
+      "durationMs": 242195,
+      "playedAt": "2026-09-25T22:06:18.103Z"
+    },
     {
       "name": "The Embrace",
       "artists": [
@@ -109,19 +122,6 @@
       "url": "https://open.spotify.com/track/7yRYqKq2hOAT4aKQHUz2R9",
       "durationMs": 160888,
       "playedAt": "2026-09-24T23:50:10.600Z"
-    },
-    {
-      "name": "Make It Happen",
-      "artists": [
-        "Glad2Mecha",
-        "Ill Treats",
-        "Grand Puba"
-      ],
-      "album": "The Return (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c2a407daca51c898ced95a3",
-      "url": "https://open.spotify.com/track/37NJtv7Cbkb9potgl3pArj",
-      "durationMs": 147617,
-      "playedAt": "2026-09-24T23:47:32.577Z"
     }
   ],
   "topArtists": [
