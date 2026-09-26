@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-09-25T22:37:14.057Z",
+  "updatedAt": "2026-09-26T01:09:10.506Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Cissy Strut",
+      "artists": [
+        "The Meters"
+      ],
+      "album": "The Meters",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a93a02d8fbe0c68d22859506",
+      "url": "https://open.spotify.com/track/0WSlOSMLJWoWUpWci9nnRb",
+      "durationMs": 186853,
+      "playedAt": "2026-09-26T01:00:33.333Z"
+    },
+    {
+      "name": "Cutie Pie",
+      "artists": [
+        "One Way"
+      ],
+      "album": "Cutie Pie",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c31b320ff1d2111ab44716f",
+      "url": "https://open.spotify.com/track/3kim6v8wY7HLPaNmw99SxD",
+      "durationMs": 328893,
+      "playedAt": "2026-09-26T00:54:41.617Z"
+    },
+    {
+      "name": "It's Your Thing",
+      "artists": [
+        "The Isley Brothers"
+      ],
+      "album": "It's Our Thing (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dbaa9bf27b9f7db47f5235a8",
+      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ",
+      "durationMs": 169296,
+      "playedAt": "2026-09-26T00:49:15.715Z"
+    },
+    {
+      "name": "Stomp! - Single Version",
+      "artists": [
+        "The Brothers Johnson"
+      ],
+      "album": "Strawberry Letter 23: The Very Best Of The Brothers Johnson",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379956b5acca04ed583ba74f3",
+      "url": "https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb",
+      "durationMs": 247133,
+      "playedAt": "2026-09-26T00:46:29.443Z"
+    },
+    {
+      "name": "Gimme Some More",
+      "artists": [
+        "The J.B.'s"
+      ],
+      "album": "Food For Thought",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c94a22141d378bedd6bc3b9a",
+      "url": "https://open.spotify.com/track/1NXyoATCYylbjSDFe8FHbJ",
+      "durationMs": 187560,
+      "playedAt": "2026-09-26T00:42:25.318Z"
+    },
     {
       "name": "Juicy Grub",
       "artists": [
@@ -64,64 +119,6 @@
       "url": "https://open.spotify.com/track/7uTVU4m5rPXACcAICvDv2R",
       "durationMs": 180026,
       "playedAt": "2026-09-25T00:05:59.283Z"
-    },
-    {
-      "name": "It's Alright",
-      "artists": [
-        "SoulChef",
-        "Awon",
-        "Dephlow"
-      ],
-      "album": "Foreign Affairs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fd0ff0856b7bb9b09bec980d",
-      "url": "https://open.spotify.com/track/2UuI51zJBwi5y4sefCKysS",
-      "durationMs": 176010,
-      "playedAt": "2026-09-25T00:03:02.289Z"
-    },
-    {
-      "name": "Take a Moment",
-      "artists": [
-        "Peebs The Prophet"
-      ],
-      "album": "Ills of the Earth",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27350c9104f823d9de8c3897156",
-      "url": "https://open.spotify.com/track/5rSZ4ioUjfgFHZleHG1vQc",
-      "durationMs": 219130,
-      "playedAt": "2026-09-25T00:00:09.387Z"
-    },
-    {
-      "name": "Natural High",
-      "artists": [
-        "Awon"
-      ],
-      "album": "Matte Black Soul",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736e0a46dd0440a9ba5e2d9fd4",
-      "url": "https://open.spotify.com/track/1T7GPnQqQBYvRFS0qy8uvs",
-      "durationMs": 208695,
-      "playedAt": "2026-09-24T23:56:33.187Z"
-    },
-    {
-      "name": "Steady",
-      "artists": [
-        "CYNE"
-      ],
-      "album": "Time Being (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a1d5a4f7a04c507ba9b86bbb",
-      "url": "https://open.spotify.com/track/4xgMOh65Hy9v5ulfEhL8bi",
-      "durationMs": 180000,
-      "playedAt": "2026-09-24T23:53:07.488Z"
-    },
-    {
-      "name": "No Pity Party",
-      "artists": [
-        "DJ Nu-Mark",
-        "Slimkid3"
-      ],
-      "album": "Slimkid3 & DJ Nu-Mark",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27319b57532081c9343b3384136",
-      "url": "https://open.spotify.com/track/7yRYqKq2hOAT4aKQHUz2R9",
-      "durationMs": 160888,
-      "playedAt": "2026-09-24T23:50:10.600Z"
     }
   ],
   "topArtists": [
@@ -129,12 +126,6 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
-    },
-    {
-      "name": "Jazzinuf",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
-      "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
       "genres": []
     },
     {
@@ -171,6 +162,12 @@
       "name": "Eric Clapton",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
       "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
+      "genres": []
+    },
+    {
+      "name": "The Delfonics",
+      "imageUrl": "https://i.scdn.co/image/c923d6436c698e5847c2ef79af5b2cbdfab8aaf8",
+      "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4",
       "genres": []
     }
   ],
@@ -238,26 +235,24 @@
       "durationMs": 224306
     },
     {
-      "name": "No One's Watching Me (feat. Olivia Dean)",
+      "name": "Misdemeanor",
       "artists": [
-        "Ezra Collective",
-        "Olivia Dean"
+        "Foster Sylvers"
       ],
-      "album": "Dance, No One's Watching",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8e913bf1a4776a5fe27ce28",
-      "url": "https://open.spotify.com/track/70VTTe96UJ9QUyFYbsnW5V",
-      "durationMs": 262306
+      "album": "Foster Sylvers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a33024af69e0bcf087d3e20a",
+      "url": "https://open.spotify.com/track/0ApFfTbtX1775WkrzZSx4y",
+      "durationMs": 153346
     },
     {
-      "name": "Soul Mates",
+      "name": "Ridin' High (Vinyl Mix)",
       "artists": [
-        "Jazzinuf",
-        "Etymology Records"
+        "The New Establishment"
       ],
-      "album": "Soul Mates",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736d61a0286817cd75d35eb67e",
-      "url": "https://open.spotify.com/track/7pFRhCj70NUNZG4xMDEQj8",
-      "durationMs": 96343
+      "album": "The Other Day",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fd2cd76d5ae41e46962bc4d3",
+      "url": "https://open.spotify.com/track/1IIPFz5QG8wChKV4m7FVz9",
+      "durationMs": 186749
     }
   ],
   "featuredPlaylists": []
