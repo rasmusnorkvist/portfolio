@@ -1,7 +1,69 @@
 {
-  "updatedAt": "2026-09-26T18:57:39.700Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-26T21:54:45.807Z",
+  "nowPlaying": {
+    "name": "Stay For Love",
+    "artists": [
+      "Kaskade",
+      "Brieanna Grace"
+    ],
+    "album": "ORIGIN //",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3fbaafbeafd82a392865dc0",
+    "url": "https://open.spotify.com/track/4jVuZjOuBL2yj4R3fgeBAf",
+    "durationMs": 274090,
+    "isPlaying": true,
+    "progressMs": 190156
+  },
   "recentlyPlayed": [
+    {
+      "name": "Sexy Magic (from GTAVI: The Album)",
+      "artists": [
+        "CA7RIEL & Paco Amoroso",
+        "PinkPantheress",
+        "Fred again..",
+        "Etienne de Crécy ",
+        "Grand Theft Auto VI"
+      ],
+      "album": "Sexy Magic (from GTAVI: The Album)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273428173abda5ff463c0a8c27d",
+      "url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF",
+      "durationMs": 195840,
+      "playedAt": "2026-09-26T21:51:52.991Z"
+    },
+    {
+      "name": "Just A Little Bit More",
+      "artists": [
+        "Mau P"
+      ],
+      "album": "Just A Little Bit More",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b063f96e99a788df90029270",
+      "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q",
+      "durationMs": 214038,
+      "playedAt": "2026-09-26T21:43:38.481Z"
+    },
+    {
+      "name": "Woops",
+      "artists": [
+        "Dimitri Vegas",
+        "Dj Bountyhunter",
+        "BRANDON"
+      ],
+      "album": "Woops",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739782bc006ac48239c860b5b0",
+      "url": "https://open.spotify.com/track/2q1i9lcsBPBtQRSWTu8gDp",
+      "durationMs": 127413,
+      "playedAt": "2026-09-26T21:40:51.632Z"
+    },
+    {
+      "name": "Woke up From",
+      "artists": [
+        "Jonas Orbiting"
+      ],
+      "album": "Hazy State",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c37fcae140bafe173242680",
+      "url": "https://open.spotify.com/track/5ccaN0APFf5uf2SkTs2S9s",
+      "durationMs": 394273,
+      "playedAt": "2026-09-26T21:37:44.426Z"
+    },
     {
       "name": "Cissy Strut",
       "artists": [
@@ -69,56 +131,6 @@
       "url": "https://open.spotify.com/track/0ZSGpKXn2d5jjo395iNuhm",
       "durationMs": 242195,
       "playedAt": "2026-09-25T22:06:18.103Z"
-    },
-    {
-      "name": "The Embrace",
-      "artists": [
-        "Awon",
-        "The Other Guys"
-      ],
-      "album": "Solidified",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351fc534b66739a4c7a7f0113",
-      "url": "https://open.spotify.com/track/299YgNrq2sY0lopbqRiTWa",
-      "durationMs": 167740,
-      "playedAt": "2026-09-25T00:14:33.987Z"
-    },
-    {
-      "name": "Gotta Get Away (feat. Damu the Fudgemunk & A.G.)",
-      "artists": [
-        "K-DEF",
-        "A.G.",
-        "Damu The Fudgemunk"
-      ],
-      "album": "The Unpredictable Gemini",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f921479e550b7c773fefaab6",
-      "url": "https://open.spotify.com/track/0h60RTj4PwHB4gDVGtztV5",
-      "durationMs": 179349,
-      "playedAt": "2026-09-25T00:11:49.154Z"
-    },
-    {
-      "name": "So Many Styles",
-      "artists": [
-        "Glad2Mecha",
-        "Ill Treats",
-        "Psycho Les"
-      ],
-      "album": "The Return (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c2a407daca51c898ced95a3",
-      "url": "https://open.spotify.com/track/31Mindcd68eJ2Jyk7ocbiO",
-      "durationMs": 176451,
-      "playedAt": "2026-09-25T00:08:52.999Z"
-    },
-    {
-      "name": "Keep It Stepping",
-      "artists": [
-        "Koralle",
-        "Turt"
-      ],
-      "album": "Fonografie",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27381c332d9a6c51e7475a59a5f",
-      "url": "https://open.spotify.com/track/7uTVU4m5rPXACcAICvDv2R",
-      "durationMs": 180026,
-      "playedAt": "2026-09-25T00:05:59.283Z"
     }
   ],
   "topArtists": [
