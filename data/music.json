@@ -1,19 +1,31 @@
 {
-  "updatedAt": "2026-09-26T21:54:45.807Z",
-  "nowPlaying": {
-    "name": "Stay For Love",
-    "artists": [
-      "Kaskade",
-      "Brieanna Grace"
-    ],
-    "album": "ORIGIN //",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3fbaafbeafd82a392865dc0",
-    "url": "https://open.spotify.com/track/4jVuZjOuBL2yj4R3fgeBAf",
-    "durationMs": 274090,
-    "isPlaying": true,
-    "progressMs": 190156
-  },
+  "updatedAt": "2026-09-27T00:10:20.017Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Happiness Is So Sad",
+      "artists": [
+        "Swedish House Mafia",
+        "Lykke Li"
+      ],
+      "album": "Happiness Is So Sad",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d62c835cd50b418a53a45c68",
+      "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD",
+      "durationMs": 232835,
+      "playedAt": "2026-09-26T21:59:20.694Z"
+    },
+    {
+      "name": "Stay For Love",
+      "artists": [
+        "Kaskade",
+        "Brieanna Grace"
+      ],
+      "album": "ORIGIN //",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3fbaafbeafd82a392865dc0",
+      "url": "https://open.spotify.com/track/4jVuZjOuBL2yj4R3fgeBAf",
+      "durationMs": 274090,
+      "playedAt": "2026-09-26T21:55:45.794Z"
+    },
     {
       "name": "Sexy Magic (from GTAVI: The Album)",
       "artists": [
@@ -107,30 +119,6 @@
       "url": "https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb",
       "durationMs": 247133,
       "playedAt": "2026-09-26T00:46:29.443Z"
-    },
-    {
-      "name": "Gimme Some More",
-      "artists": [
-        "The J.B.'s"
-      ],
-      "album": "Food For Thought",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c94a22141d378bedd6bc3b9a",
-      "url": "https://open.spotify.com/track/1NXyoATCYylbjSDFe8FHbJ",
-      "durationMs": 187560,
-      "playedAt": "2026-09-26T00:42:25.318Z"
-    },
-    {
-      "name": "Juicy Grub",
-      "artists": [
-        "Lady Paradox",
-        "Pat D",
-        "Yousif"
-      ],
-      "album": "Soulscapes & Jazz Breaks",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27358e071c0b921349029ad6f2f",
-      "url": "https://open.spotify.com/track/0ZSGpKXn2d5jjo395iNuhm",
-      "durationMs": 242195,
-      "playedAt": "2026-09-25T22:06:18.103Z"
     }
   ],
   "topArtists": [
