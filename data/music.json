@@ -1,118 +1,116 @@
 {
-  "updatedAt": "2026-09-27T19:29:35.262Z",
+  "updatedAt": "2026-09-27T22:31:27.924Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Curves",
+      "name": "Slippery People - 2005 Remaster",
       "artists": [
-        "Tord Gustavsen Trio"
+        "Talking Heads"
       ],
-      "album": "The Other Side",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5e4dd75f825b752af2b0680",
-      "url": "https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo",
-      "durationMs": 379533,
-      "playedAt": "2026-09-27T18:08:15.650Z"
+      "album": "Speaking in Tongues (Deluxe Version)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e35e2e2a4bfa8a30a78fc532",
+      "url": "https://open.spotify.com/track/4M4xrAyXs4f7IW9IgIldJz",
+      "durationMs": 306320,
+      "playedAt": "2026-09-27T21:18:09.783Z"
     },
     {
-      "name": "I Fall in Love Too Easily",
+      "name": "Beam Me Up",
       "artists": [
-        "Lars Gullin"
+        "Midnight Magic"
       ],
-      "album": "Lars Gullin Quartet",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27348776c13fef3fc78fa6cbaa5",
-      "url": "https://open.spotify.com/track/6cl8MlCE3MRsgo1fvZXu9G",
-      "durationMs": 210666,
-      "playedAt": "2026-09-27T18:01:59.114Z"
+      "album": "Walking the Midnight Streets",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730798d805f4d77da73b4c6e92",
+      "url": "https://open.spotify.com/track/75SS50WWBZINsZgccsSnGs",
+      "durationMs": 322426,
+      "playedAt": "2026-09-27T21:13:06.478Z"
     },
     {
-      "name": "Stille Esja",
+      "name": "Jibaro (Enrolle)",
       "artists": [
-        "Hvalfugl"
+        "Elkin & Nelson"
       ],
-      "album": "Island",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c921e0f08208b434ec1e914c",
-      "url": "https://open.spotify.com/track/5x3lNCohUdL1owxh1ARNaZ",
-      "durationMs": 263552,
-      "playedAt": "2026-09-27T17:58:31.489Z"
+      "album": "Angeles y Demonios",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f2abf3c3f5bf7bade32bb7f9",
+      "url": "https://open.spotify.com/track/2opg7m8jjz7rh917UGbNnB",
+      "durationMs": 450185,
+      "playedAt": "2026-09-27T21:07:47.047Z"
     },
     {
-      "name": "Polska efter Höök Olle",
+      "name": "All This Love That I'm Givin'",
       "artists": [
-        "Jan Johansson"
+        "Gwen McCrae"
       ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/6QasXgYSJVxXt5tkn0nKvb",
-      "durationMs": 150826,
-      "playedAt": "2026-09-27T17:54:10.977Z"
+      "album": "Melody of Life",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4801bb9402e834553ddc60f",
+      "url": "https://open.spotify.com/track/5ucIh5Shb9WPimGXDCaj0n",
+      "durationMs": 240012,
+      "playedAt": "2026-09-27T21:00:19.872Z"
     },
     {
-      "name": "Allt under himmelens fäste",
+      "name": "Jump to the Beat",
       "artists": [
-        "Jan Lundgren Trio"
+        "Stacy Lattisaw"
       ],
-      "album": "Svenska Landskap",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27308390e9647e8c9bf1bc639ad",
-      "url": "https://open.spotify.com/track/1ipzHyvNPVozL972kiUUuL",
-      "durationMs": 248106,
-      "playedAt": "2026-09-27T17:51:43.177Z"
+      "album": "Let Me Be Your Angel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273513613af5bd12621efa90c8e",
+      "url": "https://open.spotify.com/track/2MKsIrTocRAHcYnl6SKD4r",
+      "durationMs": 320040,
+      "playedAt": "2026-09-27T20:56:22.858Z"
     },
     {
-      "name": "Almost There",
+      "name": "I Hear Music in the Streets - François Kevorkian Mix",
       "artists": [
-        "Espen Eriksen Trio"
+        "Unlimited Touch"
       ],
-      "album": "Almost There",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731a31d36a50921bd19dd42e05",
-      "url": "https://open.spotify.com/track/5OBqVGcDzgjECmmSGBUwGT",
-      "durationMs": 268853,
-      "playedAt": "2026-09-27T17:47:37.977Z"
+      "album": "Searching to Find the One",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735eea1f5df87254889d5e1ec2",
+      "url": "https://open.spotify.com/track/5HgE5eXfu0An2moseSM635",
+      "durationMs": 413573,
+      "playedAt": "2026-09-27T20:51:05.864Z"
     },
     {
-      "name": "Berbère",
+      "name": "It Looks Like Love",
       "artists": [
-        "Henri Texier",
-        "Aldo Romano",
-        "Louis Sclavis"
+        "Goody Goody"
       ],
-      "album": "African Flashback",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733040591b3822d67bc6a46257",
-      "url": "https://open.spotify.com/track/1sd34IjmIlLQS4tKM9QPJJ",
-      "durationMs": 279266,
-      "playedAt": "2026-09-27T17:43:12.169Z"
+      "album": "Goody Goody",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273899162439600cf2ab74ed9f0",
+      "url": "https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY",
+      "durationMs": 383093,
+      "playedAt": "2026-09-27T20:44:15.162Z"
     },
     {
-      "name": "Like It Is - Remastered",
+      "name": "Let No Man Put Asunder",
       "artists": [
-        "Yusef Lateef"
+        "First Choice"
       ],
-      "album": "The Blue Yusef Lateef",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aa5336a75e67b79240816f0b",
-      "url": "https://open.spotify.com/track/23sTGlQIsLtAxKuJj9Ekrd",
-      "durationMs": 452533,
-      "playedAt": "2026-09-27T17:38:35.895Z"
+      "album": "Delusions (Bonus Version)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730179e31dada5056ec69fde6a",
+      "url": "https://open.spotify.com/track/5p3PdTiNcAz68eBNkDHgGn",
+      "durationMs": 264746,
+      "playedAt": "2026-09-27T20:37:55.074Z"
     },
     {
-      "name": "Ro",
+      "name": "Soup for One",
       "artists": [
-        "Hvalfugl"
+        "CHIC"
       ],
-      "album": "Island",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c921e0f08208b434ec1e914c",
-      "url": "https://open.spotify.com/track/5CWVFlIiH9IRbe8S2KPmCw",
-      "durationMs": 205717,
-      "playedAt": "2026-09-27T17:31:06.390Z"
+      "album": "Dance, Dance, Dance: The Best of Chic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273966507d369a0de6da093d5f1",
+      "url": "https://open.spotify.com/track/2Rr4ZOnKXUrzjhMPkmkRjK",
+      "durationMs": 335066,
+      "playedAt": "2026-09-27T20:33:33.307Z"
     },
     {
-      "name": "Visa från Utanmyra",
+      "name": "La Vie en rose",
       "artists": [
-        "Jan Johansson"
+        "Grace Jones"
       ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
-      "durationMs": 273800,
-      "playedAt": "2026-09-27T17:27:43.651Z"
+      "album": "Portfolio",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273065b99c2688ccc61113e9fb7",
+      "url": "https://open.spotify.com/track/5yJrl2r0vr6u9BXqQXZE3V",
+      "durationMs": 448000,
+      "playedAt": "2026-09-27T20:28:01.262Z"
     }
   ],
   "topArtists": [
@@ -141,12 +139,6 @@
       "genres": []
     },
     {
-      "name": "Peter LeMarc",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6046eb0c9ca508b373751bf",
-      "url": "https://open.spotify.com/artist/4VKbol7eCoEJUemlKvE3Ve",
-      "genres": []
-    },
-    {
       "name": "Frank Ocean",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
       "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
@@ -162,6 +154,12 @@
       "name": "The Delfonics",
       "imageUrl": "https://i.scdn.co/image/c923d6436c698e5847c2ef79af5b2cbdfab8aaf8",
       "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4",
+      "genres": []
+    },
+    {
+      "name": "Noah Kahan",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb5b141d30d14fb78458dac5ce",
+      "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B",
       "genres": []
     }
   ],
