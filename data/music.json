@@ -1,133 +1,118 @@
 {
-  "updatedAt": "2026-09-27T15:44:10.275Z",
-  "nowPlaying": {
-    "name": "Ain't No Love In The Heart Of The City - Single Version",
-    "artists": [
-      "Bobby \"Blue\" Bland"
-    ],
-    "album": "Music For Groovin'",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738e05a1075eada1ffe2889aa1",
-    "url": "https://open.spotify.com/track/14rTFBs1cCkOBp5JPUrJhw",
-    "durationMs": 225346,
-    "isPlaying": true,
-    "progressMs": 79723
-  },
+  "updatedAt": "2026-09-27T19:29:35.262Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "My Girl",
+      "name": "Curves",
       "artists": [
-        "The Temptations"
+        "Tord Gustavsen Trio"
       ],
-      "album": "The Temptations Sing Smokey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731a5b6271ae1c8497df20916e",
-      "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH",
-      "durationMs": 165000,
-      "playedAt": "2026-09-27T15:42:54.426Z"
+      "album": "The Other Side",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5e4dd75f825b752af2b0680",
+      "url": "https://open.spotify.com/track/5kPNj7l3Ru15LhHdWE5pVo",
+      "durationMs": 379533,
+      "playedAt": "2026-09-27T18:08:15.650Z"
     },
     {
-      "name": "Theme From Shaft - Remastered 2009",
+      "name": "I Fall in Love Too Easily",
       "artists": [
-        "Isaac Hayes"
+        "Lars Gullin"
       ],
-      "album": "Shaft (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738f8e1ef4b5901c9fc97e14a8",
-      "url": "https://open.spotify.com/track/7KMILVTQdVS4zQ8ilTcpRO",
-      "durationMs": 279200,
-      "playedAt": "2026-09-27T15:40:12.424Z"
+      "album": "Lars Gullin Quartet",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27348776c13fef3fc78fa6cbaa5",
+      "url": "https://open.spotify.com/track/6cl8MlCE3MRsgo1fvZXu9G",
+      "durationMs": 210666,
+      "playedAt": "2026-09-27T18:01:59.114Z"
     },
     {
-      "name": "It's A Shame - Remastered",
+      "name": "Stille Esja",
       "artists": [
-        "The Spinners"
+        "Hvalfugl"
       ],
-      "album": "Definitive Soul: Spinners",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27364ad0588998c7bb16749f6e8",
-      "url": "https://open.spotify.com/track/5LuVBkfELaydohNZahwvNN",
-      "durationMs": 192760,
-      "playedAt": "2026-09-27T15:35:36.170Z"
+      "album": "Island",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c921e0f08208b434ec1e914c",
+      "url": "https://open.spotify.com/track/5x3lNCohUdL1owxh1ARNaZ",
+      "durationMs": 263552,
+      "playedAt": "2026-09-27T17:58:31.489Z"
     },
     {
-      "name": "(Sittin' On) the Dock of the Bay",
+      "name": "Polska efter Höök Olle",
       "artists": [
-        "Otis Redding"
+        "Jan Johansson"
       ],
-      "album": "Atlantic 60th: Soul, Sweat And Strut",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c584610c45a37bb87e8a5be",
-      "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx",
-      "durationMs": 166826,
-      "playedAt": "2026-09-27T15:32:26.427Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/6QasXgYSJVxXt5tkn0nKvb",
+      "durationMs": 150826,
+      "playedAt": "2026-09-27T17:54:10.977Z"
     },
     {
-      "name": "Let's Stay Together",
+      "name": "Allt under himmelens fäste",
       "artists": [
-        "Al Green"
+        "Jan Lundgren Trio"
       ],
-      "album": "Let's Stay Together",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a1fc113a6858d0824d9aaf38",
-      "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y",
-      "durationMs": 199396,
-      "playedAt": "2026-09-27T15:29:42.627Z"
+      "album": "Svenska Landskap",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27308390e9647e8c9bf1bc639ad",
+      "url": "https://open.spotify.com/track/1ipzHyvNPVozL972kiUUuL",
+      "durationMs": 248106,
+      "playedAt": "2026-09-27T17:51:43.177Z"
     },
     {
-      "name": "I Heard It Through The Grapevine",
+      "name": "Almost There",
       "artists": [
-        "Marvin Gaye"
+        "Espen Eriksen Trio"
       ],
-      "album": "In The Groove",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8",
-      "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw",
-      "durationMs": 194293,
-      "playedAt": "2026-09-27T15:26:26.231Z"
+      "album": "Almost There",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731a31d36a50921bd19dd42e05",
+      "url": "https://open.spotify.com/track/5OBqVGcDzgjECmmSGBUwGT",
+      "durationMs": 268853,
+      "playedAt": "2026-09-27T17:47:37.977Z"
     },
     {
-      "name": "Happiness Is So Sad",
+      "name": "Berbère",
       "artists": [
-        "Swedish House Mafia",
-        "Lykke Li"
+        "Henri Texier",
+        "Aldo Romano",
+        "Louis Sclavis"
       ],
-      "album": "Happiness Is So Sad",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d62c835cd50b418a53a45c68",
-      "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD",
-      "durationMs": 232835,
-      "playedAt": "2026-09-26T21:59:20.694Z"
+      "album": "African Flashback",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733040591b3822d67bc6a46257",
+      "url": "https://open.spotify.com/track/1sd34IjmIlLQS4tKM9QPJJ",
+      "durationMs": 279266,
+      "playedAt": "2026-09-27T17:43:12.169Z"
     },
     {
-      "name": "Stay For Love",
+      "name": "Like It Is - Remastered",
       "artists": [
-        "Kaskade",
-        "Brieanna Grace"
+        "Yusef Lateef"
       ],
-      "album": "ORIGIN //",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3fbaafbeafd82a392865dc0",
-      "url": "https://open.spotify.com/track/4jVuZjOuBL2yj4R3fgeBAf",
-      "durationMs": 274090,
-      "playedAt": "2026-09-26T21:55:45.794Z"
+      "album": "The Blue Yusef Lateef",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aa5336a75e67b79240816f0b",
+      "url": "https://open.spotify.com/track/23sTGlQIsLtAxKuJj9Ekrd",
+      "durationMs": 452533,
+      "playedAt": "2026-09-27T17:38:35.895Z"
     },
     {
-      "name": "Sexy Magic (from GTAVI: The Album)",
+      "name": "Ro",
       "artists": [
-        "CA7RIEL & Paco Amoroso",
-        "PinkPantheress",
-        "Fred again..",
-        "Etienne de Crécy ",
-        "Grand Theft Auto VI"
+        "Hvalfugl"
       ],
-      "album": "Sexy Magic (from GTAVI: The Album)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273428173abda5ff463c0a8c27d",
-      "url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF",
-      "durationMs": 195840,
-      "playedAt": "2026-09-26T21:51:52.991Z"
+      "album": "Island",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c921e0f08208b434ec1e914c",
+      "url": "https://open.spotify.com/track/5CWVFlIiH9IRbe8S2KPmCw",
+      "durationMs": 205717,
+      "playedAt": "2026-09-27T17:31:06.390Z"
     },
     {
-      "name": "Just A Little Bit More",
+      "name": "Visa från Utanmyra",
       "artists": [
-        "Mau P"
+        "Jan Johansson"
       ],
-      "album": "Just A Little Bit More",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b063f96e99a788df90029270",
-      "url": "https://open.spotify.com/track/3wRO9Pt5iPbZTs8YT1x69Q",
-      "durationMs": 214038,
-      "playedAt": "2026-09-26T21:43:38.481Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800,
+      "playedAt": "2026-09-27T17:27:43.651Z"
     }
   ],
   "topArtists": [
@@ -212,6 +197,16 @@
       "durationMs": 186251
     },
     {
+      "name": "Stepp, min stepp",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz på ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273059e1cfa2e6a0b934e63ce79",
+      "url": "https://open.spotify.com/track/4kDOfYVSGIYvOgIS4Lb82H",
+      "durationMs": 224306
+    },
+    {
       "name": "Start",
       "artists": [
         "Frank Ocean"
@@ -220,6 +215,26 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
       "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
       "durationMs": 45640
+    },
+    {
+      "name": "Pråmdragarnas sång vid Volga",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz på ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273059e1cfa2e6a0b934e63ce79",
+      "url": "https://open.spotify.com/track/561BDyicOW61DIbfcWGaFv",
+      "durationMs": 222026
+    },
+    {
+      "name": "På ängen stod en björk",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz på ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273059e1cfa2e6a0b934e63ce79",
+      "url": "https://open.spotify.com/track/3VGSPHf05GoipHsLa204lR",
+      "durationMs": 169413
     },
     {
       "name": "Holy Gospel",
@@ -232,36 +247,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27392daef8a8e9ddc284c0b7e9a",
       "url": "https://open.spotify.com/track/1g6JlMR4ZKna57jWFpnySJ",
       "durationMs": 195666
-    },
-    {
-      "name": "Stepp, min stepp",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz på ryska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273059e1cfa2e6a0b934e63ce79",
-      "url": "https://open.spotify.com/track/4kDOfYVSGIYvOgIS4Lb82H",
-      "durationMs": 224306
-    },
-    {
-      "name": "Misdemeanor",
-      "artists": [
-        "Foster Sylvers"
-      ],
-      "album": "Foster Sylvers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a33024af69e0bcf087d3e20a",
-      "url": "https://open.spotify.com/track/0ApFfTbtX1775WkrzZSx4y",
-      "durationMs": 153346
-    },
-    {
-      "name": "Ridin' High (Vinyl Mix)",
-      "artists": [
-        "The New Establishment"
-      ],
-      "album": "The Other Day",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fd2cd76d5ae41e46962bc4d3",
-      "url": "https://open.spotify.com/track/1IIPFz5QG8wChKV4m7FVz9",
-      "durationMs": 186749
     }
   ],
   "featuredPlaylists": []
