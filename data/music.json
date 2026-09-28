@@ -1,116 +1,121 @@
 {
-  "updatedAt": "2026-09-28T01:22:04.504Z",
+  "updatedAt": "2026-09-28T07:16:20.811Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Slippery People - 2005 Remaster",
+      "name": "A Taste of Honey",
       "artists": [
-        "Talking Heads"
+        "Inge Brandenburg",
+        "Südfunk Tanzorchester"
       ],
-      "album": "Speaking in Tongues (Deluxe Version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e35e2e2a4bfa8a30a78fc532",
-      "url": "https://open.spotify.com/track/4M4xrAyXs4f7IW9IgIldJz",
-      "durationMs": 306320,
-      "playedAt": "2026-09-27T21:18:09.783Z"
+      "album": "I Love Jazz",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bcc61409ea7eda89a9a33237",
+      "url": "https://open.spotify.com/track/7gRPJxmd519cc1J3pjIsLf",
+      "durationMs": 113600,
+      "playedAt": "2026-09-28T03:05:34.136Z"
     },
     {
-      "name": "Beam Me Up",
+      "name": "Summertime",
       "artists": [
-        "Midnight Magic"
+        "Inge Brandenburg",
+        "Klaus-Doldinger-Quartett"
       ],
-      "album": "Walking the Midnight Streets",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730798d805f4d77da73b4c6e92",
-      "url": "https://open.spotify.com/track/75SS50WWBZINsZgccsSnGs",
-      "durationMs": 322426,
-      "playedAt": "2026-09-27T21:13:06.478Z"
+      "album": "I Love Jazz",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bcc61409ea7eda89a9a33237",
+      "url": "https://open.spotify.com/track/0mLiZGUttQ4653yXmbSKQ0",
+      "durationMs": 260519,
+      "playedAt": "2026-09-28T03:03:43.541Z"
     },
     {
-      "name": "Jibaro (Enrolle)",
+      "name": "Zeig mir was Liebe ist",
       "artists": [
-        "Elkin & Nelson"
+        "Inge Brandenburg",
+        "Südfunk Tanzorchester"
       ],
-      "album": "Angeles y Demonios",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f2abf3c3f5bf7bade32bb7f9",
-      "url": "https://open.spotify.com/track/2opg7m8jjz7rh917UGbNnB",
-      "durationMs": 450185,
-      "playedAt": "2026-09-27T21:07:47.047Z"
+      "album": "I Love Jazz",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bcc61409ea7eda89a9a33237",
+      "url": "https://open.spotify.com/track/0fBu0L6m2MTUndmmSDBeeZ",
+      "durationMs": 198466,
+      "playedAt": "2026-09-28T02:59:23.031Z"
     },
     {
-      "name": "All This Love That I'm Givin'",
+      "name": "Goody Goody",
       "artists": [
-        "Gwen McCrae"
+        "Inge Brandenburg"
       ],
-      "album": "Melody of Life",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4801bb9402e834553ddc60f",
-      "url": "https://open.spotify.com/track/5ucIh5Shb9WPimGXDCaj0n",
-      "durationMs": 240012,
-      "playedAt": "2026-09-27T21:00:19.872Z"
+      "album": "Gauner sind sie alle",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735092f83d0c85928275b4a9fc",
+      "url": "https://open.spotify.com/track/1IKcXvDmZJaH3BYA2MrNgB",
+      "durationMs": 131173,
+      "playedAt": "2026-09-28T02:56:07.578Z"
     },
     {
-      "name": "Jump to the Beat",
+      "name": "Don't Blame Me",
       "artists": [
-        "Stacy Lattisaw"
+        "Inge Brandenburg"
       ],
-      "album": "Let Me Be Your Angel",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273513613af5bd12621efa90c8e",
-      "url": "https://open.spotify.com/track/2MKsIrTocRAHcYnl6SKD4r",
-      "durationMs": 320040,
-      "playedAt": "2026-09-27T20:56:22.858Z"
+      "album": "Don't Blame Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b09ac45a6882a0300daf6b30",
+      "url": "https://open.spotify.com/track/72jvLkGyYibFArpmixtPxN",
+      "durationMs": 343877,
+      "playedAt": "2026-09-28T02:53:59.422Z"
     },
     {
-      "name": "I Hear Music in the Streets - François Kevorkian Mix",
+      "name": "Moritat von Mackie Messer",
       "artists": [
-        "Unlimited Touch"
+        "Inge Brandenburg",
+        "RIAS Tanzorchester"
       ],
-      "album": "Searching to Find the One",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735eea1f5df87254889d5e1ec2",
-      "url": "https://open.spotify.com/track/5HgE5eXfu0An2moseSM635",
-      "durationMs": 413573,
-      "playedAt": "2026-09-27T20:51:05.864Z"
+      "album": "I Love Jazz",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bcc61409ea7eda89a9a33237",
+      "url": "https://open.spotify.com/track/47oAYsgU8ThHw5CBrr9BaU",
+      "durationMs": 185586,
+      "playedAt": "2026-09-28T02:48:18.602Z"
     },
     {
-      "name": "It Looks Like Love",
+      "name": "Das Riesenrad",
       "artists": [
-        "Goody Goody"
+        "Inge Brandenburg",
+        "Südfunk Tanzorchester"
       ],
-      "album": "Goody Goody",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273899162439600cf2ab74ed9f0",
-      "url": "https://open.spotify.com/track/2mCLc4lZjbpcpXgNBrC5lY",
-      "durationMs": 383093,
-      "playedAt": "2026-09-27T20:44:15.162Z"
+      "album": "I Love Jazz",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bcc61409ea7eda89a9a33237",
+      "url": "https://open.spotify.com/track/4gX9mX7YjrFU2zjFF9yN4w",
+      "durationMs": 127360,
+      "playedAt": "2026-09-28T02:43:32.795Z"
     },
     {
-      "name": "Let No Man Put Asunder",
+      "name": "Mister Kelly",
       "artists": [
-        "First Choice"
+        "Monica Zetterlund"
       ],
-      "album": "Delusions (Bonus Version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730179e31dada5056ec69fde6a",
-      "url": "https://open.spotify.com/track/5p3PdTiNcAz68eBNkDHgGn",
-      "durationMs": 264746,
-      "playedAt": "2026-09-27T20:37:55.074Z"
+      "album": "Ahh! Monica!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
+      "url": "https://open.spotify.com/track/3iaBHeQP3mzU6Q1gMaj1OF",
+      "durationMs": 173240,
+      "playedAt": "2026-09-28T02:38:14.711Z"
     },
     {
-      "name": "Soup for One",
+      "name": "Sakta vi gå genom stan",
       "artists": [
-        "CHIC"
+        "Monica Zetterlund"
       ],
-      "album": "Dance, Dance, Dance: The Best of Chic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273966507d369a0de6da093d5f1",
-      "url": "https://open.spotify.com/track/2Rr4ZOnKXUrzjhMPkmkRjK",
-      "durationMs": 335066,
-      "playedAt": "2026-09-27T20:33:33.307Z"
+      "album": "Ahh! Monica!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
+      "url": "https://open.spotify.com/track/5gBWGTO2prExy9yVwhUbOU",
+      "durationMs": 202360,
+      "playedAt": "2026-09-28T02:35:21.898Z"
     },
     {
-      "name": "La Vie en rose",
+      "name": "Dobedobedo",
       "artists": [
-        "Grace Jones"
+        "Monica Zetterlund"
       ],
-      "album": "Portfolio",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273065b99c2688ccc61113e9fb7",
-      "url": "https://open.spotify.com/track/5yJrl2r0vr6u9BXqQXZE3V",
-      "durationMs": 448000,
-      "playedAt": "2026-09-27T20:28:01.262Z"
+      "album": "Monica - Monica",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4426c1320b7860dd83d96cb",
+      "url": "https://open.spotify.com/track/4T4xtZp8AJpXreBjoPsBL2",
+      "durationMs": 249840,
+      "playedAt": "2026-09-28T01:38:46.810Z"
     }
   ],
   "topArtists": [
@@ -157,9 +162,9 @@
       "genres": []
     },
     {
-      "name": "Noah Kahan",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb5b141d30d14fb78458dac5ce",
-      "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B",
+      "name": "Monica Zetterlund",
+      "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
+      "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
       "genres": []
     }
   ],
