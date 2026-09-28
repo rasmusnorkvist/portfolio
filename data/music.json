@@ -1,121 +1,127 @@
 {
-  "updatedAt": "2026-09-28T07:16:20.811Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-28T15:44:00.179Z",
+  "nowPlaying": {
+    "name": "Airport Finale / Here's Looking At You, Kid",
+    "artists": [
+      "Warner Bros Studio Orchestra"
+    ],
+    "album": "Casablanca (Original Motion Picture Soundtrack)",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
+    "url": "https://open.spotify.com/track/3Ij1a9jBlUrNpkgHNT1TL4",
+    "durationMs": 400266,
+    "isPlaying": true,
+    "progressMs": 8817
+  },
   "recentlyPlayed": [
     {
-      "name": "A Taste of Honey",
+      "name": "Rick Confronts Ilsa and Laszlo",
       "artists": [
-        "Inge Brandenburg",
-        "Südfunk Tanzorchester"
+        "Warner Bros Studio Orchestra"
       ],
-      "album": "I Love Jazz",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bcc61409ea7eda89a9a33237",
-      "url": "https://open.spotify.com/track/7gRPJxmd519cc1J3pjIsLf",
-      "durationMs": 113600,
-      "playedAt": "2026-09-28T03:05:34.136Z"
+      "album": "Casablanca (Original Motion Picture Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
+      "url": "https://open.spotify.com/track/1y6mjHiyMhtQEV1VnLeEVZ",
+      "durationMs": 143893,
+      "playedAt": "2026-09-28T15:43:52.288Z"
     },
     {
-      "name": "Summertime",
+      "name": "Ilsa Demands the Letters",
       "artists": [
-        "Inge Brandenburg",
-        "Klaus-Doldinger-Quartett"
+        "Warner Bros Studio Orchestra"
       ],
-      "album": "I Love Jazz",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bcc61409ea7eda89a9a33237",
-      "url": "https://open.spotify.com/track/0mLiZGUttQ4653yXmbSKQ0",
-      "durationMs": 260519,
-      "playedAt": "2026-09-28T03:03:43.541Z"
+      "album": "Casablanca (Original Motion Picture Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
+      "url": "https://open.spotify.com/track/0D3P367dxVgfbAO0o233rI",
+      "durationMs": 219400,
+      "playedAt": "2026-09-28T15:41:28.375Z"
     },
     {
-      "name": "Zeig mir was Liebe ist",
+      "name": "Medley (Die Wacht Am Rhein / La Marseillaise)",
       "artists": [
-        "Inge Brandenburg",
-        "Südfunk Tanzorchester"
+        "Warner Bros Studio Orchestra"
       ],
-      "album": "I Love Jazz",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bcc61409ea7eda89a9a33237",
-      "url": "https://open.spotify.com/track/0fBu0L6m2MTUndmmSDBeeZ",
-      "durationMs": 198466,
-      "playedAt": "2026-09-28T02:59:23.031Z"
+      "album": "Casablanca (Original Motion Picture Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
+      "url": "https://open.spotify.com/track/5HS7irZ8xbaSqamJCyFjWy",
+      "durationMs": 275066,
+      "playedAt": "2026-09-28T15:37:48.980Z"
     },
     {
-      "name": "Goody Goody",
+      "name": "Ilsa Returns to Rick's",
       "artists": [
-        "Inge Brandenburg"
+        "Warner Bros Studio Orchestra"
       ],
-      "album": "Gauner sind sie alle",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735092f83d0c85928275b4a9fc",
-      "url": "https://open.spotify.com/track/1IKcXvDmZJaH3BYA2MrNgB",
-      "durationMs": 131173,
-      "playedAt": "2026-09-28T02:56:07.578Z"
+      "album": "Casablanca (Original Motion Picture Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
+      "url": "https://open.spotify.com/track/3Hoq08EmpC3OsRewVtiiYz",
+      "durationMs": 191800,
+      "playedAt": "2026-09-28T15:33:13.992Z"
     },
     {
-      "name": "Don't Blame Me",
+      "name": "Medley (At La Belle Aurore)",
       "artists": [
-        "Inge Brandenburg"
+        "Warner Bros Studio Orchestra"
       ],
-      "album": "Don't Blame Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b09ac45a6882a0300daf6b30",
-      "url": "https://open.spotify.com/track/72jvLkGyYibFArpmixtPxN",
-      "durationMs": 343877,
-      "playedAt": "2026-09-28T02:53:59.422Z"
+      "album": "Casablanca (Original Motion Picture Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
+      "url": "https://open.spotify.com/track/2wbFnJD06mkGQtkb5HUT1o",
+      "durationMs": 283666,
+      "playedAt": "2026-09-28T15:30:02.080Z"
     },
     {
-      "name": "Moritat von Mackie Messer",
+      "name": "Medley (Paris Montage)",
       "artists": [
-        "Inge Brandenburg",
-        "RIAS Tanzorchester"
+        "Warner Bros Studio Orchestra"
       ],
-      "album": "I Love Jazz",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bcc61409ea7eda89a9a33237",
-      "url": "https://open.spotify.com/track/47oAYsgU8ThHw5CBrr9BaU",
-      "durationMs": 185586,
-      "playedAt": "2026-09-28T02:48:18.602Z"
+      "album": "Casablanca (Original Motion Picture Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
+      "url": "https://open.spotify.com/track/1prZhukD3a97mfYZjGjk2D",
+      "durationMs": 228773,
+      "playedAt": "2026-09-28T15:25:18.484Z"
     },
     {
-      "name": "Das Riesenrad",
+      "name": "Of All the Gin Joints In All the Towns In All the World...",
       "artists": [
-        "Inge Brandenburg",
-        "Südfunk Tanzorchester"
+        "Warner Bros Studio Orchestra"
       ],
-      "album": "I Love Jazz",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bcc61409ea7eda89a9a33237",
-      "url": "https://open.spotify.com/track/4gX9mX7YjrFU2zjFF9yN4w",
-      "durationMs": 127360,
-      "playedAt": "2026-09-28T02:43:32.795Z"
+      "album": "Casablanca (Original Motion Picture Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
+      "url": "https://open.spotify.com/track/0ahmYaH4xUcP1g72ZZRFox",
+      "durationMs": 115160,
+      "playedAt": "2026-09-28T15:21:29.676Z"
     },
     {
-      "name": "Mister Kelly",
+      "name": "Play It Sam... Play \"As Time Goes By\"",
       "artists": [
-        "Monica Zetterlund"
+        "Warner Bros Studio Orchestra"
       ],
-      "album": "Ahh! Monica!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
-      "url": "https://open.spotify.com/track/3iaBHeQP3mzU6Q1gMaj1OF",
-      "durationMs": 173240,
-      "playedAt": "2026-09-28T02:38:14.711Z"
+      "album": "Casablanca (Original Motion Picture Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
+      "url": "https://open.spotify.com/track/1z3hEqfWdPvcr4vNiMmM1h",
+      "durationMs": 298933,
+      "playedAt": "2026-09-28T15:19:34.474Z"
     },
     {
-      "name": "Sakta vi gå genom stan",
+      "name": "Arrival of Ilsa And Victor At Rick's",
       "artists": [
-        "Monica Zetterlund"
+        "Warner Bros Studio Orchestra"
       ],
-      "album": "Ahh! Monica!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
-      "url": "https://open.spotify.com/track/5gBWGTO2prExy9yVwhUbOU",
-      "durationMs": 202360,
-      "playedAt": "2026-09-28T02:35:21.898Z"
+      "album": "Casablanca (Original Motion Picture Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
+      "url": "https://open.spotify.com/track/2m0OM4hfFOK4UxpXt8MwGI",
+      "durationMs": 76306,
+      "playedAt": "2026-09-28T15:14:35.483Z"
     },
     {
-      "name": "Dobedobedo",
+      "name": "Rick and Renault",
       "artists": [
-        "Monica Zetterlund"
+        "Warner Bros Studio Orchestra"
       ],
-      "album": "Monica - Monica",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4426c1320b7860dd83d96cb",
-      "url": "https://open.spotify.com/track/4T4xtZp8AJpXreBjoPsBL2",
-      "durationMs": 249840,
-      "playedAt": "2026-09-28T01:38:46.810Z"
+      "album": "Casablanca (Original Motion Picture Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
+      "url": "https://open.spotify.com/track/7BSRUbQlpGGMmj4jxd67nD",
+      "durationMs": 71560,
+      "playedAt": "2026-09-28T15:13:19.186Z"
     }
   ],
   "topArtists": [
