@@ -1,18 +1,96 @@
 {
-  "updatedAt": "2026-09-29T19:32:27.594Z",
-  "nowPlaying": {
-    "name": "Live For You",
-    "artists": [
-      "Thee Sacred Souls"
-    ],
-    "album": "Got a Story to Tell",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fb5ec1359ec0df1e284d7eb9",
-    "url": "https://open.spotify.com/track/2cgHekIPyuKxEEcV72tuy4",
-    "durationMs": 210320,
-    "isPlaying": true,
-    "progressMs": 169434
-  },
+  "updatedAt": "2026-09-29T23:24:14.948Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "I New York",
+      "artists": [
+        "Monica Zetterlund"
+      ],
+      "album": "Ahh! Monica!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
+      "url": "https://open.spotify.com/track/4jYQDYfknEGqOeVrM0jgrI",
+      "durationMs": 135626,
+      "playedAt": "2026-09-29T23:09:36.433Z"
+    },
+    {
+      "name": "Visa från Utanmyra",
+      "artists": [
+        "Monica Zetterlund"
+      ],
+      "album": "Ohh! Monica!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273398afc19d2d037305f593df7",
+      "url": "https://open.spotify.com/track/7jFARkl6eGiEUQZnwv5qrP",
+      "durationMs": 162373,
+      "playedAt": "2026-09-29T23:07:23.808Z"
+    },
+    {
+      "name": "Monicas vals",
+      "artists": [
+        "Monica Zetterlund",
+        "Bill Evans"
+      ],
+      "album": "Waltz For Debby",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a4e6d8633c7f37f127d66f8e",
+      "url": "https://open.spotify.com/track/0P0lgWxM39ZSJE3u9nsikD",
+      "durationMs": 167440,
+      "playedAt": "2026-09-29T23:04:44.476Z"
+    },
+    {
+      "name": "Att angöra en brygga",
+      "artists": [
+        "Monica Zetterlund"
+      ],
+      "album": "O vad en liten gumma kan gno",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a31f8511326313f56a0dbdba",
+      "url": "https://open.spotify.com/track/62gZY6joWPt97hbsbIdd4t",
+      "durationMs": 153826,
+      "playedAt": "2026-09-29T23:02:00.030Z"
+    },
+    {
+      "name": "Trubbel",
+      "artists": [
+        "Monica Zetterlund"
+      ],
+      "album": "Monica - Monica",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4426c1320b7860dd83d96cb",
+      "url": "https://open.spotify.com/track/7xjucUUNrRgwW49fLmU91q",
+      "durationMs": 264920,
+      "playedAt": "2026-09-29T22:59:29.283Z"
+    },
+    {
+      "name": "Gröna små äpplen",
+      "artists": [
+        "Monica Zetterlund"
+      ],
+      "album": "Gröna små äpplen",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a9db86fbb61e5eed80bf2d37",
+      "url": "https://open.spotify.com/track/0dtE42FDoz08Aa9i7EWUI2",
+      "durationMs": 225213,
+      "playedAt": "2026-09-29T22:55:07.382Z"
+    },
+    {
+      "name": "Sakta vi gå genom stan",
+      "artists": [
+        "Monica Zetterlund"
+      ],
+      "album": "Ahh! Monica!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
+      "url": "https://open.spotify.com/track/5gBWGTO2prExy9yVwhUbOU",
+      "durationMs": 202360,
+      "playedAt": "2026-09-29T22:51:25.184Z"
+    },
+    {
+      "name": "Live For You",
+      "artists": [
+        "Thee Sacred Souls"
+      ],
+      "album": "Got a Story to Tell",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fb5ec1359ec0df1e284d7eb9",
+      "url": "https://open.spotify.com/track/2cgHekIPyuKxEEcV72tuy4",
+      "durationMs": 210320,
+      "playedAt": "2026-09-29T19:33:09.247Z"
+    },
     {
       "name": "Start",
       "artists": [
@@ -36,97 +114,6 @@
       "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO",
       "durationMs": 203122,
       "playedAt": "2026-09-29T19:28:54.188Z"
-    },
-    {
-      "name": "Painkiller (feat. Denzel Curry)",
-      "artists": [
-        "Joy Crookes",
-        "Denzel Curry"
-      ],
-      "album": "Painkiller (feat. Denzel Curry)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739bf399ad254d299d23de95ef",
-      "url": "https://open.spotify.com/track/4SMv2ovSTKGFbe7iYkM9Rf",
-      "durationMs": 241653,
-      "playedAt": "2026-09-29T19:25:37.146Z"
-    },
-    {
-      "name": "Killing Me Softly With His Song",
-      "artists": [
-        "Fugees",
-        "Ms. Lauryn Hill"
-      ],
-      "album": "The Score (Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735b7865be7f7fcc05faec6137",
-      "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl",
-      "durationMs": 298666,
-      "playedAt": "2026-09-29T19:21:50.252Z"
-    },
-    {
-      "name": "soda",
-      "artists": [
-        "daoud",
-        "Julien Fillion"
-      ],
-      "album": "ok",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739ad7789ed740d01a45dec6fb",
-      "url": "https://open.spotify.com/track/1S1bPtnTfEjPBxPFitk8Yd",
-      "durationMs": 197906,
-      "playedAt": "2026-09-29T19:16:48.054Z"
-    },
-    {
-      "name": "El Corazón",
-      "artists": [
-        "Ezra Collective"
-      ],
-      "album": "Here Because of Hope",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736d02e8be17bfe4eb4afb2141",
-      "url": "https://open.spotify.com/track/6d3AZcbO4j1m61guZRfUdh",
-      "durationMs": 246386,
-      "playedAt": "2026-09-29T19:13:32.824Z"
-    },
-    {
-      "name": "Love Theme From Spartacus - Remastered 2023",
-      "artists": [
-        "Yusef Lateef"
-      ],
-      "album": "Eastern Sounds (Remastered 2023)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ff4a38917d1eb6c85752e9ff",
-      "url": "https://open.spotify.com/track/2QHFSR7VUZZfRRwZycKqSa",
-      "durationMs": 255097,
-      "playedAt": "2026-09-29T19:09:29.057Z"
-    },
-    {
-      "name": "I Forgot To Be Your Lover",
-      "artists": [
-        "William Bell"
-      ],
-      "album": "The Best Of William Bell",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27353fbbaa939812aaa4466fda4",
-      "url": "https://open.spotify.com/track/3PLKsooF2oGUBdGzblvOlI",
-      "durationMs": 138960,
-      "playedAt": "2026-09-29T19:05:28.957Z"
-    },
-    {
-      "name": "Running Away",
-      "artists": [
-        "Thee Sacred Souls"
-      ],
-      "album": "Running Away",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733f5e220728654d26ec11383c",
-      "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq",
-      "durationMs": 195086,
-      "playedAt": "2026-09-29T19:03:22.159Z"
-    },
-    {
-      "name": "I Heard It Through The Grapevine",
-      "artists": [
-        "Marvin Gaye"
-      ],
-      "album": "In The Groove",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8",
-      "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw",
-      "durationMs": 194293,
-      "playedAt": "2026-09-29T19:00:09.856Z"
     }
   ],
   "topArtists": [
@@ -221,16 +208,6 @@
       "durationMs": 186251
     },
     {
-      "name": "Stepp, min stepp",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz på ryska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273059e1cfa2e6a0b934e63ce79",
-      "url": "https://open.spotify.com/track/4kDOfYVSGIYvOgIS4Lb82H",
-      "durationMs": 224306
-    },
-    {
       "name": "Start",
       "artists": [
         "Frank Ocean"
@@ -239,6 +216,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
       "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
       "durationMs": 45640
+    },
+    {
+      "name": "Stepp, min stepp",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz på ryska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273059e1cfa2e6a0b934e63ce79",
+      "url": "https://open.spotify.com/track/4kDOfYVSGIYvOgIS4Lb82H",
+      "durationMs": 224306
     },
     {
       "name": "Pråmdragarnas sång vid Volga",
