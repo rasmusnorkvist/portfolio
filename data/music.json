@@ -1,18 +1,95 @@
 {
-  "updatedAt": "2026-09-29T01:26:16.710Z",
-  "nowPlaying": {
-    "name": "Moln i mitt kaffe",
-    "artists": [
-      "Anna-Lena Löfgren"
-    ],
-    "album": "Kom morgon",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27314df002fa274850188775464",
-    "url": "https://open.spotify.com/track/36olyvdYxxZiwDPCz0GQ67",
-    "durationMs": 259004,
-    "isPlaying": true,
-    "progressMs": 207087
-  },
+  "updatedAt": "2026-09-29T07:16:31.558Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Benen i kors",
+      "artists": [
+        "Lisa Ekdahl"
+      ],
+      "album": "Lisa Ekdahl",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a565aad3c9c1515c3ea8d003",
+      "url": "https://open.spotify.com/track/00bx6daJkVcdlGw1vfixPy",
+      "durationMs": 204000,
+      "playedAt": "2026-09-29T01:52:02.145Z"
+    },
+    {
+      "name": "Adam & Eva",
+      "artists": [
+        "Wille Crafoord"
+      ],
+      "album": "Samma typ av annorlunda saker",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27302edd3455142939a13d52f48",
+      "url": "https://open.spotify.com/track/1ktg04IgwGOsg6kJgW9yW0",
+      "durationMs": 179066,
+      "playedAt": "2026-09-29T01:48:40.971Z"
+    },
+    {
+      "name": "Sommarö",
+      "artists": [
+        "Barbro Hörberg"
+      ],
+      "album": "Med ögon känsliga för grönt",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f6b8306828d0efed29c8c4c5",
+      "url": "https://open.spotify.com/track/3w1J8mOc02URhG2KBi4BSL",
+      "durationMs": 173186,
+      "playedAt": "2026-09-29T01:45:44.876Z"
+    },
+    {
+      "name": "Visa från Utanmyra",
+      "artists": [
+        "Monica Zetterlund"
+      ],
+      "album": "Ohh! Monica!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273398afc19d2d037305f593df7",
+      "url": "https://open.spotify.com/track/7jFARkl6eGiEUQZnwv5qrP",
+      "durationMs": 162373,
+      "playedAt": "2026-09-29T01:40:34.958Z"
+    },
+    {
+      "name": "Kylskåpspoesi",
+      "artists": [
+        "Carin Lundin"
+      ],
+      "album": "Smulor och parafraser",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f88f95f0e19c690817f9f8d7",
+      "url": "https://open.spotify.com/track/5vZMFgCiibtbD9rHUSpmiS",
+      "durationMs": 180653,
+      "playedAt": "2026-09-29T01:37:55.573Z"
+    },
+    {
+      "name": "Miljarder stjärnor",
+      "artists": [
+        "Per 'Texas' Johansson"
+      ],
+      "album": "Alla Mina Kompisar",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c42b03d955b3c14828c606b",
+      "url": "https://open.spotify.com/track/6Y8BG02Wx9bAMw53Aqc7WK",
+      "durationMs": 339000,
+      "playedAt": "2026-09-29T01:34:58.137Z"
+    },
+    {
+      "name": "Merit",
+      "artists": [
+        "Rekordåren"
+      ],
+      "album": "Andra vanor",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273be32fa48366077cb9db2f282",
+      "url": "https://open.spotify.com/track/4dXvETsn35IJ04RmDlfVow",
+      "durationMs": 135210,
+      "playedAt": "2026-09-29T01:29:22.189Z"
+    },
+    {
+      "name": "Moln i mitt kaffe",
+      "artists": [
+        "Anna-Lena Löfgren"
+      ],
+      "album": "Kom morgon",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27314df002fa274850188775464",
+      "url": "https://open.spotify.com/track/36olyvdYxxZiwDPCz0GQ67",
+      "durationMs": 259004,
+      "playedAt": "2026-09-29T01:27:09.957Z"
+    },
     {
       "name": "Ska vi leva loppan",
       "artists": [
@@ -37,98 +114,6 @@
       "url": "https://open.spotify.com/track/7xjucUUNrRgwW49fLmU91q",
       "durationMs": 264920,
       "playedAt": "2026-09-29T01:19:46.158Z"
-    },
-    {
-      "name": "Han är bra tokig ändå",
-      "artists": [
-        "Carin Lundin"
-      ],
-      "album": "Smulor och parafraser",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f88f95f0e19c690817f9f8d7",
-      "url": "https://open.spotify.com/track/0HfdmaVGCir7vU9S2hjudI",
-      "durationMs": 175826,
-      "playedAt": "2026-09-29T01:15:24.155Z"
-    },
-    {
-      "name": "Vill du bli min soptipp",
-      "artists": [
-        "Barbro Hörberg"
-      ],
-      "album": "Gråt i gräset",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273be77bb70b5b349b633c8e27b",
-      "url": "https://open.spotify.com/track/1727M7JssxUF3NPB5outI9",
-      "durationMs": 143533,
-      "playedAt": "2026-09-29T01:12:31.302Z"
-    },
-    {
-      "name": "Med ögon känsliga för grönt",
-      "artists": [
-        "Nannie Porres"
-      ],
-      "album": "Närbild",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c1996e1226fe0c0698881685",
-      "url": "https://open.spotify.com/track/0eyvSuupNoLI1bFWgL4oKR",
-      "durationMs": 299453,
-      "playedAt": "2026-09-29T01:10:10.858Z"
-    },
-    {
-      "name": "Mormor",
-      "artists": [
-        "Dina Ögon"
-      ],
-      "album": "Oas",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27347f29db19cce35a81aa12888",
-      "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3",
-      "durationMs": 240262,
-      "playedAt": "2026-09-29T01:05:14.451Z"
-    },
-    {
-      "name": "En midsommardröm",
-      "artists": [
-        "Amanda Ginsburg",
-        "Filip Ekestubbe",
-        "Anders Fjeldsted",
-        "Snorre Kirk",
-        "Askanäs Kammarkvartett"
-      ],
-      "album": "En midsommardröm",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273098eedaa644ba9396c26a736",
-      "url": "https://open.spotify.com/track/3W64OzsxR9wOwnHjafyhzJ",
-      "durationMs": 289560,
-      "playedAt": "2026-09-29T00:59:51.707Z"
-    },
-    {
-      "name": "Gröna små äpplen",
-      "artists": [
-        "Monica Zetterlund"
-      ],
-      "album": "Gröna små äpplen",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a9db86fbb61e5eed80bf2d37",
-      "url": "https://open.spotify.com/track/0dtE42FDoz08Aa9i7EWUI2",
-      "durationMs": 225213,
-      "playedAt": "2026-09-28T23:56:15.198Z"
-    },
-    {
-      "name": "Säg tyst",
-      "artists": [
-        "Monica Zetterlund"
-      ],
-      "album": "Ahh! Monica!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
-      "url": "https://open.spotify.com/track/1L1n74Mzvg0FTs2RXUD0Zz",
-      "durationMs": 185333,
-      "playedAt": "2026-09-28T23:52:32.934Z"
-    },
-    {
-      "name": "Katten Felix",
-      "artists": [
-        "Monica Zetterlund"
-      ],
-      "album": "Ahh! Monica!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
-      "url": "https://open.spotify.com/track/0nhBjvWFGq3n6pLKkqcfg5",
-      "durationMs": 125866,
-      "playedAt": "2026-09-28T23:49:27.592Z"
     }
   ],
   "topArtists": [
