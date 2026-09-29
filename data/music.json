@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T07:16:31.558Z",
+  "updatedAt": "2026-09-29T14:12:21.453Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -121,25 +121,34 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Awon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
       "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": []
+      "genres": [
+        "jazz rap"
+      ]
     },
     {
       "name": "Norah Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
       "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-      "genres": []
+      "genres": [
+        "jazz pop"
+      ]
     },
     {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": []
+      "genres": [
+        "jazz",
+        "vocal jazz"
+      ]
     },
     {
       "name": "Frank Ocean",
@@ -151,13 +160,20 @@
       "name": "Eric Clapton",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
       "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
-      "genres": []
+      "genres": [
+        "blues rock",
+        "classic rock"
+      ]
     },
     {
       "name": "The Delfonics",
       "imageUrl": "https://i.scdn.co/image/c923d6436c698e5847c2ef79af5b2cbdfab8aaf8",
       "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4",
-      "genres": []
+      "genres": [
+        "philly soul",
+        "classic soul",
+        "motown"
+      ]
     },
     {
       "name": "Rapallo",
