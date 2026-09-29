@@ -1,116 +1,134 @@
 {
-  "updatedAt": "2026-09-28T21:33:11.658Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-29T01:26:16.710Z",
+  "nowPlaying": {
+    "name": "Moln i mitt kaffe",
+    "artists": [
+      "Anna-Lena Löfgren"
+    ],
+    "album": "Kom morgon",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27314df002fa274850188775464",
+    "url": "https://open.spotify.com/track/36olyvdYxxZiwDPCz0GQ67",
+    "durationMs": 259004,
+    "isPlaying": true,
+    "progressMs": 207087
+  },
   "recentlyPlayed": [
     {
-      "name": "Rick Confronts Ilsa and Laszlo",
+      "name": "Ska vi leva loppan",
       "artists": [
-        "Warner Bros Studio Orchestra"
+        "Amanda Ginsburg",
+        "Filip Ekestubbe",
+        "Snorre Kirk",
+        "Anders Fjeldsted"
       ],
-      "album": "Casablanca (Original Motion Picture Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
-      "url": "https://open.spotify.com/track/1y6mjHiyMhtQEV1VnLeEVZ",
-      "durationMs": 143893,
-      "playedAt": "2026-09-28T15:43:52.288Z"
+      "album": "Tur att jag kan skratta",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ce4e0e88881e14490296a156",
+      "url": "https://open.spotify.com/track/5qVC7Cg4UUpJFYkXv1KXGd",
+      "durationMs": 190840,
+      "playedAt": "2026-09-29T01:22:53.958Z"
     },
     {
-      "name": "Ilsa Demands the Letters",
+      "name": "Trubbel",
       "artists": [
-        "Warner Bros Studio Orchestra"
+        "Monica Zetterlund"
       ],
-      "album": "Casablanca (Original Motion Picture Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
-      "url": "https://open.spotify.com/track/0D3P367dxVgfbAO0o233rI",
-      "durationMs": 219400,
-      "playedAt": "2026-09-28T15:41:28.375Z"
+      "album": "Monica - Monica",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4426c1320b7860dd83d96cb",
+      "url": "https://open.spotify.com/track/7xjucUUNrRgwW49fLmU91q",
+      "durationMs": 264920,
+      "playedAt": "2026-09-29T01:19:46.158Z"
     },
     {
-      "name": "Medley (Die Wacht Am Rhein / La Marseillaise)",
+      "name": "Han är bra tokig ändå",
       "artists": [
-        "Warner Bros Studio Orchestra"
+        "Carin Lundin"
       ],
-      "album": "Casablanca (Original Motion Picture Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
-      "url": "https://open.spotify.com/track/5HS7irZ8xbaSqamJCyFjWy",
-      "durationMs": 275066,
-      "playedAt": "2026-09-28T15:37:48.980Z"
+      "album": "Smulor och parafraser",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f88f95f0e19c690817f9f8d7",
+      "url": "https://open.spotify.com/track/0HfdmaVGCir7vU9S2hjudI",
+      "durationMs": 175826,
+      "playedAt": "2026-09-29T01:15:24.155Z"
     },
     {
-      "name": "Ilsa Returns to Rick's",
+      "name": "Vill du bli min soptipp",
       "artists": [
-        "Warner Bros Studio Orchestra"
+        "Barbro Hörberg"
       ],
-      "album": "Casablanca (Original Motion Picture Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
-      "url": "https://open.spotify.com/track/3Hoq08EmpC3OsRewVtiiYz",
-      "durationMs": 191800,
-      "playedAt": "2026-09-28T15:33:13.992Z"
+      "album": "Gråt i gräset",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273be77bb70b5b349b633c8e27b",
+      "url": "https://open.spotify.com/track/1727M7JssxUF3NPB5outI9",
+      "durationMs": 143533,
+      "playedAt": "2026-09-29T01:12:31.302Z"
     },
     {
-      "name": "Medley (At La Belle Aurore)",
+      "name": "Med ögon känsliga för grönt",
       "artists": [
-        "Warner Bros Studio Orchestra"
+        "Nannie Porres"
       ],
-      "album": "Casablanca (Original Motion Picture Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
-      "url": "https://open.spotify.com/track/2wbFnJD06mkGQtkb5HUT1o",
-      "durationMs": 283666,
-      "playedAt": "2026-09-28T15:30:02.080Z"
+      "album": "Närbild",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c1996e1226fe0c0698881685",
+      "url": "https://open.spotify.com/track/0eyvSuupNoLI1bFWgL4oKR",
+      "durationMs": 299453,
+      "playedAt": "2026-09-29T01:10:10.858Z"
     },
     {
-      "name": "Medley (Paris Montage)",
+      "name": "Mormor",
       "artists": [
-        "Warner Bros Studio Orchestra"
+        "Dina Ögon"
       ],
-      "album": "Casablanca (Original Motion Picture Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
-      "url": "https://open.spotify.com/track/1prZhukD3a97mfYZjGjk2D",
-      "durationMs": 228773,
-      "playedAt": "2026-09-28T15:25:18.484Z"
+      "album": "Oas",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27347f29db19cce35a81aa12888",
+      "url": "https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3",
+      "durationMs": 240262,
+      "playedAt": "2026-09-29T01:05:14.451Z"
     },
     {
-      "name": "Of All the Gin Joints In All the Towns In All the World...",
+      "name": "En midsommardröm",
       "artists": [
-        "Warner Bros Studio Orchestra"
+        "Amanda Ginsburg",
+        "Filip Ekestubbe",
+        "Anders Fjeldsted",
+        "Snorre Kirk",
+        "Askanäs Kammarkvartett"
       ],
-      "album": "Casablanca (Original Motion Picture Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
-      "url": "https://open.spotify.com/track/0ahmYaH4xUcP1g72ZZRFox",
-      "durationMs": 115160,
-      "playedAt": "2026-09-28T15:21:29.676Z"
+      "album": "En midsommardröm",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273098eedaa644ba9396c26a736",
+      "url": "https://open.spotify.com/track/3W64OzsxR9wOwnHjafyhzJ",
+      "durationMs": 289560,
+      "playedAt": "2026-09-29T00:59:51.707Z"
     },
     {
-      "name": "Play It Sam... Play \"As Time Goes By\"",
+      "name": "Gröna små äpplen",
       "artists": [
-        "Warner Bros Studio Orchestra"
+        "Monica Zetterlund"
       ],
-      "album": "Casablanca (Original Motion Picture Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
-      "url": "https://open.spotify.com/track/1z3hEqfWdPvcr4vNiMmM1h",
-      "durationMs": 298933,
-      "playedAt": "2026-09-28T15:19:34.474Z"
+      "album": "Gröna små äpplen",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a9db86fbb61e5eed80bf2d37",
+      "url": "https://open.spotify.com/track/0dtE42FDoz08Aa9i7EWUI2",
+      "durationMs": 225213,
+      "playedAt": "2026-09-28T23:56:15.198Z"
     },
     {
-      "name": "Arrival of Ilsa And Victor At Rick's",
+      "name": "Säg tyst",
       "artists": [
-        "Warner Bros Studio Orchestra"
+        "Monica Zetterlund"
       ],
-      "album": "Casablanca (Original Motion Picture Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
-      "url": "https://open.spotify.com/track/2m0OM4hfFOK4UxpXt8MwGI",
-      "durationMs": 76306,
-      "playedAt": "2026-09-28T15:14:35.483Z"
+      "album": "Ahh! Monica!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
+      "url": "https://open.spotify.com/track/1L1n74Mzvg0FTs2RXUD0Zz",
+      "durationMs": 185333,
+      "playedAt": "2026-09-28T23:52:32.934Z"
     },
     {
-      "name": "Rick and Renault",
+      "name": "Katten Felix",
       "artists": [
-        "Warner Bros Studio Orchestra"
+        "Monica Zetterlund"
       ],
-      "album": "Casablanca (Original Motion Picture Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a7b601757c187716374be51e",
-      "url": "https://open.spotify.com/track/7BSRUbQlpGGMmj4jxd67nD",
-      "durationMs": 71560,
-      "playedAt": "2026-09-28T15:13:19.186Z"
+      "album": "Ahh! Monica!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
+      "url": "https://open.spotify.com/track/0nhBjvWFGq3n6pLKkqcfg5",
+      "durationMs": 125866,
+      "playedAt": "2026-09-28T23:49:27.592Z"
     }
   ],
   "topArtists": [
@@ -133,9 +151,9 @@
       "genres": []
     },
     {
-      "name": "Rapallo",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
-      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
+      "name": "Monica Zetterlund",
+      "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
+      "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
       "genres": []
     },
     {
@@ -157,9 +175,9 @@
       "genres": []
     },
     {
-      "name": "Monica Zetterlund",
-      "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
-      "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
+      "name": "Rapallo",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
+      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
       "genres": []
     }
   ],
@@ -175,16 +193,6 @@
       "durationMs": 148560
     },
     {
-      "name": "Play to Lose",
-      "artists": [
-        "Rapallo"
-      ],
-      "album": "Merger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
-      "url": "https://open.spotify.com/track/6omojoKV4GqJT5CexQnfGM",
-      "durationMs": 203364
-    },
-    {
       "name": "Don't Know Why",
       "artists": [
         "Norah Jones"
@@ -193,6 +201,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
       "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
       "durationMs": 186251
+    },
+    {
+      "name": "Play to Lose",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Merger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
+      "url": "https://open.spotify.com/track/6omojoKV4GqJT5CexQnfGM",
+      "durationMs": 203364
     },
     {
       "name": "Stepp, min stepp",
