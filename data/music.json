@@ -1,119 +1,132 @@
 {
-  "updatedAt": "2026-09-29T14:12:21.453Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-29T19:32:27.594Z",
+  "nowPlaying": {
+    "name": "Live For You",
+    "artists": [
+      "Thee Sacred Souls"
+    ],
+    "album": "Got a Story to Tell",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fb5ec1359ec0df1e284d7eb9",
+    "url": "https://open.spotify.com/track/2cgHekIPyuKxEEcV72tuy4",
+    "durationMs": 210320,
+    "isPlaying": true,
+    "progressMs": 169434
+  },
   "recentlyPlayed": [
     {
-      "name": "Benen i kors",
+      "name": "Start",
       "artists": [
-        "Lisa Ekdahl"
+        "Frank Ocean"
       ],
-      "album": "Lisa Ekdahl",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a565aad3c9c1515c3ea8d003",
-      "url": "https://open.spotify.com/track/00bx6daJkVcdlGw1vfixPy",
-      "durationMs": 204000,
-      "playedAt": "2026-09-29T01:52:02.145Z"
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
+      "durationMs": 45640,
+      "playedAt": "2026-09-29T19:29:39.311Z"
     },
     {
-      "name": "Adam & Eva",
+      "name": "Skate",
       "artists": [
-        "Wille Crafoord"
+        "Bruno Mars",
+        "Anderson .Paak",
+        "Silk Sonic"
       ],
-      "album": "Samma typ av annorlunda saker",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27302edd3455142939a13d52f48",
-      "url": "https://open.spotify.com/track/1ktg04IgwGOsg6kJgW9yW0",
-      "durationMs": 179066,
-      "playedAt": "2026-09-29T01:48:40.971Z"
+      "album": "An Evening With Silk Sonic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731756c2022529aacfa98d2eb8",
+      "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO",
+      "durationMs": 203122,
+      "playedAt": "2026-09-29T19:28:54.188Z"
     },
     {
-      "name": "Sommarö",
+      "name": "Painkiller (feat. Denzel Curry)",
       "artists": [
-        "Barbro Hörberg"
+        "Joy Crookes",
+        "Denzel Curry"
       ],
-      "album": "Med ögon känsliga för grönt",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f6b8306828d0efed29c8c4c5",
-      "url": "https://open.spotify.com/track/3w1J8mOc02URhG2KBi4BSL",
-      "durationMs": 173186,
-      "playedAt": "2026-09-29T01:45:44.876Z"
+      "album": "Painkiller (feat. Denzel Curry)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739bf399ad254d299d23de95ef",
+      "url": "https://open.spotify.com/track/4SMv2ovSTKGFbe7iYkM9Rf",
+      "durationMs": 241653,
+      "playedAt": "2026-09-29T19:25:37.146Z"
     },
     {
-      "name": "Visa från Utanmyra",
+      "name": "Killing Me Softly With His Song",
       "artists": [
-        "Monica Zetterlund"
+        "Fugees",
+        "Ms. Lauryn Hill"
       ],
-      "album": "Ohh! Monica!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273398afc19d2d037305f593df7",
-      "url": "https://open.spotify.com/track/7jFARkl6eGiEUQZnwv5qrP",
-      "durationMs": 162373,
-      "playedAt": "2026-09-29T01:40:34.958Z"
+      "album": "The Score (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735b7865be7f7fcc05faec6137",
+      "url": "https://open.spotify.com/track/0Q0IVlqMV64kNLlwjPj0Hl",
+      "durationMs": 298666,
+      "playedAt": "2026-09-29T19:21:50.252Z"
     },
     {
-      "name": "Kylskåpspoesi",
+      "name": "soda",
       "artists": [
-        "Carin Lundin"
+        "daoud",
+        "Julien Fillion"
       ],
-      "album": "Smulor och parafraser",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f88f95f0e19c690817f9f8d7",
-      "url": "https://open.spotify.com/track/5vZMFgCiibtbD9rHUSpmiS",
-      "durationMs": 180653,
-      "playedAt": "2026-09-29T01:37:55.573Z"
+      "album": "ok",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739ad7789ed740d01a45dec6fb",
+      "url": "https://open.spotify.com/track/1S1bPtnTfEjPBxPFitk8Yd",
+      "durationMs": 197906,
+      "playedAt": "2026-09-29T19:16:48.054Z"
     },
     {
-      "name": "Miljarder stjärnor",
+      "name": "El Corazón",
       "artists": [
-        "Per 'Texas' Johansson"
+        "Ezra Collective"
       ],
-      "album": "Alla Mina Kompisar",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c42b03d955b3c14828c606b",
-      "url": "https://open.spotify.com/track/6Y8BG02Wx9bAMw53Aqc7WK",
-      "durationMs": 339000,
-      "playedAt": "2026-09-29T01:34:58.137Z"
+      "album": "Here Because of Hope",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736d02e8be17bfe4eb4afb2141",
+      "url": "https://open.spotify.com/track/6d3AZcbO4j1m61guZRfUdh",
+      "durationMs": 246386,
+      "playedAt": "2026-09-29T19:13:32.824Z"
     },
     {
-      "name": "Merit",
+      "name": "Love Theme From Spartacus - Remastered 2023",
       "artists": [
-        "Rekordåren"
+        "Yusef Lateef"
       ],
-      "album": "Andra vanor",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273be32fa48366077cb9db2f282",
-      "url": "https://open.spotify.com/track/4dXvETsn35IJ04RmDlfVow",
-      "durationMs": 135210,
-      "playedAt": "2026-09-29T01:29:22.189Z"
+      "album": "Eastern Sounds (Remastered 2023)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ff4a38917d1eb6c85752e9ff",
+      "url": "https://open.spotify.com/track/2QHFSR7VUZZfRRwZycKqSa",
+      "durationMs": 255097,
+      "playedAt": "2026-09-29T19:09:29.057Z"
     },
     {
-      "name": "Moln i mitt kaffe",
+      "name": "I Forgot To Be Your Lover",
       "artists": [
-        "Anna-Lena Löfgren"
+        "William Bell"
       ],
-      "album": "Kom morgon",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27314df002fa274850188775464",
-      "url": "https://open.spotify.com/track/36olyvdYxxZiwDPCz0GQ67",
-      "durationMs": 259004,
-      "playedAt": "2026-09-29T01:27:09.957Z"
+      "album": "The Best Of William Bell",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27353fbbaa939812aaa4466fda4",
+      "url": "https://open.spotify.com/track/3PLKsooF2oGUBdGzblvOlI",
+      "durationMs": 138960,
+      "playedAt": "2026-09-29T19:05:28.957Z"
     },
     {
-      "name": "Ska vi leva loppan",
+      "name": "Running Away",
       "artists": [
-        "Amanda Ginsburg",
-        "Filip Ekestubbe",
-        "Snorre Kirk",
-        "Anders Fjeldsted"
+        "Thee Sacred Souls"
       ],
-      "album": "Tur att jag kan skratta",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ce4e0e88881e14490296a156",
-      "url": "https://open.spotify.com/track/5qVC7Cg4UUpJFYkXv1KXGd",
-      "durationMs": 190840,
-      "playedAt": "2026-09-29T01:22:53.958Z"
+      "album": "Running Away",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733f5e220728654d26ec11383c",
+      "url": "https://open.spotify.com/track/34VDj911PQh8B1BXYoOMLq",
+      "durationMs": 195086,
+      "playedAt": "2026-09-29T19:03:22.159Z"
     },
     {
-      "name": "Trubbel",
+      "name": "I Heard It Through The Grapevine",
       "artists": [
-        "Monica Zetterlund"
+        "Marvin Gaye"
       ],
-      "album": "Monica - Monica",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4426c1320b7860dd83d96cb",
-      "url": "https://open.spotify.com/track/7xjucUUNrRgwW49fLmU91q",
-      "durationMs": 264920,
-      "playedAt": "2026-09-29T01:19:46.158Z"
+      "album": "In The Groove",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aff6573c5110e0732fbab3d8",
+      "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw",
+      "durationMs": 194293,
+      "playedAt": "2026-09-29T19:00:09.856Z"
     }
   ],
   "topArtists": [
@@ -121,34 +134,25 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Awon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
       "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": [
-        "jazz rap"
-      ]
+      "genres": []
     },
     {
       "name": "Norah Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
       "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-      "genres": [
-        "jazz pop"
-      ]
+      "genres": []
     },
     {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": [
-        "jazz",
-        "vocal jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Frank Ocean",
@@ -160,20 +164,13 @@
       "name": "Eric Clapton",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
       "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
-      "genres": [
-        "blues rock",
-        "classic rock"
-      ]
+      "genres": []
     },
     {
       "name": "The Delfonics",
       "imageUrl": "https://i.scdn.co/image/c923d6436c698e5847c2ef79af5b2cbdfab8aaf8",
       "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4",
-      "genres": [
-        "philly soul",
-        "classic soul",
-        "motown"
-      ]
+      "genres": []
     },
     {
       "name": "Rapallo",
@@ -194,14 +191,14 @@
       "durationMs": 148560
     },
     {
-      "name": "Don't Know Why",
+      "name": "Visa från Utanmyra",
       "artists": [
-        "Norah Jones"
+        "Jan Johansson"
       ],
-      "album": "Come Away With Me (Super Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
-      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
-      "durationMs": 186251
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800
     },
     {
       "name": "Play to Lose",
@@ -212,6 +209,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2e84629f6701f7091e60703",
       "url": "https://open.spotify.com/track/6omojoKV4GqJT5CexQnfGM",
       "durationMs": 203364
+    },
+    {
+      "name": "Don't Know Why",
+      "artists": [
+        "Norah Jones"
+      ],
+      "album": "Come Away With Me (Super Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
+      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
+      "durationMs": 186251
     },
     {
       "name": "Stepp, min stepp",
@@ -252,18 +259,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273059e1cfa2e6a0b934e63ce79",
       "url": "https://open.spotify.com/track/3VGSPHf05GoipHsLa204lR",
       "durationMs": 169413
-    },
-    {
-      "name": "Holy Gospel",
-      "artists": [
-        "Awon",
-        "Confidence",
-        "J Ferra"
-      ],
-      "album": "Holy Gospel",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27392daef8a8e9ddc284c0b7e9a",
-      "url": "https://open.spotify.com/track/1g6JlMR4ZKna57jWFpnySJ",
-      "durationMs": 195666
     }
   ],
   "featuredPlaylists": []
