@@ -1,119 +1,127 @@
 {
-  "updatedAt": "2026-09-29T23:24:14.948Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-09-30T02:15:43.976Z",
+  "nowPlaying": {
+    "name": "Living For The City",
+    "artists": [
+      "Stevie Wonder"
+    ],
+    "album": "The Definitive Collection (Deluxe Edition)",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273835ed5fb9b70f46c3177ffde",
+    "url": "https://open.spotify.com/track/1O1mCVN5hue4lOOqd5EysZ",
+    "durationMs": 219306,
+    "isPlaying": true,
+    "progressMs": 38174
+  },
   "recentlyPlayed": [
     {
-      "name": "I New York",
+      "name": "Ribbon In The Sky",
       "artists": [
-        "Monica Zetterlund"
+        "Stevie Wonder"
       ],
-      "album": "Ahh! Monica!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
-      "url": "https://open.spotify.com/track/4jYQDYfknEGqOeVrM0jgrI",
-      "durationMs": 135626,
-      "playedAt": "2026-09-29T23:09:36.433Z"
+      "album": "Original Musiquarium",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f79ed09155e87ba56eeeea2d",
+      "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN",
+      "durationMs": 337066,
+      "playedAt": "2026-09-30T02:15:07.573Z"
     },
     {
-      "name": "Visa från Utanmyra",
+      "name": "All I Do",
       "artists": [
-        "Monica Zetterlund"
+        "Stevie Wonder"
       ],
-      "album": "Ohh! Monica!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273398afc19d2d037305f593df7",
-      "url": "https://open.spotify.com/track/7jFARkl6eGiEUQZnwv5qrP",
-      "durationMs": 162373,
-      "playedAt": "2026-09-29T23:07:23.808Z"
+      "album": "Hotter Than July",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ee3d8573b47a75a0d8233b39",
+      "url": "https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5",
+      "durationMs": 306666,
+      "playedAt": "2026-09-30T02:09:33.577Z"
     },
     {
-      "name": "Monicas vals",
+      "name": "Knocks Me Off My Feet",
       "artists": [
-        "Monica Zetterlund",
-        "Bill Evans"
+        "Stevie Wonder"
       ],
-      "album": "Waltz For Debby",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a4e6d8633c7f37f127d66f8e",
-      "url": "https://open.spotify.com/track/0P0lgWxM39ZSJE3u9nsikD",
-      "durationMs": 167440,
-      "playedAt": "2026-09-29T23:04:44.476Z"
+      "album": "Songs In The Key Of Life",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50",
+      "url": "https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj",
+      "durationMs": 216426,
+      "playedAt": "2026-09-30T02:04:03.583Z"
     },
     {
-      "name": "Att angöra en brygga",
+      "name": "Uptight (Everything's Alright)",
       "artists": [
-        "Monica Zetterlund"
+        "Stevie Wonder"
       ],
-      "album": "O vad en liten gumma kan gno",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a31f8511326313f56a0dbdba",
-      "url": "https://open.spotify.com/track/62gZY6joWPt97hbsbIdd4t",
-      "durationMs": 153826,
-      "playedAt": "2026-09-29T23:02:00.030Z"
+      "album": "Up-Tight",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c82a59431ee475300e2f618a",
+      "url": "https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ",
+      "durationMs": 174400,
+      "playedAt": "2026-09-30T02:00:30.175Z"
     },
     {
-      "name": "Trubbel",
+      "name": "Part-Time Lover - Single Version",
       "artists": [
-        "Monica Zetterlund"
+        "Stevie Wonder"
       ],
-      "album": "Monica - Monica",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4426c1320b7860dd83d96cb",
-      "url": "https://open.spotify.com/track/7xjucUUNrRgwW49fLmU91q",
-      "durationMs": 264920,
-      "playedAt": "2026-09-29T22:59:29.283Z"
+      "album": "The Definitive Collection",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91",
+      "url": "https://open.spotify.com/track/798bKohvGZenetnHsKzUC6",
+      "durationMs": 222733,
+      "playedAt": "2026-09-30T01:57:38.760Z"
     },
     {
-      "name": "Gröna små äpplen",
+      "name": "Do I Do",
       "artists": [
-        "Monica Zetterlund"
+        "Stevie Wonder"
       ],
-      "album": "Gröna små äpplen",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a9db86fbb61e5eed80bf2d37",
-      "url": "https://open.spotify.com/track/0dtE42FDoz08Aa9i7EWUI2",
-      "durationMs": 225213,
-      "playedAt": "2026-09-29T22:55:07.382Z"
+      "album": "The Definitive Collection (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273835ed5fb9b70f46c3177ffde",
+      "url": "https://open.spotify.com/track/4P91jW5QmEkhoLgdMujp82",
+      "durationMs": 303466,
+      "playedAt": "2026-09-30T01:53:59.077Z"
     },
     {
-      "name": "Sakta vi gå genom stan",
+      "name": "Isn't She Lovely",
       "artists": [
-        "Monica Zetterlund"
+        "Stevie Wonder"
       ],
-      "album": "Ahh! Monica!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
-      "url": "https://open.spotify.com/track/5gBWGTO2prExy9yVwhUbOU",
-      "durationMs": 202360,
-      "playedAt": "2026-09-29T22:51:25.184Z"
+      "album": "Songs In The Key Of Life",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50",
+      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH",
+      "durationMs": 394266,
+      "playedAt": "2026-09-30T01:48:58.573Z"
     },
     {
-      "name": "Live For You",
+      "name": "Overjoyed",
       "artists": [
-        "Thee Sacred Souls"
+        "Stevie Wonder"
       ],
-      "album": "Got a Story to Tell",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fb5ec1359ec0df1e284d7eb9",
-      "url": "https://open.spotify.com/track/2cgHekIPyuKxEEcV72tuy4",
-      "durationMs": 210320,
-      "playedAt": "2026-09-29T19:33:09.247Z"
+      "album": "In Square Circle",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ed0ddbe4b2590f448e9845be",
+      "url": "https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k",
+      "durationMs": 222586,
+      "playedAt": "2026-09-30T01:42:27.382Z"
     },
     {
-      "name": "Start",
+      "name": "Master Blaster (Jammin')",
       "artists": [
-        "Frank Ocean"
+        "Stevie Wonder"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
-      "durationMs": 45640,
-      "playedAt": "2026-09-29T19:29:39.311Z"
+      "album": "Hotter Than July",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ee3d8573b47a75a0d8233b39",
+      "url": "https://open.spotify.com/track/6NjYhDWaI8jKgcSU0ZsJuz",
+      "durationMs": 308066,
+      "playedAt": "2026-09-30T01:38:47.773Z"
     },
     {
-      "name": "Skate",
+      "name": "Don't You Worry 'Bout A Thing",
       "artists": [
-        "Bruno Mars",
-        "Anderson .Paak",
-        "Silk Sonic"
+        "Stevie Wonder"
       ],
-      "album": "An Evening With Silk Sonic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731756c2022529aacfa98d2eb8",
-      "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO",
-      "durationMs": 203122,
-      "playedAt": "2026-09-29T19:28:54.188Z"
+      "album": "Innervisions",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266",
+      "url": "https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv",
+      "durationMs": 284840,
+      "playedAt": "2026-09-30T01:33:42.705Z"
     }
   ],
   "topArtists": [
@@ -130,15 +138,15 @@
       "genres": []
     },
     {
-      "name": "Norah Jones",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
-      "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-      "genres": []
-    },
-    {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
+      "genres": []
+    },
+    {
+      "name": "Norah Jones",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
+      "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
       "genres": []
     },
     {
@@ -228,6 +236,16 @@
       "durationMs": 224306
     },
     {
+      "name": "Sakta vi gå genom stan",
+      "artists": [
+        "Monica Zetterlund"
+      ],
+      "album": "Ahh! Monica!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
+      "url": "https://open.spotify.com/track/5gBWGTO2prExy9yVwhUbOU",
+      "durationMs": 202360
+    },
+    {
       "name": "Pråmdragarnas sång vid Volga",
       "artists": [
         "Jan Johansson"
@@ -236,16 +254,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273059e1cfa2e6a0b934e63ce79",
       "url": "https://open.spotify.com/track/561BDyicOW61DIbfcWGaFv",
       "durationMs": 222026
-    },
-    {
-      "name": "På ängen stod en björk",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz på ryska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273059e1cfa2e6a0b934e63ce79",
-      "url": "https://open.spotify.com/track/3VGSPHf05GoipHsLa204lR",
-      "durationMs": 169413
     }
   ],
   "featuredPlaylists": []
