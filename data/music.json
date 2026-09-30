@@ -1,18 +1,40 @@
 {
-  "updatedAt": "2026-09-30T02:15:43.976Z",
-  "nowPlaying": {
-    "name": "Living For The City",
-    "artists": [
-      "Stevie Wonder"
-    ],
-    "album": "The Definitive Collection (Deluxe Edition)",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273835ed5fb9b70f46c3177ffde",
-    "url": "https://open.spotify.com/track/1O1mCVN5hue4lOOqd5EysZ",
-    "durationMs": 219306,
-    "isPlaying": true,
-    "progressMs": 38174
-  },
+  "updatedAt": "2026-09-30T08:49:56.199Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Lately",
+      "artists": [
+        "Stevie Wonder"
+      ],
+      "album": "Hotter Than July",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ee3d8573b47a75a0d8233b39",
+      "url": "https://open.spotify.com/track/1QFNF3quXkux7v4RbWfaaF",
+      "durationMs": 245240,
+      "playedAt": "2026-09-30T02:29:48.977Z"
+    },
+    {
+      "name": "Love's In Need Of Love Today",
+      "artists": [
+        "Stevie Wonder"
+      ],
+      "album": "Songs In The Key Of Life",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50",
+      "url": "https://open.spotify.com/track/39sdlCugrGBsoC4Flos0HO",
+      "durationMs": 425826,
+      "playedAt": "2026-09-30T02:25:46.677Z"
+    },
+    {
+      "name": "Living For The City",
+      "artists": [
+        "Stevie Wonder"
+      ],
+      "album": "The Definitive Collection (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273835ed5fb9b70f46c3177ffde",
+      "url": "https://open.spotify.com/track/1O1mCVN5hue4lOOqd5EysZ",
+      "durationMs": 219306,
+      "playedAt": "2026-09-30T02:18:43.877Z"
+    },
     {
       "name": "Ribbon In The Sky",
       "artists": [
@@ -89,39 +111,6 @@
       "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH",
       "durationMs": 394266,
       "playedAt": "2026-09-30T01:48:58.573Z"
-    },
-    {
-      "name": "Overjoyed",
-      "artists": [
-        "Stevie Wonder"
-      ],
-      "album": "In Square Circle",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ed0ddbe4b2590f448e9845be",
-      "url": "https://open.spotify.com/track/2lnQcP5hr4RKR63TFvnI4k",
-      "durationMs": 222586,
-      "playedAt": "2026-09-30T01:42:27.382Z"
-    },
-    {
-      "name": "Master Blaster (Jammin')",
-      "artists": [
-        "Stevie Wonder"
-      ],
-      "album": "Hotter Than July",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ee3d8573b47a75a0d8233b39",
-      "url": "https://open.spotify.com/track/6NjYhDWaI8jKgcSU0ZsJuz",
-      "durationMs": 308066,
-      "playedAt": "2026-09-30T01:38:47.773Z"
-    },
-    {
-      "name": "Don't You Worry 'Bout A Thing",
-      "artists": [
-        "Stevie Wonder"
-      ],
-      "album": "Innervisions",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266",
-      "url": "https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv",
-      "durationMs": 284840,
-      "playedAt": "2026-09-30T01:33:42.705Z"
     }
   ],
   "topArtists": [
@@ -162,15 +151,15 @@
       "genres": []
     },
     {
-      "name": "The Delfonics",
-      "imageUrl": "https://i.scdn.co/image/c923d6436c698e5847c2ef79af5b2cbdfab8aaf8",
-      "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4",
+      "name": "Stevie Wonder",
+      "imageUrl": "https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108",
+      "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi",
       "genres": []
     },
     {
-      "name": "Rapallo",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
-      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
+      "name": "The Delfonics",
+      "imageUrl": "https://i.scdn.co/image/c923d6436c698e5847c2ef79af5b2cbdfab8aaf8",
+      "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4",
       "genres": []
     }
   ],
