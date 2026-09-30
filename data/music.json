@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T15:34:10.632Z",
+  "updatedAt": "2026-09-30T20:29:51.760Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -118,34 +118,25 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Awon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
       "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": [
-        "jazz rap"
-      ]
+      "genres": []
     },
     {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": [
-        "jazz",
-        "vocal jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Norah Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
       "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-      "genres": [
-        "jazz pop"
-      ]
+      "genres": []
     },
     {
       "name": "Frank Ocean",
@@ -157,30 +148,19 @@
       "name": "Eric Clapton",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46ca60e8f215103f6841d8a83f0",
       "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD",
-      "genres": [
-        "blues rock",
-        "classic rock"
-      ]
+      "genres": []
     },
     {
       "name": "Stevie Wonder",
       "imageUrl": "https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108",
       "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi",
-      "genres": [
-        "motown",
-        "classic soul",
-        "soul"
-      ]
+      "genres": []
     },
     {
       "name": "The Delfonics",
       "imageUrl": "https://i.scdn.co/image/c923d6436c698e5847c2ef79af5b2cbdfab8aaf8",
       "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4",
-      "genres": [
-        "philly soul",
-        "classic soul",
-        "motown"
-      ]
+      "genres": []
     }
   ],
   "topTracks": [
