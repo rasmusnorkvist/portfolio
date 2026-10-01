@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-01T00:08:10.413Z",
+  "updatedAt": "2026-10-01T06:18:55.711Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "If You Really Love Me",
+      "artists": [
+        "Stevie Wonder"
+      ],
+      "album": "Where I'm Coming From",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737ae95ae02ff3e5fd725fd044",
+      "url": "https://open.spotify.com/track/6Axz5VSkc4Bs8eXWQxnynE",
+      "durationMs": 180533,
+      "playedAt": "2026-10-01T06:06:59.339Z"
+    },
     {
       "name": "Lately",
       "artists": [
@@ -100,17 +111,6 @@
       "url": "https://open.spotify.com/track/4P91jW5QmEkhoLgdMujp82",
       "durationMs": 303466,
       "playedAt": "2026-09-30T01:53:59.077Z"
-    },
-    {
-      "name": "Isn't She Lovely",
-      "artists": [
-        "Stevie Wonder"
-      ],
-      "album": "Songs In The Key Of Life",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50",
-      "url": "https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH",
-      "durationMs": 394266,
-      "playedAt": "2026-09-30T01:48:58.573Z"
     }
   ],
   "topArtists": [
