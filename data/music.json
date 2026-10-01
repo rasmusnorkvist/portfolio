@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-10-01T13:41:53.067Z",
+  "updatedAt": "2026-10-01T19:14:21.008Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "De Ba Blev Så",
+      "artists": [
+        "Erik Lundin"
+      ],
+      "album": "De Ba Blev Så",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d9d0e500d591402686833627",
+      "url": "https://open.spotify.com/track/0Yrg9DYDTocbPviJ2sgxY2",
+      "durationMs": 190240,
+      "playedAt": "2026-10-01T15:33:46.354Z"
+    },
+    {
+      "name": "Dina Ögon Är Nakna",
+      "artists": [
+        "Erik Lundin"
+      ],
+      "album": "Alla Va Nån Innan Dom Blev Nån",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e2ebe900282038c7694d52c5",
+      "url": "https://open.spotify.com/track/3xtIivrI66w0TXTUJimDNf",
+      "durationMs": 200346,
+      "playedAt": "2026-10-01T15:33:46.354Z"
+    },
     {
       "name": "If You Really Love Me",
       "artists": [
@@ -89,28 +111,6 @@
       "url": "https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ",
       "durationMs": 174400,
       "playedAt": "2026-09-30T02:00:30.175Z"
-    },
-    {
-      "name": "Part-Time Lover - Single Version",
-      "artists": [
-        "Stevie Wonder"
-      ],
-      "album": "The Definitive Collection",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91",
-      "url": "https://open.spotify.com/track/798bKohvGZenetnHsKzUC6",
-      "durationMs": 222733,
-      "playedAt": "2026-09-30T01:57:38.760Z"
-    },
-    {
-      "name": "Do I Do",
-      "artists": [
-        "Stevie Wonder"
-      ],
-      "album": "The Definitive Collection (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273835ed5fb9b70f46c3177ffde",
-      "url": "https://open.spotify.com/track/4P91jW5QmEkhoLgdMujp82",
-      "durationMs": 303466,
-      "playedAt": "2026-09-30T01:53:59.077Z"
     }
   ],
   "topArtists": [
