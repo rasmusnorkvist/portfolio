@@ -1,127 +1,117 @@
 {
-  "updatedAt": "2026-10-02T02:25:12.280Z",
-  "nowPlaying": {
-    "name": "Suedi",
-    "artists": [
-      "Erik Lundin"
-    ],
-    "album": "Suedi",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c7d806028ada0af949d010f2",
-    "url": "https://open.spotify.com/track/4UxD3lmw1suX1z4PpcqvwS",
-    "durationMs": 260400,
-    "isPlaying": true,
-    "progressMs": 22061
-  },
+  "updatedAt": "2026-10-02T08:48:06.885Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "De Ba Blev Så",
+      "name": "My Baby Just Cares for Me (2013 - Remaster)",
       "artists": [
-        "Erik Lundin"
+        "Nina Simone"
       ],
-      "album": "De Ba Blev Så",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d9d0e500d591402686833627",
-      "url": "https://open.spotify.com/track/0Yrg9DYDTocbPviJ2sgxY2",
-      "durationMs": 190240,
-      "playedAt": "2026-10-01T15:33:46.354Z"
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534",
+      "durationMs": 215746,
+      "playedAt": "2026-10-02T04:07:32.410Z"
     },
     {
-      "name": "Dina Ögon Är Nakna",
+      "name": "Love Me or Leave Me (2013 - Remaster)",
       "artists": [
-        "Erik Lundin"
+        "Nina Simone"
       ],
-      "album": "Alla Va Nån Innan Dom Blev Nån",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e2ebe900282038c7694d52c5",
-      "url": "https://open.spotify.com/track/3xtIivrI66w0TXTUJimDNf",
-      "durationMs": 200346,
-      "playedAt": "2026-10-01T15:33:46.354Z"
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/3EW11ZQ2feJf0sILCZnqGV",
+      "durationMs": 201390,
+      "playedAt": "2026-10-02T04:03:56.595Z"
     },
     {
-      "name": "If You Really Love Me",
+      "name": "Little Girl Blue (2013 - Remaster)",
       "artists": [
-        "Stevie Wonder"
+        "Nina Simone"
       ],
-      "album": "Where I'm Coming From",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737ae95ae02ff3e5fd725fd044",
-      "url": "https://open.spotify.com/track/6Axz5VSkc4Bs8eXWQxnynE",
-      "durationMs": 180533,
-      "playedAt": "2026-10-01T06:06:59.339Z"
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/0fpohcklLKNLo3FyjVjEsE",
+      "durationMs": 257624,
+      "playedAt": "2026-10-02T04:00:35.188Z"
     },
     {
-      "name": "Lately",
+      "name": "He Needs Me (2013 - Remaster)",
       "artists": [
-        "Stevie Wonder"
+        "Nina Simone"
       ],
-      "album": "Hotter Than July",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ee3d8573b47a75a0d8233b39",
-      "url": "https://open.spotify.com/track/1QFNF3quXkux7v4RbWfaaF",
-      "durationMs": 245240,
-      "playedAt": "2026-09-30T02:29:48.977Z"
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN",
+      "durationMs": 149330,
+      "playedAt": "2026-10-02T03:56:17.583Z"
     },
     {
-      "name": "Love's In Need Of Love Today",
+      "name": "Don't Smoke in Bed (2013 - Remaster)",
       "artists": [
-        "Stevie Wonder"
+        "Nina Simone"
       ],
-      "album": "Songs In The Key Of Life",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50",
-      "url": "https://open.spotify.com/track/39sdlCugrGBsoC4Flos0HO",
-      "durationMs": 425826,
-      "playedAt": "2026-09-30T02:25:46.677Z"
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/32wq8cLbp3qaOlkNcDneIT",
+      "durationMs": 190370,
+      "playedAt": "2026-10-02T03:53:48.319Z"
     },
     {
-      "name": "Living For The City",
+      "name": "Mood Indigo (2013 - Remaster)",
       "artists": [
-        "Stevie Wonder"
+        "Nina Simone"
       ],
-      "album": "The Definitive Collection (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273835ed5fb9b70f46c3177ffde",
-      "url": "https://open.spotify.com/track/1O1mCVN5hue4lOOqd5EysZ",
-      "durationMs": 219306,
-      "playedAt": "2026-09-30T02:18:43.877Z"
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/3rlEbh8f1o88gsBFkwV6bh",
+      "durationMs": 240610,
+      "playedAt": "2026-10-02T03:50:37.904Z"
     },
     {
-      "name": "Ribbon In The Sky",
+      "name": "I Can't Give You Anything But Love",
       "artists": [
-        "Stevie Wonder"
+        "Monica Zetterlund"
       ],
-      "album": "Original Musiquarium",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f79ed09155e87ba56eeeea2d",
-      "url": "https://open.spotify.com/track/1Y5B1vvFDia8MtyM16UgnN",
-      "durationMs": 337066,
-      "playedAt": "2026-09-30T02:15:07.573Z"
+      "album": "The Lost Tapes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27333cb267657c4ff8f172605dd",
+      "url": "https://open.spotify.com/track/0QpIXiEeziy7SYf85KH0z6",
+      "durationMs": 194866,
+      "playedAt": "2026-10-02T03:43:35.834Z"
     },
     {
-      "name": "All I Do",
+      "name": "Ack, Värmeland du sköna",
       "artists": [
-        "Stevie Wonder"
+        "Monica Zetterlund"
       ],
-      "album": "Hotter Than July",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ee3d8573b47a75a0d8233b39",
-      "url": "https://open.spotify.com/track/0k3fBeBIcok5gbYQyQbxP5",
-      "durationMs": 306666,
-      "playedAt": "2026-09-30T02:09:33.577Z"
+      "album": "The Lost Tapes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27333cb267657c4ff8f172605dd",
+      "url": "https://open.spotify.com/track/3gXV3hlrEZilq4DclC2hoW",
+      "durationMs": 158360,
+      "playedAt": "2026-10-02T03:40:24.032Z"
     },
     {
-      "name": "Knocks Me Off My Feet",
+      "name": "Come Rain Or Come Shine",
       "artists": [
-        "Stevie Wonder"
+        "Monica Zetterlund",
+        "Bill Evans"
       ],
-      "album": "Songs In The Key Of Life",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50",
-      "url": "https://open.spotify.com/track/4C5GsegFD0j5ujSr1y93Oj",
-      "durationMs": 216426,
-      "playedAt": "2026-09-30T02:04:03.583Z"
+      "album": "Waltz For Debby",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a4e6d8633c7f37f127d66f8e",
+      "url": "https://open.spotify.com/track/05R8G0ebcKASAsy91e56LC",
+      "durationMs": 282533,
+      "playedAt": "2026-10-02T03:37:48.636Z"
     },
     {
-      "name": "Uptight (Everything's Alright)",
+      "name": "I New York",
       "artists": [
-        "Stevie Wonder"
+        "Monica Zetterlund"
       ],
-      "album": "Up-Tight",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c82a59431ee475300e2f618a",
-      "url": "https://open.spotify.com/track/0Hw6SCrtU9pFCjgAONpnGZ",
-      "durationMs": 174400,
-      "playedAt": "2026-09-30T02:00:30.175Z"
+      "album": "Ahh! Monica!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
+      "url": "https://open.spotify.com/track/4jYQDYfknEGqOeVrM0jgrI",
+      "durationMs": 135626,
+      "playedAt": "2026-10-02T03:33:09.142Z"
     }
   ],
   "topArtists": [
@@ -132,15 +122,15 @@
       "genres": []
     },
     {
-      "name": "Awon",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
-      "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": []
-    },
-    {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
+      "genres": []
+    },
+    {
+      "name": "Awon",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
+      "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
       "genres": []
     },
     {
@@ -186,36 +176,6 @@
       "durationMs": 148560
     },
     {
-      "name": "Visa från Utanmyra",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
-      "durationMs": 273800
-    },
-    {
-      "name": "Don't Know Why",
-      "artists": [
-        "Norah Jones"
-      ],
-      "album": "Come Away With Me (Super Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
-      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
-      "durationMs": 186251
-    },
-    {
-      "name": "Start",
-      "artists": [
-        "Frank Ocean"
-      ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
-      "durationMs": 45640
-    },
-    {
       "name": "Stepp, min stepp",
       "artists": [
         "Jan Johansson"
@@ -236,6 +196,16 @@
       "durationMs": 202360
     },
     {
+      "name": "Visa från Utanmyra",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800
+    },
+    {
       "name": "Pråmdragarnas sång vid Volga",
       "artists": [
         "Jan Johansson"
@@ -254,6 +224,26 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273059e1cfa2e6a0b934e63ce79",
       "url": "https://open.spotify.com/track/3VGSPHf05GoipHsLa204lR",
       "durationMs": 169413
+    },
+    {
+      "name": "Start",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
+      "durationMs": 45640
+    },
+    {
+      "name": "Don't Know Why",
+      "artists": [
+        "Norah Jones"
+      ],
+      "album": "Come Away With Me (Super Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
+      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
+      "durationMs": 186251
     }
   ],
   "featuredPlaylists": []
