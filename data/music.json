@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-02T15:18:57.792Z",
+  "updatedAt": "2026-10-02T20:03:39.165Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Good Bait (2013 - Remaster)",
+      "artists": [
+        "Nina Simone"
+      ],
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/1U5x2J1o03WIsYpviaqMUy",
+      "durationMs": 327193,
+      "playedAt": "2026-10-02T05:09:25.780Z"
+    },
     {
       "name": "My Baby Just Cares for Me (2013 - Remaster)",
       "artists": [
@@ -101,17 +112,6 @@
       "url": "https://open.spotify.com/track/05R8G0ebcKASAsy91e56LC",
       "durationMs": 282533,
       "playedAt": "2026-10-02T03:37:48.636Z"
-    },
-    {
-      "name": "I New York",
-      "artists": [
-        "Monica Zetterlund"
-      ],
-      "album": "Ahh! Monica!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
-      "url": "https://open.spotify.com/track/4jYQDYfknEGqOeVrM0jgrI",
-      "durationMs": 135626,
-      "playedAt": "2026-10-02T03:33:09.142Z"
     }
   ],
   "topArtists": [
@@ -158,9 +158,9 @@
       "genres": []
     },
     {
-      "name": "Rapallo",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
-      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
+      "name": "Nina Simone",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
+      "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
       "genres": []
     }
   ],
