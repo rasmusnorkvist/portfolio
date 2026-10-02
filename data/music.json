@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-01T23:19:15.126Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-02T02:25:12.280Z",
+  "nowPlaying": {
+    "name": "Suedi",
+    "artists": [
+      "Erik Lundin"
+    ],
+    "album": "Suedi",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c7d806028ada0af949d010f2",
+    "url": "https://open.spotify.com/track/4UxD3lmw1suX1z4PpcqvwS",
+    "durationMs": 260400,
+    "isPlaying": true,
+    "progressMs": 22061
+  },
   "recentlyPlayed": [
     {
       "name": "De Ba Blev Så",
