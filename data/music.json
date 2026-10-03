@@ -1,118 +1,116 @@
 {
-  "updatedAt": "2026-10-02T23:55:35.862Z",
+  "updatedAt": "2026-10-03T03:45:23.190Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Pretty Sweet",
+      "name": "Patient Zero",
       "artists": [
-        "Frank Ocean"
+        "Taylor Swift"
       ],
-      "album": "Blonde",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
-      "url": "https://open.spotify.com/track/17yrCsl1Ai6CZLBmGj6d6p",
-      "durationMs": 158478,
-      "playedAt": "2026-10-02T23:15:51.648Z"
+      "album": "The Life of a Showgirl: The Encore",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cf3de6b538d8b1ed73a4d5d1",
+      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub",
+      "durationMs": 225868,
+      "playedAt": "2026-10-03T02:55:35.305Z"
     },
     {
-      "name": "Intergalactic Janet",
+      "name": "The Fate of Ophelia",
       "artists": [
-        "Ley Soul"
+        "Taylor Swift"
       ],
-      "album": "Intergalactic Janet",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f6a558d0702726663f3cbc7c",
-      "url": "https://open.spotify.com/track/7JEBZ8IdRRE2FHcZITmgW2",
-      "durationMs": 160440,
-      "playedAt": "2026-10-02T23:13:16.245Z"
+      "album": "The Life of a Showgirl",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
+      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W",
+      "durationMs": 226073,
+      "playedAt": "2026-10-03T02:51:52.411Z"
     },
     {
-      "name": "Like a Tattoo",
+      "name": "I Want to Spend the Night",
       "artists": [
-        "Sade"
+        "Bill Withers"
       ],
-      "album": "Love Deluxe",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ee65bbd54f993b5f01d5c511",
-      "url": "https://open.spotify.com/track/4PEGwWH4tL6H7dGl4uVSPg",
-      "durationMs": 218000,
-      "playedAt": "2026-10-02T23:10:38.845Z"
+      "album": "Menagerie",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27367c1113f55ab816ef61d3993",
+      "url": "https://open.spotify.com/track/5O9oIsN5r0MKWuUrjWSa7W",
+      "durationMs": 223421,
+      "playedAt": "2026-10-03T02:43:02.428Z"
     },
     {
-      "name": "Future Lover",
+      "name": "I Don't Know",
       "artists": [
-        "Thee Sacred Souls"
+        "Bill Withers"
       ],
-      "album": "Thee Sacred Souls",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-      "url": "https://open.spotify.com/track/3kedYiw0PflZpyQcDzBLKK",
-      "durationMs": 211626,
-      "playedAt": "2026-10-02T23:07:03.848Z"
+      "album": "Still Bill",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27372641ed682401fc46c18ac12",
+      "url": "https://open.spotify.com/track/16h3GCdEJ9lgiOyox4LJQA",
+      "durationMs": 186710,
+      "playedAt": "2026-10-03T02:39:22.026Z"
     },
     {
-      "name": "End",
+      "name": "Heartbreak Road",
       "artists": [
-        "Frank Ocean"
+        "Bill Withers"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/05tFLPSXJ1BbqIXy4Jeqfh",
-      "durationMs": 134600,
-      "playedAt": "2026-10-02T23:03:35.187Z"
+      "album": "'Justments",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334c5960e310bf44ef1f8cf41",
+      "url": "https://open.spotify.com/track/2Ln4fno71kJLPZfy1XZoj1",
+      "durationMs": 189750,
+      "playedAt": "2026-10-03T02:36:18.328Z"
     },
     {
-      "name": "Forrest Gump",
+      "name": "I'm Her Daddy",
       "artists": [
-        "Frank Ocean"
+        "Bill Withers"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx",
-      "durationMs": 194840,
-      "playedAt": "2026-10-02T23:01:20.644Z"
+      "album": "Just As I Am",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f64b9ea8a8a409c6af86134f",
+      "url": "https://open.spotify.com/track/4Z5C9LDf5S5pWFAoPWN4ej",
+      "durationMs": 199514,
+      "playedAt": "2026-10-03T02:33:11.536Z"
     },
     {
-      "name": "Pink Matter",
+      "name": "Don't It Make It Better",
       "artists": [
-        "Frank Ocean",
-        "André 3000"
+        "Bill Withers"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596",
-      "durationMs": 268813,
-      "playedAt": "2026-10-02T22:58:05.733Z"
+      "album": "'Bout Love",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387373c8df96bdbe301aeb784",
+      "url": "https://open.spotify.com/track/5jO8BB4eIdrZ4EZE4zkHwX",
+      "durationMs": 253859,
+      "playedAt": "2026-10-03T02:29:55.039Z"
     },
     {
-      "name": "Bad Religion",
+      "name": "Lonely Town, Lonely Street",
       "artists": [
-        "Frank Ocean"
+        "Bill Withers"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/2pMPWE7PJH1PizfgGRMnR9",
-      "durationMs": 175453,
-      "playedAt": "2026-10-02T22:53:36.938Z"
+      "album": "Still Bill",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27372641ed682401fc46c18ac12",
+      "url": "https://open.spotify.com/track/3oiVJNFAQQ77Yp3rXWGsVp",
+      "durationMs": 225149,
+      "playedAt": "2026-10-03T02:25:44.224Z"
     },
     {
-      "name": "Monks",
+      "name": "Make a Smile for Me",
       "artists": [
-        "Frank Ocean"
+        "Bill Withers"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/0msrDPXxZpts4FRnoX0bFr",
-      "durationMs": 200240,
-      "playedAt": "2026-10-02T22:50:41.545Z"
+      "album": "'Justments",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334c5960e310bf44ef1f8cf41",
+      "url": "https://open.spotify.com/track/7EiujtpJ3Ty0RcFhMHDHhZ",
+      "durationMs": 196706,
+      "playedAt": "2026-10-03T02:22:02.105Z"
     },
     {
-      "name": "White",
+      "name": "Harlem",
       "artists": [
-        "Frank Ocean",
-        "John Mayer"
+        "Bill Withers"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/1VMdwVq0yaTc4DeqSCi7DO",
-      "durationMs": 76280,
-      "playedAt": "2026-10-02T22:47:21.246Z"
+      "album": "Just As I Am",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f64b9ea8a8a409c6af86134f",
+      "url": "https://open.spotify.com/track/6JumfGk4f9E5KLT086I75s",
+      "durationMs": 205431,
+      "playedAt": "2026-10-03T02:18:48.498Z"
     }
   ],
   "topArtists": [
@@ -129,21 +127,27 @@
       "genres": []
     },
     {
-      "name": "Awon",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
-      "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": []
-    },
-    {
       "name": "Frank Ocean",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
       "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
       "genres": []
     },
     {
+      "name": "Awon",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
+      "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
+      "genres": []
+    },
+    {
       "name": "Norah Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
       "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
+      "genres": []
+    },
+    {
+      "name": "Bill Withers",
+      "imageUrl": "https://i.scdn.co/image/96b85aec6907206572527e1eeec6569d5e977a38",
+      "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj",
       "genres": []
     },
     {
@@ -156,12 +160,6 @@
       "name": "The Delfonics",
       "imageUrl": "https://i.scdn.co/image/c923d6436c698e5847c2ef79af5b2cbdfab8aaf8",
       "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4",
-      "genres": []
-    },
-    {
-      "name": "Nina Simone",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
-      "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
       "genres": []
     }
   ],
