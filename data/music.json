@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-03T18:30:35.515Z",
+  "updatedAt": "2026-10-03T21:57:18.901Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "happiness",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "album": "evermore (deluxe version)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
+      "url": "https://open.spotify.com/track/55Vf4bimc1Rtfg0PAQRAo2",
+      "durationMs": 315146,
+      "playedAt": "2026-10-03T19:06:56.207Z"
+    },
     {
       "name": "no body, no crime (feat. HAIM)",
       "artists": [
@@ -101,17 +112,6 @@
       "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K",
       "durationMs": 261922,
       "playedAt": "2026-10-03T16:46:44.496Z"
-    },
-    {
-      "name": "Style",
-      "artists": [
-        "Taylor Swift"
-      ],
-      "album": "1989 (Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352b2a3824413eefe9e33817a",
-      "url": "https://open.spotify.com/track/0ug5NqcwcFR2xrfTkc7k8e",
-      "durationMs": 231000,
-      "playedAt": "2026-10-03T16:42:25.594Z"
     }
   ],
   "topArtists": [
