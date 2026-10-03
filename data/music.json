@@ -1,116 +1,117 @@
 {
-  "updatedAt": "2026-10-03T14:32:17.074Z",
+  "updatedAt": "2026-10-03T18:30:35.515Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Patient Zero",
+      "name": "no body, no crime (feat. HAIM)",
+      "artists": [
+        "Taylor Swift",
+        "HAIM"
+      ],
+      "album": "evermore (deluxe version)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
+      "url": "https://open.spotify.com/track/6uwfVkaOM1mcMkFmSn35ix",
+      "durationMs": 215626,
+      "playedAt": "2026-10-03T17:18:19.072Z"
+    },
+    {
+      "name": "tolerate it",
       "artists": [
         "Taylor Swift"
       ],
-      "album": "The Life of a Showgirl: The Encore",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cf3de6b538d8b1ed73a4d5d1",
-      "url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub",
-      "durationMs": 225868,
-      "playedAt": "2026-10-03T02:55:35.305Z"
+      "album": "evermore (deluxe version)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
+      "url": "https://open.spotify.com/track/6lCvK2AR2uOKkVFCVlAzzm",
+      "durationMs": 245440,
+      "playedAt": "2026-10-03T17:14:43.399Z"
     },
     {
-      "name": "The Fate of Ophelia",
+      "name": "‘tis the damn season",
       "artists": [
         "Taylor Swift"
       ],
-      "album": "The Life of a Showgirl",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
-      "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W",
-      "durationMs": 226073,
-      "playedAt": "2026-10-03T02:51:52.411Z"
+      "album": "evermore (deluxe version)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
+      "url": "https://open.spotify.com/track/6sQckd3Z8NPxVVKUnavY1F",
+      "durationMs": 229840,
+      "playedAt": "2026-10-03T17:10:37.990Z"
     },
     {
-      "name": "I Want to Spend the Night",
+      "name": "gold rush",
       "artists": [
-        "Bill Withers"
+        "Taylor Swift"
       ],
-      "album": "Menagerie",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27367c1113f55ab816ef61d3993",
-      "url": "https://open.spotify.com/track/5O9oIsN5r0MKWuUrjWSa7W",
-      "durationMs": 223421,
-      "playedAt": "2026-10-03T02:43:02.428Z"
+      "album": "evermore (deluxe version)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
+      "url": "https://open.spotify.com/track/3Dby3p1m6IOZn2gIIqECgK",
+      "durationMs": 185320,
+      "playedAt": "2026-10-03T17:06:48.197Z"
     },
     {
-      "name": "I Don't Know",
+      "name": "champagne problems",
       "artists": [
-        "Bill Withers"
+        "Taylor Swift"
       ],
-      "album": "Still Bill",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27372641ed682401fc46c18ac12",
-      "url": "https://open.spotify.com/track/16h3GCdEJ9lgiOyox4LJQA",
-      "durationMs": 186710,
-      "playedAt": "2026-10-03T02:39:22.026Z"
+      "album": "evermore (deluxe version)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
+      "url": "https://open.spotify.com/track/1gcyHQpBQ1lfXGdhZmWrHP",
+      "durationMs": 244000,
+      "playedAt": "2026-10-03T17:03:42.796Z"
     },
     {
-      "name": "Heartbreak Road",
+      "name": "willow",
       "artists": [
-        "Bill Withers"
+        "Taylor Swift"
       ],
-      "album": "'Justments",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334c5960e310bf44ef1f8cf41",
-      "url": "https://open.spotify.com/track/2Ln4fno71kJLPZfy1XZoj1",
-      "durationMs": 189750,
-      "playedAt": "2026-10-03T02:36:18.328Z"
+      "album": "evermore (deluxe version)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
+      "url": "https://open.spotify.com/track/2gVhfX2Gy1T9kDuS9azrF7",
+      "durationMs": 214706,
+      "playedAt": "2026-10-03T16:59:38.800Z"
     },
     {
-      "name": "I'm Her Daddy",
+      "name": "You Belong With Me",
       "artists": [
-        "Bill Withers"
+        "Taylor Swift"
       ],
-      "album": "Just As I Am",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f64b9ea8a8a409c6af86134f",
-      "url": "https://open.spotify.com/track/4Z5C9LDf5S5pWFAoPWN4ej",
-      "durationMs": 199514,
-      "playedAt": "2026-10-03T02:33:11.536Z"
+      "album": "Fearless (Platinum Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373b565ab9d713e8d5586aac2",
+      "url": "https://open.spotify.com/track/4kgTdThcDHfuDS2kKxB7Lc",
+      "durationMs": 231146,
+      "playedAt": "2026-10-03T16:54:25.392Z"
     },
     {
-      "name": "Don't It Make It Better",
+      "name": "Love Story (Taylor’s Version)",
       "artists": [
-        "Bill Withers"
+        "Taylor Swift"
       ],
-      "album": "'Bout Love",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387373c8df96bdbe301aeb784",
-      "url": "https://open.spotify.com/track/5jO8BB4eIdrZ4EZE4zkHwX",
-      "durationMs": 253859,
-      "playedAt": "2026-10-03T02:29:55.039Z"
+      "album": "Love Story (Taylor’s Version)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273877ea8fa223c26f19aaef92d",
+      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf",
+      "durationMs": 235766,
+      "playedAt": "2026-10-03T16:50:37.192Z"
     },
     {
-      "name": "Lonely Town, Lonely Street",
+      "name": "august",
       "artists": [
-        "Bill Withers"
+        "Taylor Swift"
       ],
-      "album": "Still Bill",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27372641ed682401fc46c18ac12",
-      "url": "https://open.spotify.com/track/3oiVJNFAQQ77Yp3rXWGsVp",
-      "durationMs": 225149,
-      "playedAt": "2026-10-03T02:25:44.224Z"
+      "album": "folklore",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K",
+      "durationMs": 261922,
+      "playedAt": "2026-10-03T16:46:44.496Z"
     },
     {
-      "name": "Make a Smile for Me",
+      "name": "Style",
       "artists": [
-        "Bill Withers"
+        "Taylor Swift"
       ],
-      "album": "'Justments",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334c5960e310bf44ef1f8cf41",
-      "url": "https://open.spotify.com/track/7EiujtpJ3Ty0RcFhMHDHhZ",
-      "durationMs": 196706,
-      "playedAt": "2026-10-03T02:22:02.105Z"
-    },
-    {
-      "name": "Harlem",
-      "artists": [
-        "Bill Withers"
-      ],
-      "album": "Just As I Am",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f64b9ea8a8a409c6af86134f",
-      "url": "https://open.spotify.com/track/6JumfGk4f9E5KLT086I75s",
-      "durationMs": 205431,
-      "playedAt": "2026-10-03T02:18:48.498Z"
+      "album": "1989 (Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352b2a3824413eefe9e33817a",
+      "url": "https://open.spotify.com/track/0ug5NqcwcFR2xrfTkc7k8e",
+      "durationMs": 231000,
+      "playedAt": "2026-10-03T16:42:25.594Z"
     }
   ],
   "topArtists": [
@@ -145,9 +146,9 @@
       "genres": []
     },
     {
-      "name": "Norah Jones",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
-      "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
+      "name": "Taylor Swift",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
+      "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
       "genres": []
     },
     {
@@ -225,16 +226,6 @@
       "durationMs": 222026
     },
     {
-      "name": "Don't Know Why",
-      "artists": [
-        "Norah Jones"
-      ],
-      "album": "Come Away With Me (Super Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c648a42b5dad72c8aafceeec",
-      "url": "https://open.spotify.com/track/1zNXF2svmdlNxfS5XeNUgr",
-      "durationMs": 186251
-    },
-    {
       "name": "På ängen stod en björk",
       "artists": [
         "Jan Johansson"
@@ -243,6 +234,17 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273059e1cfa2e6a0b934e63ce79",
       "url": "https://open.spotify.com/track/3VGSPHf05GoipHsLa204lR",
       "durationMs": 169413
+    },
+    {
+      "name": "Come Rain Or Come Shine",
+      "artists": [
+        "Monica Zetterlund",
+        "Bill Evans"
+      ],
+      "album": "Waltz For Debby",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a4e6d8633c7f37f127d66f8e",
+      "url": "https://open.spotify.com/track/05R8G0ebcKASAsy91e56LC",
+      "durationMs": 282533
     }
   ],
   "featuredPlaylists": []
