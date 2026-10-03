@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T03:45:23.190Z",
+  "updatedAt": "2026-10-03T09:37:53.791Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -139,15 +139,15 @@
       "genres": []
     },
     {
-      "name": "Norah Jones",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
-      "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
-      "genres": []
-    },
-    {
       "name": "Bill Withers",
       "imageUrl": "https://i.scdn.co/image/96b85aec6907206572527e1eeec6569d5e977a38",
       "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj",
+      "genres": []
+    },
+    {
+      "name": "Norah Jones",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed83d3ea063d87ce7e708f00",
+      "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N",
       "genres": []
     },
     {
