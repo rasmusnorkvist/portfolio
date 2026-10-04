@@ -1,117 +1,127 @@
 {
-  "updatedAt": "2026-10-04T00:23:14.883Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-04T06:09:23.728Z",
+  "nowPlaying": {
+    "name": "Here I Go Again",
+    "artists": [
+      "Jean Plum"
+    ],
+    "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
+    "url": "https://open.spotify.com/track/383hnqYAkTYzmLWPHzcNd1",
+    "durationMs": 146198,
+    "isPlaying": true,
+    "progressMs": 75647
+  },
   "recentlyPlayed": [
     {
-      "name": "happiness",
+      "name": "I can Deal with that",
       "artists": [
-        "Taylor Swift"
+        "Dee Edwards"
       ],
-      "album": "evermore (deluxe version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
-      "url": "https://open.spotify.com/track/55Vf4bimc1Rtfg0PAQRAo2",
-      "durationMs": 315146,
-      "playedAt": "2026-10-03T19:06:56.207Z"
+      "album": "Rare Sweet & Soul 29",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273105b2b4692227fc2b8d63b5d",
+      "url": "https://open.spotify.com/track/6cKUIkcIgZMk75ytjVBhV1",
+      "durationMs": 197786,
+      "playedAt": "2026-10-04T06:08:11.924Z"
     },
     {
-      "name": "no body, no crime (feat. HAIM)",
+      "name": "Ridin' High",
       "artists": [
-        "Taylor Swift",
-        "HAIM"
+        "The New Establishment"
       ],
-      "album": "evermore (deluxe version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
-      "url": "https://open.spotify.com/track/6uwfVkaOM1mcMkFmSn35ix",
-      "durationMs": 215626,
-      "playedAt": "2026-10-03T17:18:19.072Z"
+      "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
+      "url": "https://open.spotify.com/track/3YjvfMGMYhObRIif025IQX",
+      "durationMs": 179031,
+      "playedAt": "2026-10-04T06:04:57.148Z"
     },
     {
-      "name": "tolerate it",
+      "name": "A Fool Can't See the Light",
       "artists": [
-        "Taylor Swift"
+        "O.V. Wright"
       ],
-      "album": "evermore (deluxe version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
-      "url": "https://open.spotify.com/track/6lCvK2AR2uOKkVFCVlAzzm",
-      "durationMs": 245440,
-      "playedAt": "2026-10-03T17:14:43.399Z"
+      "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
+      "url": "https://open.spotify.com/track/15ru9r8GfAHkiPixK9mIBu",
+      "durationMs": 164417,
+      "playedAt": "2026-10-04T06:02:01.125Z"
     },
     {
-      "name": "‘tis the damn season",
+      "name": "Tammie",
       "artists": [
-        "Taylor Swift"
+        "Richard Coombs"
       ],
-      "album": "evermore (deluxe version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
-      "url": "https://open.spotify.com/track/6sQckd3Z8NPxVVKUnavY1F",
-      "durationMs": 229840,
-      "playedAt": "2026-10-03T17:10:37.990Z"
+      "album": "Dave Hamilton's Detroit Dancers, Vol. 2",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343283cff03d451b36cfb3725",
+      "url": "https://open.spotify.com/track/2aEdVr9B5YU4elMxzaNbFr",
+      "durationMs": 159186,
+      "playedAt": "2026-10-04T05:59:19.728Z"
     },
     {
-      "name": "gold rush",
+      "name": "Away With You",
       "artists": [
-        "Taylor Swift"
+        "Carolynn Porter"
       ],
-      "album": "evermore (deluxe version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
-      "url": "https://open.spotify.com/track/3Dby3p1m6IOZn2gIIqECgK",
-      "durationMs": 185320,
-      "playedAt": "2026-10-03T17:06:48.197Z"
+      "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
+      "url": "https://open.spotify.com/track/5IVHPZ1nhVGNgnULaTEQkq",
+      "durationMs": 171698,
+      "playedAt": "2026-10-04T05:56:43.523Z"
     },
     {
-      "name": "champagne problems",
+      "name": "Misdemeanor",
       "artists": [
-        "Taylor Swift"
+        "Foster Sylvers"
       ],
-      "album": "evermore (deluxe version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
-      "url": "https://open.spotify.com/track/1gcyHQpBQ1lfXGdhZmWrHP",
-      "durationMs": 244000,
-      "playedAt": "2026-10-03T17:03:42.796Z"
+      "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
+      "url": "https://open.spotify.com/track/3ybK9y0AMkf7LSR3TZYLNT",
+      "durationMs": 150993,
+      "playedAt": "2026-10-04T05:53:51.929Z"
     },
     {
-      "name": "willow",
+      "name": "Sounds Ridiculous",
       "artists": [
-        "Taylor Swift"
+        "Alice Taylor"
       ],
-      "album": "evermore (deluxe version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27390fd9741e1838115cd90b3b6",
-      "url": "https://open.spotify.com/track/2gVhfX2Gy1T9kDuS9azrF7",
-      "durationMs": 214706,
-      "playedAt": "2026-10-03T16:59:38.800Z"
+      "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
+      "url": "https://open.spotify.com/track/0a1It8PTOxCvyyOnBCJeAK",
+      "durationMs": 218080,
+      "playedAt": "2026-10-04T05:51:20.933Z"
     },
     {
-      "name": "You Belong With Me",
+      "name": "Tobacco Road",
       "artists": [
-        "Taylor Swift"
+        "Tommy Youngblood"
       ],
-      "album": "Fearless (Platinum Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373b565ab9d713e8d5586aac2",
-      "url": "https://open.spotify.com/track/4kgTdThcDHfuDS2kKxB7Lc",
-      "durationMs": 231146,
-      "playedAt": "2026-10-03T16:54:25.392Z"
+      "album": "Pounds of Soul",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a69c3fb0d77e5cc74c44fd56",
+      "url": "https://open.spotify.com/track/3gGakpMSFq7bISyeaq4cti",
+      "durationMs": 160746,
+      "playedAt": "2026-10-04T05:47:45.843Z"
     },
     {
-      "name": "Love Story (Taylor’s Version)",
+      "name": "How Can You Say It",
       "artists": [
-        "Taylor Swift"
+        "Gloria Ann Taylor"
       ],
-      "album": "Love Story (Taylor’s Version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273877ea8fa223c26f19aaef92d",
-      "url": "https://open.spotify.com/track/3CeCwYWvdfXbZLXFhBrbnf",
-      "durationMs": 235766,
-      "playedAt": "2026-10-03T16:50:37.192Z"
+      "album": "Love is a Hurtin' Thing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732723cee10ab339f95340d870",
+      "url": "https://open.spotify.com/track/3u3ICebOfnF9P5mkViZOOX",
+      "durationMs": 172973,
+      "playedAt": "2026-10-04T05:45:08.066Z"
     },
     {
-      "name": "august",
+      "name": "I Cry",
       "artists": [
-        "Taylor Swift"
+        "Millie Jackson"
       ],
-      "album": "folklore",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
-      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K",
-      "durationMs": 261922,
-      "playedAt": "2026-10-03T16:46:44.496Z"
+      "album": "It Hurts so Good",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379adfff935fa0a3a09e560e9",
+      "url": "https://open.spotify.com/track/2bnouulS681Qyh562IroF4",
+      "durationMs": 255293,
+      "playedAt": "2026-10-04T05:42:18.141Z"
     }
   ],
   "topArtists": [
@@ -119,13 +129,18 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": []
+      "genres": [
+        "vocal jazz",
+        "jazz"
+      ]
     },
     {
       "name": "Frank Ocean",
@@ -137,13 +152,17 @@
       "name": "Awon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
       "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": []
+      "genres": [
+        "jazz rap"
+      ]
     },
     {
       "name": "Bill Withers",
       "imageUrl": "https://i.scdn.co/image/96b85aec6907206572527e1eeec6569d5e977a38",
       "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj",
-      "genres": []
+      "genres": [
+        "soul"
+      ]
     },
     {
       "name": "Taylor Swift",
@@ -152,15 +171,21 @@
       "genres": []
     },
     {
-      "name": "Stevie Wonder",
-      "imageUrl": "https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108",
-      "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi",
-      "genres": []
+      "name": "Buena Vista Social Club",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe35db4d5803c5a4c77dd44db",
+      "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW",
+      "genres": [
+        "son cubano",
+        "latin jazz",
+        "afro-cuban jazz",
+        "latin",
+        "bolero"
+      ]
     },
     {
-      "name": "The Delfonics",
-      "imageUrl": "https://i.scdn.co/image/c923d6436c698e5847c2ef79af5b2cbdfab8aaf8",
-      "url": "https://open.spotify.com/artist/6YPRXu1dazGYcSZv4HJEH4",
+      "name": "Rapallo",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
+      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
       "genres": []
     }
   ],
@@ -216,6 +241,16 @@
       "durationMs": 273800
     },
     {
+      "name": "I Love The Way You Love",
+      "artists": [
+        "Little Beaver"
+      ],
+      "album": "Soul Jazz Records presents MIAMI SOUND: Rare Funk & Soul From Miami, Florida 1967-74",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734de7ecc25bfd41feb177ee17",
+      "url": "https://open.spotify.com/track/4zKL4hktQua6tIbLmPf1ND",
+      "durationMs": 192146
+    },
+    {
       "name": "Pråmdragarnas sång vid Volga",
       "artists": [
         "Jan Johansson"
@@ -234,17 +269,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273059e1cfa2e6a0b934e63ce79",
       "url": "https://open.spotify.com/track/3VGSPHf05GoipHsLa204lR",
       "durationMs": 169413
-    },
-    {
-      "name": "Come Rain Or Come Shine",
-      "artists": [
-        "Monica Zetterlund",
-        "Bill Evans"
-      ],
-      "album": "Waltz For Debby",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a4e6d8633c7f37f127d66f8e",
-      "url": "https://open.spotify.com/track/05R8G0ebcKASAsy91e56LC",
-      "durationMs": 282533
     }
   ],
   "featuredPlaylists": []
