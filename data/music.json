@@ -1,116 +1,122 @@
 {
-  "updatedAt": "2026-10-05T02:14:51.163Z",
+  "updatedAt": "2026-10-05T09:25:02.215Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Nothing From Nothing",
+      "name": "Coffee and Cigarettes",
       "artists": [
-        "Billy Preston"
+        "Jazzinuf"
       ],
-      "album": "The Kids & Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731dd97e315f3a1ebeb420c1dd",
-      "url": "https://open.spotify.com/track/72PoJMDfdaw9gGECgA9kTZ",
-      "durationMs": 156200,
-      "playedAt": "2026-10-04T23:15:20.936Z"
+      "album": "Coffee and Cigarettes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f64e23ad232b825630fdc2e",
+      "url": "https://open.spotify.com/track/6Lx02kkeK3GOfvUora5LBE",
+      "durationMs": 193384,
+      "playedAt": "2026-10-05T05:29:34.348Z"
     },
     {
-      "name": "Cosmic Girl - Remastered 2013",
+      "name": "Moon and Tonic",
       "artists": [
-        "Jamiroquai"
+        "Jazzinuf"
       ],
-      "album": "Travelling Without Moving (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736407aa9a5e5215cf554ad5d1",
-      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK",
-      "durationMs": 244146,
-      "playedAt": "2026-10-04T23:12:47.576Z"
+      "album": "Audio Bartending",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731f6a72c455a12e6bc885654a",
+      "url": "https://open.spotify.com/track/3yflyr0bWIMCievxoprfiV",
+      "durationMs": 121887,
+      "playedAt": "2026-10-05T05:26:23.933Z"
     },
     {
-      "name": "She's A Bad Mama Jama (She's Built, She's Stacked) - Single Version",
+      "name": "Tryon Park",
       "artists": [
-        "Carl Carlton"
+        "Oatmello",
+        "Jazzinuf",
+        "Hippo Dreams"
       ],
-      "album": "Carl Carlton (Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d33cf0f26efdf538bfd6864e",
-      "url": "https://open.spotify.com/track/2R0zbd80CqwoB0ORDCqDoK",
-      "durationMs": 235933,
-      "playedAt": "2026-10-04T23:08:36.376Z"
+      "album": "NYC Stories",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8eb10155bfa07867505c2c4",
+      "url": "https://open.spotify.com/track/2UdnXz7IkglUjWDVKuLKgo",
+      "durationMs": 93975,
+      "playedAt": "2026-10-05T05:24:25.058Z"
     },
     {
-      "name": "Up Top",
+      "name": "Snow in My Shoe",
       "artists": [
-        "Busty and the Bass"
+        "Jazzinuf"
       ],
-      "album": "Uncommon Good",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273573ed413c05859addf910638",
-      "url": "https://open.spotify.com/track/1AgKm1bLfkByxpONHlaLLk",
-      "durationMs": 277550,
-      "playedAt": "2026-10-04T23:04:43.326Z"
+      "album": "Snow in My Shoe",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bbcb9df7b40d1abaa4f3424f",
+      "url": "https://open.spotify.com/track/2WW3yzfcOk082LANurmdzT",
+      "durationMs": 198857,
+      "playedAt": "2026-10-05T05:22:54.133Z"
     },
     {
-      "name": "The Keys",
+      "name": "Je t'aime",
       "artists": [
-        "Matt Duncan"
+        "Jazzinuf"
       ],
-      "album": "Soft Times",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27391de01c0b193ea2d021bb739",
-      "url": "https://open.spotify.com/track/3IKEgC5BTp0hzQxl5GTujD",
-      "durationMs": 217058,
-      "playedAt": "2026-10-04T23:00:08.098Z"
+      "album": "Dazzle",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273269dc240e2b69fcabd82d3b7",
+      "url": "https://open.spotify.com/track/6dxl91vlQDi9EvmuX39jm4",
+      "durationMs": 143376,
+      "playedAt": "2026-10-05T05:19:38.335Z"
     },
     {
-      "name": "Musta Been A Ghost",
+      "name": "Be Mine",
       "artists": [
-        "Próxima Parada"
+        "Jazzinuf"
       ],
-      "album": "Kind Reminder",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dd887b7f06bf71618e299496",
-      "url": "https://open.spotify.com/track/7K6nhFus3bYxYojgrt1n9e",
-      "durationMs": 220096,
-      "playedAt": "2026-10-04T22:56:33.883Z"
+      "album": "The Harlem Barber Swing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0e772a6c737692a90fcdb0",
+      "url": "https://open.spotify.com/track/4x4KcHMriD0CuU4XG1si6O",
+      "durationMs": 207250,
+      "playedAt": "2026-10-05T05:17:17.949Z"
     },
     {
-      "name": "I Wish",
+      "name": "Bitter Sweet",
       "artists": [
-        "Stevie Wonder"
+        "Jazzinuf",
+        "Santosh Sharma"
       ],
-      "album": "Songs In The Key Of Life",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50",
-      "url": "https://open.spotify.com/track/687YZan9Gol1UVvbpUSO6Y",
-      "durationMs": 252373,
-      "playedAt": "2026-10-04T22:52:36.706Z"
+      "album": "Harlem Barber Swing 2",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b318f7a1b8da963173139bd9",
+      "url": "https://open.spotify.com/track/0SQAjpKE8p37Tgi71rafbZ",
+      "durationMs": 95727,
+      "playedAt": "2026-10-05T05:13:53.667Z"
     },
     {
-      "name": "Rich Girl",
+      "name": "Alone Together",
       "artists": [
-        "Daryl Hall & John Oates"
+        "Jazzinuf"
       ],
-      "album": "Bigger Than Both Of Us",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733ebc5b9d8942069d3b920550",
-      "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX",
-      "durationMs": 142786,
-      "playedAt": "2026-10-04T22:48:27.307Z"
+      "album": "Alone Together",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eeb94ff25c3fa4bb8ca6cf07",
+      "url": "https://open.spotify.com/track/5AbYvUgk86Nt3EywuX6N2n",
+      "durationMs": 181395,
+      "playedAt": "2026-10-05T05:12:21.043Z"
     },
     {
-      "name": "19-2000 - Soulchild Remix",
+      "name": "Vista Del Bosque",
       "artists": [
-        "Gorillaz"
+        "Strehlow",
+        "Jazzinuf",
+        "Noé Mina"
       ],
-      "album": "Gorillaz",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f6c46838e4425ea96e2562fe",
-      "url": "https://open.spotify.com/track/1PpfeNl5uYRBhfFcig2Uz6",
-      "durationMs": 209386,
-      "playedAt": "2026-10-04T22:46:07.473Z"
+      "album": "Vista Del Bosque",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f50d88f2ae1918186688c8f",
+      "url": "https://open.spotify.com/track/3TfZuLNo9MgTgLuCAloKOF",
+      "durationMs": 120925,
+      "playedAt": "2026-10-05T05:09:22.578Z"
     },
     {
-      "name": "Bright Lights Bigger City",
+      "name": "Dream Dealer",
       "artists": [
-        "CeeLo Green"
+        "Jazzinuf",
+        "Etymology Records"
       ],
-      "album": "The Lady Killer",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273745ed32da5e64120925ce7b0",
-      "url": "https://open.spotify.com/track/3lOMPxZipoRwnO0IUvk6WX",
-      "durationMs": 218280,
-      "playedAt": "2026-10-04T22:42:41.116Z"
+      "album": "Miracle of the Fishes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e059048a59e8f6575e9e4017",
+      "url": "https://open.spotify.com/track/0Tbo24tjW9kdo5eGFoHZGI",
+      "durationMs": 136089,
+      "playedAt": "2026-10-05T05:07:24.664Z"
     }
   ],
   "topArtists": [
@@ -133,6 +139,12 @@
       "genres": []
     },
     {
+      "name": "Jazzinuf",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
+      "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
+      "genres": []
+    },
+    {
       "name": "Awon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
       "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
@@ -148,12 +160,6 @@
       "name": "Taylor Swift",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
       "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
-      "genres": []
-    },
-    {
-      "name": "Buena Vista Social Club",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe35db4d5803c5a4c77dd44db",
-      "url": "https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW",
       "genres": []
     },
     {
@@ -195,36 +201,6 @@
       "durationMs": 224306
     },
     {
-      "name": "Misdemeanor",
-      "artists": [
-        "Foster Sylvers"
-      ],
-      "album": "Foster Sylvers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a33024af69e0bcf087d3e20a",
-      "url": "https://open.spotify.com/track/0ApFfTbtX1775WkrzZSx4y",
-      "durationMs": 153346
-    },
-    {
-      "name": "Sound Ridiculous",
-      "artists": [
-        "Alice Taylor"
-      ],
-      "album": "Rare Soul, Vol. 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ec57554c7467eeee79f4da19",
-      "url": "https://open.spotify.com/track/2Kut1CT41hvZ2dNzh9KTuF",
-      "durationMs": 221152
-    },
-    {
-      "name": "I Love The Way You Love",
-      "artists": [
-        "Little Beaver"
-      ],
-      "album": "Soul Jazz Records presents MIAMI SOUND: Rare Funk & Soul From Miami, Florida 1967-74",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734de7ecc25bfd41feb177ee17",
-      "url": "https://open.spotify.com/track/4zKL4hktQua6tIbLmPf1ND",
-      "durationMs": 192146
-    },
-    {
       "name": "Sakta vi gå genom stan",
       "artists": [
         "Monica Zetterlund"
@@ -235,14 +211,44 @@
       "durationMs": 202360
     },
     {
-      "name": "Casanova 70",
+      "name": "Visa från Utanmyra",
       "artists": [
-        "Ruby Andrews"
+        "Jan Johansson"
       ],
-      "album": "Soul Diggin' : Soul Music Gems From Vinyl Diggers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27387fa50927042a0972070a4dc",
-      "url": "https://open.spotify.com/track/65rArfntJfe7yA9cf9k5VS",
-      "durationMs": 313334
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800
+    },
+    {
+      "name": "Misdemeanor",
+      "artists": [
+        "Foster Sylvers"
+      ],
+      "album": "Foster Sylvers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a33024af69e0bcf087d3e20a",
+      "url": "https://open.spotify.com/track/0ApFfTbtX1775WkrzZSx4y",
+      "durationMs": 153346
+    },
+    {
+      "name": "Away with You",
+      "artists": [
+        "Carolynn Porter"
+      ],
+      "album": "Emandolynn Music Presents: Rare Soul, Vol. 3",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b30053eb44977ee732bb8ad1",
+      "url": "https://open.spotify.com/track/1ngKc2KXcqHjuxpS7sbcRa",
+      "durationMs": 173897
+    },
+    {
+      "name": "Sound Ridiculous",
+      "artists": [
+        "Alice Taylor"
+      ],
+      "album": "Rare Soul, Vol. 1",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ec57554c7467eeee79f4da19",
+      "url": "https://open.spotify.com/track/2Kut1CT41hvZ2dNzh9KTuF",
+      "durationMs": 221152
     }
   ],
   "featuredPlaylists": []
