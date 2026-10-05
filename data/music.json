@@ -1,7 +1,20 @@
 {
-  "updatedAt": "2026-10-05T09:25:02.215Z",
+  "updatedAt": "2026-10-05T18:42:29.063Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Miracle of the Fishes",
+      "artists": [
+        "Jazzinuf",
+        "Etymology Records",
+        "Adam O'Farrill"
+      ],
+      "album": "Miracle of the Fishes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e059048a59e8f6575e9e4017",
+      "url": "https://open.spotify.com/track/3PmklyTsokpWA2NihZu4ak",
+      "durationMs": 111630,
+      "playedAt": "2026-10-05T14:57:11.038Z"
+    },
     {
       "name": "Coffee and Cigarettes",
       "artists": [
@@ -105,18 +118,6 @@
       "url": "https://open.spotify.com/track/3TfZuLNo9MgTgLuCAloKOF",
       "durationMs": 120925,
       "playedAt": "2026-10-05T05:09:22.578Z"
-    },
-    {
-      "name": "Dream Dealer",
-      "artists": [
-        "Jazzinuf",
-        "Etymology Records"
-      ],
-      "album": "Miracle of the Fishes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e059048a59e8f6575e9e4017",
-      "url": "https://open.spotify.com/track/0Tbo24tjW9kdo5eGFoHZGI",
-      "durationMs": 136089,
-      "playedAt": "2026-10-05T05:07:24.664Z"
     }
   ],
   "topArtists": [
@@ -124,13 +125,18 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": []
+      "genres": [
+        "vocal jazz",
+        "jazz"
+      ]
     },
     {
       "name": "Frank Ocean",
@@ -142,19 +148,27 @@
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
+      "genres": [
+        "lo-fi",
+        "lo-fi beats",
+        "jazz beats"
+      ]
     },
     {
       "name": "Awon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
       "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": []
+      "genres": [
+        "jazz rap"
+      ]
     },
     {
       "name": "Bill Withers",
       "imageUrl": "https://i.scdn.co/image/96b85aec6907206572527e1eeec6569d5e977a38",
       "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj",
-      "genres": []
+      "genres": [
+        "soul"
+      ]
     },
     {
       "name": "Taylor Swift",
@@ -211,16 +225,6 @@
       "durationMs": 202360
     },
     {
-      "name": "Visa från Utanmyra",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
-      "durationMs": 273800
-    },
-    {
       "name": "Misdemeanor",
       "artists": [
         "Foster Sylvers"
@@ -249,6 +253,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ec57554c7467eeee79f4da19",
       "url": "https://open.spotify.com/track/2Kut1CT41hvZ2dNzh9KTuF",
       "durationMs": 221152
+    },
+    {
+      "name": "Tammie",
+      "artists": [
+        "Richard Coombs"
+      ],
+      "album": "Dave Hamilton's Detroit Dancers, Vol. 2",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343283cff03d451b36cfb3725",
+      "url": "https://open.spotify.com/track/2aEdVr9B5YU4elMxzaNbFr",
+      "durationMs": 159186
     }
   ],
   "featuredPlaylists": []
