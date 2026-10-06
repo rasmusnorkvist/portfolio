@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-10-06T14:20:56.630Z",
+  "updatedAt": "2026-10-06T19:40:00.117Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Billie Jean",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "album": "Thriller",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
+      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj",
+      "durationMs": 293802,
+      "playedAt": "2026-10-06T19:31:59.854Z"
+    },
+    {
+      "name": "Stateside + Zara Larsson",
+      "artists": [
+        "PinkPantheress",
+        "Zara Larsson"
+      ],
+      "album": "Fancy Some More?",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt",
+      "durationMs": 184761,
+      "playedAt": "2026-10-06T19:27:09.057Z"
+    },
+    {
+      "name": "Take on Me",
+      "artists": [
+        "a-ha"
+      ],
+      "album": "Hunting High and Low",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53",
+      "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L",
+      "durationMs": 225280,
+      "playedAt": "2026-10-06T19:24:07.356Z"
+    },
+    {
+      "name": "She's A Bad Mama Jama (She's Built, She's Stacked)",
+      "artists": [
+        "Carl Carlton"
+      ],
+      "album": "Carl Carlton (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d33cf0f26efdf538bfd6864e",
+      "url": "https://open.spotify.com/track/2DLtx53kRHYfouNzLKAqkG",
+      "durationMs": 349680,
+      "playedAt": "2026-10-06T15:01:36.586Z"
+    },
     {
       "name": "She's A Bad Mama Jama (She's Built, She's Stacked)",
       "artists": [
@@ -70,103 +115,9 @@
       "url": "https://open.spotify.com/track/2IFaUS63AIAr9P46W1lEwt",
       "durationMs": 327399,
       "playedAt": "2026-10-06T04:46:02.565Z"
-    },
-    {
-      "name": "You Can Call Me Al",
-      "artists": [
-        "Paul Simon"
-      ],
-      "album": "Graceland (25th Anniversary Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
-      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP",
-      "durationMs": 280586,
-      "playedAt": "2026-10-06T04:40:38.228Z"
-    },
-    {
-      "name": "Morirò da Re",
-      "artists": [
-        "Måneskin"
-      ],
-      "album": "Il ballo della vita",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dbc892b8194e35ca3524e767",
-      "url": "https://open.spotify.com/track/1aX0Ki80LFzzhqxqRlqbAV",
-      "durationMs": 157880,
-      "playedAt": "2026-10-06T04:36:00.617Z"
-    },
-    {
-      "name": "American Boy",
-      "artists": [
-        "Estelle",
-        "Kanye West"
-      ],
-      "album": "Shine",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27398dc3e242a818007dd67b7c5",
-      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh",
-      "durationMs": 284733,
-      "playedAt": "2026-10-06T04:33:25.733Z"
-    },
-    {
-      "name": "I Just Might",
-      "artists": [
-        "Bruno Mars"
-      ],
-      "album": "The Romantic",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395",
-      "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN",
-      "durationMs": 212973,
-      "playedAt": "2026-10-06T04:28:44.013Z"
     }
   ],
-  "topArtists": [
-    {
-      "name": "Jan Johansson",
-      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
-      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
-    },
-    {
-      "name": "Monica Zetterlund",
-      "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
-      "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": []
-    },
-    {
-      "name": "Frank Ocean",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
-      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
-      "genres": []
-    },
-    {
-      "name": "Jazzinuf",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
-      "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
-    },
-    {
-      "name": "Awon",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
-      "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": []
-    },
-    {
-      "name": "Bill Withers",
-      "imageUrl": "https://i.scdn.co/image/96b85aec6907206572527e1eeec6569d5e977a38",
-      "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj",
-      "genres": []
-    },
-    {
-      "name": "Taylor Swift",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
-      "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
-      "genres": []
-    },
-    {
-      "name": "Rapallo",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
-      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
-      "genres": []
-    }
-  ],
+  "topArtists": [],
   "topTracks": [
     {
       "name": "Here I Go Again",
