@@ -1,132 +1,120 @@
 {
-  "updatedAt": "2026-10-06T00:33:48.951Z",
-  "nowPlaying": {
-    "name": "A Love Bizarre",
-    "artists": [
-      "Sheila E."
-    ],
-    "album": "Romance 1600",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fbee75c588180875b8f350f4",
-    "url": "https://open.spotify.com/track/5R6ol4f8WCUCWNrB7Ymf99",
-    "durationMs": 738053,
-    "isPlaying": true,
-    "progressMs": 453389
-  },
+  "updatedAt": "2026-10-06T07:08:42.412Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "In My House - Single Version",
+      "name": "She's A Bad Mama Jama (She's Built, She's Stacked)",
       "artists": [
-        "Mary Jane Girls"
+        "Carl Carlton"
       ],
-      "album": "Hitsville USA, The Motown Collection 1972-1992",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27329323dd47b2b6b50e793ece5",
-      "url": "https://open.spotify.com/track/62EAqniDMuMIk92eoBZJ5p",
-      "durationMs": 236733,
-      "playedAt": "2026-10-06T00:26:19.438Z"
+      "album": "Carl Carlton (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d33cf0f26efdf538bfd6864e",
+      "url": "https://open.spotify.com/track/2DLtx53kRHYfouNzLKAqkG",
+      "durationMs": 349680,
+      "playedAt": "2026-10-06T05:25:08.482Z"
     },
     {
-      "name": "Miracle of the Fishes",
+      "name": "Ecstasy",
       "artists": [
-        "Jazzinuf",
-        "Etymology Records",
-        "Adam O'Farrill"
+        "Fabich",
+        "Pastel",
+        "Jafunk",
+        "Bambie"
       ],
-      "album": "Miracle of the Fishes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e059048a59e8f6575e9e4017",
-      "url": "https://open.spotify.com/track/3PmklyTsokpWA2NihZu4ak",
-      "durationMs": 111630,
-      "playedAt": "2026-10-05T14:57:11.038Z"
+      "album": "Vibe Creator",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c16d0aba2ef2bc920acb90b2",
+      "url": "https://open.spotify.com/track/0upwOxgYeHBQs1vRWLGJki",
+      "durationMs": 147250,
+      "playedAt": "2026-10-06T05:00:24.159Z"
     },
     {
-      "name": "Coffee and Cigarettes",
+      "name": "Better Than Ever",
       "artists": [
-        "Jazzinuf"
+        "Video Age"
       ],
-      "album": "Coffee and Cigarettes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f64e23ad232b825630fdc2e",
-      "url": "https://open.spotify.com/track/6Lx02kkeK3GOfvUora5LBE",
-      "durationMs": 193384,
-      "playedAt": "2026-10-05T05:29:34.348Z"
+      "album": "Away From The Castle",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731ad860620284a842e9f92df0",
+      "url": "https://open.spotify.com/track/5fUKZY3f9BGGRbW22toY19",
+      "durationMs": 236188,
+      "playedAt": "2026-10-06T04:57:59.877Z"
     },
     {
-      "name": "Moon and Tonic",
+      "name": "Sunny",
       "artists": [
-        "Jazzinuf"
+        "Boney M."
       ],
-      "album": "Audio Bartending",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731f6a72c455a12e6bc885654a",
-      "url": "https://open.spotify.com/track/3yflyr0bWIMCievxoprfiV",
-      "durationMs": 121887,
-      "playedAt": "2026-10-05T05:26:23.933Z"
+      "album": "Take The Heat Off Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dafd1cd6e9537ec8463ea691",
+      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt",
+      "durationMs": 242240,
+      "playedAt": "2026-10-06T04:54:06.717Z"
     },
     {
-      "name": "Tryon Park",
+      "name": "Hidden Spaces",
       "artists": [
-        "Oatmello",
-        "Jazzinuf",
-        "Hippo Dreams"
+        "EchoWave"
       ],
-      "album": "NYC Stories",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8eb10155bfa07867505c2c4",
-      "url": "https://open.spotify.com/track/2UdnXz7IkglUjWDVKuLKgo",
-      "durationMs": 93975,
-      "playedAt": "2026-10-05T05:24:25.058Z"
+      "album": "Hidden Spaces",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d571b1cc62c89dbe51d003da",
+      "url": "https://open.spotify.com/track/1YoyAYulmXOC3qsXjTof3n",
+      "durationMs": 248000,
+      "playedAt": "2026-10-06T04:50:07.507Z"
     },
     {
-      "name": "Snow in My Shoe",
+      "name": "IknowhowIfeel",
       "artists": [
-        "Jazzinuf"
+        "Parcels"
       ],
-      "album": "Snow in My Shoe",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bbcb9df7b40d1abaa4f3424f",
-      "url": "https://open.spotify.com/track/2WW3yzfcOk082LANurmdzT",
-      "durationMs": 198857,
-      "playedAt": "2026-10-05T05:22:54.133Z"
+      "album": "Parcels",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d26bc8655d6132c9e243f82e",
+      "url": "https://open.spotify.com/track/2IFaUS63AIAr9P46W1lEwt",
+      "durationMs": 327399,
+      "playedAt": "2026-10-06T04:46:02.565Z"
     },
     {
-      "name": "Je t'aime",
+      "name": "You Can Call Me Al",
       "artists": [
-        "Jazzinuf"
+        "Paul Simon"
       ],
-      "album": "Dazzle",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273269dc240e2b69fcabd82d3b7",
-      "url": "https://open.spotify.com/track/6dxl91vlQDi9EvmuX39jm4",
-      "durationMs": 143376,
-      "playedAt": "2026-10-05T05:19:38.335Z"
+      "album": "Graceland (25th Anniversary Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5855edffddef46b7feff49b",
+      "url": "https://open.spotify.com/track/0qxYx4F3vm1AOnfux6dDxP",
+      "durationMs": 280586,
+      "playedAt": "2026-10-06T04:40:38.228Z"
     },
     {
-      "name": "Be Mine",
+      "name": "Morirò da Re",
       "artists": [
-        "Jazzinuf"
+        "Måneskin"
       ],
-      "album": "The Harlem Barber Swing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0e772a6c737692a90fcdb0",
-      "url": "https://open.spotify.com/track/4x4KcHMriD0CuU4XG1si6O",
-      "durationMs": 207250,
-      "playedAt": "2026-10-05T05:17:17.949Z"
+      "album": "Il ballo della vita",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dbc892b8194e35ca3524e767",
+      "url": "https://open.spotify.com/track/1aX0Ki80LFzzhqxqRlqbAV",
+      "durationMs": 157880,
+      "playedAt": "2026-10-06T04:36:00.617Z"
     },
     {
-      "name": "Bitter Sweet",
+      "name": "American Boy",
       "artists": [
-        "Jazzinuf",
-        "Santosh Sharma"
+        "Estelle",
+        "Kanye West"
       ],
-      "album": "Harlem Barber Swing 2",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b318f7a1b8da963173139bd9",
-      "url": "https://open.spotify.com/track/0SQAjpKE8p37Tgi71rafbZ",
-      "durationMs": 95727,
-      "playedAt": "2026-10-05T05:13:53.667Z"
+      "album": "Shine",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27398dc3e242a818007dd67b7c5",
+      "url": "https://open.spotify.com/track/6etwirSInfuJrSOlogS6Sh",
+      "durationMs": 284733,
+      "playedAt": "2026-10-06T04:33:25.733Z"
     },
     {
-      "name": "Alone Together",
+      "name": "I Just Might",
       "artists": [
-        "Jazzinuf"
+        "Bruno Mars"
       ],
-      "album": "Alone Together",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eeb94ff25c3fa4bb8ca6cf07",
-      "url": "https://open.spotify.com/track/5AbYvUgk86Nt3EywuX6N2n",
-      "durationMs": 181395,
-      "playedAt": "2026-10-05T05:12:21.043Z"
+      "album": "The Romantic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733eb8dc748f7efb1470f74395",
+      "url": "https://open.spotify.com/track/6f68Ac5tt5BQOpwr0BV9oN",
+      "durationMs": 212973,
+      "playedAt": "2026-10-06T04:28:44.013Z"
     }
   ],
   "topArtists": [
@@ -134,18 +122,13 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": [
-        "vocal jazz",
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Frank Ocean",
@@ -157,27 +140,19 @@
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": [
-        "lo-fi",
-        "lo-fi beats",
-        "jazz beats"
-      ]
+      "genres": []
     },
     {
       "name": "Awon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
       "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": [
-        "jazz rap"
-      ]
+      "genres": []
     },
     {
       "name": "Bill Withers",
       "imageUrl": "https://i.scdn.co/image/96b85aec6907206572527e1eeec6569d5e977a38",
       "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj",
-      "genres": [
-        "soul"
-      ]
+      "genres": []
     },
     {
       "name": "Taylor Swift",
