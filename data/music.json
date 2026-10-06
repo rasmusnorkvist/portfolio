@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-06T19:40:00.117Z",
+  "updatedAt": "2026-10-06T23:31:52.938Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "artists": [
+        "Whitney Houston"
+      ],
+      "album": "Whitney",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a520a167a62d5548cdb53101",
+      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
+      "durationMs": 292875,
+      "playedAt": "2026-10-06T19:40:30.843Z"
+    },
     {
       "name": "Billie Jean",
       "artists": [
@@ -104,20 +115,58 @@
       "url": "https://open.spotify.com/track/1YoyAYulmXOC3qsXjTof3n",
       "durationMs": 248000,
       "playedAt": "2026-10-06T04:50:07.507Z"
-    },
-    {
-      "name": "IknowhowIfeel",
-      "artists": [
-        "Parcels"
-      ],
-      "album": "Parcels",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d26bc8655d6132c9e243f82e",
-      "url": "https://open.spotify.com/track/2IFaUS63AIAr9P46W1lEwt",
-      "durationMs": 327399,
-      "playedAt": "2026-10-06T04:46:02.565Z"
     }
   ],
-  "topArtists": [],
+  "topArtists": [
+    {
+      "name": "Jan Johansson",
+      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
+      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
+      "genres": []
+    },
+    {
+      "name": "Monica Zetterlund",
+      "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
+      "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
+      "genres": []
+    },
+    {
+      "name": "Frank Ocean",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
+      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
+      "genres": []
+    },
+    {
+      "name": "Jazzinuf",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
+      "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
+      "genres": []
+    },
+    {
+      "name": "Awon",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
+      "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
+      "genres": []
+    },
+    {
+      "name": "Bill Withers",
+      "imageUrl": "https://i.scdn.co/image/96b85aec6907206572527e1eeec6569d5e977a38",
+      "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj",
+      "genres": []
+    },
+    {
+      "name": "Taylor Swift",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
+      "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
+      "genres": []
+    },
+    {
+      "name": "Rapallo",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
+      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
+      "genres": []
+    }
+  ],
   "topTracks": [
     {
       "name": "Here I Go Again",
