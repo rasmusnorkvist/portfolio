@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-10-05T18:42:29.063Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-06T00:33:48.951Z",
+  "nowPlaying": {
+    "name": "A Love Bizarre",
+    "artists": [
+      "Sheila E."
+    ],
+    "album": "Romance 1600",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fbee75c588180875b8f350f4",
+    "url": "https://open.spotify.com/track/5R6ol4f8WCUCWNrB7Ymf99",
+    "durationMs": 738053,
+    "isPlaying": true,
+    "progressMs": 453389
+  },
   "recentlyPlayed": [
+    {
+      "name": "In My House - Single Version",
+      "artists": [
+        "Mary Jane Girls"
+      ],
+      "album": "Hitsville USA, The Motown Collection 1972-1992",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27329323dd47b2b6b50e793ece5",
+      "url": "https://open.spotify.com/track/62EAqniDMuMIk92eoBZJ5p",
+      "durationMs": 236733,
+      "playedAt": "2026-10-06T00:26:19.438Z"
+    },
     {
       "name": "Miracle of the Fishes",
       "artists": [
@@ -105,19 +127,6 @@
       "url": "https://open.spotify.com/track/5AbYvUgk86Nt3EywuX6N2n",
       "durationMs": 181395,
       "playedAt": "2026-10-05T05:12:21.043Z"
-    },
-    {
-      "name": "Vista Del Bosque",
-      "artists": [
-        "Strehlow",
-        "Jazzinuf",
-        "Noé Mina"
-      ],
-      "album": "Vista Del Bosque",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f50d88f2ae1918186688c8f",
-      "url": "https://open.spotify.com/track/3TfZuLNo9MgTgLuCAloKOF",
-      "durationMs": 120925,
-      "playedAt": "2026-10-05T05:09:22.578Z"
     }
   ],
   "topArtists": [
