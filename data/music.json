@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-10-07T11:13:40.930Z",
+  "updatedAt": "2026-10-07T17:53:13.724Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Hey Ya!",
+      "artists": [
+        "Outkast"
+      ],
+      "album": "Speakerboxxx/The Love Below",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736e88eb6508fd94cd1b745ce2",
+      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM",
+      "durationMs": 235213,
+      "playedAt": "2026-10-07T15:03:14.913Z"
+    },
+    {
+      "name": "My Type",
+      "artists": [
+        "Saint Motel"
+      ],
+      "album": "My Type",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734c8d86fcf617d28a7c55818b",
+      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI",
+      "durationMs": 206393,
+      "playedAt": "2026-10-07T14:31:05.252Z"
+    },
+    {
+      "name": "You Make My Dreams (Come True)",
+      "artists": [
+        "Daryl Hall & John Oates"
+      ],
+      "album": "Voices",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fe1a9aa59e3c6189a09ae37a",
+      "url": "https://open.spotify.com/track/4o6BgsqLIBViaGVbx5rbRk",
+      "durationMs": 190626,
+      "playedAt": "2026-10-07T14:27:41.858Z"
+    },
+    {
+      "name": "Dance with Somebody - Radio Version",
+      "artists": [
+        "Mando Diao"
+      ],
+      "album": "Dance with Somebody",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c399529600f436bcdaeb842",
+      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48",
+      "durationMs": 241000,
+      "playedAt": "2026-10-07T14:24:34.095Z"
+    },
+    {
+      "name": "Sir Duke",
+      "artists": [
+        "Stevie Wonder"
+      ],
+      "album": "Songs In The Key Of Life",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732fee61bfec596bb6f5447c50",
+      "url": "https://open.spotify.com/track/4pNiE4LCVV74vfIBaUHm1b",
+      "durationMs": 232760,
+      "playedAt": "2026-10-07T14:20:36.094Z"
+    },
     {
       "name": "Cry for You",
       "artists": [
@@ -56,61 +111,6 @@
       "url": "https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv",
       "durationMs": 284840,
       "playedAt": "2026-10-07T00:50:12.146Z"
-    },
-    {
-      "name": "LDN",
-      "artists": [
-        "Lily Allen"
-      ],
-      "album": "Alright, Still (Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f44ea7ef8d5c793399bae7af",
-      "url": "https://open.spotify.com/track/5wD6de7Fz1QfxVNkv1SEy7",
-      "durationMs": 190773,
-      "playedAt": "2026-10-07T00:45:30.251Z"
-    },
-    {
-      "name": "Be My Lover",
-      "artists": [
-        "La Bouche"
-      ],
-      "album": "Sweet Dreams",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d4c3788166b9c4de0921f6b0",
-      "url": "https://open.spotify.com/track/3YB6nCSuFqNiqOvPtAPK9X",
-      "durationMs": 241133,
-      "playedAt": "2026-10-07T00:42:22.486Z"
-    },
-    {
-      "name": "Touching",
-      "artists": [
-        "Kakkmaddafakka"
-      ],
-      "album": "Hest",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330cc0db57c1550e87e22a1ca",
-      "url": "https://open.spotify.com/track/3PXJzAq2MZIa7fy1Hptx6B",
-      "durationMs": 185213,
-      "playedAt": "2026-10-07T00:38:24.349Z"
-    },
-    {
-      "name": "Sisters",
-      "artists": [
-        "Saint Motel"
-      ],
-      "album": "The Original Motion Picture Soundtrack",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e068c4740ed3c5dd4fd1bcc",
-      "url": "https://open.spotify.com/track/64QZsTSNEUiqs8KeOPIrpg",
-      "durationMs": 196226,
-      "playedAt": "2026-10-07T00:35:21.260Z"
-    },
-    {
-      "name": "Cosmic Girl - Remastered 2013",
-      "artists": [
-        "Jamiroquai"
-      ],
-      "album": "Travelling Without Moving (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736407aa9a5e5215cf554ad5d1",
-      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK",
-      "durationMs": 244146,
-      "playedAt": "2026-10-07T00:32:08.062Z"
     }
   ],
   "topArtists": [
