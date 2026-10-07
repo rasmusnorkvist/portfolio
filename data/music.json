@@ -1,120 +1,116 @@
 {
-  "updatedAt": "2026-10-06T23:31:52.938Z",
+  "updatedAt": "2026-10-07T04:05:30.484Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "I Wanna Dance with Somebody (Who Loves Me)",
+      "name": "Cry for You",
       "artists": [
-        "Whitney Houston"
+        "September"
       ],
-      "album": "Whitney",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a520a167a62d5548cdb53101",
-      "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj",
-      "durationMs": 292875,
-      "playedAt": "2026-10-06T19:40:30.843Z"
+      "album": "Dancing Shoes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e1a050d8545416935386e73a",
+      "url": "https://open.spotify.com/track/1mvZErZBp7WZT3HfGBykao",
+      "durationMs": 209800,
+      "playedAt": "2026-10-07T01:06:53.883Z"
     },
     {
-      "name": "Billie Jean",
+      "name": "Do It Again",
       "artists": [
-        "Michael Jackson"
+        "Steely Dan"
       ],
-      "album": "Thriller",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27332a7d87248d1b75463483df5",
-      "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj",
-      "durationMs": 293802,
-      "playedAt": "2026-10-06T19:31:59.854Z"
+      "album": "Can't Buy A Thrill",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
+      "url": "https://open.spotify.com/track/2LXISHBkx8FyoxCBkckh19",
+      "durationMs": 357041,
+      "playedAt": "2026-10-07T01:03:25.450Z"
     },
     {
-      "name": "Stateside + Zara Larsson",
+      "name": "Suddenly I See",
       "artists": [
-        "PinkPantheress",
-        "Zara Larsson"
+        "KT Tunstall"
       ],
-      "album": "Fancy Some More?",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694",
-      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt",
-      "durationMs": 184761,
-      "playedAt": "2026-10-06T19:27:09.057Z"
+      "album": "Eye To The Telescope",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da",
+      "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3",
+      "durationMs": 201706,
+      "playedAt": "2026-10-07T00:57:30.629Z"
     },
     {
-      "name": "Take on Me",
+      "name": "Know That I Know",
       "artists": [
-        "a-ha"
+        "Lake Street Dive"
       ],
-      "album": "Hunting High and Low",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e8dd4db47e7177c63b0b7d53",
-      "url": "https://open.spotify.com/track/2WfaOiMkCvy7F5fcp2zZ8L",
-      "durationMs": 225280,
-      "playedAt": "2026-10-06T19:24:07.356Z"
+      "album": "Obviously",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730c044e52637b2a8362e20659",
+      "url": "https://open.spotify.com/track/4XHYJpbZL8ytyoZ5olW4nP",
+      "durationMs": 242809,
+      "playedAt": "2026-10-07T00:54:11.892Z"
     },
     {
-      "name": "She's A Bad Mama Jama (She's Built, She's Stacked)",
+      "name": "Don't You Worry 'Bout A Thing",
       "artists": [
-        "Carl Carlton"
+        "Stevie Wonder"
       ],
-      "album": "Carl Carlton (Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d33cf0f26efdf538bfd6864e",
-      "url": "https://open.spotify.com/track/2DLtx53kRHYfouNzLKAqkG",
-      "durationMs": 349680,
-      "playedAt": "2026-10-06T15:01:36.586Z"
+      "album": "Innervisions",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266",
+      "url": "https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv",
+      "durationMs": 284840,
+      "playedAt": "2026-10-07T00:50:12.146Z"
     },
     {
-      "name": "She's A Bad Mama Jama (She's Built, She's Stacked)",
+      "name": "LDN",
       "artists": [
-        "Carl Carlton"
+        "Lily Allen"
       ],
-      "album": "Carl Carlton (Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d33cf0f26efdf538bfd6864e",
-      "url": "https://open.spotify.com/track/2DLtx53kRHYfouNzLKAqkG",
-      "durationMs": 349680,
-      "playedAt": "2026-10-06T05:25:08.482Z"
+      "album": "Alright, Still (Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f44ea7ef8d5c793399bae7af",
+      "url": "https://open.spotify.com/track/5wD6de7Fz1QfxVNkv1SEy7",
+      "durationMs": 190773,
+      "playedAt": "2026-10-07T00:45:30.251Z"
     },
     {
-      "name": "Ecstasy",
+      "name": "Be My Lover",
       "artists": [
-        "Fabich",
-        "Pastel",
-        "Jafunk",
-        "Bambie"
+        "La Bouche"
       ],
-      "album": "Vibe Creator",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c16d0aba2ef2bc920acb90b2",
-      "url": "https://open.spotify.com/track/0upwOxgYeHBQs1vRWLGJki",
-      "durationMs": 147250,
-      "playedAt": "2026-10-06T05:00:24.159Z"
+      "album": "Sweet Dreams",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d4c3788166b9c4de0921f6b0",
+      "url": "https://open.spotify.com/track/3YB6nCSuFqNiqOvPtAPK9X",
+      "durationMs": 241133,
+      "playedAt": "2026-10-07T00:42:22.486Z"
     },
     {
-      "name": "Better Than Ever",
+      "name": "Touching",
       "artists": [
-        "Video Age"
+        "Kakkmaddafakka"
       ],
-      "album": "Away From The Castle",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731ad860620284a842e9f92df0",
-      "url": "https://open.spotify.com/track/5fUKZY3f9BGGRbW22toY19",
-      "durationMs": 236188,
-      "playedAt": "2026-10-06T04:57:59.877Z"
+      "album": "Hest",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330cc0db57c1550e87e22a1ca",
+      "url": "https://open.spotify.com/track/3PXJzAq2MZIa7fy1Hptx6B",
+      "durationMs": 185213,
+      "playedAt": "2026-10-07T00:38:24.349Z"
     },
     {
-      "name": "Sunny",
+      "name": "Sisters",
       "artists": [
-        "Boney M."
+        "Saint Motel"
       ],
-      "album": "Take The Heat Off Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dafd1cd6e9537ec8463ea691",
-      "url": "https://open.spotify.com/track/3pf96IFggfQuT6Gafqx2rt",
-      "durationMs": 242240,
-      "playedAt": "2026-10-06T04:54:06.717Z"
+      "album": "The Original Motion Picture Soundtrack",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e068c4740ed3c5dd4fd1bcc",
+      "url": "https://open.spotify.com/track/64QZsTSNEUiqs8KeOPIrpg",
+      "durationMs": 196226,
+      "playedAt": "2026-10-07T00:35:21.260Z"
     },
     {
-      "name": "Hidden Spaces",
+      "name": "Cosmic Girl - Remastered 2013",
       "artists": [
-        "EchoWave"
+        "Jamiroquai"
       ],
-      "album": "Hidden Spaces",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d571b1cc62c89dbe51d003da",
-      "url": "https://open.spotify.com/track/1YoyAYulmXOC3qsXjTof3n",
-      "durationMs": 248000,
-      "playedAt": "2026-10-06T04:50:07.507Z"
+      "album": "Travelling Without Moving (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736407aa9a5e5215cf554ad5d1",
+      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK",
+      "durationMs": 244146,
+      "playedAt": "2026-10-07T00:32:08.062Z"
     }
   ],
   "topArtists": [
