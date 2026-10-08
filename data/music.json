@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-10-08T16:45:00.085Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-08T21:47:18.426Z",
+  "nowPlaying": {
+    "name": "Midnight Sun",
+    "artists": [
+      "Zara Larsson"
+    ],
+    "album": "Midnight Sun",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737657f9028ea8bb2c18dca99f",
+    "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ",
+    "durationMs": 189898,
+    "isPlaying": true,
+    "progressMs": 101901
+  },
   "recentlyPlayed": [
     {
       "name": "Mental Acupuncture",
