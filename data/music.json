@@ -1,116 +1,125 @@
 {
-  "updatedAt": "2026-10-08T02:26:42.750Z",
+  "updatedAt": "2026-10-08T09:19:46.866Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "He Needs Me (2013 - Remaster)",
+      "name": "Mental Acupuncture",
       "artists": [
-        "Nina Simone"
+        "Jazzinuf"
       ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN",
-      "durationMs": 149330,
-      "playedAt": "2026-10-08T01:09:46.709Z"
+      "album": "Harlem Barber Swing 2",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b318f7a1b8da963173139bd9",
+      "url": "https://open.spotify.com/track/2Cpw9KXDlq4jKGMhL3hmkL",
+      "durationMs": 152000,
+      "playedAt": "2026-10-08T06:23:56.111Z"
     },
     {
-      "name": "Don't Smoke in Bed (2013 - Remaster)",
+      "name": "Dream Dealer",
       "artists": [
-        "Nina Simone"
+        "Jazzinuf",
+        "Etymology Records"
       ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/32wq8cLbp3qaOlkNcDneIT",
-      "durationMs": 190370,
-      "playedAt": "2026-10-08T01:07:17.234Z"
+      "album": "Miracle of the Fishes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e059048a59e8f6575e9e4017",
+      "url": "https://open.spotify.com/track/0Tbo24tjW9kdo5eGFoHZGI",
+      "durationMs": 136089,
+      "playedAt": "2026-10-08T05:09:26.565Z"
     },
     {
-      "name": "Mood Indigo (2013 - Remaster)",
+      "name": "Polaroids (Vintage)",
       "artists": [
-        "Nina Simone"
+        "Jazzinuf"
       ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/3rlEbh8f1o88gsBFkwV6bh",
-      "durationMs": 240610,
-      "playedAt": "2026-10-08T01:04:06.816Z"
+      "album": "Sun Dance",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739cc7887164d92d14358e3c9c",
+      "url": "https://open.spotify.com/track/1Ma8QRXxHEhnr1PgBBIxkF",
+      "durationMs": 138571,
+      "playedAt": "2026-10-08T05:07:13.548Z"
     },
     {
-      "name": "I Loves You Porgy (2013 - Remaster)",
+      "name": "Dazzle",
       "artists": [
-        "Nina Simone"
+        "Jazzinuf",
+        "Engelwood"
       ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/4FAlUftWQumDz5tatkN9VH",
-      "durationMs": 249781,
-      "playedAt": "2026-10-08T01:00:09.337Z"
+      "album": "Dazzle",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273269dc240e2b69fcabd82d3b7",
+      "url": "https://open.spotify.com/track/5Se5put2P3JdoMoRHIX2uq",
+      "durationMs": 103165,
+      "playedAt": "2026-10-08T05:04:57.929Z"
     },
     {
-      "name": "You'll Never Walk Alone (2013 - Remaster)",
+      "name": "good daze",
       "artists": [
-        "Nina Simone"
+        "Jazzinuf",
+        "Shanin Blake",
+        "Etymology Records"
       ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/11QyYNMhpKfrcaQZIEZagz",
-      "durationMs": 225401,
-      "playedAt": "2026-10-08T00:55:59.530Z"
+      "album": "good daze",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273db58ac652c623d751e0bb065",
+      "url": "https://open.spotify.com/track/2sAPkJ75cAkG1ZPREsdnob",
+      "durationMs": 153780,
+      "playedAt": "2026-10-08T05:03:17.838Z"
     },
     {
-      "name": "Plain Gold Ring (2013 - Remaster)",
+      "name": "Knee Socks",
       "artists": [
-        "Nina Simone"
+        "Jazzinuf"
       ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/476RII5Mde9Ih5xqYLSqtS",
-      "durationMs": 228104,
-      "playedAt": "2026-10-08T00:52:13.998Z"
+      "album": "The Harlem Barber Swing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0e772a6c737692a90fcdb0",
+      "url": "https://open.spotify.com/track/4wjDU35F2QTiAE5h96LOHG",
+      "durationMs": 196363,
+      "playedAt": "2026-10-08T05:00:47.068Z"
     },
     {
-      "name": "Good Bait (2013 - Remaster)",
+      "name": "When You're In Love",
       "artists": [
-        "Nina Simone"
+        "Intel Music",
+        "Jazzinuf"
       ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/1U5x2J1o03WIsYpviaqMUy",
-      "durationMs": 327193,
-      "playedAt": "2026-10-08T00:48:25.825Z"
+      "album": "Lithography Vol. 1",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730026699eb4e4776eaa0e2fc0",
+      "url": "https://open.spotify.com/track/4FIKrQcAqi5I6PGWb5BNPB",
+      "durationMs": 441818,
+      "playedAt": "2026-10-08T04:57:33.660Z"
     },
     {
-      "name": "My Baby Just Cares for Me (2013 - Remaster)",
+      "name": "Caffè Mocha",
       "artists": [
-        "Nina Simone"
+        "Jazzinuf"
       ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534",
-      "durationMs": 215746,
-      "playedAt": "2026-10-08T00:42:58.647Z"
+      "album": "Dazzle",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273269dc240e2b69fcabd82d3b7",
+      "url": "https://open.spotify.com/track/1On4Zw5nSEJKpGIGSK8QYd",
+      "durationMs": 89361,
+      "playedAt": "2026-10-08T04:50:14.865Z"
     },
     {
-      "name": "Love Me or Leave Me (2013 - Remaster)",
+      "name": "Flying Nimbus",
       "artists": [
-        "Nina Simone"
+        "Jazzinuf",
+        "Herbalism",
+        "Etymology Records"
       ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/3EW11ZQ2feJf0sILCZnqGV",
-      "durationMs": 201390,
-      "playedAt": "2026-10-08T00:39:22.948Z"
+      "album": "Flying Nimbus",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b8c3399200a274f49e8af480",
+      "url": "https://open.spotify.com/track/2xtUsdjtXMZQSEfRxRQSMP",
+      "durationMs": 92896,
+      "playedAt": "2026-10-08T04:48:48.537Z"
     },
     {
-      "name": "Little Girl Blue (2013 - Remaster)",
+      "name": "Tryon Park",
       "artists": [
-        "Nina Simone"
+        "Oatmello",
+        "Jazzinuf",
+        "Hippo Dreams"
       ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/0fpohcklLKNLo3FyjVjEsE",
-      "durationMs": 257624,
-      "playedAt": "2026-10-08T00:36:01.624Z"
+      "album": "NYC Stories",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8eb10155bfa07867505c2c4",
+      "url": "https://open.spotify.com/track/2UdnXz7IkglUjWDVKuLKgo",
+      "durationMs": 93975,
+      "playedAt": "2026-10-08T04:47:18.636Z"
     }
   ],
   "topArtists": [
@@ -118,6 +127,12 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
+      "genres": []
+    },
+    {
+      "name": "Jazzinuf",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
+      "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
       "genres": []
     },
     {
@@ -130,12 +145,6 @@
       "name": "Frank Ocean",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
       "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
-      "genres": []
-    },
-    {
-      "name": "Jazzinuf",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
-      "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
       "genres": []
     },
     {
@@ -173,6 +182,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f1829d8cf3efbd0500eaa58",
       "url": "https://open.spotify.com/track/5Xsq9miBRyrcgqtrpcIna3",
       "durationMs": 148560
+    },
+    {
+      "name": "Visa från Utanmyra",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800
     },
     {
       "name": "Start",
@@ -233,16 +252,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ec57554c7467eeee79f4da19",
       "url": "https://open.spotify.com/track/2Kut1CT41hvZ2dNzh9KTuF",
       "durationMs": 221152
-    },
-    {
-      "name": "Tammie",
-      "artists": [
-        "Richard Coombs"
-      ],
-      "album": "Dave Hamilton's Detroit Dancers, Vol. 2",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343283cff03d451b36cfb3725",
-      "url": "https://open.spotify.com/track/2aEdVr9B5YU4elMxzaNbFr",
-      "durationMs": 159186
     }
   ],
   "featuredPlaylists": []
