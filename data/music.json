@@ -1,18 +1,86 @@
 {
-  "updatedAt": "2026-10-08T21:47:18.426Z",
-  "nowPlaying": {
-    "name": "Midnight Sun",
-    "artists": [
-      "Zara Larsson"
-    ],
-    "album": "Midnight Sun",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737657f9028ea8bb2c18dca99f",
-    "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ",
-    "durationMs": 189898,
-    "isPlaying": true,
-    "progressMs": 101901
-  },
+  "updatedAt": "2026-10-09T01:42:27.880Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Tobeloved",
+      "artists": [
+        "Parcels"
+      ],
+      "album": "LOVED",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d076abbd008ad3c6d65112eb",
+      "url": "https://open.spotify.com/track/7cSLD89y304ZvX4mVhYVfw",
+      "durationMs": 245904,
+      "playedAt": "2026-10-08T22:15:45.454Z"
+    },
+    {
+      "name": "Skate",
+      "artists": [
+        "Bruno Mars",
+        "Anderson .Paak",
+        "Silk Sonic"
+      ],
+      "album": "An Evening With Silk Sonic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731756c2022529aacfa98d2eb8",
+      "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO",
+      "durationMs": 203122,
+      "playedAt": "2026-10-08T22:11:42.556Z"
+    },
+    {
+      "name": "This Head I Hold",
+      "artists": [
+        "Electric Guest"
+      ],
+      "album": "Mondo",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736466e833eb9b18310fab4de4",
+      "url": "https://open.spotify.com/track/0LVaveDmmoMEKhBGhVhfoI",
+      "durationMs": 175773,
+      "playedAt": "2026-10-08T22:08:22.458Z"
+    },
+    {
+      "name": "Party on the Rooftop",
+      "artists": [
+        "Rikas"
+      ],
+      "album": "Short Stories",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e46b8cd6ebcadc8d7b067218",
+      "url": "https://open.spotify.com/track/5vNKXk03C6YSUzMe4xSRHv",
+      "durationMs": 187621,
+      "playedAt": "2026-10-08T22:05:29.657Z"
+    },
+    {
+      "name": "Fine Living",
+      "artists": [
+        "Rapallo"
+      ],
+      "album": "Fine Living",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e082d8d2e978e30fd262a8c2",
+      "url": "https://open.spotify.com/track/0BzJtqgA6ARE8BpNwrByYn",
+      "durationMs": 163061,
+      "playedAt": "2026-10-08T22:02:25.059Z"
+    },
+    {
+      "name": "You Sexy Thing",
+      "artists": [
+        "Hot Chocolate"
+      ],
+      "album": "Hot Chocolate",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27354fd442096deb4407b4d1516",
+      "url": "https://open.spotify.com/track/714hERk9U1W8FMYkoC83CO",
+      "durationMs": 244920,
+      "playedAt": "2026-10-08T21:56:01.594Z"
+    },
+    {
+      "name": "Midnight Sun",
+      "artists": [
+        "Zara Larsson"
+      ],
+      "album": "Midnight Sun",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737657f9028ea8bb2c18dca99f",
+      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ",
+      "durationMs": 189898,
+      "playedAt": "2026-10-08T21:48:46.047Z"
+    },
     {
       "name": "Mental Acupuncture",
       "artists": [
@@ -46,91 +114,6 @@
       "url": "https://open.spotify.com/track/1Ma8QRXxHEhnr1PgBBIxkF",
       "durationMs": 138571,
       "playedAt": "2026-10-08T05:07:13.548Z"
-    },
-    {
-      "name": "Dazzle",
-      "artists": [
-        "Jazzinuf",
-        "Engelwood"
-      ],
-      "album": "Dazzle",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273269dc240e2b69fcabd82d3b7",
-      "url": "https://open.spotify.com/track/5Se5put2P3JdoMoRHIX2uq",
-      "durationMs": 103165,
-      "playedAt": "2026-10-08T05:04:57.929Z"
-    },
-    {
-      "name": "good daze",
-      "artists": [
-        "Jazzinuf",
-        "Shanin Blake",
-        "Etymology Records"
-      ],
-      "album": "good daze",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273db58ac652c623d751e0bb065",
-      "url": "https://open.spotify.com/track/2sAPkJ75cAkG1ZPREsdnob",
-      "durationMs": 153780,
-      "playedAt": "2026-10-08T05:03:17.838Z"
-    },
-    {
-      "name": "Knee Socks",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "The Harlem Barber Swing",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c0e772a6c737692a90fcdb0",
-      "url": "https://open.spotify.com/track/4wjDU35F2QTiAE5h96LOHG",
-      "durationMs": 196363,
-      "playedAt": "2026-10-08T05:00:47.068Z"
-    },
-    {
-      "name": "When You're In Love",
-      "artists": [
-        "Intel Music",
-        "Jazzinuf"
-      ],
-      "album": "Lithography Vol. 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730026699eb4e4776eaa0e2fc0",
-      "url": "https://open.spotify.com/track/4FIKrQcAqi5I6PGWb5BNPB",
-      "durationMs": 441818,
-      "playedAt": "2026-10-08T04:57:33.660Z"
-    },
-    {
-      "name": "Caffè Mocha",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Dazzle",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273269dc240e2b69fcabd82d3b7",
-      "url": "https://open.spotify.com/track/1On4Zw5nSEJKpGIGSK8QYd",
-      "durationMs": 89361,
-      "playedAt": "2026-10-08T04:50:14.865Z"
-    },
-    {
-      "name": "Flying Nimbus",
-      "artists": [
-        "Jazzinuf",
-        "Herbalism",
-        "Etymology Records"
-      ],
-      "album": "Flying Nimbus",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b8c3399200a274f49e8af480",
-      "url": "https://open.spotify.com/track/2xtUsdjtXMZQSEfRxRQSMP",
-      "durationMs": 92896,
-      "playedAt": "2026-10-08T04:48:48.537Z"
-    },
-    {
-      "name": "Tryon Park",
-      "artists": [
-        "Oatmello",
-        "Jazzinuf",
-        "Hippo Dreams"
-      ],
-      "album": "NYC Stories",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a8eb10155bfa07867505c2c4",
-      "url": "https://open.spotify.com/track/2UdnXz7IkglUjWDVKuLKgo",
-      "durationMs": 93975,
-      "playedAt": "2026-10-08T04:47:18.636Z"
     }
   ],
   "topArtists": [
@@ -138,36 +121,41 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
+      "genres": [
+        "lo-fi",
+        "lo-fi beats",
+        "jazz beats"
+      ]
     },
     {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": []
-    },
-    {
-      "name": "Frank Ocean",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
-      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
-      "genres": []
+      "genres": [
+        "vocal jazz",
+        "jazz"
+      ]
     },
     {
       "name": "Awon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
       "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": []
+      "genres": [
+        "jazz rap"
+      ]
     },
     {
-      "name": "Bill Withers",
-      "imageUrl": "https://i.scdn.co/image/96b85aec6907206572527e1eeec6569d5e977a38",
-      "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj",
+      "name": "Frank Ocean",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
+      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
       "genres": []
     },
     {
@@ -180,6 +168,17 @@
       "name": "Nina Simone",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
       "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
+      "genres": [
+        "vocal jazz",
+        "soul jazz",
+        "soul",
+        "jazz"
+      ]
+    },
+    {
+      "name": "Rapallo",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
+      "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
       "genres": []
     }
   ],
@@ -203,16 +202,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
       "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
       "durationMs": 273800
-    },
-    {
-      "name": "Start",
-      "artists": [
-        "Frank Ocean"
-      ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
-      "durationMs": 45640
     },
     {
       "name": "Stepp, min stepp",
@@ -263,6 +252,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ec57554c7467eeee79f4da19",
       "url": "https://open.spotify.com/track/2Kut1CT41hvZ2dNzh9KTuF",
       "durationMs": 221152
+    },
+    {
+      "name": "Tammie",
+      "artists": [
+        "Richard Coombs"
+      ],
+      "album": "Dave Hamilton's Detroit Dancers, Vol. 2",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343283cff03d451b36cfb3725",
+      "url": "https://open.spotify.com/track/2aEdVr9B5YU4elMxzaNbFr",
+      "durationMs": 159186
     }
   ],
   "featuredPlaylists": []
