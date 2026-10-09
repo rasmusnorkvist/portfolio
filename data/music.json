@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-09T01:42:27.880Z",
+  "updatedAt": "2026-10-09T08:25:20.092Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Virtual Insanity - Remastered 2013",
+      "artists": [
+        "Jamiroquai"
+      ],
+      "album": "Travelling Without Moving (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736407aa9a5e5215cf554ad5d1",
+      "url": "https://open.spotify.com/track/2Bxt2qamL6iu0XN0Td484J",
+      "durationMs": 340906,
+      "playedAt": "2026-10-09T07:07:14.975Z"
+    },
     {
       "name": "Tobeloved",
       "artists": [
@@ -103,17 +114,6 @@
       "url": "https://open.spotify.com/track/0Tbo24tjW9kdo5eGFoHZGI",
       "durationMs": 136089,
       "playedAt": "2026-10-08T05:09:26.565Z"
-    },
-    {
-      "name": "Polaroids (Vintage)",
-      "artists": [
-        "Jazzinuf"
-      ],
-      "album": "Sun Dance",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739cc7887164d92d14358e3c9c",
-      "url": "https://open.spotify.com/track/1Ma8QRXxHEhnr1PgBBIxkF",
-      "durationMs": 138571,
-      "playedAt": "2026-10-08T05:07:13.548Z"
     }
   ],
   "topArtists": [
@@ -121,41 +121,24 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": [
-        "lo-fi",
-        "lo-fi beats",
-        "jazz beats"
-      ]
+      "genres": []
     },
     {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": [
-        "vocal jazz",
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Awon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
       "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": [
-        "jazz rap"
-      ]
-    },
-    {
-      "name": "Frank Ocean",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
-      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
       "genres": []
     },
     {
@@ -168,12 +151,13 @@
       "name": "Nina Simone",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
       "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
-      "genres": [
-        "vocal jazz",
-        "soul jazz",
-        "soul",
-        "jazz"
-      ]
+      "genres": []
+    },
+    {
+      "name": "Frank Ocean",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
+      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
+      "genres": []
     },
     {
       "name": "Rapallo",
