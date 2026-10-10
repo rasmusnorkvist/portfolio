@@ -1,129 +1,116 @@
 {
-  "updatedAt": "2026-10-10T17:37:10.364Z",
-  "nowPlaying": {
-    "name": "The Fate of Ophelia",
-    "artists": [
-      "Taylor Swift"
-    ],
-    "album": "The Life of a Showgirl",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
-    "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W",
-    "durationMs": 226073,
-    "isPlaying": true,
-    "progressMs": 114779
-  },
+  "updatedAt": "2026-10-10T21:05:48.644Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Hey Ya!",
+      "name": "My Type",
       "artists": [
-        "Outkast"
+        "Saint Motel"
       ],
-      "album": "Speakerboxxx/The Love Below",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736e88eb6508fd94cd1b745ce2",
-      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM",
-      "durationMs": 235213,
-      "playedAt": "2026-10-10T17:34:44.634Z"
+      "album": "My Type",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734c8d86fcf617d28a7c55818b",
+      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI",
+      "durationMs": 206393,
+      "playedAt": "2026-10-10T19:02:36.702Z"
     },
     {
-      "name": "Trust Me",
+      "name": "You Get What You Give",
       "artists": [
-        "Guru",
-        "N'Dea Davenport"
+        "New Radicals"
       ],
-      "album": "Jazzmatazz Volume 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
-      "url": "https://open.spotify.com/track/41YrEBYeFM6fYf1ygakTlm",
-      "durationMs": 267865,
-      "playedAt": "2026-10-10T17:26:23.181Z"
+      "album": "Maybe You've Been Brainwashed Too",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dfdedd4553b40bbaab342dae",
+      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF",
+      "durationMs": 300773,
+      "playedAt": "2026-10-10T18:59:13.358Z"
     },
     {
-      "name": "Introduction",
+      "name": "She's A Bad Mama Jama (She's Built, She's Stacked) - Single Version",
       "artists": [
-        "Guru"
+        "Carl Carlton"
       ],
-      "album": "Jazzmatazz Volume 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
-      "url": "https://open.spotify.com/track/2lg1lksPDgFTk2NOJ8bRxv",
-      "durationMs": 80248,
-      "playedAt": "2026-10-10T17:21:58.353Z"
+      "album": "Carl Carlton (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d33cf0f26efdf538bfd6864e",
+      "url": "https://open.spotify.com/track/2R0zbd80CqwoB0ORDCqDoK",
+      "durationMs": 235933,
+      "playedAt": "2026-10-10T18:54:15.551Z"
     },
     {
-      "name": "Best of My Love",
+      "name": "Love and Happiness",
       "artists": [
-        "The Emotions"
+        "Al Green"
       ],
-      "album": "R&B: From Doo-Wop To Hip-Hop",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273980caf4dd525a15f08f8cb87",
-      "url": "https://open.spotify.com/track/1u03aI4x7YxAjVFMMqIDNT",
-      "durationMs": 219066,
-      "playedAt": "2026-10-10T17:09:09.243Z"
+      "album": "I'm Still in Love with You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735bba82fc0d047f6f23177767",
+      "url": "https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel",
+      "durationMs": 307062,
+      "playedAt": "2026-10-10T18:50:22.631Z"
     },
     {
-      "name": "Enjoy Yourself",
+      "name": "You're So Vain",
       "artists": [
-        "The Jacksons"
+        "Carly Simon"
       ],
-      "album": "R&B: From Doo-Wop To Hip-Hop",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273980caf4dd525a15f08f8cb87",
-      "url": "https://open.spotify.com/track/2vm41mPHDLeeWKa82ijVgf",
-      "durationMs": 204533,
-      "playedAt": "2026-10-10T17:05:30.165Z"
+      "album": "No Secrets",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731af9e8390e2d251b916d9185",
+      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba",
+      "durationMs": 258411,
+      "playedAt": "2026-10-10T18:45:14.847Z"
     },
     {
-      "name": "Disco Lady",
+      "name": "Piano Man",
       "artists": [
-        "Johnnie Taylor"
+        "Billy Joel"
       ],
-      "album": "R&B: From Doo-Wop To Hip-Hop",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273980caf4dd525a15f08f8cb87",
-      "url": "https://open.spotify.com/track/66jBbrVByFETJZ6FfpwxX4",
-      "durationMs": 262960,
-      "playedAt": "2026-10-10T17:02:05.663Z"
+      "album": "Piano Man (Legacy Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3",
+      "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ",
+      "durationMs": 339000,
+      "playedAt": "2026-10-10T18:40:59.492Z"
     },
     {
-      "name": "Kiss and Say Goodbye",
+      "name": "She's Always a Woman",
       "artists": [
-        "The Manhattans"
+        "Billy Joel"
       ],
-      "album": "R&B: From Doo-Wop To Hip-Hop",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273980caf4dd525a15f08f8cb87",
-      "url": "https://open.spotify.com/track/6roaUdrIQUlTcujSFLtYKI",
-      "durationMs": 265773,
-      "playedAt": "2026-10-10T16:57:42.677Z"
+      "album": "The Stranger (Legacy Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH",
+      "durationMs": 201373,
+      "playedAt": "2026-10-10T18:35:23.498Z"
     },
     {
-      "name": "Wake up Everybody (feat. Teddy Pendergrass)",
+      "name": "Linger - Remastered 2026",
       "artists": [
-        "Harold Melvin & The Blue Notes",
-        "Teddy Pendergrass"
+        "The Cranberries"
       ],
-      "album": "R&B: From Doo-Wop To Hip-Hop",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273980caf4dd525a15f08f8cb87",
-      "url": "https://open.spotify.com/track/6aeSAKcpmdXyxUJK4ojyyR",
-      "durationMs": 211426,
-      "playedAt": "2026-10-10T16:53:17.004Z"
+      "album": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273753dbf92830094154a21b193",
+      "url": "https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET",
+      "durationMs": 274720,
+      "playedAt": "2026-10-10T18:32:05.100Z"
     },
     {
-      "name": "That's The Way Of The World",
+      "name": "Uptown Girl",
       "artists": [
-        "Earth, Wind & Fire"
+        "Billy Joel"
       ],
-      "album": "R&B: From Doo-Wop To Hip-Hop",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273980caf4dd525a15f08f8cb87",
-      "url": "https://open.spotify.com/track/0Dak6Pn4FQk6FhxnxlLXfv",
-      "durationMs": 344760,
-      "playedAt": "2026-10-10T16:49:45.524Z"
+      "album": "An Innocent Man",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27329c68eb2726f08eca5ba8613",
+      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh",
+      "durationMs": 198294,
+      "playedAt": "2026-10-10T18:27:33.426Z"
     },
     {
-      "name": "Lovin' You",
+      "name": "Suddenly I See",
       "artists": [
-        "Minnie Riperton"
+        "KT Tunstall"
       ],
-      "album": "Perfect Angel",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731d3aab58dd4e235e7059b6a1",
-      "url": "https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p",
-      "durationMs": 223143,
-      "playedAt": "2026-10-10T16:44:03.824Z"
+      "album": "Eye To The Telescope",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da",
+      "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3",
+      "durationMs": 201706,
+      "playedAt": "2026-10-10T18:24:18.155Z"
     }
   ],
   "topArtists": [
@@ -178,16 +165,6 @@
   ],
   "topTracks": [
     {
-      "name": "Here I Go Again",
-      "artists": [
-        "Jean Plum"
-      ],
-      "album": "Jean Plum: The Hi Recordings",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f1829d8cf3efbd0500eaa58",
-      "url": "https://open.spotify.com/track/5Xsq9miBRyrcgqtrpcIna3",
-      "durationMs": 148560
-    },
-    {
       "name": "Mood Indigo (2013 - Remaster)",
       "artists": [
         "Nina Simone"
@@ -196,6 +173,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
       "url": "https://open.spotify.com/track/3rlEbh8f1o88gsBFkwV6bh",
       "durationMs": 240610
+    },
+    {
+      "name": "Here I Go Again",
+      "artists": [
+        "Jean Plum"
+      ],
+      "album": "Jean Plum: The Hi Recordings",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f1829d8cf3efbd0500eaa58",
+      "url": "https://open.spotify.com/track/5Xsq9miBRyrcgqtrpcIna3",
+      "durationMs": 148560
     },
     {
       "name": "Stepp, min stepp",
@@ -238,24 +225,24 @@
       "durationMs": 273800
     },
     {
-      "name": "Misdemeanor",
+      "name": "Don't Smoke in Bed (2013 - Remaster)",
       "artists": [
-        "Foster Sylvers"
+        "Nina Simone"
       ],
-      "album": "Foster Sylvers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a33024af69e0bcf087d3e20a",
-      "url": "https://open.spotify.com/track/0ApFfTbtX1775WkrzZSx4y",
-      "durationMs": 153346
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/32wq8cLbp3qaOlkNcDneIT",
+      "durationMs": 190370
     },
     {
-      "name": "Away with You",
+      "name": "He Needs Me (2013 - Remaster)",
       "artists": [
-        "Carolynn Porter"
+        "Nina Simone"
       ],
-      "album": "Emandolynn Music Presents: Rare Soul, Vol. 3",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b30053eb44977ee732bb8ad1",
-      "url": "https://open.spotify.com/track/1ngKc2KXcqHjuxpS7sbcRa",
-      "durationMs": 173897
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN",
+      "durationMs": 149330
     }
   ],
   "featuredPlaylists": []
