@@ -1,116 +1,129 @@
 {
-  "updatedAt": "2026-10-10T12:50:44.307Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-10T17:37:10.364Z",
+  "nowPlaying": {
+    "name": "The Fate of Ophelia",
+    "artists": [
+      "Taylor Swift"
+    ],
+    "album": "The Life of a Showgirl",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d7812467811a7da6e6a44902",
+    "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W",
+    "durationMs": 226073,
+    "isPlaying": true,
+    "progressMs": 114779
+  },
   "recentlyPlayed": [
     {
-      "name": "Fopp - Single Version",
+      "name": "Hey Ya!",
       "artists": [
-        "Ohio Players"
+        "Outkast"
       ],
-      "album": "Honey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ef36e8640d5b240fb772bcd2",
-      "url": "https://open.spotify.com/track/1Isj0ik0ssSq8OUJc5AbDT",
-      "durationMs": 234506,
-      "playedAt": "2026-10-10T04:35:45.725Z"
+      "album": "Speakerboxxx/The Love Below",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736e88eb6508fd94cd1b745ce2",
+      "url": "https://open.spotify.com/track/2PpruBYCo4H7WOBJ7Q2EwM",
+      "durationMs": 235213,
+      "playedAt": "2026-10-10T17:34:44.634Z"
     },
     {
-      "name": "Honey",
+      "name": "Trust Me",
       "artists": [
-        "Ohio Players"
+        "Guru",
+        "N'Dea Davenport"
       ],
-      "album": "Honey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ef36e8640d5b240fb772bcd2",
-      "url": "https://open.spotify.com/track/29oTCXGeFDPWaiGw2K8xDp",
-      "durationMs": 319733,
-      "playedAt": "2026-10-10T04:31:51.222Z"
+      "album": "Jazzmatazz Volume 1",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
+      "url": "https://open.spotify.com/track/41YrEBYeFM6fYf1ygakTlm",
+      "durationMs": 267865,
+      "playedAt": "2026-10-10T17:26:23.181Z"
     },
     {
-      "name": "Alone - Live",
+      "name": "Introduction",
       "artists": [
-        "Ohio Players"
+        "Guru"
       ],
-      "album": "Honey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ef36e8640d5b240fb772bcd2",
-      "url": "https://open.spotify.com/track/55NSAu6AwQPzu1do0YkJJQ",
-      "durationMs": 277840,
-      "playedAt": "2026-10-10T04:26:34.529Z"
+      "album": "Jazzmatazz Volume 1",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273423fc787b53e081679cfc4c0",
+      "url": "https://open.spotify.com/track/2lg1lksPDgFTk2NOJ8bRxv",
+      "durationMs": 80248,
+      "playedAt": "2026-10-10T17:21:58.353Z"
     },
     {
-      "name": "Love Rollercoaster",
+      "name": "Best of My Love",
       "artists": [
-        "Ohio Players"
+        "The Emotions"
       ],
-      "album": "Honey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ef36e8640d5b240fb772bcd2",
-      "url": "https://open.spotify.com/track/1hRDHWWealh2Pk3fnpIe75",
-      "durationMs": 290160,
-      "playedAt": "2026-10-10T04:21:56.720Z"
+      "album": "R&B: From Doo-Wop To Hip-Hop",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273980caf4dd525a15f08f8cb87",
+      "url": "https://open.spotify.com/track/1u03aI4x7YxAjVFMMqIDNT",
+      "durationMs": 219066,
+      "playedAt": "2026-10-10T17:09:09.243Z"
     },
     {
-      "name": "Sweet Sticky Thing",
+      "name": "Enjoy Yourself",
       "artists": [
-        "Ohio Players"
+        "The Jacksons"
       ],
-      "album": "Honey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ef36e8640d5b240fb772bcd2",
-      "url": "https://open.spotify.com/track/49laJW6ENyr70qdlLNh3tr",
-      "durationMs": 372733,
-      "playedAt": "2026-10-10T04:17:06.493Z"
+      "album": "R&B: From Doo-Wop To Hip-Hop",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273980caf4dd525a15f08f8cb87",
+      "url": "https://open.spotify.com/track/2vm41mPHDLeeWKa82ijVgf",
+      "durationMs": 204533,
+      "playedAt": "2026-10-10T17:05:30.165Z"
     },
     {
-      "name": "Ain't Givin' Up No Ground",
+      "name": "Disco Lady",
       "artists": [
-        "Ohio Players"
+        "Johnnie Taylor"
       ],
-      "album": "Honey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ef36e8640d5b240fb772bcd2",
-      "url": "https://open.spotify.com/track/2LITKrRpcVjuArF0G8xQGA",
-      "durationMs": 102533,
-      "playedAt": "2026-10-10T04:10:53.738Z"
+      "album": "R&B: From Doo-Wop To Hip-Hop",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273980caf4dd525a15f08f8cb87",
+      "url": "https://open.spotify.com/track/66jBbrVByFETJZ6FfpwxX4",
+      "durationMs": 262960,
+      "playedAt": "2026-10-10T17:02:05.663Z"
     },
     {
-      "name": "Let's Do It",
+      "name": "Kiss and Say Goodbye",
       "artists": [
-        "Ohio Players"
+        "The Manhattans"
       ],
-      "album": "Honey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ef36e8640d5b240fb772bcd2",
-      "url": "https://open.spotify.com/track/1O7rdtx858jlvztrT5Nv6g",
-      "durationMs": 313733,
-      "playedAt": "2026-10-10T04:09:11.170Z"
+      "album": "R&B: From Doo-Wop To Hip-Hop",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273980caf4dd525a15f08f8cb87",
+      "url": "https://open.spotify.com/track/6roaUdrIQUlTcujSFLtYKI",
+      "durationMs": 265773,
+      "playedAt": "2026-10-10T16:57:42.677Z"
     },
     {
-      "name": "Fopp - Single Version",
+      "name": "Wake up Everybody (feat. Teddy Pendergrass)",
       "artists": [
-        "Ohio Players"
+        "Harold Melvin & The Blue Notes",
+        "Teddy Pendergrass"
       ],
-      "album": "Honey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ef36e8640d5b240fb772bcd2",
-      "url": "https://open.spotify.com/track/1Isj0ik0ssSq8OUJc5AbDT",
-      "durationMs": 234506,
-      "playedAt": "2026-10-10T04:03:57.467Z"
+      "album": "R&B: From Doo-Wop To Hip-Hop",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273980caf4dd525a15f08f8cb87",
+      "url": "https://open.spotify.com/track/6aeSAKcpmdXyxUJK4ojyyR",
+      "durationMs": 211426,
+      "playedAt": "2026-10-10T16:53:17.004Z"
     },
     {
-      "name": "Honey",
+      "name": "That's The Way Of The World",
       "artists": [
-        "Ohio Players"
+        "Earth, Wind & Fire"
       ],
-      "album": "Honey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ef36e8640d5b240fb772bcd2",
-      "url": "https://open.spotify.com/track/29oTCXGeFDPWaiGw2K8xDp",
-      "durationMs": 319733,
-      "playedAt": "2026-10-10T04:00:02.954Z"
+      "album": "R&B: From Doo-Wop To Hip-Hop",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273980caf4dd525a15f08f8cb87",
+      "url": "https://open.spotify.com/track/0Dak6Pn4FQk6FhxnxlLXfv",
+      "durationMs": 344760,
+      "playedAt": "2026-10-10T16:49:45.524Z"
     },
     {
-      "name": "Vill ha dig",
+      "name": "Lovin' You",
       "artists": [
-        "Freestyle"
+        "Minnie Riperton"
       ],
-      "album": "Guldkorn Den Kompletta Samlingen",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e930c86b5a9c79e713124475",
-      "url": "https://open.spotify.com/track/1ecJdAizaDklfgCVtEUQsG",
-      "durationMs": 215560,
-      "playedAt": "2026-10-10T03:51:21.790Z"
+      "album": "Perfect Angel",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731d3aab58dd4e235e7059b6a1",
+      "url": "https://open.spotify.com/track/3ebYtLVuV4HzEZUDcpZB9p",
+      "durationMs": 223143,
+      "playedAt": "2026-10-10T16:44:03.824Z"
     }
   ],
   "topArtists": [
