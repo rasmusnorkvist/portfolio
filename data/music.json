@@ -1,40 +1,7 @@
 {
-  "updatedAt": "2026-10-09T20:15:04.037Z",
+  "updatedAt": "2026-10-10T00:11:35.012Z",
   "nowPlaying": null,
   "recentlyPlayed": [
-    {
-      "name": "Good Bait (2013 - Remaster)",
-      "artists": [
-        "Nina Simone"
-      ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/1U5x2J1o03WIsYpviaqMUy",
-      "durationMs": 327193,
-      "playedAt": "2026-10-09T20:11:58.838Z"
-    },
-    {
-      "name": "My Baby Just Cares for Me (2013 - Remaster)",
-      "artists": [
-        "Nina Simone"
-      ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534",
-      "durationMs": 215746,
-      "playedAt": "2026-10-09T20:06:31.628Z"
-    },
-    {
-      "name": "Love Me or Leave Me (2013 - Remaster)",
-      "artists": [
-        "Nina Simone"
-      ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/3EW11ZQ2feJf0sILCZnqGV",
-      "durationMs": 201390,
-      "playedAt": "2026-10-09T20:02:55.836Z"
-    },
     {
       "name": "Little Girl Blue (2013 - Remaster)",
       "artists": [
@@ -44,7 +11,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
       "url": "https://open.spotify.com/track/0fpohcklLKNLo3FyjVjEsE",
       "durationMs": 257624,
-      "playedAt": "2026-10-09T19:59:34.438Z"
+      "playedAt": "2026-10-09T21:53:33.510Z"
     },
     {
       "name": "He Needs Me (2013 - Remaster)",
@@ -55,7 +22,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
       "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN",
       "durationMs": 149330,
-      "playedAt": "2026-10-09T19:55:17.043Z"
+      "playedAt": "2026-10-09T21:49:15.885Z"
     },
     {
       "name": "Don't Smoke in Bed (2013 - Remaster)",
@@ -66,7 +33,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
       "url": "https://open.spotify.com/track/32wq8cLbp3qaOlkNcDneIT",
       "durationMs": 190370,
-      "playedAt": "2026-10-09T19:52:47.733Z"
+      "playedAt": "2026-10-09T21:46:46.467Z"
     },
     {
       "name": "Mood Indigo (2013 - Remaster)",
@@ -77,40 +44,73 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
       "url": "https://open.spotify.com/track/3rlEbh8f1o88gsBFkwV6bh",
       "durationMs": 240610,
-      "playedAt": "2026-10-09T19:49:37.436Z"
+      "playedAt": "2026-10-09T21:43:36.189Z"
     },
     {
-      "name": "800°",
+      "name": "I Loves You Porgy (2013 - Remaster)",
       "artists": [
-        "Ebba Grön"
+        "Nina Simone"
       ],
-      "album": "Kärlek och uppror",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351bc0fd3287caac4c3a80bcf",
-      "url": "https://open.spotify.com/track/3zgJHNEorjbLLThp6TiMhz",
-      "durationMs": 227333,
-      "playedAt": "2026-10-09T18:49:10.529Z"
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/4FAlUftWQumDz5tatkN9VH",
+      "durationMs": 249781,
+      "playedAt": "2026-10-09T21:39:38.584Z"
     },
     {
-      "name": "Staten & kapitalet",
+      "name": "You'll Never Walk Alone (2013 - Remaster)",
       "artists": [
-        "Ebba Grön"
+        "Nina Simone"
       ],
-      "album": "Ebba Grön 1978 - 1982",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c12767a5b413c794d2c5a569",
-      "url": "https://open.spotify.com/track/4bofKUmzk2mYjUlsL3NVeF",
-      "durationMs": 326400,
-      "playedAt": "2026-10-09T18:44:57.068Z"
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/11QyYNMhpKfrcaQZIEZagz",
+      "durationMs": 225401,
+      "playedAt": "2026-10-09T21:35:28.787Z"
     },
     {
-      "name": "Die Mauer",
+      "name": "Plain Gold Ring (2013 - Remaster)",
       "artists": [
-        "Ebba Grön"
+        "Nina Simone"
       ],
-      "album": "Ebba Grön",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c00a4450e00bf38c32c686dd",
-      "url": "https://open.spotify.com/track/524avnOQAmyULv2CjQAmrn",
-      "durationMs": 244573,
-      "playedAt": "2026-10-09T18:39:33.704Z"
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/476RII5Mde9Ih5xqYLSqtS",
+      "durationMs": 228104,
+      "playedAt": "2026-10-09T21:31:43.377Z"
+    },
+    {
+      "name": "Good Bait (2013 - Remaster)",
+      "artists": [
+        "Nina Simone"
+      ],
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/1U5x2J1o03WIsYpviaqMUy",
+      "durationMs": 327193,
+      "playedAt": "2026-10-09T21:27:55.301Z"
+    },
+    {
+      "name": "My Baby Just Cares for Me (2013 - Remaster)",
+      "artists": [
+        "Nina Simone"
+      ],
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/5Lhjlnly9Ynhf52ojQS534",
+      "durationMs": 215746,
+      "playedAt": "2026-10-09T21:22:28.105Z"
+    },
+    {
+      "name": "Love Me or Leave Me (2013 - Remaster)",
+      "artists": [
+        "Nina Simone"
+      ],
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/3EW11ZQ2feJf0sILCZnqGV",
+      "durationMs": 201390,
+      "playedAt": "2026-10-09T21:18:52.293Z"
     }
   ],
   "topArtists": [
@@ -133,6 +133,12 @@
       "genres": []
     },
     {
+      "name": "Nina Simone",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
+      "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
+      "genres": []
+    },
+    {
       "name": "Awon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
       "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
@@ -142,12 +148,6 @@
       "name": "Taylor Swift",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
       "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
-      "genres": []
-    },
-    {
-      "name": "Nina Simone",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
-      "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
       "genres": []
     },
     {
@@ -173,6 +173,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f1829d8cf3efbd0500eaa58",
       "url": "https://open.spotify.com/track/5Xsq9miBRyrcgqtrpcIna3",
       "durationMs": 148560
+    },
+    {
+      "name": "Mood Indigo (2013 - Remaster)",
+      "artists": [
+        "Nina Simone"
+      ],
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/3rlEbh8f1o88gsBFkwV6bh",
+      "durationMs": 240610
     },
     {
       "name": "Stepp, min stepp",
@@ -233,16 +243,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b30053eb44977ee732bb8ad1",
       "url": "https://open.spotify.com/track/1ngKc2KXcqHjuxpS7sbcRa",
       "durationMs": 173897
-    },
-    {
-      "name": "Sound Ridiculous",
-      "artists": [
-        "Alice Taylor"
-      ],
-      "album": "Rare Soul, Vol. 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ec57554c7467eeee79f4da19",
-      "url": "https://open.spotify.com/track/2Kut1CT41hvZ2dNzh9KTuF",
-      "durationMs": 221152
     }
   ],
   "featuredPlaylists": []
