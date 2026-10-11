@@ -1,129 +1,118 @@
 {
-  "updatedAt": "2026-10-11T00:18:52.980Z",
-  "nowPlaying": {
-    "name": "God Knows",
-    "artists": [
-      "Mando Diao"
-    ],
-    "album": "Hurricane Bar",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d77f5131e85a3164f9c3aeed",
-    "url": "https://open.spotify.com/track/7yvVN0WIduWMnVpnIgZehl",
-    "durationMs": 230733,
-    "isPlaying": true,
-    "progressMs": 154411
-  },
+  "updatedAt": "2026-10-11T06:08:16.208Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "När solen färgar juninatten",
+      "name": "Sparven",
       "artists": [
         "Mando Diao"
       ],
-      "album": "Musiken från På Spåret",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734276194bde85a654c2548291",
-      "url": "https://open.spotify.com/track/15cmal3SCawgWYGlOVnzpa",
-      "durationMs": 154470,
-      "playedAt": "2026-10-11T00:16:22.259Z"
+      "album": "I solnedgången",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
+      "url": "https://open.spotify.com/track/67H1C0aYHM7OsPp16RPzxz",
+      "durationMs": 160226,
+      "playedAt": "2026-10-11T05:06:15.361Z"
     },
     {
-      "name": "Strövtåg i hembygden",
+      "name": "Stjärnornas tröst",
       "artists": [
         "Mando Diao"
       ],
-      "album": "Infruset",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
-      "url": "https://open.spotify.com/track/7KOegFQMd13ETQry4A6Tu1",
-      "durationMs": 249573,
-      "playedAt": "2026-10-11T00:09:27.837Z"
+      "album": "I solnedgången",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
+      "url": "https://open.spotify.com/track/5mtpnBo01R6XSkoqzbeXg6",
+      "durationMs": 253613,
+      "playedAt": "2026-10-11T05:03:35.121Z"
     },
     {
-      "name": "Dance with Somebody - Radio Version",
+      "name": "Långsamt",
       "artists": [
         "Mando Diao"
       ],
-      "album": "Dance with Somebody",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c399529600f436bcdaeb842",
-      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48",
-      "durationMs": 241000,
-      "playedAt": "2026-10-11T00:05:21.342Z"
+      "album": "I solnedgången",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
+      "url": "https://open.spotify.com/track/2nfJpsZufkkdcCCvQATEy0",
+      "durationMs": 235946,
+      "playedAt": "2026-10-11T04:59:21.555Z"
     },
     {
-      "name": "Be With You",
+      "name": "Kvällstilla",
       "artists": [
-        "Sylvester"
+        "Mando Diao"
       ],
-      "album": "All I Need",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa24e701cdc1cc21e44fad8d",
-      "url": "https://open.spotify.com/track/5oHKizUJ4jMXIARIaNl28y",
-      "durationMs": 399973,
-      "playedAt": "2026-10-11T00:00:13.635Z"
+      "album": "I solnedgången",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
+      "url": "https://open.spotify.com/track/2RXlgELrmWBDJ87hKWbAGd",
+      "durationMs": 178800,
+      "playedAt": "2026-10-11T04:55:25.136Z"
     },
     {
-      "name": "All I Need",
+      "name": "I solnedgången",
       "artists": [
-        "Sylvester"
+        "Mando Diao"
       ],
-      "album": "All I Need",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa24e701cdc1cc21e44fad8d",
-      "url": "https://open.spotify.com/track/5ts9NQV7r5Lc4xxfxagK7k",
-      "durationMs": 268546,
-      "playedAt": "2026-10-10T23:53:32.737Z"
+      "album": "I solnedgången",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
+      "url": "https://open.spotify.com/track/3lJMQOHbJ8cAXb7wxSa8jX",
+      "durationMs": 176013,
+      "playedAt": "2026-10-11T04:52:26.364Z"
     },
     {
-      "name": "Do You Wanna Funk?",
+      "name": "Sorgen (med Titiyo)",
       "artists": [
-        "Patrick Cowley",
-        "Sylvester"
+        "Mando Diao",
+        "Titiyo"
       ],
-      "album": "All I Need",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa24e701cdc1cc21e44fad8d",
-      "url": "https://open.spotify.com/track/708DnJC8l1b4Bf4xg0GiBv",
-      "durationMs": 414746,
-      "playedAt": "2026-10-10T23:49:04.223Z"
+      "album": "I solnedgången",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
+      "url": "https://open.spotify.com/track/23Rx6yh9IYO95OHUm7crpG",
+      "durationMs": 182587,
+      "playedAt": "2026-10-11T04:49:33.357Z"
     },
     {
-      "name": "Zara Larsson - Live at Portola Music Festival 2026",
+      "name": "Långsamt (med Titiyo)",
       "artists": [
-        "Zara Larsson"
+        "Mando Diao",
+        "Titiyo"
       ],
-      "album": "Zara Larsson - Live at Portola Music Festival 2026",
-      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b7ae7c8bbe6d8bb4ccb92ce69f",
-      "url": "https://open.spotify.com/track/4MjrrYxewQWeWnSmXrCAej",
-      "durationMs": 199381,
-      "playedAt": "2026-10-10T23:41:36.830Z"
+      "album": "I solnedgången",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
+      "url": "https://open.spotify.com/track/6DwRd90AVeXDNQFFMrKPBk",
+      "durationMs": 234398,
+      "playedAt": "2026-10-11T04:46:30.763Z"
     },
     {
-      "name": "Symphony (feat. Zara Larsson)",
+      "name": "Vi lever nu",
       "artists": [
-        "Clean Bandit",
-        "Zara Larsson"
+        "Mando Diao"
       ],
-      "album": "What Is Love? (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c66e925d8fe4c92ebfb49ed",
-      "url": "https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal",
-      "durationMs": 212733,
-      "playedAt": "2026-10-10T23:37:29.339Z"
+      "album": "I solnedgången",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
+      "url": "https://open.spotify.com/track/4arCL4RzPrqFRnvBLkRwUi",
+      "durationMs": 186004,
+      "playedAt": "2026-10-11T04:42:36.354Z"
     },
     {
-      "name": "Whenever, Wherever",
+      "name": "Vägen hem",
       "artists": [
-        "Shakira"
+        "Mando Diao"
       ],
-      "album": "Laundry Service",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731f400a1f4d821b00824cf58f",
-      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG",
-      "durationMs": 196160,
-      "playedAt": "2026-10-10T23:33:59.629Z"
+      "album": "I solnedgången",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
+      "url": "https://open.spotify.com/track/6kbGrMc4uXI3ojzxMEb65M",
+      "durationMs": 216750,
+      "playedAt": "2026-10-11T04:39:30.356Z"
     },
     {
-      "name": "Do I Do",
+      "name": "Stjärnorna",
       "artists": [
-        "Stevie Wonder"
+        "Mando Diao"
       ],
-      "album": "The Definitive Collection (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273835ed5fb9b70f46c3177ffde",
-      "url": "https://open.spotify.com/track/4P91jW5QmEkhoLgdMujp82",
-      "durationMs": 303466,
-      "playedAt": "2026-10-10T23:30:46.435Z"
+      "album": "I solnedgången",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
+      "url": "https://open.spotify.com/track/6lwDQ5fa94ZoO4RGoXTQdj",
+      "durationMs": 184507,
+      "playedAt": "2026-10-11T04:35:53.659Z"
     }
   ],
   "topArtists": [
@@ -131,31 +120,55 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
+    },
+    {
+      "name": "Mando Diao",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
+      "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
+      "genres": [
+        "lo-fi",
+        "lo-fi beats",
+        "jazz beats"
+      ]
     },
     {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": []
+      "genres": [
+        "vocal jazz",
+        "jazz"
+      ]
     },
     {
       "name": "Nina Simone",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
       "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
-      "genres": []
+      "genres": [
+        "vocal jazz",
+        "soul jazz",
+        "soul",
+        "jazz"
+      ]
     },
     {
       "name": "Awon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
       "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": []
+      "genres": [
+        "jazz rap"
+      ]
     },
     {
       "name": "Taylor Swift",
@@ -167,12 +180,6 @@
       "name": "Rapallo",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebb6c60f0fbea97c81be26d585",
       "url": "https://open.spotify.com/artist/5l9AxFSVpgIlnoUuEOMWi1",
-      "genres": []
-    },
-    {
-      "name": "Stevie Wonder",
-      "imageUrl": "https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108",
-      "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi",
       "genres": []
     }
   ],
