@@ -1,116 +1,129 @@
 {
-  "updatedAt": "2026-10-10T21:05:48.644Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-11T00:18:52.980Z",
+  "nowPlaying": {
+    "name": "God Knows",
+    "artists": [
+      "Mando Diao"
+    ],
+    "album": "Hurricane Bar",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d77f5131e85a3164f9c3aeed",
+    "url": "https://open.spotify.com/track/7yvVN0WIduWMnVpnIgZehl",
+    "durationMs": 230733,
+    "isPlaying": true,
+    "progressMs": 154411
+  },
   "recentlyPlayed": [
     {
-      "name": "My Type",
+      "name": "När solen färgar juninatten",
       "artists": [
-        "Saint Motel"
+        "Mando Diao"
       ],
-      "album": "My Type",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734c8d86fcf617d28a7c55818b",
-      "url": "https://open.spotify.com/track/2DFi8rwHcVkTTgu7PULhtI",
-      "durationMs": 206393,
-      "playedAt": "2026-10-10T19:02:36.702Z"
+      "album": "Musiken från På Spåret",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734276194bde85a654c2548291",
+      "url": "https://open.spotify.com/track/15cmal3SCawgWYGlOVnzpa",
+      "durationMs": 154470,
+      "playedAt": "2026-10-11T00:16:22.259Z"
     },
     {
-      "name": "You Get What You Give",
+      "name": "Strövtåg i hembygden",
       "artists": [
-        "New Radicals"
+        "Mando Diao"
       ],
-      "album": "Maybe You've Been Brainwashed Too",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dfdedd4553b40bbaab342dae",
-      "url": "https://open.spotify.com/track/1Cwsd5xI8CajJz795oy4XF",
-      "durationMs": 300773,
-      "playedAt": "2026-10-10T18:59:13.358Z"
+      "album": "Infruset",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f144ec3afc933daaa226d356",
+      "url": "https://open.spotify.com/track/7KOegFQMd13ETQry4A6Tu1",
+      "durationMs": 249573,
+      "playedAt": "2026-10-11T00:09:27.837Z"
     },
     {
-      "name": "She's A Bad Mama Jama (She's Built, She's Stacked) - Single Version",
+      "name": "Dance with Somebody - Radio Version",
       "artists": [
-        "Carl Carlton"
+        "Mando Diao"
       ],
-      "album": "Carl Carlton (Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d33cf0f26efdf538bfd6864e",
-      "url": "https://open.spotify.com/track/2R0zbd80CqwoB0ORDCqDoK",
-      "durationMs": 235933,
-      "playedAt": "2026-10-10T18:54:15.551Z"
+      "album": "Dance with Somebody",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c399529600f436bcdaeb842",
+      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48",
+      "durationMs": 241000,
+      "playedAt": "2026-10-11T00:05:21.342Z"
     },
     {
-      "name": "Love and Happiness",
+      "name": "Be With You",
       "artists": [
-        "Al Green"
+        "Sylvester"
       ],
-      "album": "I'm Still in Love with You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735bba82fc0d047f6f23177767",
-      "url": "https://open.spotify.com/track/6SMHgPgNkhe9lneNTbgtel",
-      "durationMs": 307062,
-      "playedAt": "2026-10-10T18:50:22.631Z"
+      "album": "All I Need",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa24e701cdc1cc21e44fad8d",
+      "url": "https://open.spotify.com/track/5oHKizUJ4jMXIARIaNl28y",
+      "durationMs": 399973,
+      "playedAt": "2026-10-11T00:00:13.635Z"
     },
     {
-      "name": "You're So Vain",
+      "name": "All I Need",
       "artists": [
-        "Carly Simon"
+        "Sylvester"
       ],
-      "album": "No Secrets",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731af9e8390e2d251b916d9185",
-      "url": "https://open.spotify.com/track/2DnJjbjNTV9Nd5NOa1KGba",
-      "durationMs": 258411,
-      "playedAt": "2026-10-10T18:45:14.847Z"
+      "album": "All I Need",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa24e701cdc1cc21e44fad8d",
+      "url": "https://open.spotify.com/track/5ts9NQV7r5Lc4xxfxagK7k",
+      "durationMs": 268546,
+      "playedAt": "2026-10-10T23:53:32.737Z"
     },
     {
-      "name": "Piano Man",
+      "name": "Do You Wanna Funk?",
       "artists": [
-        "Billy Joel"
+        "Patrick Cowley",
+        "Sylvester"
       ],
-      "album": "Piano Man (Legacy Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aff4aef671b2510be7c115b3",
-      "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ",
-      "durationMs": 339000,
-      "playedAt": "2026-10-10T18:40:59.492Z"
+      "album": "All I Need",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fa24e701cdc1cc21e44fad8d",
+      "url": "https://open.spotify.com/track/708DnJC8l1b4Bf4xg0GiBv",
+      "durationMs": 414746,
+      "playedAt": "2026-10-10T23:49:04.223Z"
     },
     {
-      "name": "She's Always a Woman",
+      "name": "Zara Larsson - Live at Portola Music Festival 2026",
       "artists": [
-        "Billy Joel"
+        "Zara Larsson"
       ],
-      "album": "The Stranger (Legacy Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
-      "url": "https://open.spotify.com/track/5RgFlk1fcClZd0Y4SGYhqH",
-      "durationMs": 201373,
-      "playedAt": "2026-10-10T18:35:23.498Z"
+      "album": "Zara Larsson - Live at Portola Music Festival 2026",
+      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b7ae7c8bbe6d8bb4ccb92ce69f",
+      "url": "https://open.spotify.com/track/4MjrrYxewQWeWnSmXrCAej",
+      "durationMs": 199381,
+      "playedAt": "2026-10-10T23:41:36.830Z"
     },
     {
-      "name": "Linger - Remastered 2026",
+      "name": "Symphony (feat. Zara Larsson)",
       "artists": [
-        "The Cranberries"
+        "Clean Bandit",
+        "Zara Larsson"
       ],
-      "album": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273753dbf92830094154a21b193",
-      "url": "https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET",
-      "durationMs": 274720,
-      "playedAt": "2026-10-10T18:32:05.100Z"
+      "album": "What Is Love? (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c66e925d8fe4c92ebfb49ed",
+      "url": "https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal",
+      "durationMs": 212733,
+      "playedAt": "2026-10-10T23:37:29.339Z"
     },
     {
-      "name": "Uptown Girl",
+      "name": "Whenever, Wherever",
       "artists": [
-        "Billy Joel"
+        "Shakira"
       ],
-      "album": "An Innocent Man",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27329c68eb2726f08eca5ba8613",
-      "url": "https://open.spotify.com/track/5zA8vzDGqPl2AzZkEYQGKh",
-      "durationMs": 198294,
-      "playedAt": "2026-10-10T18:27:33.426Z"
+      "album": "Laundry Service",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731f400a1f4d821b00824cf58f",
+      "url": "https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG",
+      "durationMs": 196160,
+      "playedAt": "2026-10-10T23:33:59.629Z"
     },
     {
-      "name": "Suddenly I See",
+      "name": "Do I Do",
       "artists": [
-        "KT Tunstall"
+        "Stevie Wonder"
       ],
-      "album": "Eye To The Telescope",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273183730e8038fa632b2c227da",
-      "url": "https://open.spotify.com/track/5p9XWUdvbUzmPCukOmwoU3",
-      "durationMs": 201706,
-      "playedAt": "2026-10-10T18:24:18.155Z"
+      "album": "The Definitive Collection (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273835ed5fb9b70f46c3177ffde",
+      "url": "https://open.spotify.com/track/4P91jW5QmEkhoLgdMujp82",
+      "durationMs": 303466,
+      "playedAt": "2026-10-10T23:30:46.435Z"
     }
   ],
   "topArtists": [
