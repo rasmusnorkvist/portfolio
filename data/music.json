@@ -1,118 +1,117 @@
 {
-  "updatedAt": "2026-10-11T13:14:59.049Z",
+  "updatedAt": "2026-10-11T18:15:50.405Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Sparven",
+      "name": "Washing Dishes",
       "artists": [
-        "Mando Diao"
+        "Jack Johnson"
       ],
-      "album": "I solnedgången",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
-      "url": "https://open.spotify.com/track/67H1C0aYHM7OsPp16RPzxz",
-      "durationMs": 160226,
-      "playedAt": "2026-10-11T05:06:15.361Z"
+      "album": "From Here To Now To You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273500d7b65ea8d6dbbf133ddcf",
+      "url": "https://open.spotify.com/track/22RxilGS5NSRe2ELlyKeTi",
+      "durationMs": 203946,
+      "playedAt": "2026-10-11T17:04:44.524Z"
     },
     {
-      "name": "Stjärnornas tröst",
+      "name": "Gone",
       "artists": [
-        "Mando Diao"
+        "Jack Johnson"
       ],
-      "album": "I solnedgången",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
-      "url": "https://open.spotify.com/track/5mtpnBo01R6XSkoqzbeXg6",
-      "durationMs": 253613,
-      "playedAt": "2026-10-11T05:03:35.121Z"
+      "album": "On And On",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734a25251f8c645064ebdec45b",
+      "url": "https://open.spotify.com/track/4sX4O9mgw76aWhehf1eSRD",
+      "durationMs": 130013,
+      "playedAt": "2026-10-11T17:01:23.584Z"
     },
     {
-      "name": "Långsamt",
+      "name": "Hold On To The Light",
       "artists": [
-        "Mando Diao"
+        "Jack Johnson",
+        "Hermanos Gutiérrez"
       ],
-      "album": "I solnedgången",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
-      "url": "https://open.spotify.com/track/2nfJpsZufkkdcCCvQATEy0",
-      "durationMs": 235946,
-      "playedAt": "2026-10-11T04:59:21.555Z"
+      "album": "Hold On To The Light",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738ccbcae87f72d59b11d75ce1",
+      "url": "https://open.spotify.com/track/0T4lcpAprQ7CXjNdYCZ3vp",
+      "durationMs": 228000,
+      "playedAt": "2026-10-11T16:59:16.605Z"
     },
     {
-      "name": "Kvällstilla",
+      "name": "Hope",
       "artists": [
-        "Mando Diao"
+        "Jack Johnson"
       ],
-      "album": "I solnedgången",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
-      "url": "https://open.spotify.com/track/2RXlgELrmWBDJ87hKWbAGd",
-      "durationMs": 178800,
-      "playedAt": "2026-10-11T04:55:25.136Z"
+      "album": "Sleep Through The Static",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b7829b13633fc5c243e30d10",
+      "url": "https://open.spotify.com/track/6PLQKVQv6BvZGtHtyJ8CaH",
+      "durationMs": 222240,
+      "playedAt": "2026-10-11T16:55:31.632Z"
     },
     {
-      "name": "I solnedgången",
+      "name": "Taylor",
       "artists": [
-        "Mando Diao"
+        "Jack Johnson"
       ],
-      "album": "I solnedgången",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
-      "url": "https://open.spotify.com/track/3lJMQOHbJ8cAXb7wxSa8jX",
-      "durationMs": 176013,
-      "playedAt": "2026-10-11T04:52:26.364Z"
+      "album": "On And On",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734a25251f8c645064ebdec45b",
+      "url": "https://open.spotify.com/track/1J4YoubtTxLuoKBzRIzHvv",
+      "durationMs": 239280,
+      "playedAt": "2026-10-11T16:51:52.354Z"
     },
     {
-      "name": "Sorgen (med Titiyo)",
+      "name": "Sunsets For Somebody Else",
       "artists": [
-        "Mando Diao",
-        "Titiyo"
+        "Jack Johnson"
       ],
-      "album": "I solnedgången",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
-      "url": "https://open.spotify.com/track/23Rx6yh9IYO95OHUm7crpG",
-      "durationMs": 182587,
-      "playedAt": "2026-10-11T04:49:33.357Z"
+      "album": "All The Light Above It Too",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730501cb2692cca5c4889de1e4",
+      "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y",
+      "durationMs": 210466,
+      "playedAt": "2026-10-11T16:47:56.120Z"
     },
     {
-      "name": "Långsamt (med Titiyo)",
+      "name": "If I Had Eyes",
       "artists": [
-        "Mando Diao",
-        "Titiyo"
+        "Jack Johnson"
       ],
-      "album": "I solnedgången",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
-      "url": "https://open.spotify.com/track/6DwRd90AVeXDNQFFMrKPBk",
-      "durationMs": 234398,
-      "playedAt": "2026-10-11T04:46:30.763Z"
+      "album": "Sleep Through The Static",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b7829b13633fc5c243e30d10",
+      "url": "https://open.spotify.com/track/3FnkZFv7kbxwlgaLgbqeDc",
+      "durationMs": 238813,
+      "playedAt": "2026-10-11T16:42:02.747Z"
     },
     {
-      "name": "Vi lever nu",
+      "name": "Times Like These",
       "artists": [
-        "Mando Diao"
+        "Jack Johnson"
       ],
-      "album": "I solnedgången",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
-      "url": "https://open.spotify.com/track/4arCL4RzPrqFRnvBLkRwUi",
-      "durationMs": 186004,
-      "playedAt": "2026-10-11T04:42:36.354Z"
+      "album": "On And On",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734a25251f8c645064ebdec45b",
+      "url": "https://open.spotify.com/track/4WM22pqXRZkcdrp7alhjsv",
+      "durationMs": 141933,
+      "playedAt": "2026-10-11T16:38:06.948Z"
     },
     {
-      "name": "Vägen hem",
+      "name": "One Step Ahead",
       "artists": [
-        "Mando Diao"
+        "Jack Johnson"
       ],
-      "album": "I solnedgången",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
-      "url": "https://open.spotify.com/track/6kbGrMc4uXI3ojzxMEb65M",
-      "durationMs": 216750,
-      "playedAt": "2026-10-11T04:39:30.356Z"
+      "album": "One Step Ahead",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731153b3088cc28bd2dabc2c5f",
+      "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo",
+      "durationMs": 191647,
+      "playedAt": "2026-10-11T16:35:48.051Z"
     },
     {
-      "name": "Stjärnorna",
+      "name": "Bubble Toes",
       "artists": [
-        "Mando Diao"
+        "Jack Johnson"
       ],
-      "album": "I solnedgången",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734afc2d34c51821d226ca35a1",
-      "url": "https://open.spotify.com/track/6lwDQ5fa94ZoO4RGoXTQdj",
-      "durationMs": 184507,
-      "playedAt": "2026-10-11T04:35:53.659Z"
+      "album": "Brushfire Fairytales (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cb0161f840ee7bb3b9d9cde2",
+      "url": "https://open.spotify.com/track/4vTcPHQlE3zTULythSilu0",
+      "durationMs": 239413,
+      "playedAt": "2026-10-11T16:32:39.448Z"
     }
   ],
   "topArtists": [
