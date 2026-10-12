@@ -1,117 +1,116 @@
 {
-  "updatedAt": "2026-10-11T22:14:41.113Z",
+  "updatedAt": "2026-10-12T01:30:40.957Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Washing Dishes",
+      "name": "Sheepdog",
       "artists": [
-        "Jack Johnson"
+        "Mando Diao"
       ],
-      "album": "From Here To Now To You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273500d7b65ea8d6dbbf133ddcf",
-      "url": "https://open.spotify.com/track/22RxilGS5NSRe2ELlyKeTi",
-      "durationMs": 203946,
-      "playedAt": "2026-10-11T17:04:44.524Z"
+      "album": "Bring 'Em In",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
+      "url": "https://open.spotify.com/track/6FJFopt2OciePAHVkLqu25",
+      "durationMs": 215800,
+      "playedAt": "2026-10-12T00:35:30.751Z"
     },
     {
-      "name": "Gone",
+      "name": "Lauren's Cathedral",
       "artists": [
-        "Jack Johnson"
+        "Mando Diao"
       ],
-      "album": "On And On",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734a25251f8c645064ebdec45b",
-      "url": "https://open.spotify.com/track/4sX4O9mgw76aWhehf1eSRD",
-      "durationMs": 130013,
-      "playedAt": "2026-10-11T17:01:23.584Z"
+      "album": "Bring 'Em In",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
+      "url": "https://open.spotify.com/track/5NlMDXAMUoo0F4nkoET9ct",
+      "durationMs": 241933,
+      "playedAt": "2026-10-12T00:31:57.757Z"
     },
     {
-      "name": "Hold On To The Light",
+      "name": "Bring 'Em In",
       "artists": [
-        "Jack Johnson",
-        "Hermanos Gutiérrez"
+        "Mando Diao"
       ],
-      "album": "Hold On To The Light",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738ccbcae87f72d59b11d75ce1",
-      "url": "https://open.spotify.com/track/0T4lcpAprQ7CXjNdYCZ3vp",
-      "durationMs": 228000,
-      "playedAt": "2026-10-11T16:59:16.605Z"
+      "album": "Bring 'Em In",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
+      "url": "https://open.spotify.com/track/2WT4O7t2aTcqNtB5T6N7WI",
+      "durationMs": 133173,
+      "playedAt": "2026-10-12T00:27:55.837Z"
     },
     {
-      "name": "Hope",
+      "name": "Lady - 2002 Remastered Version",
       "artists": [
-        "Jack Johnson"
+        "Mando Diao"
       ],
-      "album": "Sleep Through The Static",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b7829b13633fc5c243e30d10",
-      "url": "https://open.spotify.com/track/6PLQKVQv6BvZGtHtyJ8CaH",
-      "durationMs": 222240,
-      "playedAt": "2026-10-11T16:55:31.632Z"
+      "album": "Bring 'Em In",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
+      "url": "https://open.spotify.com/track/7Ir3PByqS08XS1OMU72du0",
+      "durationMs": 152333,
+      "playedAt": "2026-10-12T00:25:42.647Z"
     },
     {
-      "name": "Taylor",
+      "name": "Little Boy Jr - 2002 Remastered Version",
       "artists": [
-        "Jack Johnson"
+        "Mando Diao"
       ],
-      "album": "On And On",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734a25251f8c645064ebdec45b",
-      "url": "https://open.spotify.com/track/1J4YoubtTxLuoKBzRIzHvv",
-      "durationMs": 239280,
-      "playedAt": "2026-10-11T16:51:52.354Z"
+      "album": "Bring 'Em In",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
+      "url": "https://open.spotify.com/track/1rYX2if66jABItIFY1Q6I0",
+      "durationMs": 175000,
+      "playedAt": "2026-10-12T00:23:10.448Z"
     },
     {
-      "name": "Sunsets For Somebody Else",
+      "name": "P.U.S.A.",
       "artists": [
-        "Jack Johnson"
+        "Mando Diao"
       ],
-      "album": "All The Light Above It Too",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730501cb2692cca5c4889de1e4",
-      "url": "https://open.spotify.com/track/41Az1BCotlAUt7Ud8k6H2Y",
-      "durationMs": 210466,
-      "playedAt": "2026-10-11T16:47:56.120Z"
+      "album": "Bring 'Em In",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
+      "url": "https://open.spotify.com/track/45KmmAYcIlkFwQ2LqY1Q3V",
+      "durationMs": 158426,
+      "playedAt": "2026-10-12T00:20:15.244Z"
     },
     {
-      "name": "If I Had Eyes",
+      "name": "Paralyzed",
       "artists": [
-        "Jack Johnson"
+        "Mando Diao"
       ],
-      "album": "Sleep Through The Static",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b7829b13633fc5c243e30d10",
-      "url": "https://open.spotify.com/track/3FnkZFv7kbxwlgaLgbqeDc",
-      "durationMs": 238813,
-      "playedAt": "2026-10-11T16:42:02.747Z"
+      "album": "Bring 'Em In",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
+      "url": "https://open.spotify.com/track/37NzIQQ0g5tqjGosrEI9sm",
+      "durationMs": 247973,
+      "playedAt": "2026-10-12T00:17:36.821Z"
     },
     {
-      "name": "Times Like These",
+      "name": "To China with Love",
       "artists": [
-        "Jack Johnson"
+        "Mando Diao"
       ],
-      "album": "On And On",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734a25251f8c645064ebdec45b",
-      "url": "https://open.spotify.com/track/4WM22pqXRZkcdrp7alhjsv",
-      "durationMs": 141933,
-      "playedAt": "2026-10-11T16:38:06.948Z"
+      "album": "Bring 'Em In",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
+      "url": "https://open.spotify.com/track/0RaSlh34dQfjcBoskxs4Wa",
+      "durationMs": 302333,
+      "playedAt": "2026-10-12T00:13:28.845Z"
     },
     {
-      "name": "One Step Ahead",
+      "name": "The Band",
       "artists": [
-        "Jack Johnson"
+        "Mando Diao"
       ],
-      "album": "One Step Ahead",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731153b3088cc28bd2dabc2c5f",
-      "url": "https://open.spotify.com/track/0MbqHR99kNqNrW3vCmSBRo",
-      "durationMs": 191647,
-      "playedAt": "2026-10-11T16:35:48.051Z"
+      "album": "Bring 'Em In",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
+      "url": "https://open.spotify.com/track/1CBlWLtXpZw9s3r6gKOdLy",
+      "durationMs": 195573,
+      "playedAt": "2026-10-12T00:08:25.843Z"
     },
     {
-      "name": "Bubble Toes",
+      "name": "Mr Moon - Remastered",
       "artists": [
-        "Jack Johnson"
+        "Mando Diao"
       ],
-      "album": "Brushfire Fairytales (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cb0161f840ee7bb3b9d9cde2",
-      "url": "https://open.spotify.com/track/4vTcPHQlE3zTULythSilu0",
-      "durationMs": 239413,
-      "playedAt": "2026-10-11T16:32:39.448Z"
+      "album": "Bring 'Em In",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
+      "url": "https://open.spotify.com/track/6mxEhHQUJfafR2brhU7Rak",
+      "durationMs": 209933,
+      "playedAt": "2026-10-12T00:05:08.434Z"
     }
   ],
   "topArtists": [
