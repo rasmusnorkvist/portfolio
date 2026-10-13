@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-13T01:04:52.259Z",
-  "nowPlaying": {
-    "name": "Felicia adjö",
-    "artists": [
-      "Cornelis Vreeswijk"
-    ],
-    "album": "Tio vackra visor och personliga Person",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
-    "url": "https://open.spotify.com/track/1lR6HWPXVXeoUr5gckHELU",
-    "durationMs": 158080,
-    "isPlaying": true,
-    "progressMs": 98067
-  },
+  "updatedAt": "2026-10-13T08:02:20.724Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Felicia adjö",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Tio vackra visor och personliga Person",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
+      "url": "https://open.spotify.com/track/1lR6HWPXVXeoUr5gckHELU",
+      "durationMs": 158080,
+      "playedAt": "2026-10-13T01:05:53.178Z"
+    },
     {
       "name": "Saskia",
       "artists": [
@@ -114,17 +114,6 @@
       "url": "https://open.spotify.com/track/6wewDft59Anfko4X1Ldott",
       "durationMs": 179600,
       "playedAt": "2026-10-13T00:39:48.868Z"
-    },
-    {
-      "name": "Brev från kolonien",
-      "artists": [
-        "Cornelis Vreeswijk"
-      ],
-      "album": "Visor och oförskämdheter",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d8c4872e0a0cb5cccc044c3",
-      "url": "https://open.spotify.com/track/4bl8idKCKkuvOyHRFSWot4",
-      "durationMs": 144866,
-      "playedAt": "2026-10-13T00:36:52.281Z"
     }
   ],
   "topArtists": [
