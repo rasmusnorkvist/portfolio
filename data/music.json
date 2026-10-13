@@ -1,116 +1,130 @@
 {
-  "updatedAt": "2026-10-12T18:32:16.327Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-13T01:04:52.259Z",
+  "nowPlaying": {
+    "name": "Felicia adjö",
+    "artists": [
+      "Cornelis Vreeswijk"
+    ],
+    "album": "Tio vackra visor och personliga Person",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
+    "url": "https://open.spotify.com/track/1lR6HWPXVXeoUr5gckHELU",
+    "durationMs": 158080,
+    "isPlaying": true,
+    "progressMs": 98067
+  },
   "recentlyPlayed": [
     {
-      "name": "Sheepdog",
+      "name": "Saskia",
       "artists": [
-        "Mando Diao"
+        "Cornelis Vreeswijk"
       ],
-      "album": "Bring 'Em In",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
-      "url": "https://open.spotify.com/track/6FJFopt2OciePAHVkLqu25",
-      "durationMs": 215800,
-      "playedAt": "2026-10-12T00:35:30.751Z"
+      "album": "Cornelis klassiker Vol. 1",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e78c705731f38c30df6b0b0",
+      "url": "https://open.spotify.com/track/6riaphXD78vSWshi7GiyKH",
+      "durationMs": 275000,
+      "playedAt": "2026-10-13T01:03:18.178Z"
     },
     {
-      "name": "Lauren's Cathedral",
+      "name": "Grimasch om morgonen",
       "artists": [
-        "Mando Diao"
+        "Cornelis Vreeswijk"
       ],
-      "album": "Bring 'Em In",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
-      "url": "https://open.spotify.com/track/5NlMDXAMUoo0F4nkoET9ct",
-      "durationMs": 241933,
-      "playedAt": "2026-10-12T00:31:57.757Z"
+      "album": "Ballader och grimascher",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d3a1003feb74c9a61c1873c7",
+      "url": "https://open.spotify.com/track/1uTPW0Ba17ipIv0nyGbq7u",
+      "durationMs": 125480,
+      "playedAt": "2026-10-13T00:58:46.079Z"
     },
     {
-      "name": "Bring 'Em In",
+      "name": "Vaggvisa",
       "artists": [
-        "Mando Diao"
+        "Cornelis Vreeswijk"
       ],
-      "album": "Bring 'Em In",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
-      "url": "https://open.spotify.com/track/2WT4O7t2aTcqNtB5T6N7WI",
-      "durationMs": 133173,
-      "playedAt": "2026-10-12T00:27:55.837Z"
+      "album": "Ballader och oförskämdheter",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273702773bb389e12193ec2bf56",
+      "url": "https://open.spotify.com/track/7G6DSfcJNYtbRz0W3bhmCO",
+      "durationMs": 166560,
+      "playedAt": "2026-10-13T00:56:42.873Z"
     },
     {
-      "name": "Lady - 2002 Remastered Version",
+      "name": "Veronica",
       "artists": [
-        "Mando Diao"
+        "Cornelis Vreeswijk"
       ],
-      "album": "Bring 'Em In",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
-      "url": "https://open.spotify.com/track/7Ir3PByqS08XS1OMU72du0",
-      "durationMs": 152333,
-      "playedAt": "2026-10-12T00:25:42.647Z"
+      "album": "Tio vackra visor och personliga Person",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
+      "url": "https://open.spotify.com/track/76FKeAB697JAaZLrZzZZ4p",
+      "durationMs": 185013,
+      "playedAt": "2026-10-13T00:53:58.577Z"
     },
     {
-      "name": "Little Boy Jr - 2002 Remastered Version",
+      "name": "I natt jag drömde något som",
       "artists": [
-        "Mando Diao"
+        "Cornelis Vreeswijk",
+        "Fred Åkerström",
+        "Ann-Louise Hanson"
       ],
-      "album": "Bring 'Em In",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
-      "url": "https://open.spotify.com/track/1rYX2if66jABItIFY1Q6I0",
-      "durationMs": 175000,
-      "playedAt": "2026-10-12T00:23:10.448Z"
+      "album": "Visor och oförskämdheter",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d8c4872e0a0cb5cccc044c3",
+      "url": "https://open.spotify.com/track/12sJzrFo6AKSkhfDmVyavQ",
+      "durationMs": 122000,
+      "playedAt": "2026-10-13T00:50:54.323Z"
     },
     {
-      "name": "P.U.S.A.",
+      "name": "Polaren Per är kärlekskrank",
       "artists": [
-        "Mando Diao"
+        "Cornelis Vreeswijk"
       ],
-      "album": "Bring 'Em In",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
-      "url": "https://open.spotify.com/track/45KmmAYcIlkFwQ2LqY1Q3V",
-      "durationMs": 158426,
-      "playedAt": "2026-10-12T00:20:15.244Z"
+      "album": "Grimascher och telegram",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27320dbd435dab83f29a2cef312",
+      "url": "https://open.spotify.com/track/6TdoQdhklJ3vfoYjoQqJB3",
+      "durationMs": 148173,
+      "playedAt": "2026-10-13T00:48:30.270Z"
     },
     {
-      "name": "Paralyzed",
+      "name": "Deirdres samba",
       "artists": [
-        "Mando Diao"
+        "Cornelis Vreeswijk"
       ],
-      "album": "Bring 'Em In",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
-      "url": "https://open.spotify.com/track/37NzIQQ0g5tqjGosrEI9sm",
-      "durationMs": 247973,
-      "playedAt": "2026-10-12T00:17:36.821Z"
+      "album": "Tio vackra visor och personliga Person",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
+      "url": "https://open.spotify.com/track/2BHwWqwuwcC5Zk6dpThXph",
+      "durationMs": 181800,
+      "playedAt": "2026-10-13T00:46:05.069Z"
     },
     {
-      "name": "To China with Love",
+      "name": "Turistens klagan",
       "artists": [
-        "Mando Diao"
+        "Cornelis Vreeswijk"
       ],
-      "album": "Bring 'Em In",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
-      "url": "https://open.spotify.com/track/0RaSlh34dQfjcBoskxs4Wa",
-      "durationMs": 302333,
-      "playedAt": "2026-10-12T00:13:28.845Z"
+      "album": "Turistens klagan",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bfe8deb32bd4dbe31d35b0be",
+      "url": "https://open.spotify.com/track/5dXdy6YR6lxxC3GxBZcRWv",
+      "durationMs": 200400,
+      "playedAt": "2026-10-13T00:43:06.268Z"
     },
     {
-      "name": "The Band",
+      "name": "Jag hade en gång en båt",
       "artists": [
-        "Mando Diao"
+        "Cornelis Vreeswijk",
+        "Ann-Louise Hanson"
       ],
-      "album": "Bring 'Em In",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
-      "url": "https://open.spotify.com/track/1CBlWLtXpZw9s3r6gKOdLy",
-      "durationMs": 195573,
-      "playedAt": "2026-10-12T00:08:25.843Z"
+      "album": "Grimascher och telegram",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27320dbd435dab83f29a2cef312",
+      "url": "https://open.spotify.com/track/6wewDft59Anfko4X1Ldott",
+      "durationMs": 179600,
+      "playedAt": "2026-10-13T00:39:48.868Z"
     },
     {
-      "name": "Mr Moon - Remastered",
+      "name": "Brev från kolonien",
       "artists": [
-        "Mando Diao"
+        "Cornelis Vreeswijk"
       ],
-      "album": "Bring 'Em In",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f87a60900f0b0d58dcb3d0a",
-      "url": "https://open.spotify.com/track/6mxEhHQUJfafR2brhU7Rak",
-      "durationMs": 209933,
-      "playedAt": "2026-10-12T00:05:08.434Z"
+      "album": "Visor och oförskämdheter",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d8c4872e0a0cb5cccc044c3",
+      "url": "https://open.spotify.com/track/4bl8idKCKkuvOyHRFSWot4",
+      "durationMs": 144866,
+      "playedAt": "2026-10-13T00:36:52.281Z"
     }
   ],
   "topArtists": [
@@ -133,12 +147,6 @@
       "genres": []
     },
     {
-      "name": "Monica Zetterlund",
-      "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
-      "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": []
-    },
-    {
       "name": "Nina Simone",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
       "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
@@ -148,6 +156,12 @@
       "name": "Awon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
       "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
+      "genres": []
+    },
+    {
+      "name": "Monica Zetterlund",
+      "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
+      "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
       "genres": []
     },
     {
@@ -185,26 +199,6 @@
       "durationMs": 148560
     },
     {
-      "name": "Stepp, min stepp",
-      "artists": [
-        "Jan Johansson"
-      ],
-      "album": "Jazz på ryska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273059e1cfa2e6a0b934e63ce79",
-      "url": "https://open.spotify.com/track/4kDOfYVSGIYvOgIS4Lb82H",
-      "durationMs": 224306
-    },
-    {
-      "name": "800°",
-      "artists": [
-        "Ebba Grön"
-      ],
-      "album": "Kärlek och uppror",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351bc0fd3287caac4c3a80bcf",
-      "url": "https://open.spotify.com/track/3zgJHNEorjbLLThp6TiMhz",
-      "durationMs": 227333
-    },
-    {
       "name": "Sakta vi gå genom stan",
       "artists": [
         "Monica Zetterlund"
@@ -225,6 +219,16 @@
       "durationMs": 273800
     },
     {
+      "name": "800°",
+      "artists": [
+        "Ebba Grön"
+      ],
+      "album": "Kärlek och uppror",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351bc0fd3287caac4c3a80bcf",
+      "url": "https://open.spotify.com/track/3zgJHNEorjbLLThp6TiMhz",
+      "durationMs": 227333
+    },
+    {
       "name": "Don't Smoke in Bed (2013 - Remaster)",
       "artists": [
         "Nina Simone"
@@ -243,6 +247,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
       "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN",
       "durationMs": 149330
+    },
+    {
+      "name": "Little Girl Blue (2013 - Remaster)",
+      "artists": [
+        "Nina Simone"
+      ],
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/0fpohcklLKNLo3FyjVjEsE",
+      "durationMs": 257624
     }
   ],
   "featuredPlaylists": []
