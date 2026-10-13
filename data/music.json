@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-13T08:02:20.724Z",
+  "updatedAt": "2026-10-13T16:13:02.096Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Sjuttonde balladen",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Cornelis sjunger Taube",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e32ae3048034e79c68b3ce15",
+      "url": "https://open.spotify.com/track/2csTj5jVZnsfiLzwBLV8hl",
+      "durationMs": 183560,
+      "playedAt": "2026-10-13T15:15:49.724Z"
+    },
     {
       "name": "Felicia adjö",
       "artists": [
@@ -102,18 +113,6 @@
       "url": "https://open.spotify.com/track/5dXdy6YR6lxxC3GxBZcRWv",
       "durationMs": 200400,
       "playedAt": "2026-10-13T00:43:06.268Z"
-    },
-    {
-      "name": "Jag hade en gång en båt",
-      "artists": [
-        "Cornelis Vreeswijk",
-        "Ann-Louise Hanson"
-      ],
-      "album": "Grimascher och telegram",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27320dbd435dab83f29a2cef312",
-      "url": "https://open.spotify.com/track/6wewDft59Anfko4X1Ldott",
-      "durationMs": 179600,
-      "playedAt": "2026-10-13T00:39:48.868Z"
     }
   ],
   "topArtists": [
