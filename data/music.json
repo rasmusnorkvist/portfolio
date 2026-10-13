@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-10-13T16:13:02.096Z",
+  "updatedAt": "2026-10-13T21:23:45.806Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Die Mauer",
+      "artists": [
+        "Ebba Grön"
+      ],
+      "album": "Ebba Grön",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c00a4450e00bf38c32c686dd",
+      "url": "https://open.spotify.com/track/524avnOQAmyULv2CjQAmrn",
+      "durationMs": 244573,
+      "playedAt": "2026-10-13T17:06:37.716Z"
+    },
+    {
+      "name": "Trubbel",
+      "artists": [
+        "Monica Zetterlund"
+      ],
+      "album": "Monica - Monica",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4426c1320b7860dd83d96cb",
+      "url": "https://open.spotify.com/track/7xjucUUNrRgwW49fLmU91q",
+      "durationMs": 264920,
+      "playedAt": "2026-10-13T17:02:36.118Z"
+    },
+    {
+      "name": "Papillas samba",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Tio vackra visor och personliga Person",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
+      "url": "https://open.spotify.com/track/1S4C8o2XSZt26YBBadwqD0",
+      "durationMs": 100973,
+      "playedAt": "2026-10-13T16:58:14.222Z"
+    },
     {
       "name": "Sjuttonde balladen",
       "artists": [
@@ -80,39 +113,6 @@
       "url": "https://open.spotify.com/track/12sJzrFo6AKSkhfDmVyavQ",
       "durationMs": 122000,
       "playedAt": "2026-10-13T00:50:54.323Z"
-    },
-    {
-      "name": "Polaren Per är kärlekskrank",
-      "artists": [
-        "Cornelis Vreeswijk"
-      ],
-      "album": "Grimascher och telegram",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27320dbd435dab83f29a2cef312",
-      "url": "https://open.spotify.com/track/6TdoQdhklJ3vfoYjoQqJB3",
-      "durationMs": 148173,
-      "playedAt": "2026-10-13T00:48:30.270Z"
-    },
-    {
-      "name": "Deirdres samba",
-      "artists": [
-        "Cornelis Vreeswijk"
-      ],
-      "album": "Tio vackra visor och personliga Person",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
-      "url": "https://open.spotify.com/track/2BHwWqwuwcC5Zk6dpThXph",
-      "durationMs": 181800,
-      "playedAt": "2026-10-13T00:46:05.069Z"
-    },
-    {
-      "name": "Turistens klagan",
-      "artists": [
-        "Cornelis Vreeswijk"
-      ],
-      "album": "Turistens klagan",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bfe8deb32bd4dbe31d35b0be",
-      "url": "https://open.spotify.com/track/5dXdy6YR6lxxC3GxBZcRWv",
-      "durationMs": 200400,
-      "playedAt": "2026-10-13T00:43:06.268Z"
     }
   ],
   "topArtists": [
