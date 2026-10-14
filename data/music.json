@@ -1,118 +1,127 @@
 {
-  "updatedAt": "2026-10-13T21:23:45.806Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-14T00:27:08.692Z",
+  "nowPlaying": {
+    "name": "Båtlåt",
+    "artists": [
+      "Robert Broberg"
+    ],
+    "album": "7 Bitar Robban + 7 Bitar Broberg",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f4bab38cbf804f622c996062",
+    "url": "https://open.spotify.com/track/6bZqMRuNHt07wMtmSOQIwx",
+    "durationMs": 142920,
+    "isPlaying": true,
+    "progressMs": 142920
+  },
   "recentlyPlayed": [
     {
-      "name": "Die Mauer",
+      "name": "Båtlåt",
       "artists": [
-        "Ebba Grön"
+        "Robert Broberg"
       ],
-      "album": "Ebba Grön",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c00a4450e00bf38c32c686dd",
-      "url": "https://open.spotify.com/track/524avnOQAmyULv2CjQAmrn",
-      "durationMs": 244573,
-      "playedAt": "2026-10-13T17:06:37.716Z"
+      "album": "7 Bitar Robban + 7 Bitar Broberg",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f4bab38cbf804f622c996062",
+      "url": "https://open.spotify.com/track/6bZqMRuNHt07wMtmSOQIwx",
+      "durationMs": 142920,
+      "playedAt": "2026-10-14T00:24:35.762Z"
     },
     {
-      "name": "Trubbel",
-      "artists": [
-        "Monica Zetterlund"
-      ],
-      "album": "Monica - Monica",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4426c1320b7860dd83d96cb",
-      "url": "https://open.spotify.com/track/7xjucUUNrRgwW49fLmU91q",
-      "durationMs": 264920,
-      "playedAt": "2026-10-13T17:02:36.118Z"
-    },
-    {
-      "name": "Papillas samba",
-      "artists": [
-        "Cornelis Vreeswijk"
-      ],
-      "album": "Tio vackra visor och personliga Person",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
-      "url": "https://open.spotify.com/track/1S4C8o2XSZt26YBBadwqD0",
-      "durationMs": 100973,
-      "playedAt": "2026-10-13T16:58:14.222Z"
-    },
-    {
-      "name": "Sjuttonde balladen",
-      "artists": [
-        "Cornelis Vreeswijk"
-      ],
-      "album": "Cornelis sjunger Taube",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e32ae3048034e79c68b3ce15",
-      "url": "https://open.spotify.com/track/2csTj5jVZnsfiLzwBLV8hl",
-      "durationMs": 183560,
-      "playedAt": "2026-10-13T15:15:49.724Z"
-    },
-    {
-      "name": "Felicia adjö",
-      "artists": [
-        "Cornelis Vreeswijk"
-      ],
-      "album": "Tio vackra visor och personliga Person",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
-      "url": "https://open.spotify.com/track/1lR6HWPXVXeoUr5gckHELU",
-      "durationMs": 158080,
-      "playedAt": "2026-10-13T01:05:53.178Z"
-    },
-    {
-      "name": "Saskia",
-      "artists": [
-        "Cornelis Vreeswijk"
-      ],
-      "album": "Cornelis klassiker Vol. 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e78c705731f38c30df6b0b0",
-      "url": "https://open.spotify.com/track/6riaphXD78vSWshi7GiyKH",
-      "durationMs": 275000,
-      "playedAt": "2026-10-13T01:03:18.178Z"
-    },
-    {
-      "name": "Grimasch om morgonen",
-      "artists": [
-        "Cornelis Vreeswijk"
-      ],
-      "album": "Ballader och grimascher",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d3a1003feb74c9a61c1873c7",
-      "url": "https://open.spotify.com/track/1uTPW0Ba17ipIv0nyGbq7u",
-      "durationMs": 125480,
-      "playedAt": "2026-10-13T00:58:46.079Z"
-    },
-    {
-      "name": "Vaggvisa",
+      "name": "Ballad på en soptipp",
       "artists": [
         "Cornelis Vreeswijk"
       ],
       "album": "Ballader och oförskämdheter",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273702773bb389e12193ec2bf56",
-      "url": "https://open.spotify.com/track/7G6DSfcJNYtbRz0W3bhmCO",
-      "durationMs": 166560,
-      "playedAt": "2026-10-13T00:56:42.873Z"
+      "url": "https://open.spotify.com/track/4KY3w8Hm8dTIqKbUFn9T3z",
+      "durationMs": 156826,
+      "playedAt": "2026-10-14T00:22:15.860Z"
     },
     {
-      "name": "Veronica",
+      "name": "Vill du bli min soptipp",
+      "artists": [
+        "Barbro Hörberg"
+      ],
+      "album": "Gråt i gräset",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273be77bb70b5b349b633c8e27b",
+      "url": "https://open.spotify.com/track/1727M7JssxUF3NPB5outI9",
+      "durationMs": 143533,
+      "playedAt": "2026-10-14T00:19:42.061Z"
+    },
+    {
+      "name": "Visa vid vindens ängar",
+      "artists": [
+        "Mats Paulson"
+      ],
+      "album": "Visor vid vindens ängar",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739159c1c449c1b9f35cc4d5cb",
+      "url": "https://open.spotify.com/track/2f9Wq2T8qty2EmsUMNNPxq",
+      "durationMs": 174946,
+      "playedAt": "2026-10-14T00:17:21.540Z"
+    },
+    {
+      "name": "Vår lilla stad",
+      "artists": [
+        "Eldkvarn"
+      ],
+      "album": "Pluralism",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fc4de9c8ca3d61de646d3e5c",
+      "url": "https://open.spotify.com/track/7fBrGb8SDO1CbQ571xWGV3",
+      "durationMs": 229306,
+      "playedAt": "2026-10-14T00:14:29.570Z"
+    },
+    {
+      "name": "Hon har ett sätt",
+      "artists": [
+        "Jakob Hellman"
+      ],
+      "album": "...och stora havet",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380d8f3d5241e4a5b1fd6b4db",
+      "url": "https://open.spotify.com/track/1nrvksAMsxoiEbUkQyxOXo",
+      "durationMs": 201066,
+      "playedAt": "2026-10-14T00:10:43.361Z"
+    },
+    {
+      "name": "Mördar-Anders",
       "artists": [
         "Cornelis Vreeswijk"
       ],
-      "album": "Tio vackra visor och personliga Person",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
-      "url": "https://open.spotify.com/track/76FKeAB697JAaZLrZzZZ4p",
-      "durationMs": 185013,
-      "playedAt": "2026-10-13T00:53:58.577Z"
-    },
-    {
-      "name": "I natt jag drömde något som",
-      "artists": [
-        "Cornelis Vreeswijk",
-        "Fred Åkerström",
-        "Ann-Louise Hanson"
-      ],
       "album": "Visor och oförskämdheter",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d8c4872e0a0cb5cccc044c3",
-      "url": "https://open.spotify.com/track/12sJzrFo6AKSkhfDmVyavQ",
-      "durationMs": 122000,
-      "playedAt": "2026-10-13T00:50:54.323Z"
+      "url": "https://open.spotify.com/track/45KdAYquxyLj75ajJjSAGp",
+      "durationMs": 124160,
+      "playedAt": "2026-10-14T00:07:25.142Z"
+    },
+    {
+      "name": "Jag ger dig min morgon",
+      "artists": [
+        "Fred Åkerström"
+      ],
+      "album": "Två Tungor",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735db8ca3e78a3da93059cbc3b",
+      "url": "https://open.spotify.com/track/7nBARurNPIRVcf81uOFz3i",
+      "durationMs": 226426,
+      "playedAt": "2026-10-13T22:19:50.533Z"
+    },
+    {
+      "name": "Just idag är jag stark",
+      "artists": [
+        "Kenta"
+      ],
+      "album": "Kenta",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737d87645b7bee75043027bdea",
+      "url": "https://open.spotify.com/track/4TBEx9Vq1TyuVoIope0DMK",
+      "durationMs": 218066,
+      "playedAt": "2026-10-13T22:16:07.171Z"
+    },
+    {
+      "name": "Sakta vi gå genom stan",
+      "artists": [
+        "Monica Zetterlund"
+      ],
+      "album": "Ahh! Monica!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
+      "url": "https://open.spotify.com/track/5gBWGTO2prExy9yVwhUbOU",
+      "durationMs": 202360,
+      "playedAt": "2026-10-13T22:12:31.776Z"
     }
   ],
   "topArtists": [
@@ -159,9 +168,9 @@
       "genres": []
     },
     {
-      "name": "Stevie Wonder",
-      "imageUrl": "https://i.scdn.co/image/c59faacbed7aa770266bad048660810eca204108",
-      "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi",
+      "name": "Cornelis Vreeswijk",
+      "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
+      "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
       "genres": []
     }
   ],
