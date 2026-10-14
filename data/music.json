@@ -1,7 +1,96 @@
 {
-  "updatedAt": "2026-10-14T15:19:31.209Z",
+  "updatedAt": "2026-10-14T19:33:34.603Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Deirdres samba",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Tio vackra visor och personliga Person",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
+      "url": "https://open.spotify.com/track/2BHwWqwuwcC5Zk6dpThXph",
+      "durationMs": 181800,
+      "playedAt": "2026-10-14T18:53:30.170Z"
+    },
+    {
+      "name": "Turistens klagan",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Turistens klagan",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bfe8deb32bd4dbe31d35b0be",
+      "url": "https://open.spotify.com/track/5dXdy6YR6lxxC3GxBZcRWv",
+      "durationMs": 200400,
+      "playedAt": "2026-10-14T18:00:51.394Z"
+    },
+    {
+      "name": "Jag hade en gång en båt",
+      "artists": [
+        "Cornelis Vreeswijk",
+        "Ann-Louise Hanson"
+      ],
+      "album": "Grimascher och telegram",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27320dbd435dab83f29a2cef312",
+      "url": "https://open.spotify.com/track/6wewDft59Anfko4X1Ldott",
+      "durationMs": 179600,
+      "playedAt": "2026-10-14T17:55:22.485Z"
+    },
+    {
+      "name": "Brev från kolonien",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Visor och oförskämdheter",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d8c4872e0a0cb5cccc044c3",
+      "url": "https://open.spotify.com/track/4bl8idKCKkuvOyHRFSWot4",
+      "durationMs": 144866,
+      "playedAt": "2026-10-14T17:52:25.082Z"
+    },
+    {
+      "name": "Sommarkort",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Svenska favoriter",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ccb1e344367953cc1cb53146",
+      "url": "https://open.spotify.com/track/1jnsZtQOt7ygOusWqVEitI",
+      "durationMs": 215866,
+      "playedAt": "2026-10-14T17:50:02.490Z"
+    },
+    {
+      "name": "Balladen om herr Fredrik Åkare och den söta fröken Cecilia Lind",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Grimascher och telegram",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27320dbd435dab83f29a2cef312",
+      "url": "https://open.spotify.com/track/1TANNp5ftjmxJp820cCieS",
+      "durationMs": 176266,
+      "playedAt": "2026-10-14T17:46:29.789Z"
+    },
+    {
+      "name": "Somliga går med trasiga skor",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Tio vackra visor och personliga Person",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
+      "url": "https://open.spotify.com/track/3RziapqS8nr6DiejCtI3cd",
+      "durationMs": 180960,
+      "playedAt": "2026-10-14T17:43:31.153Z"
+    },
+    {
+      "name": "Scarface (Push It To The Limit)",
+      "artists": [
+        "Paul Engemann"
+      ],
+      "album": "Scarface (Expanded Motion Picture Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27397475ef2470f186d30235fe3",
+      "url": "https://open.spotify.com/track/0H6rpW1xnJ8qRQwSrIADPE",
+      "durationMs": 178480,
+      "playedAt": "2026-10-14T17:17:46.044Z"
+    },
     {
       "name": "Regnet det bara öser ner",
       "artists": [
@@ -23,94 +112,6 @@
       "url": "https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu",
       "durationMs": 244720,
       "playedAt": "2026-10-14T15:00:33.012Z"
-    },
-    {
-      "name": "Sultans Of Swing",
-      "artists": [
-        "Dire Straits"
-      ],
-      "album": "Dire Straits",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8",
-      "url": "https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj",
-      "durationMs": 348400,
-      "playedAt": "2026-10-14T04:13:15.090Z"
-    },
-    {
-      "name": "Edge of Seventeen - 2016 Remaster",
-      "artists": [
-        "Stevie Nicks"
-      ],
-      "album": "Bella Donna (2016 Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273af14d74d5e308ce2f3ec22f8",
-      "url": "https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z",
-      "durationMs": 329413,
-      "playedAt": "2026-10-14T04:07:29.707Z"
-    },
-    {
-      "name": "Act Like You Know",
-      "artists": [
-        "Fat Larry's Band"
-      ],
-      "album": "Breakin' Out",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e88a017e11d2dc06ff391761",
-      "url": "https://open.spotify.com/track/1AOacbO5iSMxrGMihq9QDA",
-      "durationMs": 390013,
-      "playedAt": "2026-10-14T04:02:03.310Z"
-    },
-    {
-      "name": "Da Ya Think I'm Sexy?",
-      "artists": [
-        "Rod Stewart"
-      ],
-      "album": "Blondes Have More Fun",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d6806ddfc58bbaa0cb3e9fa5",
-      "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f",
-      "durationMs": 331333,
-      "playedAt": "2026-10-14T03:55:36.313Z"
-    },
-    {
-      "name": "The Way You Make Me Feel - 2012 Remaster",
-      "artists": [
-        "Michael Jackson"
-      ],
-      "album": "Bad (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
-      "url": "https://open.spotify.com/track/76HKOVWqsEg26SECtmw7Rz",
-      "durationMs": 298121,
-      "playedAt": "2026-10-14T03:50:08.010Z"
-    },
-    {
-      "name": "Be My Lover",
-      "artists": [
-        "La Bouche"
-      ],
-      "album": "Sweet Dreams",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d4c3788166b9c4de0921f6b0",
-      "url": "https://open.spotify.com/track/3YB6nCSuFqNiqOvPtAPK9X",
-      "durationMs": 241133,
-      "playedAt": "2026-10-14T03:45:12.925Z"
-    },
-    {
-      "name": "Le Freak - 2018 Remaster",
-      "artists": [
-        "CHIC"
-      ],
-      "album": "C'est Chic (2018 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e37d5190acaf635f06cfcc4b",
-      "url": "https://open.spotify.com/track/7Kszjzps0xbQXyo1pO4KfE",
-      "durationMs": 331360,
-      "playedAt": "2026-10-14T03:41:14.789Z"
-    },
-    {
-      "name": "West End Girls - 2018 Remaster",
-      "artists": [
-        "Pet Shop Boys"
-      ],
-      "album": "Please: Further Listening 1984 - 1986 (2018 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733540f5cb8e1e7a54125f84db",
-      "url": "https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7",
-      "durationMs": 285906,
-      "playedAt": "2026-10-14T03:35:46.468Z"
     }
   ],
   "topArtists": [
@@ -118,43 +119,63 @@
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
+      "genres": [
+        "lo-fi",
+        "lo-fi beats",
+        "jazz beats"
+      ]
     },
     {
       "name": "Nina Simone",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
       "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
-      "genres": []
-    },
-    {
-      "name": "Awon",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
-      "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": []
-    },
-    {
-      "name": "Monica Zetterlund",
-      "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
-      "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": []
+      "genres": [
+        "vocal jazz",
+        "soul jazz",
+        "soul",
+        "jazz"
+      ]
     },
     {
       "name": "Cornelis Vreeswijk",
       "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
       "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
+    },
+    {
+      "name": "Monica Zetterlund",
+      "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
+      "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
+      "genres": [
+        "vocal jazz",
+        "jazz"
+      ]
+    },
+    {
+      "name": "Awon",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
+      "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
+      "genres": [
+        "jazz rap"
+      ]
     },
     {
       "name": "Taylor Swift",
