@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-10-14T10:24:56.093Z",
+  "updatedAt": "2026-10-14T15:19:31.209Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Regnet det bara öser ner",
+      "artists": [
+        "Siw Malmkvist"
+      ],
+      "album": "Underbara Siw",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e3225f946ea256b0e53ab21a",
+      "url": "https://open.spotify.com/track/6Trk1MReZnRGKMiwUAatt9",
+      "durationMs": 144440,
+      "playedAt": "2026-10-14T15:00:40.890Z"
+    },
+    {
+      "name": "Blue Monday '88",
+      "artists": [
+        "New Order"
+      ],
+      "album": "The Best of New Order",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27385e36c64e60da20606d89897",
+      "url": "https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu",
+      "durationMs": 244720,
+      "playedAt": "2026-10-14T15:00:33.012Z"
+    },
     {
       "name": "Sultans Of Swing",
       "artists": [
@@ -89,28 +111,6 @@
       "url": "https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7",
       "durationMs": 285906,
       "playedAt": "2026-10-14T03:35:46.468Z"
-    },
-    {
-      "name": "Rock the Casbah - Remastered",
-      "artists": [
-        "The Clash"
-      ],
-      "album": "Combat Rock (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273280b72ca76b4734debfc190e",
-      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N",
-      "durationMs": 222437,
-      "playedAt": "2026-10-14T03:31:03.564Z"
-    },
-    {
-      "name": "Lay All Your Love On Me",
-      "artists": [
-        "ABBA"
-      ],
-      "album": "Super Trouper",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d08fc99eff4ed52dfce91fa",
-      "url": "https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9",
-      "durationMs": 274466,
-      "playedAt": "2026-10-14T03:27:24.147Z"
     }
   ],
   "topArtists": [
