@@ -1,140 +1,129 @@
 {
-  "updatedAt": "2026-10-14T00:27:08.692Z",
-  "nowPlaying": {
-    "name": "Båtlåt",
-    "artists": [
-      "Robert Broberg"
-    ],
-    "album": "7 Bitar Robban + 7 Bitar Broberg",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f4bab38cbf804f622c996062",
-    "url": "https://open.spotify.com/track/6bZqMRuNHt07wMtmSOQIwx",
-    "durationMs": 142920,
-    "isPlaying": true,
-    "progressMs": 142920
-  },
+  "updatedAt": "2026-10-14T05:13:11.974Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Båtlåt",
+      "name": "Sultans Of Swing",
       "artists": [
-        "Robert Broberg"
+        "Dire Straits"
       ],
-      "album": "7 Bitar Robban + 7 Bitar Broberg",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f4bab38cbf804f622c996062",
-      "url": "https://open.spotify.com/track/6bZqMRuNHt07wMtmSOQIwx",
-      "durationMs": 142920,
-      "playedAt": "2026-10-14T00:24:35.762Z"
+      "album": "Dire Straits",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b49d49cc95564aede7998bb8",
+      "url": "https://open.spotify.com/track/37Tmv4NnfQeb0ZgUC4fOJj",
+      "durationMs": 348400,
+      "playedAt": "2026-10-14T04:13:15.090Z"
     },
     {
-      "name": "Ballad på en soptipp",
+      "name": "Edge of Seventeen - 2016 Remaster",
       "artists": [
-        "Cornelis Vreeswijk"
+        "Stevie Nicks"
       ],
-      "album": "Ballader och oförskämdheter",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273702773bb389e12193ec2bf56",
-      "url": "https://open.spotify.com/track/4KY3w8Hm8dTIqKbUFn9T3z",
-      "durationMs": 156826,
-      "playedAt": "2026-10-14T00:22:15.860Z"
+      "album": "Bella Donna (2016 Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273af14d74d5e308ce2f3ec22f8",
+      "url": "https://open.spotify.com/track/7L3b6iaVhDVjfo52Hbvh9Z",
+      "durationMs": 329413,
+      "playedAt": "2026-10-14T04:07:29.707Z"
     },
     {
-      "name": "Vill du bli min soptipp",
+      "name": "Act Like You Know",
       "artists": [
-        "Barbro Hörberg"
+        "Fat Larry's Band"
       ],
-      "album": "Gråt i gräset",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273be77bb70b5b349b633c8e27b",
-      "url": "https://open.spotify.com/track/1727M7JssxUF3NPB5outI9",
-      "durationMs": 143533,
-      "playedAt": "2026-10-14T00:19:42.061Z"
+      "album": "Breakin' Out",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e88a017e11d2dc06ff391761",
+      "url": "https://open.spotify.com/track/1AOacbO5iSMxrGMihq9QDA",
+      "durationMs": 390013,
+      "playedAt": "2026-10-14T04:02:03.310Z"
     },
     {
-      "name": "Visa vid vindens ängar",
+      "name": "Da Ya Think I'm Sexy?",
       "artists": [
-        "Mats Paulson"
+        "Rod Stewart"
       ],
-      "album": "Visor vid vindens ängar",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739159c1c449c1b9f35cc4d5cb",
-      "url": "https://open.spotify.com/track/2f9Wq2T8qty2EmsUMNNPxq",
-      "durationMs": 174946,
-      "playedAt": "2026-10-14T00:17:21.540Z"
+      "album": "Blondes Have More Fun",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d6806ddfc58bbaa0cb3e9fa5",
+      "url": "https://open.spotify.com/track/4z7maGZkAonDlXlwo8q69f",
+      "durationMs": 331333,
+      "playedAt": "2026-10-14T03:55:36.313Z"
     },
     {
-      "name": "Vår lilla stad",
+      "name": "The Way You Make Me Feel - 2012 Remaster",
       "artists": [
-        "Eldkvarn"
+        "Michael Jackson"
       ],
-      "album": "Pluralism",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fc4de9c8ca3d61de646d3e5c",
-      "url": "https://open.spotify.com/track/7fBrGb8SDO1CbQ571xWGV3",
-      "durationMs": 229306,
-      "playedAt": "2026-10-14T00:14:29.570Z"
+      "album": "Bad (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb2087dcd1eb61f833bdedff",
+      "url": "https://open.spotify.com/track/76HKOVWqsEg26SECtmw7Rz",
+      "durationMs": 298121,
+      "playedAt": "2026-10-14T03:50:08.010Z"
     },
     {
-      "name": "Hon har ett sätt",
+      "name": "Be My Lover",
       "artists": [
-        "Jakob Hellman"
+        "La Bouche"
       ],
-      "album": "...och stora havet",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380d8f3d5241e4a5b1fd6b4db",
-      "url": "https://open.spotify.com/track/1nrvksAMsxoiEbUkQyxOXo",
-      "durationMs": 201066,
-      "playedAt": "2026-10-14T00:10:43.361Z"
+      "album": "Sweet Dreams",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d4c3788166b9c4de0921f6b0",
+      "url": "https://open.spotify.com/track/3YB6nCSuFqNiqOvPtAPK9X",
+      "durationMs": 241133,
+      "playedAt": "2026-10-14T03:45:12.925Z"
     },
     {
-      "name": "Mördar-Anders",
+      "name": "Le Freak - 2018 Remaster",
       "artists": [
-        "Cornelis Vreeswijk"
+        "CHIC"
       ],
-      "album": "Visor och oförskämdheter",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d8c4872e0a0cb5cccc044c3",
-      "url": "https://open.spotify.com/track/45KdAYquxyLj75ajJjSAGp",
-      "durationMs": 124160,
-      "playedAt": "2026-10-14T00:07:25.142Z"
+      "album": "C'est Chic (2018 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e37d5190acaf635f06cfcc4b",
+      "url": "https://open.spotify.com/track/7Kszjzps0xbQXyo1pO4KfE",
+      "durationMs": 331360,
+      "playedAt": "2026-10-14T03:41:14.789Z"
     },
     {
-      "name": "Jag ger dig min morgon",
+      "name": "West End Girls - 2018 Remaster",
       "artists": [
-        "Fred Åkerström"
+        "Pet Shop Boys"
       ],
-      "album": "Två Tungor",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735db8ca3e78a3da93059cbc3b",
-      "url": "https://open.spotify.com/track/7nBARurNPIRVcf81uOFz3i",
-      "durationMs": 226426,
-      "playedAt": "2026-10-13T22:19:50.533Z"
+      "album": "Please: Further Listening 1984 - 1986 (2018 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733540f5cb8e1e7a54125f84db",
+      "url": "https://open.spotify.com/track/2Di0qFNb7ATroCGB3q0Ka7",
+      "durationMs": 285906,
+      "playedAt": "2026-10-14T03:35:46.468Z"
     },
     {
-      "name": "Just idag är jag stark",
+      "name": "Rock the Casbah - Remastered",
       "artists": [
-        "Kenta"
+        "The Clash"
       ],
-      "album": "Kenta",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737d87645b7bee75043027bdea",
-      "url": "https://open.spotify.com/track/4TBEx9Vq1TyuVoIope0DMK",
-      "durationMs": 218066,
-      "playedAt": "2026-10-13T22:16:07.171Z"
+      "album": "Combat Rock (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273280b72ca76b4734debfc190e",
+      "url": "https://open.spotify.com/track/56KqaFSGTb7ifpt16t5Y1N",
+      "durationMs": 222437,
+      "playedAt": "2026-10-14T03:31:03.564Z"
     },
     {
-      "name": "Sakta vi gå genom stan",
+      "name": "Lay All Your Love On Me",
       "artists": [
-        "Monica Zetterlund"
+        "ABBA"
       ],
-      "album": "Ahh! Monica!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
-      "url": "https://open.spotify.com/track/5gBWGTO2prExy9yVwhUbOU",
-      "durationMs": 202360,
-      "playedAt": "2026-10-13T22:12:31.776Z"
+      "album": "Super Trouper",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d08fc99eff4ed52dfce91fa",
+      "url": "https://open.spotify.com/track/4euAGZTszWPrriggYK0HG9",
+      "durationMs": 274466,
+      "playedAt": "2026-10-14T03:27:24.147Z"
     }
   ],
   "topArtists": [
     {
-      "name": "Jan Johansson",
-      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
-      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
-    },
-    {
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
+      "genres": []
+    },
+    {
+      "name": "Jan Johansson",
+      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
+      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
       "genres": []
     },
     {
@@ -162,15 +151,15 @@
       "genres": []
     },
     {
-      "name": "Taylor Swift",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
-      "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
-      "genres": []
-    },
-    {
       "name": "Cornelis Vreeswijk",
       "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
       "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
+      "genres": []
+    },
+    {
+      "name": "Taylor Swift",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
+      "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
       "genres": []
     }
   ],
