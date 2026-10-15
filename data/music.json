@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-10-15T19:57:39.366Z",
+  "updatedAt": "2026-10-15T22:56:37.953Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Vissa har det",
+      "artists": [
+        "Bo Kaspers Orkester"
+      ],
+      "album": "I centrum",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346e406a32597436e120b450",
+      "url": "https://open.spotify.com/track/0MKnAwD5LkC9HdVfxSfIEO",
+      "durationMs": 242573,
+      "playedAt": "2026-10-15T22:49:56.296Z"
+    },
+    {
+      "name": "Cigarrett",
+      "artists": [
+        "Bo Kaspers Orkester"
+      ],
+      "album": "I centrum",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346e406a32597436e120b450",
+      "url": "https://open.spotify.com/track/7zA0WYdYSvWM8jxp39i9jd",
+      "durationMs": 170186,
+      "playedAt": "2026-10-15T22:45:53.691Z"
+    },
     {
       "name": "Semester",
       "artists": [
@@ -89,28 +111,6 @@
       "url": "https://open.spotify.com/track/06e8JNPVkQAVfFnEkf2EFt",
       "durationMs": 256959,
       "playedAt": "2026-10-15T02:16:57.801Z"
-    },
-    {
-      "name": "En jävel vid mitt öra",
-      "artists": [
-        "Bo Kaspers Orkester"
-      ],
-      "album": "I centrum",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346e406a32597436e120b450",
-      "url": "https://open.spotify.com/track/5mAljoLAsa0qk9IC60Cph8",
-      "durationMs": 199520,
-      "playedAt": "2026-10-15T02:12:40.867Z"
-    },
-    {
-      "name": "Allt ljus på mej",
-      "artists": [
-        "Bo Kaspers Orkester"
-      ],
-      "album": "I centrum",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346e406a32597436e120b450",
-      "url": "https://open.spotify.com/track/5CyxEqz7n4hRM7UIA5wIr8",
-      "durationMs": 253440,
-      "playedAt": "2026-10-15T02:06:34.315Z"
     }
   ],
   "topArtists": [
