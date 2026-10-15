@@ -1,117 +1,118 @@
 {
-  "updatedAt": "2026-10-14T22:56:53.615Z",
+  "updatedAt": "2026-10-15T01:15:24.355Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Deirdres samba",
+      "name": "Ballad på en soptipp",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Ballader och oförskämdheter",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273702773bb389e12193ec2bf56",
+      "url": "https://open.spotify.com/track/4KY3w8Hm8dTIqKbUFn9T3z",
+      "durationMs": 156826,
+      "playedAt": "2026-10-15T00:50:11.300Z"
+    },
+    {
+      "name": "Felicia adjö",
       "artists": [
         "Cornelis Vreeswijk"
       ],
       "album": "Tio vackra visor och personliga Person",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
-      "url": "https://open.spotify.com/track/2BHwWqwuwcC5Zk6dpThXph",
-      "durationMs": 181800,
-      "playedAt": "2026-10-14T18:53:30.170Z"
+      "url": "https://open.spotify.com/track/1lR6HWPXVXeoUr5gckHELU",
+      "durationMs": 158080,
+      "playedAt": "2026-10-15T00:47:37.402Z"
     },
     {
-      "name": "Turistens klagan",
+      "name": "Hönan Agda",
       "artists": [
         "Cornelis Vreeswijk"
       ],
-      "album": "Turistens klagan",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bfe8deb32bd4dbe31d35b0be",
-      "url": "https://open.spotify.com/track/5dXdy6YR6lxxC3GxBZcRWv",
-      "durationMs": 200400,
-      "playedAt": "2026-10-14T18:00:51.394Z"
+      "album": "Hönan Agda",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27370386dfcae3c9c4033edcf25",
+      "url": "https://open.spotify.com/track/0o8WvkoOdG9ZgWfMUuRoB0",
+      "durationMs": 165786,
+      "playedAt": "2026-10-15T00:45:01.902Z"
     },
     {
-      "name": "Jag hade en gång en båt",
+      "name": "Sjuttonde balladen",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Cornelis sjunger Taube",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e32ae3048034e79c68b3ce15",
+      "url": "https://open.spotify.com/track/2csTj5jVZnsfiLzwBLV8hl",
+      "durationMs": 183560,
+      "playedAt": "2026-10-15T00:42:18.705Z"
+    },
+    {
+      "name": "Personliga Person",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Tio vackra visor och personliga Person",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
+      "url": "https://open.spotify.com/track/4vAFq7Wtet1XvhvX5iTdVe",
+      "durationMs": 115786,
+      "playedAt": "2026-10-15T00:39:18.099Z"
+    },
+    {
+      "name": "Saskia",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Cornelis klassiker Vol. 1",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e78c705731f38c30df6b0b0",
+      "url": "https://open.spotify.com/track/6riaphXD78vSWshi7GiyKH",
+      "durationMs": 275000,
+      "playedAt": "2026-10-15T00:37:25.346Z"
+    },
+    {
+      "name": "Grimasch om morgonen",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Ballader och grimascher",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d3a1003feb74c9a61c1873c7",
+      "url": "https://open.spotify.com/track/1uTPW0Ba17ipIv0nyGbq7u",
+      "durationMs": 125480,
+      "playedAt": "2026-10-15T00:32:53.338Z"
+    },
+    {
+      "name": "Vaggvisa",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Ballader och oförskämdheter",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273702773bb389e12193ec2bf56",
+      "url": "https://open.spotify.com/track/7G6DSfcJNYtbRz0W3bhmCO",
+      "durationMs": 166560,
+      "playedAt": "2026-10-15T00:30:50.858Z"
+    },
+    {
+      "name": "Veronica",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Tio vackra visor och personliga Person",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
+      "url": "https://open.spotify.com/track/76FKeAB697JAaZLrZzZZ4p",
+      "durationMs": 185013,
+      "playedAt": "2026-10-15T00:28:06.303Z"
+    },
+    {
+      "name": "I natt jag drömde något som",
       "artists": [
         "Cornelis Vreeswijk",
+        "Fred Åkerström",
         "Ann-Louise Hanson"
-      ],
-      "album": "Grimascher och telegram",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27320dbd435dab83f29a2cef312",
-      "url": "https://open.spotify.com/track/6wewDft59Anfko4X1Ldott",
-      "durationMs": 179600,
-      "playedAt": "2026-10-14T17:55:22.485Z"
-    },
-    {
-      "name": "Brev från kolonien",
-      "artists": [
-        "Cornelis Vreeswijk"
       ],
       "album": "Visor och oförskämdheter",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734d8c4872e0a0cb5cccc044c3",
-      "url": "https://open.spotify.com/track/4bl8idKCKkuvOyHRFSWot4",
-      "durationMs": 144866,
-      "playedAt": "2026-10-14T17:52:25.082Z"
-    },
-    {
-      "name": "Sommarkort",
-      "artists": [
-        "Cornelis Vreeswijk"
-      ],
-      "album": "Svenska favoriter",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ccb1e344367953cc1cb53146",
-      "url": "https://open.spotify.com/track/1jnsZtQOt7ygOusWqVEitI",
-      "durationMs": 215866,
-      "playedAt": "2026-10-14T17:50:02.490Z"
-    },
-    {
-      "name": "Balladen om herr Fredrik Åkare och den söta fröken Cecilia Lind",
-      "artists": [
-        "Cornelis Vreeswijk"
-      ],
-      "album": "Grimascher och telegram",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27320dbd435dab83f29a2cef312",
-      "url": "https://open.spotify.com/track/1TANNp5ftjmxJp820cCieS",
-      "durationMs": 176266,
-      "playedAt": "2026-10-14T17:46:29.789Z"
-    },
-    {
-      "name": "Somliga går med trasiga skor",
-      "artists": [
-        "Cornelis Vreeswijk"
-      ],
-      "album": "Tio vackra visor och personliga Person",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
-      "url": "https://open.spotify.com/track/3RziapqS8nr6DiejCtI3cd",
-      "durationMs": 180960,
-      "playedAt": "2026-10-14T17:43:31.153Z"
-    },
-    {
-      "name": "Scarface (Push It To The Limit)",
-      "artists": [
-        "Paul Engemann"
-      ],
-      "album": "Scarface (Expanded Motion Picture Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27397475ef2470f186d30235fe3",
-      "url": "https://open.spotify.com/track/0H6rpW1xnJ8qRQwSrIADPE",
-      "durationMs": 178480,
-      "playedAt": "2026-10-14T17:17:46.044Z"
-    },
-    {
-      "name": "Regnet det bara öser ner",
-      "artists": [
-        "Siw Malmkvist"
-      ],
-      "album": "Underbara Siw",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e3225f946ea256b0e53ab21a",
-      "url": "https://open.spotify.com/track/6Trk1MReZnRGKMiwUAatt9",
-      "durationMs": 144440,
-      "playedAt": "2026-10-14T15:00:40.890Z"
-    },
-    {
-      "name": "Blue Monday '88",
-      "artists": [
-        "New Order"
-      ],
-      "album": "The Best of New Order",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27385e36c64e60da20606d89897",
-      "url": "https://open.spotify.com/track/31MOjWj3CT3dCQsMV2b8Wu",
-      "durationMs": 244720,
-      "playedAt": "2026-10-14T15:00:33.012Z"
+      "url": "https://open.spotify.com/track/12sJzrFo6AKSkhfDmVyavQ",
+      "durationMs": 122000,
+      "playedAt": "2026-10-15T00:25:04.294Z"
     }
   ],
   "topArtists": [
@@ -128,6 +129,12 @@
       "genres": []
     },
     {
+      "name": "Cornelis Vreeswijk",
+      "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
+      "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
+      "genres": []
+    },
+    {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
@@ -137,12 +144,6 @@
       "name": "Nina Simone",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
       "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
-      "genres": []
-    },
-    {
-      "name": "Cornelis Vreeswijk",
-      "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
-      "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
       "genres": []
     },
     {
@@ -196,6 +197,16 @@
       "durationMs": 202360
     },
     {
+      "name": "Somliga går med trasiga skor",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Tio vackra visor och personliga Person",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
+      "url": "https://open.spotify.com/track/3RziapqS8nr6DiejCtI3cd",
+      "durationMs": 180960
+    },
+    {
       "name": "Visa från Utanmyra",
       "artists": [
         "Jan Johansson"
@@ -234,16 +245,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
       "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN",
       "durationMs": 149330
-    },
-    {
-      "name": "Little Girl Blue (2013 - Remaster)",
-      "artists": [
-        "Nina Simone"
-      ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/0fpohcklLKNLo3FyjVjEsE",
-      "durationMs": 257624
     }
   ],
   "featuredPlaylists": []
