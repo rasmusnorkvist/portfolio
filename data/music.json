@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-10-15T16:13:36.905Z",
+  "updatedAt": "2026-10-15T19:57:39.366Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Semester",
+      "artists": [
+        "Bo Kaspers Orkester"
+      ],
+      "album": "I centrum",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346e406a32597436e120b450",
+      "url": "https://open.spotify.com/track/160hD5JOJTqyQGcZPKNLBJ",
+      "durationMs": 218746,
+      "playedAt": "2026-10-15T19:48:10.226Z"
+    },
+    {
+      "name": "En jävel vid mitt öra",
+      "artists": [
+        "Bo Kaspers Orkester"
+      ],
+      "album": "I centrum",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346e406a32597436e120b450",
+      "url": "https://open.spotify.com/track/5mAljoLAsa0qk9IC60Cph8",
+      "durationMs": 199520,
+      "playedAt": "2026-10-15T19:41:16.635Z"
+    },
+    {
+      "name": "En jävel vid mitt öra",
+      "artists": [
+        "Bo Kaspers Orkester"
+      ],
+      "album": "I centrum",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346e406a32597436e120b450",
+      "url": "https://open.spotify.com/track/5mAljoLAsa0qk9IC60Cph8",
+      "durationMs": 199520,
+      "playedAt": "2026-10-15T19:38:40.395Z"
+    },
     {
       "name": "Allt ljus på mej",
       "artists": [
@@ -78,39 +111,6 @@
       "url": "https://open.spotify.com/track/5CyxEqz7n4hRM7UIA5wIr8",
       "durationMs": 253440,
       "playedAt": "2026-10-15T02:06:34.315Z"
-    },
-    {
-      "name": "Önska dig en stilla natt",
-      "artists": [
-        "Bo Kaspers Orkester"
-      ],
-      "album": "I centrum",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346e406a32597436e120b450",
-      "url": "https://open.spotify.com/track/5jxQvPCex1XRlqJP3DJH46",
-      "durationMs": 182053,
-      "playedAt": "2026-10-15T02:02:23.835Z"
-    },
-    {
-      "name": "Finnas bättre till",
-      "artists": [
-        "Bo Kaspers Orkester"
-      ],
-      "album": "I centrum",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346e406a32597436e120b450",
-      "url": "https://open.spotify.com/track/3O8CkBkfjCvSSoPedV2Gbj",
-      "durationMs": 206653,
-      "playedAt": "2026-10-15T01:59:21.778Z"
-    },
-    {
-      "name": "Bröllopsresan",
-      "artists": [
-        "Bo Kaspers Orkester"
-      ],
-      "album": "I centrum",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273346e406a32597436e120b450",
-      "url": "https://open.spotify.com/track/7jxpEx4X0wiLdVlCQn9tAK",
-      "durationMs": 137133,
-      "playedAt": "2026-10-15T01:55:55.133Z"
     }
   ],
   "topArtists": [
@@ -118,63 +118,43 @@
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Cornelis Vreeswijk",
       "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
       "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": [
-        "lo-fi",
-        "lo-fi beats",
-        "jazz beats"
-      ]
+      "genres": []
     },
     {
       "name": "Nina Simone",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
       "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
-      "genres": [
-        "vocal jazz",
-        "soul jazz",
-        "soul",
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": [
-        "vocal jazz",
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Awon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
       "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": [
-        "jazz rap"
-      ]
+      "genres": []
     },
     {
       "name": "Taylor Swift",
