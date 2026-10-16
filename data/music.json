@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-10-16T15:59:56.581Z",
+  "updatedAt": "2026-10-16T19:30:09.963Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Crack Rock",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/5lcyIeEfwZTs8Ajw3kdF7P",
+      "durationMs": 224146,
+      "playedAt": "2026-10-16T16:13:27.169Z"
+    },
+    {
+      "name": "Pilot Jones",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/2ohegz9maxzroKBu9YhcCM",
+      "durationMs": 184080,
+      "playedAt": "2026-10-16T16:09:43.031Z"
+    },
+    {
+      "name": "Super Rich Kids",
+      "artists": [
+        "Frank Ocean",
+        "Earl Sweatshirt"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb",
+      "durationMs": 304760,
+      "playedAt": "2026-10-16T16:06:38.994Z"
+    },
+    {
+      "name": "Not Just Money",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/3iW3y326xuRpNVXzOMBZy5",
+      "durationMs": 59760,
+      "playedAt": "2026-10-16T16:01:34.198Z"
+    },
+    {
+      "name": "Sweet Life",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2",
+      "durationMs": 262680,
+      "playedAt": "2026-10-16T16:00:34.439Z"
+    },
     {
       "name": "Sierra Leone",
       "artists": [
@@ -56,61 +112,6 @@
       "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX",
       "durationMs": 207680,
       "playedAt": "2026-10-16T15:49:00.019Z"
-    },
-    {
-      "name": "Show Me Naomi",
-      "artists": [
-        "Bahamas"
-      ],
-      "album": "Earthtones",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273649eebed9284cc64d167cb2d",
-      "url": "https://open.spotify.com/track/0rCsegz1QF6Z20eP2wvkyM",
-      "durationMs": 230786,
-      "playedAt": "2026-10-16T15:45:35.298Z"
-    },
-    {
-      "name": "(Sittin' On) the Dock of the Bay - Mono",
-      "artists": [
-        "Otis Redding"
-      ],
-      "album": "The Dock of the Bay (Mono)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730acddc8ccf8d14858fbeddf5",
-      "url": "https://open.spotify.com/track/3zBhihYUHBmGd2bcQIobrF",
-      "durationMs": 163755,
-      "playedAt": "2026-10-16T15:41:47.692Z"
-    },
-    {
-      "name": "New Shoes",
-      "artists": [
-        "Paolo Nutini"
-      ],
-      "album": "These Streets",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273280a44b1caee9f2109602c41",
-      "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD",
-      "durationMs": 203653,
-      "playedAt": "2026-10-16T15:39:06.888Z"
-    },
-    {
-      "name": "OK, It's Alright with Me",
-      "artists": [
-        "Eric Hutchinson"
-      ],
-      "album": "Sounds Like This",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27302c7226597f9e4da440764cf",
-      "url": "https://open.spotify.com/track/0sKAZF2T0hD3SfEr0U0rqX",
-      "durationMs": 151506,
-      "playedAt": "2026-10-16T15:35:46.289Z"
-    },
-    {
-      "name": "Listen to the Music",
-      "artists": [
-        "The Doobie Brothers"
-      ],
-      "album": "Toulouse Street",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27391b51fa9b5967fb34c044498",
-      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5",
-      "durationMs": 227266,
-      "playedAt": "2026-10-16T15:31:43.710Z"
     }
   ],
   "topArtists": [
@@ -118,63 +119,43 @@
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Cornelis Vreeswijk",
       "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
       "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": [
-        "lo-fi",
-        "lo-fi beats",
-        "jazz beats"
-      ]
+      "genres": []
     },
     {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": [
-        "vocal jazz",
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Nina Simone",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
       "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
-      "genres": [
-        "vocal jazz",
-        "soul jazz",
-        "soul",
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Awon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
       "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": [
-        "jazz rap"
-      ]
+      "genres": []
     },
     {
       "name": "Taylor Swift",
