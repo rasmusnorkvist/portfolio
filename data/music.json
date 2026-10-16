@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-16T19:30:09.963Z",
+  "updatedAt": "2026-10-16T22:27:32.573Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Pyramids",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ",
+      "durationMs": 592920,
+      "playedAt": "2026-10-16T21:48:05.408Z"
+    },
     {
       "name": "Crack Rock",
       "artists": [
@@ -101,17 +112,6 @@
       "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
       "durationMs": 45640,
       "playedAt": "2026-10-16T15:49:42.612Z"
-    },
-    {
-      "name": "Better Together",
-      "artists": [
-        "Jack Johnson"
-      ],
-      "album": "In Between Dreams",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273628dba01c669d89586967dc5",
-      "url": "https://open.spotify.com/track/2iXdwVdzA0KrI2Q0iZNJbX",
-      "durationMs": 207680,
-      "playedAt": "2026-10-16T15:49:00.019Z"
     }
   ],
   "topArtists": [
