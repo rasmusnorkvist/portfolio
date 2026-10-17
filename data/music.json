@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-10-17T21:22:22.348Z",
-  "nowPlaying": {
-    "name": "Sweet Life",
-    "artists": [
-      "Frank Ocean"
-    ],
-    "album": "channel ORANGE",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-    "url": "https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2",
-    "durationMs": 262680,
-    "isPlaying": true,
-    "progressMs": 136057
-  },
+  "updatedAt": "2026-10-17T23:17:30.357Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
       "name": "Sierra Leone",
