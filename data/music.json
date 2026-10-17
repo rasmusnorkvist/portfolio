@@ -1,74 +1,18 @@
 {
-  "updatedAt": "2026-10-17T18:59:40.806Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-17T21:22:22.348Z",
+  "nowPlaying": {
+    "name": "Sweet Life",
+    "artists": [
+      "Frank Ocean"
+    ],
+    "album": "channel ORANGE",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+    "url": "https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2",
+    "durationMs": 262680,
+    "isPlaying": true,
+    "progressMs": 136057
+  },
   "recentlyPlayed": [
-    {
-      "name": "Pyramids",
-      "artists": [
-        "Frank Ocean"
-      ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ",
-      "durationMs": 592920,
-      "playedAt": "2026-10-16T21:48:05.408Z"
-    },
-    {
-      "name": "Crack Rock",
-      "artists": [
-        "Frank Ocean"
-      ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/5lcyIeEfwZTs8Ajw3kdF7P",
-      "durationMs": 224146,
-      "playedAt": "2026-10-16T16:13:27.169Z"
-    },
-    {
-      "name": "Pilot Jones",
-      "artists": [
-        "Frank Ocean"
-      ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/2ohegz9maxzroKBu9YhcCM",
-      "durationMs": 184080,
-      "playedAt": "2026-10-16T16:09:43.031Z"
-    },
-    {
-      "name": "Super Rich Kids",
-      "artists": [
-        "Frank Ocean",
-        "Earl Sweatshirt"
-      ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb",
-      "durationMs": 304760,
-      "playedAt": "2026-10-16T16:06:38.994Z"
-    },
-    {
-      "name": "Not Just Money",
-      "artists": [
-        "Frank Ocean"
-      ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/3iW3y326xuRpNVXzOMBZy5",
-      "durationMs": 59760,
-      "playedAt": "2026-10-16T16:01:34.198Z"
-    },
-    {
-      "name": "Sweet Life",
-      "artists": [
-        "Frank Ocean"
-      ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2",
-      "durationMs": 262680,
-      "playedAt": "2026-10-16T16:00:34.439Z"
-    },
     {
       "name": "Sierra Leone",
       "artists": [
@@ -78,7 +22,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
       "url": "https://open.spotify.com/track/1HwbgJAU9PZ7YbzKgVgoIF",
       "durationMs": 148760,
-      "playedAt": "2026-10-16T15:56:11.722Z"
+      "playedAt": "2026-10-17T21:20:06.146Z"
     },
     {
       "name": "Fertilizer",
@@ -89,7 +33,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
       "url": "https://open.spotify.com/track/6jypaMkKsoc5npsVzxhksl",
       "durationMs": 39640,
-      "playedAt": "2026-10-16T15:53:43.008Z"
+      "playedAt": "2026-10-17T21:17:37.347Z"
     },
     {
       "name": "Thinkin Bout You",
@@ -100,7 +44,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
       "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau",
       "durationMs": 200746,
-      "playedAt": "2026-10-16T15:53:03.409Z"
+      "playedAt": "2026-10-17T21:16:57.744Z"
     },
     {
       "name": "Start",
@@ -111,7 +55,73 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
       "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
       "durationMs": 45640,
-      "playedAt": "2026-10-16T15:49:42.612Z"
+      "playedAt": "2026-10-17T21:13:36.995Z"
+    },
+    {
+      "name": "Eye of the Tiger",
+      "artists": [
+        "Survivor"
+      ],
+      "album": "Eye Of The Tiger",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27328c091d788ec5126817dc07a",
+      "url": "https://open.spotify.com/track/28P5HAF0Kll9Xd9dX4qw7A",
+      "durationMs": 243773,
+      "playedAt": "2026-10-17T21:11:28.748Z"
+    },
+    {
+      "name": "Back In Black",
+      "artists": [
+        "AC/DC"
+      ],
+      "album": "Back In Black",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ff191d7fbdb5a13eaf84132b",
+      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj",
+      "durationMs": 256000,
+      "playedAt": "2026-10-17T21:07:27.947Z"
+    },
+    {
+      "name": "9 to 5",
+      "artists": [
+        "Dolly Parton"
+      ],
+      "album": "9 To 5 And Odd Jobs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27349cb2d53994caada391cf39e",
+      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG",
+      "durationMs": 166749,
+      "playedAt": "2026-10-17T21:03:15.054Z"
+    },
+    {
+      "name": "Cotton Eye Joe",
+      "artists": [
+        "Power Surge"
+      ],
+      "album": "Cotton Eye Joe",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735092478b68bf224355621cf8",
+      "url": "https://open.spotify.com/track/61MBnjYN4TVeUaFIx0O3hn",
+      "durationMs": 154392,
+      "playedAt": "2026-10-17T21:00:31.244Z"
+    },
+    {
+      "name": "Black Betty",
+      "artists": [
+        "Ram Jam"
+      ],
+      "album": "Ram Jam",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732dae35818253ccb1cd0cd87d",
+      "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN",
+      "durationMs": 240335,
+      "playedAt": "2026-10-17T20:57:59.948Z"
+    },
+    {
+      "name": "Living Next Door to Alice",
+      "artists": [
+        "Smokie"
+      ],
+      "album": "Midnight Café (New Extended Version)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a37d3efdc5cebb5accec23bb",
+      "url": "https://open.spotify.com/track/57TaM8GozkJBz90xvQ1xME",
+      "durationMs": 207173,
+      "playedAt": "2026-10-17T20:54:02.545Z"
     }
   ],
   "topArtists": [
