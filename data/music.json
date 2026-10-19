@@ -1,7 +1,41 @@
 {
-  "updatedAt": "2026-10-19T18:39:43.495Z",
+  "updatedAt": "2026-10-19T22:47:27.835Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Eyes Without A Face",
+      "artists": [
+        "Billy Idol"
+      ],
+      "album": "Rebel Yell",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
+      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS",
+      "durationMs": 299240,
+      "playedAt": "2026-10-19T21:17:43.764Z"
+    },
+    {
+      "name": "A Horse with No Name",
+      "artists": [
+        "America",
+        "George Martin"
+      ],
+      "album": "America",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
+      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt",
+      "durationMs": 252239,
+      "playedAt": "2026-10-19T21:12:43.861Z"
+    },
+    {
+      "name": "Scarface (Push It To The Limit)",
+      "artists": [
+        "Paul Engemann"
+      ],
+      "album": "Scarface (Expanded Motion Picture Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27397475ef2470f186d30235fe3",
+      "url": "https://open.spotify.com/track/0H6rpW1xnJ8qRQwSrIADPE",
+      "durationMs": 178480,
+      "playedAt": "2026-10-19T21:06:16.057Z"
+    },
     {
       "name": "Sweet Life",
       "artists": [
@@ -78,39 +112,6 @@
       "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj",
       "durationMs": 256000,
       "playedAt": "2026-10-17T21:07:27.947Z"
-    },
-    {
-      "name": "9 to 5",
-      "artists": [
-        "Dolly Parton"
-      ],
-      "album": "9 To 5 And Odd Jobs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27349cb2d53994caada391cf39e",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG",
-      "durationMs": 166749,
-      "playedAt": "2026-10-17T21:03:15.054Z"
-    },
-    {
-      "name": "Cotton Eye Joe",
-      "artists": [
-        "Power Surge"
-      ],
-      "album": "Cotton Eye Joe",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735092478b68bf224355621cf8",
-      "url": "https://open.spotify.com/track/61MBnjYN4TVeUaFIx0O3hn",
-      "durationMs": 154392,
-      "playedAt": "2026-10-17T21:00:31.244Z"
-    },
-    {
-      "name": "Black Betty",
-      "artists": [
-        "Ram Jam"
-      ],
-      "album": "Ram Jam",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732dae35818253ccb1cd0cd87d",
-      "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN",
-      "durationMs": 240335,
-      "playedAt": "2026-10-17T20:57:59.948Z"
     }
   ],
   "topArtists": [
@@ -118,63 +119,43 @@
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "Cornelis Vreeswijk",
       "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
       "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": [
-        "lo-fi",
-        "lo-fi beats",
-        "jazz beats"
-      ]
+      "genres": []
     },
     {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": [
-        "vocal jazz",
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Nina Simone",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
       "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
-      "genres": [
-        "vocal jazz",
-        "soul jazz",
-        "soul",
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Awon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
       "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": [
-        "jazz rap"
-      ]
+      "genres": []
     },
     {
       "name": "Taylor Swift",
