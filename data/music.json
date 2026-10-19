@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-19T11:59:26.146Z",
+  "updatedAt": "2026-10-19T18:39:43.495Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Sweet Life",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2",
+      "durationMs": 262680,
+      "playedAt": "2026-10-19T15:08:25.484Z"
+    },
     {
       "name": "Sierra Leone",
       "artists": [
@@ -100,17 +111,6 @@
       "url": "https://open.spotify.com/track/6kooDsorCpWVMGc994XjWN",
       "durationMs": 240335,
       "playedAt": "2026-10-17T20:57:59.948Z"
-    },
-    {
-      "name": "Living Next Door to Alice",
-      "artists": [
-        "Smokie"
-      ],
-      "album": "Midnight Café (New Extended Version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a37d3efdc5cebb5accec23bb",
-      "url": "https://open.spotify.com/track/57TaM8GozkJBz90xvQ1xME",
-      "durationMs": 207173,
-      "playedAt": "2026-10-17T20:54:02.545Z"
     }
   ],
   "topArtists": [
@@ -118,43 +118,63 @@
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": []
-    },
-    {
-      "name": "Jan Johansson",
-      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
-      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Cornelis Vreeswijk",
       "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
       "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
+    },
+    {
+      "name": "Jan Johansson",
+      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
+      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
+      "genres": [
+        "lo-fi",
+        "lo-fi beats",
+        "jazz beats"
+      ]
     },
     {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": []
+      "genres": [
+        "vocal jazz",
+        "jazz"
+      ]
     },
     {
       "name": "Nina Simone",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
       "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
-      "genres": []
+      "genres": [
+        "vocal jazz",
+        "soul jazz",
+        "soul",
+        "jazz"
+      ]
     },
     {
       "name": "Awon",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
       "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": []
+      "genres": [
+        "jazz rap"
+      ]
     },
     {
       "name": "Taylor Swift",
@@ -173,16 +193,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
       "url": "https://open.spotify.com/track/3rlEbh8f1o88gsBFkwV6bh",
       "durationMs": 240610
-    },
-    {
-      "name": "Here I Go Again",
-      "artists": [
-        "Jean Plum"
-      ],
-      "album": "Jean Plum: The Hi Recordings",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f1829d8cf3efbd0500eaa58",
-      "url": "https://open.spotify.com/track/5Xsq9miBRyrcgqtrpcIna3",
-      "durationMs": 148560
     },
     {
       "name": "Sakta vi gå genom stan",
@@ -243,6 +253,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
       "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN",
       "durationMs": 149330
+    },
+    {
+      "name": "Little Girl Blue (2013 - Remaster)",
+      "artists": [
+        "Nina Simone"
+      ],
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/0fpohcklLKNLo3FyjVjEsE",
+      "durationMs": 257624
     }
   ],
   "featuredPlaylists": []
