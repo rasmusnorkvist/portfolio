@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-10-20T01:31:22.417Z",
+  "updatedAt": "2026-10-20T07:05:36.493Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Easy Lover",
+      "artists": [
+        "Philip Bailey",
+        "Phil Collins"
+      ],
+      "album": "Chinese Wall (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c61fd7cba6914924fea49ea9",
+      "url": "https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP",
+      "durationMs": 305866,
+      "playedAt": "2026-10-20T05:33:51.944Z"
+    },
     {
       "name": "Eyes Without A Face",
       "artists": [
@@ -101,17 +113,6 @@
       "url": "https://open.spotify.com/track/28P5HAF0Kll9Xd9dX4qw7A",
       "durationMs": 243773,
       "playedAt": "2026-10-17T21:11:28.748Z"
-    },
-    {
-      "name": "Back In Black",
-      "artists": [
-        "AC/DC"
-      ],
-      "album": "Back In Black",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ff191d7fbdb5a13eaf84132b",
-      "url": "https://open.spotify.com/track/08mG3Y1vljYA6bvDt4Wqkj",
-      "durationMs": 256000,
-      "playedAt": "2026-10-17T21:07:27.947Z"
     }
   ],
   "topArtists": [
@@ -134,12 +135,6 @@
       "genres": []
     },
     {
-      "name": "Jazzinuf",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
-      "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
-    },
-    {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
@@ -152,15 +147,21 @@
       "genres": []
     },
     {
-      "name": "Awon",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebf0a2f6a6a6b0bd539dbe3341",
-      "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf",
-      "genres": []
-    },
-    {
       "name": "Taylor Swift",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
       "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
+      "genres": []
+    },
+    {
+      "name": "Jazzinuf",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
+      "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
+      "genres": []
+    },
+    {
+      "name": "Frank Ocean",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
+      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
       "genres": []
     }
   ],
