@@ -1,118 +1,119 @@
 {
-  "updatedAt": "2026-10-20T21:11:55.104Z",
+  "updatedAt": "2026-10-21T00:00:11.464Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Easy Lover",
+      "name": "Marées",
       "artists": [
-        "Philip Bailey",
-        "Phil Collins"
+        "The Offline"
       ],
-      "album": "Chinese Wall (Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c61fd7cba6914924fea49ea9",
-      "url": "https://open.spotify.com/track/5LYJ631w9ps5h9tdvac7yP",
-      "durationMs": 305866,
-      "playedAt": "2026-10-20T05:33:51.944Z"
+      "album": "Marées / Les derniers jours de juin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27312d4308b2d7927d6f840bb15",
+      "url": "https://open.spotify.com/track/5fDuS45twRg59DaW21Le2X",
+      "durationMs": 165876,
+      "playedAt": "2026-10-20T23:58:25.944Z"
     },
     {
-      "name": "Eyes Without A Face",
+      "name": "Les derniers jours de juin",
       "artists": [
-        "Billy Idol"
+        "The Offline"
       ],
-      "album": "Rebel Yell",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea07dca8b4ca808c1e5b17fb",
-      "url": "https://open.spotify.com/track/0pUVeEgZuNyFzIMKp67RbS",
-      "durationMs": 299240,
-      "playedAt": "2026-10-19T21:17:43.764Z"
+      "album": "Les derniers jours de juin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735322b4afcec3f5b43b84eca0",
+      "url": "https://open.spotify.com/track/3mbqW5jhzklUITouD28MVs",
+      "durationMs": 177413,
+      "playedAt": "2026-10-20T23:55:43.145Z"
     },
     {
-      "name": "A Horse with No Name",
+      "name": "Lola (The Offline's Fleur Tropicale Remix)",
       "artists": [
-        "America",
-        "George Martin"
+        "Tremendous Aron",
+        "The Offline"
       ],
-      "album": "America",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cc2ef2810c85fde8ec60cbc4",
-      "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt",
-      "durationMs": 252239,
-      "playedAt": "2026-10-19T21:12:43.861Z"
+      "album": "Lola (The Offline's Fleur Tropicale Remix)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b0a9282c487a4c2ba180b728",
+      "url": "https://open.spotify.com/track/1VdyrIE6cAQhNfUbNVPDKv",
+      "durationMs": 178114,
+      "playedAt": "2026-10-20T23:52:48.733Z"
     },
     {
-      "name": "Scarface (Push It To The Limit)",
+      "name": "Pour Nael",
       "artists": [
-        "Paul Engemann"
+        "The Offline"
       ],
-      "album": "Scarface (Expanded Motion Picture Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27397475ef2470f186d30235fe3",
-      "url": "https://open.spotify.com/track/0H6rpW1xnJ8qRQwSrIADPE",
-      "durationMs": 178480,
-      "playedAt": "2026-10-19T21:06:16.057Z"
+      "album": "Pour Nael",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731b8982e08cc241f1dcd76179",
+      "url": "https://open.spotify.com/track/38Md01tZil3t14tfZdFPtF",
+      "durationMs": 173180,
+      "playedAt": "2026-10-20T23:49:53.645Z"
     },
     {
-      "name": "Sweet Life",
+      "name": "Le club",
       "artists": [
-        "Frank Ocean"
+        "The Offline"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2",
-      "durationMs": 262680,
-      "playedAt": "2026-10-19T15:08:25.484Z"
+      "album": "Le club",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730a989e590ff6bed2da654442",
+      "url": "https://open.spotify.com/track/07Bg7xotAi2cW8wG59R1OR",
+      "durationMs": 190080,
+      "playedAt": "2026-10-20T23:42:54.859Z"
     },
     {
-      "name": "Sierra Leone",
+      "name": "Cap de l'Homy",
       "artists": [
-        "Frank Ocean"
+        "The Offline"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/1HwbgJAU9PZ7YbzKgVgoIF",
-      "durationMs": 148760,
-      "playedAt": "2026-10-17T21:20:06.146Z"
+      "album": "Cap de l'Homy",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273851272044aa3618f0f4a0468",
+      "url": "https://open.spotify.com/track/0U9LO6t3CakEMmgedHajiy",
+      "durationMs": 207901,
+      "playedAt": "2026-10-20T23:39:47.189Z"
     },
     {
-      "name": "Fertilizer",
+      "name": "Côte des Basques",
       "artists": [
-        "Frank Ocean"
+        "The Offline"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/6jypaMkKsoc5npsVzxhksl",
-      "durationMs": 39640,
-      "playedAt": "2026-10-17T21:17:37.347Z"
+      "album": "En clair-obscur",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737fc927f3db350618ef8f3f65",
+      "url": "https://open.spotify.com/track/5QyvkXWrJWtkbqGgGBTtL2",
+      "durationMs": 188551,
+      "playedAt": "2026-10-20T23:36:21.887Z"
     },
     {
-      "name": "Thinkin Bout You",
+      "name": "Plage des Casernes",
       "artists": [
-        "Frank Ocean"
+        "The Offline"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau",
-      "durationMs": 200746,
-      "playedAt": "2026-10-17T21:16:57.744Z"
+      "album": "Plage des Casernes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bf3dda73b7ca8c478cf7d101",
+      "url": "https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd",
+      "durationMs": 136718,
+      "playedAt": "2026-10-20T23:33:16.352Z"
     },
     {
-      "name": "Start",
+      "name": "Fernweh",
       "artists": [
-        "Frank Ocean"
+        "SHOLTO",
+        "The Offline",
+        "Tom McBrien"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
-      "durationMs": 45640,
-      "playedAt": "2026-10-17T21:13:36.995Z"
+      "album": "Fernweh",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f2d86c1bbddf6cbca6a95f7a",
+      "url": "https://open.spotify.com/track/3Y5BG26Vdcs00UQ6MXA1We",
+      "durationMs": 261274,
+      "playedAt": "2026-10-20T23:31:02.880Z"
     },
     {
-      "name": "Eye of the Tiger",
+      "name": "Les Dunes",
       "artists": [
-        "Survivor"
+        "The Offline"
       ],
-      "album": "Eye Of The Tiger",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27328c091d788ec5126817dc07a",
-      "url": "https://open.spotify.com/track/28P5HAF0Kll9Xd9dX4qw7A",
-      "durationMs": 243773,
-      "playedAt": "2026-10-17T21:11:28.748Z"
+      "album": "Les Dunes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
+      "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
+      "durationMs": 174813,
+      "playedAt": "2026-10-20T23:26:44.158Z"
     }
   ],
   "topArtists": [
