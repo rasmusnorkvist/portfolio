@@ -1,119 +1,118 @@
 {
-  "updatedAt": "2026-10-21T00:00:11.464Z",
+  "updatedAt": "2026-10-21T05:07:00.061Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Marées",
+      "name": "Thème de la couleur de la mer",
       "artists": [
         "The Offline"
       ],
-      "album": "Marées / Les derniers jours de juin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27312d4308b2d7927d6f840bb15",
-      "url": "https://open.spotify.com/track/5fDuS45twRg59DaW21Le2X",
-      "durationMs": 165876,
-      "playedAt": "2026-10-20T23:58:25.944Z"
+      "album": "La couleur de la mer",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27385c1c5b06c659ee3d88fc8e2",
+      "url": "https://open.spotify.com/track/67k84VTIE27g8UxnHDleG0",
+      "durationMs": 230031,
+      "playedAt": "2026-10-21T03:43:37.036Z"
     },
     {
-      "name": "Les derniers jours de juin",
+      "name": "Les cigales",
       "artists": [
         "The Offline"
       ],
-      "album": "Les derniers jours de juin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735322b4afcec3f5b43b84eca0",
-      "url": "https://open.spotify.com/track/3mbqW5jhzklUITouD28MVs",
-      "durationMs": 177413,
-      "playedAt": "2026-10-20T23:55:43.145Z"
+      "album": "Les cigales",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273270767447b431570ef802ffd",
+      "url": "https://open.spotify.com/track/4WZkt9hhHHsDkXQOk5eoKU",
+      "durationMs": 139697,
+      "playedAt": "2026-10-21T03:39:50.035Z"
     },
     {
-      "name": "Lola (The Offline's Fleur Tropicale Remix)",
-      "artists": [
-        "Tremendous Aron",
-        "The Offline"
-      ],
-      "album": "Lola (The Offline's Fleur Tropicale Remix)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b0a9282c487a4c2ba180b728",
-      "url": "https://open.spotify.com/track/1VdyrIE6cAQhNfUbNVPDKv",
-      "durationMs": 178114,
-      "playedAt": "2026-10-20T23:52:48.733Z"
-    },
-    {
-      "name": "Pour Nael",
+      "name": "Les aventuriers (Remix)",
       "artists": [
         "The Offline"
       ],
-      "album": "Pour Nael",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731b8982e08cc241f1dcd76179",
-      "url": "https://open.spotify.com/track/38Md01tZil3t14tfZdFPtF",
-      "durationMs": 173180,
-      "playedAt": "2026-10-20T23:49:53.645Z"
+      "album": "Révisé",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273788d77ed38161cddd0c8a225",
+      "url": "https://open.spotify.com/track/3d132cVMaAkSDEwBVg7ptf",
+      "durationMs": 167670,
+      "playedAt": "2026-10-21T03:37:33.335Z"
     },
     {
-      "name": "Le club",
+      "name": "Nikonos V",
       "artists": [
         "The Offline"
       ],
-      "album": "Le club",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730a989e590ff6bed2da654442",
-      "url": "https://open.spotify.com/track/07Bg7xotAi2cW8wG59R1OR",
-      "durationMs": 190080,
-      "playedAt": "2026-10-20T23:42:54.859Z"
+      "album": "La grande évasion",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732022039cd9e8fb65c6595174",
+      "url": "https://open.spotify.com/track/06drAp2QrCdYUYIeHA8ozj",
+      "durationMs": 166093,
+      "playedAt": "2026-10-21T03:34:48.731Z"
     },
     {
-      "name": "Cap de l'Homy",
+      "name": "Générique",
       "artists": [
         "The Offline"
       ],
-      "album": "Cap de l'Homy",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273851272044aa3618f0f4a0468",
-      "url": "https://open.spotify.com/track/0U9LO6t3CakEMmgedHajiy",
-      "durationMs": 207901,
-      "playedAt": "2026-10-20T23:39:47.189Z"
+      "album": "Les cigales",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273270767447b431570ef802ffd",
+      "url": "https://open.spotify.com/track/6hxL8FjAOO4u0BSXZOu2mD",
+      "durationMs": 135444,
+      "playedAt": "2026-10-21T03:32:05.600Z"
     },
     {
-      "name": "Côte des Basques",
+      "name": "L'eau",
+      "artists": [
+        "The Offline"
+      ],
+      "album": "La couleur de la mer",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27385c1c5b06c659ee3d88fc8e2",
+      "url": "https://open.spotify.com/track/0VtMjFmd6YXgq6pmOulAT3",
+      "durationMs": 166580,
+      "playedAt": "2026-10-21T03:29:53.160Z"
+    },
+    {
+      "name": "Boulevard National",
+      "artists": [
+        "The Offline"
+      ],
+      "album": "La grande évasion",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732022039cd9e8fb65c6595174",
+      "url": "https://open.spotify.com/track/7udyzqKUUV9dew3ek8XIU0",
+      "durationMs": 180182,
+      "playedAt": "2026-10-21T03:27:09.620Z"
+    },
+    {
+      "name": "Milady",
       "artists": [
         "The Offline"
       ],
       "album": "En clair-obscur",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737fc927f3db350618ef8f3f65",
-      "url": "https://open.spotify.com/track/5QyvkXWrJWtkbqGgGBTtL2",
-      "durationMs": 188551,
-      "playedAt": "2026-10-20T23:36:21.887Z"
+      "url": "https://open.spotify.com/track/3rgJyTJt2gCThS9dKUu8vm",
+      "durationMs": 174399,
+      "playedAt": "2026-10-21T03:24:12.401Z"
     },
     {
-      "name": "Plage des Casernes",
+      "name": "Fumée",
       "artists": [
         "The Offline"
       ],
-      "album": "Plage des Casernes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bf3dda73b7ca8c478cf7d101",
-      "url": "https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd",
-      "durationMs": 136718,
-      "playedAt": "2026-10-20T23:33:16.352Z"
+      "album": "Les cigales",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273270767447b431570ef802ffd",
+      "url": "https://open.spotify.com/track/2rk5XGsNRSwcj34ndOtFW7",
+      "durationMs": 155429,
+      "playedAt": "2026-10-21T03:21:21.097Z"
     },
     {
-      "name": "Fernweh",
+      "name": "Ancora Un Secondo Pt. 2",
       "artists": [
-        "SHOLTO",
-        "The Offline",
-        "Tom McBrien"
-      ],
-      "album": "Fernweh",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f2d86c1bbddf6cbca6a95f7a",
-      "url": "https://open.spotify.com/track/3Y5BG26Vdcs00UQ6MXA1We",
-      "durationMs": 261274,
-      "playedAt": "2026-10-20T23:31:02.880Z"
-    },
-    {
-      "name": "Les Dunes",
-      "artists": [
+        "Koralle",
+        "Francesco Giampaoli",
         "The Offline"
       ],
-      "album": "Les Dunes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
-      "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
-      "durationMs": 174813,
-      "playedAt": "2026-10-20T23:26:44.158Z"
+      "album": "Bassona",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27314a2747442a79226266de54c",
+      "url": "https://open.spotify.com/track/1orklx8ntXvf1VTdFbsVuL",
+      "durationMs": 147386,
+      "playedAt": "2026-10-21T03:18:48.591Z"
     }
   ],
   "topArtists": [
@@ -148,6 +147,12 @@
       "genres": []
     },
     {
+      "name": "The Offline",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
+      "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
+      "genres": []
+    },
+    {
       "name": "Taylor Swift",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
       "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
@@ -157,12 +162,6 @@
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
-    },
-    {
-      "name": "Frank Ocean",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
-      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
       "genres": []
     }
   ],
