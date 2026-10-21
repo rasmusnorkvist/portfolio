@@ -1,7 +1,66 @@
 {
-  "updatedAt": "2026-10-21T19:29:47.343Z",
+  "updatedAt": "2026-10-21T22:38:10.318Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Easy",
+      "artists": [
+        "Gotts Street Park",
+        "Celeste"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/4gt2DKBHZr43un4qtlHx5u",
+      "durationMs": 284973,
+      "playedAt": "2026-10-21T21:22:26.166Z"
+    },
+    {
+      "name": "Shape Of America",
+      "artists": [
+        "Gotts Street Park",
+        "Sofia and the Antoinettes"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
+      "durationMs": 209866,
+      "playedAt": "2026-10-21T21:17:25.970Z"
+    },
+    {
+      "name": "Some Birds Don't Fly",
+      "artists": [
+        "Gotts Street Park",
+        "Matt Maltese"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/71wNnpt69XmZS6OMCt19ca",
+      "durationMs": 206480,
+      "playedAt": "2026-10-21T21:13:55.707Z"
+    },
+    {
+      "name": "Nico's Theme",
+      "artists": [
+        "Gotts Street Park"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/4zuMNnWY2jRnkacaf5Ar7L",
+      "durationMs": 167698,
+      "playedAt": "2026-10-21T21:10:29.268Z"
+    },
+    {
+      "name": "Flowers",
+      "artists": [
+        "Gotts Street Park",
+        "Pip Millett"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
+      "durationMs": 205720,
+      "playedAt": "2026-10-21T21:07:41.771Z"
+    },
     {
       "name": "La grande évasion (Thème principal)",
       "artists": [
@@ -56,61 +115,6 @@
       "url": "https://open.spotify.com/track/3d132cVMaAkSDEwBVg7ptf",
       "durationMs": 167670,
       "playedAt": "2026-10-21T03:37:33.335Z"
-    },
-    {
-      "name": "Nikonos V",
-      "artists": [
-        "The Offline"
-      ],
-      "album": "La grande évasion",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732022039cd9e8fb65c6595174",
-      "url": "https://open.spotify.com/track/06drAp2QrCdYUYIeHA8ozj",
-      "durationMs": 166093,
-      "playedAt": "2026-10-21T03:34:48.731Z"
-    },
-    {
-      "name": "Générique",
-      "artists": [
-        "The Offline"
-      ],
-      "album": "Les cigales",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273270767447b431570ef802ffd",
-      "url": "https://open.spotify.com/track/6hxL8FjAOO4u0BSXZOu2mD",
-      "durationMs": 135444,
-      "playedAt": "2026-10-21T03:32:05.600Z"
-    },
-    {
-      "name": "L'eau",
-      "artists": [
-        "The Offline"
-      ],
-      "album": "La couleur de la mer",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27385c1c5b06c659ee3d88fc8e2",
-      "url": "https://open.spotify.com/track/0VtMjFmd6YXgq6pmOulAT3",
-      "durationMs": 166580,
-      "playedAt": "2026-10-21T03:29:53.160Z"
-    },
-    {
-      "name": "Boulevard National",
-      "artists": [
-        "The Offline"
-      ],
-      "album": "La grande évasion",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732022039cd9e8fb65c6595174",
-      "url": "https://open.spotify.com/track/7udyzqKUUV9dew3ek8XIU0",
-      "durationMs": 180182,
-      "playedAt": "2026-10-21T03:27:09.620Z"
-    },
-    {
-      "name": "Milady",
-      "artists": [
-        "The Offline"
-      ],
-      "album": "En clair-obscur",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737fc927f3db350618ef8f3f65",
-      "url": "https://open.spotify.com/track/3rgJyTJt2gCThS9dKUu8vm",
-      "durationMs": 174399,
-      "playedAt": "2026-10-21T03:24:12.401Z"
     }
   ],
   "topArtists": [
@@ -118,37 +122,54 @@
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Cornelis Vreeswijk",
       "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
       "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": []
+      "genres": [
+        "vocal jazz",
+        "jazz"
+      ]
     },
     {
       "name": "Nina Simone",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
       "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
-      "genres": []
+      "genres": [
+        "vocal jazz",
+        "soul jazz",
+        "soul",
+        "jazz"
+      ]
     },
     {
       "name": "The Offline",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
       "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": []
+      "genres": [
+        "jazz house",
+        "jazz beats"
+      ]
     },
     {
       "name": "Taylor Swift",
@@ -160,7 +181,11 @@
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": []
+      "genres": [
+        "lo-fi",
+        "lo-fi beats",
+        "jazz beats"
+      ]
     }
   ],
   "topTracks": [
