@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-10-21T10:25:10.046Z",
+  "updatedAt": "2026-10-21T15:28:03.039Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "La grande évasion (Thème principal)",
+      "artists": [
+        "The Offline"
+      ],
+      "album": "La grande évasion",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732022039cd9e8fb65c6595174",
+      "url": "https://open.spotify.com/track/7cUevhV0sYOqjxsmkNEG2P",
+      "durationMs": 269588,
+      "playedAt": "2026-10-21T15:03:52.267Z"
+    },
+    {
+      "name": "La grande évasion (Thème principal)",
+      "artists": [
+        "The Offline"
+      ],
+      "album": "La grande évasion",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732022039cd9e8fb65c6595174",
+      "url": "https://open.spotify.com/track/7cUevhV0sYOqjxsmkNEG2P",
+      "durationMs": 269588,
+      "playedAt": "2026-10-21T15:00:55.074Z"
+    },
     {
       "name": "Thème de la couleur de la mer",
       "artists": [
@@ -89,30 +111,6 @@
       "url": "https://open.spotify.com/track/3rgJyTJt2gCThS9dKUu8vm",
       "durationMs": 174399,
       "playedAt": "2026-10-21T03:24:12.401Z"
-    },
-    {
-      "name": "Fumée",
-      "artists": [
-        "The Offline"
-      ],
-      "album": "Les cigales",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273270767447b431570ef802ffd",
-      "url": "https://open.spotify.com/track/2rk5XGsNRSwcj34ndOtFW7",
-      "durationMs": 155429,
-      "playedAt": "2026-10-21T03:21:21.097Z"
-    },
-    {
-      "name": "Ancora Un Secondo Pt. 2",
-      "artists": [
-        "Koralle",
-        "Francesco Giampaoli",
-        "The Offline"
-      ],
-      "album": "Bassona",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27314a2747442a79226266de54c",
-      "url": "https://open.spotify.com/track/1orklx8ntXvf1VTdFbsVuL",
-      "durationMs": 147386,
-      "playedAt": "2026-10-21T03:18:48.591Z"
     }
   ],
   "topArtists": [
@@ -120,54 +118,37 @@
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "Cornelis Vreeswijk",
       "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
       "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": [
-        "vocal jazz",
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Nina Simone",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
       "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
-      "genres": [
-        "vocal jazz",
-        "soul jazz",
-        "soul",
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "The Offline",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
       "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": [
-        "jazz house",
-        "jazz beats"
-      ]
+      "genres": []
     },
     {
       "name": "Taylor Swift",
@@ -179,11 +160,7 @@
       "name": "Jazzinuf",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
       "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
-      "genres": [
-        "lo-fi",
-        "lo-fi beats",
-        "jazz beats"
-      ]
+      "genres": []
     }
   ],
   "topTracks": [
