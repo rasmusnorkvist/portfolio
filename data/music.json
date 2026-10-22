@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T01:10:07.467Z",
+  "updatedAt": "2026-10-22T06:21:05.771Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -153,15 +153,15 @@
       "genres": []
     },
     {
-      "name": "Gotts Street Park",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebbe1cb95c7d1d2420acfd71fe",
-      "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y",
+      "name": "Frank Ocean",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
+      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
       "genres": []
     },
     {
-      "name": "Taylor Swift",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
-      "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
+      "name": "Gotts Street Park",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebbe1cb95c7d1d2420acfd71fe",
+      "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y",
       "genres": []
     }
   ],
