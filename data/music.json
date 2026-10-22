@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-10-22T20:42:49.857Z",
+  "updatedAt": "2026-10-22T23:51:35.812Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Between Something and Nothing",
+      "artists": [
+        "The Ocean Blue"
+      ],
+      "album": "The Ocean Blue",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c2539a1fcb74e9b1741cf44b",
+      "url": "https://open.spotify.com/track/1Nm7gI6fbdeUMWSA1YSpEk",
+      "durationMs": 242026,
+      "playedAt": "2026-10-22T23:21:37.868Z"
+    },
+    {
+      "name": "Hong Kong Garden",
+      "artists": [
+        "Siouxsie and the Banshees"
+      ],
+      "album": "The Scream",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cb4e1c73374d57fb79cba06f",
+      "url": "https://open.spotify.com/track/5bxBosfOC3upyOK9tjxZ35",
+      "durationMs": 175906,
+      "playedAt": "2026-10-22T23:11:45.649Z"
+    },
+    {
+      "name": "Damaged Goods",
+      "artists": [
+        "Gang Of Four"
+      ],
+      "album": "Entertainment!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27378c9db7024128f66f303d1ec",
+      "url": "https://open.spotify.com/track/62uw0iWu8jLB4cYBQxjdcm",
+      "durationMs": 207200,
+      "playedAt": "2026-10-22T23:08:52.673Z"
+    },
+    {
+      "name": "Rise - Remastered 2011",
+      "artists": [
+        "Public Image Ltd."
+      ],
+      "album": "Album (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27340d1863ef76161c40763ccfb",
+      "url": "https://open.spotify.com/track/1CvFBy2ZQpFvX4VKCCokHR",
+      "durationMs": 365480,
+      "playedAt": "2026-10-22T23:05:28.555Z"
+    },
     {
       "name": "Lost",
       "artists": [
@@ -68,50 +112,6 @@
       "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb",
       "durationMs": 304760,
       "playedAt": "2026-10-22T00:51:51.009Z"
-    },
-    {
-      "name": "Not Just Money",
-      "artists": [
-        "Frank Ocean"
-      ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/3iW3y326xuRpNVXzOMBZy5",
-      "durationMs": 59760,
-      "playedAt": "2026-10-22T00:46:46.207Z"
-    },
-    {
-      "name": "Sweet Life",
-      "artists": [
-        "Frank Ocean"
-      ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2",
-      "durationMs": 262680,
-      "playedAt": "2026-10-22T00:45:46.458Z"
-    },
-    {
-      "name": "Sierra Leone",
-      "artists": [
-        "Frank Ocean"
-      ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/1HwbgJAU9PZ7YbzKgVgoIF",
-      "durationMs": 148760,
-      "playedAt": "2026-10-22T00:41:23.751Z"
-    },
-    {
-      "name": "Fertilizer",
-      "artists": [
-        "Frank Ocean"
-      ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/6jypaMkKsoc5npsVzxhksl",
-      "durationMs": 39640,
-      "playedAt": "2026-10-22T00:38:55.009Z"
     }
   ],
   "topArtists": [
