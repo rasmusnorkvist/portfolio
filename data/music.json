@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-10-22T12:13:12.020Z",
+  "updatedAt": "2026-10-22T17:27:20.528Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Lost",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723",
+      "durationMs": 234093,
+      "playedAt": "2026-10-22T15:02:44.284Z"
+    },
+    {
+      "name": "Pyramids",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ",
+      "durationMs": 592920,
+      "playedAt": "2026-10-22T14:58:49.633Z"
+    },
+    {
+      "name": "Pyramids",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ",
+      "durationMs": 592920,
+      "playedAt": "2026-10-22T06:26:41.988Z"
+    },
     {
       "name": "Crack Rock",
       "artists": [
@@ -79,40 +112,6 @@
       "url": "https://open.spotify.com/track/6jypaMkKsoc5npsVzxhksl",
       "durationMs": 39640,
       "playedAt": "2026-10-22T00:38:55.009Z"
-    },
-    {
-      "name": "Thinkin Bout You",
-      "artists": [
-        "Frank Ocean"
-      ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau",
-      "durationMs": 200746,
-      "playedAt": "2026-10-22T00:38:15.366Z"
-    },
-    {
-      "name": "Start",
-      "artists": [
-        "Frank Ocean"
-      ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
-      "durationMs": 45640,
-      "playedAt": "2026-10-22T00:34:54.591Z"
-    },
-    {
-      "name": "Wake Me Up",
-      "artists": [
-        "Gotts Street Park",
-        "Olive Jones"
-      ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ",
-      "durationMs": 183520,
-      "playedAt": "2026-10-22T00:30:46.181Z"
     }
   ],
   "topArtists": [
