@@ -1,117 +1,132 @@
 {
-  "updatedAt": "2026-10-22T23:51:35.812Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-23T03:12:21.413Z",
+  "nowPlaying": {
+    "name": "Shape Of America",
+    "artists": [
+      "Gotts Street Park",
+      "Sofia and the Antoinettes"
+    ],
+    "album": "Somewhere Between",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+    "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
+    "durationMs": 209866,
+    "isPlaying": true,
+    "progressMs": 185694
+  },
   "recentlyPlayed": [
     {
-      "name": "Between Something and Nothing",
+      "name": "Some Birds Don't Fly",
       "artists": [
-        "The Ocean Blue"
+        "Gotts Street Park",
+        "Matt Maltese"
       ],
-      "album": "The Ocean Blue",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c2539a1fcb74e9b1741cf44b",
-      "url": "https://open.spotify.com/track/1Nm7gI6fbdeUMWSA1YSpEk",
-      "durationMs": 242026,
-      "playedAt": "2026-10-22T23:21:37.868Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/71wNnpt69XmZS6OMCt19ca",
+      "durationMs": 206480,
+      "playedAt": "2026-10-23T03:09:15.651Z"
     },
     {
-      "name": "Hong Kong Garden",
+      "name": "Nico's Theme",
       "artists": [
-        "Siouxsie and the Banshees"
+        "Gotts Street Park"
       ],
-      "album": "The Scream",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cb4e1c73374d57fb79cba06f",
-      "url": "https://open.spotify.com/track/5bxBosfOC3upyOK9tjxZ35",
-      "durationMs": 175906,
-      "playedAt": "2026-10-22T23:11:45.649Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/4zuMNnWY2jRnkacaf5Ar7L",
+      "durationMs": 167698,
+      "playedAt": "2026-10-23T03:05:49.195Z"
     },
     {
-      "name": "Damaged Goods",
+      "name": "Flowers",
       "artists": [
-        "Gang Of Four"
+        "Gotts Street Park",
+        "Pip Millett"
       ],
-      "album": "Entertainment!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27378c9db7024128f66f303d1ec",
-      "url": "https://open.spotify.com/track/62uw0iWu8jLB4cYBQxjdcm",
-      "durationMs": 207200,
-      "playedAt": "2026-10-22T23:08:52.673Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
+      "durationMs": 205720,
+      "playedAt": "2026-10-23T03:03:01.548Z"
     },
     {
-      "name": "Rise - Remastered 2011",
+      "name": "Wake Me Up",
       "artists": [
-        "Public Image Ltd."
+        "Gotts Street Park",
+        "Olive Jones"
       ],
-      "album": "Album (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27340d1863ef76161c40763ccfb",
-      "url": "https://open.spotify.com/track/1CvFBy2ZQpFvX4VKCCokHR",
-      "durationMs": 365480,
-      "playedAt": "2026-10-22T23:05:28.555Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ",
+      "durationMs": 183520,
+      "playedAt": "2026-10-23T02:59:35.751Z"
     },
     {
-      "name": "Lost",
+      "name": "Soulé",
       "artists": [
-        "Frank Ocean"
+        "Okvsho"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723",
-      "durationMs": 234093,
-      "playedAt": "2026-10-22T15:02:44.284Z"
+      "album": "A place between us",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735f31979569df093b21f393ab",
+      "url": "https://open.spotify.com/track/2j87NREnZw3PL7cfTUn9ct",
+      "durationMs": 191239,
+      "playedAt": "2026-10-23T02:56:31.952Z"
     },
     {
-      "name": "Pyramids",
+      "name": "Flow",
       "artists": [
-        "Frank Ocean"
+        "Sade"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ",
-      "durationMs": 592920,
-      "playedAt": "2026-10-22T14:58:49.633Z"
+      "album": "Lovers Rock",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27320fc6951e4d293707de2434c",
+      "url": "https://open.spotify.com/track/5BhdjbSvgGUwf2I2flmf11",
+      "durationMs": 274266,
+      "playedAt": "2026-10-23T02:53:23.706Z"
     },
     {
-      "name": "Pyramids",
+      "name": "Necking",
       "artists": [
-        "Frank Ocean"
+        "Scone Cash Players"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ",
-      "durationMs": 592920,
-      "playedAt": "2026-10-22T06:26:41.988Z"
+      "album": "Blast Furnace!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a33802b60be81dde6f632293",
+      "url": "https://open.spotify.com/track/1Alpe5Rq01TqhjySRirCE2",
+      "durationMs": 154386,
+      "playedAt": "2026-10-23T02:48:52.449Z"
     },
     {
-      "name": "Crack Rock",
+      "name": "Soul Heaven",
       "artists": [
-        "Frank Ocean"
+        "Syl Johnson"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/5lcyIeEfwZTs8Ajw3kdF7P",
-      "durationMs": 224146,
-      "playedAt": "2026-10-22T00:58:39.309Z"
+      "album": "Complete Mythology",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739f27673e7ab2296640df2355",
+      "url": "https://open.spotify.com/track/2mIx5zFpu1mrFExepZ0xJG",
+      "durationMs": 155546,
+      "playedAt": "2026-10-23T02:46:21.147Z"
     },
     {
-      "name": "Pilot Jones",
+      "name": "Leaves",
       "artists": [
-        "Frank Ocean"
+        "Robohands"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/2ohegz9maxzroKBu9YhcCM",
-      "durationMs": 184080,
-      "playedAt": "2026-10-22T00:54:55.157Z"
+      "album": "Shapes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27329eb7b5f1cd60cfb7b606173",
+      "url": "https://open.spotify.com/track/73IkgFzr63x43UVjKbbOHn",
+      "durationMs": 194400,
+      "playedAt": "2026-10-23T02:43:48.550Z"
     },
     {
-      "name": "Super Rich Kids",
+      "name": "Real Sugar",
       "artists": [
-        "Frank Ocean",
-        "Earl Sweatshirt"
+        "Boy Deco",
+        "Quantum Keys"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb",
-      "durationMs": 304760,
-      "playedAt": "2026-10-22T00:51:51.009Z"
+      "album": "Real Sugar",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e951cdfa1d86c423ccb28415",
+      "url": "https://open.spotify.com/track/3lGCoOvG6RShNrHax0zULi",
+      "durationMs": 161366,
+      "playedAt": "2026-10-23T02:40:37.247Z"
     }
   ],
   "topArtists": [
