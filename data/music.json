@@ -1,7 +1,63 @@
 {
-  "updatedAt": "2026-10-23T18:35:28.220Z",
+  "updatedAt": "2026-10-23T21:49:06.046Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Many Men (Wish Death)",
+      "artists": [
+        "50 Cent"
+      ],
+      "album": "Get Rich Or Die Tryin'",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae",
+      "url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
+      "durationMs": 256240,
+      "playedAt": "2026-10-23T20:29:05.931Z"
+    },
+    {
+      "name": "21 Questions",
+      "artists": [
+        "50 Cent",
+        "Nate Dogg"
+      ],
+      "album": "Get Rich Or Die Tryin'",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae",
+      "url": "https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI",
+      "durationMs": 224440,
+      "playedAt": "2026-10-23T20:24:52.734Z"
+    },
+    {
+      "name": "Just A Lil Bit",
+      "artists": [
+        "50 Cent"
+      ],
+      "album": "The Massacre",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27391f7222996c531b981e7bb3d",
+      "url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9",
+      "durationMs": 237706,
+      "playedAt": "2026-10-23T20:21:11.285Z"
+    },
+    {
+      "name": "In Da Club",
+      "artists": [
+        "50 Cent"
+      ],
+      "album": "Get Rich Or Die Tryin'",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae",
+      "url": "https://open.spotify.com/track/7iL6o9tox1zgHpKUfh9vuC",
+      "durationMs": 193466,
+      "playedAt": "2026-10-23T20:17:15.550Z"
+    },
+    {
+      "name": "End of Time",
+      "artists": [
+        "Olive Jones"
+      ],
+      "album": "For Mary",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e395f1ea180fe7359fa2cdd1",
+      "url": "https://open.spotify.com/track/4aQVmxRFRT0EhGNkLyzUXJ",
+      "durationMs": 226052,
+      "playedAt": "2026-10-23T20:13:46.179Z"
+    },
     {
       "name": "Going Home",
       "artists": [
@@ -58,65 +114,6 @@
       "url": "https://open.spotify.com/track/65vxaTREMiyoqVrUFGz3QN",
       "durationMs": 148186,
       "playedAt": "2026-10-23T17:13:48.286Z"
-    },
-    {
-      "name": "Easy",
-      "artists": [
-        "Gotts Street Park",
-        "Celeste"
-      ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/4gt2DKBHZr43un4qtlHx5u",
-      "durationMs": 284973,
-      "playedAt": "2026-10-23T17:11:20.090Z"
-    },
-    {
-      "name": "Shape Of America",
-      "artists": [
-        "Gotts Street Park",
-        "Sofia and the Antoinettes"
-      ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
-      "durationMs": 209866,
-      "playedAt": "2026-10-23T17:06:35.089Z"
-    },
-    {
-      "name": "Some Birds Don't Fly",
-      "artists": [
-        "Gotts Street Park",
-        "Matt Maltese"
-      ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/71wNnpt69XmZS6OMCt19ca",
-      "durationMs": 206480,
-      "playedAt": "2026-10-23T17:03:05.231Z"
-    },
-    {
-      "name": "Nico's Theme",
-      "artists": [
-        "Gotts Street Park"
-      ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/4zuMNnWY2jRnkacaf5Ar7L",
-      "durationMs": 167698,
-      "playedAt": "2026-10-23T16:59:38.786Z"
-    },
-    {
-      "name": "Flowers",
-      "artists": [
-        "Gotts Street Park",
-        "Pip Millett"
-      ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
-      "durationMs": 205720,
-      "playedAt": "2026-10-23T16:56:51.086Z"
     }
   ],
   "topArtists": [
