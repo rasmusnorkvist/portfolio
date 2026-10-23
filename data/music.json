@@ -1,117 +1,122 @@
 {
-  "updatedAt": "2026-10-23T14:01:50.818Z",
+  "updatedAt": "2026-10-23T18:35:28.220Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Sweet Boy",
+      "name": "Going Home",
       "artists": [
-        "Malcolm Todd"
+        "Gotts Street Park"
       ],
-      "album": "Sweet Boy",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c1f34ecc1929fb59908aad1",
-      "url": "https://open.spotify.com/track/59c2xv2kMzYM6HR9oY6BIa",
-      "durationMs": 180000,
-      "playedAt": "2026-10-23T05:42:57.753Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/0eZ5iXNpg5IqvaUpLdUZZi",
+      "durationMs": 188813,
+      "playedAt": "2026-10-23T17:26:54.075Z"
     },
     {
-      "name": "Close To You",
+      "name": "Slippy",
       "artists": [
-        "Frank Ocean"
+        "Gotts Street Park"
       ],
-      "album": "Blonde",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c5649add07ed3720be9d5526",
-      "url": "https://open.spotify.com/track/1VZLEW5ZfcAbKZ94XQiSZF",
-      "durationMs": 85754,
-      "playedAt": "2026-10-23T05:40:00.763Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/5lajsJI0F911nqOlHfcwc2",
+      "durationMs": 151613,
+      "playedAt": "2026-10-23T17:23:45.190Z"
     },
     {
-      "name": "Japanese Denim",
+      "name": "Don't Give Up",
       "artists": [
-        "Daniel Caesar"
+        "Gotts Street Park",
+        "anaiis"
       ],
-      "album": "Get You - Single",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737465bef53d9e3a27c63c7a1d",
-      "url": "https://open.spotify.com/track/7IVukH71OXfAu3KudrrizN",
-      "durationMs": 270556,
-      "playedAt": "2026-10-23T05:38:38.049Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/4kSjbvKPIEVAG5cc1QDgV3",
+      "durationMs": 267133,
+      "playedAt": "2026-10-23T17:21:13.581Z"
     },
     {
-      "name": "Juna",
+      "name": "Below The Water",
       "artists": [
-        "Clairo"
+        "Gotts Street Park",
+        "Rosie Lowe"
       ],
-      "album": "Charm",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273193c2fafdce8f116b5ca0a78",
-      "url": "https://open.spotify.com/track/2mWfVxEo4xZYDaz0v7hYrN",
-      "durationMs": 195109,
-      "playedAt": "2026-10-23T05:34:10.554Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/2YUHZmPfxWC5dWBgKE5EaC",
+      "durationMs": 178200,
+      "playedAt": "2026-10-23T17:16:46.484Z"
     },
     {
-      "name": "NOBLE",
+      "name": "Lay Low",
       "artists": [
-        "F3miii"
+        "Gotts Street Park"
       ],
-      "album": "NOBLE (Slowed Down)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733e2c1f8bb3f146186e2a1dc5",
-      "url": "https://open.spotify.com/track/4Jsus7N4d8hFB2G9gcRdBv",
-      "durationMs": 185806,
-      "playedAt": "2026-10-23T05:30:58.459Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/65vxaTREMiyoqVrUFGz3QN",
+      "durationMs": 148186,
+      "playedAt": "2026-10-23T17:13:48.286Z"
     },
     {
-      "name": "It's Our Love",
+      "name": "Easy",
       "artists": [
-        "Thee Sacred Souls"
+        "Gotts Street Park",
+        "Celeste"
       ],
-      "album": "Will I See You Again?",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273013c2a2a3ae10543122a4fd7",
-      "url": "https://open.spotify.com/track/4A6zEXlSk7xIIqDh92iZ26",
-      "durationMs": 227906,
-      "playedAt": "2026-10-23T05:27:55.619Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/4gt2DKBHZr43un4qtlHx5u",
+      "durationMs": 284973,
+      "playedAt": "2026-10-23T17:11:20.090Z"
     },
     {
-      "name": "MUTT",
+      "name": "Shape Of America",
       "artists": [
-        "Leon Thomas"
+        "Gotts Street Park",
+        "Sofia and the Antoinettes"
       ],
-      "album": "MUTT",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737fc4fb3453f841652d2e4814",
-      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt",
-      "durationMs": 192933,
-      "playedAt": "2026-10-23T05:24:10.764Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
+      "durationMs": 209866,
+      "playedAt": "2026-10-23T17:06:35.089Z"
     },
     {
-      "name": "ARE WE STILL FRIENDS?",
+      "name": "Some Birds Don't Fly",
       "artists": [
-        "Tyler, The Creator"
+        "Gotts Street Park",
+        "Matt Maltese"
       ],
-      "album": "IGOR",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27330a635de2bb0caa4e26f6abb",
-      "url": "https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai",
-      "durationMs": 265480,
-      "playedAt": "2026-10-23T05:21:00.846Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/71wNnpt69XmZS6OMCt19ca",
+      "durationMs": 206480,
+      "playedAt": "2026-10-23T17:03:05.231Z"
     },
     {
-      "name": "Les",
+      "name": "Nico's Theme",
       "artists": [
-        "Childish Gambino"
+        "Gotts Street Park"
       ],
-      "album": "Camp",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736182cfe2e2a090d125c81dc0",
-      "url": "https://open.spotify.com/track/7ghKr0pCYyPPyp7t1FH8k4",
-      "durationMs": 317293,
-      "playedAt": "2026-10-23T05:16:38.365Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/4zuMNnWY2jRnkacaf5Ar7L",
+      "durationMs": 167698,
+      "playedAt": "2026-10-23T16:59:38.786Z"
     },
     {
-      "name": "drive ME crazy!",
+      "name": "Flowers",
       "artists": [
-        "Lil Yachty",
-        "Diana Gordon"
+        "Gotts Street Park",
+        "Pip Millett"
       ],
-      "album": "Let’s Start Here.",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736f578b21bce56056473da7e6",
-      "url": "https://open.spotify.com/track/6luBKkFUt5wTwz7hpLhp12",
-      "durationMs": 229804,
-      "playedAt": "2026-10-23T05:11:24.064Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
+      "durationMs": 205720,
+      "playedAt": "2026-10-23T16:56:51.086Z"
     }
   ],
   "topArtists": [
@@ -134,15 +139,15 @@
       "genres": []
     },
     {
-      "name": "Frank Ocean",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
-      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
-      "genres": []
-    },
-    {
       "name": "Gotts Street Park",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebbe1cb95c7d1d2420acfd71fe",
       "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y",
+      "genres": []
+    },
+    {
+      "name": "Frank Ocean",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
+      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
       "genres": []
     },
     {
@@ -196,6 +201,17 @@
       "durationMs": 202360
     },
     {
+      "name": "Wake Me Up",
+      "artists": [
+        "Gotts Street Park",
+        "Olive Jones"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ",
+      "durationMs": 183520
+    },
+    {
       "name": "Somliga går med trasiga skor",
       "artists": [
         "Cornelis Vreeswijk"
@@ -234,16 +250,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
       "url": "https://open.spotify.com/track/32wq8cLbp3qaOlkNcDneIT",
       "durationMs": 190370
-    },
-    {
-      "name": "He Needs Me (2013 - Remaster)",
-      "artists": [
-        "Nina Simone"
-      ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN",
-      "durationMs": 149330
     }
   ],
   "featuredPlaylists": []
