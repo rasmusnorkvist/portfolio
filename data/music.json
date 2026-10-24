@@ -1,7 +1,73 @@
 {
-  "updatedAt": "2026-10-24T00:13:22.052Z",
+  "updatedAt": "2026-10-24T04:52:45.895Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Pour Nael",
+      "artists": [
+        "The Offline"
+      ],
+      "album": "Pour Nael",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731b8982e08cc241f1dcd76179",
+      "url": "https://open.spotify.com/track/38Md01tZil3t14tfZdFPtF",
+      "durationMs": 173180,
+      "playedAt": "2026-10-24T03:25:13.246Z"
+    },
+    {
+      "name": "Le club",
+      "artists": [
+        "The Offline"
+      ],
+      "album": "Le club",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730a989e590ff6bed2da654442",
+      "url": "https://open.spotify.com/track/07Bg7xotAi2cW8wG59R1OR",
+      "durationMs": 190080,
+      "playedAt": "2026-10-24T03:22:23.145Z"
+    },
+    {
+      "name": "Cap de l'Homy",
+      "artists": [
+        "The Offline"
+      ],
+      "album": "Cap de l'Homy",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273851272044aa3618f0f4a0468",
+      "url": "https://open.spotify.com/track/0U9LO6t3CakEMmgedHajiy",
+      "durationMs": 207901,
+      "playedAt": "2026-10-24T03:17:42.574Z"
+    },
+    {
+      "name": "Côte des Basques",
+      "artists": [
+        "The Offline"
+      ],
+      "album": "En clair-obscur",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737fc927f3db350618ef8f3f65",
+      "url": "https://open.spotify.com/track/5QyvkXWrJWtkbqGgGBTtL2",
+      "durationMs": 188551,
+      "playedAt": "2026-10-24T03:14:17.650Z"
+    },
+    {
+      "name": "Plage des Casernes",
+      "artists": [
+        "The Offline"
+      ],
+      "album": "Plage des Casernes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bf3dda73b7ca8c478cf7d101",
+      "url": "https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd",
+      "durationMs": 136718,
+      "playedAt": "2026-10-24T03:11:12.086Z"
+    },
+    {
+      "name": "Les Dunes",
+      "artists": [
+        "The Offline"
+      ],
+      "album": "Les Dunes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
+      "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
+      "durationMs": 174813,
+      "playedAt": "2026-10-24T03:08:43.719Z"
+    },
     {
       "name": "Many Men (Wish Death)",
       "artists": [
@@ -46,74 +112,6 @@
       "url": "https://open.spotify.com/track/7iL6o9tox1zgHpKUfh9vuC",
       "durationMs": 193466,
       "playedAt": "2026-10-23T20:17:15.550Z"
-    },
-    {
-      "name": "End of Time",
-      "artists": [
-        "Olive Jones"
-      ],
-      "album": "For Mary",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e395f1ea180fe7359fa2cdd1",
-      "url": "https://open.spotify.com/track/4aQVmxRFRT0EhGNkLyzUXJ",
-      "durationMs": 226052,
-      "playedAt": "2026-10-23T20:13:46.179Z"
-    },
-    {
-      "name": "Going Home",
-      "artists": [
-        "Gotts Street Park"
-      ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/0eZ5iXNpg5IqvaUpLdUZZi",
-      "durationMs": 188813,
-      "playedAt": "2026-10-23T17:26:54.075Z"
-    },
-    {
-      "name": "Slippy",
-      "artists": [
-        "Gotts Street Park"
-      ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/5lajsJI0F911nqOlHfcwc2",
-      "durationMs": 151613,
-      "playedAt": "2026-10-23T17:23:45.190Z"
-    },
-    {
-      "name": "Don't Give Up",
-      "artists": [
-        "Gotts Street Park",
-        "anaiis"
-      ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/4kSjbvKPIEVAG5cc1QDgV3",
-      "durationMs": 267133,
-      "playedAt": "2026-10-23T17:21:13.581Z"
-    },
-    {
-      "name": "Below The Water",
-      "artists": [
-        "Gotts Street Park",
-        "Rosie Lowe"
-      ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/2YUHZmPfxWC5dWBgKE5EaC",
-      "durationMs": 178200,
-      "playedAt": "2026-10-23T17:16:46.484Z"
-    },
-    {
-      "name": "Lay Low",
-      "artists": [
-        "Gotts Street Park"
-      ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/65vxaTREMiyoqVrUFGz3QN",
-      "durationMs": 148186,
-      "playedAt": "2026-10-23T17:13:48.286Z"
     }
   ],
   "topArtists": [
@@ -133,6 +131,12 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
+      "genres": []
+    },
+    {
+      "name": "The Offline",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
+      "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
       "genres": []
     },
     {
@@ -157,12 +161,6 @@
       "name": "Nina Simone",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
       "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
-      "genres": []
-    },
-    {
-      "name": "The Offline",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
-      "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
       "genres": []
     }
   ],
@@ -239,14 +237,14 @@
       "durationMs": 227333
     },
     {
-      "name": "Don't Smoke in Bed (2013 - Remaster)",
+      "name": "Les Dunes",
       "artists": [
-        "Nina Simone"
+        "The Offline"
       ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/32wq8cLbp3qaOlkNcDneIT",
-      "durationMs": 190370
+      "album": "Les Dunes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
+      "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
+      "durationMs": 174813
     }
   ],
   "featuredPlaylists": []
