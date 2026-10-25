@@ -1,18 +1,101 @@
 {
-  "updatedAt": "2026-10-25T17:22:46.004Z",
-  "nowPlaying": {
-    "name": "Come Rain or Come Shine",
-    "artists": [
-      "Ray Charles"
-    ],
-    "album": "The Genius Of Ray Charles",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738f2418e3530490ec789a31f0",
-    "url": "https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU",
-    "durationMs": 221520,
-    "isPlaying": true,
-    "progressMs": 97627
-  },
+  "updatedAt": "2026-10-25T19:50:36.486Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Easy",
+      "artists": [
+        "Gotts Street Park",
+        "Celeste"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/4gt2DKBHZr43un4qtlHx5u",
+      "durationMs": 284973,
+      "playedAt": "2026-10-25T17:56:07.275Z"
+    },
+    {
+      "name": "Shape Of America",
+      "artists": [
+        "Gotts Street Park",
+        "Sofia and the Antoinettes"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
+      "durationMs": 209866,
+      "playedAt": "2026-10-25T17:51:22.315Z"
+    },
+    {
+      "name": "Some Birds Don't Fly",
+      "artists": [
+        "Gotts Street Park",
+        "Matt Maltese"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/71wNnpt69XmZS6OMCt19ca",
+      "durationMs": 206480,
+      "playedAt": "2026-10-25T17:47:52.417Z"
+    },
+    {
+      "name": "Nico's Theme",
+      "artists": [
+        "Gotts Street Park"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/4zuMNnWY2jRnkacaf5Ar7L",
+      "durationMs": 167698,
+      "playedAt": "2026-10-25T17:44:25.917Z"
+    },
+    {
+      "name": "Flowers",
+      "artists": [
+        "Gotts Street Park",
+        "Pip Millett"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
+      "durationMs": 205720,
+      "playedAt": "2026-10-25T17:41:38.217Z"
+    },
+    {
+      "name": "Wake Me Up",
+      "artists": [
+        "Gotts Street Park",
+        "Olive Jones"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ",
+      "durationMs": 183520,
+      "playedAt": "2026-10-25T17:38:12.517Z"
+    },
+    {
+      "name": "Fool That I Am",
+      "artists": [
+        "Etta James",
+        "Riley Hampton"
+      ],
+      "album": "Milestones of Legends - Female Blues Singers, Vol. 7",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734392cae481caebdf33d35502",
+      "url": "https://open.spotify.com/track/7C90CrGVHFsMyxrfTraPf5",
+      "durationMs": 178066,
+      "playedAt": "2026-10-25T17:27:44.900Z"
+    },
+    {
+      "name": "Come Rain or Come Shine",
+      "artists": [
+        "Ray Charles"
+      ],
+      "album": "The Genius Of Ray Charles",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738f2418e3530490ec789a31f0",
+      "url": "https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU",
+      "durationMs": 221520,
+      "playedAt": "2026-10-25T17:24:49.826Z"
+    },
     {
       "name": "Nobody Knows You When You're Down And Out",
       "artists": [
@@ -34,95 +117,6 @@
       "url": "https://open.spotify.com/track/4jeEaCq9omzcX5cOFKhT5O",
       "durationMs": 260106,
       "playedAt": "2026-10-25T17:18:36.223Z"
-    },
-    {
-      "name": "I'm Gonna Tear Your Playhouse Down",
-      "artists": [
-        "Ann Peebles"
-      ],
-      "album": "I Can't Stand the Rain",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273943b4cc92b7af0f22190eaef",
-      "url": "https://open.spotify.com/track/62i5IYsfk28UiViWTeEw2x",
-      "durationMs": 165040,
-      "playedAt": "2026-10-25T17:14:19.095Z"
-    },
-    {
-      "name": "You Go to My Head",
-      "artists": [
-        "Billie Holiday"
-      ],
-      "album": "Billie Holiday - Album Nr. 3: Studio Highlights and the Legendary Cologne Concert (1954) [2015 Digital Remaster]",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f7f96801acd61d0be82f8d5d",
-      "url": "https://open.spotify.com/track/5W4AX4iOO3d3L5YmRV65DJ",
-      "durationMs": 173869,
-      "playedAt": "2026-10-25T17:11:37.003Z"
-    },
-    {
-      "name": "Cigarettes and Coffee",
-      "artists": [
-        "Otis Redding"
-      ],
-      "album": "The Soul Album",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734b56389fb1e78b2b3ab443d8",
-      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9",
-      "durationMs": 240800,
-      "playedAt": "2026-10-25T17:08:46.198Z"
-    },
-    {
-      "name": "He Needs Me (2013 - Remaster)",
-      "artists": [
-        "Nina Simone"
-      ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN",
-      "durationMs": 149330,
-      "playedAt": "2026-10-25T17:04:48.412Z"
-    },
-    {
-      "name": "Amami (feat. Minami Kizuki)",
-      "artists": [
-        "Yussef Dayes",
-        "Minami Kizuki"
-      ],
-      "album": "Amami (feat. Minami Kizuki)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4b42e7796f032d1e074f091",
-      "url": "https://open.spotify.com/track/4LgM9jizqppslT1cYDeUZT",
-      "durationMs": 324480,
-      "playedAt": "2026-10-25T17:02:08.667Z"
-    },
-    {
-      "name": "Night Aïr",
-      "artists": [
-        "Yuuf"
-      ],
-      "album": "Mt. Sava",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737f7633a982badc20ffcd8b03",
-      "url": "https://open.spotify.com/track/0IaXvMnJh17FS2tdT3BzO4",
-      "durationMs": 193165,
-      "playedAt": "2026-10-25T04:01:46.292Z"
-    },
-    {
-      "name": "White Gloves ii",
-      "artists": [
-        "Khruangbin"
-      ],
-      "album": "The Universe Smiles Upon You ii",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ecc9c792f2ccc2afe81d1d9",
-      "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp",
-      "durationMs": 291190,
-      "playedAt": "2026-10-25T03:58:36.274Z"
-    },
-    {
-      "name": "Yves",
-      "artists": [
-        "Sinj Clarke"
-      ],
-      "album": "The Height Of Love",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bef986dea7aead497b8a5799",
-      "url": "https://open.spotify.com/track/3z7Mp23eVaUfozgKOBfqGJ",
-      "durationMs": 319669,
-      "playedAt": "2026-10-25T03:53:47.976Z"
     }
   ],
   "topArtists": [
@@ -139,9 +133,9 @@
       "genres": []
     },
     {
-      "name": "Jan Johansson",
-      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
-      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
+      "name": "Gotts Street Park",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebbe1cb95c7d1d2420acfd71fe",
+      "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y",
       "genres": []
     },
     {
@@ -151,15 +145,15 @@
       "genres": []
     },
     {
-      "name": "Gotts Street Park",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebbe1cb95c7d1d2420acfd71fe",
-      "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y",
-      "genres": []
-    },
-    {
       "name": "Frank Ocean",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
       "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
+      "genres": []
+    },
+    {
+      "name": "Nina Simone",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
+      "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
       "genres": []
     },
     {
@@ -169,9 +163,9 @@
       "genres": []
     },
     {
-      "name": "Nina Simone",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
-      "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
+      "name": "Jan Johansson",
+      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
+      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
       "genres": []
     }
   ],
@@ -185,6 +179,17 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
       "url": "https://open.spotify.com/track/3rlEbh8f1o88gsBFkwV6bh",
       "durationMs": 240610
+    },
+    {
+      "name": "Wake Me Up",
+      "artists": [
+        "Gotts Street Park",
+        "Olive Jones"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ",
+      "durationMs": 183520
     },
     {
       "name": "Start",
@@ -207,17 +212,6 @@
       "durationMs": 202360
     },
     {
-      "name": "Wake Me Up",
-      "artists": [
-        "Gotts Street Park",
-        "Olive Jones"
-      ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ",
-      "durationMs": 183520
-    },
-    {
       "name": "Somliga går med trasiga skor",
       "artists": [
         "Cornelis Vreeswijk"
@@ -228,14 +222,15 @@
       "durationMs": 180960
     },
     {
-      "name": "Visa från Utanmyra",
+      "name": "Flowers",
       "artists": [
-        "Jan Johansson"
+        "Gotts Street Park",
+        "Pip Millett"
       ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
-      "durationMs": 273800
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
+      "durationMs": 205720
     },
     {
       "name": "800°",
@@ -248,14 +243,14 @@
       "durationMs": 227333
     },
     {
-      "name": "Les Dunes",
+      "name": "Visa från Utanmyra",
       "artists": [
-        "The Offline"
+        "Jan Johansson"
       ],
-      "album": "Les Dunes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
-      "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
-      "durationMs": 174813
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800
     }
   ],
   "featuredPlaylists": []
