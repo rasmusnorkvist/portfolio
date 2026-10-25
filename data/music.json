@@ -1,7 +1,53 @@
 {
-  "updatedAt": "2026-10-24T23:58:02.469Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-25T03:57:18.602Z",
+  "nowPlaying": {
+    "name": "White Gloves ii",
+    "artists": [
+      "Khruangbin"
+    ],
+    "album": "The Universe Smiles Upon You ii",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ecc9c792f2ccc2afe81d1d9",
+    "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp",
+    "durationMs": 291190,
+    "isPlaying": true,
+    "progressMs": 213519
+  },
   "recentlyPlayed": [
+    {
+      "name": "Yves",
+      "artists": [
+        "Sinj Clarke"
+      ],
+      "album": "The Height Of Love",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bef986dea7aead497b8a5799",
+      "url": "https://open.spotify.com/track/3z7Mp23eVaUfozgKOBfqGJ",
+      "durationMs": 319669,
+      "playedAt": "2026-10-25T03:53:47.976Z"
+    },
+    {
+      "name": "Helia - A COLORS SHOW",
+      "artists": [
+        "Charif Megarbane",
+        "COLORS",
+        "Sven Wunder"
+      ],
+      "album": "Helia - A COLORS SHOW",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735972f8f0392d793d4c378b4d",
+      "url": "https://open.spotify.com/track/0l1h0ED5UzpvRAGgZkuwRx",
+      "durationMs": 209310,
+      "playedAt": "2026-10-25T02:12:43.200Z"
+    },
+    {
+      "name": "Nikonos V",
+      "artists": [
+        "The Offline"
+      ],
+      "album": "Nikonos V",
+      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b765167883f5a7984a9ca62235",
+      "url": "https://open.spotify.com/track/74I4wDFg9TYLAWLyFNnzNH",
+      "durationMs": 167796,
+      "playedAt": "2026-10-25T02:09:13.449Z"
+    },
     {
       "name": "Pour Nael",
       "artists": [
@@ -78,40 +124,6 @@
       "url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
       "durationMs": 256240,
       "playedAt": "2026-10-23T20:29:05.931Z"
-    },
-    {
-      "name": "21 Questions",
-      "artists": [
-        "50 Cent",
-        "Nate Dogg"
-      ],
-      "album": "Get Rich Or Die Tryin'",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae",
-      "url": "https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI",
-      "durationMs": 224440,
-      "playedAt": "2026-10-23T20:24:52.734Z"
-    },
-    {
-      "name": "Just A Lil Bit",
-      "artists": [
-        "50 Cent"
-      ],
-      "album": "The Massacre",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27391f7222996c531b981e7bb3d",
-      "url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9",
-      "durationMs": 237706,
-      "playedAt": "2026-10-23T20:21:11.285Z"
-    },
-    {
-      "name": "In Da Club",
-      "artists": [
-        "50 Cent"
-      ],
-      "album": "Get Rich Or Die Tryin'",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae",
-      "url": "https://open.spotify.com/track/7iL6o9tox1zgHpKUfh9vuC",
-      "durationMs": 193466,
-      "playedAt": "2026-10-23T20:17:15.550Z"
     }
   ],
   "topArtists": [
