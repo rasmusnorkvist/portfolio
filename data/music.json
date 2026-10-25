@@ -1,7 +1,96 @@
 {
-  "updatedAt": "2026-10-25T13:39:41.801Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-25T17:22:46.004Z",
+  "nowPlaying": {
+    "name": "Come Rain or Come Shine",
+    "artists": [
+      "Ray Charles"
+    ],
+    "album": "The Genius Of Ray Charles",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738f2418e3530490ec789a31f0",
+    "url": "https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU",
+    "durationMs": 221520,
+    "isPlaying": true,
+    "progressMs": 97627
+  },
   "recentlyPlayed": [
+    {
+      "name": "Nobody Knows You When You're Down And Out",
+      "artists": [
+        "Nina Simone"
+      ],
+      "album": "Pastel Blues",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273df49506f74db624312118ca2",
+      "url": "https://open.spotify.com/track/5yMRZqh2HCo5NFbLNt6sD1",
+      "durationMs": 158200,
+      "playedAt": "2026-10-25T17:21:11.304Z"
+    },
+    {
+      "name": "A Change Is Gonna Come",
+      "artists": [
+        "Aretha Franklin"
+      ],
+      "album": "I Never Loved a Man the Way I Love You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac",
+      "url": "https://open.spotify.com/track/4jeEaCq9omzcX5cOFKhT5O",
+      "durationMs": 260106,
+      "playedAt": "2026-10-25T17:18:36.223Z"
+    },
+    {
+      "name": "I'm Gonna Tear Your Playhouse Down",
+      "artists": [
+        "Ann Peebles"
+      ],
+      "album": "I Can't Stand the Rain",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273943b4cc92b7af0f22190eaef",
+      "url": "https://open.spotify.com/track/62i5IYsfk28UiViWTeEw2x",
+      "durationMs": 165040,
+      "playedAt": "2026-10-25T17:14:19.095Z"
+    },
+    {
+      "name": "You Go to My Head",
+      "artists": [
+        "Billie Holiday"
+      ],
+      "album": "Billie Holiday - Album Nr. 3: Studio Highlights and the Legendary Cologne Concert (1954) [2015 Digital Remaster]",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f7f96801acd61d0be82f8d5d",
+      "url": "https://open.spotify.com/track/5W4AX4iOO3d3L5YmRV65DJ",
+      "durationMs": 173869,
+      "playedAt": "2026-10-25T17:11:37.003Z"
+    },
+    {
+      "name": "Cigarettes and Coffee",
+      "artists": [
+        "Otis Redding"
+      ],
+      "album": "The Soul Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734b56389fb1e78b2b3ab443d8",
+      "url": "https://open.spotify.com/track/4PFiLGx8jAzcAJxwPLUeZ9",
+      "durationMs": 240800,
+      "playedAt": "2026-10-25T17:08:46.198Z"
+    },
+    {
+      "name": "He Needs Me (2013 - Remaster)",
+      "artists": [
+        "Nina Simone"
+      ],
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN",
+      "durationMs": 149330,
+      "playedAt": "2026-10-25T17:04:48.412Z"
+    },
+    {
+      "name": "Amami (feat. Minami Kizuki)",
+      "artists": [
+        "Yussef Dayes",
+        "Minami Kizuki"
+      ],
+      "album": "Amami (feat. Minami Kizuki)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4b42e7796f032d1e074f091",
+      "url": "https://open.spotify.com/track/4LgM9jizqppslT1cYDeUZT",
+      "durationMs": 324480,
+      "playedAt": "2026-10-25T17:02:08.667Z"
+    },
     {
       "name": "Night Aïr",
       "artists": [
@@ -34,85 +123,6 @@
       "url": "https://open.spotify.com/track/3z7Mp23eVaUfozgKOBfqGJ",
       "durationMs": 319669,
       "playedAt": "2026-10-25T03:53:47.976Z"
-    },
-    {
-      "name": "Helia - A COLORS SHOW",
-      "artists": [
-        "Charif Megarbane",
-        "COLORS",
-        "Sven Wunder"
-      ],
-      "album": "Helia - A COLORS SHOW",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735972f8f0392d793d4c378b4d",
-      "url": "https://open.spotify.com/track/0l1h0ED5UzpvRAGgZkuwRx",
-      "durationMs": 209310,
-      "playedAt": "2026-10-25T02:12:43.200Z"
-    },
-    {
-      "name": "Nikonos V",
-      "artists": [
-        "The Offline"
-      ],
-      "album": "Nikonos V",
-      "albumImageUrl": "https://i.scdn.co/image/ab6742d3000053b765167883f5a7984a9ca62235",
-      "url": "https://open.spotify.com/track/74I4wDFg9TYLAWLyFNnzNH",
-      "durationMs": 167796,
-      "playedAt": "2026-10-25T02:09:13.449Z"
-    },
-    {
-      "name": "Pour Nael",
-      "artists": [
-        "The Offline"
-      ],
-      "album": "Pour Nael",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731b8982e08cc241f1dcd76179",
-      "url": "https://open.spotify.com/track/38Md01tZil3t14tfZdFPtF",
-      "durationMs": 173180,
-      "playedAt": "2026-10-24T03:25:13.246Z"
-    },
-    {
-      "name": "Le club",
-      "artists": [
-        "The Offline"
-      ],
-      "album": "Le club",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730a989e590ff6bed2da654442",
-      "url": "https://open.spotify.com/track/07Bg7xotAi2cW8wG59R1OR",
-      "durationMs": 190080,
-      "playedAt": "2026-10-24T03:22:23.145Z"
-    },
-    {
-      "name": "Cap de l'Homy",
-      "artists": [
-        "The Offline"
-      ],
-      "album": "Cap de l'Homy",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273851272044aa3618f0f4a0468",
-      "url": "https://open.spotify.com/track/0U9LO6t3CakEMmgedHajiy",
-      "durationMs": 207901,
-      "playedAt": "2026-10-24T03:17:42.574Z"
-    },
-    {
-      "name": "Côte des Basques",
-      "artists": [
-        "The Offline"
-      ],
-      "album": "En clair-obscur",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737fc927f3db350618ef8f3f65",
-      "url": "https://open.spotify.com/track/5QyvkXWrJWtkbqGgGBTtL2",
-      "durationMs": 188551,
-      "playedAt": "2026-10-24T03:14:17.650Z"
-    },
-    {
-      "name": "Plage des Casernes",
-      "artists": [
-        "The Offline"
-      ],
-      "album": "Plage des Casernes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bf3dda73b7ca8c478cf7d101",
-      "url": "https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd",
-      "durationMs": 136718,
-      "playedAt": "2026-10-24T03:11:12.086Z"
     }
   ],
   "topArtists": [
