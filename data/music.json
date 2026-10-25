@@ -1,18 +1,29 @@
 {
-  "updatedAt": "2026-10-25T03:57:18.602Z",
-  "nowPlaying": {
-    "name": "White Gloves ii",
-    "artists": [
-      "Khruangbin"
-    ],
-    "album": "The Universe Smiles Upon You ii",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ecc9c792f2ccc2afe81d1d9",
-    "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp",
-    "durationMs": 291190,
-    "isPlaying": true,
-    "progressMs": 213519
-  },
+  "updatedAt": "2026-10-25T08:59:55.098Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Night Aïr",
+      "artists": [
+        "Yuuf"
+      ],
+      "album": "Mt. Sava",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737f7633a982badc20ffcd8b03",
+      "url": "https://open.spotify.com/track/0IaXvMnJh17FS2tdT3BzO4",
+      "durationMs": 193165,
+      "playedAt": "2026-10-25T04:01:46.292Z"
+    },
+    {
+      "name": "White Gloves ii",
+      "artists": [
+        "Khruangbin"
+      ],
+      "album": "The Universe Smiles Upon You ii",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ecc9c792f2ccc2afe81d1d9",
+      "url": "https://open.spotify.com/track/4EGilW7VYfTULk4RENDfJp",
+      "durationMs": 291190,
+      "playedAt": "2026-10-25T03:58:36.274Z"
+    },
     {
       "name": "Yves",
       "artists": [
@@ -102,28 +113,6 @@
       "url": "https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd",
       "durationMs": 136718,
       "playedAt": "2026-10-24T03:11:12.086Z"
-    },
-    {
-      "name": "Les Dunes",
-      "artists": [
-        "The Offline"
-      ],
-      "album": "Les Dunes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
-      "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
-      "durationMs": 174813,
-      "playedAt": "2026-10-24T03:08:43.719Z"
-    },
-    {
-      "name": "Many Men (Wish Death)",
-      "artists": [
-        "50 Cent"
-      ],
-      "album": "Get Rich Or Die Tryin'",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae",
-      "url": "https://open.spotify.com/track/5STdMlrBf6pqWiNE7WqxSi",
-      "durationMs": 256240,
-      "playedAt": "2026-10-23T20:29:05.931Z"
     }
   ],
   "topArtists": [
