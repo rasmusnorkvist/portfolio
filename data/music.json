@@ -1,118 +1,120 @@
 {
-  "updatedAt": "2026-10-26T12:10:54.239Z",
+  "updatedAt": "2026-10-26T18:47:00.290Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Superpowers",
+      "name": "Slippy",
       "artists": [
-        "Daniel Caesar"
+        "Gotts Street Park"
       ],
-      "album": "NEVER ENOUGH",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737c68face1dc58127f3a7b1cc",
-      "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu",
-      "durationMs": 174512,
-      "playedAt": "2026-10-26T04:05:43.431Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/5lajsJI0F911nqOlHfcwc2",
+      "durationMs": 151613,
+      "playedAt": "2026-10-26T17:08:56.481Z"
     },
     {
-      "name": "She",
+      "name": "When We Get By",
       "artists": [
-        "Tyler, The Creator",
-        "Frank Ocean"
+        "D'Angelo"
       ],
-      "album": "Goblin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735ea9799a88c0760ec03ac6b8",
-      "url": "https://open.spotify.com/track/5WzfCu5fhgm7jv896EN1Md",
-      "durationMs": 253386,
-      "playedAt": "2026-10-26T04:02:51.935Z"
+      "album": "Brown Sugar",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f6465d4b8cdd34ed4d7853e2",
+      "url": "https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE",
+      "durationMs": 344893,
+      "playedAt": "2026-10-26T17:06:27.880Z"
     },
     {
-      "name": "You Owe Me",
+      "name": "Linger - Remastered 2026",
       "artists": [
-        "Malcolm Todd"
+        "The Cranberries"
       ],
-      "album": "Two New Malcolm Todd Songs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ec2143e5aa8537a7de47b004",
-      "url": "https://open.spotify.com/track/0fVL6EBaQ2X12qQLiFgyg2",
-      "durationMs": 220645,
-      "playedAt": "2026-10-26T03:58:41.619Z"
+      "album": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273753dbf92830094154a21b193",
+      "url": "https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET",
+      "durationMs": 274720,
+      "playedAt": "2026-10-26T17:00:45.977Z"
     },
     {
-      "name": "Novacane",
+      "name": "PiLOT (feat. Snoop Dogg, Busta Rhymes, Anderson .Paak)",
       "artists": [
-        "Frank Ocean"
+        "DOMi & JD BECK",
+        "Anderson .Paak",
+        "Busta Rhymes",
+        "Snoop Dogg"
       ],
-      "album": "Novacane",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27359a428dc7ef8e0c12b0fe18a",
-      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53",
-      "durationMs": 302346,
-      "playedAt": "2026-10-26T03:55:03.935Z"
+      "album": "NOT TiGHT",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738569040f689c3249eeb04345",
+      "url": "https://open.spotify.com/track/6OquGsVTLqZHyxqG0PLwFz",
+      "durationMs": 202451,
+      "playedAt": "2026-10-26T16:56:14.277Z"
     },
     {
-      "name": "4EVER",
+      "name": "Someday",
       "artists": [
-        "Clairo"
+        "The Strokes"
       ],
-      "album": "4EVER",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d8cde3e29157bf6648459734",
-      "url": "https://open.spotify.com/track/4QiYN9J1WS6lBIfScftAXA",
-      "durationMs": 159595,
-      "playedAt": "2026-10-26T03:50:04.640Z"
+      "album": "Is This It",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
+      "url": "https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT",
+      "durationMs": 183573,
+      "playedAt": "2026-10-26T16:52:54.874Z"
     },
     {
-      "name": "Lady Love",
+      "name": "Don't Dream It's Over",
       "artists": [
-        "Thee Sacred Souls"
+        "Crowded House"
       ],
-      "album": "Thee Sacred Souls",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
-      "url": "https://open.spotify.com/track/5Uhr87fTMOrVBhc8gNU7Z8",
-      "durationMs": 182346,
-      "playedAt": "2026-10-26T03:47:28.105Z"
+      "album": "Crowded House (Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737cef65b561af10a25acbc2df",
+      "url": "https://open.spotify.com/track/56GbZVwxMdf1DENCluYS8A",
+      "durationMs": 238173,
+      "playedAt": "2026-10-26T16:49:54.282Z"
     },
     {
-      "name": "End",
+      "name": "Asleep Talking",
       "artists": [
-        "Frank Ocean"
+        "Magnus Ferrell"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/05tFLPSXJ1BbqIXy4Jeqfh",
-      "durationMs": 134600,
-      "playedAt": "2026-10-26T03:44:28.703Z"
+      "album": "Groove Therapy",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a",
+      "url": "https://open.spotify.com/track/5dBXBY5CsYxEjC20ewA9EU",
+      "durationMs": 156329,
+      "playedAt": "2026-10-26T16:45:59.167Z"
     },
     {
-      "name": "Forrest Gump",
+      "name": "On & On",
       "artists": [
-        "Frank Ocean"
+        "Erykah Badu"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx",
-      "durationMs": 194840,
-      "playedAt": "2026-10-26T03:42:14.106Z"
+      "album": "Baduizm",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b5e18a80757ba2f787213d21",
+      "url": "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI",
+      "durationMs": 226133,
+      "playedAt": "2026-10-26T16:43:25.874Z"
     },
     {
-      "name": "Pink Matter",
+      "name": "More Than A Woman - SG's Paradise Edit",
       "artists": [
-        "Frank Ocean",
-        "André 3000"
+        "Bee Gees",
+        "SG Lewis"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596",
-      "durationMs": 268813,
-      "playedAt": "2026-10-26T03:38:59.305Z"
+      "album": "More Than A Woman (SG's Paradise Edit)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bd8e2af160f4664d666c4132",
+      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J",
+      "durationMs": 357936,
+      "playedAt": "2026-10-26T16:39:42.702Z"
     },
     {
-      "name": "Bad Religion",
+      "name": "The Chain - 2004 Remaster",
       "artists": [
-        "Frank Ocean"
+        "Fleetwood Mac"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/2pMPWE7PJH1PizfgGRMnR9",
-      "durationMs": 175453,
-      "playedAt": "2026-10-26T03:34:30.502Z"
+      "album": "Rumours (Super Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
+      "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU",
+      "durationMs": 270213,
+      "playedAt": "2026-10-26T16:33:47.773Z"
     }
   ],
   "topArtists": [
