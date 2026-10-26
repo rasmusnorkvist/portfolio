@@ -1,7 +1,75 @@
 {
-  "updatedAt": "2026-10-26T18:47:00.290Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-26T23:00:16.581Z",
+  "nowPlaying": {
+    "name": "Ms. Jackson",
+    "artists": [
+      "Outkast"
+    ],
+    "album": "Stankonia",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273153b3d6495031cb813a7451c",
+    "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV",
+    "durationMs": 270506,
+    "isPlaying": true,
+    "progressMs": 72874
+  },
   "recentlyPlayed": [
+    {
+      "name": "Hypnotize - 2007 Remaster",
+      "artists": [
+        "The Notorious B.I.G."
+      ],
+      "album": "Greatest Hits",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273639fea4197e676cfe9512e04",
+      "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0",
+      "durationMs": 230000,
+      "playedAt": "2026-10-26T22:59:06.613Z"
+    },
+    {
+      "name": "Just A Lil Bit",
+      "artists": [
+        "50 Cent"
+      ],
+      "album": "The Massacre",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27391f7222996c531b981e7bb3d",
+      "url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9",
+      "durationMs": 237706,
+      "playedAt": "2026-10-26T22:55:19.610Z"
+    },
+    {
+      "name": "California Love - Original Version",
+      "artists": [
+        "2Pac",
+        "Roger",
+        "Dr. Dre"
+      ],
+      "album": "Greatest Hits",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec",
+      "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
+      "durationMs": 284906,
+      "playedAt": "2026-10-26T22:51:24.919Z"
+    },
+    {
+      "name": "Plage des Casernes",
+      "artists": [
+        "The Offline"
+      ],
+      "album": "Plage des Casernes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bf3dda73b7ca8c478cf7d101",
+      "url": "https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd",
+      "durationMs": 136718,
+      "playedAt": "2026-10-26T22:36:54.294Z"
+    },
+    {
+      "name": "Les Dunes",
+      "artists": [
+        "The Offline"
+      ],
+      "album": "Les Dunes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
+      "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
+      "durationMs": 174813,
+      "playedAt": "2026-10-26T22:34:40.414Z"
+    },
     {
       "name": "Slippy",
       "artists": [
@@ -59,62 +127,6 @@
       "url": "https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT",
       "durationMs": 183573,
       "playedAt": "2026-10-26T16:52:54.874Z"
-    },
-    {
-      "name": "Don't Dream It's Over",
-      "artists": [
-        "Crowded House"
-      ],
-      "album": "Crowded House (Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737cef65b561af10a25acbc2df",
-      "url": "https://open.spotify.com/track/56GbZVwxMdf1DENCluYS8A",
-      "durationMs": 238173,
-      "playedAt": "2026-10-26T16:49:54.282Z"
-    },
-    {
-      "name": "Asleep Talking",
-      "artists": [
-        "Magnus Ferrell"
-      ],
-      "album": "Groove Therapy",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730a0f50681631065bd6c5024a",
-      "url": "https://open.spotify.com/track/5dBXBY5CsYxEjC20ewA9EU",
-      "durationMs": 156329,
-      "playedAt": "2026-10-26T16:45:59.167Z"
-    },
-    {
-      "name": "On & On",
-      "artists": [
-        "Erykah Badu"
-      ],
-      "album": "Baduizm",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b5e18a80757ba2f787213d21",
-      "url": "https://open.spotify.com/track/0tNuJpBgtE65diL6Q8Q7fI",
-      "durationMs": 226133,
-      "playedAt": "2026-10-26T16:43:25.874Z"
-    },
-    {
-      "name": "More Than A Woman - SG's Paradise Edit",
-      "artists": [
-        "Bee Gees",
-        "SG Lewis"
-      ],
-      "album": "More Than A Woman (SG's Paradise Edit)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bd8e2af160f4664d666c4132",
-      "url": "https://open.spotify.com/track/0L3XCv9i9IHs8cJEVhsJ3J",
-      "durationMs": 357936,
-      "playedAt": "2026-10-26T16:39:42.702Z"
-    },
-    {
-      "name": "The Chain - 2004 Remaster",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "album": "Rumours (Super Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e52a59a28efa4773dd2bfe1b",
-      "url": "https://open.spotify.com/track/5e9TFTbltYBg2xThimr0rU",
-      "durationMs": 270213,
-      "playedAt": "2026-10-26T16:33:47.773Z"
     }
   ],
   "topArtists": [
@@ -122,13 +134,17 @@
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Cornelis Vreeswijk",
       "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
       "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Gotts Street Park",
@@ -146,25 +162,38 @@
       "name": "The Offline",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
       "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": []
+      "genres": [
+        "jazz house",
+        "jazz beats"
+      ]
     },
     {
       "name": "Nina Simone",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
       "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
-      "genres": []
+      "genres": [
+        "vocal jazz",
+        "soul jazz",
+        "soul",
+        "jazz"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Monica Zetterlund",
       "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
       "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": []
+      "genres": [
+        "vocal jazz",
+        "jazz"
+      ]
     }
   ],
   "topTracks": [
