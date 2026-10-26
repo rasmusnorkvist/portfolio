@@ -1,122 +1,118 @@
 {
-  "updatedAt": "2026-10-26T00:31:44.281Z",
+  "updatedAt": "2026-10-26T05:44:16.237Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Easy",
+      "name": "Superpowers",
       "artists": [
-        "Gotts Street Park",
-        "Celeste"
+        "Daniel Caesar"
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/4gt2DKBHZr43un4qtlHx5u",
-      "durationMs": 284973,
-      "playedAt": "2026-10-25T17:56:07.275Z"
+      "album": "NEVER ENOUGH",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737c68face1dc58127f3a7b1cc",
+      "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu",
+      "durationMs": 174512,
+      "playedAt": "2026-10-26T04:05:43.431Z"
     },
     {
-      "name": "Shape Of America",
+      "name": "She",
       "artists": [
-        "Gotts Street Park",
-        "Sofia and the Antoinettes"
+        "Tyler, The Creator",
+        "Frank Ocean"
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
-      "durationMs": 209866,
-      "playedAt": "2026-10-25T17:51:22.315Z"
+      "album": "Goblin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735ea9799a88c0760ec03ac6b8",
+      "url": "https://open.spotify.com/track/5WzfCu5fhgm7jv896EN1Md",
+      "durationMs": 253386,
+      "playedAt": "2026-10-26T04:02:51.935Z"
     },
     {
-      "name": "Some Birds Don't Fly",
+      "name": "You Owe Me",
       "artists": [
-        "Gotts Street Park",
-        "Matt Maltese"
+        "Malcolm Todd"
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/71wNnpt69XmZS6OMCt19ca",
-      "durationMs": 206480,
-      "playedAt": "2026-10-25T17:47:52.417Z"
+      "album": "Two New Malcolm Todd Songs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ec2143e5aa8537a7de47b004",
+      "url": "https://open.spotify.com/track/0fVL6EBaQ2X12qQLiFgyg2",
+      "durationMs": 220645,
+      "playedAt": "2026-10-26T03:58:41.619Z"
     },
     {
-      "name": "Nico's Theme",
+      "name": "Novacane",
       "artists": [
-        "Gotts Street Park"
+        "Frank Ocean"
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/4zuMNnWY2jRnkacaf5Ar7L",
-      "durationMs": 167698,
-      "playedAt": "2026-10-25T17:44:25.917Z"
+      "album": "Novacane",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27359a428dc7ef8e0c12b0fe18a",
+      "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53",
+      "durationMs": 302346,
+      "playedAt": "2026-10-26T03:55:03.935Z"
     },
     {
-      "name": "Flowers",
+      "name": "4EVER",
       "artists": [
-        "Gotts Street Park",
-        "Pip Millett"
+        "Clairo"
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
-      "durationMs": 205720,
-      "playedAt": "2026-10-25T17:41:38.217Z"
+      "album": "4EVER",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d8cde3e29157bf6648459734",
+      "url": "https://open.spotify.com/track/4QiYN9J1WS6lBIfScftAXA",
+      "durationMs": 159595,
+      "playedAt": "2026-10-26T03:50:04.640Z"
     },
     {
-      "name": "Wake Me Up",
+      "name": "Lady Love",
       "artists": [
-        "Gotts Street Park",
-        "Olive Jones"
+        "Thee Sacred Souls"
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ",
-      "durationMs": 183520,
-      "playedAt": "2026-10-25T17:38:12.517Z"
+      "album": "Thee Sacred Souls",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734bc05e5b1e506a6acea17148",
+      "url": "https://open.spotify.com/track/5Uhr87fTMOrVBhc8gNU7Z8",
+      "durationMs": 182346,
+      "playedAt": "2026-10-26T03:47:28.105Z"
     },
     {
-      "name": "Fool That I Am",
+      "name": "End",
       "artists": [
-        "Etta James",
-        "Riley Hampton"
+        "Frank Ocean"
       ],
-      "album": "Milestones of Legends - Female Blues Singers, Vol. 7",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734392cae481caebdf33d35502",
-      "url": "https://open.spotify.com/track/7C90CrGVHFsMyxrfTraPf5",
-      "durationMs": 178066,
-      "playedAt": "2026-10-25T17:27:44.900Z"
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/05tFLPSXJ1BbqIXy4Jeqfh",
+      "durationMs": 134600,
+      "playedAt": "2026-10-26T03:44:28.703Z"
     },
     {
-      "name": "Come Rain or Come Shine",
+      "name": "Forrest Gump",
       "artists": [
-        "Ray Charles"
+        "Frank Ocean"
       ],
-      "album": "The Genius Of Ray Charles",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738f2418e3530490ec789a31f0",
-      "url": "https://open.spotify.com/track/2htH7r8oqqEwp3BB6oh2cU",
-      "durationMs": 221520,
-      "playedAt": "2026-10-25T17:24:49.826Z"
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/4YZbVct8l9MnAVIROnLQdx",
+      "durationMs": 194840,
+      "playedAt": "2026-10-26T03:42:14.106Z"
     },
     {
-      "name": "Nobody Knows You When You're Down And Out",
+      "name": "Pink Matter",
       "artists": [
-        "Nina Simone"
+        "Frank Ocean",
+        "André 3000"
       ],
-      "album": "Pastel Blues",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273df49506f74db624312118ca2",
-      "url": "https://open.spotify.com/track/5yMRZqh2HCo5NFbLNt6sD1",
-      "durationMs": 158200,
-      "playedAt": "2026-10-25T17:21:11.304Z"
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596",
+      "durationMs": 268813,
+      "playedAt": "2026-10-26T03:38:59.305Z"
     },
     {
-      "name": "A Change Is Gonna Come",
+      "name": "Bad Religion",
       "artists": [
-        "Aretha Franklin"
+        "Frank Ocean"
       ],
-      "album": "I Never Loved a Man the Way I Love You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736aa9314b7ddfbd8f036ba3ac",
-      "url": "https://open.spotify.com/track/4jeEaCq9omzcX5cOFKhT5O",
-      "durationMs": 260106,
-      "playedAt": "2026-10-25T17:18:36.223Z"
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/2pMPWE7PJH1PizfgGRMnR9",
+      "durationMs": 175453,
+      "playedAt": "2026-10-26T03:34:30.502Z"
     }
   ],
   "topArtists": [
@@ -139,15 +135,15 @@
       "genres": []
     },
     {
-      "name": "The Offline",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
-      "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": []
-    },
-    {
       "name": "Frank Ocean",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
       "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
+      "genres": []
+    },
+    {
+      "name": "The Offline",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
+      "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
       "genres": []
     },
     {
@@ -157,15 +153,15 @@
       "genres": []
     },
     {
-      "name": "Monica Zetterlund",
-      "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
-      "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": []
-    },
-    {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
+      "genres": []
+    },
+    {
+      "name": "Monica Zetterlund",
+      "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
+      "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
       "genres": []
     }
   ],
@@ -200,16 +196,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
       "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
       "durationMs": 45640
-    },
-    {
-      "name": "Sakta vi gå genom stan",
-      "artists": [
-        "Monica Zetterlund"
-      ],
-      "album": "Ahh! Monica!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731be2287322ce09930868607c",
-      "url": "https://open.spotify.com/track/5gBWGTO2prExy9yVwhUbOU",
-      "durationMs": 202360
     },
     {
       "name": "Somliga går med trasiga skor",
@@ -251,6 +237,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
       "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
       "durationMs": 273800
+    },
+    {
+      "name": "Les Dunes",
+      "artists": [
+        "The Offline"
+      ],
+      "album": "Les Dunes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
+      "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
+      "durationMs": 174813
     }
   ],
   "featuredPlaylists": []
