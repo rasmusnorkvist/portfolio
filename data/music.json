@@ -1,132 +1,127 @@
 {
-  "updatedAt": "2026-10-26T23:00:16.581Z",
-  "nowPlaying": {
-    "name": "Ms. Jackson",
-    "artists": [
-      "Outkast"
-    ],
-    "album": "Stankonia",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273153b3d6495031cb813a7451c",
-    "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV",
-    "durationMs": 270506,
-    "isPlaying": true,
-    "progressMs": 72874
-  },
+  "updatedAt": "2026-10-27T02:15:55.544Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Hypnotize - 2007 Remaster",
+      "name": "21 Questions",
+      "artists": [
+        "50 Cent",
+        "Nate Dogg"
+      ],
+      "album": "Get Rich Or Die Tryin'",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae",
+      "url": "https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI",
+      "durationMs": 224440,
+      "playedAt": "2026-10-27T01:46:54.033Z"
+    },
+    {
+      "name": "Juicy - 2005 Remaster",
       "artists": [
         "The Notorious B.I.G."
       ],
-      "album": "Greatest Hits",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273639fea4197e676cfe9512e04",
-      "url": "https://open.spotify.com/track/6Tsu3OsuMz4KEGKbOYd6A0",
-      "durationMs": 230000,
-      "playedAt": "2026-10-26T22:59:06.613Z"
+      "album": "Ready to Die (The Remaster; 2015 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dde04ab1a3c256602de5b2e7",
+      "url": "https://open.spotify.com/track/3xX9hoGEq1EuMGWZl8LQL1",
+      "durationMs": 302760,
+      "playedAt": "2026-10-27T01:43:12.725Z"
     },
     {
-      "name": "Just A Lil Bit",
+      "name": "Hate It Or Love It",
+      "artists": [
+        "The Game",
+        "50 Cent"
+      ],
+      "album": "The Documentary",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d",
+      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R",
+      "durationMs": 206400,
+      "playedAt": "2026-10-27T01:38:12.934Z"
+    },
+    {
+      "name": "What's The Difference",
+      "artists": [
+        "Dr. Dre",
+        "Eminem",
+        "Xzibit"
+      ],
+      "album": "2001",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5",
+      "url": "https://open.spotify.com/track/1SWVDBtw6h3tm9OehOkDhv",
+      "durationMs": 244200,
+      "playedAt": "2026-10-27T01:34:49.636Z"
+    },
+    {
+      "name": "Drop It Like It's Hot",
+      "artists": [
+        "Snoop Dogg",
+        "Pharrell Williams"
+      ],
+      "album": "R&G (Rhythm & Gangsta): The Masterpiece",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e803716268c173c3f9a0c057",
+      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO",
+      "durationMs": 266066,
+      "playedAt": "2026-10-27T01:30:48.415Z"
+    },
+    {
+      "name": "In Da Club",
       "artists": [
         "50 Cent"
       ],
-      "album": "The Massacre",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27391f7222996c531b981e7bb3d",
-      "url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9",
-      "durationMs": 237706,
-      "playedAt": "2026-10-26T22:55:19.610Z"
+      "album": "Get Rich Or Die Tryin'",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae",
+      "url": "https://open.spotify.com/track/7iL6o9tox1zgHpKUfh9vuC",
+      "durationMs": 193466,
+      "playedAt": "2026-10-27T01:26:25.313Z"
     },
     {
-      "name": "California Love - Original Version",
+      "name": "Bomb Intro / Pass That Dutch",
       "artists": [
-        "2Pac",
-        "Roger",
-        "Dr. Dre"
+        "Missy Elliott"
       ],
-      "album": "Greatest Hits",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec",
-      "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
-      "durationMs": 284906,
-      "playedAt": "2026-10-26T22:51:24.919Z"
+      "album": "This Is Not a Test!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733e689561b438186f17cc190e",
+      "url": "https://open.spotify.com/track/1MaI6NwdrqnE3mRzOYTpoo",
+      "durationMs": 217200,
+      "playedAt": "2026-10-27T01:23:14.879Z"
     },
     {
-      "name": "Plage des Casernes",
+      "name": "No Diggity",
       "artists": [
-        "The Offline"
+        "Blackstreet",
+        "Dr. Dre",
+        "Queen Pen"
       ],
-      "album": "Plage des Casernes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bf3dda73b7ca8c478cf7d101",
-      "url": "https://open.spotify.com/track/1Clcv7tRrcpxWVMdieibkd",
-      "durationMs": 136718,
-      "playedAt": "2026-10-26T22:36:54.294Z"
+      "album": "Another Level",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27303ca37157b9ceefbe8fe225b",
+      "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ",
+      "durationMs": 304600,
+      "playedAt": "2026-10-27T01:19:40.718Z"
     },
     {
-      "name": "Les Dunes",
+      "name": "I Got Five On It Remix",
       "artists": [
-        "The Offline"
+        "Spice 1",
+        "E-40",
+        "Luniz",
+        "Mike Marshall",
+        "Shock G"
       ],
-      "album": "Les Dunes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
-      "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
-      "durationMs": 174813,
-      "playedAt": "2026-10-26T22:34:40.414Z"
+      "album": "Hits II",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c6063f7392234f162ff1e5b5",
+      "url": "https://open.spotify.com/track/5nHtgUvx4k3FLYDHx7NAs7",
+      "durationMs": 254560,
+      "playedAt": "2026-10-27T01:14:39.117Z"
     },
     {
-      "name": "Slippy",
+      "name": "X Gon' Give It To Ya",
       "artists": [
-        "Gotts Street Park"
+        "DMX"
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/5lajsJI0F911nqOlHfcwc2",
-      "durationMs": 151613,
-      "playedAt": "2026-10-26T17:08:56.481Z"
-    },
-    {
-      "name": "When We Get By",
-      "artists": [
-        "D'Angelo"
-      ],
-      "album": "Brown Sugar",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f6465d4b8cdd34ed4d7853e2",
-      "url": "https://open.spotify.com/track/1DNkxLaGqAIU43kHQkunoE",
-      "durationMs": 344893,
-      "playedAt": "2026-10-26T17:06:27.880Z"
-    },
-    {
-      "name": "Linger - Remastered 2026",
-      "artists": [
-        "The Cranberries"
-      ],
-      "album": "Everybody Else Is Doing It, So Why Can't We? (Remastered 2026)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273753dbf92830094154a21b193",
-      "url": "https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET",
-      "durationMs": 274720,
-      "playedAt": "2026-10-26T17:00:45.977Z"
-    },
-    {
-      "name": "PiLOT (feat. Snoop Dogg, Busta Rhymes, Anderson .Paak)",
-      "artists": [
-        "DOMi & JD BECK",
-        "Anderson .Paak",
-        "Busta Rhymes",
-        "Snoop Dogg"
-      ],
-      "album": "NOT TiGHT",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738569040f689c3249eeb04345",
-      "url": "https://open.spotify.com/track/6OquGsVTLqZHyxqG0PLwFz",
-      "durationMs": 202451,
-      "playedAt": "2026-10-26T16:56:14.277Z"
-    },
-    {
-      "name": "Someday",
-      "artists": [
-        "The Strokes"
-      ],
-      "album": "Is This It",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a388a3f20d1bf2123249cc79",
-      "url": "https://open.spotify.com/track/56NkIxSZZiMpFP5ZNSxtnT",
-      "durationMs": 183573,
-      "playedAt": "2026-10-26T16:52:54.874Z"
+      "album": "The Definition Of X: Pick Of The Litter",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27301a6faf91e207748e8e32e0a",
+      "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb",
+      "durationMs": 217586,
+      "playedAt": "2026-10-27T01:10:27.615Z"
     }
   ],
   "topArtists": [
@@ -134,17 +129,19 @@
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "Cornelis Vreeswijk",
       "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
       "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
+    },
+    {
+      "name": "The Offline",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
+      "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
+      "genres": []
     },
     {
       "name": "Gotts Street Park",
@@ -159,41 +156,22 @@
       "genres": []
     },
     {
-      "name": "The Offline",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
-      "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": [
-        "jazz house",
-        "jazz beats"
-      ]
-    },
-    {
       "name": "Nina Simone",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
       "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
-      "genres": [
-        "vocal jazz",
-        "soul jazz",
-        "soul",
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
-      "name": "Monica Zetterlund",
-      "imageUrl": "https://i.scdn.co/image/65d0a63ec723e32039a0d2e4a7dcd8c597f1afb7",
-      "url": "https://open.spotify.com/artist/7mvvG63CNSY93JWAJ37rnD",
-      "genres": [
-        "vocal jazz",
-        "jazz"
-      ]
+      "name": "Taylor Swift",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
+      "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
+      "genres": []
     }
   ],
   "topTracks": [
@@ -217,6 +195,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
       "url": "https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ",
       "durationMs": 183520
+    },
+    {
+      "name": "Les Dunes",
+      "artists": [
+        "The Offline"
+      ],
+      "album": "Les Dunes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
+      "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
+      "durationMs": 174813
     },
     {
       "name": "Start",
@@ -268,16 +256,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
       "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
       "durationMs": 273800
-    },
-    {
-      "name": "Les Dunes",
-      "artists": [
-        "The Offline"
-      ],
-      "album": "Les Dunes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
-      "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
-      "durationMs": 174813
     }
   ],
   "featuredPlaylists": []
