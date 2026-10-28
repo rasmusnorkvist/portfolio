@@ -1,142 +1,116 @@
 {
-  "updatedAt": "2026-10-28T02:30:16.075Z",
-  "nowPlaying": {
-    "name": "California Love - Original Version",
-    "artists": [
-      "2Pac",
-      "Roger",
-      "Dr. Dre"
-    ],
-    "album": "Greatest Hits",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec",
-    "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
-    "durationMs": 284906,
-    "isPlaying": true,
-    "progressMs": 39556
-  },
+  "updatedAt": "2026-10-28T09:15:58.095Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Bad Boy for Life",
+      "name": "Wishing on a Star",
       "artists": [
-        "Diddy",
-        "Black Rob",
-        "Mark Curry"
+        "Rose Royce"
       ],
-      "album": "The Saga Continues...",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735be858c2255ac19199aec3f1",
-      "url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D",
-      "durationMs": 253066,
-      "playedAt": "2026-10-28T02:29:22.091Z"
+      "album": "In Full Bloom",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b14506bcfd7402d5ec88ec6c",
+      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S",
+      "durationMs": 291760,
+      "playedAt": "2026-10-28T03:43:17.390Z"
     },
     {
-      "name": "21 Questions",
+      "name": "Call Me",
       "artists": [
-        "50 Cent",
-        "Nate Dogg"
+        "Skyy"
       ],
-      "album": "Get Rich Or Die Tryin'",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae",
-      "url": "https://open.spotify.com/track/70FCugJxa7XW04Np6iYJdI",
-      "durationMs": 224440,
-      "playedAt": "2026-10-27T01:46:54.033Z"
+      "album": "Skyy Line",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f994bee346a14b1107d4cd87",
+      "url": "https://open.spotify.com/track/68M9HBtwqarUhBrQ6zn3zy",
+      "durationMs": 382304,
+      "playedAt": "2026-10-28T03:38:28.689Z"
     },
     {
-      "name": "Juicy - 2005 Remaster",
+      "name": "Single Life",
       "artists": [
-        "The Notorious B.I.G."
+        "Cameo"
       ],
-      "album": "Ready to Die (The Remaster; 2015 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dde04ab1a3c256602de5b2e7",
-      "url": "https://open.spotify.com/track/3xX9hoGEq1EuMGWZl8LQL1",
-      "durationMs": 302760,
-      "playedAt": "2026-10-27T01:43:12.725Z"
+      "album": "The Definitive Collection",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736241e116e65cf4ada40b93e8",
+      "url": "https://open.spotify.com/track/1ZeS9v3vyDbJCoc0KR0POI",
+      "durationMs": 267853,
+      "playedAt": "2026-10-28T03:32:09.392Z"
     },
     {
-      "name": "Hate It Or Love It",
+      "name": "Give It To Me Baby",
       "artists": [
-        "The Game",
-        "50 Cent"
+        "Rick James"
       ],
-      "album": "The Documentary",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d",
-      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R",
-      "durationMs": 206400,
-      "playedAt": "2026-10-27T01:38:12.934Z"
+      "album": "Street Songs (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27317f9e7e7784ed40b223e261c",
+      "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse",
+      "durationMs": 248133,
+      "playedAt": "2026-10-28T03:27:44.592Z"
     },
     {
-      "name": "What's The Difference",
+      "name": "Happy",
       "artists": [
-        "Dr. Dre",
-        "Eminem",
-        "Xzibit"
+        "Surface"
       ],
-      "album": "2001",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5",
-      "url": "https://open.spotify.com/track/1SWVDBtw6h3tm9OehOkDhv",
-      "durationMs": 244200,
-      "playedAt": "2026-10-27T01:34:49.636Z"
+      "album": "Surface (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736994162786819c8dc4afc66b",
+      "url": "https://open.spotify.com/track/3bgqIMHNehAZwhjckR3gc1",
+      "durationMs": 239826,
+      "playedAt": "2026-10-28T03:23:39.393Z"
     },
     {
-      "name": "Drop It Like It's Hot",
+      "name": "Youre the One for Me - Radio Mix",
       "artists": [
-        "Snoop Dogg",
-        "Pharrell Williams"
+        "D-Train"
       ],
-      "album": "R&G (Rhythm & Gangsta): The Masterpiece",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e803716268c173c3f9a0c057",
-      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO",
-      "durationMs": 266066,
-      "playedAt": "2026-10-27T01:30:48.415Z"
+      "album": "You're the One For Me EP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bf09bed07bb4248407fd819f",
+      "url": "https://open.spotify.com/track/3BneMfYdo9X8m90BRhMzSL",
+      "durationMs": 250635,
+      "playedAt": "2026-10-28T03:19:42.593Z"
     },
     {
-      "name": "In Da Club",
+      "name": "I Can't Go for That (No Can Do)",
       "artists": [
-        "50 Cent"
+        "Daryl Hall & John Oates"
       ],
-      "album": "Get Rich Or Die Tryin'",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae",
-      "url": "https://open.spotify.com/track/7iL6o9tox1zgHpKUfh9vuC",
-      "durationMs": 193466,
-      "playedAt": "2026-10-27T01:26:25.313Z"
+      "album": "The Essential Daryl Hall & John Oates",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e49b4b79f376c0bc6e0c079b",
+      "url": "https://open.spotify.com/track/6r41t4oJtwcBHp4h1ZDMlj",
+      "durationMs": 307306,
+      "playedAt": "2026-10-28T03:15:34.987Z"
     },
     {
-      "name": "Bomb Intro / Pass That Dutch",
+      "name": "Jump Around - 30 Years Remaster",
       "artists": [
-        "Missy Elliott"
+        "House Of Pain"
       ],
-      "album": "This Is Not a Test!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733e689561b438186f17cc190e",
-      "url": "https://open.spotify.com/track/1MaI6NwdrqnE3mRzOYTpoo",
-      "durationMs": 217200,
-      "playedAt": "2026-10-27T01:23:14.879Z"
+      "album": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379606c79fde418c0bc458abb",
+      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq",
+      "durationMs": 218546,
+      "playedAt": "2026-10-28T02:59:59.274Z"
     },
     {
-      "name": "No Diggity",
+      "name": "X Gon' Give It To Ya",
       "artists": [
-        "Blackstreet",
-        "Dr. Dre",
-        "Queen Pen"
+        "DMX"
       ],
-      "album": "Another Level",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27303ca37157b9ceefbe8fe225b",
-      "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ",
-      "durationMs": 304600,
-      "playedAt": "2026-10-27T01:19:40.718Z"
+      "album": "The Definition Of X: Pick Of The Litter",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27301a6faf91e207748e8e32e0a",
+      "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb",
+      "durationMs": 217586,
+      "playedAt": "2026-10-28T02:46:20.915Z"
     },
     {
-      "name": "I Got Five On It Remix",
+      "name": "Insane in the Brain",
       "artists": [
-        "Spice 1",
-        "E-40",
-        "Luniz",
-        "Mike Marshall",
-        "Shock G"
+        "Cypress Hill"
       ],
-      "album": "Hits II",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c6063f7392234f162ff1e5b5",
-      "url": "https://open.spotify.com/track/5nHtgUvx4k3FLYDHx7NAs7",
-      "durationMs": 254560,
-      "playedAt": "2026-10-27T01:14:39.117Z"
+      "album": "Black Sunday",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c8d7445dbee75973efa970e8",
+      "url": "https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv",
+      "durationMs": 208266,
+      "playedAt": "2026-10-28T02:42:46.316Z"
     }
   ],
   "topArtists": [
@@ -263,14 +237,14 @@
       "durationMs": 227333
     },
     {
-      "name": "Visa från Utanmyra",
+      "name": "He Needs Me (2013 - Remaster)",
       "artists": [
-        "Jan Johansson"
+        "Nina Simone"
       ],
-      "album": "Jazz på svenska",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
-      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
-      "durationMs": 273800
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN",
+      "durationMs": 149330
     }
   ],
   "featuredPlaylists": []
