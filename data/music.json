@@ -1,7 +1,33 @@
 {
-  "updatedAt": "2026-10-27T23:26:31.974Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-28T02:30:16.075Z",
+  "nowPlaying": {
+    "name": "California Love - Original Version",
+    "artists": [
+      "2Pac",
+      "Roger",
+      "Dr. Dre"
+    ],
+    "album": "Greatest Hits",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec",
+    "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
+    "durationMs": 284906,
+    "isPlaying": true,
+    "progressMs": 39556
+  },
   "recentlyPlayed": [
+    {
+      "name": "Bad Boy for Life",
+      "artists": [
+        "Diddy",
+        "Black Rob",
+        "Mark Curry"
+      ],
+      "album": "The Saga Continues...",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735be858c2255ac19199aec3f1",
+      "url": "https://open.spotify.com/track/2eOuL8KesslTLQERQPu11D",
+      "durationMs": 253066,
+      "playedAt": "2026-10-28T02:29:22.091Z"
+    },
     {
       "name": "21 Questions",
       "artists": [
@@ -111,17 +137,6 @@
       "url": "https://open.spotify.com/track/5nHtgUvx4k3FLYDHx7NAs7",
       "durationMs": 254560,
       "playedAt": "2026-10-27T01:14:39.117Z"
-    },
-    {
-      "name": "X Gon' Give It To Ya",
-      "artists": [
-        "DMX"
-      ],
-      "album": "The Definition Of X: Pick Of The Litter",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27301a6faf91e207748e8e32e0a",
-      "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb",
-      "durationMs": 217586,
-      "playedAt": "2026-10-27T01:10:27.615Z"
     }
   ],
   "topArtists": [
