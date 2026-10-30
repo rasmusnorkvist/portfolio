@@ -1,122 +1,131 @@
 {
-  "updatedAt": "2026-10-30T13:17:04.779Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-10-30T18:42:17.632Z",
+  "nowPlaying": {
+    "name": "I Am Your Season",
+    "artists": [
+      "The Womack Sisters"
+    ],
+    "album": "The Womack Sisters",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273afa44cba895ec03a35a27778",
+    "url": "https://open.spotify.com/track/7IDEKg2ZkoeHUx770ap2m4",
+    "durationMs": 230160,
+    "isPlaying": true,
+    "progressMs": 81178
+  },
   "recentlyPlayed": [
     {
-      "name": "Ortens favoriter",
+      "name": "Favourite Kind Of Girl",
       "artists": [
-        "Labyrint"
+        "Gotts Street Park",
+        "Flikka"
       ],
-      "album": "Labababa",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738fd5c8d8cfa248e74a28e933",
-      "url": "https://open.spotify.com/track/018APzt7Vdf86qXkcdpVcH",
-      "durationMs": 247253,
-      "playedAt": "2026-10-28T16:44:56.724Z"
+      "album": "Volume Two",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fea907607012d0b9f250043f",
+      "url": "https://open.spotify.com/track/7HARo0TZ38IK458jT0nwGa",
+      "durationMs": 277266,
+      "playedAt": "2026-10-30T18:40:59.358Z"
     },
     {
-      "name": "Välkommen hem",
+      "name": "Whoever Said Silence Is Peace",
       "artists": [
-        "Labyrint",
-        "Dani M"
+        "St. Panther"
       ],
-      "album": "Labababa",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738fd5c8d8cfa248e74a28e933",
-      "url": "https://open.spotify.com/track/5KMaxztlP8LUwAKN9bUKIN",
-      "durationMs": 246773,
-      "playedAt": "2026-10-28T16:40:52.426Z"
+      "album": "Strange World",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dfeb10709f36c51078523ff9",
+      "url": "https://open.spotify.com/track/2pLrdognykX3dyIY1kppTM",
+      "durationMs": 171776,
+      "playedAt": "2026-10-30T18:36:25.108Z"
     },
     {
-      "name": "There! Right There!",
+      "name": "Talk About Love",
       "artists": [
-        "Amber Efe",
-        "Kate Shindle",
-        "Laura Bell Bundy",
-        "'Legally Blonde' Ensemble",
-        "Manuel Herrera",
-        "Matthew Risch"
+        "Olive Jones"
       ],
-      "album": "Legally Blonde The Musical (Original Broadway Cast Recording)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731828473d593f22288c795e5c",
-      "url": "https://open.spotify.com/track/41WDvgF7RgCXfLN9iKWVhp",
-      "durationMs": 207026,
-      "playedAt": "2026-10-28T16:36:40.955Z"
+      "album": "For Mary",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e395f1ea180fe7359fa2cdd1",
+      "url": "https://open.spotify.com/track/1fJuCyrnG9l3j87b8wFras",
+      "durationMs": 310868,
+      "playedAt": "2026-10-30T18:30:02.482Z"
     },
     {
-      "name": "Wishing on a Star",
+      "name": "December Sunshine",
       "artists": [
-        "Rose Royce"
+        "Olympia Vitalis",
+        "Common Saints"
       ],
-      "album": "In Full Bloom",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b14506bcfd7402d5ec88ec6c",
-      "url": "https://open.spotify.com/track/0u2CGItUO2jYEiFaXD7n5S",
-      "durationMs": 291760,
-      "playedAt": "2026-10-28T03:43:17.390Z"
+      "album": "December Sunshine",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733c5a7d251663a4e3d6f4aecd",
+      "url": "https://open.spotify.com/track/52JNz2JSYdRVDQwGb2KKPd",
+      "durationMs": 157664,
+      "playedAt": "2026-10-30T18:18:33.459Z"
     },
     {
-      "name": "Call Me",
+      "name": "Boulevard",
       "artists": [
-        "Skyy"
+        "Dojo Cuts",
+        "Sarsha Simone"
       ],
-      "album": "Skyy Line",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f994bee346a14b1107d4cd87",
-      "url": "https://open.spotify.com/track/68M9HBtwqarUhBrQ6zn3zy",
-      "durationMs": 382304,
-      "playedAt": "2026-10-28T03:38:28.689Z"
+      "album": "Boulevard",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a965fbc6d1bc50b2f68e8d55",
+      "url": "https://open.spotify.com/track/5jaTGDMMXm6PpyNLS6MUB2",
+      "durationMs": 156826,
+      "playedAt": "2026-10-30T18:15:58.759Z"
     },
     {
-      "name": "Single Life",
+      "name": "Tell Me More And More And Then Some - dublon Remix / Extended Edit",
       "artists": [
-        "Cameo"
+        "Nina Simone",
+        "dublon"
       ],
-      "album": "The Definitive Collection",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736241e116e65cf4ada40b93e8",
-      "url": "https://open.spotify.com/track/1ZeS9v3vyDbJCoc0KR0POI",
-      "durationMs": 267853,
-      "playedAt": "2026-10-28T03:32:09.392Z"
+      "album": "Verve Remixed // Nina Simone",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273599b3b5cfc26e22abb4eae01",
+      "url": "https://open.spotify.com/track/1KdZ3DqMnTrluBqHCbNp9b",
+      "durationMs": 242029,
+      "playedAt": "2026-10-30T18:13:24.956Z"
     },
     {
-      "name": "Give It To Me Baby",
+      "name": "The Blade of a Knife",
       "artists": [
-        "Rick James"
+        "Skinshape"
       ],
-      "album": "Street Songs (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27317f9e7e7784ed40b223e261c",
-      "url": "https://open.spotify.com/track/13v3siPyvy5TTEZYmGPPse",
-      "durationMs": 248133,
-      "playedAt": "2026-10-28T03:27:44.592Z"
+      "album": "The Blade of a Knife",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ac4062ce16e62ab138f32b6c",
+      "url": "https://open.spotify.com/track/3u4cDdFKnXXJ8WzsnQSgvQ",
+      "durationMs": 253320,
+      "playedAt": "2026-10-30T18:09:25.958Z"
     },
     {
-      "name": "Happy",
+      "name": "Dandelion",
       "artists": [
-        "Surface"
+        "Ella Thompson"
       ],
-      "album": "Surface (Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736994162786819c8dc4afc66b",
-      "url": "https://open.spotify.com/track/3bgqIMHNehAZwhjckR3gc1",
-      "durationMs": 239826,
-      "playedAt": "2026-10-28T03:23:39.393Z"
+      "album": "Triumph & Sadness",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ebdb54ff2480502b647fe8a1",
+      "url": "https://open.spotify.com/track/26of2W632B5gQJb8AG6Rh6",
+      "durationMs": 182693,
+      "playedAt": "2026-10-30T18:05:15.628Z"
     },
     {
-      "name": "Youre the One for Me - Radio Mix",
+      "name": "Let Me Cry",
       "artists": [
-        "D-Train"
+        "Cleo Sol"
       ],
-      "album": "You're the One For Me EP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273bf09bed07bb4248407fd819f",
-      "url": "https://open.spotify.com/track/3BneMfYdo9X8m90BRhMzSL",
-      "durationMs": 250635,
-      "playedAt": "2026-10-28T03:19:42.593Z"
+      "album": "Gentlewoman",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f116be73221b789ad7e2376e",
+      "url": "https://open.spotify.com/track/6BZM0xXwmgqBTCbtUib7sU",
+      "durationMs": 220986,
+      "playedAt": "2026-10-30T18:02:15.961Z"
     },
     {
-      "name": "I Can't Go for That (No Can Do)",
+      "name": "Be The Good People",
       "artists": [
-        "Daryl Hall & John Oates"
+        "The Mighty Tiny & The Many Few"
       ],
-      "album": "The Essential Daryl Hall & John Oates",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e49b4b79f376c0bc6e0c079b",
-      "url": "https://open.spotify.com/track/6r41t4oJtwcBHp4h1ZDMlj",
-      "durationMs": 307306,
-      "playedAt": "2026-10-28T03:15:34.987Z"
+      "album": "Be The Good People",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27356d2ae6a5f9844b03d4c9353",
+      "url": "https://open.spotify.com/track/4K9YS5AmfWL3E572WTJCIQ",
+      "durationMs": 130035,
+      "playedAt": "2026-10-30T17:58:37.959Z"
     }
   ],
   "topArtists": [
@@ -133,15 +142,15 @@
       "genres": []
     },
     {
-      "name": "The Offline",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
-      "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": []
-    },
-    {
       "name": "Gotts Street Park",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebbe1cb95c7d1d2420acfd71fe",
       "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y",
+      "genres": []
+    },
+    {
+      "name": "The Offline",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
+      "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
       "genres": []
     },
     {
@@ -157,29 +166,19 @@
       "genres": []
     },
     {
-      "name": "Jan Johansson",
-      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
-      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
-    },
-    {
       "name": "Taylor Swift",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
       "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
       "genres": []
+    },
+    {
+      "name": "Jazzinuf",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
+      "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
+      "genres": []
     }
   ],
   "topTracks": [
-    {
-      "name": "Mood Indigo (2013 - Remaster)",
-      "artists": [
-        "Nina Simone"
-      ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/3rlEbh8f1o88gsBFkwV6bh",
-      "durationMs": 240610
-    },
     {
       "name": "Wake Me Up",
       "artists": [
@@ -202,6 +201,27 @@
       "durationMs": 174813
     },
     {
+      "name": "Mood Indigo (2013 - Remaster)",
+      "artists": [
+        "Nina Simone"
+      ],
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/3rlEbh8f1o88gsBFkwV6bh",
+      "durationMs": 240610
+    },
+    {
+      "name": "Flowers",
+      "artists": [
+        "Gotts Street Park",
+        "Pip Millett"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
+      "durationMs": 205720
+    },
+    {
       "name": "Start",
       "artists": [
         "Frank Ocean"
@@ -222,35 +242,25 @@
       "durationMs": 180960
     },
     {
-      "name": "Flowers",
+      "name": "Nico's Theme",
       "artists": [
-        "Gotts Street Park",
-        "Pip Millett"
+        "Gotts Street Park"
       ],
       "album": "Somewhere Between",
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
-      "durationMs": 205720
+      "url": "https://open.spotify.com/track/4zuMNnWY2jRnkacaf5Ar7L",
+      "durationMs": 167698
     },
     {
-      "name": "800°",
+      "name": "Some Birds Don't Fly",
       "artists": [
-        "Ebba Grön"
+        "Gotts Street Park",
+        "Matt Maltese"
       ],
-      "album": "Kärlek och uppror",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351bc0fd3287caac4c3a80bcf",
-      "url": "https://open.spotify.com/track/3zgJHNEorjbLLThp6TiMhz",
-      "durationMs": 227333
-    },
-    {
-      "name": "He Needs Me (2013 - Remaster)",
-      "artists": [
-        "Nina Simone"
-      ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN",
-      "durationMs": 149330
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/71wNnpt69XmZS6OMCt19ca",
+      "durationMs": 206480
     }
   ],
   "featuredPlaylists": []
