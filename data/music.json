@@ -1,144 +1,145 @@
 {
-  "updatedAt": "2026-10-30T18:42:17.632Z",
+  "updatedAt": "2026-10-30T22:45:14.316Z",
   "nowPlaying": {
-    "name": "I Am Your Season",
+    "name": "Pretty Ugly",
     "artists": [
-      "The Womack Sisters"
+      "Zara Larsson"
     ],
-    "album": "The Womack Sisters",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273afa44cba895ec03a35a27778",
-    "url": "https://open.spotify.com/track/7IDEKg2ZkoeHUx770ap2m4",
-    "durationMs": 230160,
+    "album": "Midnight Sun",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27393872dded9b6fe861ac52752",
+    "url": "https://open.spotify.com/track/5FYkRxeoLfVxMqyfNR6TMQ",
+    "durationMs": 158696,
     "isPlaying": true,
-    "progressMs": 81178
+    "progressMs": 41430
   },
   "recentlyPlayed": [
     {
-      "name": "Favourite Kind Of Girl",
+      "name": "Ain't My Fault",
       "artists": [
-        "Gotts Street Park",
-        "Flikka"
+        "Zara Larsson"
       ],
-      "album": "Volume Two",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fea907607012d0b9f250043f",
-      "url": "https://open.spotify.com/track/7HARo0TZ38IK458jT0nwGa",
-      "durationMs": 277266,
-      "playedAt": "2026-10-30T18:40:59.358Z"
+      "album": "So Good",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
+      "url": "https://open.spotify.com/track/0ADG9OgdVTL7fgREP75BrZ",
+      "durationMs": 224457,
+      "playedAt": "2026-10-30T22:44:35.714Z"
     },
     {
-      "name": "Whoever Said Silence Is Peace",
+      "name": "Words (feat. Zara Larsson)",
       "artists": [
-        "St. Panther"
+        "Alesso",
+        "Zara Larsson"
       ],
-      "album": "Strange World",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dfeb10709f36c51078523ff9",
-      "url": "https://open.spotify.com/track/2pLrdognykX3dyIY1kppTM",
-      "durationMs": 171776,
-      "playedAt": "2026-10-30T18:36:25.108Z"
+      "album": "Words (feat. Zara Larsson)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738f9c368d8d0f5792ffc5d38e",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs",
+      "durationMs": 142677,
+      "playedAt": "2026-10-30T22:40:54.348Z"
     },
     {
-      "name": "Talk About Love",
+      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
       "artists": [
-        "Olive Jones"
+        "Tyla",
+        "Zara Larsson"
       ],
-      "album": "For Mary",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e395f1ea180fe7359fa2cdd1",
-      "url": "https://open.spotify.com/track/1fJuCyrnG9l3j87b8wFras",
-      "durationMs": 310868,
-      "playedAt": "2026-10-30T18:30:02.482Z"
+      "album": "SHE DID IT AGAIN (feat. Zara Larsson)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731b3b814c3566db921e34acd4",
+      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN",
+      "durationMs": 213241,
+      "playedAt": "2026-10-30T22:38:34.647Z"
     },
     {
-      "name": "December Sunshine",
+      "name": "Never Forget You",
       "artists": [
-        "Olympia Vitalis",
-        "Common Saints"
+        "Zara Larsson",
+        "MNEK"
       ],
-      "album": "December Sunshine",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733c5a7d251663a4e3d6f4aecd",
-      "url": "https://open.spotify.com/track/52JNz2JSYdRVDQwGb2KKPd",
-      "durationMs": 157664,
-      "playedAt": "2026-10-30T18:18:33.459Z"
+      "album": "So Good",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
+      "url": "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo",
+      "durationMs": 212574,
+      "playedAt": "2026-10-30T22:35:04.424Z"
     },
     {
-      "name": "Boulevard",
+      "name": "Ruin My Life",
       "artists": [
-        "Dojo Cuts",
-        "Sarsha Simone"
+        "Zara Larsson"
       ],
-      "album": "Boulevard",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a965fbc6d1bc50b2f68e8d55",
-      "url": "https://open.spotify.com/track/5jaTGDMMXm6PpyNLS6MUB2",
-      "durationMs": 156826,
-      "playedAt": "2026-10-30T18:15:58.759Z"
+      "album": "Poster Girl",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b7e82aa841acc14f07faef1",
+      "url": "https://open.spotify.com/track/4nyY8oVjbX2d4qzlpiVM5n",
+      "durationMs": 190051,
+      "playedAt": "2026-10-30T22:31:34.849Z"
     },
     {
-      "name": "Tell Me More And More And Then Some - dublon Remix / Extended Edit",
+      "name": "Symphony (feat. Zara Larsson)",
       "artists": [
-        "Nina Simone",
-        "dublon"
+        "Clean Bandit",
+        "Zara Larsson"
       ],
-      "album": "Verve Remixed // Nina Simone",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273599b3b5cfc26e22abb4eae01",
-      "url": "https://open.spotify.com/track/1KdZ3DqMnTrluBqHCbNp9b",
-      "durationMs": 242029,
-      "playedAt": "2026-10-30T18:13:24.956Z"
+      "album": "What Is Love? (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c66e925d8fe4c92ebfb49ed",
+      "url": "https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal",
+      "durationMs": 212733,
+      "playedAt": "2026-10-30T22:28:27.797Z"
     },
     {
-      "name": "The Blade of a Knife",
+      "name": "Midnight Sun",
       "artists": [
-        "Skinshape"
+        "Zara Larsson"
       ],
-      "album": "The Blade of a Knife",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ac4062ce16e62ab138f32b6c",
-      "url": "https://open.spotify.com/track/3u4cDdFKnXXJ8WzsnQSgvQ",
-      "durationMs": 253320,
-      "playedAt": "2026-10-30T18:09:25.958Z"
+      "album": "Midnight Sun",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737657f9028ea8bb2c18dca99f",
+      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ",
+      "durationMs": 189898,
+      "playedAt": "2026-10-30T22:24:58.133Z"
     },
     {
-      "name": "Dandelion",
+      "name": "Stateside + Zara Larsson",
       "artists": [
-        "Ella Thompson"
+        "PinkPantheress",
+        "Zara Larsson"
       ],
-      "album": "Triumph & Sadness",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ebdb54ff2480502b647fe8a1",
-      "url": "https://open.spotify.com/track/26of2W632B5gQJb8AG6Rh6",
-      "durationMs": 182693,
-      "playedAt": "2026-10-30T18:05:15.628Z"
+      "album": "Fancy Some More?",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694",
+      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt",
+      "durationMs": 184761,
+      "playedAt": "2026-10-30T22:21:51.246Z"
     },
     {
-      "name": "Let Me Cry",
+      "name": "Lush Life",
       "artists": [
-        "Cleo Sol"
+        "Zara Larsson"
       ],
-      "album": "Gentlewoman",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f116be73221b789ad7e2376e",
-      "url": "https://open.spotify.com/track/6BZM0xXwmgqBTCbtUib7sU",
-      "durationMs": 220986,
-      "playedAt": "2026-10-30T18:02:15.961Z"
+      "album": "So Good",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8",
+      "durationMs": 200646,
+      "playedAt": "2026-10-30T22:18:49.427Z"
     },
     {
-      "name": "Be The Good People",
+      "name": "Blue Moon",
       "artists": [
-        "The Mighty Tiny & The Many Few"
+        "Zara Larsson"
       ],
-      "album": "Be The Good People",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27356d2ae6a5f9844b03d4c9353",
-      "url": "https://open.spotify.com/track/4K9YS5AmfWL3E572WTJCIQ",
-      "durationMs": 130035,
-      "playedAt": "2026-10-30T17:58:37.959Z"
+      "album": "Blue Moon",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27317de0825c1f62b5a3a1d808d",
+      "url": "https://open.spotify.com/track/5EDHxPobOf50pYWwcwxI8y",
+      "durationMs": 177544,
+      "playedAt": "2026-10-30T22:15:31.845Z"
     }
   ],
   "topArtists": [
     {
-      "name": "Mando Diao",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
-      "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": []
-    },
-    {
       "name": "Cornelis Vreeswijk",
       "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
       "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
+      "genres": []
+    },
+    {
+      "name": "Mando Diao",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
+      "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
       "genres": []
     },
     {
@@ -160,6 +161,12 @@
       "genres": []
     },
     {
+      "name": "Jan Johansson",
+      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
+      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
+      "genres": []
+    },
+    {
       "name": "Nina Simone",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
       "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
@@ -169,12 +176,6 @@
       "name": "Taylor Swift",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
       "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
-      "genres": []
-    },
-    {
-      "name": "Jazzinuf",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
-      "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
       "genres": []
     }
   ],
