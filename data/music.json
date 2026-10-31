@@ -1,7 +1,54 @@
 {
-  "updatedAt": "2026-10-31T01:57:54.051Z",
+  "updatedAt": "2026-10-31T08:09:58.095Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Some Birds Don't Fly",
+      "artists": [
+        "Gotts Street Park",
+        "Matt Maltese"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/71wNnpt69XmZS6OMCt19ca",
+      "durationMs": 206480,
+      "playedAt": "2026-10-31T03:19:15.760Z"
+    },
+    {
+      "name": "Nico's Theme",
+      "artists": [
+        "Gotts Street Park"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/4zuMNnWY2jRnkacaf5Ar7L",
+      "durationMs": 167698,
+      "playedAt": "2026-10-31T03:15:49.309Z"
+    },
+    {
+      "name": "Flowers",
+      "artists": [
+        "Gotts Street Park",
+        "Pip Millett"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
+      "durationMs": 205720,
+      "playedAt": "2026-10-31T03:13:01.607Z"
+    },
+    {
+      "name": "Wake Me Up",
+      "artists": [
+        "Gotts Street Park",
+        "Olive Jones"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ",
+      "durationMs": 183520,
+      "playedAt": "2026-10-31T03:09:20.835Z"
+    },
     {
       "name": "London 2 Moscow",
       "artists": [
@@ -70,53 +117,6 @@
       "url": "https://open.spotify.com/track/4qGctlEjOrJawFRBkLKUXP",
       "durationMs": 309559,
       "playedAt": "2026-10-30T23:45:02.772Z"
-    },
-    {
-      "name": "i'll be your xtc",
-      "artists": [
-        "Jadu Jadu",
-        "Shaolin Cowboy"
-      ],
-      "album": "you should stay right now",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aad459902270b260925310d7",
-      "url": "https://open.spotify.com/track/3tLziEBei45mlujs2uWgpe",
-      "durationMs": 261590,
-      "playedAt": "2026-10-30T23:39:56.256Z"
-    },
-    {
-      "name": "Catch Feels Get High",
-      "artists": [
-        "Shaolin Cowboy"
-      ],
-      "album": "Catch Feels Get High",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738722809becc151f3f7f1e4b5",
-      "url": "https://open.spotify.com/track/3T2frfWU5vhWdrvCKY67jZ",
-      "durationMs": 222580,
-      "playedAt": "2026-10-30T23:35:37.629Z"
-    },
-    {
-      "name": "Réveiller (feat. manon)",
-      "artists": [
-        "Shaolin Cowboy",
-        "manon"
-      ],
-      "album": "Réveiller (feat. manon)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273edb1f6dcd264e388165841c5",
-      "url": "https://open.spotify.com/track/51oib6a2dRu2f6x8OMMphQ",
-      "durationMs": 289787,
-      "playedAt": "2026-10-30T23:31:58.056Z"
-    },
-    {
-      "name": "A Brand New Day - BTS World Original Soundtrack (Pt. 2)",
-      "artists": [
-        "BTS",
-        "Zara Larsson"
-      ],
-      "album": "A Brand New Day (BTS World Original Soundtrack) (Pt. 2)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27364e04460c785391f4da82457",
-      "url": "https://open.spotify.com/track/3amNzwQ9muL0ZwDCbe9gWy",
-      "durationMs": 205019,
-      "playedAt": "2026-10-30T23:10:09.493Z"
     }
   ],
   "topArtists": [
@@ -163,9 +163,9 @@
       "genres": []
     },
     {
-      "name": "Taylor Swift",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb12184bdd29403de54cb9d9c7",
-      "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
+      "name": "Jazzinuf",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
+      "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
       "genres": []
     }
   ],
@@ -180,6 +180,17 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
       "url": "https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ",
       "durationMs": 183520
+    },
+    {
+      "name": "Flowers",
+      "artists": [
+        "Gotts Street Park",
+        "Pip Millett"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
+      "durationMs": 205720
     },
     {
       "name": "Les Dunes",
@@ -200,17 +211,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
       "url": "https://open.spotify.com/track/3rlEbh8f1o88gsBFkwV6bh",
       "durationMs": 240610
-    },
-    {
-      "name": "Flowers",
-      "artists": [
-        "Gotts Street Park",
-        "Pip Millett"
-      ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
-      "durationMs": 205720
     },
     {
       "name": "Somliga går med trasiga skor",
