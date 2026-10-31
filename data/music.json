@@ -1,132 +1,122 @@
 {
-  "updatedAt": "2026-10-30T22:45:14.316Z",
-  "nowPlaying": {
-    "name": "Pretty Ugly",
-    "artists": [
-      "Zara Larsson"
-    ],
-    "album": "Midnight Sun",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27393872dded9b6fe861ac52752",
-    "url": "https://open.spotify.com/track/5FYkRxeoLfVxMqyfNR6TMQ",
-    "durationMs": 158696,
-    "isPlaying": true,
-    "progressMs": 41430
-  },
+  "updatedAt": "2026-10-31T01:57:54.051Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Ain't My Fault",
+      "name": "London 2 Moscow",
       "artists": [
-        "Zara Larsson"
+        "Shaolin Cowboy"
       ],
-      "album": "So Good",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
-      "url": "https://open.spotify.com/track/0ADG9OgdVTL7fgREP75BrZ",
-      "durationMs": 224457,
-      "playedAt": "2026-10-30T22:44:35.714Z"
+      "album": "Catch Feels Get High",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738722809becc151f3f7f1e4b5",
+      "url": "https://open.spotify.com/track/6qr4kojI4w7fXRBncOhSbz",
+      "durationMs": 266441,
+      "playedAt": "2026-10-31T00:04:54.051Z"
     },
     {
-      "name": "Words (feat. Zara Larsson)",
+      "name": "you should stay right now",
       "artists": [
-        "Alesso",
-        "Zara Larsson"
+        "Jadu Jadu",
+        "Shaolin Cowboy"
       ],
-      "album": "Words (feat. Zara Larsson)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738f9c368d8d0f5792ffc5d38e",
-      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs",
-      "durationMs": 142677,
-      "playedAt": "2026-10-30T22:40:54.348Z"
+      "album": "you should stay right now",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aad459902270b260925310d7",
+      "url": "https://open.spotify.com/track/2ul09HRValhvcmTzbOjJpm",
+      "durationMs": 221116,
+      "playedAt": "2026-10-31T00:00:30.570Z"
     },
     {
-      "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
+      "name": "Down Like That",
       "artists": [
-        "Tyla",
-        "Zara Larsson"
+        "Shaolin Cowboy",
+        "AJ Edward"
       ],
-      "album": "SHE DID IT AGAIN (feat. Zara Larsson)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731b3b814c3566db921e34acd4",
-      "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN",
-      "durationMs": 213241,
-      "playedAt": "2026-10-30T22:38:34.647Z"
+      "album": "A Story Of Innocence Lost",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27393d589afa3e9e72b1711bb24",
+      "url": "https://open.spotify.com/track/3MdtcNDFyjCP9myw71Ig5L",
+      "durationMs": 263588,
+      "playedAt": "2026-10-30T23:56:52.472Z"
     },
     {
-      "name": "Never Forget You",
+      "name": "The Moment I Dance",
       "artists": [
-        "Zara Larsson",
-        "MNEK"
+        "GEE LEE",
+        "Shaolin Cowboy"
       ],
-      "album": "So Good",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
-      "url": "https://open.spotify.com/track/6hmhG1b4LEyNuashVvuIAo",
-      "durationMs": 212574,
-      "playedAt": "2026-10-30T22:35:04.424Z"
+      "album": "The Moment I Dance",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e547d19b44b61ef9f4cdbf1",
+      "url": "https://open.spotify.com/track/4T5o16hIVjdvIy06jhsJLG",
+      "durationMs": 158580,
+      "playedAt": "2026-10-30T23:52:31.916Z"
     },
     {
-      "name": "Ruin My Life",
+      "name": "I Guess It's Just Us Now",
       "artists": [
-        "Zara Larsson"
+        "Shaolin Cowboy"
       ],
-      "album": "Poster Girl",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b7e82aa841acc14f07faef1",
-      "url": "https://open.spotify.com/track/4nyY8oVjbX2d4qzlpiVM5n",
-      "durationMs": 190051,
-      "playedAt": "2026-10-30T22:31:34.849Z"
+      "album": "Catch Feels Get High",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738722809becc151f3f7f1e4b5",
+      "url": "https://open.spotify.com/track/2xXWJltYuUIyfeCivhxLDq",
+      "durationMs": 296585,
+      "playedAt": "2026-10-30T23:49:56.338Z"
     },
     {
-      "name": "Symphony (feat. Zara Larsson)",
+      "name": "Central Line Jazz",
       "artists": [
-        "Clean Bandit",
-        "Zara Larsson"
+        "Shaolin Cowboy"
       ],
-      "album": "What Is Love? (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c66e925d8fe4c92ebfb49ed",
-      "url": "https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal",
-      "durationMs": 212733,
-      "playedAt": "2026-10-30T22:28:27.797Z"
+      "album": "2Be with You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e727d6e2dfedc6a0fb10352f",
+      "url": "https://open.spotify.com/track/4qGctlEjOrJawFRBkLKUXP",
+      "durationMs": 309559,
+      "playedAt": "2026-10-30T23:45:02.772Z"
     },
     {
-      "name": "Midnight Sun",
+      "name": "i'll be your xtc",
       "artists": [
-        "Zara Larsson"
+        "Jadu Jadu",
+        "Shaolin Cowboy"
       ],
-      "album": "Midnight Sun",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737657f9028ea8bb2c18dca99f",
-      "url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ",
-      "durationMs": 189898,
-      "playedAt": "2026-10-30T22:24:58.133Z"
+      "album": "you should stay right now",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aad459902270b260925310d7",
+      "url": "https://open.spotify.com/track/3tLziEBei45mlujs2uWgpe",
+      "durationMs": 261590,
+      "playedAt": "2026-10-30T23:39:56.256Z"
     },
     {
-      "name": "Stateside + Zara Larsson",
+      "name": "Catch Feels Get High",
       "artists": [
-        "PinkPantheress",
-        "Zara Larsson"
+        "Shaolin Cowboy"
       ],
-      "album": "Fancy Some More?",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273684ecc5bc1b724d0106ad694",
-      "url": "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt",
-      "durationMs": 184761,
-      "playedAt": "2026-10-30T22:21:51.246Z"
+      "album": "Catch Feels Get High",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738722809becc151f3f7f1e4b5",
+      "url": "https://open.spotify.com/track/3T2frfWU5vhWdrvCKY67jZ",
+      "durationMs": 222580,
+      "playedAt": "2026-10-30T23:35:37.629Z"
     },
     {
-      "name": "Lush Life",
+      "name": "Réveiller (feat. manon)",
       "artists": [
-        "Zara Larsson"
+        "Shaolin Cowboy",
+        "manon"
       ],
-      "album": "So Good",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8",
-      "durationMs": 200646,
-      "playedAt": "2026-10-30T22:18:49.427Z"
+      "album": "Réveiller (feat. manon)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273edb1f6dcd264e388165841c5",
+      "url": "https://open.spotify.com/track/51oib6a2dRu2f6x8OMMphQ",
+      "durationMs": 289787,
+      "playedAt": "2026-10-30T23:31:58.056Z"
     },
     {
-      "name": "Blue Moon",
+      "name": "A Brand New Day - BTS World Original Soundtrack (Pt. 2)",
       "artists": [
+        "BTS",
         "Zara Larsson"
       ],
-      "album": "Blue Moon",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27317de0825c1f62b5a3a1d808d",
-      "url": "https://open.spotify.com/track/5EDHxPobOf50pYWwcwxI8y",
-      "durationMs": 177544,
-      "playedAt": "2026-10-30T22:15:31.845Z"
+      "album": "A Brand New Day (BTS World Original Soundtrack) (Pt. 2)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27364e04460c785391f4da82457",
+      "url": "https://open.spotify.com/track/3amNzwQ9muL0ZwDCbe9gWy",
+      "durationMs": 205019,
+      "playedAt": "2026-10-30T23:10:09.493Z"
     }
   ],
   "topArtists": [
@@ -155,15 +145,15 @@
       "genres": []
     },
     {
-      "name": "Frank Ocean",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
-      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
-      "genres": []
-    },
-    {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
+      "genres": []
+    },
+    {
+      "name": "Frank Ocean",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
+      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
       "genres": []
     },
     {
@@ -223,16 +213,6 @@
       "durationMs": 205720
     },
     {
-      "name": "Start",
-      "artists": [
-        "Frank Ocean"
-      ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
-      "durationMs": 45640
-    },
-    {
       "name": "Somliga går med trasiga skor",
       "artists": [
         "Cornelis Vreeswijk"
@@ -262,6 +242,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
       "url": "https://open.spotify.com/track/71wNnpt69XmZS6OMCt19ca",
       "durationMs": 206480
+    },
+    {
+      "name": "He Needs Me (2013 - Remaster)",
+      "artists": [
+        "Nina Simone"
+      ],
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN",
+      "durationMs": 149330
     }
   ],
   "featuredPlaylists": []
