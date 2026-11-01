@@ -1,7 +1,88 @@
 {
-  "updatedAt": "2026-10-31T22:39:43.405Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-01T01:47:57.723Z",
+  "nowPlaying": {
+    "name": "Down Like That",
+    "artists": [
+      "Shaolin Cowboy",
+      "AJ Edward"
+    ],
+    "album": "A Story Of Innocence Lost",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27393d589afa3e9e72b1711bb24",
+    "url": "https://open.spotify.com/track/3MdtcNDFyjCP9myw71Ig5L",
+    "durationMs": 263588,
+    "isPlaying": true,
+    "progressMs": 25270
+  },
   "recentlyPlayed": [
+    {
+      "name": "The Moment I Dance",
+      "artists": [
+        "GEE LEE",
+        "Shaolin Cowboy"
+      ],
+      "album": "The Moment I Dance",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e547d19b44b61ef9f4cdbf1",
+      "url": "https://open.spotify.com/track/4T5o16hIVjdvIy06jhsJLG",
+      "durationMs": 158580,
+      "playedAt": "2026-11-01T01:47:32.243Z"
+    },
+    {
+      "name": "I Guess It's Just Us Now",
+      "artists": [
+        "Shaolin Cowboy"
+      ],
+      "album": "Catch Feels Get High",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738722809becc151f3f7f1e4b5",
+      "url": "https://open.spotify.com/track/2xXWJltYuUIyfeCivhxLDq",
+      "durationMs": 296585,
+      "playedAt": "2026-11-01T01:44:53.529Z"
+    },
+    {
+      "name": "Central Line Jazz",
+      "artists": [
+        "Shaolin Cowboy"
+      ],
+      "album": "2Be with You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e727d6e2dfedc6a0fb10352f",
+      "url": "https://open.spotify.com/track/4qGctlEjOrJawFRBkLKUXP",
+      "durationMs": 309559,
+      "playedAt": "2026-11-01T01:39:56.729Z"
+    },
+    {
+      "name": "i'll be your xtc",
+      "artists": [
+        "Jadu Jadu",
+        "Shaolin Cowboy"
+      ],
+      "album": "you should stay right now",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aad459902270b260925310d7",
+      "url": "https://open.spotify.com/track/3tLziEBei45mlujs2uWgpe",
+      "durationMs": 261590,
+      "playedAt": "2026-11-01T01:34:47.013Z"
+    },
+    {
+      "name": "Catch Feels Get High",
+      "artists": [
+        "Shaolin Cowboy"
+      ],
+      "album": "Catch Feels Get High",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738722809becc151f3f7f1e4b5",
+      "url": "https://open.spotify.com/track/3T2frfWU5vhWdrvCKY67jZ",
+      "durationMs": 222580,
+      "playedAt": "2026-11-01T01:30:25.297Z"
+    },
+    {
+      "name": "Réveiller (feat. manon)",
+      "artists": [
+        "Shaolin Cowboy",
+        "manon"
+      ],
+      "album": "Réveiller (feat. manon)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273edb1f6dcd264e388165841c5",
+      "url": "https://open.spotify.com/track/51oib6a2dRu2f6x8OMMphQ",
+      "durationMs": 289787,
+      "playedAt": "2026-11-01T01:26:42.602Z"
+    },
     {
       "name": "Some Birds Don't Fly",
       "artists": [
@@ -48,75 +129,6 @@
       "url": "https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ",
       "durationMs": 183520,
       "playedAt": "2026-10-31T03:09:20.835Z"
-    },
-    {
-      "name": "London 2 Moscow",
-      "artists": [
-        "Shaolin Cowboy"
-      ],
-      "album": "Catch Feels Get High",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738722809becc151f3f7f1e4b5",
-      "url": "https://open.spotify.com/track/6qr4kojI4w7fXRBncOhSbz",
-      "durationMs": 266441,
-      "playedAt": "2026-10-31T00:04:54.051Z"
-    },
-    {
-      "name": "you should stay right now",
-      "artists": [
-        "Jadu Jadu",
-        "Shaolin Cowboy"
-      ],
-      "album": "you should stay right now",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aad459902270b260925310d7",
-      "url": "https://open.spotify.com/track/2ul09HRValhvcmTzbOjJpm",
-      "durationMs": 221116,
-      "playedAt": "2026-10-31T00:00:30.570Z"
-    },
-    {
-      "name": "Down Like That",
-      "artists": [
-        "Shaolin Cowboy",
-        "AJ Edward"
-      ],
-      "album": "A Story Of Innocence Lost",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27393d589afa3e9e72b1711bb24",
-      "url": "https://open.spotify.com/track/3MdtcNDFyjCP9myw71Ig5L",
-      "durationMs": 263588,
-      "playedAt": "2026-10-30T23:56:52.472Z"
-    },
-    {
-      "name": "The Moment I Dance",
-      "artists": [
-        "GEE LEE",
-        "Shaolin Cowboy"
-      ],
-      "album": "The Moment I Dance",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e547d19b44b61ef9f4cdbf1",
-      "url": "https://open.spotify.com/track/4T5o16hIVjdvIy06jhsJLG",
-      "durationMs": 158580,
-      "playedAt": "2026-10-30T23:52:31.916Z"
-    },
-    {
-      "name": "I Guess It's Just Us Now",
-      "artists": [
-        "Shaolin Cowboy"
-      ],
-      "album": "Catch Feels Get High",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738722809becc151f3f7f1e4b5",
-      "url": "https://open.spotify.com/track/2xXWJltYuUIyfeCivhxLDq",
-      "durationMs": 296585,
-      "playedAt": "2026-10-30T23:49:56.338Z"
-    },
-    {
-      "name": "Central Line Jazz",
-      "artists": [
-        "Shaolin Cowboy"
-      ],
-      "album": "2Be with You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e727d6e2dfedc6a0fb10352f",
-      "url": "https://open.spotify.com/track/4qGctlEjOrJawFRBkLKUXP",
-      "durationMs": 309559,
-      "playedAt": "2026-10-30T23:45:02.772Z"
     }
   ],
   "topArtists": [
