@@ -1,134 +1,118 @@
 {
-  "updatedAt": "2026-11-01T01:47:57.723Z",
-  "nowPlaying": {
-    "name": "Down Like That",
-    "artists": [
-      "Shaolin Cowboy",
-      "AJ Edward"
-    ],
-    "album": "A Story Of Innocence Lost",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27393d589afa3e9e72b1711bb24",
-    "url": "https://open.spotify.com/track/3MdtcNDFyjCP9myw71Ig5L",
-    "durationMs": 263588,
-    "isPlaying": true,
-    "progressMs": 25270
-  },
+  "updatedAt": "2026-11-01T08:38:30.527Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "The Moment I Dance",
+      "name": "Dance with Somebody - Radio Version",
       "artists": [
-        "GEE LEE",
-        "Shaolin Cowboy"
+        "Mando Diao"
       ],
-      "album": "The Moment I Dance",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e547d19b44b61ef9f4cdbf1",
-      "url": "https://open.spotify.com/track/4T5o16hIVjdvIy06jhsJLG",
-      "durationMs": 158580,
-      "playedAt": "2026-11-01T01:47:32.243Z"
+      "album": "Dance with Somebody",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c399529600f436bcdaeb842",
+      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48",
+      "durationMs": 241000,
+      "playedAt": "2026-11-01T03:59:32.946Z"
     },
     {
-      "name": "I Guess It's Just Us Now",
+      "name": "Dance with Somebody - Radio Version",
       "artists": [
-        "Shaolin Cowboy"
+        "Mando Diao"
       ],
-      "album": "Catch Feels Get High",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738722809becc151f3f7f1e4b5",
-      "url": "https://open.spotify.com/track/2xXWJltYuUIyfeCivhxLDq",
-      "durationMs": 296585,
-      "playedAt": "2026-11-01T01:44:53.529Z"
+      "album": "Dance with Somebody",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c399529600f436bcdaeb842",
+      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48",
+      "durationMs": 241000,
+      "playedAt": "2026-11-01T03:55:31.710Z"
     },
     {
-      "name": "Central Line Jazz",
+      "name": "Mr. Brightside",
       "artists": [
-        "Shaolin Cowboy"
+        "The Killers"
       ],
-      "album": "2Be with You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e727d6e2dfedc6a0fb10352f",
-      "url": "https://open.spotify.com/track/4qGctlEjOrJawFRBkLKUXP",
-      "durationMs": 309559,
-      "playedAt": "2026-11-01T01:39:56.729Z"
+      "album": "Hot Fuss",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
+      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B",
+      "durationMs": 222973,
+      "playedAt": "2026-11-01T03:51:07.179Z"
     },
     {
-      "name": "i'll be your xtc",
+      "name": "Firework",
       "artists": [
-        "Jadu Jadu",
-        "Shaolin Cowboy"
+        "Katy Perry"
       ],
-      "album": "you should stay right now",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aad459902270b260925310d7",
-      "url": "https://open.spotify.com/track/3tLziEBei45mlujs2uWgpe",
-      "durationMs": 261590,
-      "playedAt": "2026-11-01T01:34:47.013Z"
+      "album": "Teenage Dream: The Complete Confection",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616",
+      "url": "https://open.spotify.com/track/4lCv7b86sLynZbXhfScfm2",
+      "durationMs": 227880,
+      "playedAt": "2026-11-01T03:47:24.080Z"
     },
     {
-      "name": "Catch Feels Get High",
+      "name": "Lush Life",
       "artists": [
-        "Shaolin Cowboy"
+        "Zara Larsson"
       ],
-      "album": "Catch Feels Get High",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738722809becc151f3f7f1e4b5",
-      "url": "https://open.spotify.com/track/3T2frfWU5vhWdrvCKY67jZ",
-      "durationMs": 222580,
-      "playedAt": "2026-11-01T01:30:25.297Z"
+      "album": "So Good",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
+      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8",
+      "durationMs": 200646,
+      "playedAt": "2026-11-01T03:43:35.980Z"
     },
     {
-      "name": "Réveiller (feat. manon)",
+      "name": "Can't Tame Her",
       "artists": [
-        "Shaolin Cowboy",
-        "manon"
+        "Zara Larsson"
       ],
-      "album": "Réveiller (feat. manon)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273edb1f6dcd264e388165841c5",
-      "url": "https://open.spotify.com/track/51oib6a2dRu2f6x8OMMphQ",
-      "durationMs": 289787,
-      "playedAt": "2026-11-01T01:26:42.602Z"
+      "album": "VENUS",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ad4d76696458a3a7befd3cd7",
+      "url": "https://open.spotify.com/track/0b8MRnjacbgVQlvLcg8JGQ",
+      "durationMs": 196939,
+      "playedAt": "2026-11-01T03:10:31.379Z"
     },
     {
-      "name": "Some Birds Don't Fly",
+      "name": "Eurosummer - Girls Trip",
       "artists": [
-        "Gotts Street Park",
-        "Matt Maltese"
+        "Zara Larsson",
+        "Shakira"
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/71wNnpt69XmZS6OMCt19ca",
-      "durationMs": 206480,
-      "playedAt": "2026-10-31T03:19:15.760Z"
+      "album": "Midnight Sun: Girls Trip",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736466c2a6a595633aecdf4cc7",
+      "url": "https://open.spotify.com/track/53fyIvbeN7rfLK1GIZNLDL",
+      "durationMs": 170346,
+      "playedAt": "2026-11-01T03:07:14.270Z"
     },
     {
-      "name": "Nico's Theme",
+      "name": "Words (feat. Zara Larsson)",
       "artists": [
-        "Gotts Street Park"
+        "Alesso",
+        "Zara Larsson"
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/4zuMNnWY2jRnkacaf5Ar7L",
-      "durationMs": 167698,
-      "playedAt": "2026-10-31T03:15:49.309Z"
+      "album": "Words (feat. Zara Larsson)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738f9c368d8d0f5792ffc5d38e",
+      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs",
+      "durationMs": 142677,
+      "playedAt": "2026-11-01T03:04:23.743Z"
     },
     {
-      "name": "Flowers",
+      "name": "Pretty Ugly",
       "artists": [
-        "Gotts Street Park",
-        "Pip Millett"
+        "Zara Larsson"
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
-      "durationMs": 205720,
-      "playedAt": "2026-10-31T03:13:01.607Z"
+      "album": "Midnight Sun",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27393872dded9b6fe861ac52752",
+      "url": "https://open.spotify.com/track/5FYkRxeoLfVxMqyfNR6TMQ",
+      "durationMs": 158696,
+      "playedAt": "2026-11-01T03:02:00.913Z"
     },
     {
-      "name": "Wake Me Up",
+      "name": "Ain't My Fault",
       "artists": [
-        "Gotts Street Park",
-        "Olive Jones"
+        "Zara Larsson"
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ",
-      "durationMs": 183520,
-      "playedAt": "2026-10-31T03:09:20.835Z"
+      "album": "So Good",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
+      "url": "https://open.spotify.com/track/0ADG9OgdVTL7fgREP75BrZ",
+      "durationMs": 224457,
+      "playedAt": "2026-11-01T02:59:22.013Z"
     }
   ],
   "topArtists": [
@@ -175,9 +159,9 @@
       "genres": []
     },
     {
-      "name": "Jazzinuf",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb8dc290861bca99af60115d7e",
-      "url": "https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi",
+      "name": "Zara Larsson",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebcbfb8295e334da7f2c8b4bff",
+      "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg",
       "genres": []
     }
   ],
@@ -256,14 +240,15 @@
       "durationMs": 206480
     },
     {
-      "name": "He Needs Me (2013 - Remaster)",
+      "name": "Shape Of America",
       "artists": [
-        "Nina Simone"
+        "Gotts Street Park",
+        "Sofia and the Antoinettes"
       ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/7dfKrqvN9GDE6pzsrdI9uN",
-      "durationMs": 149330
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
+      "durationMs": 209866
     }
   ],
   "featuredPlaylists": []
