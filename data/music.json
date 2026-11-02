@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T04:10:11.057Z",
+  "updatedAt": "2026-11-02T12:43:46.839Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -199,16 +199,6 @@
       "durationMs": 174813
     },
     {
-      "name": "Mood Indigo (2013 - Remaster)",
-      "artists": [
-        "Nina Simone"
-      ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/3rlEbh8f1o88gsBFkwV6bh",
-      "durationMs": 240610
-    },
-    {
       "name": "Somliga går med trasiga skor",
       "artists": [
         "Cornelis Vreeswijk"
@@ -238,6 +228,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
       "url": "https://open.spotify.com/track/71wNnpt69XmZS6OMCt19ca",
       "durationMs": 206480
+    },
+    {
+      "name": "Mood Indigo (2013 - Remaster)",
+      "artists": [
+        "Nina Simone"
+      ],
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/3rlEbh8f1o88gsBFkwV6bh",
+      "durationMs": 240610
     },
     {
       "name": "Shape Of America",
