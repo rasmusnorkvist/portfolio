@@ -1,7 +1,76 @@
 {
-  "updatedAt": "2026-11-02T12:43:46.839Z",
+  "updatedAt": "2026-11-02T22:05:38.609Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Some Birds Don't Fly",
+      "artists": [
+        "Gotts Street Park",
+        "Matt Maltese"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/71wNnpt69XmZS6OMCt19ca",
+      "durationMs": 206480,
+      "playedAt": "2026-11-02T20:00:09.563Z"
+    },
+    {
+      "name": "Nico's Theme",
+      "artists": [
+        "Gotts Street Park"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/4zuMNnWY2jRnkacaf5Ar7L",
+      "durationMs": 167698,
+      "playedAt": "2026-11-02T19:56:43.068Z"
+    },
+    {
+      "name": "Nico's Theme",
+      "artists": [
+        "Gotts Street Park"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/4zuMNnWY2jRnkacaf5Ar7L",
+      "durationMs": 167698,
+      "playedAt": "2026-11-02T19:54:08.443Z"
+    },
+    {
+      "name": "Flowers",
+      "artists": [
+        "Gotts Street Park",
+        "Pip Millett"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
+      "durationMs": 205720,
+      "playedAt": "2026-11-02T19:52:32.515Z"
+    },
+    {
+      "name": "Wake Me Up",
+      "artists": [
+        "Gotts Street Park",
+        "Olive Jones"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ",
+      "durationMs": 183520,
+      "playedAt": "2026-11-02T19:49:06.815Z"
+    },
+    {
+      "name": "Klockan är 15:40, dags att fucka ur",
+      "artists": [
+        "Laser & bas"
+      ],
+      "album": "Klockan är 15:40, dags att fucka ur",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737f859bd263bdf0a896cf2ee8",
+      "url": "https://open.spotify.com/track/6YtsAWXKFAVnl0Xyiv2ECb",
+      "durationMs": 160000,
+      "playedAt": "2026-11-02T18:30:20.145Z"
+    },
     {
       "name": "Dance with Somebody - Radio Version",
       "artists": [
@@ -45,74 +114,6 @@
       "url": "https://open.spotify.com/track/4lCv7b86sLynZbXhfScfm2",
       "durationMs": 227880,
       "playedAt": "2026-11-01T03:47:24.080Z"
-    },
-    {
-      "name": "Lush Life",
-      "artists": [
-        "Zara Larsson"
-      ],
-      "album": "So Good",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
-      "url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8",
-      "durationMs": 200646,
-      "playedAt": "2026-11-01T03:43:35.980Z"
-    },
-    {
-      "name": "Can't Tame Her",
-      "artists": [
-        "Zara Larsson"
-      ],
-      "album": "VENUS",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ad4d76696458a3a7befd3cd7",
-      "url": "https://open.spotify.com/track/0b8MRnjacbgVQlvLcg8JGQ",
-      "durationMs": 196939,
-      "playedAt": "2026-11-01T03:10:31.379Z"
-    },
-    {
-      "name": "Eurosummer - Girls Trip",
-      "artists": [
-        "Zara Larsson",
-        "Shakira"
-      ],
-      "album": "Midnight Sun: Girls Trip",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736466c2a6a595633aecdf4cc7",
-      "url": "https://open.spotify.com/track/53fyIvbeN7rfLK1GIZNLDL",
-      "durationMs": 170346,
-      "playedAt": "2026-11-01T03:07:14.270Z"
-    },
-    {
-      "name": "Words (feat. Zara Larsson)",
-      "artists": [
-        "Alesso",
-        "Zara Larsson"
-      ],
-      "album": "Words (feat. Zara Larsson)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738f9c368d8d0f5792ffc5d38e",
-      "url": "https://open.spotify.com/track/1bgKMxPQU7JIZEhNsM1vFs",
-      "durationMs": 142677,
-      "playedAt": "2026-11-01T03:04:23.743Z"
-    },
-    {
-      "name": "Pretty Ugly",
-      "artists": [
-        "Zara Larsson"
-      ],
-      "album": "Midnight Sun",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27393872dded9b6fe861ac52752",
-      "url": "https://open.spotify.com/track/5FYkRxeoLfVxMqyfNR6TMQ",
-      "durationMs": 158696,
-      "playedAt": "2026-11-01T03:02:00.913Z"
-    },
-    {
-      "name": "Ain't My Fault",
-      "artists": [
-        "Zara Larsson"
-      ],
-      "album": "So Good",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273401bf6103d4b7f5230a21582",
-      "url": "https://open.spotify.com/track/0ADG9OgdVTL7fgREP75BrZ",
-      "durationMs": 224457,
-      "playedAt": "2026-11-01T02:59:22.013Z"
     }
   ],
   "topArtists": [
@@ -123,15 +124,15 @@
       "genres": []
     },
     {
-      "name": "Mando Diao",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
-      "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": []
-    },
-    {
       "name": "Gotts Street Park",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebbe1cb95c7d1d2420acfd71fe",
       "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y",
+      "genres": []
+    },
+    {
+      "name": "Mando Diao",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
+      "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
       "genres": []
     },
     {
@@ -189,26 +190,6 @@
       "durationMs": 205720
     },
     {
-      "name": "Les Dunes",
-      "artists": [
-        "The Offline"
-      ],
-      "album": "Les Dunes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
-      "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
-      "durationMs": 174813
-    },
-    {
-      "name": "Somliga går med trasiga skor",
-      "artists": [
-        "Cornelis Vreeswijk"
-      ],
-      "album": "Tio vackra visor och personliga Person",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
-      "url": "https://open.spotify.com/track/3RziapqS8nr6DiejCtI3cd",
-      "durationMs": 180960
-    },
-    {
       "name": "Nico's Theme",
       "artists": [
         "Gotts Street Park"
@@ -217,6 +198,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
       "url": "https://open.spotify.com/track/4zuMNnWY2jRnkacaf5Ar7L",
       "durationMs": 167698
+    },
+    {
+      "name": "Les Dunes",
+      "artists": [
+        "The Offline"
+      ],
+      "album": "Les Dunes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
+      "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
+      "durationMs": 174813
     },
     {
       "name": "Some Birds Don't Fly",
@@ -228,6 +219,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
       "url": "https://open.spotify.com/track/71wNnpt69XmZS6OMCt19ca",
       "durationMs": 206480
+    },
+    {
+      "name": "Somliga går med trasiga skor",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Tio vackra visor och personliga Person",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
+      "url": "https://open.spotify.com/track/3RziapqS8nr6DiejCtI3cd",
+      "durationMs": 180960
     },
     {
       "name": "Mood Indigo (2013 - Remaster)",
