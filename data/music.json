@@ -1,7 +1,19 @@
 {
-  "updatedAt": "2026-11-03T11:34:46.688Z",
+  "updatedAt": "2026-11-03T18:58:46.067Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Shape Of America",
+      "artists": [
+        "Gotts Street Park",
+        "Sofia and the Antoinettes"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
+      "durationMs": 209866,
+      "playedAt": "2026-11-03T07:28:08.056Z"
+    },
     {
       "name": "Some Birds Don't Fly",
       "artists": [
@@ -103,17 +115,6 @@
       "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B",
       "durationMs": 222973,
       "playedAt": "2026-11-01T03:51:07.179Z"
-    },
-    {
-      "name": "Firework",
-      "artists": [
-        "Katy Perry"
-      ],
-      "album": "Teenage Dream: The Complete Confection",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616",
-      "url": "https://open.spotify.com/track/4lCv7b86sLynZbXhfScfm2",
-      "durationMs": 227880,
-      "playedAt": "2026-11-01T03:47:24.080Z"
     }
   ],
   "topArtists": [
@@ -231,16 +232,6 @@
       "durationMs": 180960
     },
     {
-      "name": "Mood Indigo (2013 - Remaster)",
-      "artists": [
-        "Nina Simone"
-      ],
-      "album": "Little Girl Blue (2013 - Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
-      "url": "https://open.spotify.com/track/3rlEbh8f1o88gsBFkwV6bh",
-      "durationMs": 240610
-    },
-    {
       "name": "Shape Of America",
       "artists": [
         "Gotts Street Park",
@@ -250,6 +241,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
       "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
       "durationMs": 209866
+    },
+    {
+      "name": "Mood Indigo (2013 - Remaster)",
+      "artists": [
+        "Nina Simone"
+      ],
+      "album": "Little Girl Blue (2013 - Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379d4b738f89a33471c9e0aa6",
+      "url": "https://open.spotify.com/track/3rlEbh8f1o88gsBFkwV6bh",
+      "durationMs": 240610
     }
   ],
   "featuredPlaylists": []
