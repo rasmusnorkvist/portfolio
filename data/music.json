@@ -1,127 +1,121 @@
 {
-  "updatedAt": "2026-11-04T04:47:47.191Z",
+  "updatedAt": "2026-11-04T12:44:53.756Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Walk Between Raindrops",
+      "name": "Life Called River",
       "artists": [
-        "Donald Fagen"
+        "The Mighty Tiny & The Many Few"
       ],
-      "album": "The Nightfly",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
-      "url": "https://open.spotify.com/track/0bGUHUjU8IZxH2NugIjTX9",
-      "durationMs": 158773,
-      "playedAt": "2026-11-04T04:37:59.376Z"
+      "album": "Be The Good People",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27356d2ae6a5f9844b03d4c9353",
+      "url": "https://open.spotify.com/track/4byN8AG0KYYS04f4BoTAT3",
+      "durationMs": 223521,
+      "playedAt": "2026-11-04T06:03:26.139Z"
     },
     {
-      "name": "The Goodbye Look",
+      "name": "Rewind/Remind",
       "artists": [
-        "Donald Fagen"
+        "Momoko Gill"
       ],
-      "album": "The Nightfly",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
-      "url": "https://open.spotify.com/track/3jAqtv3axuQ4lYz7v5h9MW",
-      "durationMs": 290306,
-      "playedAt": "2026-11-04T04:35:20.634Z"
+      "album": "Momoko",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734a48fc753b656af9962bfcf7",
+      "url": "https://open.spotify.com/track/3eXFH6seJPXTULQTjcqUJM",
+      "durationMs": 252480,
+      "playedAt": "2026-11-04T05:59:45.640Z"
     },
     {
-      "name": "The Nightfly",
+      "name": "My Sisters And Me",
       "artists": [
-        "Donald Fagen"
+        "The Womack Sisters"
       ],
-      "album": "The Nightfly",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
-      "url": "https://open.spotify.com/track/7icC0mHYpROmIRhpa2DaFC",
-      "durationMs": 347333,
-      "playedAt": "2026-11-04T04:30:30.280Z"
+      "album": "The Womack Sisters",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273afa44cba895ec03a35a27778",
+      "url": "https://open.spotify.com/track/269DO3q3lVlfkHTsWuLR1B",
+      "durationMs": 131173,
+      "playedAt": "2026-11-04T05:55:36.169Z"
     },
     {
-      "name": "New Frontier",
+      "name": "Sunshine",
       "artists": [
-        "Donald Fagen"
+        "anaiis"
       ],
-      "album": "The Nightfly",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
-      "url": "https://open.spotify.com/track/2HyrLPJTZ4qDpWJ6qnu0Ke",
-      "durationMs": 381106,
-      "playedAt": "2026-11-04T04:24:42.978Z"
+      "album": "Sunshine / P4P",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f3e34e8382e7720a983818ea",
+      "url": "https://open.spotify.com/track/561OEU7Zw4rHfDTzoUyJWa",
+      "durationMs": 220044,
+      "playedAt": "2026-11-04T05:53:27.965Z"
     },
     {
-      "name": "Maxine",
+      "name": "Promise",
       "artists": [
-        "Donald Fagen"
+        "Jordan Rakei"
       ],
-      "album": "The Nightfly",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
-      "url": "https://open.spotify.com/track/7fW59TD8pQRSobXp3BslSd",
-      "durationMs": 229733,
-      "playedAt": "2026-11-04T04:18:21.873Z"
+      "album": "Promise",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731585d99aec31d69cf0cc9ea9",
+      "url": "https://open.spotify.com/track/7xia6ZCAVUJv33LvFpcLig",
+      "durationMs": 160249,
+      "playedAt": "2026-11-04T05:49:50.964Z"
     },
     {
-      "name": "Ruby Baby",
+      "name": "Verrans Corner",
       "artists": [
-        "Donald Fagen"
+        "Serebii",
+        "Leith Sye Towers"
       ],
-      "album": "The Nightfly",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
-      "url": "https://open.spotify.com/track/72mx4tVoM7knI9D20trABp",
-      "durationMs": 339066,
-      "playedAt": "2026-11-04T04:14:32.172Z"
+      "album": "Dime",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e2c5aebac63c87d700068080",
+      "url": "https://open.spotify.com/track/3FllktA1ECJaaR5M0mpJA9",
+      "durationMs": 202415,
+      "playedAt": "2026-11-04T05:47:13.706Z"
     },
     {
-      "name": "Green Flower Street",
+      "name": "Just Another Moment",
       "artists": [
-        "Donald Fagen"
+        "Michael Kiwanuka"
       ],
-      "album": "The Nightfly",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
-      "url": "https://open.spotify.com/track/34fWcazka5WAgvsPg1ZKXU",
-      "durationMs": 222493,
-      "playedAt": "2026-11-04T04:08:53.078Z"
+      "album": "FUDGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273477e1c8155bcd3394113fc05",
+      "url": "https://open.spotify.com/track/2MlRhwYg7l7hTKxQHC7NlB",
+      "durationMs": 387275,
+      "playedAt": "2026-11-04T05:43:54.364Z"
     },
     {
-      "name": "I.G.Y.",
+      "name": "Sentimental Love",
       "artists": [
-        "Donald Fagen"
+        "Cleo Sol"
       ],
-      "album": "The Nightfly",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
-      "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3",
-      "durationMs": 363413,
-      "playedAt": "2026-11-04T04:05:10.576Z"
+      "album": "Gentlewoman",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f116be73221b789ad7e2376e",
+      "url": "https://open.spotify.com/track/3LKqrPI3rAv2fGJOIMHIws",
+      "durationMs": 257280,
+      "playedAt": "2026-11-04T05:37:30.083Z"
     },
     {
-      "name": "Shape Of America",
+      "name": "Tell Me Why",
       "artists": [
         "Gotts Street Park",
-        "Sofia and the Antoinettes"
+        "Olive Jones"
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
-      "durationMs": 209866,
-      "playedAt": "2026-11-03T07:28:08.056Z"
+      "album": "On The Inside",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ffa7cc0ea75c1e23e54ccb9",
+      "url": "https://open.spotify.com/track/7AvuIMRKdo5RvS6YIzXjsj",
+      "durationMs": 231560,
+      "playedAt": "2026-11-04T05:33:15.854Z"
     },
     {
-      "name": "Some Birds Don't Fly",
+      "name": "Planes",
       "artists": [
-        "Gotts Street Park",
-        "Matt Maltese"
+        "Olive Jones"
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/71wNnpt69XmZS6OMCt19ca",
-      "durationMs": 206480,
-      "playedAt": "2026-11-02T20:00:09.563Z"
+      "album": "For Mary",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e395f1ea180fe7359fa2cdd1",
+      "url": "https://open.spotify.com/track/2DpkCVXKWtdekSXzTaCNR3",
+      "durationMs": 213272,
+      "playedAt": "2026-11-04T05:29:27.268Z"
     }
   ],
   "topArtists": [
-    {
-      "name": "Cornelis Vreeswijk",
-      "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
-      "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
-      "genres": []
-    },
     {
       "name": "Gotts Street Park",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebbe1cb95c7d1d2420acfd71fe",
@@ -129,22 +123,37 @@
       "genres": []
     },
     {
+      "name": "Cornelis Vreeswijk",
+      "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
+      "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
+      "genres": [
+        "swedish pop"
+      ]
+    },
+    {
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "The Offline",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
       "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": []
+      "genres": [
+        "jazz house",
+        "jazz beats"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Frank Ocean",
@@ -156,7 +165,12 @@
       "name": "Nina Simone",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
       "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
-      "genres": []
+      "genres": [
+        "vocal jazz",
+        "soul jazz",
+        "soul",
+        "jazz"
+      ]
     },
     {
       "name": "Zara Larsson",
@@ -199,16 +213,6 @@
       "durationMs": 167698
     },
     {
-      "name": "Les Dunes",
-      "artists": [
-        "The Offline"
-      ],
-      "album": "Les Dunes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
-      "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
-      "durationMs": 174813
-    },
-    {
       "name": "Some Birds Don't Fly",
       "artists": [
         "Gotts Street Park",
@@ -220,14 +224,14 @@
       "durationMs": 206480
     },
     {
-      "name": "Somliga går med trasiga skor",
+      "name": "Les Dunes",
       "artists": [
-        "Cornelis Vreeswijk"
+        "The Offline"
       ],
-      "album": "Tio vackra visor och personliga Person",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
-      "url": "https://open.spotify.com/track/3RziapqS8nr6DiejCtI3cd",
-      "durationMs": 180960
+      "album": "Les Dunes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
+      "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
+      "durationMs": 174813
     },
     {
       "name": "Shape Of America",
@@ -239,6 +243,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
       "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
       "durationMs": 209866
+    },
+    {
+      "name": "Somliga går med trasiga skor",
+      "artists": [
+        "Cornelis Vreeswijk"
+      ],
+      "album": "Tio vackra visor och personliga Person",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
+      "url": "https://open.spotify.com/track/3RziapqS8nr6DiejCtI3cd",
+      "durationMs": 180960
     },
     {
       "name": "Mood Indigo (2013 - Remaster)",
