@@ -1,7 +1,95 @@
 {
-  "updatedAt": "2026-11-03T23:55:34.641Z",
+  "updatedAt": "2026-11-04T04:47:47.191Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Walk Between Raindrops",
+      "artists": [
+        "Donald Fagen"
+      ],
+      "album": "The Nightfly",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
+      "url": "https://open.spotify.com/track/0bGUHUjU8IZxH2NugIjTX9",
+      "durationMs": 158773,
+      "playedAt": "2026-11-04T04:37:59.376Z"
+    },
+    {
+      "name": "The Goodbye Look",
+      "artists": [
+        "Donald Fagen"
+      ],
+      "album": "The Nightfly",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
+      "url": "https://open.spotify.com/track/3jAqtv3axuQ4lYz7v5h9MW",
+      "durationMs": 290306,
+      "playedAt": "2026-11-04T04:35:20.634Z"
+    },
+    {
+      "name": "The Nightfly",
+      "artists": [
+        "Donald Fagen"
+      ],
+      "album": "The Nightfly",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
+      "url": "https://open.spotify.com/track/7icC0mHYpROmIRhpa2DaFC",
+      "durationMs": 347333,
+      "playedAt": "2026-11-04T04:30:30.280Z"
+    },
+    {
+      "name": "New Frontier",
+      "artists": [
+        "Donald Fagen"
+      ],
+      "album": "The Nightfly",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
+      "url": "https://open.spotify.com/track/2HyrLPJTZ4qDpWJ6qnu0Ke",
+      "durationMs": 381106,
+      "playedAt": "2026-11-04T04:24:42.978Z"
+    },
+    {
+      "name": "Maxine",
+      "artists": [
+        "Donald Fagen"
+      ],
+      "album": "The Nightfly",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
+      "url": "https://open.spotify.com/track/7fW59TD8pQRSobXp3BslSd",
+      "durationMs": 229733,
+      "playedAt": "2026-11-04T04:18:21.873Z"
+    },
+    {
+      "name": "Ruby Baby",
+      "artists": [
+        "Donald Fagen"
+      ],
+      "album": "The Nightfly",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
+      "url": "https://open.spotify.com/track/72mx4tVoM7knI9D20trABp",
+      "durationMs": 339066,
+      "playedAt": "2026-11-04T04:14:32.172Z"
+    },
+    {
+      "name": "Green Flower Street",
+      "artists": [
+        "Donald Fagen"
+      ],
+      "album": "The Nightfly",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
+      "url": "https://open.spotify.com/track/34fWcazka5WAgvsPg1ZKXU",
+      "durationMs": 222493,
+      "playedAt": "2026-11-04T04:08:53.078Z"
+    },
+    {
+      "name": "I.G.Y.",
+      "artists": [
+        "Donald Fagen"
+      ],
+      "album": "The Nightfly",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c3be4e1c786475f9489529f",
+      "url": "https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3",
+      "durationMs": 363413,
+      "playedAt": "2026-11-04T04:05:10.576Z"
+    },
     {
       "name": "Shape Of America",
       "artists": [
@@ -25,96 +113,6 @@
       "url": "https://open.spotify.com/track/71wNnpt69XmZS6OMCt19ca",
       "durationMs": 206480,
       "playedAt": "2026-11-02T20:00:09.563Z"
-    },
-    {
-      "name": "Nico's Theme",
-      "artists": [
-        "Gotts Street Park"
-      ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/4zuMNnWY2jRnkacaf5Ar7L",
-      "durationMs": 167698,
-      "playedAt": "2026-11-02T19:56:43.068Z"
-    },
-    {
-      "name": "Nico's Theme",
-      "artists": [
-        "Gotts Street Park"
-      ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/4zuMNnWY2jRnkacaf5Ar7L",
-      "durationMs": 167698,
-      "playedAt": "2026-11-02T19:54:08.443Z"
-    },
-    {
-      "name": "Flowers",
-      "artists": [
-        "Gotts Street Park",
-        "Pip Millett"
-      ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
-      "durationMs": 205720,
-      "playedAt": "2026-11-02T19:52:32.515Z"
-    },
-    {
-      "name": "Wake Me Up",
-      "artists": [
-        "Gotts Street Park",
-        "Olive Jones"
-      ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ",
-      "durationMs": 183520,
-      "playedAt": "2026-11-02T19:49:06.815Z"
-    },
-    {
-      "name": "Klockan är 15:40, dags att fucka ur",
-      "artists": [
-        "Laser & bas"
-      ],
-      "album": "Klockan är 15:40, dags att fucka ur",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737f859bd263bdf0a896cf2ee8",
-      "url": "https://open.spotify.com/track/6YtsAWXKFAVnl0Xyiv2ECb",
-      "durationMs": 160000,
-      "playedAt": "2026-11-02T18:30:20.145Z"
-    },
-    {
-      "name": "Dance with Somebody - Radio Version",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Dance with Somebody",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c399529600f436bcdaeb842",
-      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48",
-      "durationMs": 241000,
-      "playedAt": "2026-11-01T03:59:32.946Z"
-    },
-    {
-      "name": "Dance with Somebody - Radio Version",
-      "artists": [
-        "Mando Diao"
-      ],
-      "album": "Dance with Somebody",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c399529600f436bcdaeb842",
-      "url": "https://open.spotify.com/track/28qkNp9shSV8AQrBwxZf48",
-      "durationMs": 241000,
-      "playedAt": "2026-11-01T03:55:31.710Z"
-    },
-    {
-      "name": "Mr. Brightside",
-      "artists": [
-        "The Killers"
-      ],
-      "album": "Hot Fuss",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
-      "url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B",
-      "durationMs": 222973,
-      "playedAt": "2026-11-01T03:51:07.179Z"
     }
   ],
   "topArtists": [
