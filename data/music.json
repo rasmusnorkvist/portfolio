@@ -1,129 +1,136 @@
 {
-  "updatedAt": "2026-11-05T16:02:12.474Z",
+  "updatedAt": "2026-11-05T22:09:38.852Z",
   "nowPlaying": {
-    "name": "Where Are We Going?",
+    "name": "No Diggity",
     "artists": [
-      "Marvin Gaye"
+      "Blackstreet",
+      "Dr. Dre",
+      "Queen Pen"
     ],
-    "album": "Gold",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373e861365c127f4d8f4b7d0d",
-    "url": "https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu",
-    "durationMs": 235680,
+    "album": "Another Level",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27303ca37157b9ceefbe8fe225b",
+    "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ",
+    "durationMs": 304600,
     "isPlaying": true,
-    "progressMs": 122799
+    "progressMs": 245948
   },
   "recentlyPlayed": [
     {
-      "name": "Baby, This Love I Have",
+      "name": "Gettin' Jiggy Wit It",
       "artists": [
-        "Minnie Riperton"
+        "Will Smith"
       ],
-      "album": "Adventures In Paradise",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273be5b2ecc3252d5c1d6a0f865",
-      "url": "https://open.spotify.com/track/397fxHew7NyjryGWGr1Imy",
-      "durationMs": 250866,
-      "playedAt": "2026-11-05T16:00:12.595Z"
+      "album": "Big Willie Style",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ddf2f9edabd166c60047e3c4",
+      "url": "https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp",
+      "durationMs": 227933,
+      "playedAt": "2026-11-05T22:05:35.747Z"
     },
     {
-      "name": "Got To Be Good",
+      "name": "Lean Back (feat. Lil Jon, Eminem, Mase & Remy Martin) - Remix",
       "artists": [
-        "Gotts Street Park",
-        "Pip Millett"
+        "Fat Joe",
+        "Eminem",
+        "Lil Jon",
+        "Mase",
+        "Remy Ma"
       ],
-      "album": "On The Inside",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ffa7cc0ea75c1e23e54ccb9",
-      "url": "https://open.spotify.com/track/59QJsTw38Jj13WnR1qz1MC",
-      "durationMs": 159933,
-      "playedAt": "2026-11-05T06:09:02Z"
+      "album": "All Or Nothing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c3cc3ebad3a4e8ab2a30795d",
+      "url": "https://open.spotify.com/track/2uiEqPjMmIJXOKplzsEASP",
+      "durationMs": 290266,
+      "playedAt": "2026-11-05T22:01:47.253Z"
     },
     {
-      "name": "I'm Gonna Tear Your Playhouse Down",
+      "name": "Bomb Intro / Pass That Dutch",
       "artists": [
-        "Ann Peebles"
+        "Missy Elliott"
       ],
-      "album": "I Can't Stand the Rain",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273943b4cc92b7af0f22190eaef",
-      "url": "https://open.spotify.com/track/62i5IYsfk28UiViWTeEw2x",
-      "durationMs": 165040,
-      "playedAt": "2026-11-05T06:06:25.054Z"
+      "album": "This Is Not a Test!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733e689561b438186f17cc190e",
+      "url": "https://open.spotify.com/track/1MaI6NwdrqnE3mRzOYTpoo",
+      "durationMs": 217200,
+      "playedAt": "2026-11-05T21:56:54.739Z"
     },
     {
-      "name": "What It Gave Me",
+      "name": "Feel so Good",
       "artists": [
-        "Jordan Rakei",
-        "Jalen Ngonda"
+        "Mase"
       ],
-      "album": "What It Gave Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733ca60d41e2297ac4953ed01e",
-      "url": "https://open.spotify.com/track/40QovgBEbr3XnqTJA55jLC",
-      "durationMs": 164605,
-      "playedAt": "2026-11-05T06:03:43.064Z"
+      "album": "Harlem World",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f1fded9d9960898bd8e604a7",
+      "url": "https://open.spotify.com/track/7hfRrdFJgFKK3cJ4rmkecE",
+      "durationMs": 203626,
+      "playedAt": "2026-11-05T21:53:20.532Z"
     },
     {
-      "name": "Friends",
+      "name": "Got Your Money (feat. Kelis)",
       "artists": [
-        "DON WEST"
+        "Ol' Dirty Bastard",
+        "Kelis"
       ],
-      "album": "Friends",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273907c1138fd280d0f71303892",
-      "url": "https://open.spotify.com/track/7cSgw8IYwl1ICzc92ROGVB",
-      "durationMs": 213258,
-      "playedAt": "2026-11-05T06:01:01.473Z"
+      "album": "Nigga Please",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cf3f1dc2e9d83e361a47666a",
+      "url": "https://open.spotify.com/track/6YYd5MLpu45J0uLrMdivF7",
+      "durationMs": 239546,
+      "playedAt": "2026-11-05T20:13:04.237Z"
     },
     {
-      "name": "Inspiration Information",
+      "name": "Big Poppa - 2007 Remaster",
       "artists": [
-        "Sharon Jones & The Dap-Kings"
+        "The Notorious B.I.G."
       ],
-      "album": "Soul Time!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733735ae6d394f844fd4599732",
-      "url": "https://open.spotify.com/track/4uDh2RZ6aRGB3a76Ieh4em",
-      "durationMs": 243546,
-      "playedAt": "2026-11-05T05:57:31.201Z"
+      "album": "Greatest Hits",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273639fea4197e676cfe9512e04",
+      "url": "https://open.spotify.com/track/63BcfK6YAzJYeISaTPr6IO",
+      "durationMs": 249866,
+      "playedAt": "2026-11-05T20:09:02.938Z"
     },
     {
-      "name": "Trouble, Heartaches & Sadness",
+      "name": "Regulate",
       "artists": [
-        "Ann Peebles"
+        "Warren G",
+        "Nate Dogg"
       ],
-      "album": "Straight from the Heart",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c15ef25797313383647c7f3",
-      "url": "https://open.spotify.com/track/0ryoOkpaDeSQRoYQGGJAxn",
-      "durationMs": 161400,
-      "playedAt": "2026-11-05T05:53:30.701Z"
+      "album": "Regulate...G Funk Era (20th Anniversary)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fb009ec94ffc5a282a06f03b",
+      "url": "https://open.spotify.com/track/4uIKHABS2ixy0AW0Y31rj4",
+      "durationMs": 248866,
+      "playedAt": "2026-11-05T20:04:56.135Z"
     },
     {
-      "name": "Tell Me A Tale",
+      "name": "One Minute Man (feat. Ludacris)",
       "artists": [
-        "Michael Kiwanuka"
+        "Missy Elliott",
+        "Ludacris"
       ],
-      "album": "Home Again (Deluxe Version)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cf3cd9588ec89ab911b70780",
-      "url": "https://open.spotify.com/track/6GQQz48swxNlRrhflWmd2q",
-      "durationMs": 249745,
-      "playedAt": "2026-11-05T05:50:52.301Z"
+      "album": "Miss E... So Addictive",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732e3969990abe1229c0879a7b",
+      "url": "https://open.spotify.com/track/0jG92AlXau21qgCQRxGLic",
+      "durationMs": 252986,
+      "playedAt": "2026-11-05T20:00:50.230Z"
     },
     {
-      "name": "Stormy Weather",
+      "name": "Ms. Jackson",
       "artists": [
-        "Etta James"
+        "Outkast"
       ],
-      "album": "At Last!",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b2229a8fdf377abaf3652624",
-      "url": "https://open.spotify.com/track/2IdwQxhJn9ZE4zIotcCefR",
-      "durationMs": 187666,
-      "playedAt": "2026-11-05T05:46:45.586Z"
+      "album": "Stankonia",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273153b3d6495031cb813a7451c",
+      "url": "https://open.spotify.com/track/0I3q5fE6wg7LIfHGngUTnV",
+      "durationMs": 270506,
+      "playedAt": "2026-11-05T19:56:40.237Z"
     },
     {
-      "name": "Here I Go Again",
+      "name": "Where The Hood At",
       "artists": [
-        "Jean Plum"
+        "DMX"
       ],
-      "album": "Jean Plum: The Hi Recordings",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730f1829d8cf3efbd0500eaa58",
-      "url": "https://open.spotify.com/track/5Xsq9miBRyrcgqtrpcIna3",
-      "durationMs": 148560,
-      "playedAt": "2026-11-05T05:43:40.895Z"
+      "album": "Grand Champ",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b6afa5d2bfa63cb0eaa386b1",
+      "url": "https://open.spotify.com/track/6RUpJeXT6U4SPEafnr9Wr7",
+      "durationMs": 286266,
+      "playedAt": "2026-11-05T19:52:12.736Z"
     }
   ],
   "topArtists": [
