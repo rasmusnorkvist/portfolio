@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-11-05T07:46:34.632Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-05T16:02:12.474Z",
+  "nowPlaying": {
+    "name": "Where Are We Going?",
+    "artists": [
+      "Marvin Gaye"
+    ],
+    "album": "Gold",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27373e861365c127f4d8f4b7d0d",
+    "url": "https://open.spotify.com/track/7poaDTqWgJQDG5gqvobqXu",
+    "durationMs": 235680,
+    "isPlaying": true,
+    "progressMs": 122799
+  },
   "recentlyPlayed": [
+    {
+      "name": "Baby, This Love I Have",
+      "artists": [
+        "Minnie Riperton"
+      ],
+      "album": "Adventures In Paradise",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273be5b2ecc3252d5c1d6a0f865",
+      "url": "https://open.spotify.com/track/397fxHew7NyjryGWGr1Imy",
+      "durationMs": 250866,
+      "playedAt": "2026-11-05T16:00:12.595Z"
+    },
     {
       "name": "Got To Be Good",
       "artists": [
@@ -102,17 +124,6 @@
       "url": "https://open.spotify.com/track/5Xsq9miBRyrcgqtrpcIna3",
       "durationMs": 148560,
       "playedAt": "2026-11-05T05:43:40.895Z"
-    },
-    {
-      "name": "Piña Colada",
-      "artists": [
-        "Starwolf"
-      ],
-      "album": "Tropical Disco",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730280cb714a47bcacf6433d67",
-      "url": "https://open.spotify.com/track/2jIHVOlXk39l3bxK6XiezJ",
-      "durationMs": 247480,
-      "playedAt": "2026-11-05T05:39:07.300Z"
     }
   ],
   "topArtists": [
