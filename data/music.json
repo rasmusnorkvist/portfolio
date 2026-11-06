@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-06T10:19:25.487Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-06T17:36:57.196Z",
+  "nowPlaying": {
+    "name": "I Got The... - 2006 Remaster",
+    "artists": [
+      "Labi Siffre"
+    ],
+    "album": "Remember My Song",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d773e328723922a5c7dcfcbd",
+    "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW",
+    "durationMs": 395373,
+    "isPlaying": true,
+    "progressMs": 138693
+  },
   "recentlyPlayed": [
     {
       "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
