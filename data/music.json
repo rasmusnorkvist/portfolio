@@ -1,127 +1,117 @@
 {
-  "updatedAt": "2026-11-06T17:36:57.196Z",
-  "nowPlaying": {
-    "name": "I Got The... - 2006 Remaster",
-    "artists": [
-      "Labi Siffre"
-    ],
-    "album": "Remember My Song",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d773e328723922a5c7dcfcbd",
-    "url": "https://open.spotify.com/track/20VuO95A8RxUPlShnfYArW",
-    "durationMs": 395373,
-    "isPlaying": true,
-    "progressMs": 138693
-  },
+  "updatedAt": "2026-11-06T22:39:49.702Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Rocket Man (I Think It's Going To Be A Long, Long Time)",
+      "name": "It Must Be Love",
       "artists": [
-        "Elton John"
+        "Labi Siffre"
       ],
-      "album": "Honky Chateau",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733009007708ab5134936a58b3",
-      "url": "https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY",
-      "durationMs": 281613,
-      "playedAt": "2026-11-06T06:24:17.475Z"
+      "album": "Crying Laughing Loving Lying",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea5cea785aab2932281b90a5",
+      "url": "https://open.spotify.com/track/70Y4jSu8zk3l8gyKTUz3l0",
+      "durationMs": 236986,
+      "playedAt": "2026-11-06T22:03:10.433Z"
     },
     {
-      "name": "Wouldn't It Be Nice - Remastered 1999",
+      "name": "Summer In The City",
       "artists": [
-        "The Beach Boys"
+        "Quincy Jones"
       ],
-      "album": "The Beach Boys Love Songs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e53d342c933a9138b2b51f71",
-      "url": "https://open.spotify.com/track/0cx32rX0uZvcJUP92Wkj2y",
-      "durationMs": 145106,
-      "playedAt": "2026-11-06T06:19:38.840Z"
+      "album": "You've Got It Bad Girl",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738eebdab9c507b776cfb0298b",
+      "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu",
+      "durationMs": 244440,
+      "playedAt": "2026-11-06T21:59:16.504Z"
     },
     {
-      "name": "Best of My Love",
+      "name": "The Slums",
       "artists": [
-        "The Emotions"
+        "Donny Hathaway"
       ],
-      "album": "Rejoice",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c5a010463c2b450902e57599",
-      "url": "https://open.spotify.com/track/2M2WJ7gBlcKNxdhyfPp9zY",
-      "durationMs": 220560,
-      "playedAt": "2026-11-06T06:17:16.784Z"
+      "album": "Extension of a Man",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730291d92423947dac9186bc8a",
+      "url": "https://open.spotify.com/track/5x2BTTOondnUS6tya2dvaW",
+      "durationMs": 308706,
+      "playedAt": "2026-11-06T21:55:15.113Z"
     },
     {
-      "name": "Heart Of Glass",
+      "name": "The Rub",
       "artists": [
-        "Blondie"
+        "Gwen McCrae",
+        "George McCrae"
       ],
-      "album": "Parallel Lines",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ace2bedb8e6cfa04207d5c0f",
-      "url": "https://open.spotify.com/track/4v2rkl1mC3zVAz0nXMx9r4",
-      "durationMs": 229423,
-      "playedAt": "2026-11-06T06:13:39.286Z"
+      "album": "Together",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27340a25bad2378361d4291b876",
+      "url": "https://open.spotify.com/track/4bRBIuPLZIRBm8yEbhZkS7",
+      "durationMs": 211138,
+      "playedAt": "2026-11-06T21:50:09.356Z"
     },
     {
-      "name": "Happy Hawaii",
+      "name": "When It Comes Down To It",
       "artists": [
-        "ABBA"
+        "Minnie Riperton"
       ],
-      "album": "Arrival",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0",
-      "url": "https://open.spotify.com/track/1S2B1KJWZyPVu0dKWcG94f",
-      "durationMs": 265760,
-      "playedAt": "2026-11-06T06:09:52.799Z"
+      "album": "Adventures In Paradise",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273be5b2ecc3252d5c1d6a0f865",
+      "url": "https://open.spotify.com/track/4clw6ilYxpOiBeoSkJJvSX",
+      "durationMs": 199546,
+      "playedAt": "2026-11-06T21:46:41.305Z"
     },
     {
-      "name": "Lollipop",
+      "name": "Savoir Faire - 2018 Remaster",
       "artists": [
-        "The Chordettes"
+        "CHIC"
       ],
-      "album": "The Chordettes' Best",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739982ca6766d2f5800a47605f",
-      "url": "https://open.spotify.com/track/0ZOuues7b9AgBOJ0YRZMLR",
-      "durationMs": 130533,
-      "playedAt": "2026-11-06T06:05:29.901Z"
+      "album": "C'est Chic (2018 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e37d5190acaf635f06cfcc4b",
+      "url": "https://open.spotify.com/track/6GWUJAzwRFTlSJouABPm6x",
+      "durationMs": 304760,
+      "playedAt": "2026-11-06T21:43:24.693Z"
     },
     {
-      "name": "All I Have to Do Is Dream - Single Version; 2006 Remaster",
+      "name": "Only A Fool Would Say That",
       "artists": [
-        "The Everly Brothers"
+        "Steely Dan"
       ],
-      "album": "Definitive Pop: The Everly Brothers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730db54dcb81e26d28775ac366",
-      "url": "https://open.spotify.com/track/76HnRI6IQX4YHzYTgcM0RV",
-      "durationMs": 140373,
-      "playedAt": "2026-11-06T06:03:22.373Z"
+      "album": "Can't Buy A Thrill",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
+      "url": "https://open.spotify.com/track/7GVvj4zJNVuBJSl6StEfn5",
+      "durationMs": 175273,
+      "playedAt": "2026-11-06T21:38:22.965Z"
     },
     {
-      "name": "La Bamba - Recorded at Gold Star",
+      "name": "Someone to Love",
       "artists": [
-        "Ritchie Valens"
+        "Drugdealer"
       ],
-      "album": "The Best of Ritchie Valens",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730edf9099caf6964e79298921",
-      "url": "https://open.spotify.com/track/5obDoHNMQDHppEKwuxk3Bn",
-      "durationMs": 129226,
-      "playedAt": "2026-11-06T06:01:05Z"
+      "album": "Hiding in Plain Sight",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e206a794a9ec45516eb6de6d",
+      "url": "https://open.spotify.com/track/2d6qSYAHWRgzRFSyrodwgB",
+      "durationMs": 236666,
+      "playedAt": "2026-11-06T21:35:30.702Z"
     },
     {
-      "name": "Bye Bye Love",
+      "name": "Help Me",
       "artists": [
-        "The Everly Brothers"
+        "Joni Mitchell"
       ],
-      "album": "Definitive Pop: The Everly Brothers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730db54dcb81e26d28775ac366",
-      "url": "https://open.spotify.com/track/0xK34uEDBKa9ZzJ6kelLJE",
-      "durationMs": 142906,
-      "playedAt": "2026-11-06T05:58:58.798Z"
+      "album": "Court and Spark",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739569f3e5cca8dce07cc7e5a7",
+      "url": "https://open.spotify.com/track/0tVzXGFyNPusa1VkHmYDLd",
+      "durationMs": 204186,
+      "playedAt": "2026-11-06T21:31:37.102Z"
     },
     {
-      "name": "Twilight Time",
+      "name": "Let Me Come on Home - Mono",
       "artists": [
-        "The Platters"
+        "Otis Redding"
       ],
-      "album": "The Magic Touch: An Anthology",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ac0aac6ed98961ecea05ecb1",
-      "url": "https://open.spotify.com/track/6qsRKJJHLGSCPsdt2jEs2t",
-      "durationMs": 165400,
-      "playedAt": "2026-11-06T05:56:38.897Z"
+      "album": "The Dock of the Bay (Mono)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730acddc8ccf8d14858fbeddf5",
+      "url": "https://open.spotify.com/track/7EZHp7FwuLnd4YUMn4K4Ok",
+      "durationMs": 176249,
+      "playedAt": "2026-11-06T21:28:15.905Z"
     }
   ],
   "topArtists": [
@@ -168,9 +158,9 @@
       "genres": []
     },
     {
-      "name": "Nina Simone",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb136c51c848c26a6cce7f9e56",
-      "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO",
+      "name": "Bo Kaspers Orkester",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebcd2476524a6c5a7162f663d9",
+      "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn",
       "genres": []
     }
   ],
