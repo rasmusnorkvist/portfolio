@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T09:34:26.139Z",
+  "updatedAt": "2026-11-07T16:03:28.100Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -129,26 +129,19 @@
       "name": "Cornelis Vreeswijk",
       "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
       "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "The Offline",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
       "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": [
-        "jazz house",
-        "jazz beats"
-      ]
+      "genres": []
     },
     {
       "name": "Frank Ocean",
@@ -160,9 +153,7 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Zara Larsson",
@@ -174,9 +165,7 @@
       "name": "Bo Kaspers Orkester",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebcd2476524a6c5a7162f663d9",
       "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     }
   ],
   "topTracks": [
