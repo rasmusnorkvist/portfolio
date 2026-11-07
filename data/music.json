@@ -1,20 +1,17 @@
 {
-  "updatedAt": "2026-11-07T16:03:28.100Z",
+  "updatedAt": "2026-11-07T20:23:09.556Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Jago Maa - From \"Devi Chowdhurani\"",
+      "name": "ode to rahsaan",
       "artists": [
-        "Pronoy Chakraborty",
-        "Lagnajita Chakraborty",
-        "Shiladitya Chakraborty",
-        "Ritam Sen"
+        "berlioz"
       ],
-      "album": "Devi Chowdhurani (Original Motion Picture Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730176a89f9232abdd1da11f16",
-      "url": "https://open.spotify.com/track/56tCn4MaUwl1mdItdkrrFH",
-      "durationMs": 319666,
-      "playedAt": "2026-11-07T08:39:19.343Z"
+      "album": "open this wall",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c1c672fa0dd740c2db9e66ae",
+      "url": "https://open.spotify.com/track/4aptr0Era7aIdkX5gfsaFN",
+      "durationMs": 210447,
+      "playedAt": "2026-11-07T19:03:02.624Z"
     },
     {
       "name": "r&r",
@@ -25,7 +22,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cdd39f5ecd10c9cb64d13383",
       "url": "https://open.spotify.com/track/32NMmAVohuSJeiYuuiVUbo",
       "durationMs": 207500,
-      "playedAt": "2026-11-07T06:22:58.160Z"
+      "playedAt": "2026-11-07T18:59:35.214Z"
     },
     {
       "name": "indigo dream",
@@ -36,7 +33,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c1c672fa0dd740c2db9e66ae",
       "url": "https://open.spotify.com/track/72OVeVhPXF4I23Cy63Jk3T",
       "durationMs": 174209,
-      "playedAt": "2026-11-07T06:19:33.634Z"
+      "playedAt": "2026-11-07T18:56:10.725Z"
     },
     {
       "name": "hot house",
@@ -47,7 +44,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cdd39f5ecd10c9cb64d13383",
       "url": "https://open.spotify.com/track/3GBvydzS4DsBEPvyd6LkYo",
       "durationMs": 157000,
-      "playedAt": "2026-11-07T06:16:42.462Z"
+      "playedAt": "2026-11-07T18:53:19.525Z"
     },
     {
       "name": "la danse",
@@ -59,7 +56,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d7897d963bec410f95093a08",
       "url": "https://open.spotify.com/track/16Nq0qHvB1ine1dG2OOhbX",
       "durationMs": 177136,
-      "playedAt": "2026-11-07T06:14:08.466Z"
+      "playedAt": "2026-11-07T18:50:45.525Z"
     },
     {
       "name": "wash my sins away",
@@ -70,7 +67,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c06f9a008c07fcfc0849f2b0",
       "url": "https://open.spotify.com/track/4narDGRW69BFMIPpgCrh6b",
       "durationMs": 232500,
-      "playedAt": "2026-11-07T06:11:14.336Z"
+      "playedAt": "2026-11-07T18:47:51.421Z"
     },
     {
       "name": "joycelyn's dance",
@@ -81,7 +78,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c1c672fa0dd740c2db9e66ae",
       "url": "https://open.spotify.com/track/3z0JwddAR5GASTxnKExIw1",
       "durationMs": 198500,
-      "playedAt": "2026-11-07T06:07:24.864Z"
+      "playedAt": "2026-11-07T18:44:01.916Z"
     },
     {
       "name": "miro",
@@ -93,7 +90,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273890d984a3943b5c1982cccba",
       "url": "https://open.spotify.com/track/0kRMltaFIzcXkSbWZVBgMM",
       "durationMs": 200000,
-      "playedAt": "2026-11-07T06:04:09.363Z"
+      "playedAt": "2026-11-07T18:40:46.483Z"
     },
     {
       "name": "free fall",
@@ -104,7 +101,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c1c672fa0dd740c2db9e66ae",
       "url": "https://open.spotify.com/track/5Y5yeohdp8olNuxyBAQeWp",
       "durationMs": 207000,
-      "playedAt": "2026-11-07T06:00:52.442Z"
+      "playedAt": "2026-11-07T18:37:29.474Z"
     },
     {
       "name": "hot slow",
@@ -115,7 +112,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c1c672fa0dd740c2db9e66ae",
       "url": "https://open.spotify.com/track/2hIPKg0LBYhZYmwZS6eQ20",
       "durationMs": 215500,
-      "playedAt": "2026-11-07T05:57:28.442Z"
+      "playedAt": "2026-11-07T18:34:05.476Z"
     }
   ],
   "topArtists": [
@@ -129,19 +126,26 @@
       "name": "Cornelis Vreeswijk",
       "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
       "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "The Offline",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
       "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": []
+      "genres": [
+        "jazz house",
+        "jazz beats"
+      ]
     },
     {
       "name": "Frank Ocean",
@@ -153,7 +157,9 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Zara Larsson",
@@ -162,10 +168,13 @@
       "genres": []
     },
     {
-      "name": "Bo Kaspers Orkester",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebcd2476524a6c5a7162f663d9",
-      "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn",
-      "genres": []
+      "name": "berlioz",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb3a9ab7733c4e6f95251a806b",
+      "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
+      "genres": [
+        "jazz house",
+        "jazz"
+      ]
     }
   ],
   "topTracks": [
