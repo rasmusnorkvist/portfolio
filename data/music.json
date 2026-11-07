@@ -1,7 +1,30 @@
 {
-  "updatedAt": "2026-11-06T22:39:49.702Z",
+  "updatedAt": "2026-11-07T02:30:28.526Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "nyc in 1940",
+      "artists": [
+        "berlioz",
+        "Ted Jasper"
+      ],
+      "album": "nyc in 1940",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e2862147ef657cddb6685f6",
+      "url": "https://open.spotify.com/track/3YbFagT5wCU8M9xLdVID4j",
+      "durationMs": 156611,
+      "playedAt": "2026-11-07T02:20:55.701Z"
+    },
+    {
+      "name": "Hard Times",
+      "artists": [
+        "Baby Huey"
+      ],
+      "album": "The Baby Huey Story: The Living Legend",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba3786f61b86c99010f4f195",
+      "url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM",
+      "durationMs": 203373,
+      "playedAt": "2026-11-07T02:18:05.968Z"
+    },
     {
       "name": "It Must Be Love",
       "artists": [
@@ -90,28 +113,6 @@
       "url": "https://open.spotify.com/track/2d6qSYAHWRgzRFSyrodwgB",
       "durationMs": 236666,
       "playedAt": "2026-11-06T21:35:30.702Z"
-    },
-    {
-      "name": "Help Me",
-      "artists": [
-        "Joni Mitchell"
-      ],
-      "album": "Court and Spark",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739569f3e5cca8dce07cc7e5a7",
-      "url": "https://open.spotify.com/track/0tVzXGFyNPusa1VkHmYDLd",
-      "durationMs": 204186,
-      "playedAt": "2026-11-06T21:31:37.102Z"
-    },
-    {
-      "name": "Let Me Come on Home - Mono",
-      "artists": [
-        "Otis Redding"
-      ],
-      "album": "The Dock of the Bay (Mono)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730acddc8ccf8d14858fbeddf5",
-      "url": "https://open.spotify.com/track/7EZHp7FwuLnd4YUMn4K4Ok",
-      "durationMs": 176249,
-      "playedAt": "2026-11-06T21:28:15.905Z"
     }
   ],
   "topArtists": [
