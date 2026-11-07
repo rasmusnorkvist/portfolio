@@ -1,118 +1,121 @@
 {
-  "updatedAt": "2026-11-07T02:30:28.526Z",
+  "updatedAt": "2026-11-07T09:34:26.139Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "nyc in 1940",
+      "name": "Jago Maa - From \"Devi Chowdhurani\"",
+      "artists": [
+        "Pronoy Chakraborty",
+        "Lagnajita Chakraborty",
+        "Shiladitya Chakraborty",
+        "Ritam Sen"
+      ],
+      "album": "Devi Chowdhurani (Original Motion Picture Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730176a89f9232abdd1da11f16",
+      "url": "https://open.spotify.com/track/56tCn4MaUwl1mdItdkrrFH",
+      "durationMs": 319666,
+      "playedAt": "2026-11-07T08:39:19.343Z"
+    },
+    {
+      "name": "r&r",
+      "artists": [
+        "berlioz"
+      ],
+      "album": "jazz is for ordinary people",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cdd39f5ecd10c9cb64d13383",
+      "url": "https://open.spotify.com/track/32NMmAVohuSJeiYuuiVUbo",
+      "durationMs": 207500,
+      "playedAt": "2026-11-07T06:22:58.160Z"
+    },
+    {
+      "name": "indigo dream",
+      "artists": [
+        "berlioz"
+      ],
+      "album": "open this wall",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c1c672fa0dd740c2db9e66ae",
+      "url": "https://open.spotify.com/track/72OVeVhPXF4I23Cy63Jk3T",
+      "durationMs": 174209,
+      "playedAt": "2026-11-07T06:19:33.634Z"
+    },
+    {
+      "name": "hot house",
+      "artists": [
+        "berlioz"
+      ],
+      "album": "jazz is for ordinary people",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cdd39f5ecd10c9cb64d13383",
+      "url": "https://open.spotify.com/track/3GBvydzS4DsBEPvyd6LkYo",
+      "durationMs": 157000,
+      "playedAt": "2026-11-07T06:16:42.462Z"
+    },
+    {
+      "name": "la danse",
       "artists": [
         "berlioz",
         "Ted Jasper"
       ],
-      "album": "nyc in 1940",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735e2862147ef657cddb6685f6",
-      "url": "https://open.spotify.com/track/3YbFagT5wCU8M9xLdVID4j",
-      "durationMs": 156611,
-      "playedAt": "2026-11-07T02:20:55.701Z"
+      "album": "la danse",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d7897d963bec410f95093a08",
+      "url": "https://open.spotify.com/track/16Nq0qHvB1ine1dG2OOhbX",
+      "durationMs": 177136,
+      "playedAt": "2026-11-07T06:14:08.466Z"
     },
     {
-      "name": "Hard Times",
+      "name": "wash my sins away",
       "artists": [
-        "Baby Huey"
+        "berlioz"
       ],
-      "album": "The Baby Huey Story: The Living Legend",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba3786f61b86c99010f4f195",
-      "url": "https://open.spotify.com/track/7ycU5Bxfn2fIZjXJypfdRM",
-      "durationMs": 203373,
-      "playedAt": "2026-11-07T02:18:05.968Z"
+      "album": "wash my sins away",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c06f9a008c07fcfc0849f2b0",
+      "url": "https://open.spotify.com/track/4narDGRW69BFMIPpgCrh6b",
+      "durationMs": 232500,
+      "playedAt": "2026-11-07T06:11:14.336Z"
     },
     {
-      "name": "It Must Be Love",
+      "name": "joycelyn's dance",
       "artists": [
-        "Labi Siffre"
+        "berlioz"
       ],
-      "album": "Crying Laughing Loving Lying",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea5cea785aab2932281b90a5",
-      "url": "https://open.spotify.com/track/70Y4jSu8zk3l8gyKTUz3l0",
-      "durationMs": 236986,
-      "playedAt": "2026-11-06T22:03:10.433Z"
+      "album": "open this wall",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c1c672fa0dd740c2db9e66ae",
+      "url": "https://open.spotify.com/track/3z0JwddAR5GASTxnKExIw1",
+      "durationMs": 198500,
+      "playedAt": "2026-11-07T06:07:24.864Z"
     },
     {
-      "name": "Summer In The City",
+      "name": "miro",
       "artists": [
-        "Quincy Jones"
+        "berlioz",
+        "Ted Jasper"
       ],
-      "album": "You've Got It Bad Girl",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738eebdab9c507b776cfb0298b",
-      "url": "https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu",
-      "durationMs": 244440,
-      "playedAt": "2026-11-06T21:59:16.504Z"
+      "album": "miro",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273890d984a3943b5c1982cccba",
+      "url": "https://open.spotify.com/track/0kRMltaFIzcXkSbWZVBgMM",
+      "durationMs": 200000,
+      "playedAt": "2026-11-07T06:04:09.363Z"
     },
     {
-      "name": "The Slums",
+      "name": "free fall",
       "artists": [
-        "Donny Hathaway"
+        "berlioz"
       ],
-      "album": "Extension of a Man",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730291d92423947dac9186bc8a",
-      "url": "https://open.spotify.com/track/5x2BTTOondnUS6tya2dvaW",
-      "durationMs": 308706,
-      "playedAt": "2026-11-06T21:55:15.113Z"
+      "album": "open this wall",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c1c672fa0dd740c2db9e66ae",
+      "url": "https://open.spotify.com/track/5Y5yeohdp8olNuxyBAQeWp",
+      "durationMs": 207000,
+      "playedAt": "2026-11-07T06:00:52.442Z"
     },
     {
-      "name": "The Rub",
+      "name": "hot slow",
       "artists": [
-        "Gwen McCrae",
-        "George McCrae"
+        "berlioz"
       ],
-      "album": "Together",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27340a25bad2378361d4291b876",
-      "url": "https://open.spotify.com/track/4bRBIuPLZIRBm8yEbhZkS7",
-      "durationMs": 211138,
-      "playedAt": "2026-11-06T21:50:09.356Z"
-    },
-    {
-      "name": "When It Comes Down To It",
-      "artists": [
-        "Minnie Riperton"
-      ],
-      "album": "Adventures In Paradise",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273be5b2ecc3252d5c1d6a0f865",
-      "url": "https://open.spotify.com/track/4clw6ilYxpOiBeoSkJJvSX",
-      "durationMs": 199546,
-      "playedAt": "2026-11-06T21:46:41.305Z"
-    },
-    {
-      "name": "Savoir Faire - 2018 Remaster",
-      "artists": [
-        "CHIC"
-      ],
-      "album": "C'est Chic (2018 Remaster)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e37d5190acaf635f06cfcc4b",
-      "url": "https://open.spotify.com/track/6GWUJAzwRFTlSJouABPm6x",
-      "durationMs": 304760,
-      "playedAt": "2026-11-06T21:43:24.693Z"
-    },
-    {
-      "name": "Only A Fool Would Say That",
-      "artists": [
-        "Steely Dan"
-      ],
-      "album": "Can't Buy A Thrill",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ddd7e736f870994f4707947",
-      "url": "https://open.spotify.com/track/7GVvj4zJNVuBJSl6StEfn5",
-      "durationMs": 175273,
-      "playedAt": "2026-11-06T21:38:22.965Z"
-    },
-    {
-      "name": "Someone to Love",
-      "artists": [
-        "Drugdealer"
-      ],
-      "album": "Hiding in Plain Sight",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e206a794a9ec45516eb6de6d",
-      "url": "https://open.spotify.com/track/2d6qSYAHWRgzRFSyrodwgB",
-      "durationMs": 236666,
-      "playedAt": "2026-11-06T21:35:30.702Z"
+      "album": "open this wall",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c1c672fa0dd740c2db9e66ae",
+      "url": "https://open.spotify.com/track/2hIPKg0LBYhZYmwZS6eQ20",
+      "durationMs": 215500,
+      "playedAt": "2026-11-07T05:57:28.442Z"
     }
   ],
   "topArtists": [
@@ -126,19 +129,26 @@
       "name": "Cornelis Vreeswijk",
       "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
       "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "Mando Diao",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
       "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     },
     {
       "name": "The Offline",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
       "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": []
+      "genres": [
+        "jazz house",
+        "jazz beats"
+      ]
     },
     {
       "name": "Frank Ocean",
@@ -150,7 +160,9 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Zara Larsson",
@@ -162,7 +174,9 @@
       "name": "Bo Kaspers Orkester",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebcd2476524a6c5a7162f663d9",
       "url": "https://open.spotify.com/artist/2VE6Ge0qFHrqDC6KG6ECJn",
-      "genres": []
+      "genres": [
+        "swedish pop"
+      ]
     }
   ],
   "topTracks": [
