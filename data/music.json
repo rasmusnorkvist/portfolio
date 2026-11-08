@@ -1,117 +1,116 @@
 {
-  "updatedAt": "2026-11-08T17:10:20.009Z",
+  "updatedAt": "2026-11-08T21:16:44.194Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Pyramids",
+      "name": "Monkey Tamarind",
       "artists": [
-        "Frank Ocean"
+        "The Beginning Of The End"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/4QhWbupniDd44EDtnh2bFJ",
-      "durationMs": 592920,
-      "playedAt": "2026-11-08T04:04:15.621Z"
+      "album": "Funky Nassau",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
+      "url": "https://open.spotify.com/track/2brEo41OalormcypWL283P",
+      "durationMs": 220880,
+      "playedAt": "2026-11-08T19:08:01.099Z"
     },
     {
-      "name": "Crack Rock",
+      "name": "Surrey Ride",
       "artists": [
-        "Frank Ocean"
+        "The Beginning Of The End"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/5lcyIeEfwZTs8Ajw3kdF7P",
-      "durationMs": 224146,
-      "playedAt": "2026-11-08T03:54:22.705Z"
+      "album": "Funky Nassau",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
+      "url": "https://open.spotify.com/track/7E8hRtcZU9OwPajcAvZ4tx",
+      "durationMs": 273243,
+      "playedAt": "2026-11-08T19:04:20.242Z"
     },
     {
-      "name": "Pilot Jones",
+      "name": "Sleep On Dream On",
       "artists": [
-        "Frank Ocean"
+        "The Beginning Of The End"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/2ohegz9maxzroKBu9YhcCM",
-      "durationMs": 184080,
-      "playedAt": "2026-11-08T03:50:38.604Z"
+      "album": "Funky Nassau",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
+      "url": "https://open.spotify.com/track/2widyoYFYr5q0x2BWM395m",
+      "durationMs": 244186,
+      "playedAt": "2026-11-08T18:59:47.041Z"
     },
     {
-      "name": "Super Rich Kids",
+      "name": "Come Down",
       "artists": [
-        "Frank Ocean",
-        "Earl Sweatshirt"
+        "The Beginning Of The End"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb",
-      "durationMs": 304760,
-      "playedAt": "2026-11-08T03:47:34.504Z"
+      "album": "Funky Nassau",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
+      "url": "https://open.spotify.com/track/6UlLJtXAagWiCl4DuUjl71",
+      "durationMs": 195906,
+      "playedAt": "2026-11-08T18:55:42.837Z"
     },
     {
-      "name": "Not Just Money",
+      "name": "Funky Nassau, Pt. 2",
       "artists": [
-        "Frank Ocean"
+        "The Beginning Of The End"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/3iW3y326xuRpNVXzOMBZy5",
-      "durationMs": 59760,
-      "playedAt": "2026-11-08T03:42:29.708Z"
+      "album": "Funky Nassau",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
+      "url": "https://open.spotify.com/track/7KBunXnqdICtqoE2CuVtK0",
+      "durationMs": 154040,
+      "playedAt": "2026-11-08T18:52:26.936Z"
     },
     {
-      "name": "Sweet Life",
+      "name": "Funky Nassau, Pt. 1",
       "artists": [
-        "Frank Ocean"
+        "The Beginning Of The End"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/6MEDfjHxnVNcYmHe3mM6L2",
-      "durationMs": 262680,
-      "playedAt": "2026-11-08T03:41:30.004Z"
+      "album": "Funky Nassau",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
+      "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg",
+      "durationMs": 186301,
+      "playedAt": "2026-11-08T18:49:52.877Z"
     },
     {
-      "name": "Sierra Leone",
+      "name": "Seven Days in Sunny June",
       "artists": [
-        "Frank Ocean"
+        "Jamiroquai"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/1HwbgJAU9PZ7YbzKgVgoIF",
-      "durationMs": 148760,
-      "playedAt": "2026-11-08T03:37:07.304Z"
+      "album": "Dynamite",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273951fbcfd4b08a3a19f158ab5",
+      "url": "https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p",
+      "durationMs": 237866,
+      "playedAt": "2026-11-08T18:44:25.236Z"
     },
     {
-      "name": "Fertilizer",
+      "name": "Little L",
       "artists": [
-        "Frank Ocean"
+        "Jamiroquai"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/6jypaMkKsoc5npsVzxhksl",
-      "durationMs": 39640,
-      "playedAt": "2026-11-08T03:34:38.548Z"
+      "album": "A Funk Odyssey",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273909ebb0c355f14d0ee7f9974",
+      "url": "https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc",
+      "durationMs": 295400,
+      "playedAt": "2026-11-08T18:40:30.376Z"
     },
     {
-      "name": "Thinkin Bout You",
+      "name": "Virtual Insanity - Remastered 2013",
       "artists": [
-        "Frank Ocean"
+        "Jamiroquai"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau",
-      "durationMs": 200746,
-      "playedAt": "2026-11-08T03:33:58.900Z"
+      "album": "Travelling Without Moving (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736407aa9a5e5215cf554ad5d1",
+      "url": "https://open.spotify.com/track/2Bxt2qamL6iu0XN0Td484J",
+      "durationMs": 340906,
+      "playedAt": "2026-11-08T18:35:37.971Z"
     },
     {
-      "name": "Start",
+      "name": "Cosmic Girl - Remastered 2013",
       "artists": [
-        "Frank Ocean"
+        "Jamiroquai"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
-      "durationMs": 45640,
-      "playedAt": "2026-11-08T03:30:38.204Z"
+      "album": "Travelling Without Moving (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736407aa9a5e5215cf554ad5d1",
+      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK",
+      "durationMs": 244146,
+      "playedAt": "2026-11-08T18:30:00.138Z"
     }
   ],
   "topArtists": [
@@ -152,15 +151,15 @@
       "genres": []
     },
     {
-      "name": "Mando Diao",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
-      "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
-      "genres": []
-    },
-    {
       "name": "berlioz",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb3a9ab7733c4e6f95251a806b",
       "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
+      "genres": []
+    },
+    {
+      "name": "The Beginning Of The End",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
+      "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR",
       "genres": []
     }
   ],
@@ -229,6 +228,16 @@
       "durationMs": 174813
     },
     {
+      "name": "Funky Nassau, Pt. 1",
+      "artists": [
+        "The Beginning Of The End"
+      ],
+      "album": "Funky Nassau",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
+      "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg",
+      "durationMs": 186301
+    },
+    {
       "name": "Shape Of America",
       "artists": [
         "Gotts Street Park",
@@ -238,16 +247,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
       "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
       "durationMs": 209866
-    },
-    {
-      "name": "Somliga går med trasiga skor",
-      "artists": [
-        "Cornelis Vreeswijk"
-      ],
-      "album": "Tio vackra visor och personliga Person",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739c34b63edb70626b39d952db",
-      "url": "https://open.spotify.com/track/3RziapqS8nr6DiejCtI3cd",
-      "durationMs": 180960
     }
   ],
   "featuredPlaylists": []
