@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T04:12:08.730Z",
+  "updatedAt": "2026-11-08T11:25:28.651Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -128,21 +128,15 @@
       "genres": []
     },
     {
-      "name": "Mando Diao",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
-      "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
+      "name": "Frank Ocean",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
+      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
       "genres": []
     },
     {
       "name": "The Offline",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
       "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": []
-    },
-    {
-      "name": "Frank Ocean",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
-      "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
       "genres": []
     },
     {
@@ -155,6 +149,12 @@
       "name": "Zara Larsson",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebcbfb8295e334da7f2c8b4bff",
       "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg",
+      "genres": []
+    },
+    {
+      "name": "Mando Diao",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebed2b66ca7ed6089f31ed951a",
+      "url": "https://open.spotify.com/artist/5I4eibDkC7gg0hmczTZuND",
       "genres": []
     },
     {
@@ -198,6 +198,16 @@
       "durationMs": 167698
     },
     {
+      "name": "Start",
+      "artists": [
+        "Frank Ocean"
+      ],
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
+      "durationMs": 45640
+    },
+    {
       "name": "Some Birds Don't Fly",
       "artists": [
         "Gotts Street Park",
@@ -228,16 +238,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
       "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
       "durationMs": 209866
-    },
-    {
-      "name": "Start",
-      "artists": [
-        "Frank Ocean"
-      ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
-      "durationMs": 45640
     },
     {
       "name": "Somliga går med trasiga skor",
