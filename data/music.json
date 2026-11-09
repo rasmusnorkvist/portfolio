@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-08T21:16:44.194Z",
+  "updatedAt": "2026-11-09T01:05:23.583Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "When She Made Me Promise",
+      "artists": [
+        "The Beginning Of The End"
+      ],
+      "album": "Funky Nassau",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
+      "url": "https://open.spotify.com/track/47OU8I6o0jK7YIEa3IFmx8",
+      "durationMs": 257228,
+      "playedAt": "2026-11-09T00:38:29.477Z"
+    },
+    {
+      "name": "Pretty Girl",
+      "artists": [
+        "The Beginning Of The End"
+      ],
+      "album": "Funky Nassau",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
+      "url": "https://open.spotify.com/track/3SECjYJjotIE7tdVRi5Tpv",
+      "durationMs": 299805,
+      "playedAt": "2026-11-08T23:26:42.145Z"
+    },
+    {
+      "name": "In The Deep",
+      "artists": [
+        "The Beginning Of The End"
+      ],
+      "album": "Funky Nassau",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
+      "url": "https://open.spotify.com/track/4aCFlU469iNMwVSqZxwMaX",
+      "durationMs": 293626,
+      "playedAt": "2026-11-08T23:21:42.338Z"
+    },
     {
       "name": "Monkey Tamarind",
       "artists": [
@@ -11,7 +44,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
       "url": "https://open.spotify.com/track/2brEo41OalormcypWL283P",
       "durationMs": 220880,
-      "playedAt": "2026-11-08T19:08:01.099Z"
+      "playedAt": "2026-11-08T23:16:48.645Z"
     },
     {
       "name": "Surrey Ride",
@@ -22,7 +55,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
       "url": "https://open.spotify.com/track/7E8hRtcZU9OwPajcAvZ4tx",
       "durationMs": 273243,
-      "playedAt": "2026-11-08T19:04:20.242Z"
+      "playedAt": "2026-11-08T23:13:07.745Z"
     },
     {
       "name": "Sleep On Dream On",
@@ -33,7 +66,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
       "url": "https://open.spotify.com/track/2widyoYFYr5q0x2BWM395m",
       "durationMs": 244186,
-      "playedAt": "2026-11-08T18:59:47.041Z"
+      "playedAt": "2026-11-08T23:08:34.545Z"
     },
     {
       "name": "Come Down",
@@ -44,7 +77,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
       "url": "https://open.spotify.com/track/6UlLJtXAagWiCl4DuUjl71",
       "durationMs": 195906,
-      "playedAt": "2026-11-08T18:55:42.837Z"
+      "playedAt": "2026-11-08T23:04:30.345Z"
     },
     {
       "name": "Funky Nassau, Pt. 2",
@@ -55,7 +88,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
       "url": "https://open.spotify.com/track/7KBunXnqdICtqoE2CuVtK0",
       "durationMs": 154040,
-      "playedAt": "2026-11-08T18:52:26.936Z"
+      "playedAt": "2026-11-08T22:51:04.109Z"
     },
     {
       "name": "Funky Nassau, Pt. 1",
@@ -66,51 +99,18 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
       "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg",
       "durationMs": 186301,
-      "playedAt": "2026-11-08T18:49:52.877Z"
+      "playedAt": "2026-11-08T22:48:30.043Z"
     },
     {
-      "name": "Seven Days in Sunny June",
+      "name": "Song 2 - 2012 Remaster",
       "artists": [
-        "Jamiroquai"
+        "Blur"
       ],
-      "album": "Dynamite",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273951fbcfd4b08a3a19f158ab5",
-      "url": "https://open.spotify.com/track/2bwxqGKS5GPXfNanAIRe2p",
-      "durationMs": 237866,
-      "playedAt": "2026-11-08T18:44:25.236Z"
-    },
-    {
-      "name": "Little L",
-      "artists": [
-        "Jamiroquai"
-      ],
-      "album": "A Funk Odyssey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273909ebb0c355f14d0ee7f9974",
-      "url": "https://open.spotify.com/track/7hhclvecTpNxNNRCk7NUoc",
-      "durationMs": 295400,
-      "playedAt": "2026-11-08T18:40:30.376Z"
-    },
-    {
-      "name": "Virtual Insanity - Remastered 2013",
-      "artists": [
-        "Jamiroquai"
-      ],
-      "album": "Travelling Without Moving (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736407aa9a5e5215cf554ad5d1",
-      "url": "https://open.spotify.com/track/2Bxt2qamL6iu0XN0Td484J",
-      "durationMs": 340906,
-      "playedAt": "2026-11-08T18:35:37.971Z"
-    },
-    {
-      "name": "Cosmic Girl - Remastered 2013",
-      "artists": [
-        "Jamiroquai"
-      ],
-      "album": "Travelling Without Moving (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736407aa9a5e5215cf554ad5d1",
-      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK",
-      "durationMs": 244146,
-      "playedAt": "2026-11-08T18:30:00.138Z"
+      "album": "Blur (Special Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273de114203356c1f7b136960b6",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM",
+      "durationMs": 121160,
+      "playedAt": "2026-11-08T22:16:16.425Z"
     }
   ],
   "topArtists": [
@@ -151,15 +151,15 @@
       "genres": []
     },
     {
-      "name": "berlioz",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb3a9ab7733c4e6f95251a806b",
-      "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
-      "genres": []
-    },
-    {
       "name": "The Beginning Of The End",
       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
       "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR",
+      "genres": []
+    },
+    {
+      "name": "berlioz",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb3a9ab7733c4e6f95251a806b",
+      "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
       "genres": []
     }
   ],
@@ -197,6 +197,16 @@
       "durationMs": 167698
     },
     {
+      "name": "Funky Nassau, Pt. 1",
+      "artists": [
+        "The Beginning Of The End"
+      ],
+      "album": "Funky Nassau",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
+      "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg",
+      "durationMs": 186301
+    },
+    {
       "name": "Start",
       "artists": [
         "Frank Ocean"
@@ -226,16 +236,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
       "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
       "durationMs": 174813
-    },
-    {
-      "name": "Funky Nassau, Pt. 1",
-      "artists": [
-        "The Beginning Of The End"
-      ],
-      "album": "Funky Nassau",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
-      "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg",
-      "durationMs": 186301
     },
     {
       "name": "Shape Of America",
