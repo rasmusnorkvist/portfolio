@@ -1,7 +1,62 @@
 {
-  "updatedAt": "2026-11-09T08:21:56.240Z",
+  "updatedAt": "2026-11-09T18:59:12.099Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Var blev ni av ljuva drömmar?",
+      "artists": [
+        "Monica Zetterlund"
+      ],
+      "album": "O vad en liten gumma kan gno",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a31f8511326313f56a0dbdba",
+      "url": "https://open.spotify.com/track/6CVqdefyKI9ltgNIIBokxS",
+      "durationMs": 305106,
+      "playedAt": "2026-11-09T18:34:12.840Z"
+    },
+    {
+      "name": "Jag ger dig min morgon",
+      "artists": [
+        "Fred Åkerström"
+      ],
+      "album": "Två Tungor",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735db8ca3e78a3da93059cbc3b",
+      "url": "https://open.spotify.com/track/7nBARurNPIRVcf81uOFz3i",
+      "durationMs": 226426,
+      "playedAt": "2026-11-09T18:29:10.839Z"
+    },
+    {
+      "name": "Byns enda blondin",
+      "artists": [
+        "Sven-Ingvars"
+      ],
+      "album": "Byns enda blondin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f3bc26401da1a6c3b54e34dd",
+      "url": "https://open.spotify.com/track/1eN6mc3w58YfRPKkEf7YjA",
+      "durationMs": 285600,
+      "playedAt": "2026-11-09T18:13:11.036Z"
+    },
+    {
+      "name": "När solen färgar juninatten",
+      "artists": [
+        "Sven-Ingvars"
+      ],
+      "album": "Guld & Glöd. Mer Hits Än Någonsin",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273decaa5ce3597b628941672f6",
+      "url": "https://open.spotify.com/track/6rNaUu3q2UdVeexRZSVxA1",
+      "durationMs": 358933,
+      "playedAt": "2026-11-09T18:08:28.451Z"
+    },
+    {
+      "name": "Hello Darling",
+      "artists": [
+        "Tippa Irie"
+      ],
+      "album": "Is It Really Happening To Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379ac04f9b59510e4df73c7c9",
+      "url": "https://open.spotify.com/track/32nvcsI9BlyzXuEcmW7L07",
+      "durationMs": 336333,
+      "playedAt": "2026-11-09T15:57:44.906Z"
+    },
     {
       "name": "Freedom Time (Black Star Liner) - 2013 Remaster",
       "artists": [
@@ -56,61 +111,6 @@
       "url": "https://open.spotify.com/track/2s7A7mDCMKNx7ui7Ky9vOv",
       "durationMs": 216506,
       "playedAt": "2026-11-09T06:17:53.334Z"
-    },
-    {
-      "name": "I Don't Wanna Dance",
-      "artists": [
-        "Eddy Grant"
-      ],
-      "album": "Killer On The Rampage",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27311541f506b9c9b7b086ce332",
-      "url": "https://open.spotify.com/track/4xbmyXThps1PkyigFLXVjj",
-      "durationMs": 219533,
-      "playedAt": "2026-11-09T06:14:19.837Z"
-    },
-    {
-      "name": "Double Barrel",
-      "artists": [
-        "Dave & Ansell Collins"
-      ],
-      "album": "Double Barrel",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f57d5d4f3972072ddea021ff",
-      "url": "https://open.spotify.com/track/3B59dR6lPY1FKbBwsXbcON",
-      "durationMs": 170306,
-      "playedAt": "2026-11-09T06:10:43.302Z"
-    },
-    {
-      "name": "To Love Somebody",
-      "artists": [
-        "Jimmy Somerville"
-      ],
-      "album": "The Very Best Of Jimmy Somerville, Bronski Beat & The Communards",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731b94af969c8d41eabea6c8bf",
-      "url": "https://open.spotify.com/track/18iuoY1jt6t8NUZPXyjN2N",
-      "durationMs": 257226,
-      "playedAt": "2026-11-09T06:07:56.036Z"
-    },
-    {
-      "name": "Love You More Than I Can Say",
-      "artists": [
-        "June Lodge"
-      ],
-      "album": "Someone Loves You Honey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273501521ba2b24fac33fb88ae3",
-      "url": "https://open.spotify.com/track/5y01TbFzqiXFw1QqVE1nMA",
-      "durationMs": 208920,
-      "playedAt": "2026-11-09T06:03:41.812Z"
-    },
-    {
-      "name": "Side Show",
-      "artists": [
-        "Barry Biggs"
-      ],
-      "album": "Mr Biggs + Sincerely",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b43576e1b4bd59015935aa8",
-      "url": "https://open.spotify.com/track/6ju1as16nL4d5qREdtoBiJ",
-      "durationMs": 217493,
-      "playedAt": "2026-11-09T06:00:15.894Z"
     }
   ],
   "topArtists": [
@@ -124,9 +124,7 @@
       "name": "Cornelis Vreeswijk",
       "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
       "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "Frank Ocean",
@@ -138,18 +136,13 @@
       "name": "The Offline",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
       "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": [
-        "jazz house",
-        "jazz beats"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Zara Larsson",
@@ -161,19 +154,13 @@
       "name": "The Beginning Of The End",
       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
       "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR",
-      "genres": [
-        "funk",
-        "jazz funk"
-      ]
+      "genres": []
     },
     {
       "name": "berlioz",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb3a9ab7733c4e6f95251a806b",
       "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
-      "genres": [
-        "jazz house",
-        "jazz"
-      ]
+      "genres": []
     }
   ],
   "topTracks": [
