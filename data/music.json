@@ -1,7 +1,79 @@
 {
-  "updatedAt": "2026-11-11T02:05:51.867Z",
+  "updatedAt": "2026-11-11T09:42:11.266Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Party Up",
+      "artists": [
+        "DMX"
+      ],
+      "album": "...And Then There Was X",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273581d9fcb8a2e6d600d59b819",
+      "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC",
+      "durationMs": 268866,
+      "playedAt": "2026-11-11T03:57:48.489Z"
+    },
+    {
+      "name": "Hate It Or Love It",
+      "artists": [
+        "The Game",
+        "50 Cent"
+      ],
+      "album": "The Documentary",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d",
+      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R",
+      "durationMs": 206400,
+      "playedAt": "2026-11-11T03:53:19.081Z"
+    },
+    {
+      "name": "You Can Do It",
+      "artists": [
+        "Ice Cube",
+        "Mack 10",
+        "Ms. Toi"
+      ],
+      "album": "War & Peace Vol. 2 (The Peace Disc)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27317bf7f81b1a61b828c786857",
+      "url": "https://open.spotify.com/track/4NTn0Yo8hTGW5tbBANBzfh",
+      "durationMs": 259088,
+      "playedAt": "2026-11-11T03:49:55.792Z"
+    },
+    {
+      "name": "How We Do",
+      "artists": [
+        "The Game",
+        "50 Cent"
+      ],
+      "album": "The Documentary",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d",
+      "url": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p",
+      "durationMs": 235533,
+      "playedAt": "2026-11-11T03:45:39.651Z"
+    },
+    {
+      "name": "Jump Around - 30 Years Remaster",
+      "artists": [
+        "House Of Pain"
+      ],
+      "album": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379606c79fde418c0bc458abb",
+      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq",
+      "durationMs": 218546,
+      "playedAt": "2026-11-11T03:41:46.989Z"
+    },
+    {
+      "name": "California Love - Original Version",
+      "artists": [
+        "2Pac",
+        "Roger",
+        "Dr. Dre"
+      ],
+      "album": "Greatest Hits",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec",
+      "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
+      "durationMs": 284906,
+      "playedAt": "2026-11-11T03:38:11.490Z"
+    },
     {
       "name": "Var blev ni av ljuva drömmar?",
       "artists": [
@@ -45,72 +117,6 @@
       "url": "https://open.spotify.com/track/6rNaUu3q2UdVeexRZSVxA1",
       "durationMs": 358933,
       "playedAt": "2026-11-09T18:08:28.451Z"
-    },
-    {
-      "name": "Hello Darling",
-      "artists": [
-        "Tippa Irie"
-      ],
-      "album": "Is It Really Happening To Me",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379ac04f9b59510e4df73c7c9",
-      "url": "https://open.spotify.com/track/32nvcsI9BlyzXuEcmW7L07",
-      "durationMs": 336333,
-      "playedAt": "2026-11-09T15:57:44.906Z"
-    },
-    {
-      "name": "Freedom Time (Black Star Liner) - 2013 Remaster",
-      "artists": [
-        "Black Slate"
-      ],
-      "album": "Amigo",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27359dbc013c099dbb3ef88af4b",
-      "url": "https://open.spotify.com/track/74LhUKBZcA3tWSFTyUXH0W",
-      "durationMs": 263973,
-      "playedAt": "2026-11-09T06:35:39.197Z"
-    },
-    {
-      "name": "You're Everything To Me",
-      "artists": [
-        "Boris Gardiner"
-      ],
-      "album": "This Is Boris Gardiner",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a2e0e3ca32b57f7a9ccf103d",
-      "url": "https://open.spotify.com/track/7IEW4IHBtUdRkZABL0ds0M",
-      "durationMs": 219933,
-      "playedAt": "2026-11-09T06:31:18.210Z"
-    },
-    {
-      "name": "I'm Your Puppet",
-      "artists": [
-        "James & Bobby Purify"
-      ],
-      "album": "Purify Bros.",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739d9fb2c4802bc7f53a4642c1",
-      "url": "https://open.spotify.com/track/3bLEDLDY0beQeUErNfoZIN",
-      "durationMs": 196613,
-      "playedAt": "2026-11-09T06:27:41.299Z"
-    },
-    {
-      "name": "Lady",
-      "artists": [
-        "Wayne Wade"
-      ],
-      "album": "Reggae Anthology: The Definitive Collection of Federal Records (1964-1982)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730eafa3b39866917c4f86e52f",
-      "url": "https://open.spotify.com/track/1hCohpxXi6GDJQ85PN70ma",
-      "durationMs": 397400,
-      "playedAt": "2026-11-09T06:24:27.702Z"
-    },
-    {
-      "name": "Waiting In Vain",
-      "artists": [
-        "Cocoa Tea"
-      ],
-      "album": "Music Is Our Business",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a455f7f0ba8a812b3776019e",
-      "url": "https://open.spotify.com/track/2s7A7mDCMKNx7ui7Ky9vOv",
-      "durationMs": 216506,
-      "playedAt": "2026-11-09T06:17:53.334Z"
     }
   ],
   "topArtists": [
@@ -124,9 +130,7 @@
       "name": "Cornelis Vreeswijk",
       "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
       "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
-      "genres": [
-        "swedish pop"
-      ]
+      "genres": []
     },
     {
       "name": "Frank Ocean",
@@ -138,18 +142,13 @@
       "name": "The Offline",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
       "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": [
-        "jazz house",
-        "jazz beats"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Zara Larsson",
@@ -161,19 +160,13 @@
       "name": "The Beginning Of The End",
       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
       "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR",
-      "genres": [
-        "funk",
-        "jazz funk"
-      ]
+      "genres": []
     },
     {
       "name": "berlioz",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb3a9ab7733c4e6f95251a806b",
       "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
-      "genres": [
-        "jazz house",
-        "jazz"
-      ]
+      "genres": []
     }
   ],
   "topTracks": [
