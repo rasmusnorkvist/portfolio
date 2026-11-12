@@ -1,7 +1,52 @@
 {
-  "updatedAt": "2026-11-12T15:44:26.931Z",
+  "updatedAt": "2026-11-12T22:01:03.080Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Quality Control",
+      "artists": [
+        "Jurassic 5"
+      ],
+      "album": "Quality Control",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f8619920507e963bf5d71779",
+      "url": "https://open.spotify.com/track/3C41w4YPDCfGuxzQNjvk8O",
+      "durationMs": 288866,
+      "playedAt": "2026-11-12T20:40:06.946Z"
+    },
+    {
+      "name": "Work It Out",
+      "artists": [
+        "Jurassic 5",
+        "Dave Matthews Band"
+      ],
+      "album": "Feedback",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27365d93a3d0c7bbbae90d0150f",
+      "url": "https://open.spotify.com/track/7uyKUBluZJq5ZjuPkbozK7",
+      "durationMs": 231906,
+      "playedAt": "2026-11-12T19:59:53.315Z"
+    },
+    {
+      "name": "Concrete Schoolyard",
+      "artists": [
+        "Jurassic 5"
+      ],
+      "album": "J5 (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731200c958dd5659bcab72d2a7",
+      "url": "https://open.spotify.com/track/3J0OszMlEDocWzllz5SnGQ",
+      "durationMs": 321293,
+      "playedAt": "2026-11-12T19:56:04.512Z"
+    },
+    {
+      "name": "What's Golden",
+      "artists": [
+        "Jurassic 5"
+      ],
+      "album": "Power In Numbers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a99e0e8509401d186b6a56f1",
+      "url": "https://open.spotify.com/track/3ptikEjKbpbXvJtOosLMuH",
+      "durationMs": 188560,
+      "playedAt": "2026-11-12T19:50:44.811Z"
+    },
     {
       "name": "Party Up",
       "artists": [
@@ -73,50 +118,6 @@
       "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
       "durationMs": 284906,
       "playedAt": "2026-11-11T03:38:11.490Z"
-    },
-    {
-      "name": "Var blev ni av ljuva drömmar?",
-      "artists": [
-        "Monica Zetterlund"
-      ],
-      "album": "O vad en liten gumma kan gno",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a31f8511326313f56a0dbdba",
-      "url": "https://open.spotify.com/track/6CVqdefyKI9ltgNIIBokxS",
-      "durationMs": 305106,
-      "playedAt": "2026-11-09T18:34:12.840Z"
-    },
-    {
-      "name": "Jag ger dig min morgon",
-      "artists": [
-        "Fred Åkerström"
-      ],
-      "album": "Två Tungor",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735db8ca3e78a3da93059cbc3b",
-      "url": "https://open.spotify.com/track/7nBARurNPIRVcf81uOFz3i",
-      "durationMs": 226426,
-      "playedAt": "2026-11-09T18:29:10.839Z"
-    },
-    {
-      "name": "Byns enda blondin",
-      "artists": [
-        "Sven-Ingvars"
-      ],
-      "album": "Byns enda blondin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f3bc26401da1a6c3b54e34dd",
-      "url": "https://open.spotify.com/track/1eN6mc3w58YfRPKkEf7YjA",
-      "durationMs": 285600,
-      "playedAt": "2026-11-09T18:13:11.036Z"
-    },
-    {
-      "name": "När solen färgar juninatten",
-      "artists": [
-        "Sven-Ingvars"
-      ],
-      "album": "Guld & Glöd. Mer Hits Än Någonsin",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273decaa5ce3597b628941672f6",
-      "url": "https://open.spotify.com/track/6rNaUu3q2UdVeexRZSVxA1",
-      "durationMs": 358933,
-      "playedAt": "2026-11-09T18:08:28.451Z"
     }
   ],
   "topArtists": [
@@ -124,12 +125,6 @@
       "name": "Gotts Street Park",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebbe1cb95c7d1d2420acfd71fe",
       "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y",
-      "genres": []
-    },
-    {
-      "name": "Cornelis Vreeswijk",
-      "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
-      "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
       "genres": []
     },
     {
@@ -142,13 +137,18 @@
       "name": "The Offline",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
       "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": []
+      "genres": [
+        "jazz house",
+        "jazz beats"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Zara Larsson",
@@ -160,13 +160,27 @@
       "name": "The Beginning Of The End",
       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
       "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR",
-      "genres": []
+      "genres": [
+        "funk",
+        "jazz funk"
+      ]
     },
     {
       "name": "berlioz",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb3a9ab7733c4e6f95251a806b",
       "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
-      "genres": []
+      "genres": [
+        "jazz house",
+        "jazz"
+      ]
+    },
+    {
+      "name": "Cornelis Vreeswijk",
+      "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
+      "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
+      "genres": [
+        "swedish pop"
+      ]
     }
   ],
   "topTracks": [
