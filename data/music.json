@@ -1,7 +1,40 @@
 {
-  "updatedAt": "2026-11-12T22:01:03.080Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-13T02:45:05.140Z",
+  "nowPlaying": {
+    "name": "Canto De Ossanha",
+    "artists": [
+      "Jurassic 5"
+    ],
+    "album": "Feedback",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27365d93a3d0c7bbbae90d0150f",
+    "url": "https://open.spotify.com/track/2hbQlLH69cjQOMaZagWsho",
+    "durationMs": 259532,
+    "isPlaying": true,
+    "progressMs": 230641
+  },
   "recentlyPlayed": [
+    {
+      "name": "Jayou",
+      "artists": [
+        "Jurassic 5"
+      ],
+      "album": "J5 (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731200c958dd5659bcab72d2a7",
+      "url": "https://open.spotify.com/track/53WkUGOHLIGsCluxNASJrc",
+      "durationMs": 178973,
+      "playedAt": "2026-11-13T02:31:52.505Z"
+    },
+    {
+      "name": "Freedom",
+      "artists": [
+        "Jurassic 5"
+      ],
+      "album": "Power In Numbers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c416d21ee400e2438cc2c17",
+      "url": "https://open.spotify.com/track/1n4lspQpBo5smutI9K0a0s",
+      "durationMs": 199306,
+      "playedAt": "2026-11-13T02:28:56.496Z"
+    },
     {
       "name": "Quality Control",
       "artists": [
@@ -11,7 +44,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f8619920507e963bf5d71779",
       "url": "https://open.spotify.com/track/3C41w4YPDCfGuxzQNjvk8O",
       "durationMs": 288866,
-      "playedAt": "2026-11-12T20:40:06.946Z"
+      "playedAt": "2026-11-13T02:25:40.204Z"
     },
     {
       "name": "Work It Out",
@@ -23,7 +56,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27365d93a3d0c7bbbae90d0150f",
       "url": "https://open.spotify.com/track/7uyKUBluZJq5ZjuPkbozK7",
       "durationMs": 231906,
-      "playedAt": "2026-11-12T19:59:53.315Z"
+      "playedAt": "2026-11-13T02:20:54.406Z"
     },
     {
       "name": "Concrete Schoolyard",
@@ -34,7 +67,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731200c958dd5659bcab72d2a7",
       "url": "https://open.spotify.com/track/3J0OszMlEDocWzllz5SnGQ",
       "durationMs": 321293,
-      "playedAt": "2026-11-12T19:56:04.512Z"
+      "playedAt": "2026-11-13T02:17:05.515Z"
     },
     {
       "name": "What's Golden",
@@ -45,79 +78,51 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a99e0e8509401d186b6a56f1",
       "url": "https://open.spotify.com/track/3ptikEjKbpbXvJtOosLMuH",
       "durationMs": 188560,
-      "playedAt": "2026-11-12T19:50:44.811Z"
+      "playedAt": "2026-11-13T02:11:47.206Z"
     },
     {
-      "name": "Party Up",
+      "name": "The Influence",
       "artists": [
-        "DMX"
+        "Jurassic 5"
       ],
-      "album": "...And Then There Was X",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273581d9fcb8a2e6d600d59b819",
-      "url": "https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC",
-      "durationMs": 268866,
-      "playedAt": "2026-11-11T03:57:48.489Z"
+      "album": "Quality Control",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f8619920507e963bf5d71779",
+      "url": "https://open.spotify.com/track/6q27PngTp48Wic7czcN75p",
+      "durationMs": 236333,
+      "playedAt": "2026-11-13T02:08:28.967Z"
     },
     {
-      "name": "Hate It Or Love It",
+      "name": "Gotta Understand",
       "artists": [
-        "The Game",
-        "50 Cent"
+        "Jurassic 5"
       ],
-      "album": "The Documentary",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d",
-      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R",
-      "durationMs": 206400,
-      "playedAt": "2026-11-11T03:53:19.081Z"
+      "album": "Feedback",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27365d93a3d0c7bbbae90d0150f",
+      "url": "https://open.spotify.com/track/2PpO5VVdX4bPbCeBee9adU",
+      "durationMs": 227000,
+      "playedAt": "2026-11-13T01:04:04.703Z"
     },
     {
-      "name": "You Can Do It",
+      "name": "Ducky Boy",
       "artists": [
-        "Ice Cube",
-        "Mack 10",
-        "Ms. Toi"
+        "Jurassic 5"
       ],
-      "album": "War & Peace Vol. 2 (The Peace Disc)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27317bf7f81b1a61b828c786857",
-      "url": "https://open.spotify.com/track/4NTn0Yo8hTGW5tbBANBzfh",
-      "durationMs": 259088,
-      "playedAt": "2026-11-11T03:49:55.792Z"
+      "album": "J5 (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731200c958dd5659bcab72d2a7",
+      "url": "https://open.spotify.com/track/5iHCuD5cQCKVIAuHaYpZrw",
+      "durationMs": 128600,
+      "playedAt": "2026-11-13T01:00:18.745Z"
     },
     {
-      "name": "How We Do",
+      "name": "Long Road To Glory",
       "artists": [
-        "The Game",
-        "50 Cent"
+        "Jurassic 5"
       ],
-      "album": "The Documentary",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d",
-      "url": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p",
-      "durationMs": 235533,
-      "playedAt": "2026-11-11T03:45:39.651Z"
-    },
-    {
-      "name": "Jump Around - 30 Years Remaster",
-      "artists": [
-        "House Of Pain"
-      ],
-      "album": "House of Pain (Fine Malt Lyrics) [30 Years] [Deluxe Edition]",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27379606c79fde418c0bc458abb",
-      "url": "https://open.spotify.com/track/7L93GESzq43UkKUt5FsOCq",
-      "durationMs": 218546,
-      "playedAt": "2026-11-11T03:41:46.989Z"
-    },
-    {
-      "name": "California Love - Original Version",
-      "artists": [
-        "2Pac",
-        "Roger",
-        "Dr. Dre"
-      ],
-      "album": "Greatest Hits",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d81a092eb373ded457d94eec",
-      "url": "https://open.spotify.com/track/3ia3dJETSOllPsv3LJkE35",
-      "durationMs": 284906,
-      "playedAt": "2026-11-11T03:38:11.490Z"
+      "album": "J5 (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731200c958dd5659bcab72d2a7",
+      "url": "https://open.spotify.com/track/5oCR44sNn6IYvgmXzj65Yq",
+      "durationMs": 231906,
+      "playedAt": "2026-11-13T00:58:11.943Z"
     }
   ],
   "topArtists": [
@@ -175,11 +180,11 @@
       ]
     },
     {
-      "name": "Cornelis Vreeswijk",
-      "imageUrl": "https://i.scdn.co/image/84522a0702bd39bbd7979254852358b914337e17",
-      "url": "https://open.spotify.com/artist/5B38ZGYpd0msq1LKOyz2r9",
+      "name": "Jurassic 5",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2b867caebf8d276cfed1a62d",
+      "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B",
       "genres": [
-        "swedish pop"
+        "hip hop"
       ]
     }
   ],
