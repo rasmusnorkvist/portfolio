@@ -1,128 +1,135 @@
 {
-  "updatedAt": "2026-11-13T02:45:05.140Z",
-  "nowPlaying": {
-    "name": "Canto De Ossanha",
-    "artists": [
-      "Jurassic 5"
-    ],
-    "album": "Feedback",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27365d93a3d0c7bbbae90d0150f",
-    "url": "https://open.spotify.com/track/2hbQlLH69cjQOMaZagWsho",
-    "durationMs": 259532,
-    "isPlaying": true,
-    "progressMs": 230641
-  },
+  "updatedAt": "2026-11-13T10:28:11.482Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Jayou",
+      "name": "On Days Like These - From \"The Italian Job\" Soundtrack",
       "artists": [
-        "Jurassic 5"
+        "Quincy Jones",
+        "Matt Monro"
       ],
-      "album": "J5 (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731200c958dd5659bcab72d2a7",
-      "url": "https://open.spotify.com/track/53WkUGOHLIGsCluxNASJrc",
-      "durationMs": 178973,
-      "playedAt": "2026-11-13T02:31:52.505Z"
+      "album": "The Italian Job (Original Soundtrack)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb10888830c8f4da1541e512",
+      "url": "https://open.spotify.com/track/3Tz5fLDzaPYxvd5MY6gtS1",
+      "durationMs": 220160,
+      "playedAt": "2026-11-13T04:36:04.302Z"
     },
     {
-      "name": "Freedom",
+      "name": "Love And Peace",
       "artists": [
-        "Jurassic 5"
+        "Quincy Jones"
       ],
-      "album": "Power In Numbers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c416d21ee400e2438cc2c17",
-      "url": "https://open.spotify.com/track/1n4lspQpBo5smutI9K0a0s",
-      "durationMs": 199306,
-      "playedAt": "2026-11-13T02:28:56.496Z"
+      "album": "Walking in Space",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273186ab3b5d3bc776e44c13404",
+      "url": "https://open.spotify.com/track/7bLOZu7axJuWw5GDLY7nEe",
+      "durationMs": 348506,
+      "playedAt": "2026-11-13T04:32:27.133Z"
     },
     {
-      "name": "Quality Control",
+      "name": "Heaven's Girl",
       "artists": [
-        "Jurassic 5"
+        "Quincy Jones",
+        "R. Kelly",
+        "Ronald Isley",
+        "Aaron Hall",
+        "Charlie Wilson",
+        "Naomi Campbell"
       ],
-      "album": "Quality Control",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f8619920507e963bf5d71779",
-      "url": "https://open.spotify.com/track/3C41w4YPDCfGuxzQNjvk8O",
-      "durationMs": 288866,
-      "playedAt": "2026-11-13T02:25:40.204Z"
+      "album": "Q's Jook Joint",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c2050338deeba0a6f4b805f",
+      "url": "https://open.spotify.com/track/4Tm6wJEdBXwKYQaygD2zWO",
+      "durationMs": 326266,
+      "playedAt": "2026-11-13T04:26:41.623Z"
     },
     {
-      "name": "Work It Out",
+      "name": "The Dude",
       "artists": [
-        "Jurassic 5",
-        "Dave Matthews Band"
+        "Quincy Jones"
       ],
-      "album": "Feedback",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27365d93a3d0c7bbbae90d0150f",
-      "url": "https://open.spotify.com/track/7uyKUBluZJq5ZjuPkbozK7",
-      "durationMs": 231906,
-      "playedAt": "2026-11-13T02:20:54.406Z"
+      "album": "The Dude",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394c75a1bf1c69bb2af35d937",
+      "url": "https://open.spotify.com/track/0YeMZY4x8FbVIvFmaphMp6",
+      "durationMs": 337600,
+      "playedAt": "2026-11-13T04:21:18.374Z"
     },
     {
-      "name": "Concrete Schoolyard",
+      "name": "The Midnight Sun Never Sets",
       "artists": [
-        "Jurassic 5"
+        "Quincy Jones",
+        "Harry Arnold",
+        "The Swedish Radio Studio Orchestra"
       ],
-      "album": "J5 (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731200c958dd5659bcab72d2a7",
-      "url": "https://open.spotify.com/track/3J0OszMlEDocWzllz5SnGQ",
-      "durationMs": 321293,
-      "playedAt": "2026-11-13T02:17:05.515Z"
+      "album": "Quincy's Home Again",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273049748611f8cb1c945bd20dd",
+      "url": "https://open.spotify.com/track/2DM509sry0RXPjqn3AxPMJ",
+      "durationMs": 245200,
+      "playedAt": "2026-11-13T04:15:43.828Z"
     },
     {
-      "name": "What's Golden",
+      "name": "Moody's Mood For Love (I'm In The Mood For Love)",
       "artists": [
-        "Jurassic 5"
+        "Quincy Jones",
+        "James Moody",
+        "Brian McKnight",
+        "Take 6",
+        "Rachelle Ferrell"
       ],
-      "album": "Power In Numbers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a99e0e8509401d186b6a56f1",
-      "url": "https://open.spotify.com/track/3ptikEjKbpbXvJtOosLMuH",
-      "durationMs": 188560,
-      "playedAt": "2026-11-13T02:11:47.206Z"
+      "album": "Q's Jook Joint",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c2050338deeba0a6f4b805f",
+      "url": "https://open.spotify.com/track/2JuoW9NOg9NSghWqqCJuS3",
+      "durationMs": 258306,
+      "playedAt": "2026-11-13T04:11:41.621Z"
     },
     {
-      "name": "The Influence",
+      "name": "Razzamatazz",
       "artists": [
-        "Jurassic 5"
+        "Quincy Jones",
+        "Patti Austin"
       ],
-      "album": "Quality Control",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f8619920507e963bf5d71779",
-      "url": "https://open.spotify.com/track/6q27PngTp48Wic7czcN75p",
-      "durationMs": 236333,
-      "playedAt": "2026-11-13T02:08:28.967Z"
+      "album": "The Dude",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394c75a1bf1c69bb2af35d937",
+      "url": "https://open.spotify.com/track/3QVrHveKwEblqYStYJbNop",
+      "durationMs": 255800,
+      "playedAt": "2026-11-13T04:07:26.328Z"
     },
     {
-      "name": "Gotta Understand",
+      "name": "Tomorrow (A Better You, Better Me)",
       "artists": [
-        "Jurassic 5"
+        "Quincy Jones",
+        "Tevin Campbell"
       ],
-      "album": "Feedback",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27365d93a3d0c7bbbae90d0150f",
-      "url": "https://open.spotify.com/track/2PpO5VVdX4bPbCeBee9adU",
-      "durationMs": 227000,
-      "playedAt": "2026-11-13T01:04:04.703Z"
+      "album": "Back On The Block",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736e2c7430d8497f77541ea0f7",
+      "url": "https://open.spotify.com/track/24KORaTRe0JecKHWamMXFg",
+      "durationMs": 286866,
+      "playedAt": "2026-11-13T04:03:13.528Z"
     },
     {
-      "name": "Ducky Boy",
+      "name": "Slow Jams",
       "artists": [
-        "Jurassic 5"
+        "Quincy Jones",
+        "Barry White",
+        "Portrait",
+        "Babyface",
+        "Tamia"
       ],
-      "album": "J5 (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731200c958dd5659bcab72d2a7",
-      "url": "https://open.spotify.com/track/5iHCuD5cQCKVIAuHaYpZrw",
-      "durationMs": 128600,
-      "playedAt": "2026-11-13T01:00:18.745Z"
+      "album": "Q's Jook Joint",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c2050338deeba0a6f4b805f",
+      "url": "https://open.spotify.com/track/6qhQJLcqQuLtbYGic3oORK",
+      "durationMs": 450600,
+      "playedAt": "2026-11-13T03:58:24.013Z"
     },
     {
-      "name": "Long Road To Glory",
+      "name": "Something Special",
       "artists": [
-        "Jurassic 5"
+        "Quincy Jones",
+        "Patti Austin"
       ],
-      "album": "J5 (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731200c958dd5659bcab72d2a7",
-      "url": "https://open.spotify.com/track/5oCR44sNn6IYvgmXzj65Yq",
-      "durationMs": 231906,
-      "playedAt": "2026-11-13T00:58:11.943Z"
+      "album": "The Dude",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394c75a1bf1c69bb2af35d937",
+      "url": "https://open.spotify.com/track/6C1WGhMEFYL1M0ERmfzUI7",
+      "durationMs": 237865,
+      "playedAt": "2026-11-13T03:56:19.211Z"
     }
   ],
   "topArtists": [
@@ -142,50 +149,37 @@
       "name": "The Offline",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
       "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": [
-        "jazz house",
-        "jazz beats"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
-    },
-    {
-      "name": "Zara Larsson",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebcbfb8295e334da7f2c8b4bff",
-      "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg",
       "genres": []
     },
     {
       "name": "The Beginning Of The End",
       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
       "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR",
-      "genres": [
-        "funk",
-        "jazz funk"
-      ]
+      "genres": []
     },
     {
       "name": "berlioz",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb3a9ab7733c4e6f95251a806b",
       "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
-      "genres": [
-        "jazz house",
-        "jazz"
-      ]
+      "genres": []
+    },
+    {
+      "name": "Quincy Jones",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe79e47fbc540635fd5e18e4d",
+      "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK",
+      "genres": []
     },
     {
       "name": "Jurassic 5",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2b867caebf8d276cfed1a62d",
       "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B",
-      "genres": [
-        "hip hop"
-      ]
+      "genres": []
     }
   ],
   "topTracks": [
@@ -222,16 +216,6 @@
       "durationMs": 167698
     },
     {
-      "name": "Funky Nassau, Pt. 1",
-      "artists": [
-        "The Beginning Of The End"
-      ],
-      "album": "Funky Nassau",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
-      "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg",
-      "durationMs": 186301
-    },
-    {
       "name": "Some Birds Don't Fly",
       "artists": [
         "Gotts Street Park",
@@ -251,6 +235,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
       "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
       "durationMs": 45640
+    },
+    {
+      "name": "Funky Nassau, Pt. 1",
+      "artists": [
+        "The Beginning Of The End"
+      ],
+      "album": "Funky Nassau",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
+      "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg",
+      "durationMs": 186301
     },
     {
       "name": "Shape Of America",
