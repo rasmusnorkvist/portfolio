@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-13T17:58:19.587Z",
+  "updatedAt": "2026-11-13T23:24:37.449Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "The Erotic Garden - After Hours Version",
+      "artists": [
+        "Quincy Jones"
+      ],
+      "album": "Back On The Block (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730b7114f9c30d9c351372b8f3",
+      "url": "https://open.spotify.com/track/3yulMfWmj956NKgDf32RMS",
+      "durationMs": 536306,
+      "playedAt": "2026-11-13T18:07:02.574Z"
+    },
     {
       "name": "On Days Like These - From \"The Italian Job\" Soundtrack",
       "artists": [
@@ -118,18 +129,6 @@
       "url": "https://open.spotify.com/track/6qhQJLcqQuLtbYGic3oORK",
       "durationMs": 450600,
       "playedAt": "2026-11-13T03:58:24.013Z"
-    },
-    {
-      "name": "Something Special",
-      "artists": [
-        "Quincy Jones",
-        "Patti Austin"
-      ],
-      "album": "The Dude",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394c75a1bf1c69bb2af35d937",
-      "url": "https://open.spotify.com/track/6C1WGhMEFYL1M0ERmfzUI7",
-      "durationMs": 237865,
-      "playedAt": "2026-11-13T03:56:19.211Z"
     }
   ],
   "topArtists": [
@@ -168,16 +167,8 @@
       "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR",
       "genres": [
         "funk",
+        "classic soul",
         "jazz funk"
-      ]
-    },
-    {
-      "name": "berlioz",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb3a9ab7733c4e6f95251a806b",
-      "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
-      "genres": [
-        "jazz house",
-        "jazz"
       ]
     },
     {
@@ -187,6 +178,15 @@
       "genres": [
         "soul jazz",
         "big band"
+      ]
+    },
+    {
+      "name": "berlioz",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb3a9ab7733c4e6f95251a806b",
+      "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
+      "genres": [
+        "jazz house",
+        "jazz"
       ]
     },
     {
