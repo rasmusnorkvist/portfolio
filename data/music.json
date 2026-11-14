@@ -1,7 +1,106 @@
 {
-  "updatedAt": "2026-11-13T23:24:37.449Z",
+  "updatedAt": "2026-11-14T03:26:26.715Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Look at U",
+      "artists": [
+        "Good Luck"
+      ],
+      "album": "Look at U",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f7142dd2de9345eb9044e1fd",
+      "url": "https://open.spotify.com/track/0Pf6NzB4o9ASEPmUmvaRPm",
+      "durationMs": 215026,
+      "playedAt": "2026-11-14T02:59:56.785Z"
+    },
+    {
+      "name": "Atmosphere",
+      "artists": [
+        "Target Demographic"
+      ],
+      "album": "Moments With You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734aaa3609fc47e0d6690951b7",
+      "url": "https://open.spotify.com/track/3nvtAQdpl1lMxJJlTxCxw5",
+      "durationMs": 302857,
+      "playedAt": "2026-11-14T02:56:06.223Z"
+    },
+    {
+      "name": "I Lost 200€ in a Club",
+      "artists": [
+        "Tell"
+      ],
+      "album": "Cool Bananas",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352e7530535ebaa7e4275f065",
+      "url": "https://open.spotify.com/track/1OxNBuk83EeS1Nj0k8mfPZ",
+      "durationMs": 263315,
+      "playedAt": "2026-11-14T02:51:06.400Z"
+    },
+    {
+      "name": "Searching",
+      "artists": [
+        "Soul Wun"
+      ],
+      "album": "Searching - EP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27327a5a4e6aafa9f4776b965cc",
+      "url": "https://open.spotify.com/track/64hw1sK5eUvHQRt5Jne0nR",
+      "durationMs": 318553,
+      "playedAt": "2026-11-14T02:46:46.081Z"
+    },
+    {
+      "name": "Tilda",
+      "artists": [
+        "Shaolin Cowboy"
+      ],
+      "album": "Catch Feels Get High",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738722809becc151f3f7f1e4b5",
+      "url": "https://open.spotify.com/track/1CWqQ5vC8LZD8h5kAGkNfB",
+      "durationMs": 343414,
+      "playedAt": "2026-11-14T02:41:30.526Z"
+    },
+    {
+      "name": "Stones Dub",
+      "artists": [
+        "Shaolin Cowboy"
+      ],
+      "album": "Way Out West, Pt. 1",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073e86b4b4d37c5aee4a92fa",
+      "url": "https://open.spotify.com/track/0DzappMIH71pU5UaQbYFLh",
+      "durationMs": 255256,
+      "playedAt": "2026-11-14T02:35:50.120Z"
+    },
+    {
+      "name": "Heads and Tails",
+      "artists": [
+        "Shaolin Cowboy"
+      ],
+      "album": "Way Out West, Pt. 1",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073e86b4b4d37c5aee4a92fa",
+      "url": "https://open.spotify.com/track/7yomxEh5MirqidtlsGM4sH",
+      "durationMs": 304186,
+      "playedAt": "2026-11-14T02:31:34.917Z"
+    },
+    {
+      "name": "Water Finds Its Way",
+      "artists": [
+        "Shaolin Cowboy"
+      ],
+      "album": "Way Out West, Pt. 1",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073e86b4b4d37c5aee4a92fa",
+      "url": "https://open.spotify.com/track/21tE5g6Qa06oUoKk7CNqhV",
+      "durationMs": 192451,
+      "playedAt": "2026-11-14T02:26:30.716Z"
+    },
+    {
+      "name": "Next Time Around",
+      "artists": [
+        "Shaolin Cowboy"
+      ],
+      "album": "Way Out West, Pt. 1",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073e86b4b4d37c5aee4a92fa",
+      "url": "https://open.spotify.com/track/1tnp754Enb6uRqxUTOXYHR",
+      "durationMs": 259347,
+      "playedAt": "2026-11-14T02:22:57.449Z"
+    },
     {
       "name": "The Erotic Garden - After Hours Version",
       "artists": [
@@ -12,123 +111,6 @@
       "url": "https://open.spotify.com/track/3yulMfWmj956NKgDf32RMS",
       "durationMs": 536306,
       "playedAt": "2026-11-13T18:07:02.574Z"
-    },
-    {
-      "name": "On Days Like These - From \"The Italian Job\" Soundtrack",
-      "artists": [
-        "Quincy Jones",
-        "Matt Monro"
-      ],
-      "album": "The Italian Job (Original Soundtrack)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273eb10888830c8f4da1541e512",
-      "url": "https://open.spotify.com/track/3Tz5fLDzaPYxvd5MY6gtS1",
-      "durationMs": 220160,
-      "playedAt": "2026-11-13T04:36:04.302Z"
-    },
-    {
-      "name": "Love And Peace",
-      "artists": [
-        "Quincy Jones"
-      ],
-      "album": "Walking in Space",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273186ab3b5d3bc776e44c13404",
-      "url": "https://open.spotify.com/track/7bLOZu7axJuWw5GDLY7nEe",
-      "durationMs": 348506,
-      "playedAt": "2026-11-13T04:32:27.133Z"
-    },
-    {
-      "name": "Heaven's Girl",
-      "artists": [
-        "Quincy Jones",
-        "R. Kelly",
-        "Ronald Isley",
-        "Aaron Hall",
-        "Charlie Wilson",
-        "Naomi Campbell"
-      ],
-      "album": "Q's Jook Joint",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c2050338deeba0a6f4b805f",
-      "url": "https://open.spotify.com/track/4Tm6wJEdBXwKYQaygD2zWO",
-      "durationMs": 326266,
-      "playedAt": "2026-11-13T04:26:41.623Z"
-    },
-    {
-      "name": "The Dude",
-      "artists": [
-        "Quincy Jones"
-      ],
-      "album": "The Dude",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394c75a1bf1c69bb2af35d937",
-      "url": "https://open.spotify.com/track/0YeMZY4x8FbVIvFmaphMp6",
-      "durationMs": 337600,
-      "playedAt": "2026-11-13T04:21:18.374Z"
-    },
-    {
-      "name": "The Midnight Sun Never Sets",
-      "artists": [
-        "Quincy Jones",
-        "Harry Arnold",
-        "The Swedish Radio Studio Orchestra"
-      ],
-      "album": "Quincy's Home Again",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273049748611f8cb1c945bd20dd",
-      "url": "https://open.spotify.com/track/2DM509sry0RXPjqn3AxPMJ",
-      "durationMs": 245200,
-      "playedAt": "2026-11-13T04:15:43.828Z"
-    },
-    {
-      "name": "Moody's Mood For Love (I'm In The Mood For Love)",
-      "artists": [
-        "Quincy Jones",
-        "James Moody",
-        "Brian McKnight",
-        "Take 6",
-        "Rachelle Ferrell"
-      ],
-      "album": "Q's Jook Joint",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c2050338deeba0a6f4b805f",
-      "url": "https://open.spotify.com/track/2JuoW9NOg9NSghWqqCJuS3",
-      "durationMs": 258306,
-      "playedAt": "2026-11-13T04:11:41.621Z"
-    },
-    {
-      "name": "Razzamatazz",
-      "artists": [
-        "Quincy Jones",
-        "Patti Austin"
-      ],
-      "album": "The Dude",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394c75a1bf1c69bb2af35d937",
-      "url": "https://open.spotify.com/track/3QVrHveKwEblqYStYJbNop",
-      "durationMs": 255800,
-      "playedAt": "2026-11-13T04:07:26.328Z"
-    },
-    {
-      "name": "Tomorrow (A Better You, Better Me)",
-      "artists": [
-        "Quincy Jones",
-        "Tevin Campbell"
-      ],
-      "album": "Back On The Block",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736e2c7430d8497f77541ea0f7",
-      "url": "https://open.spotify.com/track/24KORaTRe0JecKHWamMXFg",
-      "durationMs": 286866,
-      "playedAt": "2026-11-13T04:03:13.528Z"
-    },
-    {
-      "name": "Slow Jams",
-      "artists": [
-        "Quincy Jones",
-        "Barry White",
-        "Portrait",
-        "Babyface",
-        "Tamia"
-      ],
-      "album": "Q's Jook Joint",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736c2050338deeba0a6f4b805f",
-      "url": "https://open.spotify.com/track/6qhQJLcqQuLtbYGic3oORK",
-      "durationMs": 450600,
-      "playedAt": "2026-11-13T03:58:24.013Z"
     }
   ],
   "topArtists": [
@@ -148,54 +130,37 @@
       "name": "The Offline",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
       "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": [
-        "jazz house",
-        "jazz beats"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "The Beginning Of The End",
       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
       "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR",
-      "genres": [
-        "funk",
-        "classic soul",
-        "jazz funk"
-      ]
+      "genres": []
     },
     {
       "name": "Quincy Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe79e47fbc540635fd5e18e4d",
       "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK",
-      "genres": [
-        "soul jazz",
-        "big band"
-      ]
+      "genres": []
     },
     {
       "name": "berlioz",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb3a9ab7733c4e6f95251a806b",
       "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
-      "genres": [
-        "jazz house",
-        "jazz"
-      ]
+      "genres": []
     },
     {
-      "name": "Jurassic 5",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2b867caebf8d276cfed1a62d",
-      "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B",
-      "genres": [
-        "hip hop"
-      ]
+      "name": "Shaolin Cowboy",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb30171dbe9e6e4d5ee9ed6ce7",
+      "url": "https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD",
+      "genres": []
     }
   ],
   "topTracks": [
