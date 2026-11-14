@@ -1,116 +1,120 @@
 {
-  "updatedAt": "2026-11-14T16:49:20.759Z",
+  "updatedAt": "2026-11-14T21:03:37.706Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Look at U",
+      "name": "What's Happening Brother",
       "artists": [
-        "Good Luck"
+        "Marvin Gaye"
       ],
-      "album": "Look at U",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f7142dd2de9345eb9044e1fd",
-      "url": "https://open.spotify.com/track/0Pf6NzB4o9ASEPmUmvaRPm",
-      "durationMs": 215026,
-      "playedAt": "2026-11-14T02:59:56.785Z"
+      "album": "What's Going On",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b36949bee43217351961ffbc",
+      "url": "https://open.spotify.com/track/4ihykcy9d9SSC5qxHIhPcf",
+      "durationMs": 163680,
+      "playedAt": "2026-11-14T18:15:26.764Z"
     },
     {
-      "name": "Atmosphere",
+      "name": "Come Get To This",
       "artists": [
-        "Target Demographic"
+        "Marvin Gaye"
       ],
-      "album": "Moments With You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734aaa3609fc47e0d6690951b7",
-      "url": "https://open.spotify.com/track/3nvtAQdpl1lMxJJlTxCxw5",
-      "durationMs": 302857,
-      "playedAt": "2026-11-14T02:56:06.223Z"
+      "album": "Let's Get It On",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f8f0a26e4100c490bc384003",
+      "url": "https://open.spotify.com/track/622DQPLumfjBW0sDd7XGFO",
+      "durationMs": 161000,
+      "playedAt": "2026-11-14T18:12:46.164Z"
     },
     {
-      "name": "I Lost 200€ in a Club",
+      "name": "Why Did I Choose You - Alternate Vocal Version",
       "artists": [
-        "Tell"
+        "Marvin Gaye"
       ],
-      "album": "Cool Bananas",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27352e7530535ebaa7e4275f065",
-      "url": "https://open.spotify.com/track/1OxNBuk83EeS1Nj0k8mfPZ",
-      "durationMs": 263315,
-      "playedAt": "2026-11-14T02:51:06.400Z"
+      "album": "Vulnerable",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c88620988ee748caef74b03e",
+      "url": "https://open.spotify.com/track/3pxRGGfOFXQ3Ajs492gyWJ",
+      "durationMs": 157133,
+      "playedAt": "2026-11-14T18:09:38.731Z"
     },
     {
-      "name": "Searching",
+      "name": "Ain't Nothing Like The Real Thing",
       "artists": [
-        "Soul Wun"
+        "Marvin Gaye",
+        "Tammi Terrell"
       ],
-      "album": "Searching - EP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27327a5a4e6aafa9f4776b965cc",
-      "url": "https://open.spotify.com/track/64hw1sK5eUvHQRt5Jne0nR",
-      "durationMs": 318553,
-      "playedAt": "2026-11-14T02:46:46.081Z"
+      "album": "You're All I Need",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273df5efb734e08c8acdbf9634f",
+      "url": "https://open.spotify.com/track/37soQoNhEEIrhhYgHWK1xU",
+      "durationMs": 138533,
+      "playedAt": "2026-11-14T18:07:04.584Z"
     },
     {
-      "name": "Tilda",
+      "name": "You Are Everything",
       "artists": [
-        "Shaolin Cowboy"
+        "Diana Ross",
+        "Marvin Gaye"
       ],
-      "album": "Catch Feels Get High",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738722809becc151f3f7f1e4b5",
-      "url": "https://open.spotify.com/track/1CWqQ5vC8LZD8h5kAGkNfB",
-      "durationMs": 343414,
-      "playedAt": "2026-11-14T02:41:30.526Z"
+      "album": "Diana & Marvin (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733d6ecdcc0f42203b27e1620d",
+      "url": "https://open.spotify.com/track/1SjqD5q2WvpjOFIklP7sxD",
+      "durationMs": 190440,
+      "playedAt": "2026-11-14T18:04:49.042Z"
     },
     {
-      "name": "Stones Dub",
+      "name": "It Takes Two",
       "artists": [
-        "Shaolin Cowboy"
+        "Marvin Gaye",
+        "Kim Weston"
       ],
-      "album": "Way Out West, Pt. 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073e86b4b4d37c5aee4a92fa",
-      "url": "https://open.spotify.com/track/0DzappMIH71pU5UaQbYFLh",
-      "durationMs": 255256,
-      "playedAt": "2026-11-14T02:35:50.120Z"
+      "album": "Take Two",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27320348a11890200cfec8f0592",
+      "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ",
+      "durationMs": 177666,
+      "playedAt": "2026-11-14T18:01:41.640Z"
     },
     {
-      "name": "Heads and Tails",
+      "name": "I Love You Secretly",
       "artists": [
-        "Shaolin Cowboy"
+        "The Miracles",
+        "Marvin Gaye"
       ],
-      "album": "Way Out West, Pt. 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073e86b4b4d37c5aee4a92fa",
-      "url": "https://open.spotify.com/track/7yomxEh5MirqidtlsGM4sH",
-      "durationMs": 304186,
-      "playedAt": "2026-11-14T02:31:34.917Z"
+      "album": "Renaissance",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27325db2cb0cf498403a9e09fc0",
+      "url": "https://open.spotify.com/track/2ykNJxkcqdKFl2qJyaRUVr",
+      "durationMs": 264240,
+      "playedAt": "2026-11-14T17:58:47.041Z"
     },
     {
-      "name": "Water Finds Its Way",
+      "name": "I Won't Cry Anymore - 1973 Version",
       "artists": [
-        "Shaolin Cowboy"
+        "Marvin Gaye"
       ],
-      "album": "Way Out West, Pt. 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073e86b4b4d37c5aee4a92fa",
-      "url": "https://open.spotify.com/track/21tE5g6Qa06oUoKk7CNqhV",
-      "durationMs": 192451,
-      "playedAt": "2026-11-14T02:26:30.716Z"
+      "album": "Let's Get It On (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e5833ee02b2b4f0e8fd539d2",
+      "url": "https://open.spotify.com/track/5uEszHApEbE1SW9oTPY6U7",
+      "durationMs": 179075,
+      "playedAt": "2026-11-14T17:54:25.752Z"
     },
     {
-      "name": "Next Time Around",
+      "name": "Inner City Blues (Make Me Wanna Holler)",
       "artists": [
-        "Shaolin Cowboy"
+        "Marvin Gaye"
       ],
-      "album": "Way Out West, Pt. 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073e86b4b4d37c5aee4a92fa",
-      "url": "https://open.spotify.com/track/1tnp754Enb6uRqxUTOXYHR",
-      "durationMs": 259347,
-      "playedAt": "2026-11-14T02:22:57.449Z"
+      "album": "What's Going On",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b36949bee43217351961ffbc",
+      "url": "https://open.spotify.com/track/5hReWjUHqPqkHi31G7izL4",
+      "durationMs": 327706,
+      "playedAt": "2026-11-14T17:51:29.746Z"
     },
     {
-      "name": "The Erotic Garden - After Hours Version",
+      "name": "How Sweet It Is (To Be Loved By You)",
       "artists": [
-        "Quincy Jones"
+        "Marvin Gaye"
       ],
-      "album": "Back On The Block (Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730b7114f9c30d9c351372b8f3",
-      "url": "https://open.spotify.com/track/3yulMfWmj956NKgDf32RMS",
-      "durationMs": 536306,
-      "playedAt": "2026-11-13T18:07:02.574Z"
+      "album": "How Sweet It Is To Be Loved By You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273be2a24c5667e20b2105b4020",
+      "url": "https://open.spotify.com/track/2zF8ro2hX0aEYaqXQdEKW1",
+      "durationMs": 177773,
+      "playedAt": "2026-11-14T17:46:05.027Z"
     }
   ],
   "topArtists": [
@@ -130,37 +134,55 @@
       "name": "The Offline",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
       "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": []
+      "genres": [
+        "jazz house",
+        "jazz beats"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "The Beginning Of The End",
       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
       "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR",
-      "genres": []
+      "genres": [
+        "funk",
+        "classic soul",
+        "jazz funk"
+      ]
     },
     {
       "name": "Quincy Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe79e47fbc540635fd5e18e4d",
       "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK",
-      "genres": []
+      "genres": [
+        "soul jazz",
+        "big band"
+      ]
     },
     {
       "name": "berlioz",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb3a9ab7733c4e6f95251a806b",
       "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
-      "genres": []
+      "genres": [
+        "jazz house",
+        "jazz"
+      ]
     },
     {
       "name": "Shaolin Cowboy",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb30171dbe9e6e4d5ee9ed6ce7",
       "url": "https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD",
-      "genres": []
+      "genres": [
+        "lo-fi house",
+        "jazz house"
+      ]
     }
   ],
   "topTracks": [
