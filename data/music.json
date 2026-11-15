@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-15T15:45:32.544Z",
+  "updatedAt": "2026-11-15T20:46:13.953Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Next Time Around",
+      "artists": [
+        "Shaolin Cowboy"
+      ],
+      "album": "Next Time Around",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738d157eaed085be789e714d33",
+      "url": "https://open.spotify.com/track/2VeoV7wwPojjCmwyvQL6wF",
+      "durationMs": 259347,
+      "playedAt": "2026-11-15T17:33:12.940Z"
+    },
     {
       "name": "Goodbye George",
       "artists": [
@@ -103,17 +114,6 @@
       "url": "https://open.spotify.com/track/2xXWJltYuUIyfeCivhxLDq",
       "durationMs": 296585,
       "playedAt": "2026-11-15T07:59:08.052Z"
-    },
-    {
-      "name": "Central Line Jazz",
-      "artists": [
-        "Shaolin Cowboy"
-      ],
-      "album": "2Be with You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e727d6e2dfedc6a0fb10352f",
-      "url": "https://open.spotify.com/track/4qGctlEjOrJawFRBkLKUXP",
-      "durationMs": 309559,
-      "playedAt": "2026-11-15T07:54:14.454Z"
     }
   ],
   "topArtists": [
