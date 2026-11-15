@@ -1,19 +1,74 @@
 {
-  "updatedAt": "2026-11-15T08:07:38.156Z",
-  "nowPlaying": {
-    "name": "you should stay right now",
-    "artists": [
-      "Jadu Jadu",
-      "Shaolin Cowboy"
-    ],
-    "album": "you should stay right now",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aad459902270b260925310d7",
-    "url": "https://open.spotify.com/track/2ul09HRValhvcmTzbOjJpm",
-    "durationMs": 221116,
-    "isPlaying": true,
-    "progressMs": 96912
-  },
+  "updatedAt": "2026-11-15T15:45:32.544Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Goodbye George",
+      "artists": [
+        "Shaolin Cowboy"
+      ],
+      "album": "A Story Of Innocence Lost",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27393d589afa3e9e72b1711bb24",
+      "url": "https://open.spotify.com/track/0M2ujiwoR4P774drv0CWUa",
+      "durationMs": 268717,
+      "playedAt": "2026-11-15T08:33:59.343Z"
+    },
+    {
+      "name": "Stones Dub",
+      "artists": [
+        "Shaolin Cowboy"
+      ],
+      "album": "Way Out West, Pt. 1",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073e86b4b4d37c5aee4a92fa",
+      "url": "https://open.spotify.com/track/0DzappMIH71pU5UaQbYFLh",
+      "durationMs": 255256,
+      "playedAt": "2026-11-15T08:29:33.643Z"
+    },
+    {
+      "name": "Heads and Tails",
+      "artists": [
+        "Shaolin Cowboy"
+      ],
+      "album": "Heads and Tails",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27311570db9b50d2ea7f3f8947e",
+      "url": "https://open.spotify.com/track/1rr2D7qGnsGHeQZiGxfNfQ",
+      "durationMs": 304186,
+      "playedAt": "2026-11-15T08:25:21.449Z"
+    },
+    {
+      "name": "Yeh Yeh Yeh",
+      "artists": [
+        "Shaolin Cowboy"
+      ],
+      "album": "A Story Of Innocence Lost",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27393d589afa3e9e72b1711bb24",
+      "url": "https://open.spotify.com/track/1PPD0JzK4ODrtuoP7q9YUj",
+      "durationMs": 377560,
+      "playedAt": "2026-11-15T08:20:20.224Z"
+    },
+    {
+      "name": "London 2 Moscow",
+      "artists": [
+        "Shaolin Cowboy"
+      ],
+      "album": "Catch Feels Get High",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738722809becc151f3f7f1e4b5",
+      "url": "https://open.spotify.com/track/6qr4kojI4w7fXRBncOhSbz",
+      "durationMs": 266441,
+      "playedAt": "2026-11-15T08:14:05.755Z"
+    },
+    {
+      "name": "you should stay right now",
+      "artists": [
+        "Jadu Jadu",
+        "Shaolin Cowboy"
+      ],
+      "album": "you should stay right now",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aad459902270b260925310d7",
+      "url": "https://open.spotify.com/track/2ul09HRValhvcmTzbOjJpm",
+      "durationMs": 221116,
+      "playedAt": "2026-11-15T08:09:42.255Z"
+    },
     {
       "name": "Down Like That",
       "artists": [
@@ -59,74 +114,6 @@
       "url": "https://open.spotify.com/track/4qGctlEjOrJawFRBkLKUXP",
       "durationMs": 309559,
       "playedAt": "2026-11-15T07:54:14.454Z"
-    },
-    {
-      "name": "i'll be your xtc",
-      "artists": [
-        "Jadu Jadu",
-        "Shaolin Cowboy"
-      ],
-      "album": "you should stay right now",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aad459902270b260925310d7",
-      "url": "https://open.spotify.com/track/3tLziEBei45mlujs2uWgpe",
-      "durationMs": 261590,
-      "playedAt": "2026-11-15T07:49:07.957Z"
-    },
-    {
-      "name": "Catch Feels Get High",
-      "artists": [
-        "Shaolin Cowboy"
-      ],
-      "album": "Catch Feels Get High",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738722809becc151f3f7f1e4b5",
-      "url": "https://open.spotify.com/track/3T2frfWU5vhWdrvCKY67jZ",
-      "durationMs": 222580,
-      "playedAt": "2026-11-15T07:44:49.360Z"
-    },
-    {
-      "name": "Réveiller (feat. manon)",
-      "artists": [
-        "Shaolin Cowboy",
-        "manon"
-      ],
-      "album": "Réveiller (feat. manon)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273edb1f6dcd264e388165841c5",
-      "url": "https://open.spotify.com/track/51oib6a2dRu2f6x8OMMphQ",
-      "durationMs": 289787,
-      "playedAt": "2026-11-15T07:41:09.756Z"
-    },
-    {
-      "name": "Dancing In The Moonlight",
-      "artists": [
-        "King Harvest"
-      ],
-      "album": "Dancing In The Moonlight",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273cc344f09300a0d20635f96f3",
-      "url": "https://open.spotify.com/track/55GxhCTq6SY3tFTVh7z1nR",
-      "durationMs": 178045,
-      "playedAt": "2026-11-15T07:27:17.891Z"
-    },
-    {
-      "name": "Does Your Mother Know",
-      "artists": [
-        "ABBA"
-      ],
-      "album": "Voulez-Vous",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aa22899360d8ba6704732dec",
-      "url": "https://open.spotify.com/track/2HPB3px8MJZRMfu1L65Z41",
-      "durationMs": 193440,
-      "playedAt": "2026-11-15T07:24:22.828Z"
-    },
-    {
-      "name": "That's the Way (I Like It) - 2004 Remaster",
-      "artists": [
-        "KC & The Sunshine Band"
-      ],
-      "album": "KC & the Sunshine Band",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27390298163e25342e58d153899",
-      "url": "https://open.spotify.com/track/3PR79C1jVvLLLmgdyHkXl3",
-      "durationMs": 185106,
-      "playedAt": "2026-11-15T07:21:12.379Z"
     }
   ],
   "topArtists": [
@@ -149,6 +136,12 @@
       "genres": []
     },
     {
+      "name": "Shaolin Cowboy",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb30171dbe9e6e4d5ee9ed6ce7",
+      "url": "https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD",
+      "genres": []
+    },
+    {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
@@ -158,12 +151,6 @@
       "name": "Marvin Gaye",
       "imageUrl": "https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434",
       "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
-      "genres": []
-    },
-    {
-      "name": "Shaolin Cowboy",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb30171dbe9e6e4d5ee9ed6ce7",
-      "url": "https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD",
       "genres": []
     },
     {
@@ -234,6 +221,17 @@
       "durationMs": 186301
     },
     {
+      "name": "Réveiller (feat. manon)",
+      "artists": [
+        "Shaolin Cowboy",
+        "manon"
+      ],
+      "album": "Réveiller (feat. manon)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273edb1f6dcd264e388165841c5",
+      "url": "https://open.spotify.com/track/51oib6a2dRu2f6x8OMMphQ",
+      "durationMs": 289787
+    },
+    {
       "name": "Shape Of America",
       "artists": [
         "Gotts Street Park",
@@ -253,16 +251,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
       "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
       "durationMs": 174813
-    },
-    {
-      "name": "Start",
-      "artists": [
-        "Frank Ocean"
-      ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
-      "durationMs": 45640
     }
   ],
   "featuredPlaylists": []
