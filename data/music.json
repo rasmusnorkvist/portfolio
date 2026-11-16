@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-16T07:35:52.957Z",
+  "updatedAt": "2026-11-16T17:51:57.255Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Move on Up - Extended Version",
+      "artists": [
+        "Curtis Mayfield"
+      ],
+      "album": "Curtis (Expanded Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273775a6bee6c704ec29aec00f4",
+      "url": "https://open.spotify.com/track/01gDLZsi0j5fWC28FLPNO8",
+      "durationMs": 535333,
+      "playedAt": "2026-11-16T01:41:10.883Z"
+    },
     {
       "name": "Next Time Around",
       "artists": [
@@ -103,17 +114,6 @@
       "url": "https://open.spotify.com/track/4T5o16hIVjdvIy06jhsJLG",
       "durationMs": 158580,
       "playedAt": "2026-11-15T08:01:43.582Z"
-    },
-    {
-      "name": "I Guess It's Just Us Now",
-      "artists": [
-        "Shaolin Cowboy"
-      ],
-      "album": "Catch Feels Get High",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738722809becc151f3f7f1e4b5",
-      "url": "https://open.spotify.com/track/2xXWJltYuUIyfeCivhxLDq",
-      "durationMs": 296585,
-      "playedAt": "2026-11-15T07:59:08.052Z"
     }
   ],
   "topArtists": [
@@ -124,67 +124,46 @@
       "genres": []
     },
     {
+      "name": "The Offline",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
+      "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
+      "genres": []
+    },
+    {
       "name": "Frank Ocean",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
       "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
       "genres": []
     },
     {
-      "name": "The Offline",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
-      "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": [
-        "jazz house",
-        "jazz beats"
-      ]
-    },
-    {
       "name": "Shaolin Cowboy",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb30171dbe9e6e4d5ee9ed6ce7",
       "url": "https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD",
-      "genres": [
-        "lo-fi house",
-        "jazz house"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Marvin Gaye",
       "imageUrl": "https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434",
       "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
-      "genres": [
-        "motown",
-        "classic soul",
-        "soul",
-        "northern soul",
-        "quiet storm"
-      ]
+      "genres": []
     },
     {
       "name": "The Beginning Of The End",
       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
       "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR",
-      "genres": [
-        "funk",
-        "classic soul",
-        "jazz funk"
-      ]
+      "genres": []
     },
     {
       "name": "Quincy Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe79e47fbc540635fd5e18e4d",
       "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK",
-      "genres": [
-        "soul jazz",
-        "big band"
-      ]
+      "genres": []
     }
   ],
   "topTracks": [
