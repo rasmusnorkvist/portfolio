@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-18T08:58:48.726Z",
+  "updatedAt": "2026-11-18T17:54:27.569Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Quality Control",
+      "artists": [
+        "Jurassic 5"
+      ],
+      "album": "Quality Control",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f8619920507e963bf5d71779",
+      "url": "https://open.spotify.com/track/3C41w4YPDCfGuxzQNjvk8O",
+      "durationMs": 288866,
+      "playedAt": "2026-11-18T15:32:53.802Z"
+    },
     {
       "name": "Work It Out",
       "artists": [
@@ -103,17 +114,6 @@
       "url": "https://open.spotify.com/track/1rr2D7qGnsGHeQZiGxfNfQ",
       "durationMs": 304186,
       "playedAt": "2026-11-15T08:25:21.449Z"
-    },
-    {
-      "name": "Yeh Yeh Yeh",
-      "artists": [
-        "Shaolin Cowboy"
-      ],
-      "album": "A Story Of Innocence Lost",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27393d589afa3e9e72b1711bb24",
-      "url": "https://open.spotify.com/track/1PPD0JzK4ODrtuoP7q9YUj",
-      "durationMs": 377560,
-      "playedAt": "2026-11-15T08:20:20.224Z"
     }
   ],
   "topArtists": [
@@ -133,37 +133,57 @@
       "name": "Shaolin Cowboy",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb30171dbe9e6e4d5ee9ed6ce7",
       "url": "https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD",
-      "genres": []
+      "genres": [
+        "lo-fi house",
+        "jazz house"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Marvin Gaye",
       "imageUrl": "https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434",
       "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
-      "genres": []
-    },
-    {
-      "name": "The Offline",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
-      "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": []
+      "genres": [
+        "motown",
+        "classic soul",
+        "soul",
+        "northern soul",
+        "quiet storm"
+      ]
     },
     {
       "name": "Jurassic 5",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2b867caebf8d276cfed1a62d",
       "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B",
-      "genres": []
+      "genres": [
+        "hip hop"
+      ]
     },
     {
       "name": "The Beginning Of The End",
       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
       "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR",
-      "genres": []
+      "genres": [
+        "funk",
+        "classic soul",
+        "jazz funk"
+      ]
+    },
+    {
+      "name": "Quincy Jones",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe79e47fbc540635fd5e18e4d",
+      "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK",
+      "genres": [
+        "soul jazz",
+        "big band"
+      ]
     }
   ],
   "topTracks": [
