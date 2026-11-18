@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-18T17:54:27.569Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-18T23:50:58.459Z",
+  "nowPlaying": {
+    "name": "Little Willie John - Version",
+    "artists": [
+      "Peter LeMarc"
+    ],
+    "album": "LeMarc - Klassiker",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3593a634876c6e748fa3424",
+    "url": "https://open.spotify.com/track/7M57AuAeA5M4lnWqpUGRIR",
+    "durationMs": 330240,
+    "isPlaying": true,
+    "progressMs": 8771
+  },
   "recentlyPlayed": [
     {
       "name": "Quality Control",
