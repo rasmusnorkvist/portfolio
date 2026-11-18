@@ -1,7 +1,54 @@
 {
-  "updatedAt": "2026-11-18T01:28:38.151Z",
+  "updatedAt": "2026-11-18T08:58:48.726Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Work It Out",
+      "artists": [
+        "Jurassic 5",
+        "Dave Matthews Band"
+      ],
+      "album": "Feedback",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27365d93a3d0c7bbbae90d0150f",
+      "url": "https://open.spotify.com/track/7uyKUBluZJq5ZjuPkbozK7",
+      "durationMs": 231906,
+      "playedAt": "2026-11-18T02:05:41.182Z"
+    },
+    {
+      "name": "A Day At The Races",
+      "artists": [
+        "Jurassic 5",
+        "Percy P",
+        "Big Daddy Kane"
+      ],
+      "album": "Power In Numbers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c416d21ee400e2438cc2c17",
+      "url": "https://open.spotify.com/track/2MERKuoczzjTDqEbgsB48J",
+      "durationMs": 242600,
+      "playedAt": "2026-11-18T02:01:52.289Z"
+    },
+    {
+      "name": "Concrete Schoolyard",
+      "artists": [
+        "Jurassic 5"
+      ],
+      "album": "J5 (Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731200c958dd5659bcab72d2a7",
+      "url": "https://open.spotify.com/track/3J0OszMlEDocWzllz5SnGQ",
+      "durationMs": 321293,
+      "playedAt": "2026-11-18T01:57:52.467Z"
+    },
+    {
+      "name": "What's Golden",
+      "artists": [
+        "Jurassic 5"
+      ],
+      "album": "Power In Numbers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a99e0e8509401d186b6a56f1",
+      "url": "https://open.spotify.com/track/3ptikEjKbpbXvJtOosLMuH",
+      "durationMs": 188560,
+      "playedAt": "2026-11-18T01:52:34.389Z"
+    },
     {
       "name": "Move on Up - Extended Version",
       "artists": [
@@ -67,53 +114,6 @@
       "url": "https://open.spotify.com/track/1PPD0JzK4ODrtuoP7q9YUj",
       "durationMs": 377560,
       "playedAt": "2026-11-15T08:20:20.224Z"
-    },
-    {
-      "name": "London 2 Moscow",
-      "artists": [
-        "Shaolin Cowboy"
-      ],
-      "album": "Catch Feels Get High",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738722809becc151f3f7f1e4b5",
-      "url": "https://open.spotify.com/track/6qr4kojI4w7fXRBncOhSbz",
-      "durationMs": 266441,
-      "playedAt": "2026-11-15T08:14:05.755Z"
-    },
-    {
-      "name": "you should stay right now",
-      "artists": [
-        "Jadu Jadu",
-        "Shaolin Cowboy"
-      ],
-      "album": "you should stay right now",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aad459902270b260925310d7",
-      "url": "https://open.spotify.com/track/2ul09HRValhvcmTzbOjJpm",
-      "durationMs": 221116,
-      "playedAt": "2026-11-15T08:09:42.255Z"
-    },
-    {
-      "name": "Down Like That",
-      "artists": [
-        "Shaolin Cowboy",
-        "AJ Edward"
-      ],
-      "album": "A Story Of Innocence Lost",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27393d589afa3e9e72b1711bb24",
-      "url": "https://open.spotify.com/track/3MdtcNDFyjCP9myw71Ig5L",
-      "durationMs": 263588,
-      "playedAt": "2026-11-15T08:06:04.157Z"
-    },
-    {
-      "name": "The Moment I Dance",
-      "artists": [
-        "GEE LEE",
-        "Shaolin Cowboy"
-      ],
-      "album": "The Moment I Dance",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734e547d19b44b61ef9f4cdbf1",
-      "url": "https://open.spotify.com/track/4T5o16hIVjdvIy06jhsJLG",
-      "durationMs": 158580,
-      "playedAt": "2026-11-15T08:01:43.582Z"
     }
   ],
   "topArtists": [
@@ -121,12 +121,6 @@
       "name": "Gotts Street Park",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebbe1cb95c7d1d2420acfd71fe",
       "url": "https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y",
-      "genres": []
-    },
-    {
-      "name": "The Offline",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
-      "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
       "genres": []
     },
     {
@@ -154,15 +148,21 @@
       "genres": []
     },
     {
-      "name": "The Beginning Of The End",
-      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
-      "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR",
+      "name": "The Offline",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
+      "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
       "genres": []
     },
     {
-      "name": "Quincy Jones",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe79e47fbc540635fd5e18e4d",
-      "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK",
+      "name": "Jurassic 5",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2b867caebf8d276cfed1a62d",
+      "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B",
+      "genres": []
+    },
+    {
+      "name": "The Beginning Of The End",
+      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
+      "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR",
       "genres": []
     }
   ],
@@ -200,6 +200,16 @@
       "durationMs": 167698
     },
     {
+      "name": "Funky Nassau, Pt. 1",
+      "artists": [
+        "The Beginning Of The End"
+      ],
+      "album": "Funky Nassau",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
+      "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg",
+      "durationMs": 186301
+    },
+    {
       "name": "Some Birds Don't Fly",
       "artists": [
         "Gotts Street Park",
@@ -209,16 +219,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
       "url": "https://open.spotify.com/track/71wNnpt69XmZS6OMCt19ca",
       "durationMs": 206480
-    },
-    {
-      "name": "Funky Nassau, Pt. 1",
-      "artists": [
-        "The Beginning Of The End"
-      ],
-      "album": "Funky Nassau",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
-      "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg",
-      "durationMs": 186301
     },
     {
       "name": "Réveiller (feat. manon)",
@@ -243,14 +243,14 @@
       "durationMs": 209866
     },
     {
-      "name": "Les Dunes",
+      "name": "Start",
       "artists": [
-        "The Offline"
+        "Frank Ocean"
       ],
-      "album": "Les Dunes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
-      "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
-      "durationMs": 174813
+      "album": "channel ORANGE",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
+      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
+      "durationMs": 45640
     }
   ],
   "featuredPlaylists": []
