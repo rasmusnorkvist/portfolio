@@ -1,130 +1,116 @@
 {
-  "updatedAt": "2026-11-18T23:50:58.459Z",
-  "nowPlaying": {
-    "name": "Little Willie John - Version",
-    "artists": [
-      "Peter LeMarc"
-    ],
-    "album": "LeMarc - Klassiker",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a3593a634876c6e748fa3424",
-    "url": "https://open.spotify.com/track/7M57AuAeA5M4lnWqpUGRIR",
-    "durationMs": 330240,
-    "isPlaying": true,
-    "progressMs": 8771
-  },
+  "updatedAt": "2026-11-19T05:45:20.492Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Quality Control",
+      "name": "Alla visa män",
       "artists": [
-        "Jurassic 5"
+        "Ebba Grön"
       ],
-      "album": "Quality Control",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f8619920507e963bf5d71779",
-      "url": "https://open.spotify.com/track/3C41w4YPDCfGuxzQNjvk8O",
-      "durationMs": 288866,
-      "playedAt": "2026-11-18T15:32:53.802Z"
+      "album": "Kärlek och uppror",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351bc0fd3287caac4c3a80bcf",
+      "url": "https://open.spotify.com/track/5lhBMc2cSXJeO66AWeL4Ie",
+      "durationMs": 160520,
+      "playedAt": "2026-11-19T02:17:00.022Z"
     },
     {
-      "name": "Work It Out",
+      "name": "Uppgång & fall",
       "artists": [
-        "Jurassic 5",
-        "Dave Matthews Band"
+        "Ebba Grön"
       ],
-      "album": "Feedback",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27365d93a3d0c7bbbae90d0150f",
-      "url": "https://open.spotify.com/track/7uyKUBluZJq5ZjuPkbozK7",
-      "durationMs": 231906,
-      "playedAt": "2026-11-18T02:05:41.182Z"
+      "album": "Ebba Grön",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c00a4450e00bf38c32c686dd",
+      "url": "https://open.spotify.com/track/4jWOrsIKRWCeZ2RVmwxJLl",
+      "durationMs": 229266,
+      "playedAt": "2026-11-19T01:44:32.889Z"
     },
     {
-      "name": "A Day At The Races",
+      "name": "Mental istid",
       "artists": [
-        "Jurassic 5",
-        "Percy P",
-        "Big Daddy Kane"
+        "Ebba Grön"
       ],
-      "album": "Power In Numbers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735c416d21ee400e2438cc2c17",
-      "url": "https://open.spotify.com/track/2MERKuoczzjTDqEbgsB48J",
-      "durationMs": 242600,
-      "playedAt": "2026-11-18T02:01:52.289Z"
+      "album": "Kärlek och uppror",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351bc0fd3287caac4c3a80bcf",
+      "url": "https://open.spotify.com/track/1CV9wtrshNxrGTF8BfyQqk",
+      "durationMs": 183040,
+      "playedAt": "2026-11-19T01:40:46.469Z"
     },
     {
-      "name": "Concrete Schoolyard",
+      "name": "We´re Only In It For The Drugs No. 1",
       "artists": [
-        "Jurassic 5"
+        "Ebba Grön"
       ],
-      "album": "J5 (Deluxe Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731200c958dd5659bcab72d2a7",
-      "url": "https://open.spotify.com/track/3J0OszMlEDocWzllz5SnGQ",
-      "durationMs": 321293,
-      "playedAt": "2026-11-18T01:57:52.467Z"
+      "album": "We´re only in it for the drugs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735923981a7c16949b6401dd15",
+      "url": "https://open.spotify.com/track/7BefwyOUFuhxeJXpyDDHL3",
+      "durationMs": 264266,
+      "playedAt": "2026-11-19T01:37:46.691Z"
     },
     {
-      "name": "What's Golden",
+      "name": "Beväpna er",
       "artists": [
-        "Jurassic 5"
+        "Ebba Grön"
       ],
-      "album": "Power In Numbers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a99e0e8509401d186b6a56f1",
-      "url": "https://open.spotify.com/track/3ptikEjKbpbXvJtOosLMuH",
-      "durationMs": 188560,
-      "playedAt": "2026-11-18T01:52:34.389Z"
+      "album": "We´re only in it for the drugs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735923981a7c16949b6401dd15",
+      "url": "https://open.spotify.com/track/5MqR7SlGg81zgF9IQWdRfC",
+      "durationMs": 203373,
+      "playedAt": "2026-11-19T01:33:25.163Z"
     },
     {
-      "name": "Move on Up - Extended Version",
+      "name": "Mamma pappa barn",
       "artists": [
-        "Curtis Mayfield"
+        "Ebba Grön"
       ],
-      "album": "Curtis (Expanded Edition)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273775a6bee6c704ec29aec00f4",
-      "url": "https://open.spotify.com/track/01gDLZsi0j5fWC28FLPNO8",
-      "durationMs": 535333,
-      "playedAt": "2026-11-16T01:41:10.883Z"
+      "album": "Kärlek och uppror",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351bc0fd3287caac4c3a80bcf",
+      "url": "https://open.spotify.com/track/3MceuXaKnT5szNguqVqDoG",
+      "durationMs": 183013,
+      "playedAt": "2026-11-19T01:30:04.786Z"
     },
     {
-      "name": "Next Time Around",
+      "name": "Flyktsoda",
       "artists": [
-        "Shaolin Cowboy"
+        "Ebba Grön"
       ],
-      "album": "Next Time Around",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738d157eaed085be789e714d33",
-      "url": "https://open.spotify.com/track/2VeoV7wwPojjCmwyvQL6wF",
-      "durationMs": 259347,
-      "playedAt": "2026-11-15T17:33:12.940Z"
+      "album": "Ebba Grön",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c00a4450e00bf38c32c686dd",
+      "url": "https://open.spotify.com/track/7JH5uVkGOGagw5QKL3L4vO",
+      "durationMs": 234840,
+      "playedAt": "2026-11-19T01:27:04.898Z"
     },
     {
-      "name": "Goodbye George",
+      "name": "Staten & kapitalet",
       "artists": [
-        "Shaolin Cowboy"
+        "Ebba Grön"
       ],
-      "album": "A Story Of Innocence Lost",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27393d589afa3e9e72b1711bb24",
-      "url": "https://open.spotify.com/track/0M2ujiwoR4P774drv0CWUa",
-      "durationMs": 268717,
-      "playedAt": "2026-11-15T08:33:59.343Z"
+      "album": "Ebba Grön 1978 - 1982",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c12767a5b413c794d2c5a569",
+      "url": "https://open.spotify.com/track/4bofKUmzk2mYjUlsL3NVeF",
+      "durationMs": 326400,
+      "playedAt": "2026-11-19T01:23:12.957Z"
     },
     {
-      "name": "Stones Dub",
+      "name": "800°",
       "artists": [
-        "Shaolin Cowboy"
+        "Ebba Grön"
       ],
-      "album": "Way Out West, Pt. 1",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273073e86b4b4d37c5aee4a92fa",
-      "url": "https://open.spotify.com/track/0DzappMIH71pU5UaQbYFLh",
-      "durationMs": 255256,
-      "playedAt": "2026-11-15T08:29:33.643Z"
+      "album": "Kärlek och uppror",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351bc0fd3287caac4c3a80bcf",
+      "url": "https://open.spotify.com/track/3zgJHNEorjbLLThp6TiMhz",
+      "durationMs": 227333,
+      "playedAt": "2026-11-19T01:17:49.490Z"
     },
     {
-      "name": "Heads and Tails",
+      "name": "Die Mauer",
       "artists": [
-        "Shaolin Cowboy"
+        "Ebba Grön"
       ],
-      "album": "Heads and Tails",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27311570db9b50d2ea7f3f8947e",
-      "url": "https://open.spotify.com/track/1rr2D7qGnsGHeQZiGxfNfQ",
-      "durationMs": 304186,
-      "playedAt": "2026-11-15T08:25:21.449Z"
+      "album": "Ebba Grön",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c00a4450e00bf38c32c686dd",
+      "url": "https://open.spotify.com/track/524avnOQAmyULv2CjQAmrn",
+      "durationMs": 244573,
+      "playedAt": "2026-11-19T01:14:05.191Z"
     }
   ],
   "topArtists": [
@@ -144,57 +130,37 @@
       "name": "Shaolin Cowboy",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb30171dbe9e6e4d5ee9ed6ce7",
       "url": "https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD",
-      "genres": [
-        "lo-fi house",
-        "jazz house"
-      ]
+      "genres": []
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Marvin Gaye",
       "imageUrl": "https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434",
       "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
-      "genres": [
-        "motown",
-        "classic soul",
-        "soul",
-        "northern soul",
-        "quiet storm"
-      ]
+      "genres": []
     },
     {
       "name": "Jurassic 5",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2b867caebf8d276cfed1a62d",
       "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B",
-      "genres": [
-        "hip hop"
-      ]
+      "genres": []
     },
     {
       "name": "The Beginning Of The End",
       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
       "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR",
-      "genres": [
-        "funk",
-        "classic soul",
-        "jazz funk"
-      ]
+      "genres": []
     },
     {
       "name": "Quincy Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe79e47fbc540635fd5e18e4d",
       "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK",
-      "genres": [
-        "soul jazz",
-        "big band"
-      ]
+      "genres": []
     }
   ],
   "topTracks": [
@@ -210,15 +176,15 @@
       "durationMs": 183520
     },
     {
-      "name": "Flowers",
+      "name": "Réveiller (feat. manon)",
       "artists": [
-        "Gotts Street Park",
-        "Pip Millett"
+        "Shaolin Cowboy",
+        "manon"
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
-      "durationMs": 205720
+      "album": "Réveiller (feat. manon)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273edb1f6dcd264e388165841c5",
+      "url": "https://open.spotify.com/track/51oib6a2dRu2f6x8OMMphQ",
+      "durationMs": 289787
     },
     {
       "name": "Nico's Theme",
@@ -241,6 +207,17 @@
       "durationMs": 186301
     },
     {
+      "name": "Flowers",
+      "artists": [
+        "Gotts Street Park",
+        "Pip Millett"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
+      "durationMs": 205720
+    },
+    {
       "name": "Some Birds Don't Fly",
       "artists": [
         "Gotts Street Park",
@@ -250,17 +227,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
       "url": "https://open.spotify.com/track/71wNnpt69XmZS6OMCt19ca",
       "durationMs": 206480
-    },
-    {
-      "name": "Réveiller (feat. manon)",
-      "artists": [
-        "Shaolin Cowboy",
-        "manon"
-      ],
-      "album": "Réveiller (feat. manon)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273edb1f6dcd264e388165841c5",
-      "url": "https://open.spotify.com/track/51oib6a2dRu2f6x8OMMphQ",
-      "durationMs": 289787
     },
     {
       "name": "Shape Of America",
