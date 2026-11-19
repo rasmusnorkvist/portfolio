@@ -1,7 +1,51 @@
 {
-  "updatedAt": "2026-11-19T15:10:31.948Z",
+  "updatedAt": "2026-11-19T22:43:09.258Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Bajen",
+      "artists": [
+        "Kenta"
+      ],
+      "album": "Kan det va' fel på systemet",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ad2f81e7d954fbce802cad39",
+      "url": "https://open.spotify.com/track/4nwPwI52wuq8OnF5sxlySe",
+      "durationMs": 280040,
+      "playedAt": "2026-11-19T16:47:01.696Z"
+    },
+    {
+      "name": "Staten & kapitalet",
+      "artists": [
+        "Ebba Grön"
+      ],
+      "album": "Ebba Grön 1978 - 1982",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c12767a5b413c794d2c5a569",
+      "url": "https://open.spotify.com/track/4bofKUmzk2mYjUlsL3NVeF",
+      "durationMs": 326400,
+      "playedAt": "2026-11-19T16:42:24.623Z"
+    },
+    {
+      "name": "800°",
+      "artists": [
+        "Ebba Grön"
+      ],
+      "album": "Kärlek och uppror",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351bc0fd3287caac4c3a80bcf",
+      "url": "https://open.spotify.com/track/3zgJHNEorjbLLThp6TiMhz",
+      "durationMs": 227333,
+      "playedAt": "2026-11-19T16:31:48.713Z"
+    },
+    {
+      "name": "Die Mauer",
+      "artists": [
+        "Ebba Grön"
+      ],
+      "album": "Ebba Grön",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c00a4450e00bf38c32c686dd",
+      "url": "https://open.spotify.com/track/524avnOQAmyULv2CjQAmrn",
+      "durationMs": 244573,
+      "playedAt": "2026-11-19T16:28:04.389Z"
+    },
     {
       "name": "Alla visa män",
       "artists": [
@@ -67,50 +111,6 @@
       "url": "https://open.spotify.com/track/3MceuXaKnT5szNguqVqDoG",
       "durationMs": 183013,
       "playedAt": "2026-11-19T01:30:04.786Z"
-    },
-    {
-      "name": "Flyktsoda",
-      "artists": [
-        "Ebba Grön"
-      ],
-      "album": "Ebba Grön",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c00a4450e00bf38c32c686dd",
-      "url": "https://open.spotify.com/track/7JH5uVkGOGagw5QKL3L4vO",
-      "durationMs": 234840,
-      "playedAt": "2026-11-19T01:27:04.898Z"
-    },
-    {
-      "name": "Staten & kapitalet",
-      "artists": [
-        "Ebba Grön"
-      ],
-      "album": "Ebba Grön 1978 - 1982",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c12767a5b413c794d2c5a569",
-      "url": "https://open.spotify.com/track/4bofKUmzk2mYjUlsL3NVeF",
-      "durationMs": 326400,
-      "playedAt": "2026-11-19T01:23:12.957Z"
-    },
-    {
-      "name": "800°",
-      "artists": [
-        "Ebba Grön"
-      ],
-      "album": "Kärlek och uppror",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351bc0fd3287caac4c3a80bcf",
-      "url": "https://open.spotify.com/track/3zgJHNEorjbLLThp6TiMhz",
-      "durationMs": 227333,
-      "playedAt": "2026-11-19T01:17:49.490Z"
-    },
-    {
-      "name": "Die Mauer",
-      "artists": [
-        "Ebba Grön"
-      ],
-      "album": "Ebba Grön",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c00a4450e00bf38c32c686dd",
-      "url": "https://open.spotify.com/track/524avnOQAmyULv2CjQAmrn",
-      "durationMs": 244573,
-      "playedAt": "2026-11-19T01:14:05.191Z"
     }
   ],
   "topArtists": [
