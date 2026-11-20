@@ -1,17 +1,106 @@
 {
-  "updatedAt": "2026-11-19T22:43:09.258Z",
+  "updatedAt": "2026-11-20T03:50:44.640Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Bajen",
+      "name": "Thoughtless Feeling",
       "artists": [
-        "Kenta"
+        "Bloomhaus"
       ],
-      "album": "Kan det va' fel på systemet",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ad2f81e7d954fbce802cad39",
-      "url": "https://open.spotify.com/track/4nwPwI52wuq8OnF5sxlySe",
-      "durationMs": 280040,
-      "playedAt": "2026-11-19T16:47:01.696Z"
+      "album": "Thoughtless Feeling",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d29c0fb09a1bb2422c458ad6",
+      "url": "https://open.spotify.com/track/2NyK5vwOERvp3LU2lNwufk",
+      "durationMs": 244754,
+      "playedAt": "2026-11-20T02:08:28.133Z"
+    },
+    {
+      "name": "Street Life",
+      "artists": [
+        "Randy Crawford"
+      ],
+      "album": "Jackie Brown (Music from the Miramax Motion Picture)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c07df3b0ae16c214ecd796e3",
+      "url": "https://open.spotify.com/track/4CWUGKyUi4aJOq7tF6HAIF",
+      "durationMs": 256613,
+      "playedAt": "2026-11-20T02:04:26.359Z"
+    },
+    {
+      "name": "Teardrops",
+      "artists": [
+        "Womack & Womack"
+      ],
+      "album": "Conscience",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fc4491c53b2f9e3c4b1e547e",
+      "url": "https://open.spotify.com/track/34zDwAdksPXYzGINUT0oW7",
+      "durationMs": 303666,
+      "playedAt": "2026-11-20T02:00:12.835Z"
+    },
+    {
+      "name": "Make Luv",
+      "artists": [
+        "Room 5",
+        "Oliver Cheatham"
+      ],
+      "album": "Music & You",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733e4e6be7009f5481671322e4",
+      "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH",
+      "durationMs": 212413,
+      "playedAt": "2026-11-20T01:55:11.423Z"
+    },
+    {
+      "name": "Boogie Oogie Oogie",
+      "artists": [
+        "A Taste Of Honey"
+      ],
+      "album": "A Taste Of Honey",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731da1b4064fc8eb0d2a65dc97",
+      "url": "https://open.spotify.com/track/1Rl9GHgsflyIVqBRyO45Zo",
+      "durationMs": 245173,
+      "playedAt": "2026-11-20T01:51:42.033Z"
+    },
+    {
+      "name": "Real Love",
+      "artists": [
+        "Drizabone"
+      ],
+      "album": "Conspiracy",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dde3b4245cffcfe26a53b2a9",
+      "url": "https://open.spotify.com/track/639cc3IeyJVop1Wxm57FP3",
+      "durationMs": 315466,
+      "playedAt": "2026-11-20T01:47:39.838Z"
+    },
+    {
+      "name": "Smile",
+      "artists": [
+        "Lily Allen"
+      ],
+      "album": "Alright, Still (Deluxe)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f44ea7ef8d5c793399bae7af",
+      "url": "https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0",
+      "durationMs": 196893,
+      "playedAt": "2026-11-20T01:42:27.421Z"
+    },
+    {
+      "name": "Du tappa dä",
+      "artists": [
+        "Dina Ögon"
+      ],
+      "album": "Människobarn",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a9b2653980b2bb3c1887cc",
+      "url": "https://open.spotify.com/track/2i7HYPaJBVefvd6OwQ2rD2",
+      "durationMs": 191132,
+      "playedAt": "2026-11-20T01:33:35.793Z"
+    },
+    {
+      "name": "My Cherie Amour",
+      "artists": [
+        "Stevie Wonder"
+      ],
+      "album": "My Cherie Amour",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a2b75ce3f397373fb135c1d4",
+      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2",
+      "durationMs": 173306,
+      "playedAt": "2026-11-20T01:30:27.890Z"
     },
     {
       "name": "Staten & kapitalet",
@@ -22,95 +111,7 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c12767a5b413c794d2c5a569",
       "url": "https://open.spotify.com/track/4bofKUmzk2mYjUlsL3NVeF",
       "durationMs": 326400,
-      "playedAt": "2026-11-19T16:42:24.623Z"
-    },
-    {
-      "name": "800°",
-      "artists": [
-        "Ebba Grön"
-      ],
-      "album": "Kärlek och uppror",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351bc0fd3287caac4c3a80bcf",
-      "url": "https://open.spotify.com/track/3zgJHNEorjbLLThp6TiMhz",
-      "durationMs": 227333,
-      "playedAt": "2026-11-19T16:31:48.713Z"
-    },
-    {
-      "name": "Die Mauer",
-      "artists": [
-        "Ebba Grön"
-      ],
-      "album": "Ebba Grön",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c00a4450e00bf38c32c686dd",
-      "url": "https://open.spotify.com/track/524avnOQAmyULv2CjQAmrn",
-      "durationMs": 244573,
-      "playedAt": "2026-11-19T16:28:04.389Z"
-    },
-    {
-      "name": "Alla visa män",
-      "artists": [
-        "Ebba Grön"
-      ],
-      "album": "Kärlek och uppror",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351bc0fd3287caac4c3a80bcf",
-      "url": "https://open.spotify.com/track/5lhBMc2cSXJeO66AWeL4Ie",
-      "durationMs": 160520,
-      "playedAt": "2026-11-19T02:17:00.022Z"
-    },
-    {
-      "name": "Uppgång & fall",
-      "artists": [
-        "Ebba Grön"
-      ],
-      "album": "Ebba Grön",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c00a4450e00bf38c32c686dd",
-      "url": "https://open.spotify.com/track/4jWOrsIKRWCeZ2RVmwxJLl",
-      "durationMs": 229266,
-      "playedAt": "2026-11-19T01:44:32.889Z"
-    },
-    {
-      "name": "Mental istid",
-      "artists": [
-        "Ebba Grön"
-      ],
-      "album": "Kärlek och uppror",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351bc0fd3287caac4c3a80bcf",
-      "url": "https://open.spotify.com/track/1CV9wtrshNxrGTF8BfyQqk",
-      "durationMs": 183040,
-      "playedAt": "2026-11-19T01:40:46.469Z"
-    },
-    {
-      "name": "We´re Only In It For The Drugs No. 1",
-      "artists": [
-        "Ebba Grön"
-      ],
-      "album": "We´re only in it for the drugs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735923981a7c16949b6401dd15",
-      "url": "https://open.spotify.com/track/7BefwyOUFuhxeJXpyDDHL3",
-      "durationMs": 264266,
-      "playedAt": "2026-11-19T01:37:46.691Z"
-    },
-    {
-      "name": "Beväpna er",
-      "artists": [
-        "Ebba Grön"
-      ],
-      "album": "We´re only in it for the drugs",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735923981a7c16949b6401dd15",
-      "url": "https://open.spotify.com/track/5MqR7SlGg81zgF9IQWdRfC",
-      "durationMs": 203373,
-      "playedAt": "2026-11-19T01:33:25.163Z"
-    },
-    {
-      "name": "Mamma pappa barn",
-      "artists": [
-        "Ebba Grön"
-      ],
-      "album": "Kärlek och uppror",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27351bc0fd3287caac4c3a80bcf",
-      "url": "https://open.spotify.com/track/3MceuXaKnT5szNguqVqDoG",
-      "durationMs": 183013,
-      "playedAt": "2026-11-19T01:30:04.786Z"
+      "playedAt": "2026-11-20T01:24:25.093Z"
     }
   ],
   "topArtists": [
@@ -130,37 +131,57 @@
       "name": "Shaolin Cowboy",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb30171dbe9e6e4d5ee9ed6ce7",
       "url": "https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD",
-      "genres": []
+      "genres": [
+        "lo-fi house",
+        "jazz house"
+      ]
     },
     {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Marvin Gaye",
       "imageUrl": "https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434",
       "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
-      "genres": []
+      "genres": [
+        "motown",
+        "classic soul",
+        "soul",
+        "northern soul",
+        "quiet storm"
+      ]
     },
     {
       "name": "Jurassic 5",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2b867caebf8d276cfed1a62d",
       "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B",
-      "genres": []
+      "genres": [
+        "hip hop"
+      ]
     },
     {
       "name": "The Beginning Of The End",
       "imageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
       "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR",
-      "genres": []
+      "genres": [
+        "funk",
+        "classic soul",
+        "jazz funk"
+      ]
     },
     {
       "name": "Quincy Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe79e47fbc540635fd5e18e4d",
       "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK",
-      "genres": []
+      "genres": [
+        "soul jazz",
+        "big band"
+      ]
     }
   ],
   "topTracks": [
