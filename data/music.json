@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-20T12:27:36.581Z",
+  "updatedAt": "2026-11-20T20:38:52.776Z",
   "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Open Your Eyes",
+      "artists": [
+        "Bobby Caldwell"
+      ],
+      "album": "Cat in the Hat",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ace15f34a1ee8a793b135dc",
+      "url": "https://open.spotify.com/track/5TA4he79xD3fpvy0sidiOV",
+      "durationMs": 225493,
+      "playedAt": "2026-11-20T18:22:08.331Z"
+    },
     {
       "name": "Thoughtless Feeling",
       "artists": [
@@ -101,17 +112,6 @@
       "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2",
       "durationMs": 173306,
       "playedAt": "2026-11-20T01:30:27.890Z"
-    },
-    {
-      "name": "Staten & kapitalet",
-      "artists": [
-        "Ebba Grön"
-      ],
-      "album": "Ebba Grön 1978 - 1982",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c12767a5b413c794d2c5a569",
-      "url": "https://open.spotify.com/track/4bofKUmzk2mYjUlsL3NVeF",
-      "durationMs": 326400,
-      "playedAt": "2026-11-20T01:24:25.093Z"
     }
   ],
   "topArtists": [
@@ -198,6 +198,16 @@
       "durationMs": 167698
     },
     {
+      "name": "Funky Nassau, Pt. 1",
+      "artists": [
+        "The Beginning Of The End"
+      ],
+      "album": "Funky Nassau",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
+      "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg",
+      "durationMs": 186301
+    },
+    {
       "name": "Flowers",
       "artists": [
         "Gotts Street Park",
@@ -207,16 +217,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
       "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
       "durationMs": 205720
-    },
-    {
-      "name": "Funky Nassau, Pt. 1",
-      "artists": [
-        "The Beginning Of The End"
-      ],
-      "album": "Funky Nassau",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
-      "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg",
-      "durationMs": 186301
     },
     {
       "name": "Some Birds Don't Fly",
@@ -230,6 +230,16 @@
       "durationMs": 206480
     },
     {
+      "name": "Next Time Around",
+      "artists": [
+        "Shaolin Cowboy"
+      ],
+      "album": "Next Time Around",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738d157eaed085be789e714d33",
+      "url": "https://open.spotify.com/track/2VeoV7wwPojjCmwyvQL6wF",
+      "durationMs": 259347
+    },
+    {
       "name": "Shape Of America",
       "artists": [
         "Gotts Street Park",
@@ -239,16 +249,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
       "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
       "durationMs": 209866
-    },
-    {
-      "name": "Next Time Around",
-      "artists": [
-        "Shaolin Cowboy"
-      ],
-      "album": "Next Time Around",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738d157eaed085be789e714d33",
-      "url": "https://open.spotify.com/track/2VeoV7wwPojjCmwyvQL6wF",
-      "durationMs": 259347
     }
   ],
   "featuredPlaylists": []
