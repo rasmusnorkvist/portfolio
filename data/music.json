@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T03:50:44.640Z",
+  "updatedAt": "2026-11-20T12:27:36.581Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -122,66 +122,46 @@
       "genres": []
     },
     {
+      "name": "Shaolin Cowboy",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb30171dbe9e6e4d5ee9ed6ce7",
+      "url": "https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD",
+      "genres": []
+    },
+    {
+      "name": "Jan Johansson",
+      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
+      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
+      "genres": []
+    },
+    {
       "name": "Frank Ocean",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
       "url": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM",
       "genres": []
     },
     {
-      "name": "Shaolin Cowboy",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb30171dbe9e6e4d5ee9ed6ce7",
-      "url": "https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD",
-      "genres": [
-        "lo-fi house",
-        "jazz house"
-      ]
-    },
-    {
-      "name": "Jan Johansson",
-      "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
-      "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
-    },
-    {
       "name": "Marvin Gaye",
       "imageUrl": "https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434",
       "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
-      "genres": [
-        "motown",
-        "classic soul",
-        "soul",
-        "northern soul",
-        "quiet storm"
-      ]
+      "genres": []
     },
     {
       "name": "Jurassic 5",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2b867caebf8d276cfed1a62d",
       "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B",
-      "genres": [
-        "hip hop"
-      ]
-    },
-    {
-      "name": "The Beginning Of The End",
-      "imageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
-      "url": "https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR",
-      "genres": [
-        "funk",
-        "classic soul",
-        "jazz funk"
-      ]
+      "genres": []
     },
     {
       "name": "Quincy Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe79e47fbc540635fd5e18e4d",
       "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK",
-      "genres": [
-        "soul jazz",
-        "big band"
-      ]
+      "genres": []
+    },
+    {
+      "name": "berlioz",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb3a9ab7733c4e6f95251a806b",
+      "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
+      "genres": []
     }
   ],
   "topTracks": [
@@ -218,16 +198,6 @@
       "durationMs": 167698
     },
     {
-      "name": "Funky Nassau, Pt. 1",
-      "artists": [
-        "The Beginning Of The End"
-      ],
-      "album": "Funky Nassau",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
-      "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg",
-      "durationMs": 186301
-    },
-    {
       "name": "Flowers",
       "artists": [
         "Gotts Street Park",
@@ -237,6 +207,16 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
       "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
       "durationMs": 205720
+    },
+    {
+      "name": "Funky Nassau, Pt. 1",
+      "artists": [
+        "The Beginning Of The End"
+      ],
+      "album": "Funky Nassau",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
+      "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg",
+      "durationMs": 186301
     },
     {
       "name": "Some Birds Don't Fly",
@@ -261,14 +241,14 @@
       "durationMs": 209866
     },
     {
-      "name": "Start",
+      "name": "Next Time Around",
       "artists": [
-        "Frank Ocean"
+        "Shaolin Cowboy"
       ],
-      "album": "channel ORANGE",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737aede4855f6d0d738012e2e5",
-      "url": "https://open.spotify.com/track/0GAE689kVy7sFT2QWZH1Xa",
-      "durationMs": 45640
+      "album": "Next Time Around",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738d157eaed085be789e714d33",
+      "url": "https://open.spotify.com/track/2VeoV7wwPojjCmwyvQL6wF",
+      "durationMs": 259347
     }
   ],
   "featuredPlaylists": []
