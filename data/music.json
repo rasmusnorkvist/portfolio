@@ -1,117 +1,116 @@
 {
-  "updatedAt": "2026-11-20T20:38:52.776Z",
+  "updatedAt": "2026-11-21T01:56:50.713Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Open Your Eyes",
+      "name": "Polska från Medelpad",
       "artists": [
-        "Bobby Caldwell"
+        "Jan Johansson"
       ],
-      "album": "Cat in the Hat",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730ace15f34a1ee8a793b135dc",
-      "url": "https://open.spotify.com/track/5TA4he79xD3fpvy0sidiOV",
-      "durationMs": 225493,
-      "playedAt": "2026-11-20T18:22:08.331Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/35tgywQgB4oOOtB8gp29CM",
+      "durationMs": 150786,
+      "playedAt": "2026-11-21T01:08:35.181Z"
     },
     {
-      "name": "Thoughtless Feeling",
+      "name": "Gånglek från Älvdalen",
       "artists": [
-        "Bloomhaus"
+        "Jan Johansson"
       ],
-      "album": "Thoughtless Feeling",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d29c0fb09a1bb2422c458ad6",
-      "url": "https://open.spotify.com/track/2NyK5vwOERvp3LU2lNwufk",
-      "durationMs": 244754,
-      "playedAt": "2026-11-20T02:08:28.133Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/5xFJjgYxqi2utu8m4yftYY",
+      "durationMs": 118466,
+      "playedAt": "2026-11-21T01:06:04.382Z"
     },
     {
-      "name": "Street Life",
+      "name": "Polska efter Höök Olle",
       "artists": [
-        "Randy Crawford"
+        "Jan Johansson"
       ],
-      "album": "Jackie Brown (Music from the Miramax Motion Picture)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c07df3b0ae16c214ecd796e3",
-      "url": "https://open.spotify.com/track/4CWUGKyUi4aJOq7tF6HAIF",
-      "durationMs": 256613,
-      "playedAt": "2026-11-20T02:04:26.359Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/6QasXgYSJVxXt5tkn0nKvb",
+      "durationMs": 150826,
+      "playedAt": "2026-11-21T01:04:08.985Z"
     },
     {
-      "name": "Teardrops",
+      "name": "Emigrantvisa - Bonus Track",
       "artists": [
-        "Womack & Womack"
+        "Jan Johansson"
       ],
-      "album": "Conscience",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fc4491c53b2f9e3c4b1e547e",
-      "url": "https://open.spotify.com/track/34zDwAdksPXYzGINUT0oW7",
-      "durationMs": 303666,
-      "playedAt": "2026-11-20T02:00:12.835Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/3ESASKYi2hfWtP9WGf7Zlt",
+      "durationMs": 193226,
+      "playedAt": "2026-11-21T01:01:41.087Z"
     },
     {
-      "name": "Make Luv",
+      "name": "Visa från Rättvik",
       "artists": [
-        "Room 5",
-        "Oliver Cheatham"
+        "Jan Johansson"
       ],
-      "album": "Music & You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733e4e6be7009f5481671322e4",
-      "url": "https://open.spotify.com/track/6xXEw4y39shgIp6pacKQFH",
-      "durationMs": 212413,
-      "playedAt": "2026-11-20T01:55:11.423Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/5OfX2H74dOwUjr4Aw6HEiE",
+      "durationMs": 202986,
+      "playedAt": "2026-11-21T00:58:30.883Z"
     },
     {
-      "name": "Boogie Oogie Oogie",
+      "name": "Leksands skänklåt",
       "artists": [
-        "A Taste Of Honey"
+        "Jan Johansson"
       ],
-      "album": "A Taste Of Honey",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731da1b4064fc8eb0d2a65dc97",
-      "url": "https://open.spotify.com/track/1Rl9GHgsflyIVqBRyO45Zo",
-      "durationMs": 245173,
-      "playedAt": "2026-11-20T01:51:42.033Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/6xz1YWi4Fvld47xYDRoh3F",
+      "durationMs": 180813,
+      "playedAt": "2026-11-21T00:55:10.985Z"
     },
     {
-      "name": "Real Love",
+      "name": "Berg-Kirstis polska",
       "artists": [
-        "Drizabone"
+        "Jan Johansson"
       ],
-      "album": "Conspiracy",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dde3b4245cffcfe26a53b2a9",
-      "url": "https://open.spotify.com/track/639cc3IeyJVop1Wxm57FP3",
-      "durationMs": 315466,
-      "playedAt": "2026-11-20T01:47:39.838Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/6mNQG5XYpwSnnnfJDe3CFj",
+      "durationMs": 213986,
+      "playedAt": "2026-11-21T00:52:10.083Z"
     },
     {
-      "name": "Smile",
+      "name": "Gånglek från Älvdalen - Bonus Track",
       "artists": [
-        "Lily Allen"
+        "Jan Johansson"
       ],
-      "album": "Alright, Still (Deluxe)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273f44ea7ef8d5c793399bae7af",
-      "url": "https://open.spotify.com/track/79z9QkhHePTFsSeVw9uyj0",
-      "durationMs": 196893,
-      "playedAt": "2026-11-20T01:42:27.421Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1EKEJcfXIclOm5qfUi7TpA",
+      "durationMs": 118346,
+      "playedAt": "2026-11-21T00:48:39.183Z"
     },
     {
-      "name": "Du tappa dä",
+      "name": "Visa från Utanmyra",
       "artists": [
-        "Dina Ögon"
+        "Jan Johansson"
       ],
-      "album": "Människobarn",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e4a9b2653980b2bb3c1887cc",
-      "url": "https://open.spotify.com/track/2i7HYPaJBVefvd6OwQ2rD2",
-      "durationMs": 191132,
-      "playedAt": "2026-11-20T01:33:35.793Z"
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU",
+      "durationMs": 273800,
+      "playedAt": "2026-11-21T00:46:43.782Z"
     },
     {
-      "name": "My Cherie Amour",
+      "name": "Sweet Like Candy",
       "artists": [
-        "Stevie Wonder"
+        "Camila Cabello"
       ],
-      "album": "My Cherie Amour",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a2b75ce3f397373fb135c1d4",
-      "url": "https://open.spotify.com/track/5ZoDwIP1ntHwciLjydJ8X2",
-      "durationMs": 173306,
-      "playedAt": "2026-11-20T01:30:27.890Z"
+      "album": "Grand Theft Auto VI: The Album",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737f62c9c136c0ab9ef78f2d15",
+      "url": "https://open.spotify.com/track/1QusS0DZ2KK8ukxsAoFZPK",
+      "durationMs": 184875,
+      "playedAt": "2026-11-21T00:42:08.979Z"
     }
   ],
   "topArtists": [
@@ -122,16 +121,21 @@
       "genres": []
     },
     {
-      "name": "Shaolin Cowboy",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb30171dbe9e6e4d5ee9ed6ce7",
-      "url": "https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD",
-      "genres": []
-    },
-    {
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
+    },
+    {
+      "name": "Shaolin Cowboy",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb30171dbe9e6e4d5ee9ed6ce7",
+      "url": "https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD",
+      "genres": [
+        "lo-fi house",
+        "jazz house"
+      ]
     },
     {
       "name": "Frank Ocean",
@@ -143,25 +147,39 @@
       "name": "Marvin Gaye",
       "imageUrl": "https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434",
       "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
-      "genres": []
+      "genres": [
+        "motown",
+        "classic soul",
+        "soul",
+        "northern soul",
+        "quiet storm"
+      ]
     },
     {
       "name": "Jurassic 5",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2b867caebf8d276cfed1a62d",
       "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B",
-      "genres": []
+      "genres": [
+        "hip hop"
+      ]
     },
     {
       "name": "Quincy Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe79e47fbc540635fd5e18e4d",
       "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK",
-      "genres": []
+      "genres": [
+        "soul jazz",
+        "big band"
+      ]
     },
     {
       "name": "berlioz",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb3a9ab7733c4e6f95251a806b",
       "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
-      "genres": []
+      "genres": [
+        "jazz house",
+        "jazz"
+      ]
     }
   ],
   "topTracks": [
@@ -240,15 +258,14 @@
       "durationMs": 259347
     },
     {
-      "name": "Shape Of America",
+      "name": "Gånglek från Älvdalen",
       "artists": [
-        "Gotts Street Park",
-        "Sofia and the Antoinettes"
+        "Jan Johansson"
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
-      "durationMs": 209866
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/5xFJjgYxqi2utu8m4yftYY",
+      "durationMs": 118466
     }
   ],
   "featuredPlaylists": []
