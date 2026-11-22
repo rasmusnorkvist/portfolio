@@ -1,7 +1,98 @@
 {
-  "updatedAt": "2026-11-22T17:57:21.537Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-22T23:21:52.419Z",
+  "nowPlaying": {
+    "name": "Butterfly",
+    "artists": [
+      "Crazy Town"
+    ],
+    "album": "The Gift Of Game",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273be3d60f650c3b9dbad061f7f",
+    "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC",
+    "durationMs": 216733,
+    "isPlaying": true,
+    "progressMs": 106951
+  },
   "recentlyPlayed": [
+    {
+      "name": "Sexy Bitch (feat. Akon)",
+      "artists": [
+        "David Guetta",
+        "Akon"
+      ],
+      "album": "One More Love",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731813115ff10c5f5ae028321d",
+      "url": "https://open.spotify.com/track/2dGxjfhFXDIUX9h5ImyKkE",
+      "durationMs": 195853,
+      "playedAt": "2026-11-22T23:20:08.446Z"
+    },
+    {
+      "name": "Tell Me Why",
+      "artists": [
+        "Gotts Street Park",
+        "Olive Jones"
+      ],
+      "album": "On The Inside",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ffa7cc0ea75c1e23e54ccb9",
+      "url": "https://open.spotify.com/track/7AvuIMRKdo5RvS6YIzXjsj",
+      "durationMs": 231560,
+      "playedAt": "2026-11-22T23:16:55.565Z"
+    },
+    {
+      "name": "Off Of My Mind",
+      "artists": [
+        "Icona Pop",
+        "VIZE"
+      ],
+      "album": "Club Romantech",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731e7e415e457d274ce05ef78e",
+      "url": "https://open.spotify.com/track/7esFExRjP7hB0KRgB3KzCv",
+      "durationMs": 164739,
+      "playedAt": "2026-11-22T23:13:07.087Z"
+    },
+    {
+      "name": "Somebody To Love",
+      "artists": [
+        "Axel Black & White"
+      ],
+      "album": "Somebody To Love",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d34d7b0821d2b7e33df9d7dd",
+      "url": "https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ",
+      "durationMs": 141170,
+      "playedAt": "2026-11-22T23:10:25.282Z"
+    },
+    {
+      "name": "The Adults Are Talking",
+      "artists": [
+        "The Strokes"
+      ],
+      "album": "The New Abnormal",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
+      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
+      "durationMs": 309053,
+      "playedAt": "2026-11-22T23:08:07.182Z"
+    },
+    {
+      "name": "Les Dunes",
+      "artists": [
+        "The Offline"
+      ],
+      "album": "Les Dunes",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
+      "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
+      "durationMs": 174813,
+      "playedAt": "2026-11-22T23:03:01.177Z"
+    },
+    {
+      "name": "The Ghost of Cincinnati",
+      "artists": [
+        "Big Red Machine"
+      ],
+      "album": "How Long Do You Think It's Gonna Last?",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fbab613f887083f7ee11a1de",
+      "url": "https://open.spotify.com/track/4ExhHPs3s16yGz2xkRmgdU",
+      "durationMs": 217133,
+      "playedAt": "2026-11-22T22:59:01.770Z"
+    },
     {
       "name": "The Cool Out",
       "artists": [
@@ -36,87 +127,6 @@
       "url": "https://open.spotify.com/track/4UQXIjiGaLnT1jDVTCsAWk",
       "durationMs": 185000,
       "playedAt": "2026-11-22T02:03:38.751Z"
-    },
-    {
-      "name": "Cheri Cheri Lady",
-      "artists": [
-        "Modern Talking"
-      ],
-      "album": "Let's Talk About Love",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aedd9728f5cc4b13ee49e061",
-      "url": "https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr",
-      "durationMs": 226333,
-      "playedAt": "2026-11-22T02:00:36.845Z"
-    },
-    {
-      "name": "Djalti",
-      "artists": [
-        "Ahmed Malek"
-      ],
-      "album": "Musique Originale De Films: Deuxième Tome (Habibi Funk 027)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e281aa13ec12f896a6c64d7f",
-      "url": "https://open.spotify.com/track/17695WBwK8o7mIlT5fsnrg",
-      "durationMs": 217000,
-      "playedAt": "2026-11-22T01:56:53.441Z"
-    },
-    {
-      "name": "Cosmic Girl - Remastered 2013",
-      "artists": [
-        "Jamiroquai"
-      ],
-      "album": "Travelling Without Moving (Remastered)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736407aa9a5e5215cf554ad5d1",
-      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK",
-      "durationMs": 244146,
-      "playedAt": "2026-11-22T01:53:19.535Z"
-    },
-    {
-      "name": "Back Pocket",
-      "artists": [
-        "Vulfpeck",
-        "Theo Katzman",
-        "Christine Hucal",
-        "Mark Dover"
-      ],
-      "album": "Thrill of the Arts",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba94b5ac9a0771550fe81682",
-      "url": "https://open.spotify.com/track/0tLwe28zupkUQMpoXIDgX2",
-      "durationMs": 181259,
-      "playedAt": "2026-11-22T01:49:18.344Z"
-    },
-    {
-      "name": "Racing in the Street",
-      "artists": [
-        "Bruce Springsteen"
-      ],
-      "album": "Darkness On the Edge of Town",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394971620d6c7f0805855ae6f",
-      "url": "https://open.spotify.com/track/4L6ZmbSmjH5swqGWrelrrN",
-      "durationMs": 416453,
-      "playedAt": "2026-11-22T01:46:20.145Z"
-    },
-    {
-      "name": "Route 66",
-      "artists": [
-        "Chuck Berry"
-      ],
-      "album": "New Juke Box Hits",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739a8c09ffa36c708ce937f75a",
-      "url": "https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ",
-      "durationMs": 171413,
-      "playedAt": "2026-11-22T01:39:26.643Z"
-    },
-    {
-      "name": "Find My Way",
-      "artists": [
-        "Tentendo",
-        "Annalisa Fernandez"
-      ],
-      "album": "Find My Way",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731628026676e2fdff0c0ca2ec",
-      "url": "https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr",
-      "durationMs": 222945,
-      "playedAt": "2026-11-22T01:36:38.247Z"
     }
   ],
   "topArtists": [
