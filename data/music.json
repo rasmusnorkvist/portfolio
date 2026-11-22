@@ -1,18 +1,42 @@
 {
-  "updatedAt": "2026-11-22T02:03:15.794Z",
-  "nowPlaying": {
-    "name": "Upp",
-    "artists": [
-      "Den svenska björnstammen"
-    ],
-    "album": "Upp",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736fae8f009265bfb00c35a020",
-    "url": "https://open.spotify.com/track/4UQXIjiGaLnT1jDVTCsAWk",
-    "durationMs": 185000,
-    "isPlaying": true,
-    "progressMs": 161899
-  },
+  "updatedAt": "2026-11-22T10:02:54.164Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "The Cool Out",
+      "artists": [
+        "Awon",
+        "Phoniks",
+        "Kid Abstrakt"
+      ],
+      "album": "Nothing Less",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a971b9421e5039e5441f8d93",
+      "url": "https://open.spotify.com/track/67Fs8GTZ26ebvE7iL9z6To",
+      "durationMs": 199026,
+      "playedAt": "2026-11-22T02:11:21.660Z"
+    },
+    {
+      "name": "House of the Rising Sun",
+      "artists": [
+        "The Animals"
+      ],
+      "album": "The Singles Plus",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273015c484a7aca592df1a77828",
+      "url": "https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l",
+      "durationMs": 269906,
+      "playedAt": "2026-11-22T02:08:05.633Z"
+    },
+    {
+      "name": "Upp",
+      "artists": [
+        "Den svenska björnstammen"
+      ],
+      "album": "Upp",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736fae8f009265bfb00c35a020",
+      "url": "https://open.spotify.com/track/4UQXIjiGaLnT1jDVTCsAWk",
+      "durationMs": 185000,
+      "playedAt": "2026-11-22T02:03:38.751Z"
+    },
     {
       "name": "Cheri Cheri Lady",
       "artists": [
@@ -93,40 +117,6 @@
       "url": "https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr",
       "durationMs": 222945,
       "playedAt": "2026-11-22T01:36:38.247Z"
-    },
-    {
-      "name": "I and I - Reggae Dub by Doctor Dread",
-      "artists": [
-        "Bob Dylan"
-      ],
-      "album": "The Reggae Remix EP",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27364dd4a06fda00226afe69346",
-      "url": "https://open.spotify.com/track/4gz9k1R71tbFVqtD3e7L8s",
-      "durationMs": 374832,
-      "playedAt": "2026-11-22T01:32:58.331Z"
-    },
-    {
-      "name": "Je survivrai",
-      "artists": [
-        "Michèle Richard"
-      ],
-      "album": "Les années 70",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273672e7826b310432f1b843831",
-      "url": "https://open.spotify.com/track/6v3fLj8kHDReIpSgOjYREa",
-      "durationMs": 210746,
-      "playedAt": "2026-11-22T01:26:46.540Z"
-    },
-    {
-      "name": "Missing - Todd Terry Club Mix / US Radio Edit",
-      "artists": [
-        "Everything But The Girl",
-        "Todd Terry"
-      ],
-      "album": "Amplified Heart",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273202e3b9e622740e2cfee3d70",
-      "url": "https://open.spotify.com/track/5HvLxMeai31mM560lrIITQ",
-      "durationMs": 249533,
-      "playedAt": "2026-11-22T01:23:18.772Z"
     }
   ],
   "topArtists": [
@@ -140,13 +130,18 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Shaolin Cowboy",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb30171dbe9e6e4d5ee9ed6ce7",
       "url": "https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD",
-      "genres": []
+      "genres": [
+        "lo-fi house",
+        "jazz house"
+      ]
     },
     {
       "name": "Frank Ocean",
@@ -158,25 +153,39 @@
       "name": "Marvin Gaye",
       "imageUrl": "https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434",
       "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
-      "genres": []
+      "genres": [
+        "motown",
+        "classic soul",
+        "soul",
+        "northern soul",
+        "quiet storm"
+      ]
     },
     {
       "name": "Jurassic 5",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2b867caebf8d276cfed1a62d",
       "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B",
-      "genres": []
+      "genres": [
+        "hip hop"
+      ]
     },
     {
       "name": "Quincy Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe79e47fbc540635fd5e18e4d",
       "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK",
-      "genres": []
+      "genres": [
+        "soul jazz",
+        "big band"
+      ]
     },
     {
       "name": "berlioz",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb3a9ab7733c4e6f95251a806b",
       "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
-      "genres": []
+      "genres": [
+        "jazz house",
+        "jazz"
+      ]
     }
   ],
   "topTracks": [
