@@ -1,116 +1,132 @@
 {
-  "updatedAt": "2026-11-21T22:00:04.130Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-22T02:03:15.794Z",
+  "nowPlaying": {
+    "name": "Upp",
+    "artists": [
+      "Den svenska björnstammen"
+    ],
+    "album": "Upp",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736fae8f009265bfb00c35a020",
+    "url": "https://open.spotify.com/track/4UQXIjiGaLnT1jDVTCsAWk",
+    "durationMs": 185000,
+    "isPlaying": true,
+    "progressMs": 161899
+  },
   "recentlyPlayed": [
     {
-      "name": "(Sittin' On) the Dock of the Bay",
+      "name": "Cheri Cheri Lady",
       "artists": [
-        "Otis Redding"
+        "Modern Talking"
       ],
-      "album": "Atlantic 60th: Soul, Sweat And Strut",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732c584610c45a37bb87e8a5be",
-      "url": "https://open.spotify.com/track/50uGbeaQIxKiSc7jvRTjWx",
-      "durationMs": 166826,
-      "playedAt": "2026-11-21T17:51:44.276Z"
+      "album": "Let's Talk About Love",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273aedd9728f5cc4b13ee49e061",
+      "url": "https://open.spotify.com/track/2aEuA8PSqLa17Y4hKPj5rr",
+      "durationMs": 226333,
+      "playedAt": "2026-11-22T02:00:36.845Z"
     },
     {
-      "name": "Superstition - Single Version",
+      "name": "Djalti",
       "artists": [
-        "Stevie Wonder"
+        "Ahmed Malek"
       ],
-      "album": "The Definitive Collection",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739e447b59bd3e2cbefaa31d91",
-      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd",
-      "durationMs": 245493,
-      "playedAt": "2026-11-21T17:49:00.477Z"
+      "album": "Musique Originale De Films: Deuxième Tome (Habibi Funk 027)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e281aa13ec12f896a6c64d7f",
+      "url": "https://open.spotify.com/track/17695WBwK8o7mIlT5fsnrg",
+      "durationMs": 217000,
+      "playedAt": "2026-11-22T01:56:53.441Z"
     },
     {
-      "name": "Workin' Day and Night",
+      "name": "Cosmic Girl - Remastered 2013",
       "artists": [
-        "Michael Jackson"
+        "Jamiroquai"
       ],
-      "album": "Off the Wall",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2732b74bf21c7e4f56758610949",
-      "url": "https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX",
-      "durationMs": 312532,
-      "playedAt": "2026-11-21T17:44:58.082Z"
+      "album": "Travelling Without Moving (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736407aa9a5e5215cf554ad5d1",
+      "url": "https://open.spotify.com/track/6y0Etr2KJr0sdcEp7ajoUK",
+      "durationMs": 244146,
+      "playedAt": "2026-11-22T01:53:19.535Z"
     },
     {
-      "name": "I Feel Like Dynamite",
+      "name": "Back Pocket",
       "artists": [
-        "King Floyd"
+        "Vulfpeck",
+        "Theo Katzman",
+        "Christine Hucal",
+        "Mark Dover"
       ],
-      "album": "Well Done",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273694cb1208bfeb24459501a6d",
-      "url": "https://open.spotify.com/track/3icEt2TCIsw0kPZvGRyA5K",
-      "durationMs": 198866,
-      "playedAt": "2026-11-21T17:39:48.476Z"
+      "album": "Thrill of the Arts",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ba94b5ac9a0771550fe81682",
+      "url": "https://open.spotify.com/track/0tLwe28zupkUQMpoXIDgX2",
+      "durationMs": 181259,
+      "playedAt": "2026-11-22T01:49:18.344Z"
     },
     {
-      "name": "I Loves You, Porgy - 2014 - Remaster",
+      "name": "Racing in the Street",
       "artists": [
-        "Nina Simone"
+        "Bruce Springsteen"
       ],
-      "album": "Nina Simone and Her Friends (Remastered 2014)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730c2642a086be104e6373ddfd",
-      "url": "https://open.spotify.com/track/0nQIWIpljdufnG7XEOEbtp",
-      "durationMs": 248223,
-      "playedAt": "2026-11-21T17:36:32.655Z"
+      "album": "Darkness On the Edge of Town",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394971620d6c7f0805855ae6f",
+      "url": "https://open.spotify.com/track/4L6ZmbSmjH5swqGWrelrrN",
+      "durationMs": 416453,
+      "playedAt": "2026-11-22T01:46:20.145Z"
     },
     {
-      "name": "Don't You Worry 'Bout A Thing",
+      "name": "Route 66",
       "artists": [
-        "Stevie Wonder"
+        "Chuck Berry"
       ],
-      "album": "Innervisions",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273ea8ab1a548312b79ac955266",
-      "url": "https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv",
-      "durationMs": 284840,
-      "playedAt": "2026-11-21T17:32:27.457Z"
+      "album": "New Juke Box Hits",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739a8c09ffa36c708ce937f75a",
+      "url": "https://open.spotify.com/track/6TXnGAr6DLVYshIrMeP0lZ",
+      "durationMs": 171413,
+      "playedAt": "2026-11-22T01:39:26.643Z"
     },
     {
-      "name": "Tired of Being Alone",
+      "name": "Find My Way",
       "artists": [
-        "Al Green"
+        "Tentendo",
+        "Annalisa Fernandez"
       ],
-      "album": "Gets Next to You",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fec6bb271749b854c35e5f5c",
-      "url": "https://open.spotify.com/track/10vkYRKw6Jjr7try1ir50G",
-      "durationMs": 172320,
-      "playedAt": "2026-11-21T17:27:45.668Z"
+      "album": "Find My Way",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731628026676e2fdff0c0ca2ec",
+      "url": "https://open.spotify.com/track/3PuprZB2YcBEg8Zg511yvr",
+      "durationMs": 222945,
+      "playedAt": "2026-11-22T01:36:38.247Z"
     },
     {
-      "name": "Remember Who You Are",
+      "name": "I and I - Reggae Dub by Doctor Dread",
       "artists": [
-        "Sly & The Family Stone"
+        "Bob Dylan"
       ],
-      "album": "Back On The Right Track",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27343e7f2651bfcfb151cca8baa",
-      "url": "https://open.spotify.com/track/21zc5vR3zofPz2WZIVLYgJ",
-      "durationMs": 197306,
-      "playedAt": "2026-11-21T17:24:56.371Z"
+      "album": "The Reggae Remix EP",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27364dd4a06fda00226afe69346",
+      "url": "https://open.spotify.com/track/4gz9k1R71tbFVqtD3e7L8s",
+      "durationMs": 374832,
+      "playedAt": "2026-11-22T01:32:58.331Z"
     },
     {
-      "name": "Let's Straighten It Out",
+      "name": "Je survivrai",
       "artists": [
-        "O.V. Wright"
+        "Michèle Richard"
       ],
-      "album": "The Bottom Line",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273430508514505f0e6b27c5512",
-      "url": "https://open.spotify.com/track/12n47FuVsiUGug0xkiGkSc",
-      "durationMs": 232093,
-      "playedAt": "2026-11-21T17:21:42.080Z"
+      "album": "Les années 70",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273672e7826b310432f1b843831",
+      "url": "https://open.spotify.com/track/6v3fLj8kHDReIpSgOjYREa",
+      "durationMs": 210746,
+      "playedAt": "2026-11-22T01:26:46.540Z"
     },
     {
-      "name": "What Am I To You?",
+      "name": "Missing - Todd Terry Club Mix / US Radio Edit",
       "artists": [
-        "Norah Jones"
+        "Everything But The Girl",
+        "Todd Terry"
       ],
-      "album": "Feels Like Home",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27364026be0e09c1beda2f67c32",
-      "url": "https://open.spotify.com/track/0AMKZWRgdFfGYYTxiWrwwH",
-      "durationMs": 210000,
-      "playedAt": "2026-11-21T17:17:52.944Z"
+      "album": "Amplified Heart",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273202e3b9e622740e2cfee3d70",
+      "url": "https://open.spotify.com/track/5HvLxMeai31mM560lrIITQ",
+      "durationMs": 249533,
+      "playedAt": "2026-11-22T01:23:18.772Z"
     }
   ],
   "topArtists": [
