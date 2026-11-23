@@ -1,132 +1,121 @@
 {
-  "updatedAt": "2026-11-22T23:21:52.419Z",
-  "nowPlaying": {
-    "name": "Butterfly",
-    "artists": [
-      "Crazy Town"
-    ],
-    "album": "The Gift Of Game",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273be3d60f650c3b9dbad061f7f",
-    "url": "https://open.spotify.com/track/4BggEwLhGfrbrl7JBhC8EC",
-    "durationMs": 216733,
-    "isPlaying": true,
-    "progressMs": 106951
-  },
+  "updatedAt": "2026-11-23T03:53:02.143Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
     {
-      "name": "Sexy Bitch (feat. Akon)",
+      "name": "Happy Hawaii",
       "artists": [
-        "David Guetta",
-        "Akon"
+        "ABBA"
       ],
-      "album": "One More Love",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731813115ff10c5f5ae028321d",
-      "url": "https://open.spotify.com/track/2dGxjfhFXDIUX9h5ImyKkE",
-      "durationMs": 195853,
-      "playedAt": "2026-11-22T23:20:08.446Z"
+      "album": "Arrival",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0",
+      "url": "https://open.spotify.com/track/1S2B1KJWZyPVu0dKWcG94f",
+      "durationMs": 265760,
+      "playedAt": "2026-11-23T02:07:19.391Z"
     },
     {
-      "name": "Tell Me Why",
+      "name": "Need Someone",
+      "artists": [
+        "Zara Larsson"
+      ],
+      "album": "Poster Girl",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734a612b724a3ab33185698f10",
+      "url": "https://open.spotify.com/track/2rXH6dk75hFUjg81BMJYFD",
+      "durationMs": 177361,
+      "playedAt": "2026-11-23T02:02:56.684Z"
+    },
+    {
+      "name": "Double Dutch Bus",
+      "artists": [
+        "Frankie Smith"
+      ],
+      "album": "Children Of Tomorrow",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736823714669dab181519e7017",
+      "url": "https://open.spotify.com/track/20RHP0KD0gDz7xzmzZCGBo",
+      "durationMs": 320880,
+      "playedAt": "2026-11-23T02:00:02.285Z"
+    },
+    {
+      "name": "Jag hade en gång en båt",
+      "artists": [
+        "Cornelis Vreeswijk",
+        "Ann-Louise Hanson"
+      ],
+      "album": "Grimascher och telegram",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27320dbd435dab83f29a2cef312",
+      "url": "https://open.spotify.com/track/6wewDft59Anfko4X1Ldott",
+      "durationMs": 179600,
+      "playedAt": "2026-11-23T01:54:44.492Z"
+    },
+    {
+      "name": "HYPNOSIS",
+      "artists": [
+        "AYYBO",
+        "ero808"
+      ],
+      "album": "HYPNOSIS",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735a0cce7bca98fd7864567402",
+      "url": "https://open.spotify.com/track/5KFasflYKU9VnMTthjNXNv",
+      "durationMs": 158583,
+      "playedAt": "2026-11-23T01:51:47.889Z"
+    },
+    {
+      "name": "Bye Bye Love",
+      "artists": [
+        "The Everly Brothers"
+      ],
+      "album": "Definitive Pop: The Everly Brothers",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730db54dcb81e26d28775ac366",
+      "url": "https://open.spotify.com/track/0xK34uEDBKa9ZzJ6kelLJE",
+      "durationMs": 142906,
+      "playedAt": "2026-11-23T01:49:12.274Z"
+    },
+    {
+      "name": "Below The Water",
       "artists": [
         "Gotts Street Park",
-        "Olive Jones"
+        "Rosie Lowe"
       ],
-      "album": "On The Inside",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ffa7cc0ea75c1e23e54ccb9",
-      "url": "https://open.spotify.com/track/7AvuIMRKdo5RvS6YIzXjsj",
-      "durationMs": 231560,
-      "playedAt": "2026-11-22T23:16:55.565Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/2YUHZmPfxWC5dWBgKE5EaC",
+      "durationMs": 178200,
+      "playedAt": "2026-11-23T01:43:38.647Z"
     },
     {
-      "name": "Off Of My Mind",
+      "name": "Lay Low",
       "artists": [
-        "Icona Pop",
-        "VIZE"
+        "Gotts Street Park"
       ],
-      "album": "Club Romantech",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731e7e415e457d274ce05ef78e",
-      "url": "https://open.spotify.com/track/7esFExRjP7hB0KRgB3KzCv",
-      "durationMs": 164739,
-      "playedAt": "2026-11-22T23:13:07.087Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/65vxaTREMiyoqVrUFGz3QN",
+      "durationMs": 148186,
+      "playedAt": "2026-11-23T01:40:40.487Z"
     },
     {
-      "name": "Somebody To Love",
+      "name": "Easy",
       "artists": [
-        "Axel Black & White"
+        "Gotts Street Park",
+        "Celeste"
       ],
-      "album": "Somebody To Love",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d34d7b0821d2b7e33df9d7dd",
-      "url": "https://open.spotify.com/track/7AxA87dIJ1FF4l1BQ98ZCZ",
-      "durationMs": 141170,
-      "playedAt": "2026-11-22T23:10:25.282Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/4gt2DKBHZr43un4qtlHx5u",
+      "durationMs": 284973,
+      "playedAt": "2026-11-23T01:38:12.299Z"
     },
     {
-      "name": "The Adults Are Talking",
+      "name": "Shape Of America",
       "artists": [
-        "The Strokes"
+        "Gotts Street Park",
+        "Sofia and the Antoinettes"
       ],
-      "album": "The New Abnormal",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
-      "url": "https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW",
-      "durationMs": 309053,
-      "playedAt": "2026-11-22T23:08:07.182Z"
-    },
-    {
-      "name": "Les Dunes",
-      "artists": [
-        "The Offline"
-      ],
-      "album": "Les Dunes",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731feac8450141fe5c31202bf5",
-      "url": "https://open.spotify.com/track/7aMnGcdZPi9LlkhHCQRPRb",
-      "durationMs": 174813,
-      "playedAt": "2026-11-22T23:03:01.177Z"
-    },
-    {
-      "name": "The Ghost of Cincinnati",
-      "artists": [
-        "Big Red Machine"
-      ],
-      "album": "How Long Do You Think It's Gonna Last?",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fbab613f887083f7ee11a1de",
-      "url": "https://open.spotify.com/track/4ExhHPs3s16yGz2xkRmgdU",
-      "durationMs": 217133,
-      "playedAt": "2026-11-22T22:59:01.770Z"
-    },
-    {
-      "name": "The Cool Out",
-      "artists": [
-        "Awon",
-        "Phoniks",
-        "Kid Abstrakt"
-      ],
-      "album": "Nothing Less",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a971b9421e5039e5441f8d93",
-      "url": "https://open.spotify.com/track/67Fs8GTZ26ebvE7iL9z6To",
-      "durationMs": 199026,
-      "playedAt": "2026-11-22T02:11:21.660Z"
-    },
-    {
-      "name": "House of the Rising Sun",
-      "artists": [
-        "The Animals"
-      ],
-      "album": "The Singles Plus",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273015c484a7aca592df1a77828",
-      "url": "https://open.spotify.com/track/4mn2kNTqiGLwaUR8JdhJ1l",
-      "durationMs": 269906,
-      "playedAt": "2026-11-22T02:08:05.633Z"
-    },
-    {
-      "name": "Upp",
-      "artists": [
-        "Den svenska björnstammen"
-      ],
-      "album": "Upp",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736fae8f009265bfb00c35a020",
-      "url": "https://open.spotify.com/track/4UQXIjiGaLnT1jDVTCsAWk",
-      "durationMs": 185000,
-      "playedAt": "2026-11-22T02:03:38.751Z"
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
+      "durationMs": 209866,
+      "playedAt": "2026-11-23T01:33:27.292Z"
     }
   ],
   "topArtists": [
@@ -167,15 +156,15 @@
       "genres": []
     },
     {
-      "name": "Quincy Jones",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe79e47fbc540635fd5e18e4d",
-      "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK",
+      "name": "The Offline",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
+      "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
       "genres": []
     },
     {
-      "name": "berlioz",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb3a9ab7733c4e6f95251a806b",
-      "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
+      "name": "Quincy Jones",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe79e47fbc540635fd5e18e4d",
+      "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK",
       "genres": []
     }
   ],
@@ -211,16 +200,6 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
       "url": "https://open.spotify.com/track/4zuMNnWY2jRnkacaf5Ar7L",
       "durationMs": 167698
-    },
-    {
-      "name": "Funky Nassau, Pt. 1",
-      "artists": [
-        "The Beginning Of The End"
-      ],
-      "album": "Funky Nassau",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
-      "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg",
-      "durationMs": 186301
     },
     {
       "name": "Flowers",
@@ -263,6 +242,17 @@
       "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
       "url": "https://open.spotify.com/track/5xFJjgYxqi2utu8m4yftYY",
       "durationMs": 118466
+    },
+    {
+      "name": "Shape Of America",
+      "artists": [
+        "Gotts Street Park",
+        "Sofia and the Antoinettes"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
+      "durationMs": 209866
     }
   ],
   "featuredPlaylists": []
