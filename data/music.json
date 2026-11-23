@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T03:53:02.143Z",
+  "updatedAt": "2026-11-23T13:58:42.829Z",
   "nowPlaying": null,
   "recentlyPlayed": [
     {
@@ -129,13 +129,18 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": []
+      "genres": [
+        "jazz"
+      ]
     },
     {
       "name": "Shaolin Cowboy",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb30171dbe9e6e4d5ee9ed6ce7",
       "url": "https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD",
-      "genres": []
+      "genres": [
+        "lo-fi house",
+        "jazz house"
+      ]
     },
     {
       "name": "Frank Ocean",
@@ -147,25 +152,39 @@
       "name": "Marvin Gaye",
       "imageUrl": "https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434",
       "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
-      "genres": []
+      "genres": [
+        "motown",
+        "classic soul",
+        "soul",
+        "northern soul",
+        "quiet storm"
+      ]
     },
     {
       "name": "Jurassic 5",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2b867caebf8d276cfed1a62d",
       "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B",
-      "genres": []
+      "genres": [
+        "hip hop"
+      ]
     },
     {
       "name": "The Offline",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
       "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": []
+      "genres": [
+        "jazz house",
+        "jazz beats"
+      ]
     },
     {
       "name": "Quincy Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe79e47fbc540635fd5e18e4d",
       "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK",
-      "genres": []
+      "genres": [
+        "soul jazz",
+        "big band"
+      ]
     }
   ],
   "topTracks": [
