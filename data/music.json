@@ -1,19 +1,100 @@
 {
-  "updatedAt": "2026-11-24T01:33:24.937Z",
-  "nowPlaying": {
-    "name": "Drop It Like It's Hot",
-    "artists": [
-      "Snoop Dogg",
-      "Pharrell Williams"
-    ],
-    "album": "R&G (Rhythm & Gangsta): The Masterpiece",
-    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e803716268c173c3f9a0c057",
-    "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO",
-    "durationMs": 266066,
-    "isPlaying": true,
-    "progressMs": 136281
-  },
+  "updatedAt": "2026-11-24T11:57:26.556Z",
+  "nowPlaying": null,
   "recentlyPlayed": [
+    {
+      "name": "Sometimes It Hurts",
+      "artists": [
+        "Dojo Cuts",
+        "Roxie Ray"
+      ],
+      "album": "Take from Me",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273a93e47edcb132f85ca7fec7c",
+      "url": "https://open.spotify.com/track/2b0Db9h4Z7F2ha36YbhTtr",
+      "durationMs": 307333,
+      "playedAt": "2026-11-24T03:11:56.805Z"
+    },
+    {
+      "name": "Hot Shot",
+      "artists": [
+        "Saun & Starr"
+      ],
+      "album": "Look Closer",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27394a30a193afcd228a72e3e4c",
+      "url": "https://open.spotify.com/track/39DKVXSa1NaJXo9Ud4G4Io",
+      "durationMs": 211413,
+      "playedAt": "2026-11-24T03:06:52.397Z"
+    },
+    {
+      "name": "You Can't Turn Me Away - Mixed",
+      "artists": [
+        "Sylvia Striplin"
+      ],
+      "album": "DJ-Kicks (Kerri Chandler) [Mixed Tracks]",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733facf3c88a23d6c03481f270",
+      "url": "https://open.spotify.com/track/4XpD7qbf71xRMKBjhxrE4W",
+      "durationMs": 286665,
+      "playedAt": "2026-11-24T03:03:24.005Z"
+    },
+    {
+      "name": "Bad Bad News",
+      "artists": [
+        "Leon Bridges"
+      ],
+      "album": "Good Thing",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d8ba7edac14684336ba0f507",
+      "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg",
+      "durationMs": 207309,
+      "playedAt": "2026-11-24T02:58:40.397Z"
+    },
+    {
+      "name": "Juicy - 2005 Remaster",
+      "artists": [
+        "The Notorious B.I.G."
+      ],
+      "album": "Ready to Die (The Remaster; 2015 Remaster)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273dde04ab1a3c256602de5b2e7",
+      "url": "https://open.spotify.com/track/3xX9hoGEq1EuMGWZl8LQL1",
+      "durationMs": 302760,
+      "playedAt": "2026-11-24T02:09:21.008Z"
+    },
+    {
+      "name": "Hate It Or Love It",
+      "artists": [
+        "The Game",
+        "50 Cent"
+      ],
+      "album": "The Documentary",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d",
+      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R",
+      "durationMs": 206400,
+      "playedAt": "2026-11-24T01:41:52.342Z"
+    },
+    {
+      "name": "What's The Difference",
+      "artists": [
+        "Dr. Dre",
+        "Eminem",
+        "Xzibit"
+      ],
+      "album": "2001",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5",
+      "url": "https://open.spotify.com/track/1SWVDBtw6h3tm9OehOkDhv",
+      "durationMs": 244200,
+      "playedAt": "2026-11-24T01:39:35.770Z"
+    },
+    {
+      "name": "Drop It Like It's Hot",
+      "artists": [
+        "Snoop Dogg",
+        "Pharrell Williams"
+      ],
+      "album": "R&G (Rhythm & Gangsta): The Masterpiece",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e803716268c173c3f9a0c057",
+      "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO",
+      "durationMs": 266066,
+      "playedAt": "2026-11-24T01:35:34.460Z"
+    },
     {
       "name": "In Da Club",
       "artists": [
@@ -35,103 +116,6 @@
       "url": "https://open.spotify.com/track/1MaI6NwdrqnE3mRzOYTpoo",
       "durationMs": 217200,
       "playedAt": "2026-11-24T01:28:00.954Z"
-    },
-    {
-      "name": "No Diggity",
-      "artists": [
-        "Blackstreet",
-        "Dr. Dre",
-        "Queen Pen"
-      ],
-      "album": "Another Level",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27303ca37157b9ceefbe8fe225b",
-      "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ",
-      "durationMs": 304600,
-      "playedAt": "2026-11-24T01:24:26.713Z"
-    },
-    {
-      "name": "I Got Five On It Remix",
-      "artists": [
-        "Spice 1",
-        "E-40",
-        "Luniz",
-        "Mike Marshall",
-        "Shock G"
-      ],
-      "album": "Hits II",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c6063f7392234f162ff1e5b5",
-      "url": "https://open.spotify.com/track/5nHtgUvx4k3FLYDHx7NAs7",
-      "durationMs": 254560,
-      "playedAt": "2026-11-24T01:19:25.260Z"
-    },
-    {
-      "name": "X Gon' Give It To Ya",
-      "artists": [
-        "DMX"
-      ],
-      "album": "The Definition Of X: Pick Of The Litter",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27301a6faf91e207748e8e32e0a",
-      "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb",
-      "durationMs": 217586,
-      "playedAt": "2026-11-24T01:15:13.665Z"
-    },
-    {
-      "name": "How We Do",
-      "artists": [
-        "The Game",
-        "50 Cent"
-      ],
-      "album": "The Documentary",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d",
-      "url": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p",
-      "durationMs": 235533,
-      "playedAt": "2026-11-24T01:11:39.060Z"
-    },
-    {
-      "name": "Ob-La-Di, Ob-La-Da - Remastered 2009",
-      "artists": [
-        "The Beatles"
-      ],
-      "album": "The Beatles (Remastered 2009)",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
-      "url": "https://open.spotify.com/track/1gFNm7cXfG1vSMcxPpSxec",
-      "durationMs": 188960,
-      "playedAt": "2026-11-24T01:07:46.406Z"
-    },
-    {
-      "name": "Gangsta's Paradise",
-      "artists": [
-        "Coolio",
-        "L.V."
-      ],
-      "album": "Gangsta's Paradise",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737438996f6fe67c59d75d4e43",
-      "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
-      "durationMs": 240693,
-      "playedAt": "2026-11-24T01:04:21.260Z"
-    },
-    {
-      "name": "P.I.M.P.",
-      "artists": [
-        "50 Cent"
-      ],
-      "album": "Get Rich Or Die Tryin'",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae",
-      "url": "https://open.spotify.com/track/3G0yz3DZn3lfraledmBCT0",
-      "durationMs": 249480,
-      "playedAt": "2026-11-24T01:00:23.561Z"
-    },
-    {
-      "name": "The Next Episode",
-      "artists": [
-        "Dr. Dre",
-        "Snoop Dogg"
-      ],
-      "album": "2001",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5",
-      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC",
-      "durationMs": 161506,
-      "playedAt": "2026-11-24T00:56:16.256Z"
     }
   ],
   "topArtists": [
