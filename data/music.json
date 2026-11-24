@@ -1,121 +1,137 @@
 {
-  "updatedAt": "2026-11-23T13:58:42.829Z",
-  "nowPlaying": null,
+  "updatedAt": "2026-11-24T01:33:24.937Z",
+  "nowPlaying": {
+    "name": "Drop It Like It's Hot",
+    "artists": [
+      "Snoop Dogg",
+      "Pharrell Williams"
+    ],
+    "album": "R&G (Rhythm & Gangsta): The Masterpiece",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e803716268c173c3f9a0c057",
+    "url": "https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO",
+    "durationMs": 266066,
+    "isPlaying": true,
+    "progressMs": 136281
+  },
   "recentlyPlayed": [
     {
-      "name": "Happy Hawaii",
+      "name": "In Da Club",
       "artists": [
-        "ABBA"
+        "50 Cent"
       ],
-      "album": "Arrival",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27370f7a1b35d5165c85b95a0e0",
-      "url": "https://open.spotify.com/track/1S2B1KJWZyPVu0dKWcG94f",
-      "durationMs": 265760,
-      "playedAt": "2026-11-23T02:07:19.391Z"
+      "album": "Get Rich Or Die Tryin'",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae",
+      "url": "https://open.spotify.com/track/7iL6o9tox1zgHpKUfh9vuC",
+      "durationMs": 193466,
+      "playedAt": "2026-11-24T01:31:11.361Z"
     },
     {
-      "name": "Need Someone",
+      "name": "Bomb Intro / Pass That Dutch",
       "artists": [
-        "Zara Larsson"
+        "Missy Elliott"
       ],
-      "album": "Poster Girl",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734a612b724a3ab33185698f10",
-      "url": "https://open.spotify.com/track/2rXH6dk75hFUjg81BMJYFD",
-      "durationMs": 177361,
-      "playedAt": "2026-11-23T02:02:56.684Z"
+      "album": "This Is Not a Test!",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2733e689561b438186f17cc190e",
+      "url": "https://open.spotify.com/track/1MaI6NwdrqnE3mRzOYTpoo",
+      "durationMs": 217200,
+      "playedAt": "2026-11-24T01:28:00.954Z"
     },
     {
-      "name": "Double Dutch Bus",
+      "name": "No Diggity",
       "artists": [
-        "Frankie Smith"
+        "Blackstreet",
+        "Dr. Dre",
+        "Queen Pen"
       ],
-      "album": "Children Of Tomorrow",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736823714669dab181519e7017",
-      "url": "https://open.spotify.com/track/20RHP0KD0gDz7xzmzZCGBo",
-      "durationMs": 320880,
-      "playedAt": "2026-11-23T02:00:02.285Z"
+      "album": "Another Level",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27303ca37157b9ceefbe8fe225b",
+      "url": "https://open.spotify.com/track/6MdqqkQ8sSC0WB4i8PyRuQ",
+      "durationMs": 304600,
+      "playedAt": "2026-11-24T01:24:26.713Z"
     },
     {
-      "name": "Jag hade en gång en båt",
+      "name": "I Got Five On It Remix",
       "artists": [
-        "Cornelis Vreeswijk",
-        "Ann-Louise Hanson"
+        "Spice 1",
+        "E-40",
+        "Luniz",
+        "Mike Marshall",
+        "Shock G"
       ],
-      "album": "Grimascher och telegram",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27320dbd435dab83f29a2cef312",
-      "url": "https://open.spotify.com/track/6wewDft59Anfko4X1Ldott",
-      "durationMs": 179600,
-      "playedAt": "2026-11-23T01:54:44.492Z"
+      "album": "Hits II",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273c6063f7392234f162ff1e5b5",
+      "url": "https://open.spotify.com/track/5nHtgUvx4k3FLYDHx7NAs7",
+      "durationMs": 254560,
+      "playedAt": "2026-11-24T01:19:25.260Z"
     },
     {
-      "name": "HYPNOSIS",
+      "name": "X Gon' Give It To Ya",
       "artists": [
-        "AYYBO",
-        "ero808"
+        "DMX"
       ],
-      "album": "HYPNOSIS",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2735a0cce7bca98fd7864567402",
-      "url": "https://open.spotify.com/track/5KFasflYKU9VnMTthjNXNv",
-      "durationMs": 158583,
-      "playedAt": "2026-11-23T01:51:47.889Z"
+      "album": "The Definition Of X: Pick Of The Litter",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27301a6faf91e207748e8e32e0a",
+      "url": "https://open.spotify.com/track/1zzxoZVylsna2BQB65Ppcb",
+      "durationMs": 217586,
+      "playedAt": "2026-11-24T01:15:13.665Z"
     },
     {
-      "name": "Bye Bye Love",
+      "name": "How We Do",
       "artists": [
-        "The Everly Brothers"
+        "The Game",
+        "50 Cent"
       ],
-      "album": "Definitive Pop: The Everly Brothers",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2730db54dcb81e26d28775ac366",
-      "url": "https://open.spotify.com/track/0xK34uEDBKa9ZzJ6kelLJE",
-      "durationMs": 142906,
-      "playedAt": "2026-11-23T01:49:12.274Z"
+      "album": "The Documentary",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273b1d860ab1ba847e778b2796d",
+      "url": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p",
+      "durationMs": 235533,
+      "playedAt": "2026-11-24T01:11:39.060Z"
     },
     {
-      "name": "Below The Water",
+      "name": "Ob-La-Di, Ob-La-Da - Remastered 2009",
       "artists": [
-        "Gotts Street Park",
-        "Rosie Lowe"
+        "The Beatles"
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/2YUHZmPfxWC5dWBgKE5EaC",
-      "durationMs": 178200,
-      "playedAt": "2026-11-23T01:43:38.647Z"
+      "album": "The Beatles (Remastered 2009)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
+      "url": "https://open.spotify.com/track/1gFNm7cXfG1vSMcxPpSxec",
+      "durationMs": 188960,
+      "playedAt": "2026-11-24T01:07:46.406Z"
     },
     {
-      "name": "Lay Low",
+      "name": "Gangsta's Paradise",
       "artists": [
-        "Gotts Street Park"
+        "Coolio",
+        "L.V."
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/65vxaTREMiyoqVrUFGz3QN",
-      "durationMs": 148186,
-      "playedAt": "2026-11-23T01:40:40.487Z"
+      "album": "Gangsta's Paradise",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737438996f6fe67c59d75d4e43",
+      "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "durationMs": 240693,
+      "playedAt": "2026-11-24T01:04:21.260Z"
     },
     {
-      "name": "Easy",
+      "name": "P.I.M.P.",
       "artists": [
-        "Gotts Street Park",
-        "Celeste"
+        "50 Cent"
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/4gt2DKBHZr43un4qtlHx5u",
-      "durationMs": 284973,
-      "playedAt": "2026-11-23T01:38:12.299Z"
+      "album": "Get Rich Or Die Tryin'",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273d843fabb75fef14010e30cae",
+      "url": "https://open.spotify.com/track/3G0yz3DZn3lfraledmBCT0",
+      "durationMs": 249480,
+      "playedAt": "2026-11-24T01:00:23.561Z"
     },
     {
-      "name": "Shape Of America",
+      "name": "The Next Episode",
       "artists": [
-        "Gotts Street Park",
-        "Sofia and the Antoinettes"
+        "Dr. Dre",
+        "Snoop Dogg"
       ],
-      "album": "Somewhere Between",
-      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
-      "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
-      "durationMs": 209866,
-      "playedAt": "2026-11-23T01:33:27.292Z"
+      "album": "2001",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739b19c107109de740bad72df5",
+      "url": "https://open.spotify.com/track/4LwU4Vp6od3Sb08CsP99GC",
+      "durationMs": 161506,
+      "playedAt": "2026-11-24T00:56:16.256Z"
     }
   ],
   "topArtists": [
@@ -129,18 +145,25 @@
       "name": "Jan Johansson",
       "imageUrl": "https://i.scdn.co/image/ab6772690000c46c716d5f8f559b25146d633c15",
       "url": "https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf",
-      "genres": [
-        "jazz"
-      ]
+      "genres": []
     },
     {
       "name": "Shaolin Cowboy",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb30171dbe9e6e4d5ee9ed6ce7",
       "url": "https://open.spotify.com/artist/3SLV96o2Xa4oOZpSl5FwgD",
-      "genres": [
-        "lo-fi house",
-        "jazz house"
-      ]
+      "genres": []
+    },
+    {
+      "name": "Marvin Gaye",
+      "imageUrl": "https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434",
+      "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
+      "genres": []
+    },
+    {
+      "name": "Jurassic 5",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2b867caebf8d276cfed1a62d",
+      "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B",
+      "genres": []
     },
     {
       "name": "Frank Ocean",
@@ -149,42 +172,16 @@
       "genres": []
     },
     {
-      "name": "Marvin Gaye",
-      "imageUrl": "https://i.scdn.co/image/cf79bd3e5c787e2ec152eeb1ea5538b0d4cf1434",
-      "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA",
-      "genres": [
-        "motown",
-        "classic soul",
-        "soul",
-        "northern soul",
-        "quiet storm"
-      ]
-    },
-    {
-      "name": "Jurassic 5",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb2b867caebf8d276cfed1a62d",
-      "url": "https://open.spotify.com/artist/6wFId9Jhuf9AKVzWboOj2B",
-      "genres": [
-        "hip hop"
-      ]
-    },
-    {
-      "name": "The Offline",
-      "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe28d126e6a987488d1fcca63",
-      "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9",
-      "genres": [
-        "jazz house",
-        "jazz beats"
-      ]
-    },
-    {
       "name": "Quincy Jones",
       "imageUrl": "https://i.scdn.co/image/ab6761610000e5ebe79e47fbc540635fd5e18e4d",
       "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK",
-      "genres": [
-        "soul jazz",
-        "big band"
-      ]
+      "genres": []
+    },
+    {
+      "name": "berlioz",
+      "imageUrl": "https://i.scdn.co/image/ab6761610000e5eb3a9ab7733c4e6f95251a806b",
+      "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141",
+      "genres": []
     }
   ],
   "topTracks": [
