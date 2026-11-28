@@ -1,7 +1,132 @@
 {
-  "updatedAt": "2026-11-27T19:19:21.456Z",
-  "nowPlaying": null,
-  "recentlyPlayed": [],
+  "updatedAt": "2026-11-28T02:05:12.685Z",
+  "nowPlaying": {
+    "name": "Eiffeltornet",
+    "artists": [
+      "Ted Gärdestad"
+    ],
+    "album": "Upptåg (Remastered 2009)",
+    "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737baf230f45a23bdc372bbd7f",
+    "url": "https://open.spotify.com/track/1bqIqDtDl9BJYKwppd9bbK",
+    "durationMs": 186920,
+    "isPlaying": true,
+    "progressMs": 4355
+  },
+  "recentlyPlayed": [
+    {
+      "name": "California Gurls",
+      "artists": [
+        "Katy Perry",
+        "Snoop Dogg"
+      ],
+      "album": "Teenage Dream: The Complete Confection",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273937af329667311f4b2831616",
+      "url": "https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi",
+      "durationMs": 234653,
+      "playedAt": "2026-11-28T02:01:34.772Z"
+    },
+    {
+      "name": "Saint-Tropez",
+      "artists": [
+        "Post Malone"
+      ],
+      "album": "Hollywood's Bleeding",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2739478c87599550dd73bfa7e02",
+      "url": "https://open.spotify.com/track/05mDaV9Vb3wrzjF6OPZnhq",
+      "durationMs": 150866,
+      "playedAt": "2026-11-28T01:57:43.172Z"
+    },
+    {
+      "name": "Back In The U.S.S.R. - Remastered 2009",
+      "artists": [
+        "The Beatles"
+      ],
+      "album": "The Beatles (Remastered 2009)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2734ce8b4e42588bf18182a1ad2",
+      "url": "https://open.spotify.com/track/0j3p1p06deJ7f9xmJ9yG22",
+      "durationMs": 163453,
+      "playedAt": "2026-11-28T01:55:15.266Z"
+    },
+    {
+      "name": "Vienna",
+      "artists": [
+        "Billy Joel"
+      ],
+      "album": "The Stranger (Legacy Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2736ce61113662ecf693b605ee5",
+      "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7",
+      "durationMs": 214240,
+      "playedAt": "2026-11-28T01:52:34.842Z"
+    },
+    {
+      "name": "N.Y. State of Mind",
+      "artists": [
+        "Nas"
+      ],
+      "album": "Illmatic",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27371d840defb002ed3b180f7cd",
+      "url": "https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo",
+      "durationMs": 294081,
+      "playedAt": "2026-11-28T01:49:03.604Z"
+    },
+    {
+      "name": "New York, New York",
+      "artists": [
+        "Frank Sinatra",
+        "Tony Bennett"
+      ],
+      "album": "Duets (20th Anniversary Deluxe Edition)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273062b0726843ce4aedc70162e",
+      "url": "https://open.spotify.com/track/4NdzFKsviXMxchKjzPhnKW",
+      "durationMs": 210360,
+      "playedAt": "2026-11-28T01:44:12.573Z"
+    },
+    {
+      "name": "New York State of Mind",
+      "artists": [
+        "Billy Joel"
+      ],
+      "album": "Turnstiles",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273e3cab24fffc10781baa66287",
+      "url": "https://open.spotify.com/track/6yjKlmm7vOszkXEUku1EM1",
+      "durationMs": 363286,
+      "playedAt": "2026-11-28T01:40:45.250Z"
+    },
+    {
+      "name": "Empire State Of Mind",
+      "artists": [
+        "JAŸ-Z",
+        "Alicia Keys"
+      ],
+      "album": "The Blueprint 3",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273fec1b815bb3c50a64a90fd10",
+      "url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
+      "durationMs": 276920,
+      "playedAt": "2026-11-28T01:34:39.253Z"
+    },
+    {
+      "name": "Kokomo",
+      "artists": [
+        "The Beach Boys"
+      ],
+      "album": "80s Songs",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2731a084ded45b82a14264bc786",
+      "url": "https://open.spotify.com/track/1fiorGW4O4s6vpFhbdc7EV",
+      "durationMs": 215186,
+      "playedAt": "2026-11-28T01:30:05.373Z"
+    },
+    {
+      "name": "Surfin' U.S.A. - Remastered 2001",
+      "artists": [
+        "The Beach Boys"
+      ],
+      "album": "Surfin' USA (Remastered)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2737cb33b8fab5302942e6a78fb",
+      "url": "https://open.spotify.com/track/0wz1LjDb9ZNEYwOmDJ3Q4b",
+      "durationMs": 149373,
+      "playedAt": "2026-11-28T01:26:33.166Z"
+    }
+  ],
   "topArtists": [
     {
       "name": "Gotts Street Park",
@@ -52,6 +177,91 @@
       "genres": []
     }
   ],
-  "topTracks": [],
+  "topTracks": [
+    {
+      "name": "Wake Me Up",
+      "artists": [
+        "Gotts Street Park",
+        "Olive Jones"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/1PADgJaScdTMTCfjxVXfhZ",
+      "durationMs": 183520
+    },
+    {
+      "name": "Réveiller (feat. manon)",
+      "artists": [
+        "Shaolin Cowboy",
+        "manon"
+      ],
+      "album": "Réveiller (feat. manon)",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273edb1f6dcd264e388165841c5",
+      "url": "https://open.spotify.com/track/51oib6a2dRu2f6x8OMMphQ",
+      "durationMs": 289787
+    },
+    {
+      "name": "Nico's Theme",
+      "artists": [
+        "Gotts Street Park"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/4zuMNnWY2jRnkacaf5Ar7L",
+      "durationMs": 167698
+    },
+    {
+      "name": "Flowers",
+      "artists": [
+        "Gotts Street Park",
+        "Pip Millett"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6GajDyFJHM8Zu0Ix1l7ih0",
+      "durationMs": 205720
+    },
+    {
+      "name": "Next Time Around",
+      "artists": [
+        "Shaolin Cowboy"
+      ],
+      "album": "Next Time Around",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b2738d157eaed085be789e714d33",
+      "url": "https://open.spotify.com/track/2VeoV7wwPojjCmwyvQL6wF",
+      "durationMs": 259347
+    },
+    {
+      "name": "Gånglek från Älvdalen",
+      "artists": [
+        "Jan Johansson"
+      ],
+      "album": "Jazz på svenska",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27334190c904a52720a3ffcad76",
+      "url": "https://open.spotify.com/track/5xFJjgYxqi2utu8m4yftYY",
+      "durationMs": 118466
+    },
+    {
+      "name": "Shape Of America",
+      "artists": [
+        "Gotts Street Park",
+        "Sofia and the Antoinettes"
+      ],
+      "album": "Somewhere Between",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b27380e79e1e4aa993c0302bf9c5",
+      "url": "https://open.spotify.com/track/6ET37KSyZN4tlJDFRbvKRO",
+      "durationMs": 209866
+    },
+    {
+      "name": "Funky Nassau, Pt. 1",
+      "artists": [
+        "The Beginning Of The End"
+      ],
+      "album": "Funky Nassau",
+      "albumImageUrl": "https://i.scdn.co/image/ab67616d0000b273284af40b44c3a7ff32bb3258",
+      "url": "https://open.spotify.com/track/6OymZ7ZOficHvs1GTJXsGg",
+      "durationMs": 186301
+    }
+  ],
   "featuredPlaylists": []
 }
